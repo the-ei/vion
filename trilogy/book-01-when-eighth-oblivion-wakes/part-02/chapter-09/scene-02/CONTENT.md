@@ -6,7 +6,7 @@ The kitchen was warm, steam rising from the pot on the stove, the small table al
 
 "Phone down," Denise said, not looking up from the serving. "You know the rules."
 
-DeShawn sighed the sigh of generations of teenagers and placed the phone face-down on the table. He was seventeen now, broad-shouldered like his father had been, with Denise's precise features and her mother's high cheekbones. He was beautiful, Jerome thought, watching his son reach for the parmesan. Beautiful and becoming a stranger, day by day, in the way sons became strangers to their fathers.
+DeShawn sighed the sigh of generations of teenagers and placed the phone face-down on the table. He was seventeen now, broad-shouldered like his father had been, with Denise's precise features and her mother's high cheekbones. He was beautiful, Jerome thought, watching his son reach for the parmesan with those long fingers that had been so small once. Beautiful and becoming a stranger, day by day, in the way sons became strangers to their fathers—not through conflict but through the simple accumulation of separate lives.
 
 
 ---
@@ -21,7 +21,7 @@ Jerome felt his attention sharpen, the name landing like a stone in still water.
 
 "That sounds—" Jerome paused, choosing words. "Impressive."
 
-"It's actually not that hard. The APIs do most of the work. You just have to know how to talk to them." DeShawn grinned, the expression achingly young. "Basically, Prometheus built the brain. I'm just building the face."
+"It's actually not that hard. The APIs do most of the work. You just have to know how to talk to them." DeShawn grinned, the expression achingly young. "Basically, Prometheus built the brain. I'm just building the face." He said it lightly, proudly, with no sense of what those words meant to his father.
 
 Jerome wanted to ask more. He wanted to ask what data the APIs required, what permissions they requested, what happened to the information that flowed through them. He wanted to explain what he'd spent the day reading, the scope of what Prometheus might actually be. But Denise was watching him, her gaze carrying a warning he recognized: don't turn dinner into an interrogation. Don't make this about your work.
 
@@ -36,7 +36,7 @@ The meal continued in the rhythm of their household. Denise talked about her day
 
 Denise noticed. She always noticed. It was one of the things that had drawn him to her, twenty-three years ago when they'd met at a conference where she was presenting on civil rights history and he was covering the story for the Sun. She had looked at him across a crowded room and seen something true, and she had kept seeing it ever since, even when what she saw disappointed her.
 
-"You're somewhere else tonight," she said, not accusatory, just stating fact.
+"You're somewhere else tonight," she said, not accusatory—she had given up accusation years ago—just stating fact.
 
 "I'm sorry. New project. It's—" He stopped. He didn't know how to explain what he didn't yet understand. "It might be something."
 
@@ -83,7 +83,7 @@ He didn't have an answer. He couldn't have an answer, not yet. "I don't know."
 
 "Then find out," she said. "But find out fast. This family can't afford another mystery that turns into a ghost."
 
-She kissed his cheek, dried her hands, and went to grade papers. Jerome stood alone in the kitchen, the sink empty, the counter clean, the question unanswered.
+She kissed his cheek—perfunctory, habitual, the kiss of a woman conserving her energy for battles she knew were coming—dried her hands, and went to grade papers. Jerome stood alone in the kitchen, the sink empty, the counter clean, the question suspended in the air like something he could almost see.
 
 
 ---
@@ -92,7 +92,7 @@ Later, the house settled into its evening rhythms. Denise at the dining room tab
 
 Jerome returned to his office. The documents waited on his screen, patient as the dead. He sat down, opened the files, and felt the story reach for him with all its terrible promise.
 
-He thought about what Denise had said. The story you've been waiting for. As if stories were things you waited for, passive, receptive. But that wasn't how it worked. Stories didn't arrive complete. You built them, piece by piece, from fragments and guesses and the slow accumulation of evidence. You followed leads that led nowhere. You verified claims that turned out to be lies. You spent months, years, chasing shapes in the dark, and sometimes—rarely—you found something real. Something that mattered.
+He thought about what Denise had said. The story you've been waiting for. As if stories were things you waited for, passive, receptive, like rain or death or love. But that wasn't how it worked. Stories didn't arrive complete. You built them, piece by piece, from fragments and guesses and the slow accumulation of evidence. You followed leads that led nowhere. You verified claims that turned out to be lies. You spent months, years, chasing shapes in the dark, and sometimes—rarely—you found something real. Something that mattered.
 
 The question wasn't whether this story was the one. The question was whether he was still the person who could tell it. Fifty-two years old, eleven hundred subscribers, working from a converted sunporch while his wife graded papers and his son built apps and his mother, four hundred miles away, forgot a little more of herself every day.
 

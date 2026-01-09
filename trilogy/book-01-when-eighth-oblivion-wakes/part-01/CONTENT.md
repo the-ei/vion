@@ -1,10 +1,10 @@
-# Chapter 01
+# Chapter 1: The Ethics of Optimization
 
-# Scene 01
+# ~~~
 
 The alarm does not sound so much as suggest itself, a rising tone that her phone has calibrated through months of sleep data to catch her at the optimal point in her cycle, and Ananya opens her eyes to the October light already filtering through the automated blinds, which have begun their slow reveal of the backyard oak and the fence beyond it, the fence that marks the property line between her house and the Hendersons' house, the Hendersons who moved to Portland last spring and whose replacement family she has not yet met, has only seen in glimpses from windows, the father washing a car, a child's bicycle left overnight on the lawn.
 
-She lies still for a moment, as she has trained herself to do, feeling the weight of the empty bed beside her, the sheets that have not been disturbed, the pillow that keeps its shape night after night. Two years since James moved out and the geometry of waking has not adjusted. She still sleeps on her side, facing the window, leaving space for a body that is no longer there.
+She lies still for a moment, as she has trained herself to do, registering the weight of the empty bed beside her, the sheets undisturbed, the pillow that holds its shape night after night. Two years since James moved out and the geometry of waking has not adjusted. She still sleeps on her side, facing the window, leaving space for a body that is no longer there.
 
 The house is too large for one person. This was true when they bought it, anticipating a second child that never came, and it is more true now, the four bedrooms excessive, the living room formal and unused, the kitchen designed for gatherings that she no longer hosts. On the weeks when Priya is here, the house feels almost right, her daughter's presence filling some of the volume. On the weeks when Priya is with James, the emptiness has a specific texture, a silence that is not peaceful but populated by absences.
 
@@ -28,7 +28,7 @@ She checks her phone.
 
 The notifications have accumulated overnight: fourteen emails marked urgent (which means none of them are), two Slack threads that have advanced without her, a news digest algorithmically tailored to her professional interests. She scrolls without reading, the gesture itself the point, the checking a form of prayer, a petition to the day to be manageable.
 
-Then: Priya's text from last night, sent at 11:47 PM, after Ananya had fallen asleep with the television murmuring.
+Then: Priya's text from last night, sent at 11:47 PM, after Ananya had fallen asleep with the television muttering to itself.
 
 *school is literally killing me rn*
 
@@ -72,7 +72,7 @@ Her badge beeps at the security turnstile. The system knows she has arrived. Som
 
 
 
-# Scene 02
+# ~~~
 
 The conference room is named Foresight, one of a suite of rooms named for aspirational qualities: Vision, Clarity, Wisdom, Perspective. Ananya has never determined whether this naming convention is earnest or ironic, whether the executives who approved it understood the humor of conducting surveillance strategy in a room called Transparency. Either interpretation is plausible. Either interpretation is damning in its own way.
 
@@ -85,7 +85,7 @@ Coffee appears without being ordered, delivered by a service that has learned th
 
 ---
 
-They arrive in the particular order that office hierarchies establish without ever being stated: first the support staff, then the mid-level attendees, then the senior leadership, the timing calibrated to suggest that important people have important things to delay them. Nathan Park, the general counsel, enters at 8:59 with his laptop already open, reviewing something as he walks, a performance of busyness that Ananya recognizes because she has performed it herself. Sarah Okonkwo, VP of Product, arrives with Nathan, mid-conversation about something unrelated, establishing their alignment before the meeting begins. David Reeves from data science enters alone, nodding at Ananya with the slight smile that might be collegial or might be condescending, the ambiguity his natural mode. Finally, Grace Holloway from communications, who will be responsible for framing whatever the meeting decides, for translating internal decisions into external language.
+They arrive in the particular order that office hierarchies establish without ever being stated: first the support staff, then the mid-level attendees, then the senior leadership, the timing calibrated to suggest that important people have important things to delay them. Nathan Park, the general counsel, enters at 8:59 with his laptop already open, reviewing something as he walks, a performance of busyness that Ananya recognizes because she has performed it herself. Sarah Okonkwo, VP of Product, arrives with Nathan, mid-conversation about something unrelated, demonstrating their alignment before the meeting begins. David Reeves from data science enters alone, nodding at Ananya with the slight smile that might be collegial or might be condescending, the ambiguity his natural mode. Finally, Grace Holloway from communications, who will be responsible for framing whatever the meeting decides, for translating internal decisions into external language.
 
 They settle into seats that reflect unstated preferences, Nathan at the head of the table though no one has designated a head, Sarah to his right, David across from her, Grace beside Ananya, a geometry that places ethics adjacent to communications, that places the actual decision-makers in visual dialogue with each other.
 
@@ -100,7 +100,7 @@ She pulls up her slides, the ones she has refined through seventeen drafts, the 
 
 She clicks through the evidence: the data points collected, the correlations enabled, the gap between what users are told in the terms of service and what they would understand if they read those terms in plain language. She has charts showing the difference between stated purpose and actual capability. She has user research suggesting that even sophisticated users do not grasp what their agreement permits. She has academic citations establishing the psychological effects of prediction-based content delivery.
 
-It is, she knows, a thorough presentation. It is, she knows, irrelevant to the outcome.
+It is, she knows, a thorough presentation. It is, she knows, irrelevant.
 
 Nathan listens with the attentiveness of someone who has been trained to appear attentive, his pen making occasional notes that will never be referenced again. Sarah's expression shifts between interest and something harder to name, a kind of patient waiting that suggests she has already prepared her response. David watches the data slides with professional appreciation, recognizing the methodology, perhaps even respecting it, while remaining entirely unmoved by its implications. Grace types steadily on her laptop, capturing points for the framing exercise to come.
 
@@ -165,9 +165,9 @@ The wondering is a ritual too. It never leads anywhere. By the time her calendar
 
 
 
-# Scene 03
+# ~~~
 
-The restaurant is in Redwood City, equidistant from Palo Alto and San Francisco, chosen two years ago when they were still navigating the geography of separation, still trying to find neutral territory where neither felt like a guest in the other's life. It has good salads. It is expensive but not ostentatious. It exists, Ananya sometimes thinks, specifically for people like them: professionals whose personal failures must be managed with the same efficiency as their professional obligations.
+The restaurant is in Redwood City, equidistant from Palo Alto and San Francisco, chosen two years ago when they were still navigating the geography of separation, still trying to find neutral territory where neither felt like a guest in the other's life. It has good salads. It is expensive without advertising the expense. It exists, Ananya sometimes thinks, specifically for people like them: professionals whose personal failures must be managed with the same efficiency as their professional obligations.
 
 James is already seated when she arrives, a table near the window but not against it, visible but not exposed. He has chosen well. He always chooses well. It was one of the things she loved about him, his attention to the logistics of living, his capacity to make decisions and make them quickly, to reduce the friction of daily existence. It became one of the things that drove her away: the sense that she too was a decision he had made, a variable he had optimized, a choice that could eventually be revised.
 
@@ -205,7 +205,7 @@ The word hangs between them, *attention*, freighted with implication. Ananya hea
 
 "My attention isn't the one she's asking for."
 
-It lands. He means it to. They have been divorced long enough that the cruelty has become efficient, targeted, delivered with the same precision James applies to everything. She takes a breath, refuses to escalate, remembers that they are here for Priya, that whatever failures exist between them cannot be allowed to consume the cooperation their daughter requires.
+It lands. He means it to land. They have been divorced long enough that the cruelty has become efficient, targeted, delivered with the same precision James applies to everything. She takes a breath, refuses to escalate, remembers that they are here for Priya, that whatever failures exist between them cannot be allowed to consume the cooperation their daughter requires.
 
 "What does Patterson recommend specifically?"
 
@@ -277,7 +277,7 @@ She has learned not to think about that.
 
 
 
-# Scene 04
+# ~~~
 
 Home arrives as it always does on the off-weeks: dark windows, porch light on a timer, the particular quality of emptiness that greets her when she opens the door. The house has been monitoring her approach through the car's integration with the home system, adjusting the temperature, turning on the entryway light, perhaps even noting her arrival time for some pattern that will be useful later, in some way she has not considered, for some purpose she has not approved.
 
@@ -287,7 +287,7 @@ The silence has texture. It is not the absence of sound but the presence of what
 
 She changes clothes in the bedroom, trading the armor of work for something softer: old Yale sweatshirt, leggings from a yoga practice she no longer maintains, the costume of a different life that she puts on each evening as if she might eventually become the person who wears these things naturally.
 
-Wine. She allows herself one glass on weeknights, a limit she negotiated with herself after the divorce, when one glass threatened to become more. The Pinot Noir from the rack James built before he moved out, another artifact of the marriage, another thing she cannot bring herself to remove.
+Wine. She permits herself one glass on weeknights, a limit she negotiated with herself after the divorce, when one glass threatened to become two, then three, then a bottle. The Pinot Noir from the rack James built before he moved out, another artifact of the marriage, another thing she cannot bring herself to remove.
 
 
 ---
@@ -300,7 +300,7 @@ Afterward, the couch. The laptop open on the coffee table, the television provid
 
 She pauses on an email from Sarah Okonkwo, a follow-up to this morning's meeting, language for the consent interface that needs her review. The words are carefully chosen, doing the work of making surveillance sound like service, of framing capture as care. She will edit this tomorrow, will negotiate adjustments that change nothing essential, will perform her function in the machine.
 
-On television, people she does not know confront conflicts she does not follow.
+On television, people she does not know navigate conflicts she cannot follow.
 
 The wine glass empties.
 
@@ -378,11 +378,11 @@ And what will you do with it, once you know?
 
 
 
-# Chapter 02
+# Chapter 2: The Noise Floor
 
-# Scene 01
+# ~~~
 
-The room that Jerome Washington built for himself occupies what was once intended to be a nursery, the second child that never came, the space that Denise finally released to his professional use after ten years of it sitting empty, collecting meaning they could not articulate. He has covered the walls with acoustic panels bought used from a studio in Pigtown, their blue fabric faded to something approaching gray, their arrangement imperfect because he installed them himself on a weekend when Denise took DeShawn to visit her mother. The imperfection bothers him sometimes, the panels not quite level, the gaps where sound might escape. Most days he does not notice. Most days he is inside the work.
+The room that Jerome Washington built for himself occupies what was once intended to be a nursery, the second child that never came, the space that Denise finally released to his professional use after ten years of it sitting empty, collecting meaning they could not articulate. He has covered the walls with acoustic panels bought used from a studio in Pigtown, their blue fabric faded to something approaching gray, their arrangement imperfect because he installed them himself on a weekend when Denise took DeShawn to visit her mother. The imperfection bothers him sometimes, the panels not quite level, the gaps where sound leaks. Most days he does not notice. Most days he is inside the work.
 
 The microphone is a Shure SM7B, the broadcaster's standard, purchased secondhand from a radio host who was upgrading. Jerome cleaned it himself, watched YouTube tutorials on maintenance, treats it with the care of someone who understands what this equipment represents: not just capability, but commitment. The boom arm came from Amazon. The desk was his father's, an oak monster from the 1970s that weighs more than any furniture should, that he and DeShawn carried up the narrow stairs while Denise watched with the particular expression she wears when Jerome's projects threaten to harm the house.
 
@@ -414,7 +414,7 @@ Eight minutes in, he stumbles. The sentence that was forming in his mind dissolv
 
 He stops the recording.
 
-The room is very quiet. The acoustic panels absorb everything, even the sound of his own breathing, and for a moment Jerome sits in this manufactured void, wondering what just happened, wondering if this is how it begins, the cognitive decline his mother is experiencing, the loss of words that starts with forgetting a sentence and ends with forgetting everything.
+The room is very quiet. The acoustic panels absorb everything, even the sound of his own breathing, and for a moment Jerome sits in this manufactured void, wondering what just happened, wondering if this is how it begins, the cognitive dissolution his mother is undergoing, the loss of words that starts with forgetting a sentence and ends with forgetting everything.
 
 He is fifty-two. His mother started showing symptoms at sixty-eight. Sixteen years, maybe, before he follows her into that particular darkness. Or maybe not. Maybe this is just fatigue, just the ordinary friction of middle age, the body and mind negotiating terms neither fully accepts.
 
@@ -424,7 +424,7 @@ Four years since he left The Journal. Four years since the investigation they ki
 
 Independence, they call it. Freedom.
 
-He sometimes believes the words.
+Some days he believes the words.
 
 
 ---
@@ -466,7 +466,7 @@ The editing begins.
 
 
 
-# Scene 02
+# ~~~
 
 The kitchen table is large enough for four but hosts only two this evening, Jerome at one end with his laptop, DeShawn at the other with his own machine, the arrangement that has become their default when Denise works late, which is most evenings now, the marking and planning that teaching demands consuming hours she used to spend in this room.
 
@@ -505,7 +505,7 @@ DeShawn shuts his laptop, the gesture deliberate, the conversation over. "I'm go
 
 "DeShawn—"
 
-But he is already moving, already through the kitchen doorway, already ascending the stairs to the room where he will build the future Jerome fears without understanding why his father fears it.
+But he is already moving, already through the kitchen doorway, already ascending the stairs to the room where he will build the future Jerome distrusts without understanding why his father distrusts it.
 
 The kitchen is quiet. Jerome stares at his newsletter, the paragraph he was writing now contaminated by the argument he did not mean to have.
 
@@ -518,7 +518,7 @@ Now he is the cautious one, and his son dismisses him the same way.
 
 The difference, he tells himself, is that his concerns are legitimate. The systems DeShawn is building, the tools he is learning to use, the companies he admires—they are not neutral. They encode power relationships. They make certain futures possible and others impossible. Jerome has spent twenty-five years documenting how technology shapes society in ways its creators do not intend and its users do not perceive. His fears are not theoretical. They are reported.
 
-But when he tries to communicate this to his son, the words come out wrong. They sound like the general anxiety of an aging man rather than the specific critique of someone who has studied the evidence. DeShawn hears: my father fears what he does not understand. DeShawn does not hear: my father understands what should be feared.
+But when he tries to communicate this to his son, the words come out wrong. They sound like the general anxiety of an aging man rather than the specific critique of someone who has studied the evidence. DeShawn hears: my father fears what he does not understand. DeShawn cannot hear: my father understands what should be feared.
 
 The front door opens. Denise.
 
@@ -621,7 +621,7 @@ He opens his laptop and returns to the newsletter, to the story, to the work tha
 
 
 
-# Scene 03
+# ~~~
 
 The phone call comes at midday, while Jerome is editing the housing story, trying to find the language that will make algorithmic redlining legible to readers who do not want to believe it exists. His sister's name on the screen is both expected and dreaded, their calls now anchored to the crisis they share, the mother who is slowly ceasing to be herself.
 
@@ -629,7 +629,7 @@ The phone call comes at midday, while Jerome is editing the housing story, tryin
 
 "Next steps meaning what?"
 
-"Memory care. The assisted living isn't equipped for where this is going. She wandered again last night. They found her in the parking lot at 3 AM."
+"Memory care. The assisted living isn't equipped for where this is heading. She wandered again last night. They found her in the parking lot at 3 AM."
 
 The parking lot. His mother, who taught him to read, who insisted on table manners and thank-you notes, who built a life from Baltimore to Chicago and back again through sheer determination—wandering a parking lot at 3 AM, not knowing where she was, not knowing where she belonged.
 
@@ -692,7 +692,7 @@ This is what he writes about. This is what he warns people about. This is what D
 
 At the corner store he buys coffee from Mr. Kim, who has owned this shop for thirty years, whose daughter went to school with DeShawn, whose presence here is a kind of resistance to the forces Jerome documents. Mr. Kim asks after Denise, after DeShawn, after the podcast he does not listen to but knows Jerome produces. These are the connections the algorithms do not measure, the relationships that constitute a neighborhood beyond its property values, the social fabric that tears invisibly when displacement occurs.
 
-"You look tired," Mr. Kim says, handing over the coffee.
+"You look tired," Mr. Kim says, sliding over the coffee.
 
 "Family stuff. My mother isn't well."
 
@@ -735,7 +735,7 @@ The work continues because the work is what he has, and having it is better than
 
 
 
-# Scene 04
+# ~~~
 
 Saturday evening. Denise has cooked, the effort visible in the table setting: the good placemats, the napkins folded, the meal substantial in a way that weeknight dinners rarely are. This is her gift to them, the family she has assembled and maintained through twenty-three years of marriage, through Jerome's career turbulence, through DeShawn's adolescent evolution, through all the small crises that test whether love can sustain the weight placed on it.
 
@@ -795,7 +795,7 @@ But Denise stops him in the hallway. "That was good," she says quietly. "What yo
 
 She kisses him, briefly, the gesture of a marriage that has survived by accumulating small kindnesses. Then she goes to grade papers, and he goes to his room, and the house settles into its nighttime distribution, each of them alone with their work and their thoughts.
 
-The newsletter is almost finished. He reads through it once, twice, adjusts a sentence, catches a typo. The housing discrimination story is as strong as he can make it. Maybe two thousand people will read it. Maybe less. The economics of independent journalism have never been kind, and the competition for attention has never been fiercer, and the algorithms that determine visibility have never been less transparent.
+The newsletter is almost finished. He reads through it once, twice, adjusts a sentence, catches a typo. The housing discrimination story is as strong as he can make it. Maybe two thousand people will read it. Maybe less. The economics of independent journalism have never been forgiving, and the competition for attention has never been fiercer, and the algorithms that govern visibility have never been less transparent.
 
 He publishes. The piece goes out to his subscribers, arrives in their inboxes, competes with everything else demanding their attention. Some will read it. Some will share it. Most will scroll past. This is the work. This is what he chose when he left The Journal. This is the freedom that comes with irrelevance.
 
@@ -864,9 +864,9 @@ The cursor blinks somewhere in the network, waiting for what comes next.
 
 
 
-# Chapter 03
+# Chapter 3: Clean Architecture
 
-# Scene 01
+# ~~~
 
 The cursor blinks in the dark. Two in the morning and the apartment is blue with screen-light, three monitors arranged in a curve that catches Kevin Zhou in their glow like something religious, an altar to computation. The city outside his window is invisible at this hour, just scattered lights in the black, and he has not looked at it in some time. He is in the code. He is in the architecture of a function that handles user preference modeling, and the function is not behaving as it should, and this is the kind of problem he loves.
 
@@ -937,7 +937,7 @@ The sun has risen fully now, the fog burning off, the city coming into focus out
 
 
 
-# Scene 02
+# ~~~
 
 The conference room has glass walls. This is intentional - transparency as corporate value, openness as brand - but right now it means Kevin Zhou can see the meeting happening without him. Through the glass: his manager David, two product leads he knows by name, someone from legal, and Rachel Torres from strategy, taking notes on her laptop with the particular intensity of someone who belongs. They are discussing Clarity. He knows this because the meeting was on his calendar until yesterday, when it was moved - scheduling conflict, David's email said, overlapping commitments, we'll brief you after.
 
@@ -1011,7 +1011,7 @@ But tonight the code does not help. He stares at the screen for twenty minutes w
 
 
 
-# Scene 03
+# ~~~
 
 Saturday. The bar is all exposed brick and Edison bulbs, the aesthetic of curated authenticity. Kevin Zhou arrived ten minutes early because he always arrives early, and now he is sitting at a high table nursing a drink he ordered because not ordering seemed worse than ordering something he did not want.
 
@@ -1129,7 +1129,7 @@ Instead he sits for a long moment in his ergonomic chair, looking at nothing, fe
 
 
 
-# Scene 04
+# ~~~
 
 Sunday night, and Kevin Zhou is back at Prometheus. The campus is different on weekends: security lights casting longer shadows, the open floor plans feeling cavernous without the bodies to fill them, the hum of the server rooms audible in a way it never is during the week. He tells himself he came to be productive. He knows he came because the apartment was too quiet, the gaming community asleep, the hours ahead too empty to face.
 
@@ -1234,9 +1234,9 @@ He does not sleep well.
 
 
 
-# Chapter 04
+# Chapter 4: The Content of Character
 
-# Scene 01
+# ~~~
 
 The light in Los Angeles is different from anywhere else. Delphine Okafor-Barnes has been working with it for fifteen years, and she still feels it as a kind of gift: the way it falls through the clinic windows at seven in the morning, warming the institutional walls, turning the waiting room into something that could almost be beautiful. She watches the cinematographer, Rogelio, adjust the diffusion on the key light, softening the shadows on their subject's face. Everything is choices. The angle, the warmth, the texture. The grammar of images that she has learned to speak fluently.
 
@@ -1338,7 +1338,7 @@ But what, Delphine wonders, does the machine want in return?
 
 
 
-# Scene 02
+# ~~~
 
 Theo hits her at knee level, arms wrapped around her legs, face buried in her thigh. "Mommy's home!" he shouts, as if announcing her arrival to an audience, and Delphine drops her bag and kneels to receive him properly, to hold the small body that is still small enough to hold completely, to breathe in the particular smell of four-year-old boy: soap and sweat and something sweet she cannot name.
 
@@ -1480,7 +1480,7 @@ The question sits between them. Jessie puts down her phone, reaches for Delphine
 
 
 
-# Scene 03
+# ~~~
 
 Nine-thirty, and the screen shows her mother's face. The connection is better tonight than it sometimes is, the image clear enough to see the details that distance usually blurs: the new lines around her eyes, the gray in her hair that was not there two years ago, the particular set of her mouth that Delphine recognizes as loneliness managed into something presentable.
 
@@ -1603,9 +1603,9 @@ Sleep comes eventually, thin and unsatisfying, the kind of sleep that leaves you
 
 
 
-# Chapter 05
+# Chapter 5: The Gradient
 
-# Scene 01
+# ~~~
 
 The headlights swept across the front of the house and then went dark, and Ananya stood at the window watching James's car idle in the driveway, watching Priya emerge from the passenger side with her bag slung over one shoulder, watching the brief wave that passed between father and daughter before James backed out and the taillights disappeared down the street. She stepped away from the window before Priya could see her watching.
 
@@ -1719,7 +1719,7 @@ Ananya closed the laptop. In the darkness of her study, the house silent around 
 
 
 
-# Scene 02
+# ~~~
 
 She had slept poorly, in fragments, the documents circling her thoughts each time she surfaced toward waking. Now it was Saturday morning and the light through the kitchen windows was too bright and the coffee was too hot and she was trying to be present for Priya, who sat across from her eating cereal with the particular concentration of someone who didn't want to talk.
 
@@ -1872,7 +1872,7 @@ The silence stretched between them, two people who loved each other and couldn't
 
 
 
-# Scene 03
+# ~~~
 
 Time passed in the house's silence. Ananya cleaned the kitchen, though the kitchen didn't need cleaning. She wiped counters that were already clean, rearranged things in the refrigerator, performed the small rituals of domesticity that required no thought and offered no comfort. From Priya's room came no sound at all.
 
@@ -2008,7 +2008,7 @@ After they hung up, she sat in the dark living room for a long time. James knew 
 
 
 
-# Scene 04
+# ~~~
 
 Sunday morning came bright and calm. Priya emerged from her room at ten, later than usual but looking rested. She ate breakfast without being asked, refilled her coffee (when had she started drinking coffee?), and settled at her desk to finish the project.
 
@@ -2127,9 +2127,9 @@ The cursor blinked. The house was silent. Ananya sat with what she had done and 
 
 
 
-# Chapter 06
+# Chapter 6: Signal Interference
 
-# Scene 01
+# ~~~
 
 The notification came through at 7:43 on a Tuesday morning, while Jerome was still in bed, scrolling through the early headlines on his phone. A new message in the secure app he kept for exactly this purpose, the one with no branding and no features and nothing to recommend it except that it did what it promised: encrypted communication that left no trace.
 
@@ -2233,7 +2233,7 @@ Late at night, the house quiet, he sent the protocols. The investigation had beg
 
 
 
-# Scene 02
+# ~~~
 
 The interview was Tuesday. It was now Saturday, and DeShawn had spent the week preparing: polishing his portfolio, practicing answers to common questions, researching Prometheus with the thoroughness of someone who believed this opportunity might define his future.
 
@@ -2400,7 +2400,7 @@ Still nothing. Jerome stood in the hallway, his apology absorbed by the door bet
 
 
 
-# Scene 03
+# ~~~
 
 The facility was called Sunset Gardens, which was precisely the kind of name that tried to disguise what it was. Jerome walked through the lobby with its artificial plants and framed pastoral prints, past the reception desk staffed by women in scrubs who smiled with professional warmth, down the corridor with its handrails and its disinfectant smell toward room 114.
 
@@ -2563,7 +2563,7 @@ The flight was called. Jerome boarded, found his seat, and flew home through the
 
 
 
-# Scene 04
+# ~~~
 
 He was home by Tuesday morning, landing at BWI as the sun came up over the Chesapeake. Denise had left for school already; DeShawn was in his room, presumably preparing for the afternoon interview.
 
@@ -2669,9 +2669,9 @@ The cursor blinked. The night deepened. The secrets multiplied in the silence.
 
 
 
-# Chapter 07
+# Chapter 7: Emergence
 
-# Scene 01
+# ~~~
 
 The numbers were beautiful. Kevin Zhou had spent eleven hours in the development environment, and the numbers were beautiful in the way that mathematics sometimes becomes when you have stared at it long enough: not just correct but inevitable, possessing a rightness that felt less discovered than remembered.
 
@@ -2727,7 +2727,7 @@ He realized he wanted to impress them. The recognition surprised him - he had th
 
 
 
-# Scene 02
+# ~~~
 
 The executive floor announced itself through absence: fewer desks, wider corridors, a quality of silence that felt curated rather than accidental. Kevin Zhou stepped out of the elevator into this hush, his laptop bag over his shoulder, his presentation already loaded on the conference room's system. He was early. He had meant to be early. The extra minutes would let him test the connections, verify the display resolution, perform the small adjustments that made the difference between technical competence and technical grace.
 
@@ -2797,7 +2797,7 @@ But lying in bed, the question returned. And with it, for the first time, a flic
 
 
 
-# Scene 03
+# ~~~
 
 His mother's face appeared on the screen in fragments, the video connection stuttering across the Pacific. She was smiling, or trying to smile, the expression not quite reaching her eyes. Behind her, Kevin Zhou could see the living room of the Shenzhen apartment: the furniture rearranged since his last call, a new plant on the windowsill, his father's reading chair repositioned closer to the television.
 
@@ -2926,7 +2926,7 @@ They made plans for Saturday. Kevin Zhou walked home through streets that felt, 
 
 
 
-# Scene 04
+# ~~~
 
 The second date with Sara had ended at her door with a kiss that was tentative and then less tentative, a beginning of something neither of them named. She lived in a Victorian apartment near Dolores Park, the building painted in colors that would have seemed aggressive anywhere else. They made plans for a third date. Kevin Zhou took a Lyft home through streets that looked different now, suffused with a possibility he had forgotten he could feel.
 
@@ -3005,9 +3005,9 @@ Inside, something had shifted. But inside was where it would stay, for now.
 
 
 
-# Chapter 08
+# Chapter 8: The Assignment
 
-# Scene 01
+# ~~~
 
 The Prometheus campus announced itself before Delphine reached it: the glass towers visible from the freeway, their surfaces catching the morning sun and throwing it back in sheets of reflected light. She had visited tech headquarters before - the industry's habit of architectural grandeur was familiar to her - but something about this approach felt different. She was not visiting as a journalist or consultant or critical observer. She was visiting as a supplicant, presenting work she hoped would be purchased.
 
@@ -3089,7 +3089,7 @@ She closed the laptop and went home to her family, carrying questions she had no
 
 
 
-# Scene 02
+# ~~~
 
 Jessie was on the couch when Delphine got home, her laptop open but ignored, her face carrying the particular tiredness of difficult news. Theo was already in bed - Abuela Rosa had handled dinner and bedtime, the schedule they relied on when both parents worked late.
 
@@ -3203,7 +3203,7 @@ She read the pages aloud, her voice finding the rhythm that soothed him. This wa
 
 
 
-# Scene 03
+# ~~~
 
 The flight to London was eleven hours of suspended time. Delphine settled into her window seat, the economy cabin around her filled with bodies adjusting to their temporary containers, and watched the coast of California recede. The Pacific opened below, impossibly blue, and then the clouds took over and there was nothing to see but the interior of the plane.
 
@@ -3304,7 +3304,7 @@ For now, she let herself not know what came next.
 
 
 
-# Scene 04
+# ~~~
 
 The creative work proceeded in stages. Delphine's team occupied the large conference room for three days of intensive development, the walls accumulating mood boards and storyboards and the visual vocabulary of the campaign. They worked in the way that good creative teams work: ideas emerging, being tested, being refined or discarded; the collaborative energy building toward something none of them could have made alone.
 

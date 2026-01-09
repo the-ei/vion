@@ -6,7 +6,7 @@ The silence has texture. It is not the absence of sound but the presence of what
 
 She changes clothes in the bedroom, trading the armor of work for something softer: old Yale sweatshirt, leggings from a yoga practice she no longer maintains, the costume of a different life that she puts on each evening as if she might eventually become the person who wears these things naturally.
 
-Wine. She allows herself one glass on weeknights, a limit she negotiated with herself after the divorce, when one glass threatened to become more. The Pinot Noir from the rack James built before he moved out, another artifact of the marriage, another thing she cannot bring herself to remove.
+Wine. She permits herself one glass on weeknights, a limit she negotiated with herself after the divorce, when one glass threatened to become two, then three, then a bottle. The Pinot Noir from the rack James built before he moved out, another artifact of the marriage, another thing she cannot bring herself to remove.
 
 
 ---
@@ -19,7 +19,7 @@ Afterward, the couch. The laptop open on the coffee table, the television provid
 
 She pauses on an email from Sarah Okonkwo, a follow-up to this morning's meeting, language for the consent interface that needs her review. The words are carefully chosen, doing the work of making surveillance sound like service, of framing capture as care. She will edit this tomorrow, will negotiate adjustments that change nothing essential, will perform her function in the machine.
 
-On television, people she does not know confront conflicts she does not follow.
+On television, people she does not know navigate conflicts she cannot follow.
 
 The wine glass empties.
 

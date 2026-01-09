@@ -56,7 +56,7 @@ But Denise stops him in the hallway. "That was good," she says quietly. "What yo
 
 She kisses him, briefly, the gesture of a marriage that has survived by accumulating small kindnesses. Then she goes to grade papers, and he goes to his room, and the house settles into its nighttime distribution, each of them alone with their work and their thoughts.
 
-The newsletter is almost finished. He reads through it once, twice, adjusts a sentence, catches a typo. The housing discrimination story is as strong as he can make it. Maybe two thousand people will read it. Maybe less. The economics of independent journalism have never been kind, and the competition for attention has never been fiercer, and the algorithms that determine visibility have never been less transparent.
+The newsletter is almost finished. He reads through it once, twice, adjusts a sentence, catches a typo. The housing discrimination story is as strong as he can make it. Maybe two thousand people will read it. Maybe less. The economics of independent journalism have never been forgiving, and the competition for attention has never been fiercer, and the algorithms that govern visibility have never been less transparent.
 
 He publishes. The piece goes out to his subscribers, arrives in their inboxes, competes with everything else demanding their attention. Some will read it. Some will share it. Most will scroll past. This is the work. This is what he chose when he left The Journal. This is the freedom that comes with irrelevance.
 

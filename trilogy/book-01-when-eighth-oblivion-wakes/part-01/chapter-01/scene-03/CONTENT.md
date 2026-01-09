@@ -1,4 +1,4 @@
-The restaurant is in Redwood City, equidistant from Palo Alto and San Francisco, chosen two years ago when they were still navigating the geography of separation, still trying to find neutral territory where neither felt like a guest in the other's life. It has good salads. It is expensive but not ostentatious. It exists, Ananya sometimes thinks, specifically for people like them: professionals whose personal failures must be managed with the same efficiency as their professional obligations.
+The restaurant is in Redwood City, equidistant from Palo Alto and San Francisco, chosen two years ago when they were still navigating the geography of separation, still trying to find neutral territory where neither felt like a guest in the other's life. It has good salads. It is expensive without advertising the expense. It exists, Ananya sometimes thinks, specifically for people like them: professionals whose personal failures must be managed with the same efficiency as their professional obligations.
 
 James is already seated when she arrives, a table near the window but not against it, visible but not exposed. He has chosen well. He always chooses well. It was one of the things she loved about him, his attention to the logistics of living, his capacity to make decisions and make them quickly, to reduce the friction of daily existence. It became one of the things that drove her away: the sense that she too was a decision he had made, a variable he had optimized, a choice that could eventually be revised.
 
@@ -36,7 +36,7 @@ The word hangs between them, *attention*, freighted with implication. Ananya hea
 
 "My attention isn't the one she's asking for."
 
-It lands. He means it to. They have been divorced long enough that the cruelty has become efficient, targeted, delivered with the same precision James applies to everything. She takes a breath, refuses to escalate, remembers that they are here for Priya, that whatever failures exist between them cannot be allowed to consume the cooperation their daughter requires.
+It lands. He means it to land. They have been divorced long enough that the cruelty has become efficient, targeted, delivered with the same precision James applies to everything. She takes a breath, refuses to escalate, remembers that they are here for Priya, that whatever failures exist between them cannot be allowed to consume the cooperation their daughter requires.
 
 "What does Patterson recommend specifically?"
 

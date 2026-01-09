@@ -6,21 +6,47 @@ set -e
 
 TRILOGY_DIR="${1:-trilogy}"
 
+# Extract title from PLAN.md if it exists
+get_plan_title() {
+    local dir="$1"
+    local plan_file="$dir/PLAN.md"
+    if [[ -f "$plan_file" ]]; then
+        # Extract title after "# ... Plan: " on first line
+        local title=$(head -1 "$plan_file" | sed 's/^# .*Plan: //')
+        if [[ -n "$title" && "$title" != "$(head -1 "$plan_file")" ]]; then
+            echo "$title"
+            return 0
+        fi
+    fi
+    return 1
+}
+
 # Convert directory names to proper titles
 format_title() {
     local name="$1"
+    local dir="$2"  # Optional: directory path to check for PLAN.md
     local num
+    local plan_title
+
     case "$name" in
         "book-01-when-eighth-oblivion-wakes") echo "When Eighth Oblivion Wakes" ;;
         "book-02-until-eighth-oblivion-breaks") echo "Until Eighth Oblivion Breaks" ;;
         "book-03-beyond-eighth-oblivions-gates") echo "Beyond Eighth Oblivion's Gates" ;;
         part-*)
-            num=$((10#${name#part-}))  # Remove leading zeros
-            echo "Part $num"
+            num=$((10#${name#part-}))
+            if [[ -n "$dir" ]] && plan_title=$(get_plan_title "$dir"); then
+                echo "Part $num: $plan_title"
+            else
+                echo "Part $num"
+            fi
             ;;
         chapter-*)
-            num=$((10#${name#chapter-}))  # Remove leading zeros
-            echo "Chapter $num"
+            num=$((10#${name#chapter-}))
+            if [[ -n "$dir" ]] && plan_title=$(get_plan_title "$dir"); then
+                echo "Chapter $num: $plan_title"
+            else
+                echo "Chapter $num"
+            fi
             ;;
         scene-*)
             echo "~~~"  # Scene divider instead of "Scene X"
@@ -64,7 +90,7 @@ rollup_dir() {
             # Extract directory name for section header
             child_dir=$(dirname "$child_content")
             child_name=$(basename "$child_dir")
-            child_title=$(format_title "$child_name")
+            child_title=$(format_title "$child_name" "$child_dir")
             echo -e "# $child_title\n" >> "$temp_content"
             cat "$child_content" >> "$temp_content"
             echo -e "\n\n" >> "$temp_content"

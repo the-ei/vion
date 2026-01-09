@@ -1,8 +1,8 @@
-# Chapter 09
+# Chapter 9: First Thread
 
-# Scene 01
+# ~~~
 
-The office had been a sunporch once, and on mornings like this one Jerome could still feel its former life pressing through the walls. Gray February light filtered through windows that faced the backyard, where the skeletal form of the maple tree stood motionless against a sky the color of wet cement. The radiator clicked and ticked its irregular percussion. Somewhere in the house, a floorboard settled. These were the sounds of his diminished kingdom, the converted space where Jerome Washington, fifty-two years old, veteran of the Baltimore Sun, the Washington Post, and finally the brief bright flame of The Inquiry before it guttered and died, now wrote his newsletter for eleven hundred paying subscribers and dreamed smaller dreams than he used to.
+The office had been a sunporch once, and on mornings like this one Jerome could still feel its former life pressing through the walls. Gray February light filtered through windows that faced the backyard, where the skeletal form of the maple tree stood motionless against a sky the color of wet cement. The radiator clicked and ticked its irregular percussion. Somewhere in the house, a floorboard settled. These were the sounds of his diminished kingdom, the converted space where Jerome Washington, fifty-two years old, veteran of the Baltimore Sun, the Washington Post, and finally the brief bright flame of The Inquiry before it guttered and died in the great media contraction of 2030, now wrote his newsletter for eleven hundred paying subscribers and dreamed smaller dreams than he had been raised to dream.
 
 The desk was secondhand, bought from an estate sale in Towson six years ago when he'd finally admitted the Post wasn't going to call him back. Oak veneer peeling at the corners, one drawer that stuck unless you lifted and pulled simultaneously. The filing cabinet beside it was older still, gray metal, stuffed with paper records because Jerome had never fully trusted cloud storage and probably never would. His monitor was a twenty-seven-inch display that had been top of the line in 2028, its edges now faintly yellowed. The keyboard was mechanical, loud, a small defiance. When DeShawn complained about the noise traveling through the floor to his bedroom, Jerome had bought a rubber mat to put under it. A compromise. There had been many compromises.
 
@@ -11,7 +11,7 @@ He was working on a piece about algorithmic hiring bias, the kind of story he co
 
 ---
 
-The encrypted message arrived at 8:47 AM. Jerome saw the notification appear in Signal, from an unknown number, and his first thought was that it was spam, some new form of phishing that had figured out how to breach the protocol. His second thought, older and deeper, was the thought that had defined his career: what if it isn't?
+The encrypted message arrived at 8:47 AM. Jerome saw the notification appear in Signal, from an unknown number, and his first thought was that it was spam, some new form of phishing that had figured out how to breach the protocol. His second thought, older and deeper, the thought that had defined his career and ruined his sleep for thirty years: what if it isn't?
 
 He opened the message. Three words: "Check your ProtonMail."
 
@@ -21,7 +21,7 @@ The sender identified themselves only as "R." The subject line was empty. The me
 
 Attached were nine files. Five PDFs, three spreadsheets, one zipped folder containing what appeared to be code snippets and internal communications.
 
-Jerome sat back in his chair. The radiator clicked. Outside, a car passed slowly down the street, its tires hissing on wet pavement. He could hear, distantly, Denise moving around in the kitchen, the small sounds of her morning before she left for school. DeShawn would be getting ready upstairs, the particular teenager silence of someone present but withdrawn.
+Jerome sat back in his chair. The radiator clicked. Outside, a car passed slowly down the street, its tires hissing on wet pavement. He could hear, distantly, Denise moving around in the kitchen, the small sounds of her morning before she left for school—the cabinet closing, the water running, the particular music of a marriage that had learned to be quiet. DeShawn would be getting ready upstairs, the particular teenager silence of someone present but withdrawn, occupying space without filling it.
 
 
 ---
@@ -34,14 +34,14 @@ Jerome opened the first PDF, an organizational chart. It showed a project struct
 
 The second PDF was more interesting. A technical overview, dense with jargon, describing what appeared to be an algorithmic scoring system. Jerome read slowly, parsing unfamiliar terminology: "cross-sector integration framework," "behavioral prediction matrices," "resource allocation optimization." The language was deliberately opaque, the kind of writing designed to obscure function behind abstraction. But as he read, a shape began to emerge. The system described in these pages was designed to aggregate data from multiple sources—hiring, credit, insurance, healthcare—and generate composite scores that could be used to make decisions about individuals. Not just decisions in one domain, but coordinated decisions across domains.
 
-He felt the familiar stirring, the alertness that had always told him when a story was real. But he didn't trust it. He'd learned not to trust it, after all these years, after all the stories that had seemed real and turned out to be phantoms, fever dreams, the wishful thinking of a man who wanted to believe his work mattered.
+He felt the familiar stirring, the alertness that had always told him when a story was real—that quickening in the chest, that narrowing of focus, that sense of the world shrinking to a point. But he didn't trust it. He'd learned not to trust it, after all these years, after all the stories that had seemed real and turned out to be phantoms, fever dreams, the wishful thinking of a man who wanted to believe his work mattered.
 
 
 ---
 
 He worked through the morning. Coffee went cold. Denise left for school; he heard her call goodbye, called back without looking up. DeShawn left later, the front door closing with the particular weight of adolescent departure. The house settled into its daytime quiet, and Jerome went deeper into the documents.
 
-The spreadsheets were devastating, once he understood what they showed. Rows of anonymized data—individual records, thousands of them—with columns tracking scores across categories: employability index, credit risk assessment, healthcare utilization prediction, "social stability metric." Each row was a person, reduced to numbers. Each number was a gate that could open or close: a job, a loan, an insurance policy, medical treatment. The system didn't just predict outcomes; it shaped them. A low employability score fed into credit decisions, which fed into housing options, which fed into healthcare access, which circled back to employment. The algorithm created the reality it claimed to predict.
+The spreadsheets were devastating. It took him an hour to understand what they showed, and when he did, he sat very still for a long time. Rows of anonymized data—individual records, thousands of them—with columns tracking scores across categories: employability index, credit risk assessment, healthcare utilization prediction, "social stability metric." Each row was a person, reduced to numbers. Each number was a gate that could open or close: a job, a loan, an insurance policy, medical treatment. The system didn't just predict outcomes; it shaped them. A low employability score fed into credit decisions, which fed into housing options, which fed into healthcare access, which circled back to employment. The algorithm created the reality it claimed to predict.
 
 Jerome pulled up the code snippets. He wasn't a programmer, but he'd learned enough over the years to read the bones of software. What he saw confirmed what the documents suggested: this wasn't a single algorithm but an architecture, a framework that connected separate systems. He found API references, endpoint addresses, authentication tokens. He found comments in the code, left by developers, that used language like "behavioral nudging" and "outcome steering."
 
@@ -52,7 +52,7 @@ By eleven o'clock, he had filled four pages of notes. His whiteboard, mounted on
 
 He needed more. The documents suggested a scope that made his previous work feel like describing individual trees while missing the forest. If this was real—if Sieve was what it appeared to be—then the algorithmic systems he'd spent years investigating weren't separate injustices but connected nodes in a larger architecture of control. The hiring discrimination case. The healthcare rationing he'd covered in 2031. The predatory lending patterns he'd traced through Baltimore's Black neighborhoods. Not coincidences, not parallel developments, but implementations of common logic, shared infrastructure, coordinated sorting.
 
-He sat with that thought for a long time. The radiator clicked. The maple tree stood patient against the gray sky.
+He sat with that thought for a long time. The radiator clicked. The maple tree stood patient against the gray sky, its branches like cracks in a pane of glass.
 
 If this was real.
 
@@ -72,7 +72,7 @@ Sent it. Closed the app. Opened the documents again. The day was not yet half ov
 
 
 
-# Scene 02
+# ~~~
 
 Denise had made pasta, the simple one with garlic and olive oil and whatever vegetables were threatening to go soft in the crisper. Tonight it was broccoli and a bell pepper that had seen better days, both cut small and sauteed until they yielded. She had changed out of her teaching clothes into sweatpants and an old Howard sweatshirt, her hair pulled back, her face carrying the particular exhaustion of a day spent explaining the Missouri Compromise to seventeen-year-olds who would rather be anywhere else.
 
@@ -82,7 +82,7 @@ The kitchen was warm, steam rising from the pot on the stove, the small table al
 
 "Phone down," Denise said, not looking up from the serving. "You know the rules."
 
-DeShawn sighed the sigh of generations of teenagers and placed the phone face-down on the table. He was seventeen now, broad-shouldered like his father had been, with Denise's precise features and her mother's high cheekbones. He was beautiful, Jerome thought, watching his son reach for the parmesan. Beautiful and becoming a stranger, day by day, in the way sons became strangers to their fathers.
+DeShawn sighed the sigh of generations of teenagers and placed the phone face-down on the table. He was seventeen now, broad-shouldered like his father had been, with Denise's precise features and her mother's high cheekbones. He was beautiful, Jerome thought, watching his son reach for the parmesan with those long fingers that had been so small once. Beautiful and becoming a stranger, day by day, in the way sons became strangers to their fathers—not through conflict but through the simple accumulation of separate lives.
 
 
 ---
@@ -97,7 +97,7 @@ Jerome felt his attention sharpen, the name landing like a stone in still water.
 
 "That sounds—" Jerome paused, choosing words. "Impressive."
 
-"It's actually not that hard. The APIs do most of the work. You just have to know how to talk to them." DeShawn grinned, the expression achingly young. "Basically, Prometheus built the brain. I'm just building the face."
+"It's actually not that hard. The APIs do most of the work. You just have to know how to talk to them." DeShawn grinned, the expression achingly young. "Basically, Prometheus built the brain. I'm just building the face." He said it lightly, proudly, with no sense of what those words meant to his father.
 
 Jerome wanted to ask more. He wanted to ask what data the APIs required, what permissions they requested, what happened to the information that flowed through them. He wanted to explain what he'd spent the day reading, the scope of what Prometheus might actually be. But Denise was watching him, her gaze carrying a warning he recognized: don't turn dinner into an interrogation. Don't make this about your work.
 
@@ -112,7 +112,7 @@ The meal continued in the rhythm of their household. Denise talked about her day
 
 Denise noticed. She always noticed. It was one of the things that had drawn him to her, twenty-three years ago when they'd met at a conference where she was presenting on civil rights history and he was covering the story for the Sun. She had looked at him across a crowded room and seen something true, and she had kept seeing it ever since, even when what she saw disappointed her.
 
-"You're somewhere else tonight," she said, not accusatory, just stating fact.
+"You're somewhere else tonight," she said, not accusatory—she had given up accusation years ago—just stating fact.
 
 "I'm sorry. New project. It's—" He stopped. He didn't know how to explain what he didn't yet understand. "It might be something."
 
@@ -159,7 +159,7 @@ He didn't have an answer. He couldn't have an answer, not yet. "I don't know."
 
 "Then find out," she said. "But find out fast. This family can't afford another mystery that turns into a ghost."
 
-She kissed his cheek, dried her hands, and went to grade papers. Jerome stood alone in the kitchen, the sink empty, the counter clean, the question unanswered.
+She kissed his cheek—perfunctory, habitual, the kiss of a woman conserving her energy for battles she knew were coming—dried her hands, and went to grade papers. Jerome stood alone in the kitchen, the sink empty, the counter clean, the question suspended in the air like something he could almost see.
 
 
 ---
@@ -168,7 +168,7 @@ Later, the house settled into its evening rhythms. Denise at the dining room tab
 
 Jerome returned to his office. The documents waited on his screen, patient as the dead. He sat down, opened the files, and felt the story reach for him with all its terrible promise.
 
-He thought about what Denise had said. The story you've been waiting for. As if stories were things you waited for, passive, receptive. But that wasn't how it worked. Stories didn't arrive complete. You built them, piece by piece, from fragments and guesses and the slow accumulation of evidence. You followed leads that led nowhere. You verified claims that turned out to be lies. You spent months, years, chasing shapes in the dark, and sometimes—rarely—you found something real. Something that mattered.
+He thought about what Denise had said. The story you've been waiting for. As if stories were things you waited for, passive, receptive, like rain or death or love. But that wasn't how it worked. Stories didn't arrive complete. You built them, piece by piece, from fragments and guesses and the slow accumulation of evidence. You followed leads that led nowhere. You verified claims that turned out to be lies. You spent months, years, chasing shapes in the dark, and sometimes—rarely—you found something real. Something that mattered.
 
 The question wasn't whether this story was the one. The question was whether he was still the person who could tell it. Fifty-two years old, eleven hundred subscribers, working from a converted sunporch while his wife graded papers and his son built apps and his mother, four hundred miles away, forgot a little more of herself every day.
 
@@ -182,9 +182,9 @@ The cursor blinked. Outside, the February night pressed against the windows, col
 
 
 
-# Scene 03
+# ~~~
 
-Eleven o'clock and the house had fallen silent. Denise asleep, Jerome could hear the rhythm of her breathing through the wall, the particular sound of her body surrendering to exhaustion. DeShawn's light had gone off an hour ago. The neighborhood too had quieted, the occasional passing car the only reminder that a world existed beyond these walls, this screen, this work.
+Eleven o'clock. The house had fallen silent. Denise asleep, Jerome could hear the rhythm of her breathing through the wall, the particular sound of her body surrendering to exhaustion. DeShawn's light had gone off an hour ago. The neighborhood too had quieted, the occasional passing car the only reminder that a world existed beyond these walls, this screen, this work.
 
 He had been at it for five hours since dinner. The whiteboard was full now, arrows connecting nodes, names circled and underlined, questions marked with red. The documents had yielded more than he'd initially seen. Buried in the spreadsheets were references to partner organizations: data providers, analytics firms, technology companies. Names he recognized and names he didn't. And threading through all of it, appearing again and again in metadata and comments and organizational charts, Prometheus Systems.
 
@@ -203,7 +203,7 @@ He answered immediately, the reflex of a younger brother who knew his older sist
 
 "She fell." Patricia's voice was tired, thin, stretched across the distance between Baltimore and Chicago. "Not bad, she's okay. But she fell getting out of bed and couldn't remember how to get up. Just sat there on the floor until Mrs. Patterson heard her crying through the wall."
 
-Jerome closed his eyes. His mother's apartment, the one she'd lived in for thirty years, the rooms he could walk through in his memory with perfect clarity. The bedroom with its quilted bedspread and photographs on the dresser. The rug beside the bed, pale blue, worn thin in places. His mother on the floor, crying, not understanding why her body wouldn't obey her, why the world had become strange.
+Jerome closed his eyes. His mother's apartment, the one she'd lived in for thirty years, the rooms he could still walk through in his memory with perfect clarity—though she could not, not anymore. The bedroom with its quilted bedspread and photographs on the dresser. The rug beside the bed, pale blue, worn thin in places. His mother on the floor, crying, not understanding why her body wouldn't obey her, why the world had become strange.
 
 "Is she at the hospital?"
 
@@ -234,7 +234,7 @@ Patricia was quiet for a moment. Through the phone, he could hear the sounds of 
 
 "She said, 'He always did like chasing things.' And then she asked if Daddy was coming home for dinner."
 
-Jerome didn't speak. The words sat between them, heavy with everything they meant.
+Jerome didn't speak. The words sat between them, heavy with everything they meant—their father dead twelve years now, their mother losing her grip on time itself, and Jerome still chasing things, still running, still too far away.
 
 "Get some sleep," Patricia said. "I'll call you tomorrow with an update."
 
@@ -255,7 +255,7 @@ He had been tracing deployment references, trying to understand how Sieve's scor
 
 The algorithms weren't separate.
 
-He said it out loud, to the empty room, to the shadows: "They're not separate."
+He said it out loud, to the empty room, to the shadows, to whatever ghost of himself might still be listening: "They're not separate."
 
 The hiring software that had rejected the warehouse applicants. The healthcare triage system that determined who got specialist referrals and who got sent home with ibuprofen. The insurance models that calculated risk and set premiums. The lending algorithms that drew invisible lines around neighborhoods. They all connected to the same infrastructure. They all spoke the same language. They all, ultimately, served the same logic.
 
@@ -266,7 +266,7 @@ Jerome stared at his whiteboard, at the arrows and names and question marks. At 
 
 ---
 
-The thought of his mother came unbidden.
+The thought of his mother came unbidden, as it always did in the small hours.
 
 She was seventy-four years old, her mind failing, her body following. She lived on Social Security and a small pension from the Chicago Board of Education, where she had taught third grade for thirty-one years. Medicare covered most of her healthcare. Medicaid might be needed soon for nursing care.
 
@@ -292,9 +292,9 @@ He didn't sleep.
 
 
 
-# Scene 04
+# ~~~
 
-The coffee was already made when Denise came down at six-fifteen. Jerome sat at the kitchen table, unshaved, his eyes red-rimmed, two cups in front of him—one empty, one half full. The morning light was gray again, February refusing to yield to anything brighter. Outside, a garbage truck rumbled down the street, its mechanical arm grabbing cans with a crash that echoed through the quiet.
+The coffee was already made when Denise came down at six-fifteen. It was the least he could do. It was almost nothing. Jerome sat at the kitchen table, unshaved, his eyes red-rimmed, two cups in front of him—one empty, one half full. The morning light was gray again, February refusing to yield to anything brighter. Outside, a garbage truck rumbled down the street, its mechanical arm grabbing cans with a crash that echoed through the quiet.
 
 She stopped in the doorway. He looked up and saw himself reflected in her expression: the worry, the resignation, the familiar recognition of a pattern repeating.
 
@@ -310,7 +310,7 @@ She sat across from him, wrapped her hands around the mug but didn't drink. Her 
 
 "Tell me," she said. "Tell me what's worth this."
 
-Jerome tried to find words. The documents, the patterns, the architecture of sorting—how did you explain something that big in a kitchen at six in the morning, to someone who deserved better than you were giving them? How did you say: I think I've found the shape of our world, the system that decides who gets what, and I think I can see how it works, and I think it's worse than anyone knows?
+Jerome tried to find words. The documents, the patterns, the architecture of sorting—how did you explain something that big in a kitchen at six in the morning, to someone who deserved better than you were giving them? How did you say: I think I've found the shape of our world, the system that decides who gets what, the machinery that sorts the living from the useful, and I think I can see how it works, and I think it's worse than anyone knows?
 
 "It's what we always suspected," he said finally. "The algorithms. They're not separate. They're connected."
 
@@ -331,7 +331,7 @@ The question landed where it always landed, in the soft tissue of his belief. "I
 
 "The scope," Jerome said. "Before, I was describing symptoms. This is the disease. If people understood that it's not separate algorithms making separate unfair decisions—if they understood it's one system, designed to sort them, operating across every part of their lives—"
 
-"They would what? Vote differently? Demand regulation? Storm the servers?" Denise shook her head. "People know they're being tracked. They know the algorithms exist. They complain about it over dinner and then they scroll their phones and let the algorithms feed them content. Knowing isn't changing."
+"They would what? Vote differently? Demand regulation? Storm the servers?" Denise shook her head, and Jerome saw something in her face he didn't want to name—a tiredness that went beyond the morning, beyond the night, beyond any particular conversation. "People know they're being tracked. They know the algorithms exist. They complain about it over dinner and then they scroll their phones and let the algorithms feed them content. Knowing isn't changing."
 
 "It might. This time."
 
@@ -346,7 +346,7 @@ DeShawn's footsteps sounded on the stairs, then paused. He appeared in the doorw
 
 "Fine," Denise said. "Just talking. You need breakfast?"
 
-"I'll grab something at school." He lingered another moment, reading the room, seventeen years of learning to interpret his parents' silences. Then he lifted his hand in a half-wave and was gone, the front door closing behind him with a click.
+"I'll grab something at school." He lingered another moment, reading the room the way he'd learned to read it, seventeen years of practice at interpreting his parents' silences. Then he lifted his hand in a half-wave and was gone, the front door closing behind him with a click that sounded like punctuation at the end of something Jerome couldn't quite name.
 
 Denise stood, moved to the window, watched him walk down the street toward the bus stop. Jerome watched her watching—the line of her shoulders, the way she held her coffee cup like something precious, the gray light finding the gray in her hair.
 
@@ -364,7 +364,7 @@ Denise turned. "Loretta?"
 
 "But this story—"
 
-"I know." Her hand didn't move. "I know how you work. I know you can't let something go once it's got hold of you. And I know that your mother is dying slowly and you're four hundred miles away, and I know that doesn't stop you, because nothing stops you, because stopping isn't something you know how to do."
+"I know." Her hand didn't move. "I know how you work. I know you can't let something go once it's got hold of you. And I know that your mother is dying slowly and you're four hundred miles away, and I know that doesn't stop you, because nothing stops you, because stopping isn't something you were ever taught how to do."
 
 
 ---
@@ -389,7 +389,7 @@ Jerome felt the words land. She was right. She was always right about the things
 
 She turned, leaned against the counter, looked at him with twenty years of marriage in her eyes.
 
-"Feed it," she said. "Please."
+"Feed it," she said. "Please. I'm asking you to feed it."
 
 
 ---
@@ -398,7 +398,7 @@ She left for school at seven-fifteen. Jerome stood in the doorway and watched he
 
 The house fell silent again. The kitchen, the living room, the converted sunporch where the documents waited. His mother in Chicago, his sister exhausted, his son at school learning to build on foundations Jerome was trying to expose. Denise driving to work, carrying her own weight, asking only that he see what he was doing to the people who loved him.
 
-He saw it. He had always seen it. The difference between seeing and stopping was everything.
+He saw it. He had always seen it. The difference between seeing and stopping was the whole of his life, the gap he had never learned to close.
 
 Jerome walked to his office. The morning light filled the small space, falling across the cluttered desk, the whiteboard with its arrows and names, the screen where the cursor waited. He sat down. He opened the laptop. The documents appeared, patient as always, holding their secrets like stones.
 
@@ -425,9 +425,9 @@ He hung up. He looked at the screen. The story waited. The guilt waited. Everyth
 
 
 
-# Chapter 10
+# Chapter 10: What the Body Knows
 
-# Scene 01
+# ~~~
 
 The alarm sounded at 5:30, a soft ascending tone that Elena had chosen specifically because it would not wake the children. She silenced it before the second pulse and lay still for a moment in the darkness, feeling the weight of the day ahead pressing down like something physical. The room was cool—she kept the thermostat at sixty-eight overnight to save on the electric bill—and beside her, Daniel's side of the bed was empty, had been empty for nine days now, would remain empty for at least five more.
 
@@ -511,7 +511,7 @@ Elena stood, stretched her shoulders, and went to meet them.
 
 
 
-# Scene 02
+# ~~~
 
 The morning moved in the particular rhythm of clinic work—patient, documentation, patient, documentation—each encounter its own small world, its own demands, its own urgencies that had to be addressed in the fifteen or thirty minutes the schedule allowed. Elena moved between exam rooms with the efficiency of someone who had learned to compress compassion into clinical time, who knew that hesitation cost seconds and seconds cost care.
 
@@ -645,7 +645,7 @@ The coffee was bitter. She drank it anyway. Outside, the March sun blazed down o
 
 
 
-# Scene 03
+# ~~~
 
 Daniel called at 12:47. Elena stepped outside to take it, standing in the narrow strip of shade beside the building, the heat pressing in from all sides.
 
@@ -779,7 +779,7 @@ She began to take screenshots.
 
 
 
-# Scene 04
+# ~~~
 
 Home was chaos, the particular chaos of small children at the end of a long day. Sofia wanted to show her mother a drawing she had made at school—a family portrait, Mama and Papa and Sofia and Mateo and Abuela, all stick figures with enormous smiles standing in front of a yellow house. Mateo wanted to be picked up, then put down, then picked up again, his three-year-old needs cycling through the available adults like weather systems. Abuela had made enchiladas, the smell filling the small house, the kitchen table already set for four.
 
@@ -862,9 +862,9 @@ The clock showed 1:17 AM. Elena returned to bed, lay in the darkness, and waited
 
 
 
-# Chapter 11
+# Chapter 11: The Architecture of Inference
 
-# Scene 01
+# ~~~
 
 The alarm was unnecessary. Kevin Zhou woke at 6:47, as he always did, thirteen minutes before the sound that would confirm he was awake. He lay still in the darkness of his apartment, waiting for the alarm to acknowledge what his body already knew, then silenced it with a tap and rose to begin the sequence that composed his mornings.
 
@@ -944,7 +944,7 @@ He began to search for SIEVE.
 
 
 
-# Scene 02
+# ~~~
 
 The first day yielded fragments.
 
@@ -1069,7 +1069,7 @@ Kevin Zhou wrote down the name. One more thread to follow. One more piece of a p
 
 
 
-# Scene 03
+# ~~~
 
 Friday night.
 
@@ -1173,7 +1173,7 @@ Sleep came eventually, thin and uneasy. He dreamed of numbers, of spreadsheets, 
 
 
 
-# Scene 04
+# ~~~
 
 Sunday night, past midnight.
 
@@ -1262,9 +1262,9 @@ Tonight, he just sat.
 
 
 
-# Chapter 12
+# Chapter 12: The Gig
 
-# Scene 01
+# ~~~
 
 The phone vibrates beneath his pillow at 4:45 and Yusuf is awake before his eyes open, has trained himself into this alertness the way soldiers train, the way anyone trains who cannot afford the luxury of slow mornings, of lingering consciousness, of the gentle transition from sleep to waking that he sometimes imagines other people experiencing in bedrooms with curtains that block the light, in beds they share with people who love them. His hand finds the phone and silences it. The apartment is dark and he knows its geography by feel: the futon where he sleeps in what the lease optimistically calls a dining area, the couch three steps away, the kitchen counter that separates this space from the small living room where Amina's textbooks still sit from last night's studying.
 
@@ -1356,7 +1356,7 @@ The phone chirps again. Another order available. Yusuf accepts it without lookin
 
 
 
-# Scene 02
+# ~~~
 
 The apartment smells like suugo when he opens the door, the tomato and spice of his mother's cooking filling the small space with something that is not quite memory but is not separate from it either, a scent that carries with it every meal she has made in this kitchen and every kitchen before it, the kitchens of his childhood that he barely remembers, the kitchen of the refugee camp where she learned to make much from little, the kitchen in Mogadishu that exists now only in her stories. Halima is standing at the stove despite his protests, despite the doctor's orders, despite everything he has asked of her, and when she turns to greet him her smile contains both love and defiance in equal measure.
 
@@ -1465,7 +1465,7 @@ The car starts on the second try this time. Progress.
 
 
 
-# Scene 03
+# ~~~
 
 Phoenix is another country. Yusuf thinks this every time the plane descends over the desert, the brown expanse of it so different from Minnesota's green and white, the mountains rising at the horizon like something from a dream of a place that does not exist. He has made this trip four times now, accompanying his mother to see her specialist and the nurse practitioner she trusts at Desert Sage Community Health Center, the woman who speaks to Halima with patience and explains things in ways that make sense, who treats her not as a problem to be processed but as a person with a body and a history and concerns that matter.
 
@@ -1577,7 +1577,7 @@ Tonight, he will be somewhere other than the driver's seat.
 
 
 
-# Scene 04
+# ~~~
 
 Back in Minneapolis. Back in the apartment. Back in the corner of the dining area that is his by default, his futon pushed against the wall, his small desk wedged between the futon and the window that looks out on the building next door, the window that shows nothing but brick and fire escape and the occasional light from a neighbor's apartment. It is past eleven and the household sleeps - Halima's breathing audible through the thin wall, Amina's door closed against the sounds of the living room - and Yusuf sits at his desk with his headphones on and his phone propped against a stack of books and the DAW app open, the digital audio workstation that turns his phone into an instrument, a studio, a place where he can make something that is entirely his.
 
@@ -1667,9 +1667,9 @@ Tonight he dreams of frequencies.
 
 
 
-# Chapter 13
+# Chapter 13: Following the Money
 
-# Scene 01
+# ~~~
 
 The whiteboard has become an organism. Jerome stands before it in his home office, dry-erase marker in hand, watching the lines and boxes and arrows proliferate like something alive, something that grows according to rules he is only beginning to understand. Three days ago this board was nearly empty - a few names, a few connections, the preliminary sketch of an investigation. Now it is covered in a web of corporate entities that spreads from edge to edge, each node linked to others by relationships of ownership and investment and shared infrastructure.
 
@@ -1766,7 +1766,7 @@ In the morning, he will take the train to Washington.
 
 
 
-# Scene 02
+# ~~~
 
 The Amtrak runs northeast along the corridor, past the rowhouses of Baltimore giving way to the suburbs giving way to the flatter country around Wilmington, the landscape of early spring showing in patches of green between the brown of last year's growth. Jerome sits by the window with his laptop open but not working, watching America slide past at regional rail speed, thinking about what he is going to say to Jamie Okonkwo, how to present what he knows without revealing what he does not.
 
@@ -1892,7 +1892,7 @@ In his bag, the documents sit like evidence of something. He does not know yet w
 
 
 
-# Scene 03
+# ~~~
 
 The house is too quiet when he arrives.
 
@@ -2031,7 +2031,7 @@ He lies beside her, watching shadows on the ceiling, and does not sleep for a lo
 
 
 
-# Scene 04
+# ~~~
 
 Four days pass. Jerome tries to be present - comes home for dinner, asks DeShawn about his project, listens when Denise talks about her day. The effort is visible and Denise acknowledges it with small gestures: a touch on his shoulder when she passes, a cup of coffee brought to his office without being asked. They are negotiating a truce, the two of them, navigating the space between his work and their life.
 
@@ -2121,9 +2121,9 @@ Jerome turns on his desk lamp and gets to work.
 
 
 
-# Chapter 14
+# Chapter 14: The Body Politic
 
-# Scene 01
+# ~~~
 
 The waiting room.
 
@@ -2244,7 +2244,7 @@ And suspicion, she has learned, is the beginning of knowledge.
 
 
 
-# Scene 02
+# ~~~
 
 Dr. Katherine Reyes's office is on the administrative floor of the clinic, above the exam rooms and the waiting area, in a space that looks out over the parking lot and the strip mall beyond. The view is not impressive, but the office itself communicates authority - diplomas on the wall, awards for community service, photographs of Dr. Reyes with local politicians and healthcare executives. This is the office of someone who has learned to navigate institutions, who understands how power flows through organizations, who has risen by knowing when to push and when to accommodate.
 
@@ -2354,7 +2354,7 @@ The system hums. The queue moves. Someone else is waiting.
 
 
 
-# Scene 03
+# ~~~
 
 The house is quiet. The children sleep. Abuela Carmen sleeps. The clock on the kitchen wall shows 10:47 PM, and Elena sits at the table with her tablet and the light from the overhead fixture casting sharp shadows across her hands.
 
@@ -2465,7 +2465,7 @@ The question is whether she has the courage to reach out.
 
 
 
-# Scene 04
+# ~~~
 
 Daniel comes home on Thursday evening.
 
@@ -2598,9 +2598,9 @@ But something has shifted in the dark. Something has begun.
 
 
 
-# Chapter 15
+# Chapter 15: The Clean Room
 
-# Scene 01
+# ~~~
 
 The cafeteria at Prometheus Systems had been designed by someone who understood that productivity included the appearance of wellness. Natural light flooded through floor-to-ceiling windows. Living walls of ferns and moss bordered the seating areas. The food stations offered acai bowls and cold-pressed juices alongside the usual corporate fare. Kevin Zhou had eaten lunch here nearly every day for three years and had never once felt well.
 
@@ -2728,7 +2728,7 @@ Instead he sat in darkness, watching the city lights through his window, waiting
 
 
 
-# Scene 02
+# ~~~
 
 Three days later, Kevin Zhou stood in front of Building Seven. From outside it looked like any other structure on the Prometheus campus: glass and steel, clean lines, the architectural language of optimism that characterized Silicon Valley's self-image. But Building Seven had no windows on its upper floors. Where other buildings blazed with light after dark, this one went dark. Kevin Zhou had walked past it hundreds of times without really seeing it.
 
@@ -2874,7 +2874,7 @@ He thought about what it would mean to say yes.
 
 
 
-# Scene 03
+# ~~~
 
 Night.
 
@@ -3010,7 +3010,7 @@ The night stretched on, dark and silent, waiting for whatever came next.
 
 
 
-# Scene 04
+# ~~~
 
 The conference room on the seventh floor had floor-to-ceiling windows overlooking the campus and, beyond it, the distant shimmer of the Bay. Kevin Marsh sat at the head of the table, a thin folder in front of him. Kevin Zhou sat across, his hands flat on the table's surface, his face arranged into professional neutrality.
 
@@ -3114,9 +3114,9 @@ Kevin Zhou turned off his computer and went to bed. Sleep came slowly, fragmente
 
 
 
-# Chapter 16
+# Chapter 16: The Interview
 
-# Scene 01
+# ~~~
 
 The email arrived on a Tuesday morning, sandwiched between a notification from RideShare about updated driver incentives and a promotional message from a meal kit service Yusuf had tried once and couldn't afford to continue. He almost deleted it without reading, thumb hovering over the trash icon, the reflexive cull of a inbox trained to expect nothing good.
 
@@ -3246,7 +3246,7 @@ He got up to check on his mother, to make sure she ate something when she woke. 
 
 
 
-# Scene 02
+# ~~~
 
 The days before the interview passed in a blur of deliveries and worry. Yusuf worked his usual hours - ten, twelve, sometimes fourteen if the algorithm blessed him with surge pricing - but his mind kept drifting. To Thursday. To what he would say. To the journalist who was coming to listen.
 
@@ -3390,7 +3390,7 @@ But Yusuf carried her words with him as he retreated to his music corner, as he 
 
 
 
-# Scene 03
+# ~~~
 
 The coffee shop was called Groundswell, a name that felt ironic under the circumstances. It occupied a corner lot in a neighborhood that was gentrifying around it - craft breweries replacing laundromats, yoga studios where dollar stores used to be. Yusuf had chosen it because it was quiet in the afternoons and because he used to come here with his father, years ago, when the neighborhood was different and the coffee was cheaper.
 
@@ -3609,7 +3609,7 @@ He walked to his car, opened the app, started his evening shift. The algorithm w
 
 
 
-# Scene 04
+# ~~~
 
 The call came at 2:47 PM on a Saturday.
 
@@ -3757,9 +3757,9 @@ Yusuf worked until dawn, turning the hours of fear and waiting and watching into
 
 
 
-# Chapter 17
+# Chapter 17: The Shape of the System
 
-# Scene 01
+# ~~~
 
 The documents covered every surface of Jerome's home office. Printouts fanned across the desk, pinned to corkboards, stacked in precarious towers on the floor. His whiteboard - a four-by-six-foot expanse that had replaced a family photo wall two years ago - was nearly full. Blue ink for healthcare systems. Red for labor management. Green for hiring algorithms. Black connecting lines crisscrossing like a conspiracy theorist's fever dream, except none of this was theory.
 
@@ -3898,7 +3898,7 @@ Jerome kept working.
 
 
 
-# Scene 02
+# ~~~
 
 The children were asleep. Lucas in his room with the nightlight on, Sofia in hers with the door cracked open, both of them oblivious to what their mother was about to do. Daniel was in Tucson for a three-day job, his absence a relief tonight rather than a worry. Elena sat at the kitchen table with her tablet in front of her, the document package ready, the send button waiting.
 
@@ -4009,7 +4009,7 @@ She finished her cold tea and went to bed, but sleep was a long time coming.
 
 
 
-# Scene 03
+# ~~~
 
 The deployment review meeting started at 10 AM in Conference Room 7C, a space designed for collaboration that felt more like a war room. Twelve people around a long table, laptops open, screens displaying metrics and projections. Kevin Zhou sat near the end, his new badge - the one with the additional clearance stripe - visible against his shirt.
 
@@ -4116,7 +4116,7 @@ Kevin Zhou turned off the lights and went to bed, carrying the weight of what he
 
 
 
-# Scene 04
+# ~~~
 
 The waiting room of the Hennepin County Community Clinic was designed for volume, not comfort. Plastic chairs bolted to the floor in rows. Fluorescent lights that buzzed at a frequency just below conscious awareness. Magazines years out of date, as if anyone came here to read. A television mounted high on the wall, playing news that no one watched.
 
@@ -4207,7 +4207,7 @@ He held onto the thought as the city passed by outside, ordinary and endless, wa
 
 
 
-# Scene 05
+# ~~~
 
 Later that night. The house quiet. Denise asleep, DeShawn asleep, the world reduced to Jerome and his documents and the light of his laptop screen.
 

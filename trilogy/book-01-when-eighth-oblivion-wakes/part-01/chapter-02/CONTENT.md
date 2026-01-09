@@ -1,6 +1,6 @@
-# Scene 01
+# ~~~
 
-The room that Jerome Washington built for himself occupies what was once intended to be a nursery, the second child that never came, the space that Denise finally released to his professional use after ten years of it sitting empty, collecting meaning they could not articulate. He has covered the walls with acoustic panels bought used from a studio in Pigtown, their blue fabric faded to something approaching gray, their arrangement imperfect because he installed them himself on a weekend when Denise took DeShawn to visit her mother. The imperfection bothers him sometimes, the panels not quite level, the gaps where sound might escape. Most days he does not notice. Most days he is inside the work.
+The room that Jerome Washington built for himself occupies what was once intended to be a nursery, the second child that never came, the space that Denise finally released to his professional use after ten years of it sitting empty, collecting meaning they could not articulate. He has covered the walls with acoustic panels bought used from a studio in Pigtown, their blue fabric faded to something approaching gray, their arrangement imperfect because he installed them himself on a weekend when Denise took DeShawn to visit her mother. The imperfection bothers him sometimes, the panels not quite level, the gaps where sound leaks. Most days he does not notice. Most days he is inside the work.
 
 The microphone is a Shure SM7B, the broadcaster's standard, purchased secondhand from a radio host who was upgrading. Jerome cleaned it himself, watched YouTube tutorials on maintenance, treats it with the care of someone who understands what this equipment represents: not just capability, but commitment. The boom arm came from Amazon. The desk was his father's, an oak monster from the 1970s that weighs more than any furniture should, that he and DeShawn carried up the narrow stairs while Denise watched with the particular expression she wears when Jerome's projects threaten to harm the house.
 
@@ -32,7 +32,7 @@ Eight minutes in, he stumbles. The sentence that was forming in his mind dissolv
 
 He stops the recording.
 
-The room is very quiet. The acoustic panels absorb everything, even the sound of his own breathing, and for a moment Jerome sits in this manufactured void, wondering what just happened, wondering if this is how it begins, the cognitive decline his mother is experiencing, the loss of words that starts with forgetting a sentence and ends with forgetting everything.
+The room is very quiet. The acoustic panels absorb everything, even the sound of his own breathing, and for a moment Jerome sits in this manufactured void, wondering what just happened, wondering if this is how it begins, the cognitive dissolution his mother is undergoing, the loss of words that starts with forgetting a sentence and ends with forgetting everything.
 
 He is fifty-two. His mother started showing symptoms at sixty-eight. Sixteen years, maybe, before he follows her into that particular darkness. Or maybe not. Maybe this is just fatigue, just the ordinary friction of middle age, the body and mind negotiating terms neither fully accepts.
 
@@ -42,7 +42,7 @@ Four years since he left The Journal. Four years since the investigation they ki
 
 Independence, they call it. Freedom.
 
-He sometimes believes the words.
+Some days he believes the words.
 
 
 ---
@@ -84,7 +84,7 @@ The editing begins.
 
 
 
-# Scene 02
+# ~~~
 
 The kitchen table is large enough for four but hosts only two this evening, Jerome at one end with his laptop, DeShawn at the other with his own machine, the arrangement that has become their default when Denise works late, which is most evenings now, the marking and planning that teaching demands consuming hours she used to spend in this room.
 
@@ -123,7 +123,7 @@ DeShawn shuts his laptop, the gesture deliberate, the conversation over. "I'm go
 
 "DeShawn—"
 
-But he is already moving, already through the kitchen doorway, already ascending the stairs to the room where he will build the future Jerome fears without understanding why his father fears it.
+But he is already moving, already through the kitchen doorway, already ascending the stairs to the room where he will build the future Jerome distrusts without understanding why his father distrusts it.
 
 The kitchen is quiet. Jerome stares at his newsletter, the paragraph he was writing now contaminated by the argument he did not mean to have.
 
@@ -136,7 +136,7 @@ Now he is the cautious one, and his son dismisses him the same way.
 
 The difference, he tells himself, is that his concerns are legitimate. The systems DeShawn is building, the tools he is learning to use, the companies he admires—they are not neutral. They encode power relationships. They make certain futures possible and others impossible. Jerome has spent twenty-five years documenting how technology shapes society in ways its creators do not intend and its users do not perceive. His fears are not theoretical. They are reported.
 
-But when he tries to communicate this to his son, the words come out wrong. They sound like the general anxiety of an aging man rather than the specific critique of someone who has studied the evidence. DeShawn hears: my father fears what he does not understand. DeShawn does not hear: my father understands what should be feared.
+But when he tries to communicate this to his son, the words come out wrong. They sound like the general anxiety of an aging man rather than the specific critique of someone who has studied the evidence. DeShawn hears: my father fears what he does not understand. DeShawn cannot hear: my father understands what should be feared.
 
 The front door opens. Denise.
 
@@ -239,7 +239,7 @@ He opens his laptop and returns to the newsletter, to the story, to the work tha
 
 
 
-# Scene 03
+# ~~~
 
 The phone call comes at midday, while Jerome is editing the housing story, trying to find the language that will make algorithmic redlining legible to readers who do not want to believe it exists. His sister's name on the screen is both expected and dreaded, their calls now anchored to the crisis they share, the mother who is slowly ceasing to be herself.
 
@@ -247,7 +247,7 @@ The phone call comes at midday, while Jerome is editing the housing story, tryin
 
 "Next steps meaning what?"
 
-"Memory care. The assisted living isn't equipped for where this is going. She wandered again last night. They found her in the parking lot at 3 AM."
+"Memory care. The assisted living isn't equipped for where this is heading. She wandered again last night. They found her in the parking lot at 3 AM."
 
 The parking lot. His mother, who taught him to read, who insisted on table manners and thank-you notes, who built a life from Baltimore to Chicago and back again through sheer determination—wandering a parking lot at 3 AM, not knowing where she was, not knowing where she belonged.
 
@@ -310,7 +310,7 @@ This is what he writes about. This is what he warns people about. This is what D
 
 At the corner store he buys coffee from Mr. Kim, who has owned this shop for thirty years, whose daughter went to school with DeShawn, whose presence here is a kind of resistance to the forces Jerome documents. Mr. Kim asks after Denise, after DeShawn, after the podcast he does not listen to but knows Jerome produces. These are the connections the algorithms do not measure, the relationships that constitute a neighborhood beyond its property values, the social fabric that tears invisibly when displacement occurs.
 
-"You look tired," Mr. Kim says, handing over the coffee.
+"You look tired," Mr. Kim says, sliding over the coffee.
 
 "Family stuff. My mother isn't well."
 
@@ -353,7 +353,7 @@ The work continues because the work is what he has, and having it is better than
 
 
 
-# Scene 04
+# ~~~
 
 Saturday evening. Denise has cooked, the effort visible in the table setting: the good placemats, the napkins folded, the meal substantial in a way that weeknight dinners rarely are. This is her gift to them, the family she has assembled and maintained through twenty-three years of marriage, through Jerome's career turbulence, through DeShawn's adolescent evolution, through all the small crises that test whether love can sustain the weight placed on it.
 
@@ -413,7 +413,7 @@ But Denise stops him in the hallway. "That was good," she says quietly. "What yo
 
 She kisses him, briefly, the gesture of a marriage that has survived by accumulating small kindnesses. Then she goes to grade papers, and he goes to his room, and the house settles into its nighttime distribution, each of them alone with their work and their thoughts.
 
-The newsletter is almost finished. He reads through it once, twice, adjusts a sentence, catches a typo. The housing discrimination story is as strong as he can make it. Maybe two thousand people will read it. Maybe less. The economics of independent journalism have never been kind, and the competition for attention has never been fiercer, and the algorithms that determine visibility have never been less transparent.
+The newsletter is almost finished. He reads through it once, twice, adjusts a sentence, catches a typo. The housing discrimination story is as strong as he can make it. Maybe two thousand people will read it. Maybe less. The economics of independent journalism have never been forgiving, and the competition for attention has never been fiercer, and the algorithms that govern visibility have never been less transparent.
 
 He publishes. The piece goes out to his subscribers, arrives in their inboxes, competes with everything else demanding their attention. Some will read it. Some will share it. Most will scroll past. This is the work. This is what he chose when he left The Journal. This is the freedom that comes with irrelevance.
 

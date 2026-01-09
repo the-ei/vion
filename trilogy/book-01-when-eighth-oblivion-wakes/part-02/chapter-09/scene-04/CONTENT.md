@@ -1,4 +1,4 @@
-The coffee was already made when Denise came down at six-fifteen. Jerome sat at the kitchen table, unshaved, his eyes red-rimmed, two cups in front of him—one empty, one half full. The morning light was gray again, February refusing to yield to anything brighter. Outside, a garbage truck rumbled down the street, its mechanical arm grabbing cans with a crash that echoed through the quiet.
+The coffee was already made when Denise came down at six-fifteen. It was the least he could do. It was almost nothing. Jerome sat at the kitchen table, unshaved, his eyes red-rimmed, two cups in front of him—one empty, one half full. The morning light was gray again, February refusing to yield to anything brighter. Outside, a garbage truck rumbled down the street, its mechanical arm grabbing cans with a crash that echoed through the quiet.
 
 She stopped in the doorway. He looked up and saw himself reflected in her expression: the worry, the resignation, the familiar recognition of a pattern repeating.
 
@@ -14,7 +14,7 @@ She sat across from him, wrapped her hands around the mug but didn't drink. Her 
 
 "Tell me," she said. "Tell me what's worth this."
 
-Jerome tried to find words. The documents, the patterns, the architecture of sorting—how did you explain something that big in a kitchen at six in the morning, to someone who deserved better than you were giving them? How did you say: I think I've found the shape of our world, the system that decides who gets what, and I think I can see how it works, and I think it's worse than anyone knows?
+Jerome tried to find words. The documents, the patterns, the architecture of sorting—how did you explain something that big in a kitchen at six in the morning, to someone who deserved better than you were giving them? How did you say: I think I've found the shape of our world, the system that decides who gets what, the machinery that sorts the living from the useful, and I think I can see how it works, and I think it's worse than anyone knows?
 
 "It's what we always suspected," he said finally. "The algorithms. They're not separate. They're connected."
 
@@ -35,7 +35,7 @@ The question landed where it always landed, in the soft tissue of his belief. "I
 
 "The scope," Jerome said. "Before, I was describing symptoms. This is the disease. If people understood that it's not separate algorithms making separate unfair decisions—if they understood it's one system, designed to sort them, operating across every part of their lives—"
 
-"They would what? Vote differently? Demand regulation? Storm the servers?" Denise shook her head. "People know they're being tracked. They know the algorithms exist. They complain about it over dinner and then they scroll their phones and let the algorithms feed them content. Knowing isn't changing."
+"They would what? Vote differently? Demand regulation? Storm the servers?" Denise shook her head, and Jerome saw something in her face he didn't want to name—a tiredness that went beyond the morning, beyond the night, beyond any particular conversation. "People know they're being tracked. They know the algorithms exist. They complain about it over dinner and then they scroll their phones and let the algorithms feed them content. Knowing isn't changing."
 
 "It might. This time."
 
@@ -50,7 +50,7 @@ DeShawn's footsteps sounded on the stairs, then paused. He appeared in the doorw
 
 "Fine," Denise said. "Just talking. You need breakfast?"
 
-"I'll grab something at school." He lingered another moment, reading the room, seventeen years of learning to interpret his parents' silences. Then he lifted his hand in a half-wave and was gone, the front door closing behind him with a click.
+"I'll grab something at school." He lingered another moment, reading the room the way he'd learned to read it, seventeen years of practice at interpreting his parents' silences. Then he lifted his hand in a half-wave and was gone, the front door closing behind him with a click that sounded like punctuation at the end of something Jerome couldn't quite name.
 
 Denise stood, moved to the window, watched him walk down the street toward the bus stop. Jerome watched her watching—the line of her shoulders, the way she held her coffee cup like something precious, the gray light finding the gray in her hair.
 
@@ -68,7 +68,7 @@ Denise turned. "Loretta?"
 
 "But this story—"
 
-"I know." Her hand didn't move. "I know how you work. I know you can't let something go once it's got hold of you. And I know that your mother is dying slowly and you're four hundred miles away, and I know that doesn't stop you, because nothing stops you, because stopping isn't something you know how to do."
+"I know." Her hand didn't move. "I know how you work. I know you can't let something go once it's got hold of you. And I know that your mother is dying slowly and you're four hundred miles away, and I know that doesn't stop you, because nothing stops you, because stopping isn't something you were ever taught how to do."
 
 
 ---
@@ -93,7 +93,7 @@ Jerome felt the words land. She was right. She was always right about the things
 
 She turned, leaned against the counter, looked at him with twenty years of marriage in her eyes.
 
-"Feed it," she said. "Please."
+"Feed it," she said. "Please. I'm asking you to feed it."
 
 
 ---
@@ -102,7 +102,7 @@ She left for school at seven-fifteen. Jerome stood in the doorway and watched he
 
 The house fell silent again. The kitchen, the living room, the converted sunporch where the documents waited. His mother in Chicago, his sister exhausted, his son at school learning to build on foundations Jerome was trying to expose. Denise driving to work, carrying her own weight, asking only that he see what he was doing to the people who loved him.
 
-He saw it. He had always seen it. The difference between seeing and stopping was everything.
+He saw it. He had always seen it. The difference between seeing and stopping was the whole of his life, the gap he had never learned to close.
 
 Jerome walked to his office. The morning light filled the small space, falling across the cluttered desk, the whiteboard with its arrows and names, the screen where the cursor waited. He sat down. He opened the laptop. The documents appeared, patient as always, holding their secrets like stones.
 

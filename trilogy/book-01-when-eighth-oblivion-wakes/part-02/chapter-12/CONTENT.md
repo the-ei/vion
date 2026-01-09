@@ -1,4 +1,4 @@
-# Scene 01
+# ~~~
 
 The phone vibrates beneath his pillow at 4:45 and Yusuf is awake before his eyes open, has trained himself into this alertness the way soldiers train, the way anyone trains who cannot afford the luxury of slow mornings, of lingering consciousness, of the gentle transition from sleep to waking that he sometimes imagines other people experiencing in bedrooms with curtains that block the light, in beds they share with people who love them. His hand finds the phone and silences it. The apartment is dark and he knows its geography by feel: the futon where he sleeps in what the lease optimistically calls a dining area, the couch three steps away, the kitchen counter that separates this space from the small living room where Amina's textbooks still sit from last night's studying.
 
@@ -90,7 +90,7 @@ The phone chirps again. Another order available. Yusuf accepts it without lookin
 
 
 
-# Scene 02
+# ~~~
 
 The apartment smells like suugo when he opens the door, the tomato and spice of his mother's cooking filling the small space with something that is not quite memory but is not separate from it either, a scent that carries with it every meal she has made in this kitchen and every kitchen before it, the kitchens of his childhood that he barely remembers, the kitchen of the refugee camp where she learned to make much from little, the kitchen in Mogadishu that exists now only in her stories. Halima is standing at the stove despite his protests, despite the doctor's orders, despite everything he has asked of her, and when she turns to greet him her smile contains both love and defiance in equal measure.
 
@@ -199,7 +199,7 @@ The car starts on the second try this time. Progress.
 
 
 
-# Scene 03
+# ~~~
 
 Phoenix is another country. Yusuf thinks this every time the plane descends over the desert, the brown expanse of it so different from Minnesota's green and white, the mountains rising at the horizon like something from a dream of a place that does not exist. He has made this trip four times now, accompanying his mother to see her specialist and the nurse practitioner she trusts at Desert Sage Community Health Center, the woman who speaks to Halima with patience and explains things in ways that make sense, who treats her not as a problem to be processed but as a person with a body and a history and concerns that matter.
 
@@ -311,7 +311,7 @@ Tonight, he will be somewhere other than the driver's seat.
 
 
 
-# Scene 04
+# ~~~
 
 Back in Minneapolis. Back in the apartment. Back in the corner of the dining area that is his by default, his futon pushed against the wall, his small desk wedged between the futon and the window that looks out on the building next door, the window that shows nothing but brick and fire escape and the occasional light from a neighbor's apartment. It is past eleven and the household sleeps - Halima's breathing audible through the thin wall, Amina's door closed against the sounds of the living room - and Yusuf sits at his desk with his headphones on and his phone propped against a stack of books and the DAW app open, the digital audio workstation that turns his phone into an instrument, a studio, a place where he can make something that is entirely his.
 

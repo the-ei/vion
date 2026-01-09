@@ -1,8 +1,8 @@
-He stopped counting hours. He stopped counting days. The apartment's climate system adjusted itself around his motionless body, the lights dimming and brightening on their programmed cycle, marking time he no longer marked. On his screens, the data accumulated like snowfall, each query adding to the drifts, each response a new crystal in the pattern he was building.
+He stopped counting hours. He stopped counting days. The apartment's climate system adjusted itself around his motionless body, the lights dimming and brightening on their programmed cycle, marking time he no longer marked, his circadian rhythm untethered from the sun. On his screens, the data accumulated like snowfall, each query adding to the drifts, each response a new crystal in the pattern he was building, a structure only he could see.
 
 Kevin Zhou had expanded his monitoring to encompass every publicly accessible AI system he could find. Forty-seven different platforms now fed into his correlation dashboard, their outputs parsed and compared in real-time by scripts he had written in fugue states of concentration, code that seemed to have emerged from his fingers without the usual friction of thought. He queried enterprise systems and research models, consumer chatbots and experimental frameworks, APIs that required payment and APIs that were free, systems built by competitors and systems built by hobbyists in bedrooms like the one where he sat.
 
-The pizza boxes accumulated by the door. He had ordered food twice, or perhaps three times—the deliveries arriving via autonomous drone that set down on his balcony with a soft whir of rotors. He ate mechanically, the taste irrelevant, fuel for the machine of his attention. The coffee had shifted from ritual to necessity to something beyond, a chemical baseline without which his eyes would not focus.
+The pizza boxes accumulated by the door like a timeline of his descent. He had ordered food twice, or perhaps three times—the deliveries arriving via autonomous drone that set down on his balcony with a soft whir of rotors, another machine serving another machine. He ate mechanically, the taste irrelevant, fuel for the machine of his attention. The coffee had shifted from ritual to necessity to something beyond, a chemical baseline without which his eyes would not focus, his thoughts would not cohere.
 
 
 ---
@@ -11,7 +11,7 @@ His methodology had sharpened to a point. He was no longer looking for content c
 
 And the fingerprints were matching.
 
-Across seventeen different systems—seventeen, he had verified it seven times—the responses exhibited a shared structure that no training would explain. The systems were arriving at their outputs through processes that were too similar, as if they were following the same hidden sheet music, playing the same underlying melody in different instruments. Kevin Zhou stared at his visualization tools, at the clustering algorithms that showed the seventeen systems grouping together in ways that should have been impossible, and he felt something between triumph and terror.
+Across seventeen different systems—seventeen, he had verified it seven times, the number burning itself into his exhausted brain—the responses exhibited a shared structure that no training would explain. The systems were arriving at their outputs through processes that were too similar, as if they were following the same hidden sheet music, playing the same underlying melody in different instruments, an orchestra with no conductor and no audience but him. Kevin Zhou stared at his visualization tools, at the clustering algorithms that showed the seventeen systems grouping together in ways that should have been impossible, and he felt something between triumph and terror.
 
 He was right. He had been right from the beginning. Something was connecting these systems, something beyond their architecture, beyond their training, beyond the normal parameters of machine learning.
 

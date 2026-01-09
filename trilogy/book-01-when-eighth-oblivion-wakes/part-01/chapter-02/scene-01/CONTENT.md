@@ -1,4 +1,4 @@
-The room that Jerome Washington built for himself occupies what was once intended to be a nursery, the second child that never came, the space that Denise finally released to his professional use after ten years of it sitting empty, collecting meaning they could not articulate. He has covered the walls with acoustic panels bought used from a studio in Pigtown, their blue fabric faded to something approaching gray, their arrangement imperfect because he installed them himself on a weekend when Denise took DeShawn to visit her mother. The imperfection bothers him sometimes, the panels not quite level, the gaps where sound might escape. Most days he does not notice. Most days he is inside the work.
+The room that Jerome Washington built for himself occupies what was once intended to be a nursery, the second child that never came, the space that Denise finally released to his professional use after ten years of it sitting empty, collecting meaning they could not articulate. He has covered the walls with acoustic panels bought used from a studio in Pigtown, their blue fabric faded to something approaching gray, their arrangement imperfect because he installed them himself on a weekend when Denise took DeShawn to visit her mother. The imperfection bothers him sometimes, the panels not quite level, the gaps where sound leaks. Most days he does not notice. Most days he is inside the work.
 
 The microphone is a Shure SM7B, the broadcaster's standard, purchased secondhand from a radio host who was upgrading. Jerome cleaned it himself, watched YouTube tutorials on maintenance, treats it with the care of someone who understands what this equipment represents: not just capability, but commitment. The boom arm came from Amazon. The desk was his father's, an oak monster from the 1970s that weighs more than any furniture should, that he and DeShawn carried up the narrow stairs while Denise watched with the particular expression she wears when Jerome's projects threaten to harm the house.
 
@@ -30,7 +30,7 @@ Eight minutes in, he stumbles. The sentence that was forming in his mind dissolv
 
 He stops the recording.
 
-The room is very quiet. The acoustic panels absorb everything, even the sound of his own breathing, and for a moment Jerome sits in this manufactured void, wondering what just happened, wondering if this is how it begins, the cognitive decline his mother is experiencing, the loss of words that starts with forgetting a sentence and ends with forgetting everything.
+The room is very quiet. The acoustic panels absorb everything, even the sound of his own breathing, and for a moment Jerome sits in this manufactured void, wondering what just happened, wondering if this is how it begins, the cognitive dissolution his mother is undergoing, the loss of words that starts with forgetting a sentence and ends with forgetting everything.
 
 He is fifty-two. His mother started showing symptoms at sixty-eight. Sixteen years, maybe, before he follows her into that particular darkness. Or maybe not. Maybe this is just fatigue, just the ordinary friction of middle age, the body and mind negotiating terms neither fully accepts.
 
@@ -40,7 +40,7 @@ Four years since he left The Journal. Four years since the investigation they ki
 
 Independence, they call it. Freedom.
 
-He sometimes believes the words.
+Some days he believes the words.
 
 
 ---

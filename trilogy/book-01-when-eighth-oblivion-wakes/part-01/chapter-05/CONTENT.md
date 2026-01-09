@@ -1,4 +1,4 @@
-# Scene 01
+# ~~~
 
 The headlights swept across the front of the house and then went dark, and Ananya stood at the window watching James's car idle in the driveway, watching Priya emerge from the passenger side with her bag slung over one shoulder, watching the brief wave that passed between father and daughter before James backed out and the taillights disappeared down the street. She stepped away from the window before Priya could see her watching.
 
@@ -112,7 +112,7 @@ Ananya closed the laptop. In the darkness of her study, the house silent around 
 
 
 
-# Scene 02
+# ~~~
 
 She had slept poorly, in fragments, the documents circling her thoughts each time she surfaced toward waking. Now it was Saturday morning and the light through the kitchen windows was too bright and the coffee was too hot and she was trying to be present for Priya, who sat across from her eating cereal with the particular concentration of someone who didn't want to talk.
 
@@ -265,7 +265,7 @@ The silence stretched between them, two people who loved each other and couldn't
 
 
 
-# Scene 03
+# ~~~
 
 Time passed in the house's silence. Ananya cleaned the kitchen, though the kitchen didn't need cleaning. She wiped counters that were already clean, rearranged things in the refrigerator, performed the small rituals of domesticity that required no thought and offered no comfort. From Priya's room came no sound at all.
 
@@ -401,7 +401,7 @@ After they hung up, she sat in the dark living room for a long time. James knew 
 
 
 
-# Scene 04
+# ~~~
 
 Sunday morning came bright and calm. Priya emerged from her room at ten, later than usual but looking rested. She ate breakfast without being asked, refilled her coffee (when had she started drinking coffee?), and settled at her desk to finish the project.
 

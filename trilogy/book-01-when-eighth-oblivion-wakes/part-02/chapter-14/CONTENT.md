@@ -1,4 +1,4 @@
-# Scene 01
+# ~~~
 
 The waiting room.
 
@@ -119,7 +119,7 @@ And suspicion, she has learned, is the beginning of knowledge.
 
 
 
-# Scene 02
+# ~~~
 
 Dr. Katherine Reyes's office is on the administrative floor of the clinic, above the exam rooms and the waiting area, in a space that looks out over the parking lot and the strip mall beyond. The view is not impressive, but the office itself communicates authority - diplomas on the wall, awards for community service, photographs of Dr. Reyes with local politicians and healthcare executives. This is the office of someone who has learned to navigate institutions, who understands how power flows through organizations, who has risen by knowing when to push and when to accommodate.
 
@@ -229,7 +229,7 @@ The system hums. The queue moves. Someone else is waiting.
 
 
 
-# Scene 03
+# ~~~
 
 The house is quiet. The children sleep. Abuela Carmen sleeps. The clock on the kitchen wall shows 10:47 PM, and Elena sits at the table with her tablet and the light from the overhead fixture casting sharp shadows across her hands.
 
@@ -340,7 +340,7 @@ The question is whether she has the courage to reach out.
 
 
 
-# Scene 04
+# ~~~
 
 Daniel comes home on Thursday evening.
 

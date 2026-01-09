@@ -35,7 +35,7 @@ DeShawn shuts his laptop, the gesture deliberate, the conversation over. "I'm go
 
 "DeShawn—"
 
-But he is already moving, already through the kitchen doorway, already ascending the stairs to the room where he will build the future Jerome fears without understanding why his father fears it.
+But he is already moving, already through the kitchen doorway, already ascending the stairs to the room where he will build the future Jerome distrusts without understanding why his father distrusts it.
 
 The kitchen is quiet. Jerome stares at his newsletter, the paragraph he was writing now contaminated by the argument he did not mean to have.
 
@@ -48,7 +48,7 @@ Now he is the cautious one, and his son dismisses him the same way.
 
 The difference, he tells himself, is that his concerns are legitimate. The systems DeShawn is building, the tools he is learning to use, the companies he admires—they are not neutral. They encode power relationships. They make certain futures possible and others impossible. Jerome has spent twenty-five years documenting how technology shapes society in ways its creators do not intend and its users do not perceive. His fears are not theoretical. They are reported.
 
-But when he tries to communicate this to his son, the words come out wrong. They sound like the general anxiety of an aging man rather than the specific critique of someone who has studied the evidence. DeShawn hears: my father fears what he does not understand. DeShawn does not hear: my father understands what should be feared.
+But when he tries to communicate this to his son, the words come out wrong. They sound like the general anxiety of an aging man rather than the specific critique of someone who has studied the evidence. DeShawn hears: my father fears what he does not understand. DeShawn cannot hear: my father understands what should be feared.
 
 The front door opens. Denise.
 

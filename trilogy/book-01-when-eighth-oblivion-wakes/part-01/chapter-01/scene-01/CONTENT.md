@@ -1,6 +1,6 @@
 The alarm does not sound so much as suggest itself, a rising tone that her phone has calibrated through months of sleep data to catch her at the optimal point in her cycle, and Ananya opens her eyes to the October light already filtering through the automated blinds, which have begun their slow reveal of the backyard oak and the fence beyond it, the fence that marks the property line between her house and the Hendersons' house, the Hendersons who moved to Portland last spring and whose replacement family she has not yet met, has only seen in glimpses from windows, the father washing a car, a child's bicycle left overnight on the lawn.
 
-She lies still for a moment, as she has trained herself to do, feeling the weight of the empty bed beside her, the sheets that have not been disturbed, the pillow that keeps its shape night after night. Two years since James moved out and the geometry of waking has not adjusted. She still sleeps on her side, facing the window, leaving space for a body that is no longer there.
+She lies still for a moment, as she has trained herself to do, registering the weight of the empty bed beside her, the sheets undisturbed, the pillow that holds its shape night after night. Two years since James moved out and the geometry of waking has not adjusted. She still sleeps on her side, facing the window, leaving space for a body that is no longer there.
 
 The house is too large for one person. This was true when they bought it, anticipating a second child that never came, and it is more true now, the four bedrooms excessive, the living room formal and unused, the kitchen designed for gatherings that she no longer hosts. On the weeks when Priya is here, the house feels almost right, her daughter's presence filling some of the volume. On the weeks when Priya is with James, the emptiness has a specific texture, a silence that is not peaceful but populated by absences.
 
@@ -24,7 +24,7 @@ She checks her phone.
 
 The notifications have accumulated overnight: fourteen emails marked urgent (which means none of them are), two Slack threads that have advanced without her, a news digest algorithmically tailored to her professional interests. She scrolls without reading, the gesture itself the point, the checking a form of prayer, a petition to the day to be manageable.
 
-Then: Priya's text from last night, sent at 11:47 PM, after Ananya had fallen asleep with the television murmuring.
+Then: Priya's text from last night, sent at 11:47 PM, after Ananya had fallen asleep with the television muttering to itself.
 
 *school is literally killing me rn*
 

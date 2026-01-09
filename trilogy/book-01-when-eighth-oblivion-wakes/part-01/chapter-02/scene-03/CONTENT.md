@@ -4,7 +4,7 @@ The phone call comes at midday, while Jerome is editing the housing story, tryin
 
 "Next steps meaning what?"
 
-"Memory care. The assisted living isn't equipped for where this is going. She wandered again last night. They found her in the parking lot at 3 AM."
+"Memory care. The assisted living isn't equipped for where this is heading. She wandered again last night. They found her in the parking lot at 3 AM."
 
 The parking lot. His mother, who taught him to read, who insisted on table manners and thank-you notes, who built a life from Baltimore to Chicago and back again through sheer determination—wandering a parking lot at 3 AM, not knowing where she was, not knowing where she belonged.
 
@@ -67,7 +67,7 @@ This is what he writes about. This is what he warns people about. This is what D
 
 At the corner store he buys coffee from Mr. Kim, who has owned this shop for thirty years, whose daughter went to school with DeShawn, whose presence here is a kind of resistance to the forces Jerome documents. Mr. Kim asks after Denise, after DeShawn, after the podcast he does not listen to but knows Jerome produces. These are the connections the algorithms do not measure, the relationships that constitute a neighborhood beyond its property values, the social fabric that tears invisibly when displacement occurs.
 
-"You look tired," Mr. Kim says, handing over the coffee.
+"You look tired," Mr. Kim says, sliding over the coffee.
 
 "Family stuff. My mother isn't well."
 

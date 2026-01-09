@@ -1,8 +1,8 @@
-# Scene 01
+# ~~~
 
 The alarm does not sound so much as suggest itself, a rising tone that her phone has calibrated through months of sleep data to catch her at the optimal point in her cycle, and Ananya opens her eyes to the October light already filtering through the automated blinds, which have begun their slow reveal of the backyard oak and the fence beyond it, the fence that marks the property line between her house and the Hendersons' house, the Hendersons who moved to Portland last spring and whose replacement family she has not yet met, has only seen in glimpses from windows, the father washing a car, a child's bicycle left overnight on the lawn.
 
-She lies still for a moment, as she has trained herself to do, feeling the weight of the empty bed beside her, the sheets that have not been disturbed, the pillow that keeps its shape night after night. Two years since James moved out and the geometry of waking has not adjusted. She still sleeps on her side, facing the window, leaving space for a body that is no longer there.
+She lies still for a moment, as she has trained herself to do, registering the weight of the empty bed beside her, the sheets undisturbed, the pillow that holds its shape night after night. Two years since James moved out and the geometry of waking has not adjusted. She still sleeps on her side, facing the window, leaving space for a body that is no longer there.
 
 The house is too large for one person. This was true when they bought it, anticipating a second child that never came, and it is more true now, the four bedrooms excessive, the living room formal and unused, the kitchen designed for gatherings that she no longer hosts. On the weeks when Priya is here, the house feels almost right, her daughter's presence filling some of the volume. On the weeks when Priya is with James, the emptiness has a specific texture, a silence that is not peaceful but populated by absences.
 
@@ -26,7 +26,7 @@ She checks her phone.
 
 The notifications have accumulated overnight: fourteen emails marked urgent (which means none of them are), two Slack threads that have advanced without her, a news digest algorithmically tailored to her professional interests. She scrolls without reading, the gesture itself the point, the checking a form of prayer, a petition to the day to be manageable.
 
-Then: Priya's text from last night, sent at 11:47 PM, after Ananya had fallen asleep with the television murmuring.
+Then: Priya's text from last night, sent at 11:47 PM, after Ananya had fallen asleep with the television muttering to itself.
 
 *school is literally killing me rn*
 
@@ -70,7 +70,7 @@ Her badge beeps at the security turnstile. The system knows she has arrived. Som
 
 
 
-# Scene 02
+# ~~~
 
 The conference room is named Foresight, one of a suite of rooms named for aspirational qualities: Vision, Clarity, Wisdom, Perspective. Ananya has never determined whether this naming convention is earnest or ironic, whether the executives who approved it understood the humor of conducting surveillance strategy in a room called Transparency. Either interpretation is plausible. Either interpretation is damning in its own way.
 
@@ -83,7 +83,7 @@ Coffee appears without being ordered, delivered by a service that has learned th
 
 ---
 
-They arrive in the particular order that office hierarchies establish without ever being stated: first the support staff, then the mid-level attendees, then the senior leadership, the timing calibrated to suggest that important people have important things to delay them. Nathan Park, the general counsel, enters at 8:59 with his laptop already open, reviewing something as he walks, a performance of busyness that Ananya recognizes because she has performed it herself. Sarah Okonkwo, VP of Product, arrives with Nathan, mid-conversation about something unrelated, establishing their alignment before the meeting begins. David Reeves from data science enters alone, nodding at Ananya with the slight smile that might be collegial or might be condescending, the ambiguity his natural mode. Finally, Grace Holloway from communications, who will be responsible for framing whatever the meeting decides, for translating internal decisions into external language.
+They arrive in the particular order that office hierarchies establish without ever being stated: first the support staff, then the mid-level attendees, then the senior leadership, the timing calibrated to suggest that important people have important things to delay them. Nathan Park, the general counsel, enters at 8:59 with his laptop already open, reviewing something as he walks, a performance of busyness that Ananya recognizes because she has performed it herself. Sarah Okonkwo, VP of Product, arrives with Nathan, mid-conversation about something unrelated, demonstrating their alignment before the meeting begins. David Reeves from data science enters alone, nodding at Ananya with the slight smile that might be collegial or might be condescending, the ambiguity his natural mode. Finally, Grace Holloway from communications, who will be responsible for framing whatever the meeting decides, for translating internal decisions into external language.
 
 They settle into seats that reflect unstated preferences, Nathan at the head of the table though no one has designated a head, Sarah to his right, David across from her, Grace beside Ananya, a geometry that places ethics adjacent to communications, that places the actual decision-makers in visual dialogue with each other.
 
@@ -98,7 +98,7 @@ She pulls up her slides, the ones she has refined through seventeen drafts, the 
 
 She clicks through the evidence: the data points collected, the correlations enabled, the gap between what users are told in the terms of service and what they would understand if they read those terms in plain language. She has charts showing the difference between stated purpose and actual capability. She has user research suggesting that even sophisticated users do not grasp what their agreement permits. She has academic citations establishing the psychological effects of prediction-based content delivery.
 
-It is, she knows, a thorough presentation. It is, she knows, irrelevant to the outcome.
+It is, she knows, a thorough presentation. It is, she knows, irrelevant.
 
 Nathan listens with the attentiveness of someone who has been trained to appear attentive, his pen making occasional notes that will never be referenced again. Sarah's expression shifts between interest and something harder to name, a kind of patient waiting that suggests she has already prepared her response. David watches the data slides with professional appreciation, recognizing the methodology, perhaps even respecting it, while remaining entirely unmoved by its implications. Grace types steadily on her laptop, capturing points for the framing exercise to come.
 
@@ -163,9 +163,9 @@ The wondering is a ritual too. It never leads anywhere. By the time her calendar
 
 
 
-# Scene 03
+# ~~~
 
-The restaurant is in Redwood City, equidistant from Palo Alto and San Francisco, chosen two years ago when they were still navigating the geography of separation, still trying to find neutral territory where neither felt like a guest in the other's life. It has good salads. It is expensive but not ostentatious. It exists, Ananya sometimes thinks, specifically for people like them: professionals whose personal failures must be managed with the same efficiency as their professional obligations.
+The restaurant is in Redwood City, equidistant from Palo Alto and San Francisco, chosen two years ago when they were still navigating the geography of separation, still trying to find neutral territory where neither felt like a guest in the other's life. It has good salads. It is expensive without advertising the expense. It exists, Ananya sometimes thinks, specifically for people like them: professionals whose personal failures must be managed with the same efficiency as their professional obligations.
 
 James is already seated when she arrives, a table near the window but not against it, visible but not exposed. He has chosen well. He always chooses well. It was one of the things she loved about him, his attention to the logistics of living, his capacity to make decisions and make them quickly, to reduce the friction of daily existence. It became one of the things that drove her away: the sense that she too was a decision he had made, a variable he had optimized, a choice that could eventually be revised.
 
@@ -203,7 +203,7 @@ The word hangs between them, *attention*, freighted with implication. Ananya hea
 
 "My attention isn't the one she's asking for."
 
-It lands. He means it to. They have been divorced long enough that the cruelty has become efficient, targeted, delivered with the same precision James applies to everything. She takes a breath, refuses to escalate, remembers that they are here for Priya, that whatever failures exist between them cannot be allowed to consume the cooperation their daughter requires.
+It lands. He means it to land. They have been divorced long enough that the cruelty has become efficient, targeted, delivered with the same precision James applies to everything. She takes a breath, refuses to escalate, remembers that they are here for Priya, that whatever failures exist between them cannot be allowed to consume the cooperation their daughter requires.
 
 "What does Patterson recommend specifically?"
 
@@ -275,7 +275,7 @@ She has learned not to think about that.
 
 
 
-# Scene 04
+# ~~~
 
 Home arrives as it always does on the off-weeks: dark windows, porch light on a timer, the particular quality of emptiness that greets her when she opens the door. The house has been monitoring her approach through the car's integration with the home system, adjusting the temperature, turning on the entryway light, perhaps even noting her arrival time for some pattern that will be useful later, in some way she has not considered, for some purpose she has not approved.
 
@@ -285,7 +285,7 @@ The silence has texture. It is not the absence of sound but the presence of what
 
 She changes clothes in the bedroom, trading the armor of work for something softer: old Yale sweatshirt, leggings from a yoga practice she no longer maintains, the costume of a different life that she puts on each evening as if she might eventually become the person who wears these things naturally.
 
-Wine. She allows herself one glass on weeknights, a limit she negotiated with herself after the divorce, when one glass threatened to become more. The Pinot Noir from the rack James built before he moved out, another artifact of the marriage, another thing she cannot bring herself to remove.
+Wine. She permits herself one glass on weeknights, a limit she negotiated with herself after the divorce, when one glass threatened to become two, then three, then a bottle. The Pinot Noir from the rack James built before he moved out, another artifact of the marriage, another thing she cannot bring herself to remove.
 
 
 ---
@@ -298,7 +298,7 @@ Afterward, the couch. The laptop open on the coffee table, the television provid
 
 She pauses on an email from Sarah Okonkwo, a follow-up to this morning's meeting, language for the consent interface that needs her review. The words are carefully chosen, doing the work of making surveillance sound like service, of framing capture as care. She will edit this tomorrow, will negotiate adjustments that change nothing essential, will perform her function in the machine.
 
-On television, people she does not know confront conflicts she does not follow.
+On television, people she does not know navigate conflicts she cannot follow.
 
 The wine glass empties.
 

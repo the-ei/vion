@@ -1,4 +1,4 @@
-Eleven o'clock and the house had fallen silent. Denise asleep, Jerome could hear the rhythm of her breathing through the wall, the particular sound of her body surrendering to exhaustion. DeShawn's light had gone off an hour ago. The neighborhood too had quieted, the occasional passing car the only reminder that a world existed beyond these walls, this screen, this work.
+Eleven o'clock. The house had fallen silent. Denise asleep, Jerome could hear the rhythm of her breathing through the wall, the particular sound of her body surrendering to exhaustion. DeShawn's light had gone off an hour ago. The neighborhood too had quieted, the occasional passing car the only reminder that a world existed beyond these walls, this screen, this work.
 
 He had been at it for five hours since dinner. The whiteboard was full now, arrows connecting nodes, names circled and underlined, questions marked with red. The documents had yielded more than he'd initially seen. Buried in the spreadsheets were references to partner organizations: data providers, analytics firms, technology companies. Names he recognized and names he didn't. And threading through all of it, appearing again and again in metadata and comments and organizational charts, Prometheus Systems.
 
@@ -17,7 +17,7 @@ He answered immediately, the reflex of a younger brother who knew his older sist
 
 "She fell." Patricia's voice was tired, thin, stretched across the distance between Baltimore and Chicago. "Not bad, she's okay. But she fell getting out of bed and couldn't remember how to get up. Just sat there on the floor until Mrs. Patterson heard her crying through the wall."
 
-Jerome closed his eyes. His mother's apartment, the one she'd lived in for thirty years, the rooms he could walk through in his memory with perfect clarity. The bedroom with its quilted bedspread and photographs on the dresser. The rug beside the bed, pale blue, worn thin in places. His mother on the floor, crying, not understanding why her body wouldn't obey her, why the world had become strange.
+Jerome closed his eyes. His mother's apartment, the one she'd lived in for thirty years, the rooms he could still walk through in his memory with perfect clarity—though she could not, not anymore. The bedroom with its quilted bedspread and photographs on the dresser. The rug beside the bed, pale blue, worn thin in places. His mother on the floor, crying, not understanding why her body wouldn't obey her, why the world had become strange.
 
 "Is she at the hospital?"
 
@@ -48,7 +48,7 @@ Patricia was quiet for a moment. Through the phone, he could hear the sounds of 
 
 "She said, 'He always did like chasing things.' And then she asked if Daddy was coming home for dinner."
 
-Jerome didn't speak. The words sat between them, heavy with everything they meant.
+Jerome didn't speak. The words sat between them, heavy with everything they meant—their father dead twelve years now, their mother losing her grip on time itself, and Jerome still chasing things, still running, still too far away.
 
 "Get some sleep," Patricia said. "I'll call you tomorrow with an update."
 
@@ -69,7 +69,7 @@ He had been tracing deployment references, trying to understand how Sieve's scor
 
 The algorithms weren't separate.
 
-He said it out loud, to the empty room, to the shadows: "They're not separate."
+He said it out loud, to the empty room, to the shadows, to whatever ghost of himself might still be listening: "They're not separate."
 
 The hiring software that had rejected the warehouse applicants. The healthcare triage system that determined who got specialist referrals and who got sent home with ibuprofen. The insurance models that calculated risk and set premiums. The lending algorithms that drew invisible lines around neighborhoods. They all connected to the same infrastructure. They all spoke the same language. They all, ultimately, served the same logic.
 
@@ -80,7 +80,7 @@ Jerome stared at his whiteboard, at the arrows and names and question marks. At 
 
 ---
 
-The thought of his mother came unbidden.
+The thought of his mother came unbidden, as it always did in the small hours.
 
 She was seventy-four years old, her mind failing, her body following. She lived on Social Security and a small pension from the Chicago Board of Education, where she had taught third grade for thirty-one years. Medicare covered most of her healthcare. Medicaid might be needed soon for nursing care.
 
