@@ -1,4 +1,4 @@
-# scene-01
+# Scene 01
 
 The whiteboard has become an organism. Jerome stands before it in his home office, dry-erase marker in hand, watching the lines and boxes and arrows proliferate like something alive, something that grows according to rules he is only beginning to understand. Three days ago this board was nearly empty - a few names, a few connections, the preliminary sketch of an investigation. Now it is covered in a web of corporate entities that spreads from edge to edge, each node linked to others by relationships of ownership and investment and shared infrastructure.
 
@@ -95,7 +95,7 @@ In the morning, he will take the train to Washington.
 
 
 
-# scene-02
+# Scene 02
 
 The Amtrak runs northeast along the corridor, past the rowhouses of Baltimore giving way to the suburbs giving way to the flatter country around Wilmington, the landscape of early spring showing in patches of green between the brown of last year's growth. Jerome sits by the window with his laptop open but not working, watching America slide past at regional rail speed, thinking about what he is going to say to Jamie Okonkwo, how to present what he knows without revealing what he does not.
 
@@ -221,7 +221,7 @@ In his bag, the documents sit like evidence of something. He does not know yet w
 
 
 
-# scene-03
+# Scene 03
 
 The house is too quiet when he arrives.
 
@@ -360,7 +360,7 @@ He lies beside her, watching shadows on the ceiling, and does not sleep for a lo
 
 
 
-# scene-04
+# Scene 04
 
 Four days pass. Jerome tries to be present - comes home for dinner, asks DeShawn about his project, listens when Denise talks about her day. The effort is visible and Denise acknowledges it with small gestures: a touch on his shoulder when she passes, a cup of coffee brought to his office without being asked. They are negotiating a truce, the two of them, navigating the space between his work and their life.
 

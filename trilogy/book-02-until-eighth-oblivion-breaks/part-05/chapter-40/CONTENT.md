@@ -1,4 +1,4 @@
-# scene-01
+# Scene 01
 
 Yusuf spotted Kevin before Kevin spotted him. The tech guy was standing just outside the airport doors, his breath making clouds in the cold air, wearing a jacket that would have been appropriate for San Francisco in December and was absolutely useless here. He looked lost in the way that people from warm climates always looked lost in Minneapolis winter: hunched, uncertain, as if the cold were a personal insult he had not prepared for.
 
@@ -109,7 +109,7 @@ Kevin laughed, the second genuine expression Yusuf had seen from him. "Your CS t
 
 
 
-# scene-02
+# Scene 02
 
 Yusuf settled into the couch and watched Kevin try to navigate his family. It was strange, seeing this space through an outsider's eyes: the apartment that had been his whole world for most of his life, now measured against whatever Kevin was used to in San Francisco.
 
@@ -216,7 +216,7 @@ The door closed behind them. The sun was setting, and the temperature was droppi
 
 
 
-# scene-03
+# Scene 03
 
 The cold hit them immediately, the sun's fading warmth giving way to the night's relentless grip. Kevin hunched into his inadequate jacket despite the borrowed hat, his shoulders climbing toward his ears.
 
@@ -336,7 +336,7 @@ Kevin took a sip of his coffee and began to talk. And Yusuf listened. And somewh
 
 
 
-# scene-04
+# Scene 04
 
 "The thing you have to understand," Kevin said, his hands still wrapped around his coffee, "is that the systems were always going to break. Not because they were badly designed, although some were. Because they were designed to optimize for the wrong things. Efficiency over resilience. Growth over stability. Speed over robustness. You can build the perfect system for normal conditions and it will shatter the moment conditions become abnormal."
 
@@ -436,7 +436,7 @@ Kevin smiled. It was the first real smile Yusuf had seen from him. "That's exact
 
 
 
-# scene-05
+# Scene 05
 
 Fatima had outdone herself. The table was crowded with dishes: kousa mahshi, the stuffed squash glistening with tomato sauce; musakhan, the sumac-rubbed chicken on taboon bread; a salad of cucumbers and tomatoes dressed simply with olive oil and lemon. Yusuf watched Kevin's face as his mother explained each dish, the way his corporate composure gave way to something more human as he tasted the food, the genuine surprise in his expression.
 

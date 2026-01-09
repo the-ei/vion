@@ -1,4 +1,4 @@
-# scene-01
+# Scene 01
 
 The alarm does not sound so much as suggest itself, a rising tone that her phone has calibrated through months of sleep data to catch her at the optimal point in her cycle, and Ananya opens her eyes to the October light already filtering through the automated blinds, which have begun their slow reveal of the backyard oak and the fence beyond it, the fence that marks the property line between her house and the Hendersons' house, the Hendersons who moved to Portland last spring and whose replacement family she has not yet met, has only seen in glimpses from windows, the father washing a car, a child's bicycle left overnight on the lawn.
 
@@ -70,7 +70,7 @@ Her badge beeps at the security turnstile. The system knows she has arrived. Som
 
 
 
-# scene-02
+# Scene 02
 
 The conference room is named Foresight, one of a suite of rooms named for aspirational qualities: Vision, Clarity, Wisdom, Perspective. Ananya has never determined whether this naming convention is earnest or ironic, whether the executives who approved it understood the humor of conducting surveillance strategy in a room called Transparency. Either interpretation is plausible. Either interpretation is damning in its own way.
 
@@ -163,7 +163,7 @@ The wondering is a ritual too. It never leads anywhere. By the time her calendar
 
 
 
-# scene-03
+# Scene 03
 
 The restaurant is in Redwood City, equidistant from Palo Alto and San Francisco, chosen two years ago when they were still navigating the geography of separation, still trying to find neutral territory where neither felt like a guest in the other's life. It has good salads. It is expensive but not ostentatious. It exists, Ananya sometimes thinks, specifically for people like them: professionals whose personal failures must be managed with the same efficiency as their professional obligations.
 
@@ -275,7 +275,7 @@ She has learned not to think about that.
 
 
 
-# scene-04
+# Scene 04
 
 Home arrives as it always does on the off-weeks: dark windows, porch light on a timer, the particular quality of emptiness that greets her when she opens the door. The house has been monitoring her approach through the car's integration with the home system, adjusting the temperature, turning on the entryway light, perhaps even noting her arrival time for some pattern that will be useful later, in some way she has not considered, for some purpose she has not approved.
 

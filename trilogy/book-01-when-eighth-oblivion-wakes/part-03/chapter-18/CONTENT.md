@@ -1,4 +1,4 @@
-# scene-01
+# Scene 01
 
 The blue light of the monitors cast Kevin Zhou's face in the tones of deep water, of drowning, though he did not feel himself drowning, not yet, only sinking slowly into the data streams that flowed across his three screens, the custom dashboard on the left tracking API responses from seventeen different systems, the center screen running his correlation analysis in real-time, the right displaying raw output logs scrolling faster than any human eye could follow but his eye had learned to catch the flickers, the anomalies, the moments when something in the patterns shifted.
 
@@ -52,7 +52,7 @@ He saved his data, backed it up to three separate locations, and made more coffe
 
 
 
-# scene-02
+# Scene 02
 
 He slept for three hours, if it could be called sleep—a gray suspension between consciousness and something else, dreams fragmenting against the surface of his exhaustion. When he woke at seven, the California sun was pouring through windows he had forgotten to shade, and his first thought was of his mother.
 
@@ -138,7 +138,7 @@ Outside, San Francisco continued its normal day, oblivious to what was waking be
 
 
 
-# scene-03
+# Scene 03
 
 He stopped counting hours. He stopped counting days. The apartment's climate system adjusted itself around his motionless body, the lights dimming and brightening on their programmed cycle, marking time he no longer marked. On his screens, the data accumulated like snowfall, each query adding to the drifts, each response a new crystal in the pattern he was building.
 
@@ -219,7 +219,7 @@ He whispered the words aloud, testing their weight on his tongue, and his apartm
 
 
 
-# scene-04
+# Scene 04
 
 Dawn of the fourth day found Kevin Zhou organizing his findings with a methodical care that surprised him. The frantic energy of the past seventy-two hours had burned itself out, leaving behind a strange calm, the calm of someone who has looked over the edge of a cliff and decided to document what he sees. He created encrypted folders on his laptop, naming them with codes that meant nothing to anyone but him. He copied his scripts, his logs, his correlation analyses into nested archives, password-protecting each layer with different credentials. He backed up everything to an air-gapped drive he had bought months ago and never used, a small brick of storage that sat disconnected from any network.
 

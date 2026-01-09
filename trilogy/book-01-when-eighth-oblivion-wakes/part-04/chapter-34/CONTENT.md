@@ -1,4 +1,4 @@
-# scene-01
+# Scene 01
 
 The phone in his hand.
 
@@ -132,7 +132,7 @@ He didn't call. Not yet. But he saved the number. Tomorrow, maybe. Tomorrow he m
 
 
 
-# scene-02
+# Scene 02
 
 The next afternoon, Yusuf and Amina sat together on the couch that had been their mother's favorite, the one she'd bought at a secondhand store when they first moved to this apartment, the one she'd said reminded her of a couch from her childhood in Somalia. The fabric was worn now, the cushions compressed from years of use, but neither of them could imagine replacing it. The couch held memories the way some objects do—not in the foam and thread, but in the accumulated hours of sitting, talking, existing together.
 
@@ -267,7 +267,7 @@ The music carried through the thin walls of the apartment building, into the Min
 
 
 
-# scene-03
+# Scene 03
 
 The call with Elena was harder than he'd expected.
 
@@ -387,7 +387,7 @@ The music was testimony. The testimony was resistance. And resistance, however s
 
 
 
-# scene-04
+# Scene 04
 
 Midnight. The apartment quiet. Amina asleep in the next room, her breathing a distant rhythm through the thin walls.
 

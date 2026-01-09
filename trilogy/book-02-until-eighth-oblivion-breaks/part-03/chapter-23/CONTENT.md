@@ -1,4 +1,4 @@
-# scene-01
+# Scene 01
 
 The files were on a drive the size of her thumb. Ananya held it in her palm, feeling its weight—not physical weight, which was nothing, but the weight of what it contained. Projections, timelines, capability assessments, safety audits. The internal truth of Prometheus Systems, extracted and portable, waiting to be released into the world.
 
@@ -131,7 +131,7 @@ She typed a message to Jerome: *Tonight. I'm ready.*
 
 
 
-# scene-02
+# Scene 02
 
 The meeting at Prometheus was like every other meeting she had attended there. Conference room B, third floor, the windows overlooking the courtyard where employees ate lunch when the weather was good. Ananya sat in her usual seat, reviewed the usual materials, asked the usual questions. No one looked at her with suspicion. No one knew.
 
@@ -287,7 +287,7 @@ It wasn't redemption. It wasn't even courage. It was just the only option left.
 
 
 
-# scene-03
+# Scene 03
 
 Night.
 

@@ -1,4 +1,4 @@
-# scene-01
+# Scene 01
 
 The drive from his house in Roland Park to Grace's place in Northwood took twenty-three minutes on a good day, and Jerome made it every morning regardless of what else demanded his time. Traffic moved differently now than it had five years ago - the autonomous vehicles flowing in algorithmic patterns that were more efficient but somehow less human, as if the city itself had become a machine optimizing throughput without understanding what the throughput was for.
 
@@ -162,7 +162,7 @@ She came around the island and kissed him, a brief touch that carried twenty-fiv
 
 
 
-# scene-02
+# Scene 02
 
 The home studio was in the basement - a space Jerome had converted five years ago when the pandemic before the crisis had made remote work mandatory and staying productive had required physical separation from the domestic rhythms upstairs. Soundproofing on the walls, a professional microphone setup, a background of bookshelves carefully arranged to suggest scholarship without ostentation. The apparatus of serious conversation.
 
@@ -342,7 +342,7 @@ Some things couldn't be written. They had to be lived through first.
 
 
 
-# scene-03
+# Scene 03
 
 DeShawn arrived at six-thirty, twenty minutes late, with the particular energy of someone who was always moving toward the next thing. He came through the front door like a disruption - tall, handsome, carrying himself with a confidence that Jerome recognized as both inheritance and difference. His son, but not his son. A person shaped by forces Jerome had documented but never fully understood.
 

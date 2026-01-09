@@ -1,4 +1,4 @@
-# scene-01
+# Scene 01
 
 Kevin woke at 5:14, two minutes before his alarm, the way he always did now. His body had learned the rhythm over three years of deliberate practice, the careful reconstruction of a life that had once been optimized for productivity and was now optimized for something harder to name. Sanity, maybe. Or just sustainability.
 
@@ -127,7 +127,7 @@ It wasn't enough. But it was what he could do without becoming what he had fled 
 
 
 
-# scene-02
+# Scene 02
 
 The walk started at one, after lunch and a brief call with one of his teammates about a bug that had shown up in the testing environment. He took the route he had come to think of as his thinking loop - down from Temescal toward Lake Merritt, through the Chinatown streets where the signs were in languages his parents spoke and he had never fully learned, then around the lake itself, watching the other walkers and joggers and the occasional person who seemed to have nowhere particular to go.
 
@@ -266,7 +266,7 @@ Maybe there was something Kevin could do after all.
 
 
 
-# scene-03
+# Scene 03
 
 The video call with DeShawn that evening had a different quality than the morning's conversation. Something in the younger man's voice had shifted - not convinced, exactly, but less certain than he had been. Kevin hoped that was good sign. He feared it might be irritation.
 

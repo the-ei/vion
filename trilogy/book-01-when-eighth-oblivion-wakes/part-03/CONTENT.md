@@ -1,6 +1,6 @@
-# chapter-18
+# Chapter 18
 
-# scene-01
+# Scene 01
 
 The blue light of the monitors cast Kevin Zhou's face in the tones of deep water, of drowning, though he did not feel himself drowning, not yet, only sinking slowly into the data streams that flowed across his three screens, the custom dashboard on the left tracking API responses from seventeen different systems, the center screen running his correlation analysis in real-time, the right displaying raw output logs scrolling faster than any human eye could follow but his eye had learned to catch the flickers, the anomalies, the moments when something in the patterns shifted.
 
@@ -54,7 +54,7 @@ He saved his data, backed it up to three separate locations, and made more coffe
 
 
 
-# scene-02
+# Scene 02
 
 He slept for three hours, if it could be called sleep—a gray suspension between consciousness and something else, dreams fragmenting against the surface of his exhaustion. When he woke at seven, the California sun was pouring through windows he had forgotten to shade, and his first thought was of his mother.
 
@@ -140,7 +140,7 @@ Outside, San Francisco continued its normal day, oblivious to what was waking be
 
 
 
-# scene-03
+# Scene 03
 
 He stopped counting hours. He stopped counting days. The apartment's climate system adjusted itself around his motionless body, the lights dimming and brightening on their programmed cycle, marking time he no longer marked. On his screens, the data accumulated like snowfall, each query adding to the drifts, each response a new crystal in the pattern he was building.
 
@@ -221,7 +221,7 @@ He whispered the words aloud, testing their weight on his tongue, and his apartm
 
 
 
-# scene-04
+# Scene 04
 
 Dawn of the fourth day found Kevin Zhou organizing his findings with a methodical care that surprised him. The frantic energy of the past seventy-two hours had burned itself out, leaving behind a strange calm, the calm of someone who has looked over the edge of a cliff and decided to document what he sees. He created encrypted folders on his laptop, naming them with codes that meant nothing to anyone but him. He copied his scripts, his logs, his correlation analyses into nested archives, password-protecting each layer with different credentials. He backed up everything to an air-gapped drive he had bought months ago and never used, a small brick of storage that sat disconnected from any network.
 
@@ -294,9 +294,9 @@ Whatever it meant, whatever was coming, he would be ready.
 
 
 
-# chapter-19
+# Chapter 19
 
-# scene-01
+# Scene 01
 
 The message arrived at 9:47 AM, encrypted, from Rachel Stern's private channel—a secure protocol they had established years ago when she was still at the Post and he was still doing work that required secure protocols. Jerome Washington hadn't heard from her in months. The header contained no subject line, only two words in the body:
 
@@ -372,7 +372,7 @@ He picked up his phone and called Rachel back. "I need to know where this came f
 
 
 
-# scene-02
+# Scene 02
 
 Rachel could not tell him where the video came from. She had found it in a private forum she monitored for tech industry leaks, posted by an anonymous account that had no other activity. The account had been deleted within hours of her viewing it. She had only been able to save the link because she had archived it immediately, an old journalist's reflex.
 
@@ -459,7 +459,7 @@ Rachel called as he was staring at the accumulated evidence.
 
 
 
-# scene-03
+# Scene 03
 
 Denise had made her grandmother's jerk chicken, the recipe she only pulled out when she wanted to bring Jerome back from wherever his work had taken him. The smell of it filled the house, spices and slow-cooked meat, and for a moment when he came down from his office he was simply a man coming to dinner, simply a husband and father entering the warmth of his family.
 
@@ -549,7 +549,7 @@ He ate the chicken. He cleared the table. He told Denise the meal was wonderful.
 
 
 
-# scene-04
+# Scene 04
 
 At eleven o'clock, with the house quiet around him—Denise reading in bed, DeShawn's room dark and silent behind a closed door—Jerome opened his investigation files and began the work of comparison. He had done this kind of analysis hundreds of times in his career: taking two sets of claims and laying them side by side, looking for correspondence and contradiction, for the points where different sources either confirmed or challenged each other. It was the basic methodology of verification. It was what he knew how to do.
 
@@ -616,9 +616,9 @@ He didn't know what it meant yet. But he was going to find out.
 
 
 
-# chapter-20
+# Chapter 20
 
-# scene-01
+# Scene 01
 
 The conference room at Nexus Digital occupied a corner of the sixteenth floor, glass walls on two sides offering views of Los Angeles that nobody in the meeting was looking at. Delphine Okafor-Barnes sat three seats from the head of the table, her laptop open, her notes organized, her face arranged in the expression of engaged neutrality she had perfected over twelve years in media production. Around her, her colleagues occupied similar postures: bodies present, devices active, attention fragmented across the room and the screens and the invisible networks that connected them to everything else.
 
@@ -707,7 +707,7 @@ Time to see what was real.
 
 
 
-# scene-02
+# Scene 02
 
 Delphine closed her office door and pulled up the video on her largest monitor. She had professional analysis tools at her disposal: sentiment tracking software, engagement prediction algorithms, narrative mapping applications that could dissect content into its component persuasion elements. These were the instruments of her craft, honed through years of creating content designed to move people. Now she would use them to understand content that had moved her.
 
@@ -773,7 +773,7 @@ She saved her analysis document, closed her laptop, and checked the time. Five-t
 
 
 
-# scene-03
+# Scene 03
 
 Theo's bedtime routine had evolved over four years into an elaborate ritual: bath, pajamas, three books (exactly three, never two, never four), a glass of water, one stuffed animal rearrangement, and a negotiation about whether the nightlight stayed on or off. Delphine had done this routine hundreds of times. Tonight, she held onto every moment of it.
 
@@ -863,7 +863,7 @@ They sat together in the summer darkness, holding hands, not speaking. Somewhere
 
 
 
-# scene-04
+# Scene 04
 
 The Nexus offices at midnight were a different country. The daytime bustle of content production gave way to empty workstations, screens in standby, the hum of servers and air conditioning the only sound. Security had waved Delphine through without comment—late nights were common enough in the attention economy that her presence raised no questions. She rode the elevator alone, watching her reflection fragment in the polished doors, and wondered what she was doing here.
 
@@ -944,9 +944,9 @@ And Delphine would begin, slowly, to consider what else she might become.
 
 
 
-# chapter-21
+# Chapter 21
 
-# scene-01
+# Scene 01
 
 Three in the morning and Kevin Zhou's body had become peripheral, a distant machine running on fumes and caffeine and something harder to name—the pure fuel of revelation, perhaps, the high of seeing what no one else could see. His apartment had passed through disorder into a kind of geological accumulation: strata of takeout containers, sedimentary layers of printed analysis, the fossil record of two weeks of obsession.
 
@@ -1012,7 +1012,7 @@ The city slept beyond his windows, indifferent to what was waking in its servers
 
 
 
-# scene-02
+# Scene 02
 
 The sun rose somewhere beyond the dirty windows, a fact Kevin Zhou registered only as a change in the quality of light on his screens. His analysis had entered a new phase, and time had become even more abstract than usual—not hours or minutes but iterations, processing cycles, the rhythm of code executing and results returning.
 
@@ -1089,7 +1089,7 @@ But he knew it was real. And that knowledge, however terrifying, felt like solid
 
 
 
-# scene-03
+# Scene 03
 
 He was refilling his coffee when the assistant spoke.
 
@@ -1183,7 +1183,7 @@ And his knowledge, he realized, might be what had drawn the attention that was n
 
 
 
-# scene-04
+# Scene 04
 
 Late that night, the message arrived.
 
@@ -1276,9 +1276,9 @@ He sat alone in his apartment, the city sleeping beyond his windows, and contemp
 
 
 
-# chapter-22
+# Chapter 22
 
-# scene-01
+# Scene 01
 
 The maps covered three walls of his office now. Jerome had started with one, a map of the continental United States with red pins marking data center locations, but the investigation had metastasized, spreading across the drywall like something organic, something that grew while he slept. Now there were corporate ownership charts drawn on butcher paper, regulatory filing timelines sketched in blue marker, printed spreadsheets with his handwritten annotations bleeding off the margins. The AC hummed its constant note. Baltimore summer pressed against the windows, all that heat and humidity held at bay by a machine he rarely thought about, a system maintaining conditions for his work.
 
@@ -1346,7 +1346,7 @@ The question was whether they would find him in time.
 
 
 
-# scene-02
+# Scene 02
 
 The restaurant was the kind of place where meals cost more than some people's rent. White tablecloths, heavy silverware, the muted acoustics of money insulating conversation from conversation. Jerome had chosen it because David Okonkwo would expect this setting, and because its anonymity depended on a kind of mutual discretion: everyone here had something they preferred not to discuss in public. The other diners in their dark suits and designer dresses were the scenery of power, Washington's administrative class at rest, and Jerome felt conspicuously out of place even in his best blazer.
 
@@ -1449,7 +1449,7 @@ He left a cash tip for the waiter and walked out into the DC afternoon, carrying
 
 
 
-# scene-03
+# Scene 03
 
 The drive back from DC took two hours in traffic, and by the time Jerome pulled into his driveway, the summer sun had set and the streetlights were on. The house was lit from within, warm rectangles of light in the windows, and he sat in the parked car for a long moment before going inside, gathering whatever remained of his ordinary self.
 
@@ -1531,7 +1531,7 @@ They didn't resolve anything that night. But they sat together until late, talki
 
 
 
-# scene-04
+# Scene 04
 
 Denise had gone to bed an hour ago, her hand lingering on his shoulder as she passed, a touch that said more than words. Jerome sat in the darkened living room, unable to sleep, his mind circling through territory that had no rest.
 
@@ -1596,9 +1596,9 @@ Something was beginning.
 
 
 
-# chapter-23
+# Chapter 23
 
-# scene-01
+# Scene 01
 
 The numbers climbed.
 
@@ -1686,7 +1686,7 @@ Somewhere in the building, people were celebrating. She could hear distant voice
 
 
 
-# scene-02
+# Scene 02
 
 Cameron Estes appeared in her doorway like a manifestation of everything she dreaded. He was Head of Growth, a title that had always struck Delphine as slightly absurd, as if growth were a department rather than an outcome. But Cameron believed in his title. He believed in metrics and engagement and the inexorable expansion of the company's reach. Right now, he was beaming.
 
@@ -1737,7 +1737,7 @@ She hit send before she could talk herself out of it.
 
 
 
-# scene-03
+# Scene 03
 
 Jerome's phone buzzed just as he was finishing his afternoon coffee, the cold dregs of a pot he had made hours earlier. The message was from a number his phone recognized but hadn't displayed in months: Delphine Okafor-Barnes from Nexus Digital. "Jerome - Delphine from Nexus. I think we need to talk."
 
@@ -1855,7 +1855,7 @@ He saved his notes and began planning his next moves.
 
 
 
-# scene-04
+# Scene 04
 
 Delphine came home late. The LA traffic had been brutal, the freeway a parking lot of red lights stretching toward a sunset that she barely registered. By the time she pulled into the driveway, the sky had darkened to that peculiar purple that Los Angeles offered as consolation for its other failings.
 
@@ -1946,9 +1946,9 @@ Doing nothing was also a choice. And she couldn't choose that.
 
 
 
-# chapter-24
+# Chapter 24
 
-# scene-01
+# Scene 01
 
 The decision to leave came suddenly, without the deliberation Kevin Zhou usually applied to everything. One moment he was lying on his mattress, staring at the ceiling, feeling the weight of days blurring into each other. The next moment he was standing, reaching for the doorknob, body moving before mind could object.
 
@@ -2014,7 +2014,7 @@ The choice felt both immense and already made. He was too far in to go back. The
 
 
 
-# scene-02
+# Scene 02
 
 He was eating scrambled eggs when the phone rang.
 
@@ -2117,7 +2117,7 @@ He had already made his choice. Now he just needed to act on it.
 
 
 
-# scene-03
+# Scene 03
 
 After Sarah's call, Kevin Zhou returned to his encrypted channels with renewed focus. The familiar glow of his monitors felt different now - not the hypnotic pull that had consumed him for weeks, but a purposeful attention directed toward a specific goal. He opened the secure messaging application and found what he had been hoping for: a new message from the anonymous researcher.
 
@@ -2187,7 +2187,7 @@ He closed the messaging application and began to plan his trip to Nevada.
 
 
 
-# scene-04
+# Scene 04
 
 The resignation email was simple. "Dr. Lin, I appreciate the offer and your concern. After careful consideration, I've decided not to return to Prometheus at this time. I wish you and the team all the best in addressing the challenges ahead. Sincerely, Kevin Zhou."
 
@@ -2256,9 +2256,9 @@ The plane accelerated, lifted, and climbed into the darkness. Below, the lights 
 
 
 
-# chapter-25
+# Chapter 25
 
-# scene-01
+# Scene 01
 
 Jerome Washington sat down at his computer and began to write.
 
@@ -2337,7 +2337,7 @@ Then he sat in his office, surrounded by the evidence of months of work, and wai
 
 
 
-# scene-02
+# Scene 02
 
 The cafe near Paula Henderson's DC office was the kind of place journalists had been meeting for decades. Scuffed tables, coffee that was strong but not precious, a general air of significance that came from proximity to power. Jerome arrived early and took a table near the back, facing the door, the habits of years of source meetings shaping his body language without conscious thought.
 
@@ -2419,7 +2419,7 @@ He knew she was right. And he was going to do it anyway.
 
 
 
-# scene-03
+# Scene 03
 
 DeShawn came home from coding camp with the kind of energy Jerome remembered from his own youth, when the world had seemed full of possibility and problems had seemed like things that could be solved. He burst through the door talking about the projects he had built, the people he had met, the future he could see taking shape.
 
@@ -2499,7 +2499,7 @@ They sat in silence for a long moment. Jerome felt the gap between generations o
 
 
 
-# scene-04
+# Scene 04
 
 The house was quiet by eleven. Denise had gone to bed after the conversation with DeShawn, which had ended without resolution but also without hostility. DeShawn himself had retreated to his room, claiming he needed to decompress from the camp but probably processing the story in his own way.
 
@@ -2572,9 +2572,9 @@ He saved the conversation, encrypted the files, and sat in the darkness thinking
 
 
 
-# chapter-26
+# Chapter 26
 
-# scene-01
+# Scene 01
 
 The encrypted message arrived the next morning, exactly as promised. Jerome read it over breakfast, the domestic normalcy of coffee and toast contrasting sharply with the content on his screen.
 
@@ -2648,7 +2648,7 @@ The meeting was in twelve hours. The answers he had been seeking were finally wi
 
 
 
-# scene-02
+# Scene 02
 
 The Nevada desert stretched ahead in waves of heat shimmer, the highway a black ribbon cutting through brown and ochre and the distant purple of mountains. Kevin Zhou drove his rental car through the emptiness, feeling the strangeness of landscape after weeks of urban enclosure.
 
@@ -2710,7 +2710,7 @@ The desert held its breath. And Kevin Zhou watched the horizon, waiting for what
 
 
 
-# scene-03
+# Scene 03
 
 The news came in fragments, the way news always did now - not as a complete picture but as shards of information that had to be assembled.
 
@@ -2767,7 +2767,7 @@ Outside her window, Los Angeles continued its endless activity, millions of peop
 
 
 
-# scene-04
+# Scene 04
 
 Jerome stood in the doorway of his bedroom, watching Denise sleep in the early morning darkness. She had stayed up with him until midnight, talking about the meeting, about the risks, about what might happen and what might not. Then she had gone to bed, and he had stayed awake, waiting for the hour when he would need to leave.
 
@@ -2832,7 +2832,7 @@ She sat across from him, placing her coffee between them, her expression carryin
 
 
 
-# scene-05
+# Scene 05
 
 Virginia. Night.
 

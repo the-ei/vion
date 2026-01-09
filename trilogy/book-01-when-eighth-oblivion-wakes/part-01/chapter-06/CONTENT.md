@@ -1,4 +1,4 @@
-# scene-01
+# Scene 01
 
 The notification came through at 7:43 on a Tuesday morning, while Jerome was still in bed, scrolling through the early headlines on his phone. A new message in the secure app he kept for exactly this purpose, the one with no branding and no features and nothing to recommend it except that it did what it promised: encrypted communication that left no trace.
 
@@ -102,7 +102,7 @@ Late at night, the house quiet, he sent the protocols. The investigation had beg
 
 
 
-# scene-02
+# Scene 02
 
 The interview was Tuesday. It was now Saturday, and DeShawn had spent the week preparing: polishing his portfolio, practicing answers to common questions, researching Prometheus with the thoroughness of someone who believed this opportunity might define his future.
 
@@ -269,7 +269,7 @@ Still nothing. Jerome stood in the hallway, his apology absorbed by the door bet
 
 
 
-# scene-03
+# Scene 03
 
 The facility was called Sunset Gardens, which was precisely the kind of name that tried to disguise what it was. Jerome walked through the lobby with its artificial plants and framed pastoral prints, past the reception desk staffed by women in scrubs who smiled with professional warmth, down the corridor with its handrails and its disinfectant smell toward room 114.
 
@@ -432,7 +432,7 @@ The flight was called. Jerome boarded, found his seat, and flew home through the
 
 
 
-# scene-04
+# Scene 04
 
 He was home by Tuesday morning, landing at BWI as the sun came up over the Chesapeake. Denise had left for school already; DeShawn was in his room, presumably preparing for the afternoon interview.
 

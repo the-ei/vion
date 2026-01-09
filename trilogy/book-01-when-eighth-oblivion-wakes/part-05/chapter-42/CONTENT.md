@@ -1,4 +1,4 @@
-# scene-01
+# Scene 01
 
 The last week of March came in soft, the light different from February's gray insistence. Spring arriving slowly to San Francisco, the way it did - not dramatic transformation but gradual warming, the fog retreating slightly earlier each morning, the parks greening at the edges.
 
@@ -117,7 +117,7 @@ Ananya was quiet for a moment. "My daughter, partly. She asked me what the point
 
 
 
-# scene-02
+# Scene 02
 
 Three hours earlier on the East Coast, Jerome Washington was already deep into his workday. The Baltimore morning had been warm for late March, the kind of warmth that suggested spring was finally arriving rather than just threatening to. He had opened the window in his office to let the air in, and now a light breeze moved through the room, carrying the smell of someone's lawn being mowed.
 
@@ -213,7 +213,7 @@ The vigil could wait until tomorrow.
 
 
 
-# scene-03
+# Scene 03
 
 The screening room at Pacific Sound Studios seated thirty people, but today only fifteen chairs were occupied. A select audience for a select preview - the video series that Delphine had spent the past year making, about to be seen by strangers for the first time.
 
@@ -326,7 +326,7 @@ For now, she drove toward home, toward Theo and dinner and the ordinary life tha
 
 
 
-# scene-04
+# Scene 04
 
 Evening settled over four cities at once.
 

@@ -6,6 +6,20 @@ set -e
 
 TRILOGY_DIR="${1:-trilogy}"
 
+# Convert directory names to proper titles
+format_title() {
+    local name="$1"
+    case "$name" in
+        "book-01-when-eighth-oblivion-wakes") echo "When Eighth Oblivion Wakes" ;;
+        "book-02-until-eighth-oblivion-breaks") echo "Until Eighth Oblivion Breaks" ;;
+        "book-03-beyond-eighth-oblivions-gates") echo "Beyond Eighth Oblivion's Gates" ;;
+        part-*) echo "Part ${name#part-}" ;;
+        chapter-*) echo "Chapter ${name#chapter-}" ;;
+        scene-*) echo "Scene ${name#scene-}" ;;
+        *) echo "$name" ;;
+    esac
+}
+
 echo "Rolling up content from leaves to root..."
 
 # Function to roll up a directory
@@ -41,7 +55,8 @@ rollup_dir() {
             # Extract directory name for section header
             child_dir=$(dirname "$child_content")
             child_name=$(basename "$child_dir")
-            echo -e "# $child_name\n" >> "$temp_content"
+            child_title=$(format_title "$child_name")
+            echo -e "# $child_title\n" >> "$temp_content"
             cat "$child_content" >> "$temp_content"
             echo -e "\n\n" >> "$temp_content"
             has_content=true

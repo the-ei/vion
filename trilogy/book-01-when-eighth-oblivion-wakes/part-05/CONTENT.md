@@ -1,6 +1,6 @@
-# chapter-36
+# Chapter 36
 
-# scene-01
+# Scene 01
 
 She woke at six-fourteen to gray light and the sound of rain against the windows, the same sound that had accompanied so many mornings in this house over the past three years, and for a moment she lay still, orienting herself to the day, to the room, to the body that had carried her through two weeks of aftermath and was now, she realized, asking different questions than it had been asking during the crisis itself. The ceiling above her was the same ceiling. The eucalyptus outside the window moved in the wind the way it always had. And yet.
 
@@ -68,7 +68,7 @@ Soon, she would have to choose differently.
 
 
 
-# scene-02
+# Scene 02
 
 The call connected at twelve-thirty-two, the delay attributable to the chaos of a fourteen-year-old's Saturday, and Priya's face appeared on the screen already mid-sentence, already telling a story about something that had happened at school that week, a story Ananya had to work to follow because she was also looking at her daughter, really looking, trying to see what was different and what was the same.
 
@@ -189,7 +189,7 @@ That, in the end, was why she had done what she had done.
 
 
 
-# scene-03
+# Scene 03
 
 The text arrived at two-fourteen: Coming by in an hour, if that's okay. Need to talk. The sender was Vikram Patel, whose name on her screen produced a complex cascade of feeling: affection, wariness, the memory of working lunches and late meetings and conversations that had felt, at the time, like genuine connection.
 
@@ -323,7 +323,7 @@ She did not know if Vikram was a friend or an emissary or something in between. 
 
 
 
-# scene-04
+# Scene 04
 
 The rain stopped around six, leaving the world washed and dripping, and Ananya stood in her kitchen watching the last light of the January day fade behind the clouds. She had made pasta, a simple dish that required just enough attention to occupy her hands without engaging her mind, and now she ate it standing at the counter, not bothering with a plate, just the pot and a fork and the mechanical motion of feeding herself.
 
@@ -410,9 +410,9 @@ Whatever came next, she would meet it with her eyes open.
 
 
 
-# chapter-37
+# Chapter 37
 
-# scene-01
+# Scene 01
 
 The ring light made his face into a mask, smoothing the shadows, eliminating the depth that made a face recognizable as human. Jerome adjusted it slightly, finding the angle that the producer had approved, and watched his own image on the laptop screen beside the camera: an approximation of himself, optimized for broadcast.
 
@@ -527,7 +527,7 @@ He drank his coffee and looked out the window at the Baltimore winter, at the gr
 
 
 
-# scene-02
+# Scene 02
 
 Denise arrived home at five-forty-three, her footsteps in the entryway carrying the particular weight of teaching exhaustion, the sound of a body that had been performing attention for eight hours and was now allowed to stop. Jerome met her in the kitchen where he had started dinner, a simple stir-fry that required enough attention to keep his hands busy but not so much that he couldn't think about other things.
 
@@ -683,7 +683,7 @@ He kissed her, a brief touch that carried more than it could say, and then he wa
 
 
 
-# scene-03
+# Scene 03
 
 The email from Veronica Stone arrived at two-seventeen in the afternoon, its subject line a model of professional restraint: "Opportunity to discuss." Jerome recognized her name immediately—she was the executive editor of The Washington Tribune, a publication that had once represented everything he distrusted about mainstream journalism and now, after months of his reporting on the crisis, apparently wanted to talk.
 
@@ -804,7 +804,7 @@ He opened his laptop and began to write.
 
 
 
-# scene-04
+# Scene 04
 
 The house settled into quiet around eleven, Denise asleep in their bed, DeShawn's light finally off after hours of coding, and Jerome sat alone in his office with the lamp casting a small circle of warm light against the darkness pressing at the windows. This was his hour, the time he reserved for the work that required silence, the investigations that could not be rushed or interrupted.
 
@@ -911,9 +911,9 @@ And then they slept, while outside the windows the city continued its cold Janua
 
 
 
-# chapter-38
+# Chapter 38
 
-# scene-01
+# Scene 01
 
 The conference room at Meridian Digital smelled of cold brew coffee and ambition, the particular scent of creative work constrained by deadlines and budgets. Delphine took her seat at the table's head, feeling the weight of the position she had worked fifteen years to achieve: creative director, forty-three years old, responsible for translating reality into content that people would watch.
 
@@ -1030,7 +1030,7 @@ She got in her car and drove toward home, carrying the commission like a weight 
 
 
 
-# scene-02
+# Scene 02
 
 The living room had been rearranged for the table read, chairs pulled into a rough circle, scripts distributed, the usual detritus of Jessie's writing process scattered across every surface. Delphine arrived home to find it already populated: actors Jessie had worked with before, a producer Delphine recognized from industry events, and Jessie herself at the center, vibrating with the particular energy of a writer about to hear her words performed.
 
@@ -1184,7 +1184,7 @@ That had to be enough. For now, that had to be enough.
 
 
 
-# scene-03
+# Scene 03
 
 The edit bay smelled of cold coffee and stress, the familiar atmosphere of creative work under deadline. Delphine sat at the central workstation with Kai beside her, reviewing the rough cut of the first episode's opening sequence: a montage of news footage, leaked documents scrolling across screens, the faces of executives and journalists and protesters, all cut together to convey the scope of what had happened.
 
@@ -1301,7 +1301,7 @@ She closed her laptop and went home to her family.
 
 
 
-# scene-04
+# Scene 04
 
 The video call connected at eight-fifteen, the time zone arithmetic that Delphine and her mother had negotiated over years of transatlantic communication. In London it was four in the morning, Adaeze's face appearing on the screen already alert, her natural sleep pattern aligning with her daughter's evening.
 
@@ -1404,9 +1404,9 @@ Delphine took a sip of her tea and felt, for the first time in weeks, like she k
 
 
 
-# chapter-39
+# Chapter 39
 
-# scene-01
+# Scene 01
 
 The approach to Reagan National never failed to move her, even after all these years, even after all the arrivals and departures that had marked her relationship with this city. The Potomac below, the monuments emerging from the geometry of the flight path, the particular way Washington announced itself as a place where power lived. Ruth had first flown into this airport in 1987, a young law clerk about to begin her career, and she had felt then what she felt now: a mixture of awe and skepticism, of recognition and distance.
 
@@ -1489,7 +1489,7 @@ She closed her eyes and let the hotel's artificial silence wrap around her, and 
 
 
 
-# scene-02
+# Scene 02
 
 The Rayburn House Office Building had not changed since Ruth's last visit five years ago, though the faces in its corridors had. Young staffers moved with the particular purposefulness of people who believed their work mattered, carrying documents and tablets and the weight of responsibilities they probably did not fully understand. Ruth walked among them, escorted by a senior aide named Michaela who had worked for the committee since before the crisis and who seemed genuinely relieved that someone with Ruth's credentials had agreed to come.
 
@@ -1603,7 +1603,7 @@ Tomorrow she would leave Washington. But she would not leave empty-handed.
 
 
 
-# scene-03
+# Scene 03
 
 The hotel room felt smaller in the evening, the walls pressing in around the bed and desk and the single chair where Ruth sat with her phone in her hand, deciding whether to make the calls she had been putting off.
 
@@ -1742,7 +1742,7 @@ The night deepened around her as she wrote, and the city outside her window cont
 
 
 
-# scene-04
+# Scene 04
 
 Ruth woke before dawn, her body still calibrated to California time, and for a long moment she lay in the hotel darkness, feeling the city's presence beyond her window. Then she rose, dressed in layers against the February cold, and went out to walk.
 
@@ -1823,9 +1823,9 @@ She boarded her flight and flew west, toward home, toward the work that waited, 
 
 
 
-# chapter-40
+# Chapter 40
 
-# scene-01
+# Scene 01
 
 The law firm occupied the seventh floor of a building on University Avenue that Ananya had passed hundreds of times without ever noticing. That was its function, she understood now. A building designed to be passed. A building that existed precisely because no one would remember seeing it. The lobby smelled faintly of lemon cleaning solution and old coffee, and the elevator made a sound like metal breathing as it rose.
 
@@ -1946,7 +1946,7 @@ Driving home, she passed the Prometheus campus - glass and steel and landscaping
 
 
 
-# scene-02
+# Scene 02
 
 Priya arrived on a Tuesday afternoon, stepping off the train from her father's place with a backpack too heavy for her frame and the particular expression she wore when transitioning between households. Not unhappy, exactly. Just recalibrating. Ananya recognized the look because she'd felt it herself, once, shuttling between divorced parents in a suburb outside Chennai before her family moved to the States.
 
@@ -2122,7 +2122,7 @@ She walked back to her car through the fading light, the week already becoming m
 
 
 
-# scene-03
+# Scene 03
 
 The first offer came Monday morning, before Ananya had finished her coffee. A consulting firm in Menlo Park - TechSafe Partners, the kind of name that told you exactly nothing - had somehow obtained her personal email and wanted to discuss opportunities. Their CEO, a man named Daniel Reeves, spoke with the brisk enthusiasm of someone who saw the world as a series of problems requiring solutions and fees.
 
@@ -2241,7 +2241,7 @@ Ananya made herself dinner - rice, dal, the familiar routine - and ate alone at 
 
 
 
-# scene-04
+# Scene 04
 
 Saturday evening. Priya back at her father's, the house returned to its particular silence. Ananya sat in her home office with the documents arrayed on her desk - actual printed pages, which felt almost anachronistic, but she had wanted to see them all at once, to hold them, to remember that they were physical things with weight and texture.
 
@@ -2362,9 +2362,9 @@ She went to bed earlier than usual and slept better than she had in months.
 
 
 
-# chapter-41
+# Chapter 41
 
-# scene-01
+# Scene 01
 
 The piece went live at 8:00 AM Eastern.
 
@@ -2497,7 +2497,7 @@ What he needed, Jerome realized, was to stop measuring his work in numbers. To f
 
 
 
-# scene-02
+# Scene 02
 
 The kitchen was warm with the smell of something simmering - chicken and vegetables, the kind of simple dinner Denise made when she was too tired to be ambitious but still wanted to feed her family properly. Jerome stood at the counter chopping onions while she stirred the pot, a choreography they'd developed over years of sharing this space.
 
@@ -2648,7 +2648,7 @@ Denise squeezed his hand. "That's what I'm here for."
 
 
 
-# scene-03
+# Scene 03
 
 Saturday afternoon. Denise had gone to visit her sister in Catonsville, leaving Jerome and DeShawn alone in the house. This happened occasionally - the two of them in parallel orbits, aware of each other but not quite intersecting. Jerome in his office, DeShawn in his room. Doors open but conversations minimal.
 
@@ -2814,7 +2814,7 @@ Maybe that was how the two of them could work together.
 
 
 
-# scene-04
+# Scene 04
 
 Evening had settled over the house when Jerome returned to his office. Denise was home from her sister's, and dinner had been simple - leftovers, conversation about her visit, the ordinary rhythm of Saturday evening. DeShawn had eaten with them, contributing more to the conversation than he had in months. Something had shifted.
 
@@ -2927,9 +2927,9 @@ He climbed the stairs toward sleep, toward morning, toward the work that waited.
 
 
 
-# chapter-42
+# Chapter 42
 
-# scene-01
+# Scene 01
 
 The last week of March came in soft, the light different from February's gray insistence. Spring arriving slowly to San Francisco, the way it did - not dramatic transformation but gradual warming, the fog retreating slightly earlier each morning, the parks greening at the edges.
 
@@ -3048,7 +3048,7 @@ Ananya was quiet for a moment. "My daughter, partly. She asked me what the point
 
 
 
-# scene-02
+# Scene 02
 
 Three hours earlier on the East Coast, Jerome Washington was already deep into his workday. The Baltimore morning had been warm for late March, the kind of warmth that suggested spring was finally arriving rather than just threatening to. He had opened the window in his office to let the air in, and now a light breeze moved through the room, carrying the smell of someone's lawn being mowed.
 
@@ -3144,7 +3144,7 @@ The vigil could wait until tomorrow.
 
 
 
-# scene-03
+# Scene 03
 
 The screening room at Pacific Sound Studios seated thirty people, but today only fifteen chairs were occupied. A select audience for a select preview - the video series that Delphine had spent the past year making, about to be seen by strangers for the first time.
 
@@ -3257,7 +3257,7 @@ For now, she drove toward home, toward Theo and dinner and the ordinary life tha
 
 
 
-# scene-04
+# Scene 04
 
 Evening settled over four cities at once.
 

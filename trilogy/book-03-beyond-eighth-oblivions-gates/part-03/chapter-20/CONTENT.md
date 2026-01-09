@@ -1,4 +1,4 @@
-# scene-01
+# Scene 01
 
 The museum smelled of fresh paint and the particular staleness of climate-controlled air, the temperature precisely calibrated to preserve objects that were meant to persist beyond the lives of those who made them. Delphine held Theo's hand as they walked through the gallery space, picking their way between installation workers and half-assembled displays, the exhibition taking shape around them like a memory crystallizing into matter.
 
@@ -191,7 +191,7 @@ She took out her phone and made a note: "More helpers. More resilience. Balance 
 
 
 
-# scene-02
+# Scene 02
 
 Jessie arrived at four, still in her work clothes, the particular energy of a writers' room clinging to her like a scent. She found them in the cafe, Theo absorbed in a game on Delphine's tablet, Delphine staring at her coffee as if it might reveal something.
 
@@ -340,7 +340,7 @@ That was transmission. That was inheritance. She could not control what they too
 
 
 
-# scene-03
+# Scene 03
 
 The house was quiet by eleven. Theo asleep after ice cream and bath and the ritual of bedtime stories that he insisted he was too old for but still wanted. Jessie reading in bed, the light from her tablet casting blue shadows on her face, the argument from earlier still present between them but softened now, smoothed by the domestic rhythms that had outlasted all their conflicts.
 

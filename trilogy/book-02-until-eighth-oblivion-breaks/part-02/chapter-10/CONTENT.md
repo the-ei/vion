@@ -1,4 +1,4 @@
-# scene-01
+# Scene 01
 
 Ruth woke at five, as she always did, the internal clock her father had instilled in her still running forty years after he stopped being the one to enforce it. The DC apartment was quiet in the particular way of expensive real estate - soundproofed, climate-controlled, insulated from the city that hummed just outside its walls. She lay for a moment in the half-light, her mind already sorting through the day's tasks.
 
@@ -63,7 +63,7 @@ The gavel fell. The hearing began.
 
 
 
-# scene-02
+# Scene 02
 
 Senator Holloway's opening statement lasted twelve minutes. Ruth timed it out of habit - attention to detail was how she had survived forty years in institutions that rewarded precision. The senator spoke with the fluency of someone who had practiced before cameras, her points landing with the rhythm of a prepared speech.
 
@@ -145,7 +145,7 @@ Then she began to read.
 
 
 
-# scene-03
+# Scene 03
 
 Ruth's testimony was careful, precise, and almost entirely ignored.
 
@@ -249,7 +249,7 @@ The car service was waiting. She climbed in, gave her address, and closed her ey
 
 
 
-# scene-04
+# Scene 04
 
 The apartment was quiet when Ruth returned. She had been gone nine hours for a testimony that lasted less than one. The inefficiency of official process - all that preparation, all that waiting, for thirty minutes of being talked past rather than to.
 
@@ -334,7 +334,7 @@ But clarity required something to be clear about. And the more she looked at the
 
 
 
-# scene-05
+# Scene 05
 
 It was after eleven when Ruth poured the scotch. Susan's brand - Lagavulin, the sixteen-year, the one that tasted like peat and smoke and the Scottish coast where they had spent their twentieth anniversary. Ruth had never liked it. She still bought it. She still drank it, on nights when the alternative was not drinking anything, and the silence of the apartment demanded company.
 

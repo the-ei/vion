@@ -1,4 +1,4 @@
-# scene-01
+# Scene 01
 
 The light came through the eastern windows at six fourteen in the morning, which Elena knew because she had looked at her phone to check if there were any messages, and there were not, and the time had registered somewhere in the part of her mind that was still recording facts even though the rest of her had stopped processing them sometime during the night, or possibly the night before that. She could not remember when she had last slept. The fluorescent overheads had been on for so long that the dawn light seemed wrong, an intrusion, as if the world outside the clinic had been continuing without them and had now sent evidence of its indifferent persistence.
 
@@ -76,7 +76,7 @@ She leaned against the wall and pressed her hands to her face and breathed. Thir
 
 
 
-# scene-02
+# Scene 02
 
 Between patients, she tried her phone. The screen displayed two bars of signal, a miracle given the past week, and she touched Daniel's name and listened to the silence that followed, the silence that stretched and stretched until it became a tone, a mechanical voice saying that all circuits were busy, please try again later. She tried Sofia's tablet, the one with the parental controls and the tracking feature that was supposed to let her know where her daughter was at any time, but the app spun its loading wheel and eventually displayed an error she did not have the capacity to interpret.
 
@@ -165,7 +165,7 @@ She hung up and went to find the next patient.
 
 
 
-# scene-03
+# Scene 03
 
 Mr. Gutierrez was seventy-four years old and severely dehydrated. His chart said this. Elena read the chart and saw the numbers and began the treatment protocol: IV access, saline bolus, electrolyte panel, monitor for cardiac complications. His skin was loose over the bones of his hands, and when she touched him to find a vein she thought of her abuela's hands, though her abuela's hands were darker, softer, though the comparison made no sense except that everything was making connections now, her mind sliding between present and past without her permission.
 
@@ -267,7 +267,7 @@ Then she put her hands down and looked at her phone. Still no signal. Still no n
 
 
 
-# scene-04
+# Scene 04
 
 The phone rang. It actually rang, and for a moment Elena did not understand what the sound was, this electronic chirping that used to be the most ordinary thing in the world and now seemed like a miracle or a hallucination. She was in the back hallway, near the staff bathrooms, and she fumbled the phone from her pocket and saw Daniel's name on the screen and pressed accept so hard she nearly dropped the device.
 
@@ -380,7 +380,7 @@ She stood in the hallway for a long time after. The fluorescent lights buzzed. S
 
 
 
-# scene-05
+# Scene 05
 
 The break room was never meant for this. It was meant for lunch and coffee and mild complaints about scheduling, and now it held six people who had forgotten how to do anything but sit, their bodies arranged on the worn couch and the plastic chairs like debris deposited by a flood. Elena was among them, though she did not remember deciding to sit, did not remember walking here, only remembered that at some point her legs had stopped carrying her and this is where they had stopped.
 

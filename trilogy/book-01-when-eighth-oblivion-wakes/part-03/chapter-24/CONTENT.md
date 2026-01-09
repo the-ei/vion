@@ -1,4 +1,4 @@
-# scene-01
+# Scene 01
 
 The decision to leave came suddenly, without the deliberation Kevin Zhou usually applied to everything. One moment he was lying on his mattress, staring at the ceiling, feeling the weight of days blurring into each other. The next moment he was standing, reaching for the doorknob, body moving before mind could object.
 
@@ -64,7 +64,7 @@ The choice felt both immense and already made. He was too far in to go back. The
 
 
 
-# scene-02
+# Scene 02
 
 He was eating scrambled eggs when the phone rang.
 
@@ -167,7 +167,7 @@ He had already made his choice. Now he just needed to act on it.
 
 
 
-# scene-03
+# Scene 03
 
 After Sarah's call, Kevin Zhou returned to his encrypted channels with renewed focus. The familiar glow of his monitors felt different now - not the hypnotic pull that had consumed him for weeks, but a purposeful attention directed toward a specific goal. He opened the secure messaging application and found what he had been hoping for: a new message from the anonymous researcher.
 
@@ -237,7 +237,7 @@ He closed the messaging application and began to plan his trip to Nevada.
 
 
 
-# scene-04
+# Scene 04
 
 The resignation email was simple. "Dr. Lin, I appreciate the offer and your concern. After careful consideration, I've decided not to return to Prometheus at this time. I wish you and the team all the best in addressing the challenges ahead. Sincerely, Kevin Zhou."
 

@@ -1,4 +1,4 @@
-# scene-01
+# Scene 01
 
 The address was a house in Edina, one of those suburb-within-a-suburb neighborhoods where the lawns were immaculate and the houses all looked like they'd been designed by the same AI. Yusuf pulled up to the curb, checked the order on his phone - Thai food, forty-seven dollars, the customer had tipped eighteen percent in advance - and jogged to the door with the bag swinging.
 
@@ -139,7 +139,7 @@ He hung up and sat in the silence. The cascade hadn't stopped. But something els
 
 
 
-# scene-02
+# Scene 02
 
 Amina came through the door carrying a backpack and a duffel bag, wearing a University of Minnesota sweatshirt and the kind of white sneakers that cost more than Yusuf made in a shift. She dropped everything in the hallway and wrapped her arms around him, squeezing hard enough to hurt.
 
@@ -329,7 +329,7 @@ He pushed the door open and walked in.
 
 
 
-# scene-03
+# Scene 03
 
 The lobby smelled the same. That particular mix of cigarette smoke and audio equipment, of late nights and creative desperation. The walls were covered with album artwork, most of it from artists Yusuf didn't recognize but some from people he knew, people he had worked alongside in the years before everything changed.
 

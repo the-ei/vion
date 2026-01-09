@@ -1,4 +1,4 @@
-# scene-01
+# Scene 01
 
 The list was written on the back of a pharmaceutical pamphlet, the kind that used to arrive by the boxful, glossy paper extolling the virtues of medications Elena could no longer obtain. She had torn off the cover image - a smiling woman holding her grandchild, presumably free of joint pain - and turned to the blank reverse side. There, in her own handwriting, which had grown smaller and more precise over the past week as if compressing each letter might somehow conserve the ink, she had written the names.
 
@@ -78,7 +78,7 @@ If there was anything left to return to.
 
 
 
-# scene-02
+# Scene 02
 
 She was changing the dressing on a child's infected scrape - a boy, maybe eight, who had fallen from a tree while his mother was distracted by something more urgent - when she looked up and saw him in the doorway.
 
@@ -154,7 +154,7 @@ He did not answer. But he squeezed her hand once, tight, and that was enough.
 
 
 
-# scene-03
+# Scene 03
 
 By noon, Maria Gutierrez had stopped being able to keep water down.
 
@@ -260,7 +260,7 @@ Something was hardening inside her. Something cold and clear. She did not know y
 
 
 
-# scene-04
+# Scene 04
 
 The man's name was Jerome Wallace, and he had walked eight miles to deliver the news.
 
@@ -343,7 +343,7 @@ They were stealing. She knew that. But the word had lost its meaning somewhere i
 
 
 
-# scene-05
+# Scene 05
 
 They returned to the clinic at ten.
 

@@ -1,4 +1,4 @@
-# scene-01
+# Scene 01
 
 The light through the bay windows had that particular quality of late October mornings in San Francisco, soft and diffuse, the fog having burned off an hour earlier but the sun not yet committed to anything as assertive as warmth. Ananya stood at the kitchen counter with her second cup of coffee, watching the street below where a woman walked a golden retriever past the row of Victorian facades. The dog stopped at every tree. The woman waited, phone pressed to her ear. A ordinary Tuesday, the kind of morning she had learned to appreciate in the eighteen months since leaving Prometheus, these small moments of nothing happening, of time not accelerating toward some deadline or deliverable.
 
@@ -150,7 +150,7 @@ Ananya watched them disappear around the corner and tried to remember the last t
 
 
 
-# scene-02
+# Scene 02
 
 That evening, after Delphine left and the apartment grew quiet, Ananya opened her laptop and navigated to the folder she had not touched in eighteen months. Prometheus Archives. Twelve hundred files spanning eight years. Memos, meeting notes, presentation slides, emails she had forwarded to her personal account when she still believed documentation might matter.
 
@@ -299,7 +299,7 @@ She looked at the envelope on her desk, the complaint she would have to answer. 
 
 
 
-# scene-03
+# Scene 03
 
 Three days later, Priya arrived with her overnight bag slung over one shoulder and her laptop clutched to her chest like a shield. She had Ananya's eyes but Vikram's bone structure, the combination producing a face that could shift from open to guarded in the space of a breath.
 

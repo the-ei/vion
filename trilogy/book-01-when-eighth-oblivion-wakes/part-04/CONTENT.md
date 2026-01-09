@@ -1,6 +1,6 @@
-# chapter-27
+# Chapter 27
 
-# scene-01
+# Scene 01
 
 The phone woke her at 6:47. Not the soft pulse of a morning alarm but the cascade, the waterfall of urgent: sixteen notifications stacked before she could focus her eyes. Ananya sat up in the dark. The screen's blue light made a theater of her bedroom wall.
 
@@ -137,7 +137,7 @@ She was watching herself be complicit. She was observing her complicity like dat
 
 
 
-# scene-02
+# Scene 02
 
 They moved to the executive conference room at eleven. The C-suite only. Legal. Communications. And Ananya, nominally, for ethics review.
 
@@ -253,7 +253,7 @@ Her objection was noted. The statement was released. The lie was now official, c
 
 
 
-# scene-03
+# Scene 03
 
 Her office was quiet. The eighteenth floor had emptied as people moved to their stations, their tasks, their roles in the machinery of crisis management. Ananya closed the door and stood for a moment in the silence, looking at the space that had been hers for three years.
 
@@ -367,7 +367,7 @@ She stayed at the window until the light was gone, and the glass showed only her
 
 
 
-# scene-04
+# Scene 04
 
 At 6:00, she told her assistant she was staying late to catch up on documentation. The lie came easily - another small addition to the day's accumulation. Michael nodded, wished her good night, and left her alone on a floor that was rapidly emptying.
 
@@ -464,9 +464,9 @@ The choice hadn't been made yet. But the possibility of making it had.
 
 
 
-# chapter-28
+# Chapter 28
 
-# scene-01
+# Scene 01
 
 The eggs were burning. Jerome smelled it before he saw it, the particular char of neglected breakfast, and he moved to the stove just as the smoke began to rise. His mother sat at the kitchen table in her housecoat, watching him with the mild confusion that had become her default expression over the past two years.
 
@@ -606,7 +606,7 @@ He was already in the car when the first source call came through, the story beg
 
 
 
-# scene-02
+# Scene 02
 
 The coffee shop in downtown Baltimore was chosen for its reliable wifi and relative anonymity - a place Jerome had used before when he needed to work away from the usual spots. He claimed a corner table, plugged in his laptop, and began the process of trying to understand what was happening.
 
@@ -767,7 +767,7 @@ Jerome didn't know what to call it either. But he was going to find out.
 
 
 
-# scene-03
+# Scene 03
 
 Elena Varga responded to his message at 2:14 PM.
 
@@ -885,7 +885,7 @@ On the walk to the station, he passed a pharmacy with a handwritten sign on the 
 
 
 
-# scene-04
+# Scene 04
 
 The train left Baltimore at 6:15 PM, sliding through the gray November evening toward Washington. Jerome found a window seat and opened his laptop, but for a long time he just watched the landscape pass - the industrial edges of the city giving way to suburbs, the suburbs to the liminal spaces of highway infrastructure that connected one place to another.
 
@@ -1021,9 +1021,9 @@ Jerome had picked his. He was on the side of the truth. And tomorrow, he would s
 
 
 
-# chapter-29
+# Chapter 29
 
-# scene-01
+# Scene 01
 
 The patient in Room 3 was complaining of chest pain. Elena called up his chart on the diagnostic terminal and waited for the AI to generate its preliminary assessment. The screen flickered once, twice, and then displayed results that made no sense.
 
@@ -1174,7 +1174,7 @@ Elena went back to work. But she kept her phone close, the camera ready. Documen
 
 
 
-# scene-02
+# Scene 02
 
 The message arrived at 2:14 PM, while Elena was sitting on the break room couch trying to eat a protein bar she didn't want.
 
@@ -1308,7 +1308,7 @@ She pushed through the treatment room door and went back to work.
 
 
 
-# scene-03
+# Scene 03
 
 Halima Hassan's condition had been stable for two hours. The insulin drip was working, her glucose levels falling toward safety, her breathing steady. Dr. Okonkwo had pronounced herself cautiously optimistic and moved on to other patients. Amina, Halima's daughter, had gone to the waiting room to update the rest of the family.
 
@@ -1467,7 +1467,7 @@ She began uploading her documentation to secure storage. The evidence was buildi
 
 
 
-# scene-04
+# Scene 04
 
 The clinic was quiet now. 10:00 PM. Most of the staff had gone home, the crisis absorbed into the routines of shift change and patient transfer. Elena should have left hours ago, but she was still here, sitting at a computer in the staff area, unable to make herself leave.
 
@@ -1580,9 +1580,9 @@ Tonight, she just let herself be held.
 
 
 
-# chapter-30
+# Chapter 30
 
-# scene-01
+# Scene 01
 
 The app's voice had been giving directions for thirty minutes when it started to malfunction.
 
@@ -1746,7 +1746,7 @@ He just had to keep driving through the chaos.
 
 
 
-# scene-02
+# Scene 02
 
 The drive should have taken twenty minutes. It took nearly two hours.
 
@@ -1906,7 +1906,7 @@ But they would eat tonight. That was something.
 
 
 
-# scene-03
+# Scene 03
 
 Their mother woke at 3:00, called by the smell of cooking. Amina had transformed the groceries into something that made sense - rice from the Singh family's order, vegetables from Mrs. Patterson's organic selection, a stew that blended ingredients that had never been meant to go together but worked anyway.
 
@@ -2036,7 +2036,7 @@ They settled in together, the three of them, the crisis continuing outside while
 
 
 
-# scene-04
+# Scene 04
 
 Evening. Halima was resting again, her levels checked and stable, the old manual routine replacing the failed technology. Amina had gone to her room to study - school might or might not happen tomorrow, but she was determined to stay caught up regardless.
 
@@ -2155,9 +2155,9 @@ But tonight, he wrote. And the song grew.
 
 
 
-# chapter-31
+# Chapter 31
 
-# scene-01
+# Scene 01
 
 Three days later, Ananya walked back into Prometheus headquarters.
 
@@ -2330,7 +2330,7 @@ Tomorrow, Ananya would talk to Priya. Tonight, she just needed to get through.
 
 
 
-# scene-02
+# Scene 02
 
 Vikram's house was in Palo Alto, a carefully maintained craftsman in a neighborhood where the trees were old and the property values were new. Ananya had lived there for eight years, back when they were married, back when the future seemed predictable. Now she pulled into the driveway as a visitor, waiting for her daughter to emerge.
 
@@ -2476,7 +2476,7 @@ The right thing. Even when it's hard.
 
 
 
-# scene-03
+# Scene 03
 
 Jerome's face appeared on her screen at 10:00 exactly. He was in what looked like a home office - bookshelves behind him, a window showing gray sky, the setup of someone who had been working from home long before it was common.
 
@@ -2625,7 +2625,7 @@ Tomorrow, Ananya would begin the final preparations. Tonight, she allowed hersel
 
 
 
-# scene-04
+# Scene 04
 
 Late night, Day 5. Ananya sat at her home office desk, the apartment quiet around her, and began the work of commitment.
 
@@ -2742,9 +2742,9 @@ She had made her choice. Now she just had to live with it.
 
 
 
-# chapter-32
+# Chapter 32
 
-# scene-01
+# Scene 01
 
 The phone rang at 7:42 in the morning, which was the first indication that something had shifted. Serious offers came through formal channels, scheduled calls with assistants clearing the calendar weeks in advance. Informal calls came late at night, when the whiskey had softened reservations and people said what they actually meant. But 7:42 on a Tuesday morning suggested something else entirely: urgency dressed as casualness, the pretense that this was just one professional reaching out to another, no big deal, happened to be thinking of you.
 
@@ -2840,7 +2840,7 @@ His coffee had gone cold. The house remained quiet. Somewhere upstairs, DeShawn 
 
 
 
-# scene-02
+# Scene 02
 
 DeShawn appeared in the kitchen at three in the afternoon, which was early for winter break. He was wearing the oversized hoodie he'd claimed from Jerome's closet two years ago, the one with the Georgetown logo faded to illegibility, and he moved with the particular languor of a teenager who has decided that consciousness is a temporary concession to biology.
 
@@ -2983,7 +2983,7 @@ He didn't have an answer. But he knew he had to find one. And he knew that whate
 
 
 
-# scene-03
+# Scene 03
 
 They made dinner together, which was how it had always been in the years after the children were old enough to not require supervision. Jerome chopped vegetables while Denise stood at the stove, stirring the pot of soup she made every winter, the recipe inherited from her grandmother and modified over decades until it bore little resemblance to its origin except in intent. The kitchen filled with the smell of garlic and thyme, and for a while neither of them spoke about the things that needed speaking about.
 
@@ -3119,7 +3119,7 @@ She reached across the table, took his hand again. The soup was cooling, the kit
 
 
 
-# scene-04
+# Scene 04
 
 The day of publication arrived with the kind of ordinary morning light that felt incongruous to its significance. Jerome had been up since four, running through the final checks: the verification of every claim, the placement of every document, the careful architecture of the story built over months now ready to enter the world. His office glowed with the light of multiple screens, each showing a different piece of what was about to become public.
 
@@ -3263,9 +3263,9 @@ The house was quiet around them. The story was in the world. And Jerome sat in h
 
 
 
-# chapter-33
+# Chapter 33
 
-# scene-01
+# Scene 01
 
 The phone woke her at 5:47 AM.
 
@@ -3432,7 +3432,7 @@ The conversation had begun. The consequences were arriving. And Elena, sitting i
 
 
 
-# scene-02
+# Scene 02
 
 The kitchen table had held many conversations over the years. Elena remembered the first time she and Daniel had sat at this table in this house, the realtor's key still in her hand, talking about whether they could afford the mortgage and whether the neighborhood was safe and whether their imagined children would be happy here. She remembered the conversation when she was pregnant with Sofia, the joy shot through with terror, the future suddenly requiring a vocabulary she hadn't known she needed. And the conversation when her father died, four years ago, the call coming at dawn, Daniel holding her hand across this same table while she tried to understand what it meant that he was gone.
 
@@ -3563,7 +3563,7 @@ The decision was made. The family understood. Tomorrow, she would return to the 
 
 
 
-# scene-03
+# Scene 03
 
 The next morning, Elena returned to the clinic.
 
@@ -3683,7 +3683,7 @@ The house waited, lights on, family inside. Elena got out of the car and went ho
 
 
 
-# scene-04
+# Scene 04
 
 The children were already in bed when Elena finished her conversation with Yusuf Hassan. She sat on the couch, phone in hand, the weight of what he'd said still pressing on her chest. Daniel sat beside her, close enough to touch but not touching, giving her the space to process.
 
@@ -3794,9 +3794,9 @@ Elena closed her eyes. Tomorrow, the work would continue. Tonight, she rested.
 
 
 
-# chapter-34
+# Chapter 34
 
-# scene-01
+# Scene 01
 
 The phone in his hand.
 
@@ -3930,7 +3930,7 @@ He didn't call. Not yet. But he saved the number. Tomorrow, maybe. Tomorrow he m
 
 
 
-# scene-02
+# Scene 02
 
 The next afternoon, Yusuf and Amina sat together on the couch that had been their mother's favorite, the one she'd bought at a secondhand store when they first moved to this apartment, the one she'd said reminded her of a couch from her childhood in Somalia. The fabric was worn now, the cushions compressed from years of use, but neither of them could imagine replacing it. The couch held memories the way some objects do—not in the foam and thread, but in the accumulated hours of sitting, talking, existing together.
 
@@ -4065,7 +4065,7 @@ The music carried through the thin walls of the apartment building, into the Min
 
 
 
-# scene-03
+# Scene 03
 
 The call with Elena was harder than he'd expected.
 
@@ -4185,7 +4185,7 @@ The music was testimony. The testimony was resistance. And resistance, however s
 
 
 
-# scene-04
+# Scene 04
 
 Midnight. The apartment quiet. Amina asleep in the next room, her breathing a distant rhythm through the thin walls.
 
@@ -4311,9 +4311,9 @@ The song was testimony. The testimony was resistance. And the resistance had beg
 
 
 
-# chapter-35
+# Chapter 35
 
-# scene-01
+# Scene 01
 
 The apartment felt larger now that she was home all day.
 
@@ -4407,7 +4407,7 @@ That would have to be enough.
 
 
 
-# scene-02
+# Scene 02
 
 Jerome spent the morning reading the discourse.
 
@@ -4533,7 +4533,7 @@ It was the closest thing to an apology Jerome was likely to get. He took it, gra
 
 
 
-# scene-03
+# Scene 03
 
 The shift was long—twelve hours, seven in the morning to seven in the evening—but Elena had done longer. The work itself was familiar, the endless procession of bodies in need, the particular rhythm of care that had shaped her professional life for a decade and a half. What had changed was the context surrounding that work, the knowledge that she was now a public figure whether she wanted to be or not.
 
@@ -4647,7 +4647,7 @@ That was enough. For now, it had to be enough.
 
 
 
-# scene-04
+# Scene 04
 
 The video had been live for three days, and Yusuf's phone hadn't stopped buzzing since.
 
@@ -4768,7 +4768,7 @@ The snow kept falling. The city slept. And Yusuf sat with his grief and his hope
 
 
 
-# scene-05
+# Scene 05
 
 December 28th, 2033. Four cities. Four notifications.
 

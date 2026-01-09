@@ -1,4 +1,4 @@
-# scene-01
+# Scene 01
 
 The office had been a sunporch once, and on mornings like this one Jerome could still feel its former life pressing through the walls. Gray February light filtered through windows that faced the backyard, where the skeletal form of the maple tree stood motionless against a sky the color of wet cement. The radiator clicked and ticked its irregular percussion. Somewhere in the house, a floorboard settled. These were the sounds of his diminished kingdom, the converted space where Jerome Washington, fifty-two years old, veteran of the Baltimore Sun, the Washington Post, and finally the brief bright flame of The Inquiry before it guttered and died, now wrote his newsletter for eleven hundred paying subscribers and dreamed smaller dreams than he used to.
 
@@ -70,7 +70,7 @@ Sent it. Closed the app. Opened the documents again. The day was not yet half ov
 
 
 
-# scene-02
+# Scene 02
 
 Denise had made pasta, the simple one with garlic and olive oil and whatever vegetables were threatening to go soft in the crisper. Tonight it was broccoli and a bell pepper that had seen better days, both cut small and sauteed until they yielded. She had changed out of her teaching clothes into sweatpants and an old Howard sweatshirt, her hair pulled back, her face carrying the particular exhaustion of a day spent explaining the Missouri Compromise to seventeen-year-olds who would rather be anywhere else.
 
@@ -180,7 +180,7 @@ The cursor blinked. Outside, the February night pressed against the windows, col
 
 
 
-# scene-03
+# Scene 03
 
 Eleven o'clock and the house had fallen silent. Denise asleep, Jerome could hear the rhythm of her breathing through the wall, the particular sound of her body surrendering to exhaustion. DeShawn's light had gone off an hour ago. The neighborhood too had quieted, the occasional passing car the only reminder that a world existed beyond these walls, this screen, this work.
 
@@ -290,7 +290,7 @@ He didn't sleep.
 
 
 
-# scene-04
+# Scene 04
 
 The coffee was already made when Denise came down at six-fifteen. Jerome sat at the kitchen table, unshaved, his eyes red-rimmed, two cups in front of him—one empty, one half full. The morning light was gray again, February refusing to yield to anything brighter. Outside, a garbage truck rumbled down the street, its mechanical arm grabbing cans with a crash that echoed through the quiet.
 

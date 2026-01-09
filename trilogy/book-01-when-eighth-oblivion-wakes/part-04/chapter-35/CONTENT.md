@@ -1,4 +1,4 @@
-# scene-01
+# Scene 01
 
 The apartment felt larger now that she was home all day.
 
@@ -92,7 +92,7 @@ That would have to be enough.
 
 
 
-# scene-02
+# Scene 02
 
 Jerome spent the morning reading the discourse.
 
@@ -218,7 +218,7 @@ It was the closest thing to an apology Jerome was likely to get. He took it, gra
 
 
 
-# scene-03
+# Scene 03
 
 The shift was long—twelve hours, seven in the morning to seven in the evening—but Elena had done longer. The work itself was familiar, the endless procession of bodies in need, the particular rhythm of care that had shaped her professional life for a decade and a half. What had changed was the context surrounding that work, the knowledge that she was now a public figure whether she wanted to be or not.
 
@@ -332,7 +332,7 @@ That was enough. For now, it had to be enough.
 
 
 
-# scene-04
+# Scene 04
 
 The video had been live for three days, and Yusuf's phone hadn't stopped buzzing since.
 
@@ -453,7 +453,7 @@ The snow kept falling. The city slept. And Yusuf sat with his grief and his hope
 
 
 
-# scene-05
+# Scene 05
 
 December 28th, 2033. Four cities. Four notifications.
 

@@ -1,4 +1,4 @@
-# scene-01
+# Scene 01
 
 Jerome woke at six as he always did, his body calibrated to the rhythm of deadlines and morning news, and reached for his phone before his eyes were fully open. The screen lit at his touch, the familiar glow in the darkness of the bedroom, and he swiped to check the overnight notifications, the emails from editors, the breaking news alerts, the aggregated feeds that told him each morning what the world had done while he slept.
 
@@ -95,7 +95,7 @@ It was the question she always asked, the teacher's instinct to organize informa
 
 
 
-# scene-02
+# Scene 02
 
 By eight o'clock, Jerome had filled three pages of the legal pad. He wrote in the handwriting he had almost forgotten he possessed, the cursive script his mother had insisted he learn forty years ago, before keyboards made handwriting obsolete. He wrote what the radio said: outages reported. systems affected. the following areas. stay tuned for updates. He wrote what the radio didn't say: anything about cause, scope, duration, or meaning.
 
@@ -187,7 +187,7 @@ The morning stretched on. The radio talked. Jerome listened and wrote and waited
 
 
 
-# scene-03
+# Scene 03
 
 Denise returned at noon. She had not made it to the school; the traffic lights on 33rd Street were out, causing gridlock, and when she finally reached the building she found it locked, a paper sign on the door saying CLOSED UNTIL FURTHER NOTICE in hasty handwriting.
 
@@ -292,7 +292,7 @@ Mrs. Patterson nodded, unsurprised. She had lived through enough to know that un
 
 
 
-# scene-04
+# Scene 04
 
 Back in his apartment, Jerome sat with the phone in his hand and thought about his son.
 
@@ -361,7 +361,7 @@ He thought about calling DeShawn again. He thought about trying different number
 
 
 
-# scene-05
+# Scene 05
 
 At four o'clock, Jerome went back upstairs to check on Mrs. Patterson. The tea she had offered earlier had been surprisingly good, a loose-leaf blend her late husband used to buy from a shop that had closed years ago. She had talked about Gerald Patterson for an hour, about his job at the steel plant before it closed, about the garden he used to keep on the roof of the building, about the way he would sit by this same window in the evenings and watch the city settle into darkness.
 

@@ -1,4 +1,4 @@
-# scene-01
+# Scene 01
 
 The waiting room had the same magazines it had held a month ago, the same faded posters about hand-washing and vaccine schedules. Elena had sat in rooms like this ten thousand times as a provider, guiding patients through anxious waits, but she had never fully understood the particular quality of time when you were the one waiting. Each minute stretched, became elastic, seemed to hold more seconds than physics should allow.
 
@@ -159,7 +159,7 @@ She couldn't promise. No one could promise anything about bodies and time. But s
 
 
 
-# scene-02
+# Scene 02
 
 Daniel cooked with the same attention he brought to construction - measuring, leveling, ensuring everything was precisely where it needed to be. The kitchen filled with the smell of his grandmother's recipes: chiles roasting on the burner, beans simmering on the back, the particular spice blend he'd learned before she died.
 
@@ -332,7 +332,7 @@ The marriage had bent. It had nearly broken. But here, in the kitchen that smell
 
 
 
-# scene-03
+# Scene 03
 
 Her abuela's cane made a sound against the sidewalk that Elena had never noticed before. Click. Pause. Click. The rhythm of a body negotiating with concrete, with gravity, with the accumulated weight of seventy-eight years. They walked together down the street where Elena had grown up, past the Martinez house with its chain-link fence, past the lot where Mr. Dominguez used to work on cars before his hands gave out, past the corner where she had waited for the school bus every morning for twelve years.
 

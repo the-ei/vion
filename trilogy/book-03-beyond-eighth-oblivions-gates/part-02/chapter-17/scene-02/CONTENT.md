@@ -51,3 +51,29 @@ The first video call was with Kevin himself, welcoming him to the company. Kevin
 
 ---
 
+The morning passed in a blur of faces and names and information. He met the engineering team - young people mostly, idealistic in the way that people who had never been ground down by algorithms could afford to be. He met the product manager, who asked careful questions about his experience and actually seemed to listen to the answers. He sat through presentations about the company's mission, its values, its commitment to building technology that didn't exploit the people it touched.
+
+Some of it was corporate talk, the kind of language that companies used to describe themselves whether or not it matched reality. But some of it felt genuine. The questions his new colleagues asked weren't performative; they wanted to know what he had seen, what he had survived, what it actually felt like to be managed by an algorithm that didn't see you as human.
+
+Between meetings, he put on his headphones and played the track he had recorded at the studio. The music filled his ears - the chords, the bass line, the anger that had found its shape. It was rough, unfinished, but it was his. It was the part of him that this job couldn't touch, the thing that existed outside of any system, algorithmic or corporate or otherwise.
+
+The song ended. A notification popped up: his next meeting in five minutes. He closed the music app and rejoined the world of video calls and shared screens and people who were going to pay him to notice harm before it happened.
+
+
+---
+
+At lunch, his mother knocked softly on the living room doorframe. He was between calls, staring at documentation about the company's workforce management systems, trying to understand the architecture of tools that were very similar to the ones that had shaped his own life.
+
+"You should eat something."
+
+She had made a sandwich, simple and practical. He took it and ate at his desk, reading while he chewed, the same kind of multitasking he had done during his gig years but oriented toward a different purpose now.
+
+The documentation was dense with technical language, but underneath it Yusuf could see the logic - the same logic that had governed his years of deliveries, the same optimization functions, the same assumptions about what workers were and what they wanted. He started making notes. Questions. Places where his experience told him the system would create problems that the engineers couldn't anticipate.
+
+This was what he had been hired to do. This was why Kevin had flown to Minneapolis and sat in that coffee shop and offered him a number that still didn't feel real. Not because Yusuf was a better engineer than the people already on the team - he wasn't an engineer at all - but because he knew something they didn't. He knew what it felt like to be on the receiving end.
+
+Outside, the December sun was setting already, the winter solstice claiming its darkness. The shortest day of the year, and Yusuf had spent it beginning something new. Not the end of what he had been, but the transformation of it. The anger remained. The knowledge remained. He was just finding new rooms to carry them into.
+
+
+---
+

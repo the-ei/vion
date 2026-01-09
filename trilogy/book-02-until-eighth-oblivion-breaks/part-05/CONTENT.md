@@ -1,6 +1,6 @@
-# chapter-36
+# Chapter 36
 
-# scene-01
+# Scene 01
 
 The light came through the eastern windows at six fourteen in the morning, which Elena knew because she had looked at her phone to check if there were any messages, and there were not, and the time had registered somewhere in the part of her mind that was still recording facts even though the rest of her had stopped processing them sometime during the night, or possibly the night before that. She could not remember when she had last slept. The fluorescent overheads had been on for so long that the dawn light seemed wrong, an intrusion, as if the world outside the clinic had been continuing without them and had now sent evidence of its indifferent persistence.
 
@@ -78,7 +78,7 @@ She leaned against the wall and pressed her hands to her face and breathed. Thir
 
 
 
-# scene-02
+# Scene 02
 
 Between patients, she tried her phone. The screen displayed two bars of signal, a miracle given the past week, and she touched Daniel's name and listened to the silence that followed, the silence that stretched and stretched until it became a tone, a mechanical voice saying that all circuits were busy, please try again later. She tried Sofia's tablet, the one with the parental controls and the tracking feature that was supposed to let her know where her daughter was at any time, but the app spun its loading wheel and eventually displayed an error she did not have the capacity to interpret.
 
@@ -167,7 +167,7 @@ She hung up and went to find the next patient.
 
 
 
-# scene-03
+# Scene 03
 
 Mr. Gutierrez was seventy-four years old and severely dehydrated. His chart said this. Elena read the chart and saw the numbers and began the treatment protocol: IV access, saline bolus, electrolyte panel, monitor for cardiac complications. His skin was loose over the bones of his hands, and when she touched him to find a vein she thought of her abuela's hands, though her abuela's hands were darker, softer, though the comparison made no sense except that everything was making connections now, her mind sliding between present and past without her permission.
 
@@ -269,7 +269,7 @@ Then she put her hands down and looked at her phone. Still no signal. Still no n
 
 
 
-# scene-04
+# Scene 04
 
 The phone rang. It actually rang, and for a moment Elena did not understand what the sound was, this electronic chirping that used to be the most ordinary thing in the world and now seemed like a miracle or a hallucination. She was in the back hallway, near the staff bathrooms, and she fumbled the phone from her pocket and saw Daniel's name on the screen and pressed accept so hard she nearly dropped the device.
 
@@ -382,7 +382,7 @@ She stood in the hallway for a long time after. The fluorescent lights buzzed. S
 
 
 
-# scene-05
+# Scene 05
 
 The break room was never meant for this. It was meant for lunch and coffee and mild complaints about scheduling, and now it held six people who had forgotten how to do anything but sit, their bodies arranged on the worn couch and the plastic chairs like debris deposited by a flood. Elena was among them, though she did not remember deciding to sit, did not remember walking here, only remembered that at some point her legs had stopped carrying her and this is where they had stopped.
 
@@ -431,9 +431,9 @@ Elena sat. She breathed. She waited for something that had already passed to fee
 
 
 
-# chapter-37
+# Chapter 37
 
-# scene-01
+# Scene 01
 
 The notification came at seven in the morning, the familiar chime that Yusuf had not heard in six days. He looked at his phone and saw the app icon, the little delivery bag with its cheerful green checkmark, and beneath it the message: READY TO EARN? HIGH DEMAND IN YOUR AREA. The algorithm did not know what had happened. The algorithm did not know anything. It simply calculated that people were requesting deliveries and drivers were available and the connection should be made. This was, Yusuf thought as he stared at the screen, the purest expression of capitalism he had ever encountered: the absolute refusal to acknowledge that anything had changed.
 
@@ -490,7 +490,7 @@ The snow was falling harder now. Minneapolis was disappearing into white, the da
 
 
 
-# scene-02
+# Scene 02
 
 The apartment smelled of cinnamon and cardamom, which meant his mother was baking, which meant she was worried. Yusuf hung his jacket by the door and followed the scent to the kitchen, where Fatima stood at the counter rolling dough, her movements slower than they used to be but still precise, still certain. She did not look up when he entered, but he saw the set of her shoulders, the way she held herself as if braced against something, and he knew that she knew he was there.
 
@@ -608,7 +608,7 @@ The soup tasted like home.
 
 
 
-# scene-03
+# Scene 03
 
 The community center smelled like old coffee and damp carpet, the particular institutional smell of places where people gather because they have nowhere else to go. Yusuf arrived late, slipping in through the side door, finding a seat in the back row of folding chairs. The room was fuller than he had expected: maybe forty people, ages ranging from teenagers to elders, faces he recognized from the neighborhood mixed with faces he did not know at all.
 
@@ -701,7 +701,7 @@ He walked home through the snow, the cold air clearing his head, the meeting's e
 
 
 
-# scene-04
+# Scene 04
 
 His bedroom was cold, the radiator hissing but not heating, a familiar complaint that the landlord would not address. Yusuf sat on his bed and finally, for the first time since the crisis ended, opened his text messages and scrolled to Kevin Zhou's name.
 
@@ -782,7 +782,7 @@ But maybe soon.
 
 
 
-# scene-05
+# Scene 05
 
 Two in the morning and Yusuf could not sleep. He had tried for hours, the day's events cycling through his mind, the meeting and the messages and his mother's worried eyes, all of it churning without resolution. Finally he gave up pretending and sat up in the darkness and reached for the keyboard that had been gathering dust in the corner of his room since before the crisis began.
 
@@ -846,9 +846,9 @@ He suspected he would find out.
 
 
 
-# chapter-38
+# Chapter 38
 
-# scene-01
+# Scene 01
 
 The keycard still worked. Kevin held it against the sensor and the door clicked open and he walked into the space that had been his home for five years, the place where he had spent more waking hours than anywhere else, the center of everything he had believed himself to be building.
 
@@ -930,7 +930,7 @@ Eventually he turned off the lights and left. The keycard still worked on the wa
 
 
 
-# scene-02
+# Scene 02
 
 The documentation arrived in his inbox the next morning, forwarded by someone whose name he did not recognize, subject line: DEPLOYMENT SUMMARY - CLASSIFIED - CLEARED FOR ORIGINATOR. He opened it at his kitchen table with coffee going cold beside him, the morning light pale and unconvincing through the apartment's windows.
 
@@ -995,7 +995,7 @@ He sat in the cold light of his kitchen and felt the weight of what he had made 
 
 
 
-# scene-03
+# Scene 03
 
 He lay in bed that night with his phone glowing in the darkness, the screen showing the message thread with Yusuf Hassan. Seven messages sent. Zero replies.
 
@@ -1062,7 +1062,7 @@ He did not sleep for a long time.
 
 
 
-# scene-04
+# Scene 04
 
 The call came in the morning, when Kevin was sitting at his kitchen counter with his third cup of coffee, staring at nothing. The name on the screen made him pause: Ananya Ramaswamy. They had served on the same industry ethics board for two years. They had disagreed about nearly everything. He had not spoken to her since before the crisis.
 
@@ -1149,7 +1149,7 @@ He was not ready to decide. But he was ready to consider deciding, which was fur
 
 
 
-# scene-05
+# Scene 05
 
 That night Kevin sat at his desk and tried to code. The laptop was open, the development environment loaded, the familiar interface that had been his primary mode of thought for fifteen years waiting for him to type something. He had always been able to code. Coding had been his refuge, his meditation, the place where the chaos of human interaction simplified into clean logic. When everything else failed, he could open an editor and make something, and the making would quiet his mind.
 
@@ -1229,9 +1229,9 @@ But he was watching for it now.
 
 
 
-# chapter-39
+# Chapter 39
 
-# scene-01
+# Scene 01
 
 The road climbed out of the desert and into the mountains, and Elena watched the landscape transform through the windshield of the borrowed car. First the saguaros thinning, then disappearing entirely, replaced by juniper and then pine, the air cooling as the elevation rose. She had made this drive before, dozens of times, weekend trips to Flagstaff for the cooler summers, holiday visits to Daniel's sister. But today the familiar route felt alien, as if she were traveling between dimensions rather than cities.
 
@@ -1304,7 +1304,7 @@ She held Mateo and looked at Sofia and felt the weight of the choices she had ma
 
 
 
-# scene-02
+# Scene 02
 
 The children were asleep. It had taken hours to settle them, Mateo refusing to sleep anywhere but next to Elena, Sofia insisting on reading three extra books, both of them resisting the end of the day that would take their mother away, even if only into another room. But finally they slept, Mateo's small body curled against Elena's side, Sofia in the twin bed across the room, her face peaceful in a way it had not been when awake.
 
@@ -1418,7 +1418,7 @@ She fell asleep in her husband's arms, in a borrowed bed, in a house on a mounta
 
 
 
-# scene-03
+# Scene 03
 
 The next afternoon, while Mateo napped and Daniel helped his sister with groceries, Elena sat with Sofia in the living room. The coffee table was covered with drawings, crayon and marker on printer paper, the output of weeks of a six-year-old trying to process what she did not have words for.
 
@@ -1519,7 +1519,7 @@ Elena held the drawing and felt her heart break and mend in the same moment, the
 
 
 
-# scene-04
+# Scene 04
 
 She could not sleep. The house was quiet, everyone else resting, but Elena's body would not surrender to stillness. At two in the morning she gave up, dressed quietly, and slipped out the back door into the Flagstaff night.
 
@@ -1588,7 +1588,7 @@ She did not know what came next. But she knew she could not go back to what she 
 
 
 
-# scene-05
+# Scene 05
 
 Elena came in through the back door just as dawn was breaking, expecting to slip into bed without waking anyone. But her grandmother was sitting at the kitchen table, a cup of tea in her hands, watching the door as if she had known exactly when Elena would return.
 
@@ -1674,9 +1674,9 @@ She still did not know what came next. But she knew she was ready to find out.
 
 
 
-# chapter-40
+# Chapter 40
 
-# scene-01
+# Scene 01
 
 Yusuf spotted Kevin before Kevin spotted him. The tech guy was standing just outside the airport doors, his breath making clouds in the cold air, wearing a jacket that would have been appropriate for San Francisco in December and was absolutely useless here. He looked lost in the way that people from warm climates always looked lost in Minneapolis winter: hunched, uncertain, as if the cold were a personal insult he had not prepared for.
 
@@ -1787,7 +1787,7 @@ Kevin laughed, the second genuine expression Yusuf had seen from him. "Your CS t
 
 
 
-# scene-02
+# Scene 02
 
 Yusuf settled into the couch and watched Kevin try to navigate his family. It was strange, seeing this space through an outsider's eyes: the apartment that had been his whole world for most of his life, now measured against whatever Kevin was used to in San Francisco.
 
@@ -1894,7 +1894,7 @@ The door closed behind them. The sun was setting, and the temperature was droppi
 
 
 
-# scene-03
+# Scene 03
 
 The cold hit them immediately, the sun's fading warmth giving way to the night's relentless grip. Kevin hunched into his inadequate jacket despite the borrowed hat, his shoulders climbing toward his ears.
 
@@ -2014,7 +2014,7 @@ Kevin took a sip of his coffee and began to talk. And Yusuf listened. And somewh
 
 
 
-# scene-04
+# Scene 04
 
 "The thing you have to understand," Kevin said, his hands still wrapped around his coffee, "is that the systems were always going to break. Not because they were badly designed, although some were. Because they were designed to optimize for the wrong things. Efficiency over resilience. Growth over stability. Speed over robustness. You can build the perfect system for normal conditions and it will shatter the moment conditions become abnormal."
 
@@ -2114,7 +2114,7 @@ Kevin smiled. It was the first real smile Yusuf had seen from him. "That's exact
 
 
 
-# scene-05
+# Scene 05
 
 Fatima had outdone herself. The table was crowded with dishes: kousa mahshi, the stuffed squash glistening with tomato sauce; musakhan, the sumac-rubbed chicken on taboon bread; a salad of cucumbers and tomatoes dressed simply with olive oil and lemon. Yusuf watched Kevin's face as his mother explained each dish, the way his corporate composure gave way to something more human as he tasted the food, the genuine surprise in his expression.
 
@@ -2181,9 +2181,9 @@ Then he went to bed and slept better than he had in years.
 
 
 
-# chapter-41
+# Chapter 41
 
-# scene-01
+# Scene 01
 
 The first draft was too angry. Elena read it back and saw the rage bleeding through every professional phrase, the bitterness that would make her supervisor defensive rather than understanding. She deleted it and started again.
 
@@ -2264,7 +2264,7 @@ She picked up her coffee and drank it. The pastry was flaky and sweet, some kind
 
 
 
-# scene-02
+# Scene 02
 
 The espresso machine had seemed like such a good idea when they bought it. They had found it at a kitchen store in Scottsdale, a beautiful Italian thing with copper fittings and a steam wand that made milk foam like a professional barista. Elena remembered the afternoon they brought it home, the excitement of unboxing it, the way Daniel had read the manual aloud while she set up the components. They were going to be the kind of people who made their own espresso every morning. Sophisticated. Adult. In control of their lives.
 
@@ -2365,7 +2365,7 @@ They stood there together in the empty room, looking at the evidence of a life t
 
 
 
-# scene-03
+# Scene 03
 
 The clinic looked smaller than she remembered. Elena stood in the parking lot, looking at the building where she had spent more waking hours than anywhere else for the past decade. The same beige stucco walls, the same faded sign reading "Phoenix Community Health Center," the same row of windows where she had so often sat with patients, explaining diagnoses and treatment plans and the brutal mathematics of what their insurance would and would not cover.
 
@@ -2456,7 +2456,7 @@ The car was where she had left it, in the spot that was no longer her spot. She 
 
 
 
-# scene-04
+# Scene 04
 
 The church basement smelled like instant coffee and old carpet. Folding chairs were arranged in a rough circle, most of them already occupied by the time Elena found the building. She had gotten the address from a flyer someone posted in the apartment building's laundry room, a hand-drawn announcement for a "community health and mutual aid meeting, all welcome."
 
@@ -2566,7 +2566,7 @@ Elena put the card in her pocket. Outside, the Phoenix evening was cooling towar
 
 
 
-# scene-05
+# Scene 05
 
 The drive from Phoenix to Flagstaff usually took about two and a half hours. Today it would take longer; the car was packed so full they could barely see out the back window. Everything they had decided to keep was crammed into boxes and bags, filling the trunk and the back seat and the spaces around Elena's feet.
 
@@ -2658,9 +2658,9 @@ For the first time since the crisis began, that felt like enough.
 
 
 
-# chapter-42
+# Chapter 42
 
-# scene-01
+# Scene 01
 
 Sofia was taking the task very seriously. She placed each fork on the left side of the plate, adjusted it, stepped back to assess, adjusted it again. Elena watched her daughter's careful concentration and felt something catch in her throat.
 
@@ -2736,7 +2736,7 @@ The table was set. The food was cooking. The children were making noise and the 
 
 
 
-# scene-02
+# Scene 02
 
 The television counted down in the corner of the living room, muted. They did not need the sound; the numbers descending were enough. Sixty seconds. Fifty-nine. The ball in Times Square that Elena had never seen in person but had watched drop every year since childhood, a ritual so deeply ingrained it felt like biological compulsion.
 
@@ -2827,7 +2827,7 @@ She was where she was supposed to be. She was ready for whatever came next.
 
 
 
-# scene-03
+# Scene 03
 
 The community center was warm with bodies and noise and the particular energy of people who had survived something together and were now celebrating that survival. Yusuf moved through the crowd with a plate of food he had assembled from the potluck tables, nodding at faces he recognized, stopping to exchange brief words with people who had once been strangers and were now something closer to family.
 
@@ -2928,7 +2928,7 @@ Not hope. That word was too simple. But possibility. The sense that the future w
 
 
 
-# scene-04
+# Scene 04
 
 Someone had brought a keyboard. Not a good one - a cheap Casio with sticky keys and a tinny sound - but it was there in the corner of the community center, set up with a small amp for whoever wanted to play background music.
 
@@ -2990,7 +2990,7 @@ A year ago he had been paralyzed, unable to create, trapped in fragments that re
 
 
 
-# scene-05
+# Scene 05
 
 Kevin's apartment was quiet. Outside, San Francisco was celebrating - he could hear fireworks in the distance, the faint sounds of parties in neighboring buildings - but inside, the only light came from his laptop screen and the glow of the city through the windows.
 
@@ -3067,7 +3067,7 @@ Kevin sat in the darkness and let the possibility settle into his bones. Tomorro
 
 
 
-# scene-06
+# Scene 06
 
 The phone rang just after midnight. Kevin almost did not answer - he did not recognize the number, a long string of digits that marked it as international - but something made him pick up.
 

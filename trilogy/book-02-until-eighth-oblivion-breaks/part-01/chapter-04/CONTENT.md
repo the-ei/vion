@@ -1,4 +1,4 @@
-# scene-01
+# Scene 01
 
 The coffee machine in Ananya's office produced something remarkable - single-origin Ethiopian, precisely extracted, the kind of coffee that appeared when a company needed to signal its commitment to quality in all things, including the caffeine delivery for its ethics officers. She had laughed when it was installed, a private laugh she shared with no one, because the absurdity of artisanal coffee in the office of the Chief Ethics and Safety Officer seemed to capture something essential about her position. They took the symbols seriously. Whether they took the substance seriously was the question she had stopped being able to answer.
 
@@ -57,7 +57,7 @@ The board meeting started in thirty minutes. Ananya left her office and walked t
 
 
 
-# scene-02
+# Scene 02
 
 The boardroom occupied the top floor, all glass and light, the architecture of a company that wanted to appear transparent. Ananya entered fifteen minutes early, as she always did, to ensure the technology worked and to claim the space before the others arrived. The presentation was loaded, the notes were ready, the water glasses were filled. She stood at the window looking out at the hills, centering herself for the performance ahead.
 
@@ -160,7 +160,7 @@ The version that could keep going.
 
 
 
-# scene-03
+# Scene 03
 
 The conference room on the third floor had glass walls that offered no real privacy, but it was empty and quiet and Ananya needed both. She closed the door, settled into a chair that faced away from the hallway, and dialed Vikram's number.
 
@@ -257,7 +257,7 @@ They always waited.
 
 
 
-# scene-04
+# Scene 04
 
 The coffee shop was intentionally nondescript - a chain location in a strip mall three miles from campus, the kind of place where tech workers did not go and therefore the kind of place where tech workers could meet without being seen. Ananya arrived first, as she had insisted, and took a table in the corner with her back to the wall and a clear view of the door.
 
@@ -381,7 +381,7 @@ She didn't move. She couldn't move. She just sat there, in a chain coffee shop i
 
 
 
-# scene-05
+# Scene 05
 
 The lights.
 

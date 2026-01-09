@@ -1,4 +1,4 @@
-# scene-01
+# Scene 01
 
 The livestream began at 4:07 PM Eastern, three minutes behind schedule. Jerome watched the loading icon pulse on his laptop screen, aware of the coffee going cold beside him, the afternoon light slanting through the blinds of his home office in Baltimore. Prometheus Systems had been hyping this announcement for two weeks with the precision of a major film studio: countdown timers, cryptic social media posts, journalists granted exclusive advance briefings they couldn't yet publish. Whatever they were unveiling, the company had determined that the world should pay attention.
 
@@ -138,7 +138,7 @@ Jerome didn't know how to tell him that the machine might be about to change sha
 
 
 
-# scene-02
+# Scene 02
 
 Dinner was Denise's jollof rice, a recipe she had learned from her Ghanaian college roommate and perfected over decades until it had become the dish she made when she wanted the family to sit down together and actually talk. The tomato-red rice filled the kitchen with its smell, and Jerome forced himself to set his phone face-down on the counter and join his wife and son at the table.
 
@@ -298,7 +298,7 @@ Jerome kept writing. It was the only thing he knew how to do.
 
 
 
-# scene-03
+# Scene 03
 
 At 11:47 PM, Jerome finished his reaction piece and sent it to his editor. At 11:52, she acknowledged receipt. At 11:58, she called to suggest revisions, and they argued for twenty minutes about whether his framing was too pessimistic, until they compromised on language that was, Jerome thought, still true but no longer sharp enough to cut.
 

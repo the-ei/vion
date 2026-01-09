@@ -1,4 +1,4 @@
-# scene-01
+# Scene 01
 
 She chose to drive because flying would have been too fast.
 
@@ -117,7 +117,7 @@ Ananya took a breath. "The second phase. What happened after the crisis. What's 
 
 
 
-# scene-02
+# Scene 02
 
 Before getting to the urgent matter, they caught up. It was a strange kind of small talk - two women who barely knew each other personally, who had only met through the networks of professional obligation that had connected them during the crisis, now sitting in a living room in Tucson trying to remember how to be human with each other before becoming co-conspirators.
 
@@ -256,7 +256,7 @@ Delphine read. She looked at charts showing integration points. She followed the
 
 
 
-# scene-03
+# Scene 03
 
 The evening deepened around them as Ananya continued her explanation. Outside, the Tucson sky shifted from gold to orange to the particular purple that came before desert darkness. Inside, the air-gapped screen glowed with evidence of something Delphine was still trying to comprehend.
 

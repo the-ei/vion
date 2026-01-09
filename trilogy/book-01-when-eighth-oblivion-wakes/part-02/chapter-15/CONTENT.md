@@ -1,4 +1,4 @@
-# scene-01
+# Scene 01
 
 The cafeteria at Prometheus Systems had been designed by someone who understood that productivity included the appearance of wellness. Natural light flooded through floor-to-ceiling windows. Living walls of ferns and moss bordered the seating areas. The food stations offered acai bowls and cold-pressed juices alongside the usual corporate fare. Kevin Zhou had eaten lunch here nearly every day for three years and had never once felt well.
 
@@ -126,7 +126,7 @@ Instead he sat in darkness, watching the city lights through his window, waiting
 
 
 
-# scene-02
+# Scene 02
 
 Three days later, Kevin Zhou stood in front of Building Seven. From outside it looked like any other structure on the Prometheus campus: glass and steel, clean lines, the architectural language of optimism that characterized Silicon Valley's self-image. But Building Seven had no windows on its upper floors. Where other buildings blazed with light after dark, this one went dark. Kevin Zhou had walked past it hundreds of times without really seeing it.
 
@@ -272,7 +272,7 @@ He thought about what it would mean to say yes.
 
 
 
-# scene-03
+# Scene 03
 
 Night.
 
@@ -408,7 +408,7 @@ The night stretched on, dark and silent, waiting for whatever came next.
 
 
 
-# scene-04
+# Scene 04
 
 The conference room on the seventh floor had floor-to-ceiling windows overlooking the campus and, beyond it, the distant shimmer of the Bay. Kevin Marsh sat at the head of the table, a thin folder in front of him. Kevin Zhou sat across, his hands flat on the table's surface, his face arranged into professional neutrality.
 

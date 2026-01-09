@@ -1,4 +1,4 @@
-# scene-01
+# Scene 01
 
 The alarm was unnecessary. Kevin Zhou woke at 6:47, as he always did, thirteen minutes before the sound that would confirm he was awake. He lay still in the darkness of his apartment, waiting for the alarm to acknowledge what his body already knew, then silenced it with a tap and rose to begin the sequence that composed his mornings.
 
@@ -78,7 +78,7 @@ He began to search for SIEVE.
 
 
 
-# scene-02
+# Scene 02
 
 The first day yielded fragments.
 
@@ -203,7 +203,7 @@ Kevin Zhou wrote down the name. One more thread to follow. One more piece of a p
 
 
 
-# scene-03
+# Scene 03
 
 Friday night.
 
@@ -307,7 +307,7 @@ Sleep came eventually, thin and uneasy. He dreamed of numbers, of spreadsheets, 
 
 
 
-# scene-04
+# Scene 04
 
 Sunday night, past midnight.
 

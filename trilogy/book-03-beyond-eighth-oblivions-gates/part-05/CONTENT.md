@@ -1,6 +1,6 @@
-# chapter-36
+# Chapter 36
 
-# scene-01
+# Scene 01
 
 The Chennai airport had changed. Ananya stood at the edge of the arrivals hall, Priya beside her with both their carry-on bags, and looked at what had been built since she last walked through this space. The ceiling arched higher now, glass and steel where she remembered concrete. The light fell differently. But beneath the renovation, beneath the gleaming floor tiles and the digital signage cycling through Tamil and English and Hindi, something remained that her body knew before her mind could name it.
 
@@ -84,7 +84,7 @@ Ananya stood at the threshold, Priya's hand still in hers, and let the fact of i
 
 
 
-# scene-02
+# Scene 02
 
 The cremation ground lay at the edge of the city, where Chennai frayed into something less defined. They arrived in a convoy of white cars - Ananya, Priya, her father, her brother Suresh who had flown in from Bangalore, the aunts and uncles and cousins who would witness this ending. The morning was already hot, the sun insistent through a haze that might have been humidity or pollution or simply the atmosphere of grief.
 
@@ -185,7 +185,7 @@ Ananya stood in the sunlight and felt the weight of it: her mother was gone, and
 
 
 
-# scene-03
+# Scene 03
 
 The house was full of people and then, eventually, it wasn't. Ananya watched the relatives disperse through the evening, the neighbors returning to their homes, the cousins heading back to their own lives in Bangalore and Hyderabad and Mumbai. The rituals of the day had been observed. The condolences had been offered. What remained was the family itself, contracted now to its essential core: Ananya, Priya, her father, her brother who would fly back tomorrow.
 
@@ -287,7 +287,7 @@ Her father closed his eyes. "Stay as long as you can," he said. "Then go back to
 
 
 
-# scene-04
+# Scene 04
 
 The morning of departure arrived with the particular cruelty of departures: the sun still rising, the world still continuing, even though everything had changed. Ananya woke to the sound of her father moving through the house, his footsteps careful and slow, the rhythm of a man relearning his own home now that he was alone in it.
 
@@ -394,9 +394,9 @@ Ananya stood, ready to walk through another departure, carrying Chennai inside h
 
 
 
-# chapter-37
+# Chapter 37
 
-# scene-01
+# Scene 01
 
 The hospice room had a window that looked onto nothing in particular - a parking lot, a strip of grass, the back of another building. Jerome had spent enough hours in this room to know every detail of that view: the way the light changed through the day, the birds that sometimes landed on the grass, the cars that came and went in patterns that suggested shift changes, visiting hours, the schedules of dying.
 
@@ -525,7 +525,7 @@ He stayed with her until the night shift arrived.
 
 
 
-# scene-02
+# Scene 02
 
 Denise arrived first, still in her teaching clothes, her coat pulled on over a cardigan, her bag full of ungraded papers she would not look at tonight. She came into the hospice room with the particular competence of someone who had done this before, who knew the geography of medical crisis, who could navigate the emotions of hospitals without losing herself.
 
@@ -641,7 +641,7 @@ The coffee grew cold. The night deepened. The family waited.
 
 
 
-# scene-03
+# Scene 03
 
 The night took on the quality that only vigils have: suspended, stretched, both endless and too fast. They rotated between the bedside and the waiting room, two at a time keeping watch while the others tried to rest on couches that were not designed for sleeping. Jerome stayed mostly at the bed, unwilling to miss another window if one came.
 
@@ -747,7 +747,7 @@ The body was prepared for transport. The room was cleared. The window that looke
 
 
 
-# scene-04
+# Scene 04
 
 Jerome walked out of the hospice building into Baltimore's winter morning. The air was sharp, cold in a way that felt clarifying after the overheated stillness of the death room. He stood on the sidewalk and breathed it in, feeling his lungs expand, feeling his body confirm that it was still alive, still working, still breathing without effort.
 
@@ -856,9 +856,9 @@ He turned and walked toward them, back into his life, carrying his mother with h
 
 
 
-# chapter-38
+# Chapter 38
 
-# scene-01
+# Scene 01
 
 Delphine woke to the sound of Theo making breakfast, which meant Jessie was letting him use the stove again, which meant Jessie had decided that twelve was old enough for scrambled eggs. The smell of butter and burning bread drifted through the bedroom door, and Delphine lay for a moment in the gray Los Angeles morning, not ready to face the day.
 
@@ -945,7 +945,7 @@ She opened her laptop and began writing the remarks she would give afterward, th
 
 
 
-# scene-02
+# Scene 02
 
 The theater was in Silver Lake, a restored art-deco building that had become a venue for independent film. Delphine arrived with Jessie and Theo an hour early, needing time to adjust to the space, to see the screen where her work would be projected, to check the sound levels one more time even though everything had already been checked.
 
@@ -1070,7 +1070,7 @@ They moved together toward the reception, Ananya's hand on Delphine's back, the 
 
 
 
-# scene-03
+# Scene 03
 
 The reception was in a gallery space adjacent to the theater, white walls hung with art Delphine didn't have the attention to look at. Wine circulated, small bites on trays, the industry performance of post-screening socializing. People approached her in waves, and she responded with the part of herself that knew how to do this, the professional mask she had worn for twenty years.
 
@@ -1198,7 +1198,7 @@ Delphine felt the tears she had been holding back threatening again. She blinked
 
 
 
-# scene-04
+# Scene 04
 
 Home, finally. Theo asleep upstairs, the house quiet around them. Delphine and Jessie sat on the couch in the living room, not touching, each processing the evening in their own way. The premiere was over. The film was out in the world. What came next was the question Delphine had been avoiding.
 
@@ -1346,9 +1346,9 @@ This was its own kind of art.
 
 
 
-# chapter-39
+# Chapter 39
 
-# scene-01
+# Scene 01
 
 The hotel room was nicer than Ruth needed, but the university had insisted. A suite at the Omni, overlooking the New Haven Green, the kind of accommodation reserved for distinguished lecturers who had earned the right to be comfortable. Ruth sat at the desk in the early morning light, reviewing her notes for the last time, and tried to remember when comfort had begun to feel like obligation.
 
@@ -1423,7 +1423,7 @@ Ruth nodded to no one, closed her notes, and began to pace the room, rehearsing 
 
 
 
-# scene-02
+# Scene 02
 
 The lecture hall was a modern addition to the law school, all glass and light wood, designed to signal that Yale was not trapped in its traditions even as it honored them. Ruth stood at the podium looking out at a room that was nearly full - faculty in the front rows, students behind them, then visitors, observers, the curious public who had come to hear what she would say.
 
@@ -1543,7 +1543,7 @@ The applause continued, and Ruth allowed herself, finally, to feel what she had 
 
 
 
-# scene-03
+# Scene 03
 
 The Q&A session followed the applause, moderated by a young professor Ruth did not know well but who handled the microphone duties with competence. Hands went up throughout the audience, and Ruth prepared herself for the questions that would test what she had said.
 
@@ -1651,7 +1651,7 @@ The reception pulled her forward, the crowd still wanting pieces of her attentio
 
 
 
-# scene-04
+# Scene 04
 
 Ruth walked Yale's campus in the evening light, alone for the first time since morning. The lecture was over, the reception had wound down, her children had departed for their hotels with promises to have breakfast together before flying home. What remained was this: the campus at dusk, the place where her career had begun, the paths she had walked fifty years ago as a student believing everything was possible.
 
@@ -1734,9 +1734,9 @@ She had given what she had. The rest was beyond her reach.
 
 
 
-# chapter-40
+# Chapter 40
 
-# scene-01
+# Scene 01
 
 The venue was called The Current, a converted warehouse in northeast Minneapolis that had been hosting shows for two decades. Yusuf had been here before as an audience member, had stood in the crowd watching musicians he admired, had dreamed of standing where he now stood: on the stage, testing the monitors, running through the set one more time before the doors opened.
 
@@ -1820,7 +1820,7 @@ He waited.
 
 
 
-# scene-02
+# Scene 02
 
 From the wings, Yusuf watched his mother arrive. Amina guided her through the crowd that was beginning to fill the venue, found the seats they had reserved near the front, helped her settle with the careful attention of a daughter who had learned to be caregiver.
 
@@ -1928,7 +1928,7 @@ And he began to play.
 
 
 
-# scene-03
+# Scene 03
 
 The first notes rang out into the room, and something shifted. The anxiety that had been building for hours didn't disappear, but it transformed - became energy, became focus, became the particular fuel that performance required. Yusuf's fingers found the chords they had found a thousand times in practice, but now the chords were amplified, now they filled a space, now they were received by ears that weren't his own.
 
@@ -2033,7 +2033,7 @@ His mother was waiting. That was the only thing that mattered.
 
 
 
-# scene-04
+# Scene 04
 
 His mother rose when he entered the green room, her movements slow but her face radiant with something Yusuf had never seen before. She opened her arms and he went into them, folding himself down to fit against her diminished frame, becoming her child again in that embrace.
 
@@ -2154,9 +2154,9 @@ He played one more chord, let it ring, let it fade, and finally stood to go home
 
 
 
-# chapter-41
+# Chapter 41
 
-# scene-01
+# Scene 01
 
 The symposium was called "Understanding the Eighth Oblivion: A Decade in Retrospect," and it was being held at a conference center in Washington DC, the kind of neutral space where academics and policymakers and journalists gathered to historicize what the rest of the world was still living through.
 
@@ -2272,7 +2272,7 @@ This was what it meant to be historicized: to speak about your own life as if it
 
 
 
-# scene-02
+# Scene 02
 
 Jerome sat in the audience with his notebook open, the habit of decades unbroken even now. He was here as a journalist, technically - commissioned to write about the symposium for a magazine that still published long-form pieces - but also as a witness, as someone whose work was being cited on the panels, as a person who had lived through what the academics were now analyzing.
 
@@ -2376,7 +2376,7 @@ The truth mattered. It would have to be enough.
 
 
 
-# scene-03
+# Scene 03
 
 The reception was in a high-ceilinged room adjacent to the main conference hall, the kind of space designed for exactly this purpose: drinks, small plates, the circulation of bodies and ideas that was the real work of academic conferences. Delphine moved through it as an observer now, no longer the participant she would have been a year ago, before the documentary, before the decision to step back.
 
@@ -2505,7 +2505,7 @@ Tonight, she would go back to her hotel room and call her family. That was enoug
 
 
 
-# scene-04
+# Scene 04
 
 The room held them all now, these people who had lived through the decade and were beginning to understand that they would spend the rest of their lives trying to understand it. Ananya saw Jerome across the reception space, his notebook closed for once, talking with a young academic who was probably explaining his own work to him. She saw Delphine near the windows, caught in golden late-afternoon light, her wine glass half-full and forgotten in her hand as she listened to something Amina was saying.
 
@@ -2628,9 +2628,9 @@ The reception was over. Time to disperse.
 
 
 
-# chapter-42
+# Chapter 42
 
-# scene-01
+# Scene 01
 
 The morning was gray and soft, the kind of Washington spring morning that couldn't decide if it wanted to rain. Ananya stood in the hotel lobby with her carry-on, watching the slow choreography of departure - conference attendees checking out, calling rideshares, gathering in small clusters for final conversations before dispersing to their separate cities.
 
@@ -2778,7 +2778,7 @@ Her phone buzzed. A text from Priya: *Landed safely. Call tonight?*
 
 
 
-# scene-02
+# Scene 02
 
 Jerome pressed his forehead against the airplane window and watched the clouds move below him, white and gray and infinite in the way that clouds always were, the way they had been before the Eighth Oblivion and would be after whatever came next. The plane hummed its mechanical song. Around him, passengers slept or watched screens or stared into middle distance with the particular vacant attention of air travel.
 
@@ -2858,7 +2858,7 @@ She closed her eyes and let the afternoon sun warm her face. Tomorrow there woul
 
 
 
-# scene-03
+# Scene 03
 
 Elena was washing dishes when Jerome called. The familiar rhythm of her Phoenix evening - Daniel reading in the living room, Sofia and Mateo somewhere in the house doing their teenager things, the desert light fading to purple through the kitchen window - and then the phone buzzing on the counter with Jerome's name on the screen.
 
@@ -3023,7 +3023,7 @@ Tonight, he was home.
 
 
 
-# scene-04
+# Scene 04
 
 Jerome sat at his desk in the Baltimore rowhouse, the evening settling around him like something familiar, something earned. Denise was in the kitchen, and he could hear her moving through the space - the clink of dishes, the hum of the radio she kept on while cooking, the particular sounds of a life being lived in the room next door.
 

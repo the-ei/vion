@@ -51,3 +51,20 @@ You acted, because not acting meant watching the people you loved suffer while y
 
 ---
 
+Yusuf stood up from the steps. The cold had seeped through his jacket, but he barely felt it. His father's face was vivid in his mind now - not as it had looked in the hospital after the accident, not as it looked in the single photograph they still had, but as it had looked in life. Tired, determined, loving in the practical way that did not require words.
+
+"I don't know what to do," Yusuf said to the empty street. He was not religious, not really, but in this moment he was talking to his father's ghost, or the memory of his father, or the version of his father that lived inside him.
+
+The answer did not come in words. It came in the knowledge of what Malik would have done: not stayed, not watched, not accepted the certain death when an uncertain chance existed. Malik would have taken the map from Nathaniel's hands and started walking the moment the route was clear.
+
+Because that was what you did. That was what it meant to be part of a family, to have people whose survival was more important than your own fear or doubt.
+
+The memory didn't resolve the choice. It didn't make the odds better or the distance shorter or the outcome more certain. But it reminded Yusuf what kind of person he was trying to be. What kind of person his father had been.
+
+He walked back inside. The decision was not made - not quite, not formally. But something had shifted. He knew now which direction he was leaning.
+
+He knew what his father would want him to do.
+
+
+---
+

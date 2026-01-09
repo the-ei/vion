@@ -1,4 +1,4 @@
-# scene-01
+# Scene 01
 
 The room that Jerome Washington built for himself occupies what was once intended to be a nursery, the second child that never came, the space that Denise finally released to his professional use after ten years of it sitting empty, collecting meaning they could not articulate. He has covered the walls with acoustic panels bought used from a studio in Pigtown, their blue fabric faded to something approaching gray, their arrangement imperfect because he installed them himself on a weekend when Denise took DeShawn to visit her mother. The imperfection bothers him sometimes, the panels not quite level, the gaps where sound might escape. Most days he does not notice. Most days he is inside the work.
 
@@ -84,7 +84,7 @@ The editing begins.
 
 
 
-# scene-02
+# Scene 02
 
 The kitchen table is large enough for four but hosts only two this evening, Jerome at one end with his laptop, DeShawn at the other with his own machine, the arrangement that has become their default when Denise works late, which is most evenings now, the marking and planning that teaching demands consuming hours she used to spend in this room.
 
@@ -239,7 +239,7 @@ He opens his laptop and returns to the newsletter, to the story, to the work tha
 
 
 
-# scene-03
+# Scene 03
 
 The phone call comes at midday, while Jerome is editing the housing story, trying to find the language that will make algorithmic redlining legible to readers who do not want to believe it exists. His sister's name on the screen is both expected and dreaded, their calls now anchored to the crisis they share, the mother who is slowly ceasing to be herself.
 
@@ -353,7 +353,7 @@ The work continues because the work is what he has, and having it is better than
 
 
 
-# scene-04
+# Scene 04
 
 Saturday evening. Denise has cooked, the effort visible in the table setting: the good placemats, the napkins folded, the meal substantial in a way that weeknight dinners rarely are. This is her gift to them, the family she has assembled and maintained through twenty-three years of marriage, through Jerome's career turbulence, through DeShawn's adolescent evolution, through all the small crises that test whether love can sustain the weight placed on it.
 

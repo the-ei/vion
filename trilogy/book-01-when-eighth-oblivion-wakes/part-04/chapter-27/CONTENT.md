@@ -1,4 +1,4 @@
-# scene-01
+# Scene 01
 
 The phone woke her at 6:47. Not the soft pulse of a morning alarm but the cascade, the waterfall of urgent: sixteen notifications stacked before she could focus her eyes. Ananya sat up in the dark. The screen's blue light made a theater of her bedroom wall.
 
@@ -135,7 +135,7 @@ She was watching herself be complicit. She was observing her complicity like dat
 
 
 
-# scene-02
+# Scene 02
 
 They moved to the executive conference room at eleven. The C-suite only. Legal. Communications. And Ananya, nominally, for ethics review.
 
@@ -251,7 +251,7 @@ Her objection was noted. The statement was released. The lie was now official, c
 
 
 
-# scene-03
+# Scene 03
 
 Her office was quiet. The eighteenth floor had emptied as people moved to their stations, their tasks, their roles in the machinery of crisis management. Ananya closed the door and stood for a moment in the silence, looking at the space that had been hers for three years.
 
@@ -365,7 +365,7 @@ She stayed at the window until the light was gone, and the glass showed only her
 
 
 
-# scene-04
+# Scene 04
 
 At 6:00, she told her assistant she was staying late to catch up on documentation. The lie came easily - another small addition to the day's accumulation. Michael nodded, wished her good night, and left her alone on a floor that was rapidly emptying.
 

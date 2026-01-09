@@ -1,4 +1,4 @@
-# scene-01
+# Scene 01
 
 The Bay Bridge at dusk is a specific kind of beautiful, Jerome thought, the kind that requires ugliness as context. The water below gray and churned, the East Bay hills brown from another dry winter, the San Francisco skyline behind him catching the last light in ways that seemed designed for postcards rather than habitation. He had driven this bridge hundreds of times, maybe thousands, and he still looked. That was something.
 
@@ -61,7 +61,7 @@ Absence of religious signifiers. Deliberate? What does it signal?
 
 
 
-# scene-02
+# Scene 02
 
 The service, if that was the right word, began without announcement. Nathaniel Crane simply walked to the platform, sat in the chair, and looked at the gathered congregants with an expression Jerome could not immediately categorize. Not the studied warmth of a televangelist, nor the calculated intensity of a tech founder pitching to investors. Something closer to the patience of a teacher who knows the lesson will take as long as it takes.
 
@@ -170,7 +170,7 @@ Jerome considered several responses, chose honesty. "The names. The names of the
 
 
 
-# scene-03
+# Scene 03
 
 Crane led him through a side door into what had once been an office - small, square, the walls covered with whiteboards dense with diagrams and equations that Jerome could not follow but recognized as technical rather than mystical. A desk, two chairs, a window looking out at the parking lot. The detritus of a life lived in pursuit of understanding.
 
@@ -272,7 +272,7 @@ This Jerome had not known. But it fit patterns he had seen.
 
 
 
-# scene-04
+# Scene 04
 
 The interview had lasted an hour when Crane reached into his desk drawer and produced a small object - a flash drive, black, unremarkable. He placed it on the desk between them.
 
@@ -340,7 +340,7 @@ Jerome didn't have a response to that. He walked out into the Oakland night, the
 
 
 
-# scene-05
+# Scene 05
 
 The flight from Oakland landed at BWI just after midnight. Jerome had texted Denise from the plane - landing late, don't wait up - and she had responded with a simple thumbs-up that could have meant anything from acceptance to resignation. He drove the familiar route from the airport, the Baltimore suburbs dark and quiet, the streetlights casting orange pools on empty sidewalks.
 

@@ -1,4 +1,4 @@
-# scene-01
+# Scene 01
 
 The alarm never sounded because Elena woke before it, as she always did, her body trained to surfaces that her conscious mind had stopped registering. Four-thirty-two by the red numbers on the nightstand. The house held its breath around her - Daniel's side of the bed cool and flat because Daniel was in Tucson, third week on the commercial site, coming home Friday if the schedule held, which it never did. She lay still for a moment, inventory taking shape before movement: Mateo had cried at eleven but settled; Sofia had called out around two, something about a dream, and Elena had gone to her and stroked her hair until the breathing slowed; Gloria had coughed in the early hours, that dry cough that Elena tracked with clinical attention because Gloria would never mention it herself.
 
@@ -61,7 +61,7 @@ She gathered her things and walked toward the door.
 
 
 
-# scene-02
+# Scene 02
 
 The waiting room held thirty-seven people by seven-fifteen, and Elena knew they would see fifty before noon. The chairs were orange plastic, bolted to the floor in rows, the institutional aesthetic of places designed to process rather than comfort. A television mounted high on the wall played the news with the sound off, captions scrolling beneath images of politicians and economists speaking from podiums, the world of policy that seemed disconnected from the bodies filling these seats.
 
@@ -198,7 +198,7 @@ By noon she was hollowed out, running on coffee and habit, ready for the brief r
 
 
 
-# scene-03
+# Scene 03
 
 The break room was windowless and small, a converted closet with a microwave, a coffee maker that produced something coffee-adjacent, and a couch that had been donated by someone who no longer wanted it. Elena sank into the couch with her phone and her bad coffee, feeling the brief permission to stop moving.
 
@@ -297,7 +297,7 @@ She washed her hands with the automatic soap dispenser, dried them on the rough 
 
 
 
-# scene-04
+# Scene 04
 
 The afternoon came at her like a wave. An urgent case arrived at one-fifteen - a man in his sixties, chest pain, sweating, the classic presentation that could be cardiac arrest or could be anxiety or could be both. Elena stabilized him while Amara called for transport to the hospital, the clinic's equipment insufficient for what he needed. He left in an ambulance, status unknown, another patient whose outcome she might never learn.
 
@@ -409,7 +409,7 @@ Six o'clock came. Then six-thirty. The shift officially ended at seven, but ther
 
 
 
-# scene-05
+# Scene 05
 
 Dark.
 

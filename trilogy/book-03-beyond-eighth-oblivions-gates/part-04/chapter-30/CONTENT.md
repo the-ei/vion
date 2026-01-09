@@ -1,4 +1,4 @@
-# scene-01
+# Scene 01
 
 The apartment was beautiful. That was the first thing anyone noticed, and the last thing that mattered.
 
@@ -93,7 +93,7 @@ Outside, the city continued without him, as it had for years, as it might for ye
 
 
 
-# scene-02
+# Scene 02
 
 The memories came without invitation, as they did most mornings, surfacing through the work like rocks appearing through receding water.
 
@@ -171,7 +171,7 @@ But the question itself was a change. The asking was a threshold he had already 
 
 
 
-# scene-03
+# Scene 03
 
 He opened the video app.
 
@@ -250,7 +250,7 @@ The thought sat in his chest like a stone, and he worked through the morning, tr
 
 
 
-# scene-04
+# Scene 04
 
 The cafe was crowded with the lunch rush, tech workers and freelancers filling the small tables, the steady hum of conversation and espresso machines creating a wall of sound that was both anonymous and intimate.
 
@@ -327,7 +327,7 @@ But first Kevin Zhou would have to let someone feel what he felt. The builder wo
 
 
 
-# scene-05
+# Scene 05
 
 Back in his apartment, Kevin Zhou sat at his desk and opened a blank message.
 

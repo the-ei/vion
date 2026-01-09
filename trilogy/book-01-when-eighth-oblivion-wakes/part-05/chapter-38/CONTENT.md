@@ -1,4 +1,4 @@
-# scene-01
+# Scene 01
 
 The conference room at Meridian Digital smelled of cold brew coffee and ambition, the particular scent of creative work constrained by deadlines and budgets. Delphine took her seat at the table's head, feeling the weight of the position she had worked fifteen years to achieve: creative director, forty-three years old, responsible for translating reality into content that people would watch.
 
@@ -115,7 +115,7 @@ She got in her car and drove toward home, carrying the commission like a weight 
 
 
 
-# scene-02
+# Scene 02
 
 The living room had been rearranged for the table read, chairs pulled into a rough circle, scripts distributed, the usual detritus of Jessie's writing process scattered across every surface. Delphine arrived home to find it already populated: actors Jessie had worked with before, a producer Delphine recognized from industry events, and Jessie herself at the center, vibrating with the particular energy of a writer about to hear her words performed.
 
@@ -269,7 +269,7 @@ That had to be enough. For now, that had to be enough.
 
 
 
-# scene-03
+# Scene 03
 
 The edit bay smelled of cold coffee and stress, the familiar atmosphere of creative work under deadline. Delphine sat at the central workstation with Kai beside her, reviewing the rough cut of the first episode's opening sequence: a montage of news footage, leaked documents scrolling across screens, the faces of executives and journalists and protesters, all cut together to convey the scope of what had happened.
 
@@ -386,7 +386,7 @@ She closed her laptop and went home to her family.
 
 
 
-# scene-04
+# Scene 04
 
 The video call connected at eight-fifteen, the time zone arithmetic that Delphine and her mother had negotiated over years of transatlantic communication. In London it was four in the morning, Adaeze's face appearing on the screen already alert, her natural sleep pattern aligning with her daughter's evening.
 

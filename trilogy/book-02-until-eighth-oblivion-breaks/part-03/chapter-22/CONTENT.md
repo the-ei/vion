@@ -1,4 +1,4 @@
-# scene-01
+# Scene 01
 
 The flight from Baltimore to Minneapolis took three hours, during which Jerome Washington read everything he could find about the local economy—employment figures, industry reports, the particular texture of a Midwest city trying to reinvent itself as the world reinvented around it. The reading was his ritual before any reporting trip, a way of arriving informed, or at least not entirely ignorant.
 
@@ -113,7 +113,7 @@ That would have to be enough.
 
 
 
-# scene-02
+# Scene 02
 
 The first interview was at eight in the morning, a woman named Maria Delgado who had worked at the Amazon fulfillment center in Shakopee until three weeks ago. They met at a McDonald's near her apartment because she had kids at home and nowhere else to talk. She ordered coffee and nothing else; Jerome insisted on buying her breakfast.
 
@@ -274,7 +274,7 @@ But it did.
 
 
 
-# scene-03
+# Scene 03
 
 The hotel room had the anonymous comfort of all hotel rooms: the polyester bedspread, the bolted-down furniture, the prints on the wall that weren't art but simulations of art. Jerome sat at the desk with his laptop open, his recorder beside him, his notebook filled with the day's observations.
 

@@ -1,4 +1,4 @@
-# scene-01
+# Scene 01
 
 The ring light made his face into a mask, smoothing the shadows, eliminating the depth that made a face recognizable as human. Jerome adjusted it slightly, finding the angle that the producer had approved, and watched his own image on the laptop screen beside the camera: an approximation of himself, optimized for broadcast.
 
@@ -113,7 +113,7 @@ He drank his coffee and looked out the window at the Baltimore winter, at the gr
 
 
 
-# scene-02
+# Scene 02
 
 Denise arrived home at five-forty-three, her footsteps in the entryway carrying the particular weight of teaching exhaustion, the sound of a body that had been performing attention for eight hours and was now allowed to stop. Jerome met her in the kitchen where he had started dinner, a simple stir-fry that required enough attention to keep his hands busy but not so much that he couldn't think about other things.
 
@@ -269,7 +269,7 @@ He kissed her, a brief touch that carried more than it could say, and then he wa
 
 
 
-# scene-03
+# Scene 03
 
 The email from Veronica Stone arrived at two-seventeen in the afternoon, its subject line a model of professional restraint: "Opportunity to discuss." Jerome recognized her name immediately—she was the executive editor of The Washington Tribune, a publication that had once represented everything he distrusted about mainstream journalism and now, after months of his reporting on the crisis, apparently wanted to talk.
 
@@ -390,7 +390,7 @@ He opened his laptop and began to write.
 
 
 
-# scene-04
+# Scene 04
 
 The house settled into quiet around eleven, Denise asleep in their bed, DeShawn's light finally off after hours of coding, and Jerome sat alone in his office with the lamp casting a small circle of warm light against the darkness pressing at the windows. This was his hour, the time he reserved for the work that required silence, the investigations that could not be rushed or interrupted.
 

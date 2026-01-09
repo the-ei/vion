@@ -1,4 +1,4 @@
-# scene-01
+# Scene 01
 
 She woke to the house already awake.
 
@@ -142,7 +142,7 @@ She sat down and began.
 
 
 
-# scene-02
+# Scene 02
 
 The home office was a converted second bedroom, and Delphine had spent considerable effort making it feel separate from the house's domestic rhythms. Different lighting temperature. A door that actually closed. A view of the back garden rather than the street, so the endless parade of autonomous vehicles didn't distract her from the work of making meaning out of other people's suffering.
 
@@ -292,7 +292,7 @@ She saved her files and closed her laptop and went to the kitchen to prepare som
 
 
 
-# scene-03
+# Scene 03
 
 The call with her mother was scheduled for two o'clock, which was ten in the evening in London, the hour when Nkechi had always been most herself - dinner finished, the day's obligations discharged, a glass of wine in hand and opinions ready to be dispensed.
 

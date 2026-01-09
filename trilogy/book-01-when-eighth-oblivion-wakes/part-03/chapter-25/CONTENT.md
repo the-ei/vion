@@ -1,4 +1,4 @@
-# scene-01
+# Scene 01
 
 Jerome Washington sat down at his computer and began to write.
 
@@ -77,7 +77,7 @@ Then he sat in his office, surrounded by the evidence of months of work, and wai
 
 
 
-# scene-02
+# Scene 02
 
 The cafe near Paula Henderson's DC office was the kind of place journalists had been meeting for decades. Scuffed tables, coffee that was strong but not precious, a general air of significance that came from proximity to power. Jerome arrived early and took a table near the back, facing the door, the habits of years of source meetings shaping his body language without conscious thought.
 
@@ -159,7 +159,7 @@ He knew she was right. And he was going to do it anyway.
 
 
 
-# scene-03
+# Scene 03
 
 DeShawn came home from coding camp with the kind of energy Jerome remembered from his own youth, when the world had seemed full of possibility and problems had seemed like things that could be solved. He burst through the door talking about the projects he had built, the people he had met, the future he could see taking shape.
 
@@ -239,7 +239,7 @@ They sat in silence for a long moment. Jerome felt the gap between generations o
 
 
 
-# scene-04
+# Scene 04
 
 The house was quiet by eleven. Denise had gone to bed after the conversation with DeShawn, which had ended without resolution but also without hostility. DeShawn himself had retreated to his room, claiming he needed to decompress from the camp but probably processing the story in his own way.
 

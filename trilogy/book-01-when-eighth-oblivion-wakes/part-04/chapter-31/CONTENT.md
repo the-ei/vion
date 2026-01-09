@@ -1,4 +1,4 @@
-# scene-01
+# Scene 01
 
 Three days later, Ananya walked back into Prometheus headquarters.
 
@@ -171,7 +171,7 @@ Tomorrow, Ananya would talk to Priya. Tonight, she just needed to get through.
 
 
 
-# scene-02
+# Scene 02
 
 Vikram's house was in Palo Alto, a carefully maintained craftsman in a neighborhood where the trees were old and the property values were new. Ananya had lived there for eight years, back when they were married, back when the future seemed predictable. Now she pulled into the driveway as a visitor, waiting for her daughter to emerge.
 
@@ -317,7 +317,7 @@ The right thing. Even when it's hard.
 
 
 
-# scene-03
+# Scene 03
 
 Jerome's face appeared on her screen at 10:00 exactly. He was in what looked like a home office - bookshelves behind him, a window showing gray sky, the setup of someone who had been working from home long before it was common.
 
@@ -466,7 +466,7 @@ Tomorrow, Ananya would begin the final preparations. Tonight, she allowed hersel
 
 
 
-# scene-04
+# Scene 04
 
 Late night, Day 5. Ananya sat at her home office desk, the apartment quiet around her, and began the work of commitment.
 

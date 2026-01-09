@@ -1,4 +1,4 @@
-# scene-01
+# Scene 01
 
 The hospice room had a window that looked onto nothing in particular - a parking lot, a strip of grass, the back of another building. Jerome had spent enough hours in this room to know every detail of that view: the way the light changed through the day, the birds that sometimes landed on the grass, the cars that came and went in patterns that suggested shift changes, visiting hours, the schedules of dying.
 
@@ -127,7 +127,7 @@ He stayed with her until the night shift arrived.
 
 
 
-# scene-02
+# Scene 02
 
 Denise arrived first, still in her teaching clothes, her coat pulled on over a cardigan, her bag full of ungraded papers she would not look at tonight. She came into the hospice room with the particular competence of someone who had done this before, who knew the geography of medical crisis, who could navigate the emotions of hospitals without losing herself.
 
@@ -243,7 +243,7 @@ The coffee grew cold. The night deepened. The family waited.
 
 
 
-# scene-03
+# Scene 03
 
 The night took on the quality that only vigils have: suspended, stretched, both endless and too fast. They rotated between the bedside and the waiting room, two at a time keeping watch while the others tried to rest on couches that were not designed for sleeping. Jerome stayed mostly at the bed, unwilling to miss another window if one came.
 
@@ -349,7 +349,7 @@ The body was prepared for transport. The room was cleared. The window that looke
 
 
 
-# scene-04
+# Scene 04
 
 Jerome walked out of the hospice building into Baltimore's winter morning. The air was sharp, cold in a way that felt clarifying after the overheated stillness of the death room. He stood on the sidewalk and breathed it in, feeling his lungs expand, feeling his body confirm that it was still alive, still working, still breathing without effort.
 

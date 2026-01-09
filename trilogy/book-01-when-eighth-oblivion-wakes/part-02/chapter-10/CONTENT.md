@@ -1,4 +1,4 @@
-# scene-01
+# Scene 01
 
 The alarm sounded at 5:30, a soft ascending tone that Elena had chosen specifically because it would not wake the children. She silenced it before the second pulse and lay still for a moment in the darkness, feeling the weight of the day ahead pressing down like something physical. The room was cool—she kept the thermostat at sixty-eight overnight to save on the electric bill—and beside her, Daniel's side of the bed was empty, had been empty for nine days now, would remain empty for at least five more.
 
@@ -82,7 +82,7 @@ Elena stood, stretched her shoulders, and went to meet them.
 
 
 
-# scene-02
+# Scene 02
 
 The morning moved in the particular rhythm of clinic work—patient, documentation, patient, documentation—each encounter its own small world, its own demands, its own urgencies that had to be addressed in the fifteen or thirty minutes the schedule allowed. Elena moved between exam rooms with the efficiency of someone who had learned to compress compassion into clinical time, who knew that hesitation cost seconds and seconds cost care.
 
@@ -216,7 +216,7 @@ The coffee was bitter. She drank it anyway. Outside, the March sun blazed down o
 
 
 
-# scene-03
+# Scene 03
 
 Daniel called at 12:47. Elena stepped outside to take it, standing in the narrow strip of shade beside the building, the heat pressing in from all sides.
 
@@ -350,7 +350,7 @@ She began to take screenshots.
 
 
 
-# scene-04
+# Scene 04
 
 Home was chaos, the particular chaos of small children at the end of a long day. Sofia wanted to show her mother a drawing she had made at school—a family portrait, Mama and Papa and Sofia and Mateo and Abuela, all stick figures with enormous smiles standing in front of a yellow house. Mateo wanted to be picked up, then put down, then picked up again, his three-year-old needs cycling through the available adults like weather systems. Abuela had made enchiladas, the smell filling the small house, the kitchen table already set for four.
 

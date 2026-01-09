@@ -1,4 +1,4 @@
-# scene-01
+# Scene 01
 
 The clinic was empty when Elena arrived, the parking lot holding only her Corolla and the ancient pickup that belonged to the custodian. Six-fifteen in the morning, Phoenix already warming toward another day that would reach a hundred and seven by afternoon, but for now the air still carried something of the night's reprieve. She sat in the car for a moment after cutting the engine, her hands on the wheel, not ready yet to go inside but not able to stay away either.
 
@@ -56,7 +56,7 @@ She was ready. Something in her had shifted, and she was ready.
 
 
 
-# scene-02
+# Scene 02
 
 The doors opened at seven and by seven-fifteen every chair in the waiting room was full.
 
@@ -142,7 +142,7 @@ The rage flared and she let it. The care flowed and she let that too. Both at on
 
 
 
-# scene-03
+# Scene 03
 
 The break room at one-thirty was full of nurses trying to eat quickly. Lorena from pediatrics was heating something in the microwave that smelled like last night's dinner. Tomas from urgent care was slumped on the couch, his eyes closed, stealing a few minutes of rest before the afternoon rush. At the table, Destiny and Patricia were sharing a bag of chips and complaining about scheduling.
 
@@ -225,7 +225,7 @@ The break room timer beeped. Fifteen minutes gone. The afternoon was waiting.
 
 
 
-# scene-04
+# Scene 04
 
 She called Daniel during her four o'clock break, stepping outside into the heat to have privacy. The parking lot shimmered in the afternoon sun, the asphalt so hot she could feel it through her shoes. She leaned against the clinic's east wall, in the sliver of shade it still offered, and listened to his phone ring three times before he picked up.
 
@@ -309,7 +309,7 @@ Neither of them hung up for a moment, holding the connection open, the intimacy 
 
 
 
-# scene-05
+# Scene 05
 
 The nursing student appeared at six-thirty, when Elena was charting in the back and half the lights in the clinic had already been dimmed for the evening. She was shadowing Lorena, a wide-eyed young woman with her hair in a bun and a notebook clutched against her chest like armor. Her name tag said Aaliyah. Her face said terrified.
 

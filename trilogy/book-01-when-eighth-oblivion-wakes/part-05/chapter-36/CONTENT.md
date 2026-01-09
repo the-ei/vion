@@ -1,4 +1,4 @@
-# scene-01
+# Scene 01
 
 She woke at six-fourteen to gray light and the sound of rain against the windows, the same sound that had accompanied so many mornings in this house over the past three years, and for a moment she lay still, orienting herself to the day, to the room, to the body that had carried her through two weeks of aftermath and was now, she realized, asking different questions than it had been asking during the crisis itself. The ceiling above her was the same ceiling. The eucalyptus outside the window moved in the wind the way it always had. And yet.
 
@@ -66,7 +66,7 @@ Soon, she would have to choose differently.
 
 
 
-# scene-02
+# Scene 02
 
 The call connected at twelve-thirty-two, the delay attributable to the chaos of a fourteen-year-old's Saturday, and Priya's face appeared on the screen already mid-sentence, already telling a story about something that had happened at school that week, a story Ananya had to work to follow because she was also looking at her daughter, really looking, trying to see what was different and what was the same.
 
@@ -187,7 +187,7 @@ That, in the end, was why she had done what she had done.
 
 
 
-# scene-03
+# Scene 03
 
 The text arrived at two-fourteen: Coming by in an hour, if that's okay. Need to talk. The sender was Vikram Patel, whose name on her screen produced a complex cascade of feeling: affection, wariness, the memory of working lunches and late meetings and conversations that had felt, at the time, like genuine connection.
 
@@ -321,7 +321,7 @@ She did not know if Vikram was a friend or an emissary or something in between. 
 
 
 
-# scene-04
+# Scene 04
 
 The rain stopped around six, leaving the world washed and dripping, and Ananya stood in her kitchen watching the last light of the January day fade behind the clouds. She had made pasta, a simple dish that required just enough attention to occupy her hands without engaging her mind, and now she ate it standing at the counter, not bothering with a plate, just the pot and a fork and the mechanical motion of feeding herself.
 

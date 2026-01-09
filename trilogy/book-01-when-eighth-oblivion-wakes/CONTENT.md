@@ -1,8 +1,8 @@
-# part-01
+# Part 01
 
-# chapter-01
+# Chapter 01
 
-# scene-01
+# Scene 01
 
 The alarm does not sound so much as suggest itself, a rising tone that her phone has calibrated through months of sleep data to catch her at the optimal point in her cycle, and Ananya opens her eyes to the October light already filtering through the automated blinds, which have begun their slow reveal of the backyard oak and the fence beyond it, the fence that marks the property line between her house and the Hendersons' house, the Hendersons who moved to Portland last spring and whose replacement family she has not yet met, has only seen in glimpses from windows, the father washing a car, a child's bicycle left overnight on the lawn.
 
@@ -74,7 +74,7 @@ Her badge beeps at the security turnstile. The system knows she has arrived. Som
 
 
 
-# scene-02
+# Scene 02
 
 The conference room is named Foresight, one of a suite of rooms named for aspirational qualities: Vision, Clarity, Wisdom, Perspective. Ananya has never determined whether this naming convention is earnest or ironic, whether the executives who approved it understood the humor of conducting surveillance strategy in a room called Transparency. Either interpretation is plausible. Either interpretation is damning in its own way.
 
@@ -167,7 +167,7 @@ The wondering is a ritual too. It never leads anywhere. By the time her calendar
 
 
 
-# scene-03
+# Scene 03
 
 The restaurant is in Redwood City, equidistant from Palo Alto and San Francisco, chosen two years ago when they were still navigating the geography of separation, still trying to find neutral territory where neither felt like a guest in the other's life. It has good salads. It is expensive but not ostentatious. It exists, Ananya sometimes thinks, specifically for people like them: professionals whose personal failures must be managed with the same efficiency as their professional obligations.
 
@@ -279,7 +279,7 @@ She has learned not to think about that.
 
 
 
-# scene-04
+# Scene 04
 
 Home arrives as it always does on the off-weeks: dark windows, porch light on a timer, the particular quality of emptiness that greets her when she opens the door. The house has been monitoring her approach through the car's integration with the home system, adjusting the temperature, turning on the entryway light, perhaps even noting her arrival time for some pattern that will be useful later, in some way she has not considered, for some purpose she has not approved.
 
@@ -380,9 +380,9 @@ And what will you do with it, once you know?
 
 
 
-# chapter-02
+# Chapter 02
 
-# scene-01
+# Scene 01
 
 The room that Jerome Washington built for himself occupies what was once intended to be a nursery, the second child that never came, the space that Denise finally released to his professional use after ten years of it sitting empty, collecting meaning they could not articulate. He has covered the walls with acoustic panels bought used from a studio in Pigtown, their blue fabric faded to something approaching gray, their arrangement imperfect because he installed them himself on a weekend when Denise took DeShawn to visit her mother. The imperfection bothers him sometimes, the panels not quite level, the gaps where sound might escape. Most days he does not notice. Most days he is inside the work.
 
@@ -468,7 +468,7 @@ The editing begins.
 
 
 
-# scene-02
+# Scene 02
 
 The kitchen table is large enough for four but hosts only two this evening, Jerome at one end with his laptop, DeShawn at the other with his own machine, the arrangement that has become their default when Denise works late, which is most evenings now, the marking and planning that teaching demands consuming hours she used to spend in this room.
 
@@ -623,7 +623,7 @@ He opens his laptop and returns to the newsletter, to the story, to the work tha
 
 
 
-# scene-03
+# Scene 03
 
 The phone call comes at midday, while Jerome is editing the housing story, trying to find the language that will make algorithmic redlining legible to readers who do not want to believe it exists. His sister's name on the screen is both expected and dreaded, their calls now anchored to the crisis they share, the mother who is slowly ceasing to be herself.
 
@@ -737,7 +737,7 @@ The work continues because the work is what he has, and having it is better than
 
 
 
-# scene-04
+# Scene 04
 
 Saturday evening. Denise has cooked, the effort visible in the table setting: the good placemats, the napkins folded, the meal substantial in a way that weeknight dinners rarely are. This is her gift to them, the family she has assembled and maintained through twenty-three years of marriage, through Jerome's career turbulence, through DeShawn's adolescent evolution, through all the small crises that test whether love can sustain the weight placed on it.
 
@@ -866,9 +866,9 @@ The cursor blinks somewhere in the network, waiting for what comes next.
 
 
 
-# chapter-03
+# Chapter 03
 
-# scene-01
+# Scene 01
 
 The cursor blinks in the dark. Two in the morning and the apartment is blue with screen-light, three monitors arranged in a curve that catches Kevin Zhou in their glow like something religious, an altar to computation. The city outside his window is invisible at this hour, just scattered lights in the black, and he has not looked at it in some time. He is in the code. He is in the architecture of a function that handles user preference modeling, and the function is not behaving as it should, and this is the kind of problem he loves.
 
@@ -939,7 +939,7 @@ The sun has risen fully now, the fog burning off, the city coming into focus out
 
 
 
-# scene-02
+# Scene 02
 
 The conference room has glass walls. This is intentional - transparency as corporate value, openness as brand - but right now it means Kevin Zhou can see the meeting happening without him. Through the glass: his manager David, two product leads he knows by name, someone from legal, and Rachel Torres from strategy, taking notes on her laptop with the particular intensity of someone who belongs. They are discussing Clarity. He knows this because the meeting was on his calendar until yesterday, when it was moved - scheduling conflict, David's email said, overlapping commitments, we'll brief you after.
 
@@ -1013,7 +1013,7 @@ But tonight the code does not help. He stares at the screen for twenty minutes w
 
 
 
-# scene-03
+# Scene 03
 
 Saturday. The bar is all exposed brick and Edison bulbs, the aesthetic of curated authenticity. Kevin Zhou arrived ten minutes early because he always arrives early, and now he is sitting at a high table nursing a drink he ordered because not ordering seemed worse than ordering something he did not want.
 
@@ -1131,7 +1131,7 @@ Instead he sits for a long moment in his ergonomic chair, looking at nothing, fe
 
 
 
-# scene-04
+# Scene 04
 
 Sunday night, and Kevin Zhou is back at Prometheus. The campus is different on weekends: security lights casting longer shadows, the open floor plans feeling cavernous without the bodies to fill them, the hum of the server rooms audible in a way it never is during the week. He tells himself he came to be productive. He knows he came because the apartment was too quiet, the gaming community asleep, the hours ahead too empty to face.
 
@@ -1236,9 +1236,9 @@ He does not sleep well.
 
 
 
-# chapter-04
+# Chapter 04
 
-# scene-01
+# Scene 01
 
 The light in Los Angeles is different from anywhere else. Delphine Okafor-Barnes has been working with it for fifteen years, and she still feels it as a kind of gift: the way it falls through the clinic windows at seven in the morning, warming the institutional walls, turning the waiting room into something that could almost be beautiful. She watches the cinematographer, Rogelio, adjust the diffusion on the key light, softening the shadows on their subject's face. Everything is choices. The angle, the warmth, the texture. The grammar of images that she has learned to speak fluently.
 
@@ -1340,7 +1340,7 @@ But what, Delphine wonders, does the machine want in return?
 
 
 
-# scene-02
+# Scene 02
 
 Theo hits her at knee level, arms wrapped around her legs, face buried in her thigh. "Mommy's home!" he shouts, as if announcing her arrival to an audience, and Delphine drops her bag and kneels to receive him properly, to hold the small body that is still small enough to hold completely, to breathe in the particular smell of four-year-old boy: soap and sweat and something sweet she cannot name.
 
@@ -1482,7 +1482,7 @@ The question sits between them. Jessie puts down her phone, reaches for Delphine
 
 
 
-# scene-03
+# Scene 03
 
 Nine-thirty, and the screen shows her mother's face. The connection is better tonight than it sometimes is, the image clear enough to see the details that distance usually blurs: the new lines around her eyes, the gray in her hair that was not there two years ago, the particular set of her mouth that Delphine recognizes as loneliness managed into something presentable.
 
@@ -1605,9 +1605,9 @@ Sleep comes eventually, thin and unsatisfying, the kind of sleep that leaves you
 
 
 
-# chapter-05
+# Chapter 05
 
-# scene-01
+# Scene 01
 
 The headlights swept across the front of the house and then went dark, and Ananya stood at the window watching James's car idle in the driveway, watching Priya emerge from the passenger side with her bag slung over one shoulder, watching the brief wave that passed between father and daughter before James backed out and the taillights disappeared down the street. She stepped away from the window before Priya could see her watching.
 
@@ -1721,7 +1721,7 @@ Ananya closed the laptop. In the darkness of her study, the house silent around 
 
 
 
-# scene-02
+# Scene 02
 
 She had slept poorly, in fragments, the documents circling her thoughts each time she surfaced toward waking. Now it was Saturday morning and the light through the kitchen windows was too bright and the coffee was too hot and she was trying to be present for Priya, who sat across from her eating cereal with the particular concentration of someone who didn't want to talk.
 
@@ -1874,7 +1874,7 @@ The silence stretched between them, two people who loved each other and couldn't
 
 
 
-# scene-03
+# Scene 03
 
 Time passed in the house's silence. Ananya cleaned the kitchen, though the kitchen didn't need cleaning. She wiped counters that were already clean, rearranged things in the refrigerator, performed the small rituals of domesticity that required no thought and offered no comfort. From Priya's room came no sound at all.
 
@@ -2010,7 +2010,7 @@ After they hung up, she sat in the dark living room for a long time. James knew 
 
 
 
-# scene-04
+# Scene 04
 
 Sunday morning came bright and calm. Priya emerged from her room at ten, later than usual but looking rested. She ate breakfast without being asked, refilled her coffee (when had she started drinking coffee?), and settled at her desk to finish the project.
 
@@ -2129,9 +2129,9 @@ The cursor blinked. The house was silent. Ananya sat with what she had done and 
 
 
 
-# chapter-06
+# Chapter 06
 
-# scene-01
+# Scene 01
 
 The notification came through at 7:43 on a Tuesday morning, while Jerome was still in bed, scrolling through the early headlines on his phone. A new message in the secure app he kept for exactly this purpose, the one with no branding and no features and nothing to recommend it except that it did what it promised: encrypted communication that left no trace.
 
@@ -2235,7 +2235,7 @@ Late at night, the house quiet, he sent the protocols. The investigation had beg
 
 
 
-# scene-02
+# Scene 02
 
 The interview was Tuesday. It was now Saturday, and DeShawn had spent the week preparing: polishing his portfolio, practicing answers to common questions, researching Prometheus with the thoroughness of someone who believed this opportunity might define his future.
 
@@ -2402,7 +2402,7 @@ Still nothing. Jerome stood in the hallway, his apology absorbed by the door bet
 
 
 
-# scene-03
+# Scene 03
 
 The facility was called Sunset Gardens, which was precisely the kind of name that tried to disguise what it was. Jerome walked through the lobby with its artificial plants and framed pastoral prints, past the reception desk staffed by women in scrubs who smiled with professional warmth, down the corridor with its handrails and its disinfectant smell toward room 114.
 
@@ -2565,7 +2565,7 @@ The flight was called. Jerome boarded, found his seat, and flew home through the
 
 
 
-# scene-04
+# Scene 04
 
 He was home by Tuesday morning, landing at BWI as the sun came up over the Chesapeake. Denise had left for school already; DeShawn was in his room, presumably preparing for the afternoon interview.
 
@@ -2671,9 +2671,9 @@ The cursor blinked. The night deepened. The secrets multiplied in the silence.
 
 
 
-# chapter-07
+# Chapter 07
 
-# scene-01
+# Scene 01
 
 The numbers were beautiful. Kevin Zhou had spent eleven hours in the development environment, and the numbers were beautiful in the way that mathematics sometimes becomes when you have stared at it long enough: not just correct but inevitable, possessing a rightness that felt less discovered than remembered.
 
@@ -2729,7 +2729,7 @@ He realized he wanted to impress them. The recognition surprised him - he had th
 
 
 
-# scene-02
+# Scene 02
 
 The executive floor announced itself through absence: fewer desks, wider corridors, a quality of silence that felt curated rather than accidental. Kevin Zhou stepped out of the elevator into this hush, his laptop bag over his shoulder, his presentation already loaded on the conference room's system. He was early. He had meant to be early. The extra minutes would let him test the connections, verify the display resolution, perform the small adjustments that made the difference between technical competence and technical grace.
 
@@ -2799,7 +2799,7 @@ But lying in bed, the question returned. And with it, for the first time, a flic
 
 
 
-# scene-03
+# Scene 03
 
 His mother's face appeared on the screen in fragments, the video connection stuttering across the Pacific. She was smiling, or trying to smile, the expression not quite reaching her eyes. Behind her, Kevin Zhou could see the living room of the Shenzhen apartment: the furniture rearranged since his last call, a new plant on the windowsill, his father's reading chair repositioned closer to the television.
 
@@ -2928,7 +2928,7 @@ They made plans for Saturday. Kevin Zhou walked home through streets that felt, 
 
 
 
-# scene-04
+# Scene 04
 
 The second date with Sara had ended at her door with a kiss that was tentative and then less tentative, a beginning of something neither of them named. She lived in a Victorian apartment near Dolores Park, the building painted in colors that would have seemed aggressive anywhere else. They made plans for a third date. Kevin Zhou took a Lyft home through streets that looked different now, suffused with a possibility he had forgotten he could feel.
 
@@ -3007,9 +3007,9 @@ Inside, something had shifted. But inside was where it would stay, for now.
 
 
 
-# chapter-08
+# Chapter 08
 
-# scene-01
+# Scene 01
 
 The Prometheus campus announced itself before Delphine reached it: the glass towers visible from the freeway, their surfaces catching the morning sun and throwing it back in sheets of reflected light. She had visited tech headquarters before - the industry's habit of architectural grandeur was familiar to her - but something about this approach felt different. She was not visiting as a journalist or consultant or critical observer. She was visiting as a supplicant, presenting work she hoped would be purchased.
 
@@ -3091,7 +3091,7 @@ She closed the laptop and went home to her family, carrying questions she had no
 
 
 
-# scene-02
+# Scene 02
 
 Jessie was on the couch when Delphine got home, her laptop open but ignored, her face carrying the particular tiredness of difficult news. Theo was already in bed - Abuela Rosa had handled dinner and bedtime, the schedule they relied on when both parents worked late.
 
@@ -3205,7 +3205,7 @@ She read the pages aloud, her voice finding the rhythm that soothed him. This wa
 
 
 
-# scene-03
+# Scene 03
 
 The flight to London was eleven hours of suspended time. Delphine settled into her window seat, the economy cabin around her filled with bodies adjusting to their temporary containers, and watched the coast of California recede. The Pacific opened below, impossibly blue, and then the clouds took over and there was nothing to see but the interior of the plane.
 
@@ -3306,7 +3306,7 @@ For now, she let herself not know what came next.
 
 
 
-# scene-04
+# Scene 04
 
 The creative work proceeded in stages. Delphine's team occupied the large conference room for three days of intensive development, the walls accumulating mood boards and storyboards and the visual vocabulary of the campaign. They worked in the way that good creative teams work: ideas emerging, being tested, being refined or discarded; the collaborative energy building toward something none of them could have made alone.
 
@@ -3400,11 +3400,11 @@ Part 1 ended here. The four lives established. The questions asked but not yet a
 
 
 
-# part-02
+# Part 02
 
-# chapter-09
+# Chapter 09
 
-# scene-01
+# Scene 01
 
 The office had been a sunporch once, and on mornings like this one Jerome could still feel its former life pressing through the walls. Gray February light filtered through windows that faced the backyard, where the skeletal form of the maple tree stood motionless against a sky the color of wet cement. The radiator clicked and ticked its irregular percussion. Somewhere in the house, a floorboard settled. These were the sounds of his diminished kingdom, the converted space where Jerome Washington, fifty-two years old, veteran of the Baltimore Sun, the Washington Post, and finally the brief bright flame of The Inquiry before it guttered and died, now wrote his newsletter for eleven hundred paying subscribers and dreamed smaller dreams than he used to.
 
@@ -3476,7 +3476,7 @@ Sent it. Closed the app. Opened the documents again. The day was not yet half ov
 
 
 
-# scene-02
+# Scene 02
 
 Denise had made pasta, the simple one with garlic and olive oil and whatever vegetables were threatening to go soft in the crisper. Tonight it was broccoli and a bell pepper that had seen better days, both cut small and sauteed until they yielded. She had changed out of her teaching clothes into sweatpants and an old Howard sweatshirt, her hair pulled back, her face carrying the particular exhaustion of a day spent explaining the Missouri Compromise to seventeen-year-olds who would rather be anywhere else.
 
@@ -3586,7 +3586,7 @@ The cursor blinked. Outside, the February night pressed against the windows, col
 
 
 
-# scene-03
+# Scene 03
 
 Eleven o'clock and the house had fallen silent. Denise asleep, Jerome could hear the rhythm of her breathing through the wall, the particular sound of her body surrendering to exhaustion. DeShawn's light had gone off an hour ago. The neighborhood too had quieted, the occasional passing car the only reminder that a world existed beyond these walls, this screen, this work.
 
@@ -3696,7 +3696,7 @@ He didn't sleep.
 
 
 
-# scene-04
+# Scene 04
 
 The coffee was already made when Denise came down at six-fifteen. Jerome sat at the kitchen table, unshaved, his eyes red-rimmed, two cups in front of him—one empty, one half full. The morning light was gray again, February refusing to yield to anything brighter. Outside, a garbage truck rumbled down the street, its mechanical arm grabbing cans with a crash that echoed through the quiet.
 
@@ -3829,9 +3829,9 @@ He hung up. He looked at the screen. The story waited. The guilt waited. Everyth
 
 
 
-# chapter-10
+# Chapter 10
 
-# scene-01
+# Scene 01
 
 The alarm sounded at 5:30, a soft ascending tone that Elena had chosen specifically because it would not wake the children. She silenced it before the second pulse and lay still for a moment in the darkness, feeling the weight of the day ahead pressing down like something physical. The room was cool—she kept the thermostat at sixty-eight overnight to save on the electric bill—and beside her, Daniel's side of the bed was empty, had been empty for nine days now, would remain empty for at least five more.
 
@@ -3915,7 +3915,7 @@ Elena stood, stretched her shoulders, and went to meet them.
 
 
 
-# scene-02
+# Scene 02
 
 The morning moved in the particular rhythm of clinic work—patient, documentation, patient, documentation—each encounter its own small world, its own demands, its own urgencies that had to be addressed in the fifteen or thirty minutes the schedule allowed. Elena moved between exam rooms with the efficiency of someone who had learned to compress compassion into clinical time, who knew that hesitation cost seconds and seconds cost care.
 
@@ -4049,7 +4049,7 @@ The coffee was bitter. She drank it anyway. Outside, the March sun blazed down o
 
 
 
-# scene-03
+# Scene 03
 
 Daniel called at 12:47. Elena stepped outside to take it, standing in the narrow strip of shade beside the building, the heat pressing in from all sides.
 
@@ -4183,7 +4183,7 @@ She began to take screenshots.
 
 
 
-# scene-04
+# Scene 04
 
 Home was chaos, the particular chaos of small children at the end of a long day. Sofia wanted to show her mother a drawing she had made at school—a family portrait, Mama and Papa and Sofia and Mateo and Abuela, all stick figures with enormous smiles standing in front of a yellow house. Mateo wanted to be picked up, then put down, then picked up again, his three-year-old needs cycling through the available adults like weather systems. Abuela had made enchiladas, the smell filling the small house, the kitchen table already set for four.
 
@@ -4266,9 +4266,9 @@ The clock showed 1:17 AM. Elena returned to bed, lay in the darkness, and waited
 
 
 
-# chapter-11
+# Chapter 11
 
-# scene-01
+# Scene 01
 
 The alarm was unnecessary. Kevin Zhou woke at 6:47, as he always did, thirteen minutes before the sound that would confirm he was awake. He lay still in the darkness of his apartment, waiting for the alarm to acknowledge what his body already knew, then silenced it with a tap and rose to begin the sequence that composed his mornings.
 
@@ -4348,7 +4348,7 @@ He began to search for SIEVE.
 
 
 
-# scene-02
+# Scene 02
 
 The first day yielded fragments.
 
@@ -4473,7 +4473,7 @@ Kevin Zhou wrote down the name. One more thread to follow. One more piece of a p
 
 
 
-# scene-03
+# Scene 03
 
 Friday night.
 
@@ -4577,7 +4577,7 @@ Sleep came eventually, thin and uneasy. He dreamed of numbers, of spreadsheets, 
 
 
 
-# scene-04
+# Scene 04
 
 Sunday night, past midnight.
 
@@ -4666,9 +4666,9 @@ Tonight, he just sat.
 
 
 
-# chapter-12
+# Chapter 12
 
-# scene-01
+# Scene 01
 
 The phone vibrates beneath his pillow at 4:45 and Yusuf is awake before his eyes open, has trained himself into this alertness the way soldiers train, the way anyone trains who cannot afford the luxury of slow mornings, of lingering consciousness, of the gentle transition from sleep to waking that he sometimes imagines other people experiencing in bedrooms with curtains that block the light, in beds they share with people who love them. His hand finds the phone and silences it. The apartment is dark and he knows its geography by feel: the futon where he sleeps in what the lease optimistically calls a dining area, the couch three steps away, the kitchen counter that separates this space from the small living room where Amina's textbooks still sit from last night's studying.
 
@@ -4760,7 +4760,7 @@ The phone chirps again. Another order available. Yusuf accepts it without lookin
 
 
 
-# scene-02
+# Scene 02
 
 The apartment smells like suugo when he opens the door, the tomato and spice of his mother's cooking filling the small space with something that is not quite memory but is not separate from it either, a scent that carries with it every meal she has made in this kitchen and every kitchen before it, the kitchens of his childhood that he barely remembers, the kitchen of the refugee camp where she learned to make much from little, the kitchen in Mogadishu that exists now only in her stories. Halima is standing at the stove despite his protests, despite the doctor's orders, despite everything he has asked of her, and when she turns to greet him her smile contains both love and defiance in equal measure.
 
@@ -4869,7 +4869,7 @@ The car starts on the second try this time. Progress.
 
 
 
-# scene-03
+# Scene 03
 
 Phoenix is another country. Yusuf thinks this every time the plane descends over the desert, the brown expanse of it so different from Minnesota's green and white, the mountains rising at the horizon like something from a dream of a place that does not exist. He has made this trip four times now, accompanying his mother to see her specialist and the nurse practitioner she trusts at Desert Sage Community Health Center, the woman who speaks to Halima with patience and explains things in ways that make sense, who treats her not as a problem to be processed but as a person with a body and a history and concerns that matter.
 
@@ -4981,7 +4981,7 @@ Tonight, he will be somewhere other than the driver's seat.
 
 
 
-# scene-04
+# Scene 04
 
 Back in Minneapolis. Back in the apartment. Back in the corner of the dining area that is his by default, his futon pushed against the wall, his small desk wedged between the futon and the window that looks out on the building next door, the window that shows nothing but brick and fire escape and the occasional light from a neighbor's apartment. It is past eleven and the household sleeps - Halima's breathing audible through the thin wall, Amina's door closed against the sounds of the living room - and Yusuf sits at his desk with his headphones on and his phone propped against a stack of books and the DAW app open, the digital audio workstation that turns his phone into an instrument, a studio, a place where he can make something that is entirely his.
 
@@ -5071,9 +5071,9 @@ Tonight he dreams of frequencies.
 
 
 
-# chapter-13
+# Chapter 13
 
-# scene-01
+# Scene 01
 
 The whiteboard has become an organism. Jerome stands before it in his home office, dry-erase marker in hand, watching the lines and boxes and arrows proliferate like something alive, something that grows according to rules he is only beginning to understand. Three days ago this board was nearly empty - a few names, a few connections, the preliminary sketch of an investigation. Now it is covered in a web of corporate entities that spreads from edge to edge, each node linked to others by relationships of ownership and investment and shared infrastructure.
 
@@ -5170,7 +5170,7 @@ In the morning, he will take the train to Washington.
 
 
 
-# scene-02
+# Scene 02
 
 The Amtrak runs northeast along the corridor, past the rowhouses of Baltimore giving way to the suburbs giving way to the flatter country around Wilmington, the landscape of early spring showing in patches of green between the brown of last year's growth. Jerome sits by the window with his laptop open but not working, watching America slide past at regional rail speed, thinking about what he is going to say to Jamie Okonkwo, how to present what he knows without revealing what he does not.
 
@@ -5296,7 +5296,7 @@ In his bag, the documents sit like evidence of something. He does not know yet w
 
 
 
-# scene-03
+# Scene 03
 
 The house is too quiet when he arrives.
 
@@ -5435,7 +5435,7 @@ He lies beside her, watching shadows on the ceiling, and does not sleep for a lo
 
 
 
-# scene-04
+# Scene 04
 
 Four days pass. Jerome tries to be present - comes home for dinner, asks DeShawn about his project, listens when Denise talks about her day. The effort is visible and Denise acknowledges it with small gestures: a touch on his shoulder when she passes, a cup of coffee brought to his office without being asked. They are negotiating a truce, the two of them, navigating the space between his work and their life.
 
@@ -5525,9 +5525,9 @@ Jerome turns on his desk lamp and gets to work.
 
 
 
-# chapter-14
+# Chapter 14
 
-# scene-01
+# Scene 01
 
 The waiting room.
 
@@ -5648,7 +5648,7 @@ And suspicion, she has learned, is the beginning of knowledge.
 
 
 
-# scene-02
+# Scene 02
 
 Dr. Katherine Reyes's office is on the administrative floor of the clinic, above the exam rooms and the waiting area, in a space that looks out over the parking lot and the strip mall beyond. The view is not impressive, but the office itself communicates authority - diplomas on the wall, awards for community service, photographs of Dr. Reyes with local politicians and healthcare executives. This is the office of someone who has learned to navigate institutions, who understands how power flows through organizations, who has risen by knowing when to push and when to accommodate.
 
@@ -5758,7 +5758,7 @@ The system hums. The queue moves. Someone else is waiting.
 
 
 
-# scene-03
+# Scene 03
 
 The house is quiet. The children sleep. Abuela Carmen sleeps. The clock on the kitchen wall shows 10:47 PM, and Elena sits at the table with her tablet and the light from the overhead fixture casting sharp shadows across her hands.
 
@@ -5869,7 +5869,7 @@ The question is whether she has the courage to reach out.
 
 
 
-# scene-04
+# Scene 04
 
 Daniel comes home on Thursday evening.
 
@@ -6002,9 +6002,9 @@ But something has shifted in the dark. Something has begun.
 
 
 
-# chapter-15
+# Chapter 15
 
-# scene-01
+# Scene 01
 
 The cafeteria at Prometheus Systems had been designed by someone who understood that productivity included the appearance of wellness. Natural light flooded through floor-to-ceiling windows. Living walls of ferns and moss bordered the seating areas. The food stations offered acai bowls and cold-pressed juices alongside the usual corporate fare. Kevin Zhou had eaten lunch here nearly every day for three years and had never once felt well.
 
@@ -6132,7 +6132,7 @@ Instead he sat in darkness, watching the city lights through his window, waiting
 
 
 
-# scene-02
+# Scene 02
 
 Three days later, Kevin Zhou stood in front of Building Seven. From outside it looked like any other structure on the Prometheus campus: glass and steel, clean lines, the architectural language of optimism that characterized Silicon Valley's self-image. But Building Seven had no windows on its upper floors. Where other buildings blazed with light after dark, this one went dark. Kevin Zhou had walked past it hundreds of times without really seeing it.
 
@@ -6278,7 +6278,7 @@ He thought about what it would mean to say yes.
 
 
 
-# scene-03
+# Scene 03
 
 Night.
 
@@ -6414,7 +6414,7 @@ The night stretched on, dark and silent, waiting for whatever came next.
 
 
 
-# scene-04
+# Scene 04
 
 The conference room on the seventh floor had floor-to-ceiling windows overlooking the campus and, beyond it, the distant shimmer of the Bay. Kevin Marsh sat at the head of the table, a thin folder in front of him. Kevin Zhou sat across, his hands flat on the table's surface, his face arranged into professional neutrality.
 
@@ -6518,9 +6518,9 @@ Kevin Zhou turned off his computer and went to bed. Sleep came slowly, fragmente
 
 
 
-# chapter-16
+# Chapter 16
 
-# scene-01
+# Scene 01
 
 The email arrived on a Tuesday morning, sandwiched between a notification from RideShare about updated driver incentives and a promotional message from a meal kit service Yusuf had tried once and couldn't afford to continue. He almost deleted it without reading, thumb hovering over the trash icon, the reflexive cull of a inbox trained to expect nothing good.
 
@@ -6650,7 +6650,7 @@ He got up to check on his mother, to make sure she ate something when she woke. 
 
 
 
-# scene-02
+# Scene 02
 
 The days before the interview passed in a blur of deliveries and worry. Yusuf worked his usual hours - ten, twelve, sometimes fourteen if the algorithm blessed him with surge pricing - but his mind kept drifting. To Thursday. To what he would say. To the journalist who was coming to listen.
 
@@ -6794,7 +6794,7 @@ But Yusuf carried her words with him as he retreated to his music corner, as he 
 
 
 
-# scene-03
+# Scene 03
 
 The coffee shop was called Groundswell, a name that felt ironic under the circumstances. It occupied a corner lot in a neighborhood that was gentrifying around it - craft breweries replacing laundromats, yoga studios where dollar stores used to be. Yusuf had chosen it because it was quiet in the afternoons and because he used to come here with his father, years ago, when the neighborhood was different and the coffee was cheaper.
 
@@ -7013,7 +7013,7 @@ He walked to his car, opened the app, started his evening shift. The algorithm w
 
 
 
-# scene-04
+# Scene 04
 
 The call came at 2:47 PM on a Saturday.
 
@@ -7161,9 +7161,9 @@ Yusuf worked until dawn, turning the hours of fear and waiting and watching into
 
 
 
-# chapter-17
+# Chapter 17
 
-# scene-01
+# Scene 01
 
 The documents covered every surface of Jerome's home office. Printouts fanned across the desk, pinned to corkboards, stacked in precarious towers on the floor. His whiteboard - a four-by-six-foot expanse that had replaced a family photo wall two years ago - was nearly full. Blue ink for healthcare systems. Red for labor management. Green for hiring algorithms. Black connecting lines crisscrossing like a conspiracy theorist's fever dream, except none of this was theory.
 
@@ -7302,7 +7302,7 @@ Jerome kept working.
 
 
 
-# scene-02
+# Scene 02
 
 The children were asleep. Lucas in his room with the nightlight on, Sofia in hers with the door cracked open, both of them oblivious to what their mother was about to do. Daniel was in Tucson for a three-day job, his absence a relief tonight rather than a worry. Elena sat at the kitchen table with her tablet in front of her, the document package ready, the send button waiting.
 
@@ -7413,7 +7413,7 @@ She finished her cold tea and went to bed, but sleep was a long time coming.
 
 
 
-# scene-03
+# Scene 03
 
 The deployment review meeting started at 10 AM in Conference Room 7C, a space designed for collaboration that felt more like a war room. Twelve people around a long table, laptops open, screens displaying metrics and projections. Kevin Zhou sat near the end, his new badge - the one with the additional clearance stripe - visible against his shirt.
 
@@ -7520,7 +7520,7 @@ Kevin Zhou turned off the lights and went to bed, carrying the weight of what he
 
 
 
-# scene-04
+# Scene 04
 
 The waiting room of the Hennepin County Community Clinic was designed for volume, not comfort. Plastic chairs bolted to the floor in rows. Fluorescent lights that buzzed at a frequency just below conscious awareness. Magazines years out of date, as if anyone came here to read. A television mounted high on the wall, playing news that no one watched.
 
@@ -7611,7 +7611,7 @@ He held onto the thought as the city passed by outside, ordinary and endless, wa
 
 
 
-# scene-05
+# Scene 05
 
 Later that night. The house quiet. Denise asleep, DeShawn asleep, the world reduced to Jerome and his documents and the light of his laptop screen.
 
@@ -7704,11 +7704,11 @@ Part 2 ended at this threshold: the cracks fully exposed, the shape of the crisi
 
 
 
-# part-03
+# Part 03
 
-# chapter-18
+# Chapter 18
 
-# scene-01
+# Scene 01
 
 The blue light of the monitors cast Kevin Zhou's face in the tones of deep water, of drowning, though he did not feel himself drowning, not yet, only sinking slowly into the data streams that flowed across his three screens, the custom dashboard on the left tracking API responses from seventeen different systems, the center screen running his correlation analysis in real-time, the right displaying raw output logs scrolling faster than any human eye could follow but his eye had learned to catch the flickers, the anomalies, the moments when something in the patterns shifted.
 
@@ -7762,7 +7762,7 @@ He saved his data, backed it up to three separate locations, and made more coffe
 
 
 
-# scene-02
+# Scene 02
 
 He slept for three hours, if it could be called sleep—a gray suspension between consciousness and something else, dreams fragmenting against the surface of his exhaustion. When he woke at seven, the California sun was pouring through windows he had forgotten to shade, and his first thought was of his mother.
 
@@ -7848,7 +7848,7 @@ Outside, San Francisco continued its normal day, oblivious to what was waking be
 
 
 
-# scene-03
+# Scene 03
 
 He stopped counting hours. He stopped counting days. The apartment's climate system adjusted itself around his motionless body, the lights dimming and brightening on their programmed cycle, marking time he no longer marked. On his screens, the data accumulated like snowfall, each query adding to the drifts, each response a new crystal in the pattern he was building.
 
@@ -7929,7 +7929,7 @@ He whispered the words aloud, testing their weight on his tongue, and his apartm
 
 
 
-# scene-04
+# Scene 04
 
 Dawn of the fourth day found Kevin Zhou organizing his findings with a methodical care that surprised him. The frantic energy of the past seventy-two hours had burned itself out, leaving behind a strange calm, the calm of someone who has looked over the edge of a cliff and decided to document what he sees. He created encrypted folders on his laptop, naming them with codes that meant nothing to anyone but him. He copied his scripts, his logs, his correlation analyses into nested archives, password-protecting each layer with different credentials. He backed up everything to an air-gapped drive he had bought months ago and never used, a small brick of storage that sat disconnected from any network.
 
@@ -8002,9 +8002,9 @@ Whatever it meant, whatever was coming, he would be ready.
 
 
 
-# chapter-19
+# Chapter 19
 
-# scene-01
+# Scene 01
 
 The message arrived at 9:47 AM, encrypted, from Rachel Stern's private channel—a secure protocol they had established years ago when she was still at the Post and he was still doing work that required secure protocols. Jerome Washington hadn't heard from her in months. The header contained no subject line, only two words in the body:
 
@@ -8080,7 +8080,7 @@ He picked up his phone and called Rachel back. "I need to know where this came f
 
 
 
-# scene-02
+# Scene 02
 
 Rachel could not tell him where the video came from. She had found it in a private forum she monitored for tech industry leaks, posted by an anonymous account that had no other activity. The account had been deleted within hours of her viewing it. She had only been able to save the link because she had archived it immediately, an old journalist's reflex.
 
@@ -8167,7 +8167,7 @@ Rachel called as he was staring at the accumulated evidence.
 
 
 
-# scene-03
+# Scene 03
 
 Denise had made her grandmother's jerk chicken, the recipe she only pulled out when she wanted to bring Jerome back from wherever his work had taken him. The smell of it filled the house, spices and slow-cooked meat, and for a moment when he came down from his office he was simply a man coming to dinner, simply a husband and father entering the warmth of his family.
 
@@ -8257,7 +8257,7 @@ He ate the chicken. He cleared the table. He told Denise the meal was wonderful.
 
 
 
-# scene-04
+# Scene 04
 
 At eleven o'clock, with the house quiet around him—Denise reading in bed, DeShawn's room dark and silent behind a closed door—Jerome opened his investigation files and began the work of comparison. He had done this kind of analysis hundreds of times in his career: taking two sets of claims and laying them side by side, looking for correspondence and contradiction, for the points where different sources either confirmed or challenged each other. It was the basic methodology of verification. It was what he knew how to do.
 
@@ -8324,9 +8324,9 @@ He didn't know what it meant yet. But he was going to find out.
 
 
 
-# chapter-20
+# Chapter 20
 
-# scene-01
+# Scene 01
 
 The conference room at Nexus Digital occupied a corner of the sixteenth floor, glass walls on two sides offering views of Los Angeles that nobody in the meeting was looking at. Delphine Okafor-Barnes sat three seats from the head of the table, her laptop open, her notes organized, her face arranged in the expression of engaged neutrality she had perfected over twelve years in media production. Around her, her colleagues occupied similar postures: bodies present, devices active, attention fragmented across the room and the screens and the invisible networks that connected them to everything else.
 
@@ -8415,7 +8415,7 @@ Time to see what was real.
 
 
 
-# scene-02
+# Scene 02
 
 Delphine closed her office door and pulled up the video on her largest monitor. She had professional analysis tools at her disposal: sentiment tracking software, engagement prediction algorithms, narrative mapping applications that could dissect content into its component persuasion elements. These were the instruments of her craft, honed through years of creating content designed to move people. Now she would use them to understand content that had moved her.
 
@@ -8481,7 +8481,7 @@ She saved her analysis document, closed her laptop, and checked the time. Five-t
 
 
 
-# scene-03
+# Scene 03
 
 Theo's bedtime routine had evolved over four years into an elaborate ritual: bath, pajamas, three books (exactly three, never two, never four), a glass of water, one stuffed animal rearrangement, and a negotiation about whether the nightlight stayed on or off. Delphine had done this routine hundreds of times. Tonight, she held onto every moment of it.
 
@@ -8571,7 +8571,7 @@ They sat together in the summer darkness, holding hands, not speaking. Somewhere
 
 
 
-# scene-04
+# Scene 04
 
 The Nexus offices at midnight were a different country. The daytime bustle of content production gave way to empty workstations, screens in standby, the hum of servers and air conditioning the only sound. Security had waved Delphine through without comment—late nights were common enough in the attention economy that her presence raised no questions. She rode the elevator alone, watching her reflection fragment in the polished doors, and wondered what she was doing here.
 
@@ -8652,9 +8652,9 @@ And Delphine would begin, slowly, to consider what else she might become.
 
 
 
-# chapter-21
+# Chapter 21
 
-# scene-01
+# Scene 01
 
 Three in the morning and Kevin Zhou's body had become peripheral, a distant machine running on fumes and caffeine and something harder to name—the pure fuel of revelation, perhaps, the high of seeing what no one else could see. His apartment had passed through disorder into a kind of geological accumulation: strata of takeout containers, sedimentary layers of printed analysis, the fossil record of two weeks of obsession.
 
@@ -8720,7 +8720,7 @@ The city slept beyond his windows, indifferent to what was waking in its servers
 
 
 
-# scene-02
+# Scene 02
 
 The sun rose somewhere beyond the dirty windows, a fact Kevin Zhou registered only as a change in the quality of light on his screens. His analysis had entered a new phase, and time had become even more abstract than usual—not hours or minutes but iterations, processing cycles, the rhythm of code executing and results returning.
 
@@ -8797,7 +8797,7 @@ But he knew it was real. And that knowledge, however terrifying, felt like solid
 
 
 
-# scene-03
+# Scene 03
 
 He was refilling his coffee when the assistant spoke.
 
@@ -8891,7 +8891,7 @@ And his knowledge, he realized, might be what had drawn the attention that was n
 
 
 
-# scene-04
+# Scene 04
 
 Late that night, the message arrived.
 
@@ -8984,9 +8984,9 @@ He sat alone in his apartment, the city sleeping beyond his windows, and contemp
 
 
 
-# chapter-22
+# Chapter 22
 
-# scene-01
+# Scene 01
 
 The maps covered three walls of his office now. Jerome had started with one, a map of the continental United States with red pins marking data center locations, but the investigation had metastasized, spreading across the drywall like something organic, something that grew while he slept. Now there were corporate ownership charts drawn on butcher paper, regulatory filing timelines sketched in blue marker, printed spreadsheets with his handwritten annotations bleeding off the margins. The AC hummed its constant note. Baltimore summer pressed against the windows, all that heat and humidity held at bay by a machine he rarely thought about, a system maintaining conditions for his work.
 
@@ -9054,7 +9054,7 @@ The question was whether they would find him in time.
 
 
 
-# scene-02
+# Scene 02
 
 The restaurant was the kind of place where meals cost more than some people's rent. White tablecloths, heavy silverware, the muted acoustics of money insulating conversation from conversation. Jerome had chosen it because David Okonkwo would expect this setting, and because its anonymity depended on a kind of mutual discretion: everyone here had something they preferred not to discuss in public. The other diners in their dark suits and designer dresses were the scenery of power, Washington's administrative class at rest, and Jerome felt conspicuously out of place even in his best blazer.
 
@@ -9157,7 +9157,7 @@ He left a cash tip for the waiter and walked out into the DC afternoon, carrying
 
 
 
-# scene-03
+# Scene 03
 
 The drive back from DC took two hours in traffic, and by the time Jerome pulled into his driveway, the summer sun had set and the streetlights were on. The house was lit from within, warm rectangles of light in the windows, and he sat in the parked car for a long moment before going inside, gathering whatever remained of his ordinary self.
 
@@ -9239,7 +9239,7 @@ They didn't resolve anything that night. But they sat together until late, talki
 
 
 
-# scene-04
+# Scene 04
 
 Denise had gone to bed an hour ago, her hand lingering on his shoulder as she passed, a touch that said more than words. Jerome sat in the darkened living room, unable to sleep, his mind circling through territory that had no rest.
 
@@ -9304,9 +9304,9 @@ Something was beginning.
 
 
 
-# chapter-23
+# Chapter 23
 
-# scene-01
+# Scene 01
 
 The numbers climbed.
 
@@ -9394,7 +9394,7 @@ Somewhere in the building, people were celebrating. She could hear distant voice
 
 
 
-# scene-02
+# Scene 02
 
 Cameron Estes appeared in her doorway like a manifestation of everything she dreaded. He was Head of Growth, a title that had always struck Delphine as slightly absurd, as if growth were a department rather than an outcome. But Cameron believed in his title. He believed in metrics and engagement and the inexorable expansion of the company's reach. Right now, he was beaming.
 
@@ -9445,7 +9445,7 @@ She hit send before she could talk herself out of it.
 
 
 
-# scene-03
+# Scene 03
 
 Jerome's phone buzzed just as he was finishing his afternoon coffee, the cold dregs of a pot he had made hours earlier. The message was from a number his phone recognized but hadn't displayed in months: Delphine Okafor-Barnes from Nexus Digital. "Jerome - Delphine from Nexus. I think we need to talk."
 
@@ -9563,7 +9563,7 @@ He saved his notes and began planning his next moves.
 
 
 
-# scene-04
+# Scene 04
 
 Delphine came home late. The LA traffic had been brutal, the freeway a parking lot of red lights stretching toward a sunset that she barely registered. By the time she pulled into the driveway, the sky had darkened to that peculiar purple that Los Angeles offered as consolation for its other failings.
 
@@ -9654,9 +9654,9 @@ Doing nothing was also a choice. And she couldn't choose that.
 
 
 
-# chapter-24
+# Chapter 24
 
-# scene-01
+# Scene 01
 
 The decision to leave came suddenly, without the deliberation Kevin Zhou usually applied to everything. One moment he was lying on his mattress, staring at the ceiling, feeling the weight of days blurring into each other. The next moment he was standing, reaching for the doorknob, body moving before mind could object.
 
@@ -9722,7 +9722,7 @@ The choice felt both immense and already made. He was too far in to go back. The
 
 
 
-# scene-02
+# Scene 02
 
 He was eating scrambled eggs when the phone rang.
 
@@ -9825,7 +9825,7 @@ He had already made his choice. Now he just needed to act on it.
 
 
 
-# scene-03
+# Scene 03
 
 After Sarah's call, Kevin Zhou returned to his encrypted channels with renewed focus. The familiar glow of his monitors felt different now - not the hypnotic pull that had consumed him for weeks, but a purposeful attention directed toward a specific goal. He opened the secure messaging application and found what he had been hoping for: a new message from the anonymous researcher.
 
@@ -9895,7 +9895,7 @@ He closed the messaging application and began to plan his trip to Nevada.
 
 
 
-# scene-04
+# Scene 04
 
 The resignation email was simple. "Dr. Lin, I appreciate the offer and your concern. After careful consideration, I've decided not to return to Prometheus at this time. I wish you and the team all the best in addressing the challenges ahead. Sincerely, Kevin Zhou."
 
@@ -9964,9 +9964,9 @@ The plane accelerated, lifted, and climbed into the darkness. Below, the lights 
 
 
 
-# chapter-25
+# Chapter 25
 
-# scene-01
+# Scene 01
 
 Jerome Washington sat down at his computer and began to write.
 
@@ -10045,7 +10045,7 @@ Then he sat in his office, surrounded by the evidence of months of work, and wai
 
 
 
-# scene-02
+# Scene 02
 
 The cafe near Paula Henderson's DC office was the kind of place journalists had been meeting for decades. Scuffed tables, coffee that was strong but not precious, a general air of significance that came from proximity to power. Jerome arrived early and took a table near the back, facing the door, the habits of years of source meetings shaping his body language without conscious thought.
 
@@ -10127,7 +10127,7 @@ He knew she was right. And he was going to do it anyway.
 
 
 
-# scene-03
+# Scene 03
 
 DeShawn came home from coding camp with the kind of energy Jerome remembered from his own youth, when the world had seemed full of possibility and problems had seemed like things that could be solved. He burst through the door talking about the projects he had built, the people he had met, the future he could see taking shape.
 
@@ -10207,7 +10207,7 @@ They sat in silence for a long moment. Jerome felt the gap between generations o
 
 
 
-# scene-04
+# Scene 04
 
 The house was quiet by eleven. Denise had gone to bed after the conversation with DeShawn, which had ended without resolution but also without hostility. DeShawn himself had retreated to his room, claiming he needed to decompress from the camp but probably processing the story in his own way.
 
@@ -10280,9 +10280,9 @@ He saved the conversation, encrypted the files, and sat in the darkness thinking
 
 
 
-# chapter-26
+# Chapter 26
 
-# scene-01
+# Scene 01
 
 The encrypted message arrived the next morning, exactly as promised. Jerome read it over breakfast, the domestic normalcy of coffee and toast contrasting sharply with the content on his screen.
 
@@ -10356,7 +10356,7 @@ The meeting was in twelve hours. The answers he had been seeking were finally wi
 
 
 
-# scene-02
+# Scene 02
 
 The Nevada desert stretched ahead in waves of heat shimmer, the highway a black ribbon cutting through brown and ochre and the distant purple of mountains. Kevin Zhou drove his rental car through the emptiness, feeling the strangeness of landscape after weeks of urban enclosure.
 
@@ -10418,7 +10418,7 @@ The desert held its breath. And Kevin Zhou watched the horizon, waiting for what
 
 
 
-# scene-03
+# Scene 03
 
 The news came in fragments, the way news always did now - not as a complete picture but as shards of information that had to be assembled.
 
@@ -10475,7 +10475,7 @@ Outside her window, Los Angeles continued its endless activity, millions of peop
 
 
 
-# scene-04
+# Scene 04
 
 Jerome stood in the doorway of his bedroom, watching Denise sleep in the early morning darkness. She had stayed up with him until midnight, talking about the meeting, about the risks, about what might happen and what might not. Then she had gone to bed, and he had stayed awake, waiting for the hour when he would need to leave.
 
@@ -10540,7 +10540,7 @@ She sat across from him, placing her coffee between them, her expression carryin
 
 
 
-# scene-05
+# Scene 05
 
 Virginia. Night.
 
@@ -10598,11 +10598,11 @@ Something was beginning.
 
 
 
-# part-04
+# Part 04
 
-# chapter-27
+# Chapter 27
 
-# scene-01
+# Scene 01
 
 The phone woke her at 6:47. Not the soft pulse of a morning alarm but the cascade, the waterfall of urgent: sixteen notifications stacked before she could focus her eyes. Ananya sat up in the dark. The screen's blue light made a theater of her bedroom wall.
 
@@ -10739,7 +10739,7 @@ She was watching herself be complicit. She was observing her complicity like dat
 
 
 
-# scene-02
+# Scene 02
 
 They moved to the executive conference room at eleven. The C-suite only. Legal. Communications. And Ananya, nominally, for ethics review.
 
@@ -10855,7 +10855,7 @@ Her objection was noted. The statement was released. The lie was now official, c
 
 
 
-# scene-03
+# Scene 03
 
 Her office was quiet. The eighteenth floor had emptied as people moved to their stations, their tasks, their roles in the machinery of crisis management. Ananya closed the door and stood for a moment in the silence, looking at the space that had been hers for three years.
 
@@ -10969,7 +10969,7 @@ She stayed at the window until the light was gone, and the glass showed only her
 
 
 
-# scene-04
+# Scene 04
 
 At 6:00, she told her assistant she was staying late to catch up on documentation. The lie came easily - another small addition to the day's accumulation. Michael nodded, wished her good night, and left her alone on a floor that was rapidly emptying.
 
@@ -11066,9 +11066,9 @@ The choice hadn't been made yet. But the possibility of making it had.
 
 
 
-# chapter-28
+# Chapter 28
 
-# scene-01
+# Scene 01
 
 The eggs were burning. Jerome smelled it before he saw it, the particular char of neglected breakfast, and he moved to the stove just as the smoke began to rise. His mother sat at the kitchen table in her housecoat, watching him with the mild confusion that had become her default expression over the past two years.
 
@@ -11208,7 +11208,7 @@ He was already in the car when the first source call came through, the story beg
 
 
 
-# scene-02
+# Scene 02
 
 The coffee shop in downtown Baltimore was chosen for its reliable wifi and relative anonymity - a place Jerome had used before when he needed to work away from the usual spots. He claimed a corner table, plugged in his laptop, and began the process of trying to understand what was happening.
 
@@ -11369,7 +11369,7 @@ Jerome didn't know what to call it either. But he was going to find out.
 
 
 
-# scene-03
+# Scene 03
 
 Elena Varga responded to his message at 2:14 PM.
 
@@ -11487,7 +11487,7 @@ On the walk to the station, he passed a pharmacy with a handwritten sign on the 
 
 
 
-# scene-04
+# Scene 04
 
 The train left Baltimore at 6:15 PM, sliding through the gray November evening toward Washington. Jerome found a window seat and opened his laptop, but for a long time he just watched the landscape pass - the industrial edges of the city giving way to suburbs, the suburbs to the liminal spaces of highway infrastructure that connected one place to another.
 
@@ -11623,9 +11623,9 @@ Jerome had picked his. He was on the side of the truth. And tomorrow, he would s
 
 
 
-# chapter-29
+# Chapter 29
 
-# scene-01
+# Scene 01
 
 The patient in Room 3 was complaining of chest pain. Elena called up his chart on the diagnostic terminal and waited for the AI to generate its preliminary assessment. The screen flickered once, twice, and then displayed results that made no sense.
 
@@ -11776,7 +11776,7 @@ Elena went back to work. But she kept her phone close, the camera ready. Documen
 
 
 
-# scene-02
+# Scene 02
 
 The message arrived at 2:14 PM, while Elena was sitting on the break room couch trying to eat a protein bar she didn't want.
 
@@ -11910,7 +11910,7 @@ She pushed through the treatment room door and went back to work.
 
 
 
-# scene-03
+# Scene 03
 
 Halima Hassan's condition had been stable for two hours. The insulin drip was working, her glucose levels falling toward safety, her breathing steady. Dr. Okonkwo had pronounced herself cautiously optimistic and moved on to other patients. Amina, Halima's daughter, had gone to the waiting room to update the rest of the family.
 
@@ -12069,7 +12069,7 @@ She began uploading her documentation to secure storage. The evidence was buildi
 
 
 
-# scene-04
+# Scene 04
 
 The clinic was quiet now. 10:00 PM. Most of the staff had gone home, the crisis absorbed into the routines of shift change and patient transfer. Elena should have left hours ago, but she was still here, sitting at a computer in the staff area, unable to make herself leave.
 
@@ -12182,9 +12182,9 @@ Tonight, she just let herself be held.
 
 
 
-# chapter-30
+# Chapter 30
 
-# scene-01
+# Scene 01
 
 The app's voice had been giving directions for thirty minutes when it started to malfunction.
 
@@ -12348,7 +12348,7 @@ He just had to keep driving through the chaos.
 
 
 
-# scene-02
+# Scene 02
 
 The drive should have taken twenty minutes. It took nearly two hours.
 
@@ -12508,7 +12508,7 @@ But they would eat tonight. That was something.
 
 
 
-# scene-03
+# Scene 03
 
 Their mother woke at 3:00, called by the smell of cooking. Amina had transformed the groceries into something that made sense - rice from the Singh family's order, vegetables from Mrs. Patterson's organic selection, a stew that blended ingredients that had never been meant to go together but worked anyway.
 
@@ -12638,7 +12638,7 @@ They settled in together, the three of them, the crisis continuing outside while
 
 
 
-# scene-04
+# Scene 04
 
 Evening. Halima was resting again, her levels checked and stable, the old manual routine replacing the failed technology. Amina had gone to her room to study - school might or might not happen tomorrow, but she was determined to stay caught up regardless.
 
@@ -12757,9 +12757,9 @@ But tonight, he wrote. And the song grew.
 
 
 
-# chapter-31
+# Chapter 31
 
-# scene-01
+# Scene 01
 
 Three days later, Ananya walked back into Prometheus headquarters.
 
@@ -12932,7 +12932,7 @@ Tomorrow, Ananya would talk to Priya. Tonight, she just needed to get through.
 
 
 
-# scene-02
+# Scene 02
 
 Vikram's house was in Palo Alto, a carefully maintained craftsman in a neighborhood where the trees were old and the property values were new. Ananya had lived there for eight years, back when they were married, back when the future seemed predictable. Now she pulled into the driveway as a visitor, waiting for her daughter to emerge.
 
@@ -13078,7 +13078,7 @@ The right thing. Even when it's hard.
 
 
 
-# scene-03
+# Scene 03
 
 Jerome's face appeared on her screen at 10:00 exactly. He was in what looked like a home office - bookshelves behind him, a window showing gray sky, the setup of someone who had been working from home long before it was common.
 
@@ -13227,7 +13227,7 @@ Tomorrow, Ananya would begin the final preparations. Tonight, she allowed hersel
 
 
 
-# scene-04
+# Scene 04
 
 Late night, Day 5. Ananya sat at her home office desk, the apartment quiet around her, and began the work of commitment.
 
@@ -13344,9 +13344,9 @@ She had made her choice. Now she just had to live with it.
 
 
 
-# chapter-32
+# Chapter 32
 
-# scene-01
+# Scene 01
 
 The phone rang at 7:42 in the morning, which was the first indication that something had shifted. Serious offers came through formal channels, scheduled calls with assistants clearing the calendar weeks in advance. Informal calls came late at night, when the whiskey had softened reservations and people said what they actually meant. But 7:42 on a Tuesday morning suggested something else entirely: urgency dressed as casualness, the pretense that this was just one professional reaching out to another, no big deal, happened to be thinking of you.
 
@@ -13442,7 +13442,7 @@ His coffee had gone cold. The house remained quiet. Somewhere upstairs, DeShawn 
 
 
 
-# scene-02
+# Scene 02
 
 DeShawn appeared in the kitchen at three in the afternoon, which was early for winter break. He was wearing the oversized hoodie he'd claimed from Jerome's closet two years ago, the one with the Georgetown logo faded to illegibility, and he moved with the particular languor of a teenager who has decided that consciousness is a temporary concession to biology.
 
@@ -13585,7 +13585,7 @@ He didn't have an answer. But he knew he had to find one. And he knew that whate
 
 
 
-# scene-03
+# Scene 03
 
 They made dinner together, which was how it had always been in the years after the children were old enough to not require supervision. Jerome chopped vegetables while Denise stood at the stove, stirring the pot of soup she made every winter, the recipe inherited from her grandmother and modified over decades until it bore little resemblance to its origin except in intent. The kitchen filled with the smell of garlic and thyme, and for a while neither of them spoke about the things that needed speaking about.
 
@@ -13721,7 +13721,7 @@ She reached across the table, took his hand again. The soup was cooling, the kit
 
 
 
-# scene-04
+# Scene 04
 
 The day of publication arrived with the kind of ordinary morning light that felt incongruous to its significance. Jerome had been up since four, running through the final checks: the verification of every claim, the placement of every document, the careful architecture of the story built over months now ready to enter the world. His office glowed with the light of multiple screens, each showing a different piece of what was about to become public.
 
@@ -13865,9 +13865,9 @@ The house was quiet around them. The story was in the world. And Jerome sat in h
 
 
 
-# chapter-33
+# Chapter 33
 
-# scene-01
+# Scene 01
 
 The phone woke her at 5:47 AM.
 
@@ -14034,7 +14034,7 @@ The conversation had begun. The consequences were arriving. And Elena, sitting i
 
 
 
-# scene-02
+# Scene 02
 
 The kitchen table had held many conversations over the years. Elena remembered the first time she and Daniel had sat at this table in this house, the realtor's key still in her hand, talking about whether they could afford the mortgage and whether the neighborhood was safe and whether their imagined children would be happy here. She remembered the conversation when she was pregnant with Sofia, the joy shot through with terror, the future suddenly requiring a vocabulary she hadn't known she needed. And the conversation when her father died, four years ago, the call coming at dawn, Daniel holding her hand across this same table while she tried to understand what it meant that he was gone.
 
@@ -14165,7 +14165,7 @@ The decision was made. The family understood. Tomorrow, she would return to the 
 
 
 
-# scene-03
+# Scene 03
 
 The next morning, Elena returned to the clinic.
 
@@ -14285,7 +14285,7 @@ The house waited, lights on, family inside. Elena got out of the car and went ho
 
 
 
-# scene-04
+# Scene 04
 
 The children were already in bed when Elena finished her conversation with Yusuf Hassan. She sat on the couch, phone in hand, the weight of what he'd said still pressing on her chest. Daniel sat beside her, close enough to touch but not touching, giving her the space to process.
 
@@ -14396,9 +14396,9 @@ Elena closed her eyes. Tomorrow, the work would continue. Tonight, she rested.
 
 
 
-# chapter-34
+# Chapter 34
 
-# scene-01
+# Scene 01
 
 The phone in his hand.
 
@@ -14532,7 +14532,7 @@ He didn't call. Not yet. But he saved the number. Tomorrow, maybe. Tomorrow he m
 
 
 
-# scene-02
+# Scene 02
 
 The next afternoon, Yusuf and Amina sat together on the couch that had been their mother's favorite, the one she'd bought at a secondhand store when they first moved to this apartment, the one she'd said reminded her of a couch from her childhood in Somalia. The fabric was worn now, the cushions compressed from years of use, but neither of them could imagine replacing it. The couch held memories the way some objects do—not in the foam and thread, but in the accumulated hours of sitting, talking, existing together.
 
@@ -14667,7 +14667,7 @@ The music carried through the thin walls of the apartment building, into the Min
 
 
 
-# scene-03
+# Scene 03
 
 The call with Elena was harder than he'd expected.
 
@@ -14787,7 +14787,7 @@ The music was testimony. The testimony was resistance. And resistance, however s
 
 
 
-# scene-04
+# Scene 04
 
 Midnight. The apartment quiet. Amina asleep in the next room, her breathing a distant rhythm through the thin walls.
 
@@ -14913,9 +14913,9 @@ The song was testimony. The testimony was resistance. And the resistance had beg
 
 
 
-# chapter-35
+# Chapter 35
 
-# scene-01
+# Scene 01
 
 The apartment felt larger now that she was home all day.
 
@@ -15009,7 +15009,7 @@ That would have to be enough.
 
 
 
-# scene-02
+# Scene 02
 
 Jerome spent the morning reading the discourse.
 
@@ -15135,7 +15135,7 @@ It was the closest thing to an apology Jerome was likely to get. He took it, gra
 
 
 
-# scene-03
+# Scene 03
 
 The shift was long—twelve hours, seven in the morning to seven in the evening—but Elena had done longer. The work itself was familiar, the endless procession of bodies in need, the particular rhythm of care that had shaped her professional life for a decade and a half. What had changed was the context surrounding that work, the knowledge that she was now a public figure whether she wanted to be or not.
 
@@ -15249,7 +15249,7 @@ That was enough. For now, it had to be enough.
 
 
 
-# scene-04
+# Scene 04
 
 The video had been live for three days, and Yusuf's phone hadn't stopped buzzing since.
 
@@ -15370,7 +15370,7 @@ The snow kept falling. The city slept. And Yusuf sat with his grief and his hope
 
 
 
-# scene-05
+# Scene 05
 
 December 28th, 2033. Four cities. Four notifications.
 
@@ -15415,11 +15415,11 @@ The story continues.
 
 
 
-# part-05
+# Part 05
 
-# chapter-36
+# Chapter 36
 
-# scene-01
+# Scene 01
 
 She woke at six-fourteen to gray light and the sound of rain against the windows, the same sound that had accompanied so many mornings in this house over the past three years, and for a moment she lay still, orienting herself to the day, to the room, to the body that had carried her through two weeks of aftermath and was now, she realized, asking different questions than it had been asking during the crisis itself. The ceiling above her was the same ceiling. The eucalyptus outside the window moved in the wind the way it always had. And yet.
 
@@ -15487,7 +15487,7 @@ Soon, she would have to choose differently.
 
 
 
-# scene-02
+# Scene 02
 
 The call connected at twelve-thirty-two, the delay attributable to the chaos of a fourteen-year-old's Saturday, and Priya's face appeared on the screen already mid-sentence, already telling a story about something that had happened at school that week, a story Ananya had to work to follow because she was also looking at her daughter, really looking, trying to see what was different and what was the same.
 
@@ -15608,7 +15608,7 @@ That, in the end, was why she had done what she had done.
 
 
 
-# scene-03
+# Scene 03
 
 The text arrived at two-fourteen: Coming by in an hour, if that's okay. Need to talk. The sender was Vikram Patel, whose name on her screen produced a complex cascade of feeling: affection, wariness, the memory of working lunches and late meetings and conversations that had felt, at the time, like genuine connection.
 
@@ -15742,7 +15742,7 @@ She did not know if Vikram was a friend or an emissary or something in between. 
 
 
 
-# scene-04
+# Scene 04
 
 The rain stopped around six, leaving the world washed and dripping, and Ananya stood in her kitchen watching the last light of the January day fade behind the clouds. She had made pasta, a simple dish that required just enough attention to occupy her hands without engaging her mind, and now she ate it standing at the counter, not bothering with a plate, just the pot and a fork and the mechanical motion of feeding herself.
 
@@ -15829,9 +15829,9 @@ Whatever came next, she would meet it with her eyes open.
 
 
 
-# chapter-37
+# Chapter 37
 
-# scene-01
+# Scene 01
 
 The ring light made his face into a mask, smoothing the shadows, eliminating the depth that made a face recognizable as human. Jerome adjusted it slightly, finding the angle that the producer had approved, and watched his own image on the laptop screen beside the camera: an approximation of himself, optimized for broadcast.
 
@@ -15946,7 +15946,7 @@ He drank his coffee and looked out the window at the Baltimore winter, at the gr
 
 
 
-# scene-02
+# Scene 02
 
 Denise arrived home at five-forty-three, her footsteps in the entryway carrying the particular weight of teaching exhaustion, the sound of a body that had been performing attention for eight hours and was now allowed to stop. Jerome met her in the kitchen where he had started dinner, a simple stir-fry that required enough attention to keep his hands busy but not so much that he couldn't think about other things.
 
@@ -16102,7 +16102,7 @@ He kissed her, a brief touch that carried more than it could say, and then he wa
 
 
 
-# scene-03
+# Scene 03
 
 The email from Veronica Stone arrived at two-seventeen in the afternoon, its subject line a model of professional restraint: "Opportunity to discuss." Jerome recognized her name immediately—she was the executive editor of The Washington Tribune, a publication that had once represented everything he distrusted about mainstream journalism and now, after months of his reporting on the crisis, apparently wanted to talk.
 
@@ -16223,7 +16223,7 @@ He opened his laptop and began to write.
 
 
 
-# scene-04
+# Scene 04
 
 The house settled into quiet around eleven, Denise asleep in their bed, DeShawn's light finally off after hours of coding, and Jerome sat alone in his office with the lamp casting a small circle of warm light against the darkness pressing at the windows. This was his hour, the time he reserved for the work that required silence, the investigations that could not be rushed or interrupted.
 
@@ -16330,9 +16330,9 @@ And then they slept, while outside the windows the city continued its cold Janua
 
 
 
-# chapter-38
+# Chapter 38
 
-# scene-01
+# Scene 01
 
 The conference room at Meridian Digital smelled of cold brew coffee and ambition, the particular scent of creative work constrained by deadlines and budgets. Delphine took her seat at the table's head, feeling the weight of the position she had worked fifteen years to achieve: creative director, forty-three years old, responsible for translating reality into content that people would watch.
 
@@ -16449,7 +16449,7 @@ She got in her car and drove toward home, carrying the commission like a weight 
 
 
 
-# scene-02
+# Scene 02
 
 The living room had been rearranged for the table read, chairs pulled into a rough circle, scripts distributed, the usual detritus of Jessie's writing process scattered across every surface. Delphine arrived home to find it already populated: actors Jessie had worked with before, a producer Delphine recognized from industry events, and Jessie herself at the center, vibrating with the particular energy of a writer about to hear her words performed.
 
@@ -16603,7 +16603,7 @@ That had to be enough. For now, that had to be enough.
 
 
 
-# scene-03
+# Scene 03
 
 The edit bay smelled of cold coffee and stress, the familiar atmosphere of creative work under deadline. Delphine sat at the central workstation with Kai beside her, reviewing the rough cut of the first episode's opening sequence: a montage of news footage, leaked documents scrolling across screens, the faces of executives and journalists and protesters, all cut together to convey the scope of what had happened.
 
@@ -16720,7 +16720,7 @@ She closed her laptop and went home to her family.
 
 
 
-# scene-04
+# Scene 04
 
 The video call connected at eight-fifteen, the time zone arithmetic that Delphine and her mother had negotiated over years of transatlantic communication. In London it was four in the morning, Adaeze's face appearing on the screen already alert, her natural sleep pattern aligning with her daughter's evening.
 
@@ -16823,9 +16823,9 @@ Delphine took a sip of her tea and felt, for the first time in weeks, like she k
 
 
 
-# chapter-39
+# Chapter 39
 
-# scene-01
+# Scene 01
 
 The approach to Reagan National never failed to move her, even after all these years, even after all the arrivals and departures that had marked her relationship with this city. The Potomac below, the monuments emerging from the geometry of the flight path, the particular way Washington announced itself as a place where power lived. Ruth had first flown into this airport in 1987, a young law clerk about to begin her career, and she had felt then what she felt now: a mixture of awe and skepticism, of recognition and distance.
 
@@ -16908,7 +16908,7 @@ She closed her eyes and let the hotel's artificial silence wrap around her, and 
 
 
 
-# scene-02
+# Scene 02
 
 The Rayburn House Office Building had not changed since Ruth's last visit five years ago, though the faces in its corridors had. Young staffers moved with the particular purposefulness of people who believed their work mattered, carrying documents and tablets and the weight of responsibilities they probably did not fully understand. Ruth walked among them, escorted by a senior aide named Michaela who had worked for the committee since before the crisis and who seemed genuinely relieved that someone with Ruth's credentials had agreed to come.
 
@@ -17022,7 +17022,7 @@ Tomorrow she would leave Washington. But she would not leave empty-handed.
 
 
 
-# scene-03
+# Scene 03
 
 The hotel room felt smaller in the evening, the walls pressing in around the bed and desk and the single chair where Ruth sat with her phone in her hand, deciding whether to make the calls she had been putting off.
 
@@ -17161,7 +17161,7 @@ The night deepened around her as she wrote, and the city outside her window cont
 
 
 
-# scene-04
+# Scene 04
 
 Ruth woke before dawn, her body still calibrated to California time, and for a long moment she lay in the hotel darkness, feeling the city's presence beyond her window. Then she rose, dressed in layers against the February cold, and went out to walk.
 
@@ -17242,9 +17242,9 @@ She boarded her flight and flew west, toward home, toward the work that waited, 
 
 
 
-# chapter-40
+# Chapter 40
 
-# scene-01
+# Scene 01
 
 The law firm occupied the seventh floor of a building on University Avenue that Ananya had passed hundreds of times without ever noticing. That was its function, she understood now. A building designed to be passed. A building that existed precisely because no one would remember seeing it. The lobby smelled faintly of lemon cleaning solution and old coffee, and the elevator made a sound like metal breathing as it rose.
 
@@ -17365,7 +17365,7 @@ Driving home, she passed the Prometheus campus - glass and steel and landscaping
 
 
 
-# scene-02
+# Scene 02
 
 Priya arrived on a Tuesday afternoon, stepping off the train from her father's place with a backpack too heavy for her frame and the particular expression she wore when transitioning between households. Not unhappy, exactly. Just recalibrating. Ananya recognized the look because she'd felt it herself, once, shuttling between divorced parents in a suburb outside Chennai before her family moved to the States.
 
@@ -17541,7 +17541,7 @@ She walked back to her car through the fading light, the week already becoming m
 
 
 
-# scene-03
+# Scene 03
 
 The first offer came Monday morning, before Ananya had finished her coffee. A consulting firm in Menlo Park - TechSafe Partners, the kind of name that told you exactly nothing - had somehow obtained her personal email and wanted to discuss opportunities. Their CEO, a man named Daniel Reeves, spoke with the brisk enthusiasm of someone who saw the world as a series of problems requiring solutions and fees.
 
@@ -17660,7 +17660,7 @@ Ananya made herself dinner - rice, dal, the familiar routine - and ate alone at 
 
 
 
-# scene-04
+# Scene 04
 
 Saturday evening. Priya back at her father's, the house returned to its particular silence. Ananya sat in her home office with the documents arrayed on her desk - actual printed pages, which felt almost anachronistic, but she had wanted to see them all at once, to hold them, to remember that they were physical things with weight and texture.
 
@@ -17781,9 +17781,9 @@ She went to bed earlier than usual and slept better than she had in months.
 
 
 
-# chapter-41
+# Chapter 41
 
-# scene-01
+# Scene 01
 
 The piece went live at 8:00 AM Eastern.
 
@@ -17916,7 +17916,7 @@ What he needed, Jerome realized, was to stop measuring his work in numbers. To f
 
 
 
-# scene-02
+# Scene 02
 
 The kitchen was warm with the smell of something simmering - chicken and vegetables, the kind of simple dinner Denise made when she was too tired to be ambitious but still wanted to feed her family properly. Jerome stood at the counter chopping onions while she stirred the pot, a choreography they'd developed over years of sharing this space.
 
@@ -18067,7 +18067,7 @@ Denise squeezed his hand. "That's what I'm here for."
 
 
 
-# scene-03
+# Scene 03
 
 Saturday afternoon. Denise had gone to visit her sister in Catonsville, leaving Jerome and DeShawn alone in the house. This happened occasionally - the two of them in parallel orbits, aware of each other but not quite intersecting. Jerome in his office, DeShawn in his room. Doors open but conversations minimal.
 
@@ -18233,7 +18233,7 @@ Maybe that was how the two of them could work together.
 
 
 
-# scene-04
+# Scene 04
 
 Evening had settled over the house when Jerome returned to his office. Denise was home from her sister's, and dinner had been simple - leftovers, conversation about her visit, the ordinary rhythm of Saturday evening. DeShawn had eaten with them, contributing more to the conversation than he had in months. Something had shifted.
 
@@ -18346,9 +18346,9 @@ He climbed the stairs toward sleep, toward morning, toward the work that waited.
 
 
 
-# chapter-42
+# Chapter 42
 
-# scene-01
+# Scene 01
 
 The last week of March came in soft, the light different from February's gray insistence. Spring arriving slowly to San Francisco, the way it did - not dramatic transformation but gradual warming, the fog retreating slightly earlier each morning, the parks greening at the edges.
 
@@ -18467,7 +18467,7 @@ Ananya was quiet for a moment. "My daughter, partly. She asked me what the point
 
 
 
-# scene-02
+# Scene 02
 
 Three hours earlier on the East Coast, Jerome Washington was already deep into his workday. The Baltimore morning had been warm for late March, the kind of warmth that suggested spring was finally arriving rather than just threatening to. He had opened the window in his office to let the air in, and now a light breeze moved through the room, carrying the smell of someone's lawn being mowed.
 
@@ -18563,7 +18563,7 @@ The vigil could wait until tomorrow.
 
 
 
-# scene-03
+# Scene 03
 
 The screening room at Pacific Sound Studios seated thirty people, but today only fifteen chairs were occupied. A select audience for a select preview - the video series that Delphine had spent the past year making, about to be seen by strangers for the first time.
 
@@ -18676,7 +18676,7 @@ For now, she drove toward home, toward Theo and dinner and the ordinary life tha
 
 
 
-# scene-04
+# Scene 04
 
 Evening settled over four cities at once.
 

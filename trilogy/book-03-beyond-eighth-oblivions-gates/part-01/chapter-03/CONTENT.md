@@ -1,4 +1,4 @@
-# scene-01
+# Scene 01
 
 The Berkeley Law building caught the Monday morning light in a way that made Ruth think of aquariums - all that glass, all that transparency designed to suggest openness while actually containing and directing the movement of bodies through carefully planned spaces. She had been teaching here for three years now, since her retirement from the federal bench, and she still felt like a visitor. The building was too new, too deliberately symbolic, too different from the wood-paneled chambers where she had spent forty years learning what law actually was.
 
@@ -125,7 +125,7 @@ She opened her notes for the lecture and began, for the first time, to consider 
 
 
 
-# scene-02
+# Scene 02
 
 The Stanford campus was designed to intimidate. Ruth had lectured here before, had walked these paths designed by Stanford himself to evoke European grandeur transplanted to California sunshine, but the effect never entirely wore off. The sandstone arches, the red-tiled roofs, the quad that stretched toward horizons of accumulated prestige - it was architecture as argument, a physical assertion that the people educated here were destined to lead.
 
@@ -297,7 +297,7 @@ Susan would have said that was the beginning of something. Ruth hoped she was ri
 
 
 
-# scene-03
+# Scene 03
 
 The restaurant Benjamin had chosen was in the Financial District, the kind of place where executives took clients they wanted to impress - understated elegance, prices that didn't appear on the menu, servers who moved like ghosts through the careful lighting. Ruth had let him pick because she didn't know San Francisco the way she once had, and because something about meeting him on his territory felt appropriate for the conversation they were about to have.
 

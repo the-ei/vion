@@ -1,6 +1,6 @@
 # Word Count & Reading Time Report
 
-Generated: 2026-01-09T07:01:39-06:00
+Generated: 2026-01-09T07:10:22-06:00
 
 **Reading speed assumption:** 250 words/minute (average adult)
 
@@ -28,9 +28,9 @@ Generated: 2026-01-09T07:01:39-06:00
 
 | Metric | Value |
 |--------|-------|
-| Words | 208197 |
-| Pages | 757 |
-| Reading Time | 13h 52m |
+| Words | 227624 |
+| Pages | 827 |
+| Reading Time | 15h 10m |
 
 ### Parts
 
@@ -38,26 +38,26 @@ Generated: 2026-01-09T07:01:39-06:00
 |------|-------|-------|------|
 | part-01 | 41506 | 150 | 2h 46m |
 | part-02 | 47871 | 174 | 3h 11m |
-| part-03 | 39609 | 144 | 2h 38m |
-| part-04 | 37686 | 137 | 2h 30m |
+| part-03 | 49419 | 179 | 3h 17m |
+| part-04 | 47295 | 171 | 3h 9m |
 | part-05 | 41533 | 151 | 2h 46m |
 
 ## book-03-beyond-eighth-oblivions-gates
 
 | Metric | Value |
 |--------|-------|
-| Words | 209164 |
-| Pages | 760 |
-| Reading Time | 13h 56m |
+| Words | 228500 |
+| Pages | 830 |
+| Reading Time | 15h 14m |
 
 ### Parts
 
 | Part | Words | Pages | Time |
 |------|-------|-------|------|
-| part-01 | 46107 | 167 | 3h 4m |
-| part-02 | 40467 | 147 | 2h 41m |
-| part-03 | 43621 | 158 | 2h 54m |
-| part-04 | 40658 | 147 | 2h 42m |
+| part-01 | 51363 | 186 | 3h 25m |
+| part-02 | 43004 | 156 | 2h 52m |
+| part-03 | 45907 | 166 | 3h 3m |
+| part-04 | 49881 | 181 | 3h 19m |
 | part-05 | 38611 | 140 | 2h 34m |
 
 ---
@@ -66,8 +66,8 @@ Generated: 2026-01-09T07:01:39-06:00
 
 | Metric | Value | Target |
 |--------|-------|--------|
-| Words | 659481 | ~742,500 |
-| Pages | 2398 | 2,700 |
-| Reading Time | 43h 57m | ~49h 30m |
+| Words | 698244 | ~742,500 |
+| Pages | 2539 | 2,700 |
+| Reading Time | 46h 32m | ~49h 30m |
 
-**Progress:** 88% of target word count
+**Progress:** 94% of target word count

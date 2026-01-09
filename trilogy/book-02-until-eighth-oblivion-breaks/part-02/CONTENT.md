@@ -1,6 +1,6 @@
-# chapter-09
+# Chapter 09
 
-# scene-01
+# Scene 01
 
 The Bay Bridge at dusk is a specific kind of beautiful, Jerome thought, the kind that requires ugliness as context. The water below gray and churned, the East Bay hills brown from another dry winter, the San Francisco skyline behind him catching the last light in ways that seemed designed for postcards rather than habitation. He had driven this bridge hundreds of times, maybe thousands, and he still looked. That was something.
 
@@ -63,7 +63,7 @@ Absence of religious signifiers. Deliberate? What does it signal?
 
 
 
-# scene-02
+# Scene 02
 
 The service, if that was the right word, began without announcement. Nathaniel Crane simply walked to the platform, sat in the chair, and looked at the gathered congregants with an expression Jerome could not immediately categorize. Not the studied warmth of a televangelist, nor the calculated intensity of a tech founder pitching to investors. Something closer to the patience of a teacher who knows the lesson will take as long as it takes.
 
@@ -172,7 +172,7 @@ Jerome considered several responses, chose honesty. "The names. The names of the
 
 
 
-# scene-03
+# Scene 03
 
 Crane led him through a side door into what had once been an office - small, square, the walls covered with whiteboards dense with diagrams and equations that Jerome could not follow but recognized as technical rather than mystical. A desk, two chairs, a window looking out at the parking lot. The detritus of a life lived in pursuit of understanding.
 
@@ -274,7 +274,7 @@ This Jerome had not known. But it fit patterns he had seen.
 
 
 
-# scene-04
+# Scene 04
 
 The interview had lasted an hour when Crane reached into his desk drawer and produced a small object - a flash drive, black, unremarkable. He placed it on the desk between them.
 
@@ -342,7 +342,7 @@ Jerome didn't have a response to that. He walked out into the Oakland night, the
 
 
 
-# scene-05
+# Scene 05
 
 The flight from Oakland landed at BWI just after midnight. Jerome had texted Denise from the plane - landing late, don't wait up - and she had responded with a simple thumbs-up that could have meant anything from acceptance to resignation. He drove the familiar route from the airport, the Baltimore suburbs dark and quiet, the streetlights casting orange pools on empty sidewalks.
 
@@ -415,9 +415,9 @@ Denise rose from her desk and sat beside him on the small couch. She took his ha
 
 
 
-# chapter-10
+# Chapter 10
 
-# scene-01
+# Scene 01
 
 Ruth woke at five, as she always did, the internal clock her father had instilled in her still running forty years after he stopped being the one to enforce it. The DC apartment was quiet in the particular way of expensive real estate - soundproofed, climate-controlled, insulated from the city that hummed just outside its walls. She lay for a moment in the half-light, her mind already sorting through the day's tasks.
 
@@ -482,7 +482,7 @@ The gavel fell. The hearing began.
 
 
 
-# scene-02
+# Scene 02
 
 Senator Holloway's opening statement lasted twelve minutes. Ruth timed it out of habit - attention to detail was how she had survived forty years in institutions that rewarded precision. The senator spoke with the fluency of someone who had practiced before cameras, her points landing with the rhythm of a prepared speech.
 
@@ -564,7 +564,7 @@ Then she began to read.
 
 
 
-# scene-03
+# Scene 03
 
 Ruth's testimony was careful, precise, and almost entirely ignored.
 
@@ -668,7 +668,7 @@ The car service was waiting. She climbed in, gave her address, and closed her ey
 
 
 
-# scene-04
+# Scene 04
 
 The apartment was quiet when Ruth returned. She had been gone nine hours for a testimony that lasted less than one. The inefficiency of official process - all that preparation, all that waiting, for thirty minutes of being talked past rather than to.
 
@@ -753,7 +753,7 @@ But clarity required something to be clear about. And the more she looked at the
 
 
 
-# scene-05
+# Scene 05
 
 It was after eleven when Ruth poured the scotch. Susan's brand - Lagavulin, the sixteen-year, the one that tasted like peat and smoke and the Scottish coast where they had spent their twentieth anniversary. Ruth had never liked it. She still bought it. She still drank it, on nights when the alternative was not drinking anything, and the silence of the apartment demanded company.
 
@@ -814,9 +814,9 @@ She fell asleep in the chair, as she sometimes did on nights like this. The glas
 
 
 
-# chapter-11
+# Chapter 11
 
-# scene-01
+# Scene 01
 
 Highway 1 curved along the coast like a promise Kevin Zhou was not sure he wanted to keep. The Pacific rolled gray and endless to his left, the June fog softening everything into suggestion. He had rented a car for this drive - his Tesla was too visible, too trackable, too much a marker of exactly the identity he was trying to escape for three days.
 
@@ -871,7 +871,7 @@ The dinner ended with announcements about tomorrow's sessions. The real conversa
 
 
 
-# scene-02
+# Scene 02
 
 The morning session was called "Capability Trajectories: Technical Realities," but Kevin Zhou quickly understood it was actually about factions. The room had arranged itself into clusters - not physically, but emotionally, each speaker's statements landing with approval from some sections and resistance from others.
 
@@ -957,7 +957,7 @@ He left the session early, needing space, needing time to process. The ocean cal
 
 
 
-# scene-03
+# Scene 03
 
 He found her in the garden behind the main house, sitting on a stone bench and looking at nothing. Dr. Sarah Chen-Ramirez was seventy now, her hair white, her posture still straight with the discipline of someone who had never stopped working. She had founded one of the first major AI labs in the 1990s, had seen every wave of hype and disappointment, had walked away from her own company just as it was becoming the most valuable thing she would ever create.
 
@@ -1032,7 +1032,7 @@ She nodded at him, a gesture of both greeting and farewell, and walked toward he
 
 
 
-# scene-04
+# Scene 04
 
 The late-night conversation happened by accident, as such conversations often do. Kevin Zhou had been unable to sleep, had wandered to the main house hoping to find herbal tea or something to read, and had instead found Victor Blackwell and three others in the sitting room, a bottle of bourbon between them.
 
@@ -1130,7 +1130,7 @@ He stood there for a long time, not thinking so much as letting thoughts move th
 
 
 
-# scene-05
+# Scene 05
 
 He left early the next morning, before the final sessions began. The fog had returned, thick and gray, turning the coastal drive into a meditation on visibility and its limits. Kevin Zhou drove slowly, letting the white swirl past his windows, thinking about everything and nothing.
 
@@ -1189,9 +1189,9 @@ Then he set down his phone and waited to see what would happen next.
 
 
 
-# chapter-12
+# Chapter 12
 
-# scene-01
+# Scene 01
 
 Jerome had been reading for six days.
 
@@ -1275,7 +1275,7 @@ He had a story. But it was a story that might make everything worse.
 
 
 
-# scene-02
+# Scene 02
 
 Verification was the next step. It was the step every journalist learned in their first semester - don't trust any single source, confirm everything through independent channels, assume documents can be fabricated until proven otherwise.
 
@@ -1368,7 +1368,7 @@ But they were. In the careful denial, in the slight tremor of their voice, in th
 
 
 
-# scene-03
+# Scene 03
 
 Kevin Zhou's response came on day eight of the investigation.
 
@@ -1453,7 +1453,7 @@ Jerome didn't know. But he knew he had to try.
 
 
 
-# scene-04
+# Scene 04
 
 Sunday dinner had been a ritual in the Washington household for as long as DeShawn could remember. Denise made her mother's recipes - jerk chicken, rice and peas, cornbread that was controversial because it had sugar in it, which apparently violated some tradition Jerome's side of the family maintained. The three of them ate in the dining room, not the kitchen, because Sunday dinner was formal enough to merit the extra dishes.
 
@@ -1556,7 +1556,7 @@ The impossible calculus of journalism, which looked like idealism from the outsi
 
 
 
-# scene-05
+# Scene 05
 
 It was after midnight when Jerome returned to his office. The house was quiet - Denise reading in bed, DeShawn in his room with the door closed, the household settled into its separate orbits.
 
@@ -1654,9 +1654,9 @@ He published it anyway. That was what journalists did.
 
 
 
-# chapter-13
+# Chapter 13
 
-# scene-01
+# Scene 01
 
 The Amtrak from DC to New York took three hours, time Ruth used to review David's legal file for the third time. She had memorized the key documents by now - the charges, the evidence summary, the defendant's preliminary response - but reading them again gave her something to do with her eyes while her mind circled the situation from every possible angle.
 
@@ -1743,7 +1743,7 @@ Ruth felt something shift in her understanding. Not of the case - she had alread
 
 
 
-# scene-02
+# Scene 02
 
 The next morning, Ruth met with David's defense attorney. Caroline Hartley was a former federal prosecutor who had switched sides twenty years ago and now commanded fees that made Ruth's eyes water. But she was good - her reputation was built on cases exactly like this one, where political pressure met legal complexity.
 
@@ -1837,7 +1837,7 @@ It was not enough. It was what she had.
 
 
 
-# scene-03
+# Scene 03
 
 That evening, Ruth called Rebecca from her hotel room. Her daughter's voice was a relief after the day's weight - warmer, more direct, less encumbered by legal complexity.
 
@@ -1901,7 +1901,7 @@ They said goodbye, and Ruth sat in the silence of the hotel room, her daughter's
 
 
 
-# scene-04
+# Scene 04
 
 The morning of her departure, Ruth sat with David in his apartment one last time. He had made coffee, had attempted to clean up, had dressed in something other than sweatpants - small efforts at normalcy that touched her more than any elaborate gesture could have.
 
@@ -1971,7 +1971,7 @@ Ruth thought about her own experience of not-knowing. The hearing where she had 
 
 
 
-# scene-05
+# Scene 05
 
 Penn Station was crowded with the Friday exodus - workers heading to weekend destinations, families starting summer trips, the endless flow of movement that defined American life. Ruth found her platform and stood with David at the boarding area.
 
@@ -2053,9 +2053,9 @@ So, perhaps, was everyone.
 
 
 
-# chapter-14
+# Chapter 14
 
-# scene-01
+# Scene 01
 
 The video call began with exactly the kind of corporate enthusiasm that made Delphine want to close her laptop and take a very long walk. Rachel Stein, VP of Original Content at StreamForward, smiled from a perfectly lit office with a view of the Hollywood Hills, flanked by two junior executives who nodded at appropriate moments.
 
@@ -2160,7 +2160,7 @@ Delphine smiled despite herself. "You're right. That is almost the same."
 
 
 
-# scene-02
+# Scene 02
 
 The research phase began before she formally accepted the commission. Delphine had learned that you couldn't decide whether to take on a project until you understood what the project actually was, and understanding required investigation.
 
@@ -2266,7 +2266,7 @@ She started making it anyway.
 
 
 
-# scene-03
+# Scene 03
 
 The coffee shop in DC was nondescript by design - a place where conversations could happen without being overheard. Delphine had flown out that morning, leaving Theo with Jessie's parents and the documentary schedule that was already feeling impossible.
 
@@ -2378,7 +2378,7 @@ She was going to try anyway.
 
 
 
-# scene-04
+# Scene 04
 
 Theo was asleep by the time Delphine got home, his small body curled around the stuffed elephant in ways that defied comfort but apparently worked for him. She stood in his doorway for a moment, watching him breathe, feeling the particular weight of parenthood that arrived unexpectedly at moments like this.
 
@@ -2465,7 +2465,7 @@ She saved the draft and went to bed, dreaming of whiteboards and competing color
 
 
 
-# scene-05
+# Scene 05
 
 The treatment was finished by Thursday - earlier than she had expected, later than the platform wanted. Delphine read through it one final time, checking for the places where her own bias might be showing through, adjusting language that leaned too heavily toward any single interpretation.
 
@@ -2536,9 +2536,9 @@ It was already teaching her things she didn't know.
 
 
 
-# chapter-15
+# Chapter 15
 
-# scene-01
+# Scene 01
 
 The Fairmont lobby was designed for meetings like this one - expensive, neutral, the kind of space where people with incompatible agendas could speak in careful tones without being overheard. Kevin Zhou arrived early, as he usually did for appointments that mattered, and took a corner table where he could watch the entrance while keeping his back to the wall.
 
@@ -2648,7 +2648,7 @@ Jerome's expression shifted, becoming more personal. "You remind me of DeShawn. 
 
 
 
-# scene-02
+# Scene 02
 
 They left the hotel and walked. San Francisco in August was its best self - the fog had burned off, the Bay sparkled in the distance, the hills rose green and gold against the blue sky. Kevin Zhou felt the city differently with Jerome beside him, saw through the journalist's eyes the particular absurdity of concentrated tech wealth amid visible homelessness, gleaming towers adjacent to encampments.
 
@@ -2733,7 +2733,7 @@ They had reached the Embarcadero, the Bay spreading out before them. The ferries
 
 
 
-# scene-03
+# Scene 03
 
 Kevin Zhou had steered them back toward downtown, following a circular path that would eventually return them to the Fairmont. The conversation had deepened, becoming the kind of exchange that happens when two people decide to be honest with each other without knowing where honesty will lead.
 
@@ -2841,7 +2841,7 @@ Jerome's expression had shifted - the journalist alerting to a story, but also t
 
 
 
-# scene-04
+# Scene 04
 
 They had stopped walking, standing in the middle of the Financial District as Kevin Zhou's world rearranged itself around the messages on his phone.
 
@@ -2932,7 +2932,7 @@ They shook hands, and Kevin Zhou watched Jerome walk away - an older man in a yo
 
 
 
-# scene-05
+# Scene 05
 
 The Fairmont was five blocks away, but Kevin Zhou walked in the opposite direction, needing movement, needing to process what had just happened. The city unfolded around him - the same streets he had walked a thousand times, now strange with the weight of the decision pressing on him.
 
@@ -2991,9 +2991,9 @@ He got up from the bench and began walking home. Tomorrow the real decisions wou
 
 
 
-# chapter-16
+# Chapter 16
 
-# scene-01
+# Scene 01
 
 The red-eye from San Francisco landed at BWI just after five in the morning. Jerome had slept poorly on the plane, his mind circling the conversation with Kevin Zhou, the Prometheus pressure tactics, the story that was forming beneath the story he had been pursuing. He walked through the empty airport with the shuffling gait of exhaustion, collected his bag, and took a cab to a house that should have been asleep.
 
@@ -3090,7 +3090,7 @@ He went to the bedroom and lay down on the bed that had been his and Denise's fo
 
 
 
-# scene-02
+# Scene 02
 
 Jerome woke to the smell of coffee and the sound of voices - DeShawn's, and then Denise's responding. The light through the windows suggested late morning, maybe early afternoon. He had slept longer than he meant to, the exhaustion of travel and emotional confrontation pulling him under.
 
@@ -3204,7 +3204,7 @@ Jerome looked at his family - the wife who had loved him for twenty-three years 
 
 
 
-# scene-03
+# Scene 03
 
 That evening, Jerome's phone rang while he was helping DeShawn draft college application essays. The name on the screen made his stomach tighten: Linda.
 
@@ -3299,7 +3299,7 @@ The question caught Jerome off guard. "Maybe. It happens to a lot of people. The
 
 
 
-# scene-04
+# Scene 04
 
 The drive to Baltimore took just over an hour. Jerome left early Saturday morning, while Denise and DeShawn were still asleep, leaving a note that he would call when he arrived. The promise of dinners and weekends was already being tested by obligations that predated it.
 
@@ -3400,7 +3400,7 @@ Linda looked at him with an assessment that reminded Jerome uncomfortably of the
 
 
 
-# scene-05
+# Scene 05
 
 Jerome returned to DC late that night, exhausted in ways that went beyond physical tiredness. The drive had been quiet - just him and his thoughts and the late-night radio playing songs from decades ago, the soundtrack of a life that had moved faster than he had noticed.
 
@@ -3455,9 +3455,9 @@ He slept without dreaming, for once. The next story could wait.
 
 
 
-# chapter-17
+# Chapter 17
 
-# scene-01
+# Scene 01
 
 The briefs were spread across her dining table in overlapping layers, each document annotated in her careful handwriting, blue ink marking the passages where legal precedent failed and something new would have to be constructed. Ruth had been reviewing David's case for hours now, tracing the logic of what Prometheus claimed versus what the government suspected versus what the evidence actually showed, and finding herself again and again in that uncomfortable territory where the law could not quite reach what was happening.
 
@@ -3540,7 +3540,7 @@ She locked her door and moved toward the elevator, the corridor quiet at this ho
 
 
 
-# scene-02
+# Scene 02
 
 The office was quiet at this hour, the particular silence of a space designed for activity now holding only Kevin and the glow of his monitors. He had sent his team home at eight, wanting the solitude to think through the Prometheus offer, to weigh the numbers against the principles, the money against the meaning. The acquisition documents sat open on one screen, their careful language promising integration and resources and the kind of scale his small company could never achieve alone. On another screen, his monitoring dashboard ran its continuous assessment of network traffic, the automated systems he had designed to watch for patterns too subtle for human perception.
 
@@ -3636,7 +3636,7 @@ He leaned forward again and began to type.
 
 
 
-# scene-03
+# Scene 03
 
 The footage played on the editing bay's main monitor, a sequence they had been refining for weeks: Elena Vance speaking at a Prometheus shareholders meeting, her voice carefully modulated to project competence and vision, the graphics behind her showing projections that promised transformation without specifying what would be transformed. Delphine watched the familiar images with the eye of someone who has seen them a hundred times, noting the moments where the cuts needed tightening, where the pacing lagged, where the juxtaposition with the whistleblower testimony was too obvious or not obvious enough.
 
@@ -3713,7 +3713,7 @@ She drove home through Los Angeles traffic, the city unchanged around her, and t
 
 
 
-# scene-04
+# Scene 04
 
 The care facility smelled of disinfectant and something sweeter underneath, the particular institutional fragrance that Jerome had learned to associate with his mother's decline. He had been sitting by her bedside for three hours, watching her drift in and out of recognition, her face carrying expressions that belonged to decades he had not been alive to witness—a young woman's smile, a mother's worry, the sudden sharpness of someone remembering an argument long resolved.
 
@@ -3825,7 +3825,7 @@ Some patterns could not be broken. Some choices had already been made, long befo
 
 
 
-# scene-05
+# Scene 05
 
 Ruth entered the Old Executive Office Building through a side entrance, flanked by two Secret Service agents who said nothing as they escorted her through security that had been enhanced since her last visit. The hallways were bright with activity even at this hour, men and women in suits moving with the particular urgency of people who did not yet know what they were urgent about.
 

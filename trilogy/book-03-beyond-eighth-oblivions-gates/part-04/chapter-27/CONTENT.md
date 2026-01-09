@@ -1,4 +1,4 @@
-# scene-01
+# Scene 01
 
 She woke before the light, as she had for months now, her body refusing the permission of sleep past four in the morning. The ceiling above her bed was gray in the darkness, and she lay still for a moment, watching the faint glow from the street below create shadows that shifted as cars passed, rare at this hour, their headlights sweeping across the walls of her bedroom like searchlights looking for something that was not there.
 
@@ -80,7 +80,7 @@ The phone waited on the nightstand. The morning waited around her. The threshold
 
 
 
-# scene-02
+# Scene 02
 
 She picked up the phone.
 
@@ -172,7 +172,7 @@ Then she began to compose a reply.
 
 
 
-# scene-03
+# Scene 03
 
 Before she could finish the reply, she stopped. Her thumb hovered over the screen, paralyzed by a thought that had surfaced without warning.
 
@@ -246,7 +246,7 @@ And that whatever she decided, she could not decide without thinking about Priya
 
 
 
-# scene-04
+# Scene 04
 
 She went to her closet.
 

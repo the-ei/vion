@@ -1,4 +1,4 @@
-# scene-01
+# Scene 01
 
 The symposium was called "Understanding the Eighth Oblivion: A Decade in Retrospect," and it was being held at a conference center in Washington DC, the kind of neutral space where academics and policymakers and journalists gathered to historicize what the rest of the world was still living through.
 
@@ -114,7 +114,7 @@ This was what it meant to be historicized: to speak about your own life as if it
 
 
 
-# scene-02
+# Scene 02
 
 Jerome sat in the audience with his notebook open, the habit of decades unbroken even now. He was here as a journalist, technically - commissioned to write about the symposium for a magazine that still published long-form pieces - but also as a witness, as someone whose work was being cited on the panels, as a person who had lived through what the academics were now analyzing.
 
@@ -218,7 +218,7 @@ The truth mattered. It would have to be enough.
 
 
 
-# scene-03
+# Scene 03
 
 The reception was in a high-ceilinged room adjacent to the main conference hall, the kind of space designed for exactly this purpose: drinks, small plates, the circulation of bodies and ideas that was the real work of academic conferences. Delphine moved through it as an observer now, no longer the participant she would have been a year ago, before the documentary, before the decision to step back.
 
@@ -347,7 +347,7 @@ Tonight, she would go back to her hotel room and call her family. That was enoug
 
 
 
-# scene-04
+# Scene 04
 
 The room held them all now, these people who had lived through the decade and were beginning to understand that they would spend the rest of their lives trying to understand it. Ananya saw Jerome across the reception space, his notebook closed for once, talking with a young academic who was probably explaining his own work to him. She saw Delphine near the windows, caught in golden late-afternoon light, her wine glass half-full and forgotten in her hand as she listened to something Amina was saying.
 
