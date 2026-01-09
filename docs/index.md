@@ -16,9 +16,9 @@ A hard science fiction trilogy written in the combined styles of Karl Ove Knausg
 
 ### Current Progress
 
-- **Words written:** 536925
-- **Pages:** 1952 / 2,700
-- **Progress:** 72%
+- **Words written:** 576,361
+- **Pages:** 2,095 / 2,700
+- **Progress:** 77%
 
 
 ---
