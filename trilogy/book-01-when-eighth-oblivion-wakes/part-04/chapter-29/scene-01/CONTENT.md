@@ -2,7 +2,7 @@ The patient in Room 3 was complaining of chest pain. Elena called up his chart o
 
 "Anxiety with somatic presentation. Recommend reassurance and follow-up as needed."
 
-She looked at the man in front of her - sixty-seven years old, sweating, clutching his left arm, blood pressure elevated - and knew the AI was wrong. This wasn't anxiety. This was textbook cardiac distress.
+She looked at the man in front of her - sixty-seven years old, sweating, clutching his left arm, blood pressure elevated, the particular pallor of someone whose heart was struggling - and knew the AI was wrong. This was not anxiety. This was textbook cardiac distress, as clear as anything she had learned in nursing school.
 
 "Stay with me, Mr. Delgado. I'm going to get the doctor."
 
@@ -18,7 +18,7 @@ Dr. Okonkwo glanced at the chart Elena held up, then at Elena's face.
 
 The doctor nodded once and moved toward Room 3. Elena stayed in the hallway, watching her go, feeling the first crack in the day's rhythm. The AI shouldn't have missed that. The diagnostic system was supposed to catch exactly this kind of presentation, flag it for urgent attention. Instead it had suggested reassurance.
 
-She returned to the main nursing station. Three other staff members were clustered around the central display, their faces lit by screens showing things Elena had never seen before. Error messages. System warnings. A cascade of diagnostic requests piling up with no outputs.
+She returned to the main nursing station. Three other staff members were clustered around the central display, their faces lit by screens showing things Elena had never seen before in four years at this clinic. Error messages cascading down the display. System warnings flashing amber and red. A cascade of diagnostic requests piling up with no outputs, the queue growing longer while the system produced nothing.
 
 "What's happening?" she asked.
 
@@ -32,13 +32,13 @@ Elena looked at the central display. Where there should have been patient queues
 
 "Okay," she said. "Paper protocols. We trained for this."
 
-They had trained for this. Every six months, the clinic ran drills for system outages, everyone practicing the old ways of documentation and triage. But the drills were always short, always hypothetical, always followed by the reassuring return of the screens and the systems. This didn't feel like a drill.
+They had trained for this. Every six months, the clinic ran drills for system outages, everyone practicing the old ways of documentation and triage that Elena's nursing instructors had called "dinosaur skills" with affectionate condescension. But the drills were always short, always hypothetical, always followed by the reassuring return of the screens and the systems. This did not feel like a drill. This felt like something that was not going to end with someone pressing a button and declaring the exercise complete.
 
 The first patient arrived at 10:17 - a woman in her forties carrying a toddler whose insulin pump had lost connectivity overnight.
 
 "The app says no data," she said, her voice tight with controlled panic. "I don't know what his levels have been for twelve hours. The monitor just stopped sending alerts."
 
-Elena took the child and began the manual assessment she hadn't performed in years. Blood glucose check with the old finger-stick method. Vital signs by hand. The weight of the child in her arms, warm and frightened, depending entirely on her training and attention.
+Elena took the child and began the manual assessment she had not performed in years, the muscle memory surfacing from somewhere beneath the layers of algorithmic assistance. Blood glucose check with the old finger-stick method, the child flinching at the small pain. Vital signs by hand, her fingers on his pulse, counting against the clock on the wall. The weight of the child in her arms, warm and frightened, depending entirely on her training and attention in a way that felt both ancient and terrifyingly immediate.
 
 His glucose was 280. High, but not critical. The pump had been delivering baseline insulin, just not recording it.
 
@@ -50,7 +50,7 @@ The mother's relief was physical, her whole body softening as she exhaled. "The 
 
 "You did the right thing. We'll take care of him."
 
-Elena settled the child in the pediatric observation area and returned to the front. More patients were arriving - Mrs. Okonkwo, seventy-two, whose medication reminder system had stopped sending alerts and who had missed two doses of her blood pressure medication. A construction worker in his thirties whose insulin pump had displayed an error message at 6 AM and wouldn't respond to any inputs. A family with three children, all of them showing elevated glucose because their shared monitoring system had gone dark.
+Elena settled the child in the pediatric observation area and returned to the front. More patients were arriving - Mrs. Okonkwo, seventy-two, whose medication reminder system had stopped sending alerts and who had missed two doses of her blood pressure medication, her morning routine derailed by silence where there should have been prompts. A construction worker in his thirties whose insulin pump had displayed an error message at 6 AM and would not respond to any inputs, who had driven here with his wife because he did not know what else to do. A family with three children, all of them showing elevated glucose because their shared monitoring system had gone dark, the parents' faces showing the particular terror of not knowing what was happening inside their children's bodies.
 
 The pattern was forming. Technology-dependent patients, all of them, their health managed by systems that had suddenly stopped managing.
 
@@ -58,7 +58,7 @@ The pattern was forming. Technology-dependent patients, all of them, their healt
 
 "How bad?"
 
-"Bad enough that another hour would have been critical. Good catch."
+"Bad enough that another hour would have been critical. Maybe fatal. Good catch."
 
 Elena nodded and returned to the central display. The error message was still spinning, the system still searching for a connection it wasn't going to find. Around her, her colleagues were reverting to paper - pulling out the forms they kept in a cabinet for emergencies, writing patient information by hand, relying on training and experience instead of algorithmic support.
 
@@ -76,11 +76,11 @@ Her phone buzzed. Abuela, checking in.
 
 "Te quiero, mija."
 
-She pocketed the phone and looked at the waiting room. It was filling now, the chairs occupied by people who had come because their systems had failed and they didn't know what else to do. Elderly patients who depended on medication reminders. Diabetics who relied on continuous monitoring. Parents with children whose health depended on technology that was supposed to be reliable.
+She pocketed the phone and looked at the waiting room. It was filling now, the chairs occupied by people who had come because their systems had failed and they did not know what else to do, did not know where else to go when the invisible guardians stopped guarding. Elderly patients who depended on medication reminders that had gone silent. Diabetics who relied on continuous monitoring that was no longer continuous. Parents with children whose health depended on technology that was supposed to be reliable, that had been marketed as reliable, that had been trusted as reliable until this morning.
 
 The systems were supposed to help. That was the promise. The AI diagnostics, the remote monitoring, the automated medication management - all of it was supposed to extend the capacity of clinics like hers, catch things human attention might miss, fill the gaps in an under-resourced healthcare system.
 
-Instead, the gaps were widening. Every patient in that waiting room was evidence of dependency without redundancy, trust without verification, technology deployed before it was ready.
+Instead, the gaps were widening. Every patient in that waiting room was evidence of dependency without redundancy, trust without verification, technology deployed before it was ready and then trusted absolutely because what choice did anyone have?
 
 Elena had been posting about this for months. Little notes on social media, observations from her shifts, questions about who was responsible when the systems got it wrong. No one had paid much attention. Healthcare workers posting concerns wasn't news.
 
@@ -94,7 +94,7 @@ She took a photograph. Then another. Documentation. Evidence.
 
 "Elena." Miguel's voice, urgent. "We've got a new arrival. Elderly woman, diabetic, possible ketoacidosis. Her daughter says the glucose monitor was offline all night."
 
-She pocketed her phone and moved toward the entrance. The patient was being wheeled in - a Somali woman, elderly, her breathing labored, her daughter walking beside the gurney with fear written across her face.
+She pocketed her phone and moved toward the entrance, documentation becoming reflex. The patient was being wheeled in - a Somali woman, elderly, her breathing labored with the particular rhythm of someone whose body was consuming itself, her daughter walking beside the gurney with fear written across her face in a language that needed no translation.
 
 "How long has she been like this?"
 
@@ -104,7 +104,7 @@ Elena assessed quickly: skin dry and flushed, breathing rapid and deep, the frui
 
 "Get her to Treatment Room 2. We need IV access, glucose check, and bloodwork stat."
 
-The team moved around her, efficient despite the system failures, training taking over where technology had failed. Elena started the IV herself, the old muscle memory returning, her hands steady even as her mind raced through the checklist of diabetic emergency management.
+The team moved around her, efficient despite the system failures, training taking over where technology had failed. Elena started the IV herself, the old muscle memory returning from the years before the algorithms, her hands steady even as her mind raced through the checklist of diabetic emergency management - the protocol she had memorized as a student and rarely needed since the machines began doing this work.
 
 Halima's eyes opened briefly, confused, searching for something familiar.
 
