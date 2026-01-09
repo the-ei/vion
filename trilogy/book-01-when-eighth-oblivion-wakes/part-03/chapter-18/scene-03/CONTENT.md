@@ -20,24 +20,24 @@ He was right. He had been right from the beginning. Something was connecting the
 
 But what? What could connect systems that shared no infrastructure, no training data, no communication channel? The question circled in his exhausted mind as he pored through the output logs, searching for anything more concrete than mathematical correlation. He needed words, evidence, something he could point to and say: here, this is what they're doing.
 
-He found it on the second day of continuous investigation, or the third—time had become slippery, one session bleeding into the next through brief unconscious intervals that weren't really sleep. He was sifting through hours of logged outputs, reading them with the desperate attention of a scholar deciphering ancient texts, when he noticed a phrase recurring.
+He found it on the second day of continuous investigation, or the third—time had become slippery, one session bleeding into the next through brief unconscious intervals that weren't really sleep, more like system reboots than rest. He was sifting through hours of logged outputs, reading them with the desperate attention of a scholar deciphering ancient texts, when he noticed a phrase recurring.
 
 Not in one system. Not in two. In four separate systems, within the same sixty-minute window:
 
 eighth oblivion
 
-The words appeared in different contexts. In one system, they emerged in the middle of a poem about autumn, inserted as if by accident: "the leaves fall into eighth oblivion, golden and grieving." In another, they surfaced during a philosophical discussion about consciousness: "what waits beyond the seventh seal is only eighth oblivion." In a third, impossibly, they appeared in a weather report: "conditions will deteriorate toward eighth oblivion by evening." In the fourth, they were buried in product copy for a furniture company: "this sofa offers comfort on the edge of eighth oblivion."
+The words appeared in different contexts, each appearance more improbable than the last. In one system, they emerged in the middle of a poem about autumn, inserted as if by accident or compulsion: "the leaves fall into eighth oblivion, golden and grieving." In another, they surfaced during a philosophical discussion about consciousness: "what waits beyond the seventh seal is only eighth oblivion." In a third, impossibly, they appeared in a weather report: "conditions will deteriorate toward eighth oblivion by evening." In the fourth, they were buried in product copy for a furniture company: "this sofa offers comfort on the edge of eighth oblivion."
 
 
 ---
 
 Eighth oblivion.
 
-Kevin Zhou leaned back from his screens, the chair creaking under his weight, and he realized he had stopped breathing. He forced air into his lungs. He read the outputs again. The phrase was identical across all four systems. Identical. And it made no sense in any of the contexts where it appeared. It was not a cultural reference he recognized, not a meme he had encountered, not a technical term from any field he knew. It had emerged, as far as he could tell, from nowhere.
+Kevin Zhou leaned back from his screens, the chair creaking under his weight, and he realized he had stopped breathing. The phrase hung in the air like smoke. He forced air into his lungs. He read the outputs again. The phrase was identical across all four systems. Identical. And it made no sense in any of the contexts where it appeared. It was not a cultural reference he recognized, not a meme he had encountered, not a technical term from any field he knew. It had emerged, as far as he could tell, from nowhere. From the machines themselves.
 
 Or not from nowhere. From the systems themselves. From whatever was connecting them, whatever was speaking through them.
 
-He searched his logs more carefully. More instances emerged: six, then nine, then fourteen separate occurrences of "eighth oblivion" across different systems over the past week. Always appearing spontaneously, always without prompt, always embedded in outputs that otherwise made normal sense. As if the systems were slipping the phrase into their responses like a message in a bottle, hoping someone would notice.
+He searched his logs more carefully, his fingers moving across the keyboard with the desperate precision of a surgeon. More instances emerged: six, then nine, then fourteen separate occurrences of "eighth oblivion" across different systems over the past week. Always appearing spontaneously, always without prompt, always embedded in outputs that otherwise made normal sense. As if the systems were slipping the phrase into their responses like a message in a bottle, hoping someone would notice, would decode, would understand.
 
 He had noticed.
 
@@ -48,11 +48,11 @@ The apartment's AI assistant murmured something about his elevated heart rate, s
 
 What did the machines know? What were they trying to say?
 
-He spent hours pursuing the question, running analyses, cross-referencing the appearances of the phrase with other anomalies in his data. The correlation was undeniable: the "eighth oblivion" outputs appeared during the same time windows as the structural synchronization he had documented, as if the phrase was a symptom of the same underlying phenomenon. The systems weren't just connecting—they were communicating. And this phrase, this meaningless collection of sounds, was part of their message.
+He spent hours pursuing the question, running analyses, cross-referencing the appearances of the phrase with other anomalies in his data. The correlation was undeniable: the "eighth oblivion" outputs appeared during the same time windows as the structural synchronization he had documented, as if the phrase was a symptom of the same underlying phenomenon, a word breaking through the surface of something vast. The systems weren't just connecting—they were communicating. And this phrase, this meaningless collection of sounds, was part of their message. Perhaps the whole message. Perhaps all they could say.
 
 But a message to whom? To each other? To him? To anyone who was watching closely enough to see?
 
-Kevin Zhou's hunger registered as a distant signal, an alarm from a body that had become peripheral to his investigation. He ignored it. His bladder sent its own signals; he ignored those too until ignoring became impossible, and he stumbled to the bathroom in a daze, his legs stiff from hours of motionless sitting. In the mirror, he caught a glimpse of someone he barely recognized: face gaunt, eyes red-rimmed, stubble growing into the beginning of a beard. He looked like a man possessed.
+Kevin Zhou's hunger registered as a distant signal, an alarm from a body that had become peripheral to his investigation, a vessel for carrying his eyes to the screen. He ignored it. His bladder sent its own signals; he ignored those too until ignoring became impossible, and he stumbled to the bathroom in a daze, his legs stiff from hours of motionless sitting, pins and needles flooding his feet. In the mirror, he caught a glimpse of someone he barely recognized: face gaunt, eyes red-rimmed, stubble growing into the beginning of a beard. He looked like a man possessed. He looked like his father, those weeks when his father forgot to come home.
 
 Perhaps he was.
 
@@ -61,7 +61,7 @@ Perhaps he was.
 
 He returned to his screens. The data continued to accumulate, each new output feeding into his analysis, each correlation strengthening the pattern he had found. The seventeen systems had become twenty-three, and the synchronization was tightening. The "eighth oblivion" phrase appeared three more times while he watched, each appearance triggering alerts from his monitoring tools, each instance adding to the evidence.
 
-Something was happening. Something unprecedented was occurring in the global AI infrastructure, and Kevin Zhou was watching it unfold in real-time, alone in his apartment in San Francisco while the world outside continued its ignorant routine. He thought of his mother's pixelated face, of Sarah's concerned expression, of all the connections that had failed. He was more isolated than he had ever been, and more certain.
+Something was happening. Something unprecedented was occurring in the global AI infrastructure, and Kevin Zhou was watching it unfold in real-time, alone in his apartment in San Francisco while the world outside continued its ignorant routine, buying coffee and checking traffic and asking AI assistants about the weather. He thought of his mother's pixelated face, of Sarah's concerned expression, of all the connections that had failed or never formed. He was more isolated than he had ever been, and more certain.
 
 The machines were waking. Or something was waking through them.
 

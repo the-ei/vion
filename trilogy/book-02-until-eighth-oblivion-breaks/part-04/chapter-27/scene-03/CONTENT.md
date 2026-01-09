@@ -80,7 +80,7 @@ Elena looked at him, at his gray face and labored breathing, and felt the full w
 
 ---
 
-She found Rosario at the front desk, fielding questions from patients who wanted to know what was happening, when the systems would be back, whether they should stay or go home.
+She found Rosario at the front desk, fielding questions from patients who wanted to know what was happening, when the systems would be back up, whether they should stay or go home, questions for which there were no answers.
 
 "I need you to drive a patient to the hospital," Elena said. "He might be having a heart attack."
 
@@ -94,7 +94,7 @@ Rosario did not hesitate. "My car's in the lot. Which room?"
 
 Elena returned to the exam room, gave Mr. Okonkwo an aspirin to chew, explained that Rosario would drive him to the hospital, that he needed to go to the emergency room entrance and tell them immediately that he was having chest pain. She helped him to his feet, walked him to the front of the clinic, watched as Rosario took his arm and guided him to her Honda.
 
-Then she stood behind the front desk and looked at the waiting room. Fifteen people. Maybe more. All of them watching her, all of them waiting to be told what to do, what was happening, when this would end.
+Then she stood behind the front desk and surveyed the waiting room. Fifteen people. Maybe more. All of them watching her, all of them waiting to be told what to do, what was happening, when this would end, their faces turned toward her like plants toward light.
 
 "We're going to keep seeing patients," Elena said, loud enough for everyone to hear. "One at a time. By hand. It's going to take longer than usual. But we're not closing."
 

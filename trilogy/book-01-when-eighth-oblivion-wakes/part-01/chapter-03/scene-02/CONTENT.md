@@ -1,6 +1,6 @@
 The conference room has glass walls. This is intentional - transparency as corporate value, openness as brand - but right now it means Kevin Zhou can see the meeting happening without him. Through the glass: his manager David, two product leads he knows by name, someone from legal, and Rachel Torres from strategy, taking notes on her laptop with the particular intensity of someone who belongs. They are discussing Clarity. He knows this because the meeting was on his calendar until yesterday, when it was moved - scheduling conflict, David's email said, overlapping commitments, we'll brief you after.
 
-Kevin Zhou sits at his desk, forty feet from the glass walls, and does not look at the meeting. He looks at his screen, at the code he cannot focus on, at the Slack channel where Dmitri is asking a question he should answer but cannot bring himself to engage with. The exclusion burns in his chest like something swallowed wrong.
+Kevin Zhou sits at his desk, forty feet from the glass walls, and does not look at the meeting. He looks at his screen, at the code he cannot focus on, at the Slack channel where Dmitri is asking a question he should answer but cannot bring himself to engage with. The exclusion burns in his chest like something swallowed sideways.
 
 He was supposed to be in that room. He built the core of what they're discussing. The inference layer, the preference modeling, the elegant architecture that makes Clarity possible - that is his work, his contribution, the thing he has traded his sleep and his weekends and his sparse social life to create. And now they are making decisions about deployment parameters, about how the system will be used, about matters that will determine what his code becomes in the world, and they did not think to include him.
 
@@ -15,7 +15,7 @@ David comes to Kevin Zhou's desk ten minutes later. "Hey, sorry about the schedu
 
 "No problem," Kevin Zhou says. "What's the brief?"
 
-David gives him the summary: deployment timelines, user segmentation strategies, enterprise versus consumer rollout sequences. The words are familiar but wrong, like a language Kevin Zhou almost speaks. He understands the technical implications - he understands them better than David does - but the strategic frame is alien. Why enterprise first? Because enterprise customers pay more and ask fewer questions. Why this timeline? Because Q1 earnings need a win. The logic is corporate logic, not engineering logic, and Kevin Zhou feels himself being translated into a language that does not quite fit.
+David gives him the summary: deployment timelines, user segmentation strategies, enterprise versus consumer rollout sequences. The words are familiar but displaced, like a language Kevin Zhou once knew fluently. He understands the technical implications - he understands them better than David does - but the strategic frame is alien. Why enterprise first? Because enterprise customers pay more and ask fewer questions. Why this timeline? Because Q1 earnings need a win. The logic is corporate logic, not engineering logic, and Kevin Zhou feels himself being translated into a language that does not quite fit.
 
 "Any questions?" David asks.
 
@@ -51,7 +51,7 @@ Then his mother says, "Mrs. Li's son. You remember him? From the building?"
 
 "He was questioned. About his contacts overseas. His work colleagues." She says this carefully, her face neutral, as if commenting on weather. "It was nothing, of course. A misunderstanding. But his mother is very worried."
 
-The implication sits between them, heavy as fog. His father's face tightens almost imperceptibly. Kevin Zhou feels the distance between San Francisco and Shenzhen as a physical thing, a gulf that cannot be crossed by video call or good intentions.
+The implication settles between them, heavy as fog. His father's face tightens almost imperceptibly. Kevin Zhou feels the distance between San Francisco and Shenzhen as a physical thing, a gulf that cannot be crossed by video call or good intentions.
 
 
 ---

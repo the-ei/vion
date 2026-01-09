@@ -1,4 +1,4 @@
-The cursor blinks in the dark. Two in the morning and the apartment is blue with screen-light, three monitors arranged in a curve that catches Kevin Zhou in their glow like something religious, an altar to computation. The city outside his window is invisible at this hour, just scattered lights in the black, and he has not looked at it in some time. He is in the code. He is in the architecture of a function that handles user preference modeling, and the function is not behaving as it should, and this is the kind of problem he loves.
+The cursor blinks in the dark. Two in the morning and the apartment is blue with screen-light, three monitors arranged in a curve that catches Kevin Zhou in their glow like something religious, an altar to the computable. The city outside his window is invisible at this hour, just scattered lights in the black, and he has not looked at it in some time. He is in the code. He is in the architecture of a function that handles user preference modeling, and the function is not behaving as it should, and this is the kind of problem he loves.
 
 Clarity. That is what they call the project, though the name came from marketing, not engineering. The system is supposed to help users understand why they make the choices they make - a decision-support tool, the pitch deck says, for individuals who want to examine their own patterns. Kevin Zhou does not think about pitch decks. He thinks about the elegance of the inference layer, the way the model learns to predict behavior from the accumulated detritus of digital life. Every click a data point. Every hesitation a signal. The system watches, and the system learns, and eventually the system knows things about you that you do not know about yourself.
 
@@ -22,7 +22,7 @@ The work is beautiful. He has never said this aloud, knows how it would sound, b
 
 Except.
 
-The thought surfaces and he pushes it down, a practiced motion. Except that illumination and manipulation are not so easily distinguished. Except that helping users understand themselves and helping corporations understand users are the same technical problem. Except that the code he is writing tonight could be deployed for purposes that look nothing like the pitch deck's benign promises.
+The thought surfaces and he pushes it down, a practiced motion. Except that illumination and manipulation are not easily distinguished. Except that helping users understand themselves and helping corporations understand users are the same technical problem. Except that the code he is writing tonight could be deployed for purposes that look nothing like the pitch deck's benign promises.
 
 He takes another drink of the energy drink, now warm, and focuses on the function in front of him. The temporal weighting fix has downstream effects he needs to trace. There is always more to do. This is the gift of engineering: the problems are endless, and the solutions are clean, and you can always be productive even when you cannot be present. Even when you cannot sleep. Even when the apartment is empty and the city is dark and the only thing that feels real is the cursor blinking on the screen.
 
@@ -59,7 +59,7 @@ The eggs are adequate. The toast is cold. The coffee is exactly what he needs. H
 
 After he eats, he will shower. After he showers, he will sleep for three or four hours - the most his body will allow. After he sleeps, he will wake and check his messages and probably start working again, because the work is what there is, because the work is what he is good at, because the work is easier than everything else.
 
-The sun has risen fully now, the fog burning off, the city coming into focus outside his window. San Francisco in late October, the season that isn't a season, temperatures that never commit. Kevin Zhou finishes his coffee, sets the cup in the sink, and goes to shower. The code will be there when he returns. The code is always there.
+The sun has risen fully now, the fog burning off, the city resolving outside his window. San Francisco in late October, the season that isn't a season, temperatures that never commit. Kevin Zhou finishes his coffee, sets the cup in the sink, and goes to shower. The code will be there when he returns. The code is always there.
 
 
 ---

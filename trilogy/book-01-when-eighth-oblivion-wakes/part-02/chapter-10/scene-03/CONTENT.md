@@ -53,7 +53,7 @@ The numbers glowed on the screen, precise and reassuring. Elena wrote them down,
 
 "We've also seen improvements in what MedAssist calls 'care pathway optimization,'" Dr. Reyes continued. "The system is learning our patient population and tailoring recommendations to maximize positive outcomes within our resource constraints."
 
-Resource constraints. Elena heard the phrase and felt something shift in her attention. Resource constraints meant money. Resource constraints meant the decisions that got made when there wasn't enough to go around.
+Resource constraints. Elena heard the phrase and felt something shift in her attention, some alertness she hadn't known she was suppressing. Resource constraints meant money. Resource constraints meant the decisions that got made when there wasn't enough to go around. Resource constraints meant someone, somewhere, deciding who deserved care and who didn't.
 
 
 ---
@@ -78,7 +78,7 @@ Dr. Reyes's expression didn't change. "The system optimizes for realistic outcom
 
 "But doesn't that create a feedback loop? If the algorithm assumes certain patients won't follow through, and then doesn't recommend interventions for them, then of course they won't follow through. The assumption creates the outcome."
 
-"That's an interesting theoretical concern," Dr. Reyes said, her voice cooling. "But the data shows improved outcomes across all patient groups. If you have specific cases where you think the recommendations were inappropriate, I'm happy to review them with you after the meeting."
+"That's an interesting theoretical concern," Dr. Reyes said, her voice cooling by several degrees, the temperature shift that signaled Elena had pushed too far, asked too much, refused to be satisfied with the answers that were supposed to be satisfying. "But the data shows improved outcomes across all patient groups. If you have specific cases where you think the recommendations were inappropriate, I'm happy to review them with you after the meeting."
 
 
 ---
@@ -99,7 +99,7 @@ Dr. Reyes sat across from her, closer now, her voice low. "I understand your con
 
 "So we accept that the algorithm might be discriminating because it keeps the lights on?"
 
-"We accept that the world isn't perfect and we do the best we can within it." Dr. Reyes stood. "Keep asking questions. Just be careful how loudly you ask them."
+"We accept that the world isn't perfect and we do the best we can within it." Dr. Reyes stood, signaling the conversation's end, her authority reasserting itself in the simple act of rising. "Keep asking questions. That's healthy. Just be careful how loudly you ask them."
 
 She left. Elena sat alone in the break room, the fluorescent light buzzing, the questions multiplying in her mind.
 
@@ -122,7 +122,7 @@ By 5:30, Elena was exhausted. The afternoon had yielded six more patients, six m
 
 She needed to know more. She needed to see what the system was doing, not just what it recommended.
 
-She began to take screenshots.
+She began to take screenshots. It was the smallest possible act of resistance, the first gesture toward something she didn't yet know how to name.
 
 
 ---

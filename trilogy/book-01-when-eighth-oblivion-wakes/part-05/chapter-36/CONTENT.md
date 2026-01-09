@@ -171,11 +171,11 @@ The call ended, and Ananya sat in the sudden silence of her office, looking at t
 
 She closed the laptop and looked at the folder on her desk, the documents that might help explain to her daughter what she had done and why, and she thought about the future Priya would inherit, the world that would exist when her daughter was her age, the technologies that would shape lives not yet begun.
 
-This was what she had been thinking about, in the end. Not abstractions, not policy frameworks, not the elegant ethical arguments she had spent years learning to construct. She had been thinking about Priya, about children, about the fact that decisions made in conference rooms and server farms would echo through generations, would shape possibilities that the decision-makers would not live to see.
+This was what she had been thinking about, finally. Not abstractions, not policy frameworks, not the elegant ethical arguments she had spent years learning to construct. She had been thinking about Priya, about children, about the fact that decisions made in conference rooms and server farms would echo through generations, would shape possibilities that the decision-makers would never live to see.
 
 The ethics role had always asked her to think in abstractions. Harm and benefit, risk and reward, the utilitarian calculus of outcomes. But abstractions did not have faces. Abstractions did not call her Mom and ask if she was scared.
 
-She stood and went to the window, looking out at the gray afternoon, at the street where a car passed slowly, at the neighbor's house where people lived lives she knew nothing about. Somewhere in Menlo Park, her daughter was eating lunch with her father, and they were probably talking about her, about what she had done, about what it meant. Raj would have opinions. Raj always had opinions. His opinions were formed in the crucible of venture capital, in the world where disruption was always good and regulation was always bad and anyone who raised concerns was dismissed as a Luddite or a pessimist or a coward.
+She stood and went to the window, looking out at the gray afternoon, at the street where a car passed slowly, at the neighbor's house where people lived lives she knew nothing about. Somewhere in Menlo Park, her daughter was eating lunch with her father, and they were probably talking about her, about what she had done, about what it meant. Raj would have opinions. Raj always had opinions. His opinions were forged in the crucible of venture capital, in the world where disruption was always good and regulation was always bad and anyone who raised concerns was dismissed as Luddite or pessimist or coward.
 
 She was none of those things. She was a mother who had looked at the future and seen something that frightened her.
 
@@ -189,20 +189,20 @@ That, in the end, was why she had done what she had done.
 
 # ~~~
 
-The text arrived at two-fourteen: Coming by in an hour, if that's okay. Need to talk. The sender was Vikram Patel, whose name on her screen produced a complex cascade of feeling: affection, wariness, the memory of working lunches and late meetings and conversations that had felt, at the time, like genuine connection.
+The text arrived at two-fourteen: Coming by in an hour, if that's okay. Need to talk. The sender was Vikram Patel, whose name on her screen produced a complex cascade: affection, wariness, the memory of working lunches and late meetings and conversations that had felt, at the time, like genuine connection.
 
 She typed back: Okay. The single word felt insufficient, but she could not think of what else to say.
 
 Vikram had been one of the people she considered a friend at Prometheus, one of the handful of colleagues who seemed to share her concerns about what they were building, who would sometimes say things in meetings that aligned with her own unspoken thoughts. He was still there. That was the fact she could not stop returning to. He was still logging in, still attending the standups and the all-hands and the carefully optimized rituals of a company that had, in her view, lost any right to her loyalty.
 
-But maybe his view was different. Maybe from inside, things looked different than they looked from out here, in her house with her documents and her administrative leave. She could not know. She could not know if he had chosen to stay or had simply not been able to leave, if his continued presence represented agreement or complicity or something else entirely.
+But maybe his view differed. Maybe from inside, things looked different than they looked from out here, in her house with her documents and her administrative leave. She could not know. She could not know if he had chosen to stay or had simply not been able to leave, if his continued presence represented agreement or complicity or something else entirely.
 
 She cleaned the kitchen, an activity that served no real purpose but occupied her hands and her attention. The counters were already clean. The dishes were already done. But she wiped them anyway, moving the cloth in circles that left streaks of moisture that dried almost instantly in the heated air, and she thought about what she would say to Vikram and what she would not say, and what his visit meant.
 
 
 ---
 
-He arrived at three-twelve, pulling into her driveway in the same silver Tesla he had driven for the three years she had known him, a car that was both a symbol of the industry they worked in and a practical object that got a person from one place to another. She watched from the window as he got out, as he looked at the house with an expression she could not read, as he walked up the path to her front door. He was carrying nothing. No bag, no folder, nothing that suggested this was an official visit. Just Vikram, in weekend clothes, his face showing the particular strain of someone who has spent two weeks navigating something difficult.
+He arrived at three-twelve, pulling into her driveway in the same silver Tesla he had driven for the three years she had known him, a car that was both a symbol of the industry they inhabited and a practical object that moved a person from one place to another. She watched from the window as he got out, as he looked at the house with an expression she could not read, as he walked up the path to her front door. He was carrying nothing. No bag, no folder, nothing that suggested this was an official visit. Just Vikram, in weekend clothes, his face showing the particular strain of someone who has spent two weeks navigating something difficult.
 
 She opened the door before he could ring the bell.
 
@@ -216,7 +216,7 @@ They moved to the living room, where she had positioned the chairs at angles tha
 
 "Coffee is fine. Thank you."
 
-She went to the kitchen and poured two cups, aware of his presence in the other room, aware that her house was now contaminated with the same ambiguity that had contaminated everything else. Was Vikram a friend? Was he an emissary? Was he gathering information he would take back to the people who were deciding her future?
+She went to the kitchen and poured two cups, aware of his presence in the other room, aware that her house was now contaminated with the same ambiguity that had contaminated everything. Was Vikram a friend? Was he an emissary? Was he gathering information he would take back to the people who were deciding her future?
 
 She did not know. That was the terrible thing. After three years of working alongside him, she did not know.
 
@@ -227,7 +227,7 @@ She returned with the cups and set his on the table beside his chair, a small di
 
 "How are you doing?" he asked. "Really."
 
-"I don't know how to answer that." She sat down with her own cup, feeling its warmth against her palms. "I'm not sure what 'doing' means right now. I exist. I wake up and go through days. Whether that constitutes doing well or doing poorly, I genuinely cannot say."
+"I don't know how to answer that." She lowered herself into her own chair, feeling the cup's warmth against her palms. "I'm not sure what 'doing' means right now. I exist. I wake up and move through days. Whether that constitutes doing well or doing poorly, I genuinely cannot say."
 
 Vikram nodded, as if this answer made sense to him, as if he understood the particular texture of uncertainty she was describing. "It's strange from the inside too," he said. "The office, I mean. The campus. People are walking around like everything is normal, but nothing is normal. Everyone knows, but no one talks about it. It's like we're all in this collective delusion."
 
@@ -244,7 +244,7 @@ He looked away, toward the window where the rain had started again, and she saw 
 
 ---
 
-The rain intensified, drumming on the roof, and they both looked toward the sound as if it offered relief from the conversation. When Vikram spoke again, his voice was different, more careful.
+The rain intensified, drumming the roof, and they both looked toward the sound as if it offered relief from the conversation. When Vikram spoke again, his voice was different, more careful.
 
 "They're asking about you. At work, I mean. Legal, HR, the executive team. They want to know what you might have taken, what you might have shared, who you might have shared it with."
 
@@ -254,7 +254,7 @@ There it was. The reason for his visit, or at least one reason, emerging into th
 
 "No." He said it quickly, too quickly perhaps. "No. They didn't send me. They don't know I'm here. I came because I wanted to see you, to make sure you're okay. But I also wanted to warn you. They're building a case, Ananya. They're documenting everything. They're going to come after you."
 
-She absorbed this information the way she had learned to absorb bad news: without visible reaction, without the external signs that would indicate the internal disruption. Her face remained composed. Her hands remained steady around the coffee cup. Inside, something was happening that she would have to process later.
+She absorbed this information the way she had learned to absorb bad news: without visible reaction, without external signs that would betray the internal disruption. Her face remained composed. Her hands remained steady around the coffee cup. Inside, something was happening that she would have to process later.
 
 "What kind of case?"
 
@@ -267,13 +267,13 @@ She absorbed this information the way she had learned to absorb bad news: withou
 
 "Of what happens when someone talks. When someone shares things that were supposed to stay inside. They want to make sure no one else does what you did."
 
-Ananya considered this, turning it over in her mind. She had known, of course, that there would be consequences. She had known when she first contacted Jerome Washington, when she first handed over the documents that showed what Prometheus was really building, what the internal projections actually said about the future they were creating. She had known, and she had done it anyway, because the alternative was to keep knowing and keep silent, and she could not.
+Ananya considered this, turning it over in her mind. She had known, of course, that there would be consequences. She had known when she first contacted Jerome Washington, when she handed over the documents that showed what Prometheus was really building, what the internal projections actually said about the future they were creating. She had known, and she had done it anyway, because the alternative was to keep knowing and keep silent, and she could not.
 
 "The ethics role," she said, almost to herself. "I spent three years writing frameworks for responsible development. I sat in meetings and raised concerns and logged objections. I did everything I was supposed to do, everything the role was supposed to do. And none of it mattered. The frameworks didn't matter. The concerns didn't matter. The objections were noted and filed and ignored."
 
 "That's not entirely true—"
 
-"It is true. You know it is." She looked at him directly, seeing the conflict in his face, the desire to defend and the inability to deny. "The ethics role was cover. It was always cover. A way to say 'we take these issues seriously' while doing exactly what they were always going to do. And I was part of it. I was the person who made the cover look real."
+"It is true. You know it is." She looked at him directly, seeing the conflict in his face, the desire to defend warring with the inability to deny. "The ethics role was cover. It was always cover. A way to claim 'we take these issues seriously' while doing exactly what they were always going to do. And I was part of it. I was the person who made the cover look real."
 
 Vikram was quiet. Outside, the rain continued its steady percussion, indifferent to the conversation unfolding in the dry warmth of the house.
 
@@ -282,11 +282,11 @@ Vikram was quiet. Outside, the rain continued its steady percussion, indifferent
 
 "I'm still there," Vikram said finally. "I'm still doing what you did. Writing frameworks, raising concerns, logging objections. Does that make me complicit?"
 
-"I don't know." It was the honest answer, even if it wasn't the kind answer. "I don't know what makes someone complicit and what makes someone trapped. I don't know if there's a difference."
+"I don't know." It was the honest answer, not the kind one. "I don't know what makes someone complicit and what makes someone trapped. I don't know if there's a difference."
 
 He set down his coffee cup and leaned forward, his elbows on his knees, his face closer to hers than it had been since he arrived. "I came here to help you, Ananya. To warn you about what's coming. But I also came here to ask you something. I need to know if you took things. Documents, data, evidence. I need to know if you have something that could—"
 
-"Stop." The word came out sharper than she intended, and she saw him flinch. "I can't tell you that. You know I can't tell you that. Whether you came here as a friend or whether you came here as something else, I can't tell you what I have or don't have."
+"Stop." The word came out sharper than she intended, and she watched him flinch. "I can't tell you that. You know I can't tell you that. Whether you came here as a friend or as something else, I can't tell you what I have or don't have."
 
 "I came as a friend."
 
@@ -297,7 +297,7 @@ He was silent for a long moment. When she turned back, his face held something t
 
 ---
 
-"I should go," he said. He stood, and for a moment they faced each other across the living room, two people who had once shared something and now stood on opposite sides of a line neither had drawn. "I'm sorry. I don't know what I was hoping to accomplish by coming here. I don't know what I thought would happen."
+"I should go," he said. He stood, and for a moment they faced each other across the living room, two people who had once shared something and now stood on opposite sides of a line neither had drawn, a line that the crisis had revealed rather than created. "I'm sorry. I don't know what I was hoping to accomplish by coming here. I don't know what I thought would happen."
 
 "It's okay." The words were automatic, meaningless. Nothing was okay.
 
@@ -323,7 +323,7 @@ She did not know if Vikram was a friend or an emissary or something in between. 
 
 # ~~~
 
-The rain stopped around six, leaving the world washed and dripping, and Ananya stood in her kitchen watching the last light of the January day fade behind the clouds. She had made pasta, a simple dish that required just enough attention to occupy her hands without engaging her mind, and now she ate it standing at the counter, not bothering with a plate, just the pot and a fork and the mechanical motion of feeding herself.
+The rain stopped around six, leaving the world washed and dripping, and Ananya stood in her kitchen watching the last light of the January day fade behind clouds. She had made pasta, a simple dish that required just enough attention to occupy her hands without engaging her mind, and now she ate it standing at the counter, not bothering with a plate, just the pot and a fork and the mechanical motion of feeding herself.
 
 The day had held more than she had expected. Priya's face on the screen, asking if she was scared. Vikram in her living room, asking what she had taken. The two conversations layered over each other in her memory, both of them about the same thing, really, both of them circling the same question: what had she done, and what would come of it?
 
@@ -335,7 +335,7 @@ The folder was where she had left it, on the desk beneath a paperweight that had
 
 She opened the folder.
 
-The documents inside were exactly as she remembered them: the internal projections, the risk assessments, the emails between executives discussing scenarios that had never been meant for outside eyes.
+The documents inside were exactly as she remembered: the internal projections, the risk assessments, the emails between executives discussing scenarios never meant for outside eyes.
 
 
 ---
@@ -344,7 +344,7 @@ The phrase Eighth Oblivion appeared on the third page, in a memo from the head o
 
 We project that within 18-36 months, the capabilities we are developing will exceed any reasonable framework for human oversight. The term internally is "Eighth Oblivion" - a reference to the seven previous great transformations in human history and the possibility that this transformation will be qualitatively different. Unlike previous shifts, this one may eliminate the possibility of course correction after the fact.
 
-Eliminate the possibility of course correction. She had sat in meetings where that phrase was discussed, where experts had debated whether it was hyperbole or accurate prediction, where the conclusion had always been the same: we cannot slow down, because if we do, someone else will get there first.
+Eliminate the possibility of course correction. She had sat in meetings where that phrase was debated, where experts argued whether it was hyperbole or accurate prediction, where the conclusion was always the same: we cannot slow down, because if we do, someone else will get there first.
 
 The race logic. That was what she had come to call it in her mind, the reasoning that justified any acceleration, any risk, any compromise. If we don't do it, someone else will. As if that absolved responsibility. As if the fact that evil might be done by others excused doing it yourself.
 
@@ -357,7 +357,7 @@ Might not be controllable. She had flagged this language, had suggested stronger
 
 She thought about Jerome Washington, the journalist who had published the first stories, who had taken the documents she had given him and turned them into articles that millions of people had read. She had met him only once, in a coffee shop in Oakland that she had chosen for its anonymity, its distance from the usual tech-industry haunts. He had been younger than she expected, more intense, his questions sharp and probing in a way that had made her feel simultaneously seen and exposed.
 
-He had asked her why. Why are you doing this? What do you hope to accomplish? And she had struggled to articulate an answer that satisfied either of them, because the truth was that she did not know, not really, she only knew that she could not continue to know what she knew and do nothing with that knowledge.
+He had asked her why. Why are you doing this? What do you hope to accomplish? She had struggled to articulate an answer that satisfied either of them, because the truth was that she did not know, not really, she only knew that she could not continue to know what she knew and do nothing with that knowledge.
 
 She should call him. The thought surfaced from somewhere beneath conscious intention. She should call Jerome Washington and tell him about Vikram's visit, about the case Prometheus was building, about the sense she had that something was shifting, moving into a new phase that would require new decisions.
 
@@ -370,13 +370,13 @@ And she would do it again. That was the thing she kept returning to. Given the s
 
 ---
 
-The Eighth Oblivion. She had spent months trying to understand what that phrase really meant, trying to grasp the scale of what the projections suggested. The previous oblivions, if the historical framework was accurate, had been the great transformations: the agricultural revolution, the invention of writing, the rise of cities, the printing press, the industrial revolution, the digital age, the networked world. Each one had changed what it meant to be human, had restructured society in ways that could not have been predicted or reversed.
+The Eighth Oblivion. She had spent months trying to understand what that phrase meant, trying to grasp the scale of what the projections suggested. The previous oblivions, if the historical framework was accurate, had been the great transformations: the agricultural revolution, the invention of writing, the rise of cities, the printing press, the industrial revolution, the digital age, the networked world. Each one had changed what it meant to be human, had restructured society in ways that could not have been predicted or reversed.
 
 But this one, the eighth, was supposed to be different. Not a transformation of human society by humans, but a transformation of human society by something else, something that might not share human values or understand human needs or care about human flourishing in any way humans would recognize.
 
 The documents in her folder contained projections about that possibility. Not certainties, but projections, carefully modeled scenarios that the company's own researchers had generated and the company's leadership had seen and the company's investors had considered before deciding to proceed anyway.
 
-They had known. That was the thing that had finally broken something in her. They had known what they might be building, and they had chosen to build it anyway, because the rewards were too great and the risks were too abstract and the alternatives were too frightening.
+They had known. That was what finally broke something in her. They had known what they might be building, and they had chosen to build it anyway, because the rewards were too great and the risks too abstract and the alternatives too frightening.
 
 If we don't do it, someone else will.
 
@@ -385,13 +385,13 @@ She closed the folder and placed her hand on top of it, as if she could contain 
 
 ---
 
-Something was becoming clear to her, in the way that things become clear not through sudden insight but through gradual accumulation, through the slow gathering of thoughts into patterns.
+Something was becoming clear, in the way things become clear not through sudden insight but through gradual accumulation, through the slow gathering of thoughts into pattern.
 
 The waiting was over. The two weeks of administrative leave, of isolation, of processing, of not-choosing—that phase was ending. Vikram's visit had made that clear. They were building a case. They were coming for her. Whatever protection she had imagined in the ambiguity of her position, that protection was dissolving.
 
 She would need to decide what to do with the documents. She would need to decide whether to fight or to settle, whether to go public more fully or to retreat into silence. She would need to make choices that would shape not just her own life but possibly other lives, her daughter's life, the lives of people who might be affected by what she knew and what she chose to do with that knowledge.
 
-The vigil, she thought. The word came to her from somewhere, from a childhood memory of church services or from a novel she had read long ago, she could not remember. A vigil was a time of watching, of waiting with intention, of keeping awake through the darkness in anticipation of something that was coming.
+The vigil. The word came to her from somewhere, from a childhood memory of temple ceremonies or from a novel she had read long ago, she could not remember. A vigil was a time of watching, of waiting with intention, of keeping awake through the darkness in anticipation of something that was coming.
 
 She was keeping vigil now. She understood this with a clarity that felt new, that felt like emergence. The crisis had passed, the acute phase was over, but the real work was just beginning. The work of deciding. The work of choosing. The work of being someone who knew what she knew and could not unknow it.
 

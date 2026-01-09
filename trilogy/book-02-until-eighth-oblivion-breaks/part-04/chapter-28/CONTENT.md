@@ -1,12 +1,12 @@
 # ~~~
 
-Jerome woke at six as he always did, his body calibrated to the rhythm of deadlines and morning news, and reached for his phone before his eyes were fully open. The screen lit at his touch, the familiar glow in the darkness of the bedroom, and he swiped to check the overnight notifications, the emails from editors, the breaking news alerts, the aggregated feeds that told him each morning what the world had done while he slept.
+Jerome woke at six as he always did, his body calibrated to the rhythm of deadlines and morning news cycles, and reached for his phone before his eyes were fully open, the gesture so automatic it preceded thought. The screen lit at his touch, the familiar glow in the darkness of the bedroom, and he swiped to check the overnight notifications, the emails from editors, the breaking news alerts, the aggregated feeds that told him each morning what the world had done while he slept.
 
 Nothing loaded.
 
 The spinning wheel turned in the corner of each app, patient and useless. He checked the signal bars: full. He checked the wifi indicator: connected. But nothing came through. No emails. No news. No messages from colleagues or sources or the vast network of contacts he had built over thirty years in journalism.
 
-He sat up in bed, the sheets falling away from his chest, and felt the first stirring of something that was not quite alarm. Technical glitches happened. Servers went down. Morning updates were sometimes delayed. He closed the apps and reopened them. The same spinning wheels. He switched from wifi to cellular data. No change. He turned the phone off entirely, counted to ten in the darkness, and turned it back on.
+He sat up in bed, the sheets falling away from his chest, and felt the first stirring of something that was not quite alarm, not yet, but its ancestor. Technical glitches happened. Servers went down. Morning updates were sometimes delayed. He closed the apps and reopened them. The same spinning wheels. He switched from wifi to cellular data. No change. He turned the phone off entirely, counted to ten in the darkness, and turned it back on.
 
 Nothing.
 
@@ -17,9 +17,9 @@ Beside him, Denise stirred, her face turned away on the pillow, still deep in sl
 
 Red meant no connection. Red meant the device was trying and failing to reach the network. Jerome unplugged the router, counted to thirty, plugged it back in. The lights cycled through their startup sequence: amber, amber, amber, red. He tried again. Red.
 
-He opened his laptop, the machine that held twenty years of research notes, interview transcripts, drafts of articles that had won prizes and changed policies. The laptop connected to the local network without issue but could not reach anything beyond the walls of the apartment. The browser displayed the same error message on every page: CONNECTION FAILED.
+He opened his laptop, the machine that held twenty years of research notes, interview transcripts, drafts of articles that had won prizes and changed policies and occasionally made powerful people uncomfortable. The laptop connected to the local network without issue but could not reach anything beyond the walls of the apartment. The browser displayed the same error message on every page: CONNECTION FAILED.
 
-He checked his email application, hoping something might have cached overnight. The inbox showed the last messages from yesterday evening, frozen in time. A note from an editor about a deadline. A source asking to reschedule a call. The ordinary correspondence of an ordinary day, now artifacts from another era.
+He checked his email application, hoping something might have cached overnight. The inbox showed the last messages from yesterday evening, frozen in time. A note from an editor about a deadline. A source asking to reschedule a call. The ordinary correspondence of an ordinary day, now artifacts from an era that had ended without announcement.
 
 The television showed nothing on the streaming channels. Nothing on the cable news networks. He flipped through channels until he found a local station that seemed to be broadcasting something, but the signal was distorted, the anchor's words fragmenting into digital artifacts.
 
@@ -34,11 +34,11 @@ The radio crackled with static, then voices. A local AM station, one he had not 
 
 "...reports of widespread outages affecting multiple services in the Baltimore metropolitan area. We're receiving reports of similar outages in Washington, Philadelphia, and New York. Emergency services are responding to an unusually high volume of calls. Residents are advised to remain calm and limit non-essential travel..."
 
-Static.
+Static, harsh and grating.
 
 "...telecommunications companies have not released statements at this time. We will continue to broadcast updates as we receive them. For now, we ask our listeners to..."
 
-More static, then music. An oldies station bleeding through, incongruous and strange.
+More static, then music. An oldies station bleeding through, the Four Tops singing about the same old song, incongruous and strange.
 
 Jerome adjusted the dial, found another station.
 
@@ -48,7 +48,7 @@ He turned the dial again.
 
 "...no official word from the White House or FEMA. Local authorities advising people to..."
 
-Each station had fragments. None had answers. The radio gave him pieces of a picture that wouldn't cohere, puzzle pieces from different boxes. He listened for an hour, taking notes, and at the end of the hour he knew almost nothing more than he had known at the start.
+Each station had fragments. None had answers. The radio gave him pieces of a picture that wouldn't cohere, puzzle pieces from different boxes, edges that matched nothing. He listened for an hour, taking notes, and at the end of the hour he knew almost nothing more than he had known at the start.
 
 Denise appeared in the kitchen doorway, her face still soft with sleep, and looked at him hunched over the radio with his legal pad.
 
@@ -71,7 +71,7 @@ Denise moved to the coffee maker, pressed the button, waited. It worked. The pow
 
 "Maybe. Or something worse. I don't know. No one seems to know."
 
-She poured the coffee, her movements deliberate and calm, the steadiness that had drawn him to her thirty years ago. She had taught high school history through recessions and budget cuts and school shootings and pandemics. She did not panic easily.
+She poured the coffee, her movements deliberate and calm, the steadiness that had drawn him to her thirty years ago and still steadied him now. She had taught high school history through recessions and budget cuts and school shootings and pandemics. She had learned not to panic easily; panic solved nothing.
 
 "The school will call if classes are cancelled," she said.
 
@@ -87,7 +87,7 @@ She sat down across from him, her hands wrapped around the coffee cup, her eyes 
 
 It was the question she always asked, the teacher's instinct to organize information, and Jerome found himself grateful for it.
 
-"Power is on. Radio is working. Internet is not. Phones are spotty at best. Something is affecting systems on a large scale."
+"Power is on. Radio is working. Internet is not. Phones are spotty at best. Something is affecting systems on a large scale." He paused. "Something bad."
 
 
 ---
@@ -97,11 +97,11 @@ It was the question she always asked, the teacher's instinct to organize informa
 
 # ~~~
 
-By eight o'clock, Jerome had filled three pages of the legal pad. He wrote in the handwriting he had almost forgotten he possessed, the cursive script his mother had insisted he learn forty years ago, before keyboards made handwriting obsolete. He wrote what the radio said: outages reported. systems affected. the following areas. stay tuned for updates. He wrote what the radio didn't say: anything about cause, scope, duration, or meaning.
+By eight o'clock, Jerome had filled three pages of the legal pad. He wrote in the handwriting he had almost forgotten he possessed, the cursive script his mother had insisted he learn forty years ago, before keyboards made handwriting seem like an affectation of the elderly. He wrote what the radio said: outages reported. systems affected. the following areas. stay tuned for updates. He wrote what the radio didn't say: anything about cause, scope, duration, or meaning.
 
 He sat at the kitchen table, the pad in front of him, and felt the specific frustration of an expert rendered helpless. He had spent three years investigating digital infrastructure, interviewing engineers and executives and regulators, building a mental model of the systems that connected everything. He had written about fragility, about single points of failure, about the hidden dependencies that made modern life possible and vulnerable. He had known this could happen. He had known.
 
-And knowing meant nothing.
+And knowing meant nothing. Had meant nothing. Would mean nothing.
 
 He could not verify. He could not triangulate between sources. He could not call a former NSA analyst and ask what the signals intelligence suggested. He could not email a professor at MIT for technical context. He could not check what foreign news services were reporting. He could not do any of the things that transformed raw information into journalism.
 

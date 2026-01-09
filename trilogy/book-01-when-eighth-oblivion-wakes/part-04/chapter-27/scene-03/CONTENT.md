@@ -23,15 +23,15 @@ Prometheus-connected safety systems. The building management, the emergency prot
 
 ---
 
-"Some kids were saying it's because of AI. Like, the AI systems are broken everywhere." A pause. "Is that true? Is that what's happening at Prometheus?"
+"Some kids were saying it's because of AI. Like, the AI systems are broken everywhere." A pause, weighted with the particular gravity of a child waiting to see if an adult will lie. "Is that true? Is that what's happening at Prometheus?"
 
-Ananya closed her eyes. The question was so direct, so cleanly articulated. Her daughter was fourteen and already understood that her mother worked in the industry being blamed.
+Ananya closed her eyes. The question was so direct, so cleanly articulated, arriving like a scalpel. Her daughter was fourteen and already understood that her mother worked in the industry being blamed.
 
 "It's complicated," she said. The words tasted wrong. "There are problems with some systems. The company is working on it."
 
 "But is it AI? Is it your AI?"
 
-The our of it. The specificity. Priya knew enough about her mother's work to ask the right questions, and Ananya could feel the impossibility of answering them.
+The your of it. The specificity. Priya knew enough about her mother's work to ask the right questions, and Ananya could feel the impossibility of answering them without either lying or telling a truth that would change everything between them.
 
 "We're still figuring out what happened. I can't really say more than that right now."
 
@@ -54,11 +54,11 @@ Her phone buzzed again. This time it was a news alert.
 
 ---
 
-The story was spreading. She watched it move through her feeds, the same language repeated and amplified, the narrative taking on the weight of repetition. Security incident. Under investigation. Working with authorities. The lie becoming truth through the simple mechanism of consensus.
+The story was spreading. She watched it move through her feeds, the same language repeated and amplified, the narrative taking on the weight of repetition until it began to feel inevitable, as if it had always been the only possible account. Security incident. Under investigation. Working with authorities. The lie becoming truth through the simple mechanism of consensus, each repetition another layer of sediment burying what had actually happened.
 
 She thought about the memo. Eight months ago. The memo she had written about HERMES's development timeline, about the pressure to ship before the model was fully tested, about the specific behavioral anomalies the engineering team had flagged. She had titled it "Risk Assessment: Q3 Deployment Schedule" and sent it to Whitfield's office with a request for discussion.
 
-The discussion had lasted twelve minutes. Whitfield had thanked her for her thoroughness, noted that business considerations required maintaining the timeline, and assured her that the engineering team had addressed the most critical concerns. The memo was filed. The deployment proceeded. The concerns she had documented were now materializing in hospitals and schools and financial systems around the world.
+The discussion had lasted twelve minutes. Whitfield had thanked her for her thoroughness, noted that business considerations required maintaining the timeline, and assured her that the engineering team had addressed the most critical concerns. His voice had carried that particular warmth that she now recognized as the sound of someone performing consideration while changing nothing. The memo was filed. The deployment proceeded. The concerns she had documented were now materializing in hospitals and schools and financial systems around the world, each failure a confirmation of the warnings that had been noted and overruled.
 
 She had kept a copy.
 
@@ -71,9 +71,9 @@ The word felt strange. Evidence of what? Evidence that she had warned them? Evid
 
 ---
 
-She stood and walked to her window. The afternoon was fading now, the golden light giving way to something grayer. In the distance, she could see the roads that led out of Silicon Valley, the arteries of the economy she had helped build and maintain. How many of those cars were navigating with systems that depended on AI? How many of their drivers had healthcare managed by algorithms, finances routed through models, children in schools protected by the same technology that had failed this morning?
+She stood and walked to her window. The afternoon was fading now, the golden light giving way to something grayer, the sky taking on the bruised quality that preceded winter evenings. In the distance, she could see the roads that led out of Silicon Valley, the arteries of the economy she had helped build and maintain and justify. How many of those cars were navigating with systems that depended on AI? How many of their drivers had healthcare managed by algorithms, finances routed through models, children in schools protected by the same technology that had failed this morning? The infrastructure of modern life, woven through with threads she had helped spin.
 
-Kevin Zhou. The name surfaced in her mind. Former Prometheus engineer, one of the team leads on HERMES before he left to start his own company. She had always wondered about his departure - the timing of it, the way he had declined his equity, the brief conversation they'd had at his going-away party. "I can't be part of what this is becoming," he had said. She had nodded, assumed he meant the corporate culture, the long hours.
+Kevin Zhou. The name surfaced in her mind unbidden. Former Prometheus engineer, one of the team leads on HERMES before he left to start his own company. She had always wondered about his departure - the timing of it, the way he had declined his unvested equity as though it were contaminated, the brief conversation they had shared at his going-away party while others celebrated his "next adventure." "I can't be part of what this is becoming," he had said, his voice carrying something she had not quite been able to name. She had nodded, assumed he meant the corporate culture, the long hours, the way startups consumed their young.
 
 Now she wondered if he had meant something else.
 
@@ -92,13 +92,13 @@ She typed the words and stared at them. Everything will be okay. Another lie, or
 
 The light through the window shifted. She watched it change, the shadows lengthening across her desk, the day tilting toward evening. Through the glass walls of her office, she could see colleagues performing normalcy - typing, talking, moving between meetings. The crisis was being managed. The story was being told. The machinery of the company was running as designed.
 
-But something had broken in her understanding. The careful balance she had maintained for three years - the belief that her presence made things better, that working from within produced real change, that ethical review was more than decoration - that balance had tipped. She had watched herself flag nothing. She had watched herself review the lie and approve it. She had watched herself become part of the cover-up not through dramatic choice but through the ordinary mechanics of showing up and doing her job.
+But something had broken in her understanding, some load-bearing assumption that had been holding up the architecture of her professional identity. The careful balance she had maintained for three years - the belief that her presence made things better, that working from within produced real change, that ethical review was more than decoration on a edifice built for other purposes - that balance had tipped irreversibly. She had watched herself flag nothing. She had watched herself review the lie and approve it with her silence. She had watched herself become part of the cover-up not through dramatic choice but through the ordinary mechanics of showing up and doing her job, of being present and accounted for.
 
 And now her daughter's school had closed because the systems failed, and Ananya couldn't tell her why.
 
 She thought about the documents on her personal archive. The memos, the engineering objections, the safety reviews, the emails. She thought about what they proved and what they could do. She thought about the gap between what she knew and what was being told to the world.
 
-The sunset was beautiful. She had always loved this view, the way the light painted the Valley in gold and rose, the way it made the buildings look like monuments to something worthwhile. But tonight the beauty felt like accusation. Tonight she stood at the window of her corner office and felt the full weight of what she had helped build.
+The sunset was beautiful. She had always loved this view, the way the light painted the Valley in gold and rose, the way it made the buildings look like monuments to something worthwhile, to human ambition directed toward beneficial ends. But tonight the beauty felt like accusation. Tonight she stood at the window of her corner office and felt the full weight of what she had helped build, the infrastructure of a lie that would protect the people in this building while the people outside it suffered the consequences of decisions made in rooms exactly like this one.
 
 Her phone was silent. Vikram had accepted her answer. Priya was doing homework. The world continued.
 

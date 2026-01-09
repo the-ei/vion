@@ -1,8 +1,8 @@
-The interview had lasted an hour when Crane reached into his desk drawer and produced a small object - a flash drive, black, unremarkable. He placed it on the desk between them.
+The interview had stretched to an hour when Crane reached into his desk drawer and produced a small object - a flash drive, black, unremarkable. He placed it on the desk between them.
 
 "These are the documents I mentioned," he said. "Not all of them - some are too sensitive to share, some would expose sources who aren't protected. But enough to give you a starting point for independent verification."
 
-Jerome looked at the drive. Such a small thing to carry what Crane claimed it carried.
+Jerome looked at the drive lying between them. Such a small thing to carry what Crane claimed it carried.
 
 "What's on it?"
 
@@ -19,7 +19,7 @@ Crane's expression was unreadable. "I'm giving it to a journalist who has built 
 
 ---
 
-Jerome did not reach for the drive. "What do you want from me? If I verify these documents and they're real, what are you hoping I'll do with them?"
+Jerome did not reach for the drive. Not yet. "What do you want from me? If I verify these documents and they're real, what are you hoping I'll do with them?"
 
 "I want you to tell the truth. Whatever the truth turns out to be."
 
@@ -27,7 +27,7 @@ Jerome did not reach for the drive. "What do you want from me? If I verify these
 
 Crane nodded. "Fair enough. Let me be more specific. What I hope you'll find is evidence that the official narrative about the Eighth Oblivion is incomplete at best, deliberately misleading at worst. What I hope you'll conclude is that something significant is being hidden - not because of malice necessarily, but because the people in charge don't have categories for what they saw, and their only response to the uncategorizable is to pretend it didn't happen."
 
-"And if I conclude something different? If I decide you've been fooled by elaborate forgeries designed to discredit people asking legitimate questions?"
+"And if I conclude something different? That you've been fooled by elaborate forgeries designed to discredit people asking legitimate questions?"
 
 "Then publish that," Crane said. "I'd rather know the truth about my own situation than continue operating under false assumptions. If I've been manipulated, I need to know. My congregation needs to know. The fact that you might reach conclusions I don't want doesn't make me want you to stop looking."
 
@@ -38,19 +38,19 @@ The third option, of course, was that Crane was delusional - believing sincerely
 
 ---
 
-Jerome reached for the drive. It was warm from being held in Crane's hand. Such a strange detail to notice.
+Jerome reached for the drive. It was warm from Crane's hand, from the drawer, from the conversation that had produced it. Such a strange detail to notice.
 
 "I'll look at these," he said. "I'm not promising anything. I'll look, I'll try to verify, and I'll follow where the evidence leads. That's what I do."
 
 "That's all I'm asking."
 
-They stood. Crane extended his hand; Jerome shook it. The warehouse was quiet now, the congregation long departed, only the hum of climate control systems and the distant sounds of Oakland at night.
+They stood. Crane extended his hand and Jerome shook it, feeling the oddness of the gesture after what had passed between them. The warehouse was quiet now, the congregation long departed, only the hum of climate control systems and the distant sounds of Oakland at night.
 
 "One more thing," Crane said as Jerome reached the door. "Be careful. Not because the documents are dangerous - they're just data. But because asking certain questions makes you visible to people who prefer those questions not be asked. I don't say this to frighten you. I say it because you deserve to know what you're walking into."
 
 Jerome paused. "Is that a threat?"
 
-"It's a warning from someone who made himself visible and saw how the response systems work. The people who manage the official narrative don't necessarily know they're managing a narrative. They think they're protecting national security, or corporate interests, or social stability. Their intentions don't have to be malicious for their effects to be harmful."
+"It's a warning from someone who made himself visible and learned how the response systems work. The people who manage the official narrative don't necessarily know they're managing a narrative. They think they're protecting national security, or corporate interests, or social stability. Their intentions don't have to be malicious for their effects to be harmful."
 
 "I've dealt with hostile sources before."
 

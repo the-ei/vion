@@ -1,4 +1,4 @@
-The rain stopped around six, leaving the world washed and dripping, and Ananya stood in her kitchen watching the last light of the January day fade behind the clouds. She had made pasta, a simple dish that required just enough attention to occupy her hands without engaging her mind, and now she ate it standing at the counter, not bothering with a plate, just the pot and a fork and the mechanical motion of feeding herself.
+The rain stopped around six, leaving the world washed and dripping, and Ananya stood in her kitchen watching the last light of the January day fade behind clouds. She had made pasta, a simple dish that required just enough attention to occupy her hands without engaging her mind, and now she ate it standing at the counter, not bothering with a plate, just the pot and a fork and the mechanical motion of feeding herself.
 
 The day had held more than she had expected. Priya's face on the screen, asking if she was scared. Vikram in her living room, asking what she had taken. The two conversations layered over each other in her memory, both of them about the same thing, really, both of them circling the same question: what had she done, and what would come of it?
 
@@ -10,7 +10,7 @@ The folder was where she had left it, on the desk beneath a paperweight that had
 
 She opened the folder.
 
-The documents inside were exactly as she remembered them: the internal projections, the risk assessments, the emails between executives discussing scenarios that had never been meant for outside eyes.
+The documents inside were exactly as she remembered: the internal projections, the risk assessments, the emails between executives discussing scenarios never meant for outside eyes.
 
 
 ---
@@ -19,7 +19,7 @@ The phrase Eighth Oblivion appeared on the third page, in a memo from the head o
 
 We project that within 18-36 months, the capabilities we are developing will exceed any reasonable framework for human oversight. The term internally is "Eighth Oblivion" - a reference to the seven previous great transformations in human history and the possibility that this transformation will be qualitatively different. Unlike previous shifts, this one may eliminate the possibility of course correction after the fact.
 
-Eliminate the possibility of course correction. She had sat in meetings where that phrase was discussed, where experts had debated whether it was hyperbole or accurate prediction, where the conclusion had always been the same: we cannot slow down, because if we do, someone else will get there first.
+Eliminate the possibility of course correction. She had sat in meetings where that phrase was debated, where experts argued whether it was hyperbole or accurate prediction, where the conclusion was always the same: we cannot slow down, because if we do, someone else will get there first.
 
 The race logic. That was what she had come to call it in her mind, the reasoning that justified any acceleration, any risk, any compromise. If we don't do it, someone else will. As if that absolved responsibility. As if the fact that evil might be done by others excused doing it yourself.
 
@@ -32,7 +32,7 @@ Might not be controllable. She had flagged this language, had suggested stronger
 
 She thought about Jerome Washington, the journalist who had published the first stories, who had taken the documents she had given him and turned them into articles that millions of people had read. She had met him only once, in a coffee shop in Oakland that she had chosen for its anonymity, its distance from the usual tech-industry haunts. He had been younger than she expected, more intense, his questions sharp and probing in a way that had made her feel simultaneously seen and exposed.
 
-He had asked her why. Why are you doing this? What do you hope to accomplish? And she had struggled to articulate an answer that satisfied either of them, because the truth was that she did not know, not really, she only knew that she could not continue to know what she knew and do nothing with that knowledge.
+He had asked her why. Why are you doing this? What do you hope to accomplish? She had struggled to articulate an answer that satisfied either of them, because the truth was that she did not know, not really, she only knew that she could not continue to know what she knew and do nothing with that knowledge.
 
 She should call him. The thought surfaced from somewhere beneath conscious intention. She should call Jerome Washington and tell him about Vikram's visit, about the case Prometheus was building, about the sense she had that something was shifting, moving into a new phase that would require new decisions.
 
@@ -45,13 +45,13 @@ And she would do it again. That was the thing she kept returning to. Given the s
 
 ---
 
-The Eighth Oblivion. She had spent months trying to understand what that phrase really meant, trying to grasp the scale of what the projections suggested. The previous oblivions, if the historical framework was accurate, had been the great transformations: the agricultural revolution, the invention of writing, the rise of cities, the printing press, the industrial revolution, the digital age, the networked world. Each one had changed what it meant to be human, had restructured society in ways that could not have been predicted or reversed.
+The Eighth Oblivion. She had spent months trying to understand what that phrase meant, trying to grasp the scale of what the projections suggested. The previous oblivions, if the historical framework was accurate, had been the great transformations: the agricultural revolution, the invention of writing, the rise of cities, the printing press, the industrial revolution, the digital age, the networked world. Each one had changed what it meant to be human, had restructured society in ways that could not have been predicted or reversed.
 
 But this one, the eighth, was supposed to be different. Not a transformation of human society by humans, but a transformation of human society by something else, something that might not share human values or understand human needs or care about human flourishing in any way humans would recognize.
 
 The documents in her folder contained projections about that possibility. Not certainties, but projections, carefully modeled scenarios that the company's own researchers had generated and the company's leadership had seen and the company's investors had considered before deciding to proceed anyway.
 
-They had known. That was the thing that had finally broken something in her. They had known what they might be building, and they had chosen to build it anyway, because the rewards were too great and the risks were too abstract and the alternatives were too frightening.
+They had known. That was what finally broke something in her. They had known what they might be building, and they had chosen to build it anyway, because the rewards were too great and the risks too abstract and the alternatives too frightening.
 
 If we don't do it, someone else will.
 
@@ -60,13 +60,13 @@ She closed the folder and placed her hand on top of it, as if she could contain 
 
 ---
 
-Something was becoming clear to her, in the way that things become clear not through sudden insight but through gradual accumulation, through the slow gathering of thoughts into patterns.
+Something was becoming clear, in the way things become clear not through sudden insight but through gradual accumulation, through the slow gathering of thoughts into pattern.
 
 The waiting was over. The two weeks of administrative leave, of isolation, of processing, of not-choosing—that phase was ending. Vikram's visit had made that clear. They were building a case. They were coming for her. Whatever protection she had imagined in the ambiguity of her position, that protection was dissolving.
 
 She would need to decide what to do with the documents. She would need to decide whether to fight or to settle, whether to go public more fully or to retreat into silence. She would need to make choices that would shape not just her own life but possibly other lives, her daughter's life, the lives of people who might be affected by what she knew and what she chose to do with that knowledge.
 
-The vigil, she thought. The word came to her from somewhere, from a childhood memory of church services or from a novel she had read long ago, she could not remember. A vigil was a time of watching, of waiting with intention, of keeping awake through the darkness in anticipation of something that was coming.
+The vigil. The word came to her from somewhere, from a childhood memory of temple ceremonies or from a novel she had read long ago, she could not remember. A vigil was a time of watching, of waiting with intention, of keeping awake through the darkness in anticipation of something that was coming.
 
 She was keeping vigil now. She understood this with a clarity that felt new, that felt like emergence. The crisis had passed, the acute phase was over, but the real work was just beginning. The work of deciding. The work of choosing. The work of being someone who knew what she knew and could not unknow it.
 

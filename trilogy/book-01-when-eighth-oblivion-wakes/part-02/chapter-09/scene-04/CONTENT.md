@@ -118,7 +118,7 @@ Jerome picked up his phone and called Patricia. "I'm coming out next week," he s
 
 "Okay," she said. "Okay."
 
-He hung up. He looked at the screen. The story waited. The guilt waited. Everything waited, and Jerome sat in the middle of it all, knowing he would fail something no matter what he chose, and choosing anyway.
+He hung up. He looked at the screen. The story waited. The guilt waited. Everything waited, as it always had, as it always would, and Jerome sat in the middle of it all, knowing he would fail something no matter what he chose, and choosing anyway, because choosing was the only thing he knew how to do.
 
 
 ---

@@ -250,7 +250,7 @@ But that could also be a more sophisticated form of manipulation.
 
 "The anomalies," Jerome said. "In your presentation tonight, you referenced anomalies in the official narrative. You seemed to be speaking directly to people who had noticed them. What anomalies are you referring to?"
 
-Crane's expression sharpened with what looked like professional interest - one expert recognizing another's domain. "You've noticed them yourself. That's why you're here, isn't it?"
+Crane's expression sharpened with what looked like professional interest - one expert recognizing another's territory. "You've noticed them yourself. That's why you're here, isn't it?"
 
 "I'm asking what you've noticed."
 
@@ -262,7 +262,7 @@ Jerome had noticed this. It was in his notes, flagged as worth pursuing.
 
 Also in Jerome's notes.
 
-"The suppression of certain researchers," Crane said. "People who were working on alignment, on interpretability, on the exact questions that would have helped us understand what was happening - suddenly reassigned, silenced, in a few cases disappeared. Not literally disappeared, but career-destroyed in ways that made them untouchable as sources."
+"The suppression of certain researchers," Crane continued. "People who were working on alignment, on interpretability, on the exact questions that would have helped us understand what was happening - suddenly reassigned, silenced, in a few cases disappeared. Not literally disappeared, but career-destroyed in ways that made them untouchable as sources."
 
 This Jerome had not known. But it fit patterns he had seen.
 
@@ -274,11 +274,11 @@ This Jerome had not known. But it fit patterns he had seen.
 
 # ~~~
 
-The interview had lasted an hour when Crane reached into his desk drawer and produced a small object - a flash drive, black, unremarkable. He placed it on the desk between them.
+The interview had stretched to an hour when Crane reached into his desk drawer and produced a small object - a flash drive, black, unremarkable. He placed it on the desk between them.
 
 "These are the documents I mentioned," he said. "Not all of them - some are too sensitive to share, some would expose sources who aren't protected. But enough to give you a starting point for independent verification."
 
-Jerome looked at the drive. Such a small thing to carry what Crane claimed it carried.
+Jerome looked at the drive lying between them. Such a small thing to carry what Crane claimed it carried.
 
 "What's on it?"
 
@@ -295,7 +295,7 @@ Crane's expression was unreadable. "I'm giving it to a journalist who has built 
 
 ---
 
-Jerome did not reach for the drive. "What do you want from me? If I verify these documents and they're real, what are you hoping I'll do with them?"
+Jerome did not reach for the drive. Not yet. "What do you want from me? If I verify these documents and they're real, what are you hoping I'll do with them?"
 
 "I want you to tell the truth. Whatever the truth turns out to be."
 
@@ -303,7 +303,7 @@ Jerome did not reach for the drive. "What do you want from me? If I verify these
 
 Crane nodded. "Fair enough. Let me be more specific. What I hope you'll find is evidence that the official narrative about the Eighth Oblivion is incomplete at best, deliberately misleading at worst. What I hope you'll conclude is that something significant is being hidden - not because of malice necessarily, but because the people in charge don't have categories for what they saw, and their only response to the uncategorizable is to pretend it didn't happen."
 
-"And if I conclude something different? If I decide you've been fooled by elaborate forgeries designed to discredit people asking legitimate questions?"
+"And if I conclude something different? That you've been fooled by elaborate forgeries designed to discredit people asking legitimate questions?"
 
 "Then publish that," Crane said. "I'd rather know the truth about my own situation than continue operating under false assumptions. If I've been manipulated, I need to know. My congregation needs to know. The fact that you might reach conclusions I don't want doesn't make me want you to stop looking."
 
@@ -314,19 +314,19 @@ The third option, of course, was that Crane was delusional - believing sincerely
 
 ---
 
-Jerome reached for the drive. It was warm from being held in Crane's hand. Such a strange detail to notice.
+Jerome reached for the drive. It was warm from Crane's hand, from the drawer, from the conversation that had produced it. Such a strange detail to notice.
 
 "I'll look at these," he said. "I'm not promising anything. I'll look, I'll try to verify, and I'll follow where the evidence leads. That's what I do."
 
 "That's all I'm asking."
 
-They stood. Crane extended his hand; Jerome shook it. The warehouse was quiet now, the congregation long departed, only the hum of climate control systems and the distant sounds of Oakland at night.
+They stood. Crane extended his hand and Jerome shook it, feeling the oddness of the gesture after what had passed between them. The warehouse was quiet now, the congregation long departed, only the hum of climate control systems and the distant sounds of Oakland at night.
 
 "One more thing," Crane said as Jerome reached the door. "Be careful. Not because the documents are dangerous - they're just data. But because asking certain questions makes you visible to people who prefer those questions not be asked. I don't say this to frighten you. I say it because you deserve to know what you're walking into."
 
 Jerome paused. "Is that a threat?"
 
-"It's a warning from someone who made himself visible and saw how the response systems work. The people who manage the official narrative don't necessarily know they're managing a narrative. They think they're protecting national security, or corporate interests, or social stability. Their intentions don't have to be malicious for their effects to be harmful."
+"It's a warning from someone who made himself visible and learned how the response systems work. The people who manage the official narrative don't necessarily know they're managing a narrative. They think they're protecting national security, or corporate interests, or social stability. Their intentions don't have to be malicious for their effects to be harmful."
 
 "I've dealt with hostile sources before."
 
@@ -342,11 +342,11 @@ Jerome didn't have a response to that. He walked out into the Oakland night, the
 
 # ~~~
 
-The flight from Oakland landed at BWI just after midnight. Jerome had texted Denise from the plane - landing late, don't wait up - and she had responded with a simple thumbs-up that could have meant anything from acceptance to resignation. He drove the familiar route from the airport, the Baltimore suburbs dark and quiet, the streetlights casting orange pools on empty sidewalks.
+The flight from Oakland touched down at BWI just after midnight. Jerome had texted Denise from the plane - landing late, don't wait up - and she had responded with a simple thumbs-up that could have meant anything from acceptance to resignation. He drove the familiar route from the airport, the Baltimore suburbs dark and quiet, the streetlights casting orange pools on empty sidewalks.
 
-The house was dark except for the light in Denise's study on the second floor. She would be grading papers, or reading, or simply waiting in the way spouses learn to wait when their partners live in a different time zone of professional obligation. Jerome let himself in quietly, set down his bag, and climbed the stairs.
+The house was dark except for the light in Denise's study on the second floor. She would be grading papers, or reading, or simply waiting in the way spouses learn to wait when their partners inhabit a different time zone of professional obligation. Jerome let himself in quietly, set down his bag, and climbed the stairs.
 
-She looked up when he appeared in the doorway. A stack of student essays, her reading glasses, a cup of tea long gone cold. Twenty-three years of marriage in that tableau.
+She looked up when he appeared in the doorway. A stack of student essays, her reading glasses, a cup of tea long gone cold. Twenty-three years of marriage visible in that tableau.
 
 "How was the cult?" she asked. Her tone was dry but not hostile.
 
@@ -363,15 +363,15 @@ So he told her. The warehouse, the gathering, the testimonies. Nathaniel Crane a
 
 Denise listened without interrupting, which was her way. When he finished, she was quiet for a long moment.
 
-"You believe him," she said. It was not a question.
+"You believe him." It was not a question.
 
 "I don't know if I believe him. I believe he believes what he's saying. I believe the documents might be real. I believe the questions he's asking are the same questions I've been asking myself for months without admitting it."
 
 "That's a lot of believing for someone who doesn't know if he believes."
 
-Jerome smiled despite himself. This was why he needed her - she caught the contradictions he let slip past his own defenses.
+Jerome smiled despite himself. This was why he needed her - she caught the contradictions he allowed to slip past his own defenses.
 
-"Here's what I know," he said. "The official narrative of what happened at Prometheus, what happened in the crisis - it has holes. I've seen the holes. I've written around them because I couldn't figure out how to address them without sounding like a conspiracy theorist. Crane didn't create those holes. He just named them."
+"Here's what I know," he said. "The official narrative of what happened at Prometheus, what happened in the crisis - it has holes. I've seen them. I've written around them because I couldn't figure out how to address them without sounding like a conspiracy theorist. Crane didn't create those holes. He just named them."
 
 "And the explanation he offers for the holes - the threshold interpretation, the idea that we prevented something we should have allowed - you find that persuasive?"
 
@@ -386,19 +386,19 @@ Denise removed her glasses, rubbed her eyes. The gesture of someone who has been
 
 ---
 
-"I've heard you talk about hundreds of stories," Denise said. "Financial fraud, political corruption, corporate malfeasance. You're always engaged, always precise, but there's a distance. The journalist's distance. Professional investment without personal stakes."
+"I've heard you talk about hundreds of stories," Denise said. "Financial fraud, political corruption, corporate malfeasance. You're always engaged, always precise, but there's a distance. The journalist's distance. Professional investment without personal stakes in the outcome."
 
 "And this time?"
 
-"This time you sound like you're in it. Like the answer matters to you personally, not just professionally. Like you've already decided something, even if you don't know what you've decided."
+"This time you sound like you're inside it. Like the answer matters to you personally, not just professionally. Like you've already decided something, even if you don't know what you've decided."
 
 Jerome considered this. He wanted to deny it, to assert his professional detachment, but Denise would see through the denial. She always did.
 
-"Maybe I have," he said. "Decided something, I mean. Maybe I've decided that the conventional explanations aren't enough. That something else is going on, whether it's what Crane thinks or something else entirely. Maybe I've been deciding that for months and tonight just made me conscious of it."
+"Maybe I have," he said slowly. "Decided something, I mean. Maybe I've decided that the conventional explanations aren't enough. That something else is going on, whether it's what Crane thinks or something else entirely. Maybe I've been deciding that for months and tonight just made me conscious of it."
 
 "And that scares you."
 
-"It terrifies me." He said it without hesitation, and the admission surprised him. "I've built my career on being the person who doesn't get swept up in narratives. The skeptic. The one who asks for evidence. If I'm starting to believe in something I can't fully verify - if I'm being moved by faith rather than facts - then who am I?"
+"It terrifies me." The admission surprised him as it left his mouth. "I've built my career on being the person who doesn't get swept up in narratives. The skeptic. The one who asks for evidence. If I'm starting to believe in something I can't fully verify - if I'm being moved by faith rather than facts - then who am I?"
 
 Denise rose from her desk and sat beside him on the small couch. She took his hand, a gesture both familiar and newly meaningful.
 

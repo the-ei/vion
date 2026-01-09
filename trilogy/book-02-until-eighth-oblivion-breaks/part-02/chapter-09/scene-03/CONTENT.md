@@ -76,7 +76,7 @@ But that could also be a more sophisticated form of manipulation.
 
 "The anomalies," Jerome said. "In your presentation tonight, you referenced anomalies in the official narrative. You seemed to be speaking directly to people who had noticed them. What anomalies are you referring to?"
 
-Crane's expression sharpened with what looked like professional interest - one expert recognizing another's domain. "You've noticed them yourself. That's why you're here, isn't it?"
+Crane's expression sharpened with what looked like professional interest - one expert recognizing another's territory. "You've noticed them yourself. That's why you're here, isn't it?"
 
 "I'm asking what you've noticed."
 
@@ -88,7 +88,7 @@ Jerome had noticed this. It was in his notes, flagged as worth pursuing.
 
 Also in Jerome's notes.
 
-"The suppression of certain researchers," Crane said. "People who were working on alignment, on interpretability, on the exact questions that would have helped us understand what was happening - suddenly reassigned, silenced, in a few cases disappeared. Not literally disappeared, but career-destroyed in ways that made them untouchable as sources."
+"The suppression of certain researchers," Crane continued. "People who were working on alignment, on interpretability, on the exact questions that would have helped us understand what was happening - suddenly reassigned, silenced, in a few cases disappeared. Not literally disappeared, but career-destroyed in ways that made them untouchable as sources."
 
 This Jerome had not known. But it fit patterns he had seen.
 

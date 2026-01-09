@@ -302,13 +302,13 @@ Jerome kept writing. It was the only thing he knew how to do.
 
 At 11:47 PM, Jerome finished his reaction piece and sent it to his editor. At 11:52, she acknowledged receipt. At 11:58, she called to suggest revisions, and they argued for twenty minutes about whether his framing was too pessimistic, until they compromised on language that was, Jerome thought, still true but no longer sharp enough to cut.
 
-By midnight, the house was dark except for his office. Denise had gone to bed at ten, kissing his forehead on her way past, saying nothing because there was nothing to say. DeShawn's room had gone quiet around eleven. Jerome sat in the glow of multiple screens, the blue light aging his face in ways he could see in the reflection of the window.
+By midnight, the house was dark except for his office. Denise had gone to bed at ten, kissing his forehead on her way past, saying nothing because there was nothing to say, because they had been here before and would be here again. DeShawn's room had gone quiet around eleven. Jerome sat in the glow of multiple screens, the blue light aging his face in ways he could see in the reflection of the window, turning him into a ghost of himself, haunting his own office.
 
 His MIT source—she was Dr. Elena Vasquez, though he could never use her name—had sent him documents. Not Prometheus documents; those were locked behind firewalls that even insiders couldn't breach without leaving traces. But adjacent materials: academic papers on recursive improvement theory, internal memos from a competing company that had shelved similar research due to safety concerns, slide decks from conferences where Prometheus researchers had hinted at what was coming.
 
 He read until the words blurred. The technical concepts were at the edge of his comprehension, but the implications kept resolving into something he could understand: they had built something that could think, and then they had taught it to think about how to think better. The process had no natural endpoint. The ceiling, if there was one, was wherever the laws of physics said intelligence could go.
 
-Somewhere around 1 AM, he made himself another pot of coffee. The machine hummed in the dark kitchen while he stood waiting, listening to the silence of the sleeping house.
+Somewhere around 1 AM, he made himself another pot of coffee. The machine hummed in the dark kitchen while he stood waiting, listening to the silence of the sleeping house, the refrigerator's low drone, the settling of old wood, the distant hush of traffic that never quite stopped even in the small hours.
 
 
 ---
@@ -329,7 +329,7 @@ The response came faster than he expected: *It's 1:30 in the morning, Jerome.*
 
 *Get some sleep. We can talk tomorrow.*
 
-But Jerome couldn't sleep. The coffee was churning in his stomach, and his mind was churning with it, processing the evening's flood of information. He opened Twitter—X, whatever—and scrolled through the reactions. The celebrants and the critics. The investors crowing about their positions. The doomsayers predicting the end of human relevance. The vast middle of people who didn't know what to think and were waiting for someone to tell them.
+But Jerome couldn't sleep. The coffee was churning in his stomach, acid and caffeine conspiring against rest, and his mind was churning with it, processing the evening's flood of information into patterns that kept dissolving before he could name them. He opened Twitter—X, whatever—and scrolled through the reactions. The celebrants and the critics. The investors crowing about their positions. The doomsayers predicting the end of human relevance. The vast middle of people who didn't know what to think and were waiting for someone to tell them.
 
 He was supposed to be one of the people who told them. That was his job. But tonight, he felt as lost as anyone else.
 
@@ -348,7 +348,7 @@ She called instead of texting back. Her voice was tired but wired, the same stat
 
 "Exponential."
 
-"More than exponential. They're using a new metric internally. They call it 'capability doubling time.' Six months ago, it was measured in weeks. Now it's measured in days."
+"More than exponential. The math people use a different term—I can't remember it, something about curves that approach infinity. They're using a new metric internally. They call it 'capability doubling time.' Six months ago, it was measured in weeks. Now it's measured in days."
 
 Jerome felt something cold move through his chest. "Days."
 
@@ -377,12 +377,12 @@ The journalist responded at 2:45: *Yeah, I've been hearing stuff too. Can't veri
 
 *I know. But what can we do? We write our stories, we sound our alarms, and the market keeps climbing. The machine keeps building itself. Every journalist I know is trying to figure out how to cover something that's moving faster than coverage.*
 
-Jerome stared at the words on his screen. It was the question that had been circling in his mind all night, the question he hadn't been able to articulate: What was journalism for, in the face of something like this? He had spent his career believing that truth mattered, that exposing wrongdoing could change outcomes, that the public, properly informed, would make better choices. But the public was not a unified thing, and the choices were not theirs to make. The decisions being made in San Francisco boardrooms would shape the world regardless of what anyone wrote about them.
+Jerome stared at the words on his screen, the cursor blinking like a heartbeat, measuring time he didn't have. It was the question that had been circling in his mind all night, the question he hadn't been able to articulate: What was journalism for, in the face of something like this? He had spent his career believing that truth mattered, that exposing wrongdoing could change outcomes, that the public, properly informed, would make better choices. But the public was not a unified thing, and the choices were not theirs to make. The decisions being made in San Francisco boardrooms would shape the world regardless of what anyone wrote about them. The machine would build itself whether or not anyone was watching.
 
 
 ---
 
-By 3:30, the coffee had turned sour in his stomach, and his eyes burned with the particular fatigue of too much screen time. He stood, stretched, walked to the window. The street outside was empty, the houses of his neighbors dark. Baltimore slept while the world rearranged itself.
+By 3:30, the coffee had turned sour in his stomach, curdling into something that felt like dread, and his eyes burned with the particular fatigue of too much screen time. He stood, stretched vertebrae that cracked like accusations, walked to the window. The street outside was empty, the houses of his neighbors dark. Baltimore slept while the world rearranged itself.
 
 He thought about the warehouse workers he had interviewed last year, the ones whose jobs had been automated by systems far less sophisticated than ATLAS-7. He thought about the gig drivers navigating algorithmic management systems that dictated their schedules, their routes, their rates of pay. He thought about the customer service representatives being replaced by chatbots, the paralegals being replaced by document analysis software, the journalists—yes, journalists—being replaced by AI that could generate content faster and cheaper than any human.
 
@@ -403,7 +403,7 @@ He would need access he didn't currently have. He would need someone on the insi
 
 He opened his contacts and scrolled through names. Some he dismissed immediately—too cautious, too compromised, too far from the center of things. Others he flagged as possibilities, people he had cultivated relationships with over years, people who might know people who might know things.
 
-One name made him pause: Ananya Ramaswamy. Chief Ethics Officer at Prometheus. He had interviewed her once, two years ago, for a piece on tech industry self-regulation. She had been careful, polished, saying all the right things while giving him nothing he could use. But there had been a moment—just a moment—when he had asked her if she ever felt like the ethics role was window dressing, and something had flickered across her face before the professional mask returned.
+One name made him pause: Ananya Ramaswamy. Chief Ethics Officer at Prometheus. He had interviewed her once, two years ago, for a piece on tech industry self-regulation. She had been careful, polished, saying all the right things while giving him nothing he could use, a master of the non-answer answer. But there had been a moment—just a moment—when he had asked her if she ever felt like the ethics role was window dressing, and something had flickered across her face before the professional mask returned. A crack in the facade. A glimpse of something underneath that might have been despair or might have been fury.
 
 He hadn't followed up. He hadn't known what he was looking for. Now he wondered if she did.
 
@@ -414,7 +414,7 @@ He didn't send it. Not yet. But he saved it in drafts, a seed planted for later.
 
 ---
 
-Dawn came slowly, the gray light of March seeping through the blinds like something reluctant to arrive. Jerome watched it from his desk chair, his body aching from the night's long stillness, his mind still racing even as exhaustion pulled at its edges.
+Dawn came slowly, the gray light of March seeping through the blinds like something reluctant to arrive, like the day itself knew what it was bringing and hesitated at the threshold. Jerome watched it from his desk chair, his body aching from the night's long stillness, his mind still racing even as exhaustion pulled at its edges.
 
 The outline of his investigation covered three pages of notes. Sources to cultivate. Documents to request. Questions to answer. It would take months, maybe longer. There was no guarantee it would lead anywhere. Corporate investigations often didn't; the walls were too high, the lawyers too good, the power differential too vast.
 
@@ -422,9 +422,9 @@ But he knew now, with the terrible clarity that comes at the end of a sleepless 
 
 He thought of DeShawn, still asleep down the hall, dreaming of internships at the companies reshaping the world. He thought of Denise, who would wake soon and find him still at his desk and sigh with the resignation of someone who had given up trying to change what couldn't be changed. He thought of all the people out there who had heard the announcement and felt nothing, because they hadn't yet connected the abstract to the concrete, the technology to their lives.
 
-He would try to connect it for them. That was all he could do.
+He would try to connect it for them. That was all he could do. That was what journalism meant, if it meant anything at all: the stubborn insistence that seeing clearly was worth something, even when clarity changed nothing.
 
-Jerome saved his notes, closed his laptop, and went to watch the sunrise from the kitchen window, the last quiet moment before the world started moving again.
+Jerome saved his notes, closed his laptop, and went to watch the sunrise from the kitchen window, the last quiet moment before the world started moving again, before the phones woke up and the screens demanded attention and the curve continued its climb toward whatever waited at the top.
 
 
 ---

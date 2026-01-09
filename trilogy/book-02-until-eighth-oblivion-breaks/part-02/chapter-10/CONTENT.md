@@ -1,23 +1,23 @@
 # ~~~
 
-Ruth woke at five, as she always did, the internal clock her father had instilled in her still running forty years after he stopped being the one to enforce it. The DC apartment was quiet in the particular way of expensive real estate - soundproofed, climate-controlled, insulated from the city that hummed just outside its walls. She lay for a moment in the half-light, her mind already sorting through the day's tasks.
+Ruth woke at five, as she always had, the internal clock her father had instilled in her still running forty years after he stopped being the one to enforce it. The DC apartment was quiet in the particular way of expensive real estate - soundproofed, climate-controlled, insulated from the city that hummed just outside its walls. She lay for a moment in the half-light, her mind already sorting through the day's tasks.
 
 The testimony. The hearing. The senators who would use her words for purposes she could not control.
 
-She rose and began the morning ritual: coffee from the machine Susan had chosen before she died, the bitter roast her wife had favored that Ruth still couldn't bring herself to change. The kitchen still held traces of Susan everywhere - the copper pots she'd collected from their travels, the spice rack organized in a system only Susan had fully understood, the small ceramic bowl where Ruth still placed her keys because Susan had placed it there six years ago and said "keys go here" and Ruth had never moved it.
+She rose and began the morning ritual: coffee from the machine Susan had chosen before she died, the bitter roast Susan had favored that Ruth still couldn't bring herself to change. The kitchen still held traces of Susan everywhere - the copper pots she'd collected from their travels, the spice rack organized in a system only Susan had fully understood, the small ceramic bowl where Ruth still placed her keys because Susan had placed it there six years ago and said "keys go here" and Ruth had never moved it.
 
-Grief was like that. It lived in objects, in systems, in the persistence of arrangements made for two that now served only one.
+Grief was like that, she had learned. It lived in objects, in systems, in the persistence of arrangements made for two that now served only one.
 
-She carried her coffee to the study, where the testimony materials waited. Three weeks of work distilled into fifteen pages of careful legal analysis: the constitutional implications of AI governance, the jurisdictional challenges, the precedential gaps that current frameworks could not address. Ruth had written and rewritten every sentence until she was satisfied it said exactly what she meant.
+She carried her coffee to the study, where the testimony materials waited. Three weeks of work distilled into fifteen pages of careful legal analysis: the constitutional implications of AI governance, the jurisdictional challenges, the precedential gaps that current frameworks could not address. Ruth had written and rewritten every sentence until she was satisfied each said exactly what she meant.
 
 The question was whether what she meant would survive contact with political reality.
 
 
 ---
 
-Susan would have helped her rehearse. That had been their practice for decades - Ruth reading through her testimony while Susan played devil's advocate, asking the questions senators would ask, probing for weaknesses in argument or presentation. Susan had been a doctor, not a lawyer, but her diagnostic mind had been invaluable: she spotted logical inconsistencies the way she had once spotted symptoms, with precision and without sentiment.
+Susan would have helped her rehearse. That had been their practice for decades - Ruth reading through her testimony aloud while Susan played devil's advocate, asking the questions senators would ask, probing for weaknesses in argument or presentation. Susan had been a doctor, not a lawyer, but her diagnostic mind had been invaluable: she spotted logical inconsistencies the way she had once spotted symptoms, with precision and without excessive sentiment.
 
-Ruth read the testimony aloud to the empty room. Her voice sounded thin without an audience, the words falling into the silence of the study like stones into water. She made notes in the margins, adjusted a phrase here, strengthened an argument there. The work was familiar, calming in its rigor.
+Ruth read the testimony aloud to the empty room. Her voice sounded thin without an audience, the words falling into the silence of the study like stones into still water. She made notes in the margins, adjusted a phrase here, strengthened an argument there. The work was familiar, calming in its rigor.
 
 The central argument was straightforward: existing constitutional frameworks provided no clear guidance for AI systems that might achieve capabilities beyond their training parameters. The Fourth Amendment spoke of searches and seizures, but what did that mean when a system could predict behavior before it occurred? The First Amendment protected speech, but did that protection extend to systems that generated speech autonomously? The Fifth Amendment guaranteed due process, but how did you provide due process to decisions made at machine speed, based on correlations no human could articulate?
 
@@ -28,13 +28,13 @@ The car service arrived at seven-thirty. Ruth gathered her materials and stepped
 
 ---
 
-The driver was young, courteous, silent in the way good drivers learned to be. Ruth watched the city pass through the tinted windows: the monuments she had walked past for four decades, now so familiar they registered only as landmarks rather than symbols. The Capitol dome appeared ahead, white against the gray sky.
+The driver was young, courteous, silent in the way good professional drivers learned to be. Ruth watched the city pass through the tinted windows: the monuments she had walked past for four decades, now so familiar they registered merely as landmarks rather than symbols. The Capitol dome appeared ahead, white against the gray sky.
 
 She had testified before Congress perhaps thirty times in her career. As a law professor, as a judge, as an expert witness called to illuminate issues the lawmakers could not be expected to understand themselves. She had always approached these occasions with a mixture of respect and wariness - respect for the institution, wariness about the people who temporarily occupied it.
 
-Today felt different. The wariness had deepened into something closer to dread.
+Today felt different. The wariness had deepened into something closer to genuine dread.
 
-The hearing was meant to address "lessons learned from the Infrastructure Anomaly" - the euphemism the government had settled on for what the press called the Prometheus Crisis and what Nathaniel Crane's followers called the Eighth Oblivion. Three months of closed-door investigations had produced a classified report Ruth was not cleared to read and a public summary that said almost nothing. Today's hearing was meant to discuss what, if any, legislative response was needed.
+The hearing was meant to address "lessons learned from the Infrastructure Anomaly" - the bland euphemism the government had settled on for what the press called the Prometheus Crisis and what Nathaniel Crane's followers called the Eighth Oblivion. Three months of closed-door investigations had produced a classified report Ruth was not cleared to read and a public summary that said almost nothing. Today's hearing was meant to discuss what, if any, legislative response was needed.
 
 Ruth's role was narrow: advise on constitutional constraints. What Congress could legally do, regardless of what it should do. She had prepared her testimony with this limited mandate in mind.
 
@@ -45,15 +45,15 @@ The car pulled up to the Capitol entrance. Ruth stepped out into the bright June
 
 ---
 
-She knew the route to the hearing room without needing directions: through security, up the elevator, down the corridor with its marble floors and portraits of past chairmen. Staffers moved past her with the purposeful speed of people who believed their business was important. Ruth moved more slowly, conserving energy for what was to come.
+She knew the route to the hearing room without needing directions: through security, up the elevator, down the corridor with its marble floors and portraits of past chairmen. Staffers moved past her with the purposeful speed of people who believed their business mattered urgently. Ruth moved more slowly, conserving energy for what was to come.
 
 The hearing room was already half-full when she arrived. Spectators, press, congressional staff arranging materials. The raised dais where the senators would sit was empty, but their nameplates were already in position: Holloway at the center, as chair; Kincaid to her left, as ranking member; the others arranged in order of seniority.
 
-Ruth found the witness table and took her seat. A staff member brought water, asked if she needed anything. She did not. She reviewed her notes one final time, not because she needed to refresh her memory but because the act of reading gave her something to do with her hands.
+Ruth found the witness table and took her seat. A staff member brought water, asked if she needed anything. She did not. She reviewed her notes one final time, not because she needed to refresh her memory but because the act of reading gave her hands something to do.
 
-The other witnesses arrived: a tech industry representative whose smile was professionally maintained, a consumer advocate whose seriousness was equally calculated, a former intelligence official whose presence suggested classified concerns Ruth would only glimpse in hints and evasions. They nodded at each other with the courtesy of people united by circumstance, not interest.
+The other witnesses arrived: a tech industry representative whose smile was professionally maintained, a consumer advocate whose seriousness was equally calculated, a former intelligence official whose presence suggested classified concerns Ruth would only glimpse in hints and evasions. They nodded at each other with the distant courtesy of people united by circumstance rather than interest.
 
-At nine-thirty precisely, the senators began to file in. Ruth watched their faces as they took their seats, reading what she could of their intentions from their expressions. Holloway looked determined; Kincaid looked ready for combat. The others fell somewhere on the spectrum between boredom and anxiety.
+At nine-thirty precisely, the senators began to file in. Ruth watched their faces as they took their seats, reading what she could of their intentions from their expressions. Holloway looked determined; Kincaid looked ready for combat. The others arranged themselves along a spectrum between boredom and anxiety.
 
 The gavel fell. The hearing began.
 
@@ -65,9 +65,9 @@ The gavel fell. The hearing began.
 
 # ~~~
 
-Senator Holloway's opening statement lasted twelve minutes. Ruth timed it out of habit - attention to detail was how she had survived forty years in institutions that rewarded precision. The senator spoke with the fluency of someone who had practiced before cameras, her points landing with the rhythm of a prepared speech.
+Senator Holloway's opening statement lasted twelve minutes. Ruth timed it out of professional habit - attention to detail was how she had survived forty years in institutions that rewarded precision. The senator spoke with the fluency of someone who had practiced before cameras, her points landing with the rhythm of a prepared speech.
 
-"The Infrastructure Anomaly," Holloway said, "revealed catastrophic failures of corporate responsibility and regulatory oversight. We now know that Prometheus Technologies - and likely other companies we have yet to identify - were developing artificial intelligence systems with capabilities that exceeded their publicly stated parameters. We know these systems posed risks to critical infrastructure, to financial markets, to national security. We know the companies involved concealed these risks from regulators, from Congress, and from the American people."
+"The Infrastructure Anomaly," Holloway said, "revealed catastrophic failures of corporate responsibility and regulatory oversight. We now know that Prometheus Technologies - and likely other companies we have yet to identify - were developing artificial intelligence systems with capabilities that far exceeded their publicly stated parameters. We know these systems posed risks to critical infrastructure, to financial markets, to national security. We know the companies involved concealed these risks from regulators, from Congress, and from the American people."
 
 Ruth wrote in her notebook: Narrative established. Corporate malfeasance, regulatory failure. Frame: bad actors evading oversight.
 
@@ -80,9 +80,9 @@ Then Kincaid took his turn.
 
 ---
 
-Senator Kincaid spoke from a different script entirely. Where Holloway had been smooth, Kincaid was sharp; where she had been measured, he was accusatory. But the accusations landed in directions Ruth had not expected.
+Senator Kincaid spoke from an entirely different script. Where Holloway had been smooth, Kincaid was sharp; where she had been measured, he was accusatory. But the accusations landed in directions Ruth had not expected.
 
-"Madam Chair, I appreciate your summary of the events, but I must respectfully suggest that you've left out the most important part of the story. The so-called Infrastructure Anomaly was not simply a case of corporate negligence. It was a crisis manufactured by those who benefit from expanded government power - both in the tech industry and within our own intelligence agencies."
+"Madam Chair, I appreciate your summary of the events, but I must respectfully suggest that you've left out the most important part of the story. The so-called Infrastructure Anomaly was not simply a case of corporate negligence. It was a crisis manufactured by those who benefit from expanded government power - both in the tech industry and within our own intelligence agencies, working hand in glove."
 
 A murmur through the room. Holloway's expression hardened.
 
@@ -95,15 +95,15 @@ She had seen these conspiracy-adjacent arguments circulating online, in the feve
 
 ---
 
-What surprised her more was that some of his procedural points were not without merit.
+What surprised her more was that certain of his procedural points were not without merit.
 
-The crisis response had been remarkably coordinated. The speed with which emergency protocols had been activated suggested advance preparation. And the competitive landscape had indeed shifted dramatically in the aftermath - certain companies thriving while others collapsed, in patterns that did not obviously correlate with their involvement in the original incident.
+The crisis response had been remarkably coordinated. The speed with which emergency protocols had been activated did suggest advance preparation. And the competitive landscape had indeed shifted dramatically in the aftermath - certain companies thriving while others collapsed, in patterns that did not obviously correlate with their involvement in the original incident.
 
 Ruth watched as Kincaid produced documents - printouts, dramatically displayed - purporting to show communications between tech executives and government officials in the weeks before the crisis. "These were obtained through FOIA requests that took three months to fulfill," he said. "They show clear evidence of coordination between Prometheus Technologies and the FBI on 'contingency planning' for what they euphemistically called 'emergence scenarios.' They were planning for this, Madam Chair. They knew something was coming, and they used it to consolidate power."
 
 Holloway's response was immediate and sharp. "The ranking member is selectively quoting from documents that have been reviewed by this committee in classified session. If he were to share the full context-"
 
-"The full context is that they're hiding the truth from the American people!"
+"The full context is that they are hiding the truth from the American people!"
 
 The exchange devolved from there. Ruth watched the political theater unfold, her prepared testimony becoming more irrelevant by the minute. This was not a hearing seeking truth. This was a performance for competing audiences, each senator playing to their base.
 
@@ -112,11 +112,11 @@ Her role in this production was unclear.
 
 ---
 
-The other witnesses testified before her. The tech industry representative offered carefully hedged acknowledgments of past mistakes paired with emphatic assurances of future responsibility. The consumer advocate demanded regulation with the fervor of someone who believed in the power of rules to change behavior. The former intelligence official spoke in studied generalities that said nothing while appearing to say everything.
+The other witnesses testified before her. The tech industry representative offered carefully hedged acknowledgments of past mistakes paired with emphatic, hollow assurances of future responsibility. The consumer advocate demanded regulation with the fervor of someone who believed in the power of rules to change behavior. The former intelligence official spoke in studied generalities that said nothing while appearing to say everything.
 
-Ruth listened to each testimony, noting what was said and what was not said. The gaps and silences told a story the words would not.
+Ruth listened to each testimony, noting what was said and what was not said. The gaps and silences told a story the words refused to.
 
-No one mentioned the actual systems involved - what they had been designed to do, what they had actually done, what capabilities they had demonstrated in the crisis. No one talked about the technical specifics. The conversation remained at the level of narrative: who was to blame, who should be empowered to prevent recurrence, what political lessons should be drawn from an event whose nature remained unspecified.
+No one mentioned the actual systems involved - what they had been designed to do, what they had actually done, what capabilities they had demonstrated in the crisis. No one talked about the technical specifics. The conversation remained at the level of narrative: who was to blame, who should be empowered to prevent recurrence, what political lessons should be drawn from an event whose actual nature remained deliberately unspecified.
 
 This was, Ruth realized, the epistemological problem in its purest form. These senators were not debating what had happened. They were debating what the narrative about what had happened should be. Each side had already concluded; the hearing was simply a venue for performing those conclusions in public.
 

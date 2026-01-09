@@ -36,7 +36,7 @@ Ruth thought of her seminar that morning, the students asking why they studied f
 
 "It's not charity. It's - " She stopped, unable to name what it was. Penance, perhaps, for a career spent in the abstractions of appellate law while her daughter worked in the concrete. "It's what I can do."
 
-Rebecca nodded, accepting without argument. They had been through this before. The money Ruth gave her went to emergency needs the system couldn't meet quickly enough: a security deposit, a utility bill, school supplies. Small interventions that sometimes kept a family from tipping over the edge. Ruth knew it was drops in an ocean, but she also knew that oceans were made of drops.
+Rebecca nodded, accepting without argument. They had been through this before. The money Ruth gave her went to emergency needs the system couldn't meet quickly enough: a security deposit, a utility bill, school supplies. Small interventions that sometimes kept a family from tipping over the edge. Ruth knew it was drops in an ocean, but she also knew that to the family about to be evicted, one drop could be the difference between having somewhere to sleep and not. The ocean metaphor was for people who had the luxury of abstraction.
 
 "How's your teaching going?" Rebecca asked, a deliberate shift away from her own work.
 
@@ -57,7 +57,7 @@ Rebecca studied her mother's face. "That's not like you. You always believed in 
 
 The name landed softly, the private name Rebecca and David had used for Susan since childhood. Ruth felt it settle into the space between them, the invocation of a third presence who should have been at this table.
 
-"She would say I'm finally seeing clearly," Ruth said. "Susan always understood that the law was a tool, not a temple. I was the one who made a religion of it."
+"She would say I'm finally seeing clearly," Ruth said. "Susan always understood that the law was a tool, not a temple. I was the one who made a religion of it, who needed to believe the system had a soul."
 
 They sat in silence for a moment, the afternoon light shifting as clouds moved across the sun. Rebecca checked her phone - the automatic gesture of someone who was always on call.
 
@@ -96,7 +96,7 @@ Rebecca's phone buzzed. She glanced at it, and her face shifted back into the pr
 
 "Of course."
 
-They walked out together, Ruth leaving cash on the table that covered both meals and a check that Rebecca would deposit into the unofficial fund. On the sidewalk, they hugged - a brief embrace that held years of history, disagreements survived, love that had outlasted its occasions for easy expression.
+They walked out together, Ruth leaving cash on the table that covered both meals and a check that Rebecca would deposit into the unofficial fund. On the sidewalk, they hugged - a brief embrace that held years of history, disagreements survived, the love that had outlasted its occasions for easy expression and become something quieter, something that didn't need to announce itself.
 
 "Call me," Ruth said. "When you can."
 

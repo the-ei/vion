@@ -47,7 +47,7 @@ Fun. The word sits in his mouth like a foreign object. What does he do for fun? 
 
 "That's cool. I've never really gotten into that."
 
-Another silence. The bar is loud around them, other conversations happening, laughter that sounds easier than anything Kevin Zhou knows how to produce. Michelle checks her phone, briefly, almost apologetically.
+Another silence. The bar is loud around them, other conversations flowing, laughter that sounds easier than anything Kevin Zhou has ever managed to produce. Michelle checks her phone, briefly, almost apologetically.
 
 
 ---
@@ -64,7 +64,7 @@ They finish their drinks. The check comes, and Kevin Zhou pays because it seems 
 
 They stand outside the bar, the October air cool and damp, San Francisco pretending at autumn. The hug is brief, the kind of hug that closes a door. Michelle walks toward her car, takes out her phone, is already somewhere else.
 
-Kevin Zhou stands on the sidewalk for a moment. The evening is young. He could go somewhere else, do something else, be someone else. But the thought exhausts him before he can finish it. He walks to his own car, drives home, parks in the garage, takes the elevator to his floor, unlocks his apartment door, and steps into the familiar silence.
+Kevin Zhou stands on the sidewalk for a moment. The evening is still young. He could go somewhere else, do something else, become someone else. But the thought exhausts him before he can finish it. He walks to his own car, drives home, parks in the garage, takes the elevator to his floor, unlocks his apartment door, and steps into the familiar silence.
 
 The apartment welcomes him with its indifference. He changes clothes. Checks his phone: no messages. Opens the refrigerator: leftover Thai food from three days ago, probably still edible. He eats it cold, standing at the counter, not tasting.
 

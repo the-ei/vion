@@ -210,7 +210,7 @@ Ruth thought of her seminar that morning, the students asking why they studied f
 
 "It's not charity. It's - " She stopped, unable to name what it was. Penance, perhaps, for a career spent in the abstractions of appellate law while her daughter worked in the concrete. "It's what I can do."
 
-Rebecca nodded, accepting without argument. They had been through this before. The money Ruth gave her went to emergency needs the system couldn't meet quickly enough: a security deposit, a utility bill, school supplies. Small interventions that sometimes kept a family from tipping over the edge. Ruth knew it was drops in an ocean, but she also knew that oceans were made of drops.
+Rebecca nodded, accepting without argument. They had been through this before. The money Ruth gave her went to emergency needs the system couldn't meet quickly enough: a security deposit, a utility bill, school supplies. Small interventions that sometimes kept a family from tipping over the edge. Ruth knew it was drops in an ocean, but she also knew that to the family about to be evicted, one drop could be the difference between having somewhere to sleep and not. The ocean metaphor was for people who had the luxury of abstraction.
 
 "How's your teaching going?" Rebecca asked, a deliberate shift away from her own work.
 
@@ -231,7 +231,7 @@ Rebecca studied her mother's face. "That's not like you. You always believed in 
 
 The name landed softly, the private name Rebecca and David had used for Susan since childhood. Ruth felt it settle into the space between them, the invocation of a third presence who should have been at this table.
 
-"She would say I'm finally seeing clearly," Ruth said. "Susan always understood that the law was a tool, not a temple. I was the one who made a religion of it."
+"She would say I'm finally seeing clearly," Ruth said. "Susan always understood that the law was a tool, not a temple. I was the one who made a religion of it, who needed to believe the system had a soul."
 
 They sat in silence for a moment, the afternoon light shifting as clouds moved across the sun. Rebecca checked her phone - the automatic gesture of someone who was always on call.
 
@@ -270,7 +270,7 @@ Rebecca's phone buzzed. She glanced at it, and her face shifted back into the pr
 
 "Of course."
 
-They walked out together, Ruth leaving cash on the table that covered both meals and a check that Rebecca would deposit into the unofficial fund. On the sidewalk, they hugged - a brief embrace that held years of history, disagreements survived, love that had outlasted its occasions for easy expression.
+They walked out together, Ruth leaving cash on the table that covered both meals and a check that Rebecca would deposit into the unofficial fund. On the sidewalk, they hugged - a brief embrace that held years of history, disagreements survived, the love that had outlasted its occasions for easy expression and become something quieter, something that didn't need to announce itself.
 
 "Call me," Ruth said. "When you can."
 
@@ -288,7 +288,7 @@ They walked out together, Ruth leaving cash on the table that covered both meals
 
 # ~~~
 
-Evening came the way it always came to the hills above Berkeley, the light going blue and then gray and then the lights of the city emerging below like a mirror of the stars that would appear if the fog allowed. Ruth heated soup on the stove - lentil, from a batch she'd made on Sunday - and ate standing at the counter, looking out through the kitchen window at Susan's garden disappearing into the dark.
+Evening came the way it always came to the hills above Berkeley, the light going blue and then gray and then the particular Berkeley dark that was never quite dark, the lights of the city emerging below like a mirror of the stars that would appear if the fog allowed, which tonight it would not. Ruth heated soup on the stove - lentil, from a batch she'd made on Sunday - and ate standing at the counter, looking out through the kitchen window at Susan's garden disappearing into the dark.
 
 The papers she needed to grade sat in a stack on the dining room table. She had promised Daniel she would return them by Thursday. But the work felt impossible, each student essay a small monument to the gap between what they were learning and what they would face.
 
@@ -304,7 +304,7 @@ Ruth waited, hearing the muffled transition from interior warmth to exterior col
 
 "Fine. Teaching. Missing your mother."
 
-"I know. I miss her too." But David's voice carried the miss differently than Rebecca's had - more abstract, more contained. Susan's death had happened to him; it had not rearranged the furniture of his daily life.
+"I know. I miss her too." But David's voice carried the miss differently than Rebecca's had - more abstract, more contained, the grief of someone who had loved Susan without needing her. Susan's death had happened to him; it had not rearranged the furniture of his daily life the way it had demolished Ruth's.
 
 
 ---
@@ -313,13 +313,13 @@ Ruth waited, hearing the muffled transition from interior warmth to exterior col
 
 "It's been wild, honestly. The volatility after all that stuff last year - I mean, terrible, obviously, but for the fund it was an opportunity. We were positioned for exactly the kind of uncertainty that happened. We're up thirty-two percent since September."
 
-Ruth listened to her son describe his success with the language of someone who genuinely couldn't see why the same events might look different from other angles. David had never been cruel; that was the thing. He was intelligent, hard-working, even generous in his way - he sent money to Rebecca's discretionary fund too, though Ruth suspected he thought of it as tax-efficient philanthropy. He simply lived in a world where the crisis Ruth had testified about was a market event, a disruption that created opportunities for those nimble enough to capture them.
+Ruth listened to her son describe his success with the language of someone who genuinely couldn't see why the same events might look different from other angles. David had never been cruel; that was the thing. He was intelligent, hard-working, even generous in his way - he sent money to Rebecca's discretionary fund too, though Ruth suspected he thought of it as tax-efficient philanthropy. He simply lived in a world where the crisis Ruth had testified about was a market event, a disruption that created opportunities for those nimble enough to capture them. The human cost was externality. The suffering was noise.
 
 "That's good, David. I'm glad you're doing well."
 
 "I was actually thinking - now that things have stabilized - I might look at vacation properties. There's a place in Vermont, near that inn you and Mom used to visit. Not to be morbid, but I thought maybe it could be a family place. Somewhere we could all go."
 
-Ruth closed her eyes. The inn in Vermont. She and Susan had gone there every fall for fifteen years, until the cancer made travel impossible. The idea that David would buy a house nearby, would transform their private pilgrimage into a family asset, was touching and tone-deaf in equal measure.
+Ruth closed her eyes. The inn in Vermont. She and Susan had gone there every fall for fifteen years, until the cancer made travel impossible. The idea that David would buy a house nearby, would transform their private pilgrimage into a family asset, was touching and tone-deaf in equal measure - his love expressed in the only language he trusted, the language of acquisition.
 
 "That sounds lovely," she said, because what else could she say.
 
@@ -340,7 +340,7 @@ But that was precisely the problem, Ruth wanted to say. Being smart about it was
 
 "Did I? Well. I'm glad we talked."
 
-After they hung up, Ruth stood in her kitchen for a long time, the phone still in her hand, the soup pot cold on the stove. The house gathered darkness around her. She could hear the fog moving through the garden, the particular silence of coastal moisture settling onto leaves and wood.
+After they hung up, Ruth stood in her kitchen for a long time, the phone still in her hand, the soup pot cold on the stove, the silence of the house pressing in like something with weight. The house gathered darkness around her. She could hear the fog moving through the garden, the particular silence of coastal moisture settling onto leaves and wood.
 
 She did not grade the papers.
 
@@ -357,7 +357,7 @@ That the law could adapt.
 
 That constitutional doctrine, evolved through two centuries of argument, could stretch to encompass technologies the founders never imagined.
 
-That she, Ruth Abramson, could be part of the stretching.
+That she, Ruth Abramson, could be part of the stretching, could matter.
 
 What did she know now?
 
@@ -367,7 +367,7 @@ That nothing had changed.
 
 That her testimony was footnote to a footnote, stored in archives no one would read.
 
-She thought of the cases she had decided from the bench, before she retired to teach. The criminal appeals where she had parsed procedure, the civil rights claims where she had balanced interests, the endless calibration of competing values that was the work of judging. Had any of it mattered? Had any of it bent the arc toward anything?
+She thought of the cases she had decided from the bench, before she retired to teach. The criminal appeals where she had parsed procedure, the civil rights claims where she had balanced interests, the endless calibration of competing values that was the work of judging. Had any of it mattered? Had any of it bent the arc toward anything? Or had she spent her life arranging furniture on a ship that was sinking regardless?
 
 Susan would say: stop. Susan would say: you're catastrophizing. Susan would say: the work matters even when you can't see the results.
 

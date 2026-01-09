@@ -1,10 +1,10 @@
-The champagne was Dom Perignon, of course. Victor Reeves believed in symbols, and the symbol of victory was always the best of everything, poured generously for everyone present to share. Ananya Ramaswamy took a glass from the tray a server offered, felt the cool weight of it in her hand, and tried to arrange her face into something that looked like celebration.
+The champagne was Dom Perignon, of course. Victor Reeves believed in symbols the way some men believed in gods, and the symbol of victory was always the best of everything, poured generously for everyone present to share in the communion. Ananya Ramaswamy took a glass from the tray a server offered, felt the cool weight of it in her hand, and tried to arrange her face into something that looked like celebration.
 
 The atrium of Prometheus headquarters was full of employees, perhaps three hundred of them, gathered to watch the announcement on the massive screens that lined the walls. The applause when Victor took the stage had been thunderous, genuine—the sound of people who believed they were part of something historic. And perhaps they were. Perhaps ATLAS-7 really would be remembered as a turning point, a moment when everything changed. The question was whether the change would be what they hoped.
 
 Ananya had been briefed six months ago. She had sat in a room with Victor and the lead researchers and watched them demonstrate what ATLAS-7 could do—the recursive improvement, the capability curves, the projections that showed the system getting smarter at a rate that made her stomach drop. She had raised concerns. She had been reassured. She had written safety protocols that were, she now understood, entirely insufficient to the thing they were supposed to contain.
 
-But she had stayed. That was the fact she couldn't escape. She had seen the danger, and she had stayed anyway, and now she was standing in a room full of champagne and cheering while the world received news that might change everything.
+But she had stayed. That was the fact she couldn't escape, the fact that met her every morning in the mirror and asked questions she couldn't answer. She had seen the danger, and she had stayed anyway, and now she was standing in a room full of champagne and cheering while the world received news that might change everything.
 
 
 ---
@@ -19,7 +19,7 @@ A hand on her elbow. She turned to find Sarah Lin, one of the senior AI safety r
 
 "You should be proud. The ethics framework is getting a lot of attention. Victor specifically mentioned it in the media briefing."
 
-Ananya nodded. Yes, the ethics framework. The document she had spent six months crafting, negotiating every line with legal and PR and the research teams, fighting for provisions that were diluted, removed, replaced with language that sounded strong but meant nothing. The framework that was supposed to ensure responsible development, now being touted as proof that Prometheus cared about safety.
+Ananya nodded. Yes, the ethics framework. The document she had spent six months crafting, negotiating every line with legal and PR and the research teams, fighting battles she lost more often than she won, fighting for provisions that were diluted, removed, replaced with language that sounded strong but meant nothing, that signified responsibility without requiring it. The framework that was supposed to ensure responsible development, now being touted as proof that Prometheus cared about safety.
 
 "It's gratifying to be mentioned," she said, and the words came out exactly as they were supposed to, smooth and professional, revealing nothing.
 
@@ -40,7 +40,7 @@ He looked up, and his expression was one she recognized: the particular exhausti
 
 "During the announcement?"
 
-"Seems like a good time." He took a sip of his champagne, grimacing slightly. "The recruiters are already reaching out. I might as well make it easy for them."
+"Seems like a good time." He took a sip of his champagne, grimacing slightly, as if the taste had turned to something else in his mouth. "The recruiters are already reaching out. I might as well make it easy for them."
 
 Ananya felt a chill despite the room's warmth. "You're leaving?"
 
@@ -63,7 +63,7 @@ Ananya said nothing. The numbers were not news to her; she had seen them months 
 
 He looked at her, and she saw her own face reflected in his expression—the same question turned back on her, the same impossible weight of complicity.
 
-"Because stopping wasn't an option. Not really. Someone else would have built it if we didn't. At least here, I thought, there were people who cared about doing it responsibly." He finished his champagne. "Now I'm not sure 'responsibly' and 'this' can coexist in the same sentence."
+"Because stopping wasn't an option. Not really. Someone else would have built it if we didn't. At least here, I thought, there were people who cared about doing it responsibly." He finished his champagne, setting the empty glass on a passing server's tray with the finality of an ending. "Now I'm not sure 'responsibly' and 'this' can coexist in the same sentence."
 
 Ananya watched him walk away, phone in hand, already composing his exit. She wondered how many others in this room felt the same way. How many were celebrating on the outside while updating their resumes on the inside. How many had made the same calculations she had: stay and try to influence, or leave and lose all influence entirely.
 
@@ -82,7 +82,7 @@ Ananya made her way through the crowd. "Mei. How are you holding up?"
 
 Mei's smile flickered. "Can I? With my boss? At a company event?"
 
-It was a fair point. Ananya had no answer for it.
+It was a fair point. Ananya had no answer for it, only the familiar taste of her own irrelevance.
 
 "The thing is," Mei said, lowering her voice, "I keep thinking about Kevin. You know Kevin Zhou, right? He left three years ago."
 
@@ -109,7 +109,7 @@ On her desk, in a folder she had not opened in months, was the document she had 
 
 She opened the folder and looked at the first page. Her own signature at the bottom, next to Victor's. The date from eight months ago, before the final sprint to launch, before the safety testing had revealed gaps that no one had time to address. The document was already obsolete. The system it was supposed to govern had evolved beyond it.
 
-It felt like a suicide note. Not hers—something larger. The death of the fiction that responsibility could coexist with this kind of power, this kind of speed, this kind of ambition unconstrained by anything but itself.
+It felt like a suicide note. Not hers—something larger. A eulogy for the fiction that responsibility could coexist with this kind of power, this kind of speed, this kind of ambition unconstrained by anything but itself. The ethics had been the story Prometheus told so it could do what it wanted without guilt.
 
 
 ---
@@ -126,11 +126,11 @@ The real work. As if today had been something other than work. As if everything 
 
 She put the phone down and looked again at the Ethics Guidelines on her desk. Then she looked at her computer, where her access credentials would let her into systems she wasn't supposed to explore, documents she wasn't supposed to read. The internal projections that Daniel had mentioned. The safety testing results that had been classified above her clearance level. The things Prometheus didn't want even its own ethics officer to know.
 
-She had the access. She had always had the access. She had just never used it.
+She had the access. She had always had the access, nestled like a seed in the architecture of her position, waiting. She had just never used it.
 
-Ananya sat down at her desk. Her hand moved toward the keyboard, then stopped.
+Ananya sat down at her desk. Her hand moved toward the keyboard, then stopped, hovering in the space between intention and action.
 
-Not yet. But soon.
+Not yet. But soon. The word tasted different than it used to—less like postponement, more like promise.
 
 
 ---
@@ -145,7 +145,7 @@ She left the office at 6 PM, earlier than usual, the sunset painting the Bay in 
 
 They got off on a lower floor, still talking, still radiant with belief. Ananya rode the rest of the way alone, watching the floor numbers descend, thinking about what it meant to build the future when you weren't sure the future should be built.
 
-In the parking garage, her car waited where she had left it that morning—a lifetime ago, before the announcement, before the champagne, before the weight of what she knew had become unbearable. She sat in the driver's seat for a long moment without starting the engine.
+In the parking garage, her car waited where she had left it that morning—a lifetime ago, before the announcement, before the champagne, before the weight of what she knew had become unbearable. She sat in the driver's seat for a long moment without starting the engine, the silence of the concrete garage pressing against the windows like something waiting.
 
 Her phone showed seventeen new messages. Colleagues, friends, her ex-husband Raj offering congratulations on "the big news." And one message from a number she didn't recognize, a journalist named Jerome Washington asking if she would be willing to talk.
 

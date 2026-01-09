@@ -1,6 +1,6 @@
 # ~~~
 
-The cursor blinks in the dark. Two in the morning and the apartment is blue with screen-light, three monitors arranged in a curve that catches Kevin Zhou in their glow like something religious, an altar to computation. The city outside his window is invisible at this hour, just scattered lights in the black, and he has not looked at it in some time. He is in the code. He is in the architecture of a function that handles user preference modeling, and the function is not behaving as it should, and this is the kind of problem he loves.
+The cursor blinks in the dark. Two in the morning and the apartment is blue with screen-light, three monitors arranged in a curve that catches Kevin Zhou in their glow like something religious, an altar to the computable. The city outside his window is invisible at this hour, just scattered lights in the black, and he has not looked at it in some time. He is in the code. He is in the architecture of a function that handles user preference modeling, and the function is not behaving as it should, and this is the kind of problem he loves.
 
 Clarity. That is what they call the project, though the name came from marketing, not engineering. The system is supposed to help users understand why they make the choices they make - a decision-support tool, the pitch deck says, for individuals who want to examine their own patterns. Kevin Zhou does not think about pitch decks. He thinks about the elegance of the inference layer, the way the model learns to predict behavior from the accumulated detritus of digital life. Every click a data point. Every hesitation a signal. The system watches, and the system learns, and eventually the system knows things about you that you do not know about yourself.
 
@@ -24,7 +24,7 @@ The work is beautiful. He has never said this aloud, knows how it would sound, b
 
 Except.
 
-The thought surfaces and he pushes it down, a practiced motion. Except that illumination and manipulation are not so easily distinguished. Except that helping users understand themselves and helping corporations understand users are the same technical problem. Except that the code he is writing tonight could be deployed for purposes that look nothing like the pitch deck's benign promises.
+The thought surfaces and he pushes it down, a practiced motion. Except that illumination and manipulation are not easily distinguished. Except that helping users understand themselves and helping corporations understand users are the same technical problem. Except that the code he is writing tonight could be deployed for purposes that look nothing like the pitch deck's benign promises.
 
 He takes another drink of the energy drink, now warm, and focuses on the function in front of him. The temporal weighting fix has downstream effects he needs to trace. There is always more to do. This is the gift of engineering: the problems are endless, and the solutions are clean, and you can always be productive even when you cannot be present. Even when you cannot sleep. Even when the apartment is empty and the city is dark and the only thing that feels real is the cursor blinking on the screen.
 
@@ -61,7 +61,7 @@ The eggs are adequate. The toast is cold. The coffee is exactly what he needs. H
 
 After he eats, he will shower. After he showers, he will sleep for three or four hours - the most his body will allow. After he sleeps, he will wake and check his messages and probably start working again, because the work is what there is, because the work is what he is good at, because the work is easier than everything else.
 
-The sun has risen fully now, the fog burning off, the city coming into focus outside his window. San Francisco in late October, the season that isn't a season, temperatures that never commit. Kevin Zhou finishes his coffee, sets the cup in the sink, and goes to shower. The code will be there when he returns. The code is always there.
+The sun has risen fully now, the fog burning off, the city resolving outside his window. San Francisco in late October, the season that isn't a season, temperatures that never commit. Kevin Zhou finishes his coffee, sets the cup in the sink, and goes to shower. The code will be there when he returns. The code is always there.
 
 
 ---
@@ -73,7 +73,7 @@ The sun has risen fully now, the fog burning off, the city coming into focus out
 
 The conference room has glass walls. This is intentional - transparency as corporate value, openness as brand - but right now it means Kevin Zhou can see the meeting happening without him. Through the glass: his manager David, two product leads he knows by name, someone from legal, and Rachel Torres from strategy, taking notes on her laptop with the particular intensity of someone who belongs. They are discussing Clarity. He knows this because the meeting was on his calendar until yesterday, when it was moved - scheduling conflict, David's email said, overlapping commitments, we'll brief you after.
 
-Kevin Zhou sits at his desk, forty feet from the glass walls, and does not look at the meeting. He looks at his screen, at the code he cannot focus on, at the Slack channel where Dmitri is asking a question he should answer but cannot bring himself to engage with. The exclusion burns in his chest like something swallowed wrong.
+Kevin Zhou sits at his desk, forty feet from the glass walls, and does not look at the meeting. He looks at his screen, at the code he cannot focus on, at the Slack channel where Dmitri is asking a question he should answer but cannot bring himself to engage with. The exclusion burns in his chest like something swallowed sideways.
 
 He was supposed to be in that room. He built the core of what they're discussing. The inference layer, the preference modeling, the elegant architecture that makes Clarity possible - that is his work, his contribution, the thing he has traded his sleep and his weekends and his sparse social life to create. And now they are making decisions about deployment parameters, about how the system will be used, about matters that will determine what his code becomes in the world, and they did not think to include him.
 
@@ -88,7 +88,7 @@ David comes to Kevin Zhou's desk ten minutes later. "Hey, sorry about the schedu
 
 "No problem," Kevin Zhou says. "What's the brief?"
 
-David gives him the summary: deployment timelines, user segmentation strategies, enterprise versus consumer rollout sequences. The words are familiar but wrong, like a language Kevin Zhou almost speaks. He understands the technical implications - he understands them better than David does - but the strategic frame is alien. Why enterprise first? Because enterprise customers pay more and ask fewer questions. Why this timeline? Because Q1 earnings need a win. The logic is corporate logic, not engineering logic, and Kevin Zhou feels himself being translated into a language that does not quite fit.
+David gives him the summary: deployment timelines, user segmentation strategies, enterprise versus consumer rollout sequences. The words are familiar but displaced, like a language Kevin Zhou once knew fluently. He understands the technical implications - he understands them better than David does - but the strategic frame is alien. Why enterprise first? Because enterprise customers pay more and ask fewer questions. Why this timeline? Because Q1 earnings need a win. The logic is corporate logic, not engineering logic, and Kevin Zhou feels himself being translated into a language that does not quite fit.
 
 "Any questions?" David asks.
 
@@ -124,7 +124,7 @@ Then his mother says, "Mrs. Li's son. You remember him? From the building?"
 
 "He was questioned. About his contacts overseas. His work colleagues." She says this carefully, her face neutral, as if commenting on weather. "It was nothing, of course. A misunderstanding. But his mother is very worried."
 
-The implication sits between them, heavy as fog. His father's face tightens almost imperceptibly. Kevin Zhou feels the distance between San Francisco and Shenzhen as a physical thing, a gulf that cannot be crossed by video call or good intentions.
+The implication settles between them, heavy as fog. His father's face tightens almost imperceptibly. Kevin Zhou feels the distance between San Francisco and Shenzhen as a physical thing, a gulf that cannot be crossed by video call or good intentions.
 
 
 ---
@@ -194,7 +194,7 @@ Fun. The word sits in his mouth like a foreign object. What does he do for fun? 
 
 "That's cool. I've never really gotten into that."
 
-Another silence. The bar is loud around them, other conversations happening, laughter that sounds easier than anything Kevin Zhou knows how to produce. Michelle checks her phone, briefly, almost apologetically.
+Another silence. The bar is loud around them, other conversations flowing, laughter that sounds easier than anything Kevin Zhou has ever managed to produce. Michelle checks her phone, briefly, almost apologetically.
 
 
 ---
@@ -211,7 +211,7 @@ They finish their drinks. The check comes, and Kevin Zhou pays because it seems 
 
 They stand outside the bar, the October air cool and damp, San Francisco pretending at autumn. The hug is brief, the kind of hug that closes a door. Michelle walks toward her car, takes out her phone, is already somewhere else.
 
-Kevin Zhou stands on the sidewalk for a moment. The evening is young. He could go somewhere else, do something else, be someone else. But the thought exhausts him before he can finish it. He walks to his own car, drives home, parks in the garage, takes the elevator to his floor, unlocks his apartment door, and steps into the familiar silence.
+Kevin Zhou stands on the sidewalk for a moment. The evening is still young. He could go somewhere else, do something else, become someone else. But the thought exhausts him before he can finish it. He walks to his own car, drives home, parks in the garage, takes the elevator to his floor, unlocks his apartment door, and steps into the familiar silence.
 
 The apartment welcomes him with its indifference. He changes clothes. Checks his phone: no messages. Opens the refrigerator: leftover Thai food from three days ago, probably still edible. He eats it cold, standing at the counter, not tasting.
 
@@ -319,7 +319,7 @@ Ananya's expression shifts, something that might be frustration or might be reco
 
 "Isn't it?"
 
-They stand in the parking garage, facing each other across three car-lengths of concrete. Kevin Zhou's heart is beating faster than the conversation warrants. He is not good at this kind of exchange, the unscripted confrontation, the arguments that live outside of code review comments. He wants to defend his work, wants to explain that the elegance he builds serves good purposes, wants her to understand that he is not the villain her framing implies.
+They stand in the parking garage, facing each other across three car-lengths of concrete. Kevin Zhou's heart is beating faster than the conversation warrants. He is not good at this kind of exchange, the unscripted confrontation, the arguments that cannot be reduced to code review comments. He wants to defend his work, wants to explain that the elegance he builds serves good purposes, wants her to understand that he is not the villain her framing implies.
 
 "Ethics theater," he says. The words come out before he can stop them. "That's what this is. You review our work, raise concerns, and nothing changes. The deployment happens anyway. You're just cover."
 
@@ -351,7 +351,7 @@ The drive home is fifteen minutes through empty streets. San Francisco at midnig
 
 You have more power than you think. What does that mean? He writes code. He optimizes functions. He builds the systems that other people decide how to use. The power is elsewhere - in the strategy meetings he is excluded from, in the boardrooms he will never enter, in the decisions made by people whose names he does not know. He is an engineer. His job is to make things work.
 
-But the things he makes work have consequences. He knows this. He has always known this. The knowledge sits in the back of his mind like something he has agreed not to look at directly. The architecture is clean. The code is elegant. What it enables is not his concern.
+But the things he makes work have consequences. He knows this. He has always known this. The knowledge sits in the back of his mind like a pact he has made with himself not to examine directly. The architecture is clean. The code is elegant. What it enables is not his concern.
 
 Except now, tonight, in the silence of his apartment, Ananya's question echoes: Building something that works for whom?
 

@@ -9,7 +9,7 @@ The overhead light flickered once and everyone tensed. Then it steadied, and the
 
 ---
 
-Elena thought about the patient with the broken arm. He had come in during the second day, maybe the third, when the clinic was at its most overwhelmed and every available surface had become a treatment space. His arm had been broken by something falling, a shelf, a cabinet, something in his home that had toppled when the tremors hit, though whether the tremors were seismic or something else entirely had never been explained to her satisfaction. But his arm was not what he wanted to talk about. His arm was secondary to the question he kept asking, the question that had become a kind of fever in him: his daughter, his daughter, had anyone heard from his daughter, she had been downtown when it started, she had been in one of the buildings.
+Elena thought about the patient with the broken arm. He had come in during the second day, maybe the third, when the clinic was at its most overwhelmed and every available surface had become a treatment space. His arm had been broken by something falling, a shelf, a cabinet, something in his home that had toppled when the tremors hit, though whether the tremors were seismic or something else entirely had never been explained to her satisfaction. But his arm was not what he wanted to talk about. His arm was secondary to the question he kept asking, the question that had become a kind of fever in him, more urgent than any physical pain: his daughter, his daughter, had anyone heard from his daughter, she had been downtown when it started, she had been in one of the buildings that might have fallen or might have held.
 
 Elena had set his arm. She had done a good job, clean reduction, appropriate splinting. She had told him someone would help him find information about his daughter, and then she had moved on to the next patient because there were always next patients, and she had never seen him again. She did not know his name. She did not know his daughter's name. She did not know if his daughter was alive or dead, and now she would never know, and this not-knowing had lodged in her like a splinter, small but impossible to ignore.
 
@@ -34,7 +34,7 @@ They sat with that for a while. On the television, the news had changed to somet
 
 The evening had arrived without anyone noticing. Through the window, the parking lot lights had come on, creating pools of yellow in the darkness. Someone would need to lock the doors. Someone would need to make decisions about tomorrow. But not yet. Not in this moment. In this moment there was only sitting, only the accumulated weight of a day that would not resolve, a crisis that had ended without ending anything.
 
-Elena sat. She breathed. She waited for something that had already passed to feel like it had passed. Outside, the city continued its silent convalescence, and somewhere her children slept, and somewhere patients waited, and she sat very still and let the time move around her like water around a stone.
+Elena sat. She breathed. She waited for something that had already passed to feel like it had passed, for the ending to catch up with the event it was meant to conclude. Outside, the city continued its silent convalescence, and somewhere her children slept in unfamiliar beds, and somewhere patients waited for care she was not giving them, and she sat very still and let the time move around her like water around a stone, eroding nothing, changing nothing, simply passing.
 
 
 ---

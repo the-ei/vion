@@ -1,12 +1,12 @@
 The waiting room held thirty-seven people by seven-fifteen, and Elena knew they would see fifty before noon. The chairs were orange plastic, bolted to the floor in rows, the institutional aesthetic of places designed to process rather than comfort. A television mounted high on the wall played the news with the sound off, captions scrolling beneath images of politicians and economists speaking from podiums, the world of policy that seemed disconnected from the bodies filling these seats.
 
-Elena reviewed the patient queue on her tablet: diabetes management, chronic pain evaluation, prenatal checkup, medication refill, medication refill, medication refill, possible fracture, anxiety/depression screening, pediatric well-visit. The shorthand told her nothing and everything. Each line was a person who had found their way here because they had nowhere else to go, or because this was the only place they could afford, or because the other places had turned them away. The community health center served everyone regardless of ability to pay, which meant it served everyone the system had failed.
+Elena reviewed the patient queue on her tablet: diabetes management, chronic pain evaluation, prenatal checkup, medication refill, medication refill, medication refill, possible fracture, anxiety/depression screening, pediatric well-visit. The shorthand told her nothing and everything. Each line was a person who had found their way here because they had nowhere else to go, or because this was the only place they could afford, or because the other places had turned them away. The community health center served everyone regardless of ability to pay, which meant it served everyone the system had failed, the population that didn't exist in health policy debates except as statistics, as burden, as externality.
 
 Her first patient was Mrs. Delgado, sixty-eight, diabetic for two decades, managing well until last spring when her Medicare supplemental coverage changed and her insulin copay tripled. Elena had seen this story a dozen times since the crisis: insurance restructuring that looked like fine print but landed like a death sentence.
 
 "The pharmacist says I can do every other day," Mrs. Delgado said, sitting on the exam table with the particular stillness of people who had learned not to take up space. "To make it last."
 
-"That's not safe," Elena said. "Every other day could put you in the emergency room."
+"That's not safe," Elena said, keeping her voice steady even as something inside her wanted to scream about a system where this conversation was necessary. "Every other day could put you in the emergency room."
 
 
 ---
@@ -17,7 +17,7 @@ Elena pulled up the patient assistance programs on her tablet, the list she had 
 
 "Thank you," Mrs. Delgado said when Elena handed her the paperwork. "You're a good person."
 
-Elena didn't feel like a good person. She felt like someone performing triage in a system designed to produce casualties.
+Elena didn't feel like a good person. She felt like someone performing triage in a system designed to produce casualties, a system that generated the very patients it then grudgingly, inadequately served.
 
 Ray Torres was next, a construction worker in his forties who had been favoring his left arm for three weeks. Elena could see the pain in how he held himself, the careful way he moved to avoid jarring the limb.
 
@@ -31,12 +31,12 @@ The X-ray showed a hairline fracture in the radius. Not displaced, which was luc
 
 "Six weeks minimum. You need to rest it."
 
-"I need to work. The job doesn't wait."
+"I need to work. The job doesn't wait." His voice carried the finality of a man who had already done the math and found that his body was worth less than his labor.
 
 
 ---
 
-Elena fitted him with a rigid brace instead of a cast, showed him how to work around it, knowing he would push through anyway, knowing the fracture might worsen or might heal crooked, knowing she couldn't solve the economic calculus that made rest impossible. She documented everything carefully - the diagnosis, the recommendations, the patient's informed decision to continue working against medical advice. The documentation protected the clinic. It did not protect Ray.
+Elena fitted him with a rigid brace instead of a cast, showed him how to work around it, knowing he would push through anyway, knowing the fracture might worsen or might heal crooked, knowing she couldn't solve the economic calculus that made rest impossible. She documented everything carefully - the diagnosis, the recommendations, the patient's informed decision to continue working against medical advice. The documentation protected the clinic. It did not protect Ray. It existed so that when Ray's arm healed wrong, when he lost function, when he couldn't work anymore, there would be a record showing he had been warned.
 
 By ten o'clock, Elena had seen eleven patients. Jaylen Mitchell was number twelve, a sixteen-year-old whose mother had brought him in because he couldn't stop crying and couldn't explain why.
 
@@ -54,14 +54,14 @@ He raised his eyes. They were red-rimmed, exhausted, older than sixteen.
 
 "How long have you felt this way?"
 
-"Since last year. Since all the stuff on the news."
+"Since last year. Since all the stuff on the news." He paused, and Elena saw him deciding whether to trust her. "Since I realized that none of the adults actually know what they're doing. That the people in charge are just - making it up. Like we are."
 
 
 ---
 
-Elena understood. The crisis that Ruth had testified about, that the experts had analyzed, that the news had packaged and moved on from - it had landed in this boy's nervous system as perpetual alarm. He was sixteen and he had watched adults reveal that the systems were broken and then watched those same adults continue as if nothing had happened. His body had drawn the logical conclusion: the danger was real and ongoing, even if everyone pretended otherwise.
+Elena understood. The crisis that Ruth had testified about, that the experts had analyzed, that the news had packaged and moved on from - it had landed in this boy's nervous system as perpetual alarm, had written itself into his cortisol levels and his sleep patterns and his capacity to imagine a future. He was sixteen and he had watched adults reveal that the systems were broken and then watched those same adults continue as if nothing had happened. His body had drawn the logical conclusion: the danger was real and ongoing, even if everyone pretended otherwise.
 
-"What you're experiencing has a name," Elena said. "It's anxiety, and it's treatable. But I want you to know something first: you're not crazy. Your mind is responding to real things. The world is scary right now. You're not wrong to feel that."
+"What you're experiencing has a name," Elena said. "It's anxiety, and it's treatable. But I want you to know something first: you're not crazy. Your mind is responding to real things. The world is scary right now. You're not wrong to feel that. You're not broken. You're just paying attention."
 
 Jaylen looked at her with something like relief - the recognition that came when someone named what you couldn't.
 
@@ -76,7 +76,7 @@ Jaylen and his mother left. The next patient arrived.
 
 ---
 
-The electronic health record system required fifteen minutes of documentation for every ten minutes of patient care. Elena typed while the next patient talked, a skill she had developed out of necessity - maintaining eye contact while her fingers moved across the keyboard, entering the codes that would allow billing, that would satisfy insurers, that would create the paper trail no one would ever read unless something went wrong. The system demanded its documentation. The system was insatiable.
+The electronic health record system required fifteen minutes of documentation for every ten minutes of patient care. Elena typed while the next patient talked, a skill she had developed out of necessity - maintaining eye contact while her fingers moved across the keyboard, entering the codes that would allow billing, that would satisfy insurers, that would create the paper trail no one would ever read unless something went wrong. The system demanded its documentation. The system was insatiable, a bureaucratic hunger that consumed hours that could have been spent healing.
 
 At eleven-thirty, she found Dr. Osei in the supply closet, counting gauze pads.
 
@@ -90,7 +90,7 @@ Amara Osei had come to Phoenix from Accra via Johns Hopkins, a journey Elena onl
 
 "I had a sixteen-year-old," Elena said. "Generalized anxiety. Since the crisis. He's not alone - I'm seeing more of them."
 
-"The young ones feel everything," Amara said. "They haven't learned yet to not feel it." She finished her count and turned to face Elena. "You're not sleeping again."
+"The young ones feel everything," Amara said. "They haven't learned yet to not feel it. That comes later. That's what we call adaptation." She finished her count and turned to face Elena. "You're not sleeping again."
 
 "I'm fine."
 

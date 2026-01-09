@@ -1,8 +1,8 @@
-By eight o'clock, Jerome had filled three pages of the legal pad. He wrote in the handwriting he had almost forgotten he possessed, the cursive script his mother had insisted he learn forty years ago, before keyboards made handwriting obsolete. He wrote what the radio said: outages reported. systems affected. the following areas. stay tuned for updates. He wrote what the radio didn't say: anything about cause, scope, duration, or meaning.
+By eight o'clock, Jerome had filled three pages of the legal pad. He wrote in the handwriting he had almost forgotten he possessed, the cursive script his mother had insisted he learn forty years ago, before keyboards made handwriting seem like an affectation of the elderly. He wrote what the radio said: outages reported. systems affected. the following areas. stay tuned for updates. He wrote what the radio didn't say: anything about cause, scope, duration, or meaning.
 
 He sat at the kitchen table, the pad in front of him, and felt the specific frustration of an expert rendered helpless. He had spent three years investigating digital infrastructure, interviewing engineers and executives and regulators, building a mental model of the systems that connected everything. He had written about fragility, about single points of failure, about the hidden dependencies that made modern life possible and vulnerable. He had known this could happen. He had known.
 
-And knowing meant nothing.
+And knowing meant nothing. Had meant nothing. Would mean nothing.
 
 He could not verify. He could not triangulate between sources. He could not call a former NSA analyst and ask what the signals intelligence suggested. He could not email a professor at MIT for technical context. He could not check what foreign news services were reporting. He could not do any of the things that transformed raw information into journalism.
 

@@ -1,6 +1,6 @@
 # ~~~
 
-The light in Los Angeles is different from anywhere else. Delphine Okafor-Barnes has been working with it for fifteen years, and she still feels it as a kind of gift: the way it falls through the clinic windows at seven in the morning, warming the institutional walls, turning the waiting room into something that could almost be beautiful. She watches the cinematographer, Rogelio, adjust the diffusion on the key light, softening the shadows on their subject's face. Everything is choices. The angle, the warmth, the texture. The grammar of images that she has learned to speak fluently.
+The light in Los Angeles is different from anywhere else. Delphine Okafor-Barnes has been working with it for fifteen years, and she still feels it as a kind of gift: the way it falls through the clinic windows at seven in the morning, warming the institutional walls, turning the waiting room into something that could almost be beautiful. She watches the cinematographer, Rogelio, adjust the diffusion on the key light, softening the shadows on their subject's face. Everything here is choice. The angle, the warmth, the texture. The grammar of images that she has learned to speak fluently.
 
 "Let's go warmer," she says. "Two hundred kelvin."
 
@@ -13,7 +13,7 @@ HealthBridge. The name came from marketing, not medicine. Delphine knows this be
 
 ---
 
-Between setups, Delphine checks her phone. Jessie has texted a photo of Theo eating breakfast, cereal spilled on the table, his grin enormous. The image is a puncture in the day, a reminder that somewhere beyond this clinic there is a life she lives, a family she belongs to. She types back a heart emoji, then pockets the phone. Work mode. She cannot afford to be anywhere but here.
+Between setups, Delphine checks her phone. Jessie has texted a photo of Theo eating breakfast, cereal spilled on the table, his grin enormous. The image punctures the day, reminding her that somewhere beyond this clinic there is a life she lives, a family she belongs to. She types back a heart emoji, then pockets the phone. Work mode. She cannot afford to be anywhere but here.
 
 The morning unfolds in the rhythms of production. They shoot B-roll of the clinic: the reception desk, the exam rooms, the nurses moving through their rounds with the particular efficiency of people who have too much to do. Delphine positions her crew to capture the details that tell the story without telling it - the insulin pens lined up on a shelf, the blood pressure cuff hanging on its hook, the hands of a doctor writing notes in a chart. These images will be cut together later, layered under a narrator's voice, assembled into something that feels true even if it is not precisely accurate.
 
@@ -26,7 +26,7 @@ Lunch is catered sandwiches eaten standing in the parking lot, the crew scattere
 
 Maya, her producer, appears at her elbow. "We're running fifteen minutes behind. The afternoon location is confirmed but they're asking about parking for the equipment truck."
 
-"Handle it," Delphine says. Maya nods and disappears. This is what producers do: make problems vanish so directors can direct. Delphine appreciates Maya without quite feeling grateful; gratitude requires a kind of presence she cannot access when she is in production mode.
+"Handle it," Delphine says. Maya nods and disappears. This is what producers do: make problems vanish so directors can direct. Delphine appreciates Maya without quite feeling grateful; gratitude requires a kind of presence she cannot summon in production mode.
 
 The afternoon location is Elena Rodriguez's apartment, a small unit in a building near Echo Park. The production will film her there, in her own space, showing the life that HealthBridge has helped her maintain. The insulin she can now afford. The glucose monitor that connects to her phone. The small freedoms of managed illness, made possible by the technology and access the initiative provides.
 
@@ -35,7 +35,7 @@ It is a good story. This is what makes it complicated. The story is true - Elena
 
 ---
 
-Elena Rodriguez's apartment is small and immaculate. Delphine can see immediately that Elena has cleaned for the cameras, arranged things just so, the particular anxiety of being watched visible in every careful placement. A photograph of grandchildren on the dresser, positioned to be seen. A vase of flowers that were probably not there yesterday. The effort of presentation, the labor of being documented.
+Elena Rodriguez's apartment is small and immaculate. Delphine can see immediately that Elena has cleaned for the cameras, arranged things just so, the particular anxiety of being watched visible in every careful placement. A photograph of grandchildren on the dresser, positioned to be seen. A vase of flowers that were probably not there yesterday. The effort of presentation, the labor of being rendered.
 
 "You don't have to move anything," Delphine tells her. "Your home is beautiful as it is."
 
@@ -56,7 +56,7 @@ Delphine listens. This is her job, or part of it - to listen with the particular
 
 Delphine feels the moment land in her body. This is the shot - she knows it instantly, the way she always knows when something true has been captured. Elena's face, open and unguarded, the afternoon light falling across her features. The machine cares about me. It will be the emotional peak of the video, the moment that makes viewers feel something, the image that drives engagement.
 
-And Delphine also feels something else: the instinct to use this moment, to shape it, to frame it for maximum impact. She recognizes the instinct as predatory. The woman in front of her has offered something genuine, and Delphine's trained response is to calculate its value.
+And Delphine also feels something else: the instinct to use this moment, to shape it, to frame it for maximum impact. She recognizes the instinct as extractive. The woman in front of her has offered something genuine, and Delphine's trained response is to calculate its value.
 
 "Thank you," Delphine says. "That was beautiful. Can we do one more pass?"
 
@@ -86,7 +86,7 @@ The drive back to the production office takes forty-five minutes through Los Ang
 
 "The machine cares about me," Maya quotes. "That's going to kill."
 
-Kill. The industry term for content that performs well, that captures attention, that does violence to indifference. Delphine knows the word, uses it herself, and today it catches in her throat like something swallowed wrong. Elena Rodriguez offered her trust, her story, her face for the cameras. And what will happen to that offering? It will be edited, distributed, measured, monetized. It will kill.
+Kill. The industry term for content that performs, that captures attention, that does violence to indifference. Delphine knows the word, uses it herself, and today it catches in her throat like something swallowed wrong. Elena Rodriguez offered her trust, her story, her face for the cameras. And what will happen to that offering? It will be edited, distributed, measured, monetized. It will kill.
 
 At the office, Delphine says goodbye to the crew, thanks them for their work, watches them disperse into their separate evenings. Then she sits alone in her car in the parking garage, not yet ready to go home, not yet able to explain why. The footage is good. The day was successful. She has done her job exactly as well as she knows how to do it.
 
@@ -102,7 +102,7 @@ But what, Delphine wonders, does the machine want in return?
 
 # ~~~
 
-Theo hits her at knee level, arms wrapped around her legs, face buried in her thigh. "Mommy's home!" he shouts, as if announcing her arrival to an audience, and Delphine drops her bag and kneels to receive him properly, to hold the small body that is still small enough to hold completely, to breathe in the particular smell of four-year-old boy: soap and sweat and something sweet she cannot name.
+Theo hits her at knee level, arms wrapped around her legs, face buried in her thigh. "Mommy's home!" he shouts, as if announcing her arrival to an audience, and Delphine drops her bag and kneels to receive him properly, to hold the small body that is still small enough to hold completely, to breathe in the particular smell of four-year-old: soap and sweat and something sweet she cannot name.
 
 "I missed you," she says into his hair.
 
