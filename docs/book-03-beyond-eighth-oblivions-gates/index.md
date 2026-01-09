@@ -1046,7 +1046,7 @@ Maybe that would have to be enough.
 
 # ~~~
 
-The Berkeley Law building caught the Monday morning light in a way that made Ruth think of aquariums - all that glass, all that transparency designed to suggest openness while actually containing and directing the movement of bodies through carefully planned spaces. She had been teaching here for three years now, since her retirement from the federal bench, and she still felt like a visitor. The building was too new, too deliberately symbolic, too different from the wood-paneled chambers where she had spent forty years learning what law actually was.
+The Berkeley Law building caught the Monday morning light in a way that made Ruth think of aquariums - all that glass, all that transparency designed to suggest openness while actually containing and directing the movement of bodies through carefully planned spaces, channeling them toward the destinations the architects had determined were appropriate. She had been teaching here for three years now, since her retirement from the federal bench, and she still felt like a visitor. The building was too new, too deliberately symbolic, too different from the wood-paneled chambers where she had spent forty years learning what law actually was.
 
 The seminar room was on the fourth floor, a space designed for intimate discussion - an oval table that could seat fourteen, windows that looked out over the campus, the accumulated technology of modern education embedded in surfaces that appeared, at first glance, to be ordinary. Twelve students were waiting for her when she arrived at ten, their tablets open, their faces turned toward her with expressions she had learned to categorize: ambition, calculation, occasionally something that might be genuine curiosity.
 
@@ -1082,7 +1082,7 @@ The room had gone quiet in a different way now. Not the silence of students wait
 
 "I'm telling you this," Ruth said, "because I want you to understand what you're preparing for. You're learning to be lawyers. You're learning to argue within systems, to use the tools the law provides, to navigate structures that have been built over centuries. That knowledge is valuable. But it has limits."
 
-She thought of Susan, who would have known how to say this better. Susan, who had spent thirty years teaching social work and had understood the gap between what institutions promised and what they delivered. Susan, who had died six years ago and left Ruth to navigate this territory alone.
+She thought of Susan, who would have known how to say this better. Susan, who had spent thirty years teaching social work and had understood, in her bones and in her practice, the gap between what institutions promised and what they delivered. Susan, who had died six years ago and left Ruth to navigate this territory alone, without the voice that had always helped her distinguish principle from self-deception.
 
 "The legal responses to the Eighth Oblivion were well-crafted, well-intentioned, and largely ineffective. Not because the lawyers who designed them were stupid or corrupt, but because the systems they were trying to regulate were more adaptive than the regulations. Because power doesn't wait for due process. Because by the time you've established a legal principle, the practice it was meant to govern has already evolved past it."
 
@@ -1238,7 +1238,7 @@ Ruth felt something shift in her - the professional restraint she maintained in 
 
 The room had gotten very quiet again. Ruth realized she had said more than she intended, had let the mask slip further than was professionally advisable. But something in her didn't care anymore.
 
-"I spent forty years believing in institutions," she continued. "In the law's capacity to evolve, to meet new challenges, to hold power accountable. I still believe in that capacity. But I no longer believe it's automatic, or that the forms of accountability we've developed are adequate to what we face. The frameworks I helped design were the best I could do within the system I understood. They weren't enough. The question going forward is whether we can do better, or whether we're content to accept the insufficiency as permanent."
+"I spent forty years believing in institutions," she continued. "In the law's capacity to evolve, to meet new challenges, to hold power accountable. That belief was not naive - it was earned, case by case, through decades of work that accomplished real things. But I no longer believe the capacity is automatic, or that the forms of accountability we've developed are adequate to what we face. The frameworks I helped design were the best I could do within the system I understood. They weren't enough. The question going forward is whether we can do better, or whether we're content to accept the insufficiency as permanent."
 
 She saw a mix of reactions in the audience - discomfort from the executives, interest from the journalists, something like gratitude from the students. She had said something real. Whether that was wise remained to be seen.
 
@@ -1380,7 +1380,7 @@ Benjamin smiled slightly, acknowledging the game. "My people. The company. We sp
 
 "I'm still teaching. Just to different students."
 
-They ordered dinner - fish for her, steak for him, the choreography of upscale dining that somehow made serious conversation feel both easier and more dangerous. Ruth watched Benjamin as he navigated the menu, noting the small tells of his current life: the watch that cost more than a year of her clerk salary, the tailoring of his jacket, the way he spoke to the server with the casual authority of someone who expected service as a matter of course.
+They ordered dinner - fish for her, steak for him, the choreography of upscale dining that somehow made serious conversation feel both easier and more dangerous. Ruth watched Benjamin as he navigated the menu, noting the small tells of his current life: the watch that cost more than a year of her clerk salary, the tailoring of his jacket that sat on his shoulders like a second skin, the way he spoke to the server with the casual authority of someone who expected service as a matter of course and had long ago stopped noticing the expectation.
 
 "You've done well," she said.
 
@@ -1548,7 +1548,7 @@ The Oakland apartment was small - a studio with a sleeping alcove, a galley kitc
 
 He rolled out of bed and onto the yoga mat that stayed permanently on the floor. Twenty minutes of stretches, then twenty minutes of meditation - practices he had picked up in Berlin during the wandering years, when he had needed something to anchor him after everything else had come loose. The stretches were easier now than they had been at first, his body having adapted to the routine the way bodies did when you gave them consistency.
 
-The meditation was still hard. His mind still wanted to plan, to optimize, to run scenarios about what needed to happen next. But he had learned to notice that wanting without following it, to let the thoughts arise and pass without grabbing onto them. It wasn't peace, exactly - it was more like truce. A negotiated settlement between who he had been and who he was trying to become.
+The meditation was still hard. His mind still wanted to plan, to optimize, to run scenarios about what needed to happen next, as if some part of him had never left the startup environment where every moment was an opportunity cost. But he had learned to notice that wanting without following it, to let the thoughts arise and pass without grabbing onto them. It wasn't peace, exactly - it was more like truce. A negotiated settlement between who he had been and who he was trying to become.
 
 At six, he made breakfast. Eggs scrambled with vegetables, toast with avocado, coffee from the small pour-over setup he had become unreasonably attached to. The ritual of cooking grounded him in his body in ways that the digital work of the rest of his day couldn't.
 
@@ -1686,7 +1686,7 @@ Kevin walked and observed and tried not to think too much about what he was obse
 
 Chinatown appeared around him with its particular density - the grocery stores with their bins of produce spilling onto the sidewalk, the restaurants sending smells of cooking oil and ginger into the street, the pharmacies with their mysterious packages of herbs and remedies his grandmother would have known how to use. Kevin moved through it like a ghost of a different life, someone who looked like he belonged but didn't, not really.
 
-His parents had grown up in a neighborhood like this, in Shenzhen before it became a tech hub, before his father got the job that brought them to California, before Kevin became American in all the ways that mattered and Chinese in all the ways that didn't. He knew enough Cantonese to be polite, not enough to have a real conversation. He knew the broad strokes of the history, not the details that would make it feel like his own.
+His parents had grown up in a neighborhood like this, in Shenzhen before it became a tech hub, before his father got the engineering job that brought them to California and set Kevin on the path that led here. Before Kevin became American in all the ways that mattered and Chinese in all the ways that didn't. He knew enough Cantonese to be polite, not enough to have a real conversation. He knew the broad strokes of the history, not the details that would make it feel like his own.
 
 It was another form of distance, this cultural gap. Another way that leaving had costs he hadn't fully understood when he left.
 
@@ -1845,7 +1845,7 @@ Kevin had told the story before, in fragments, but never the whole thing. Someth
 
 Kevin paused, remembering. The excitement of that period, the conviction that they had made it, the celebration at the office when the deal closed. How young he had been. How certain.
 
-"For about eighteen months, they kept their promises. We built features, grew the user base, did what we had always done. Then the requirements started changing. Small things at first - new reporting formats, different privacy policies, integrations with their other products. Each individual change was reasonable. But the changes accumulated."
+"For about eighteen months, they kept their promises. We built features, grew the user base, did what we had always done but with better infrastructure and more resources. Then the requirements started changing. Small things at first - new reporting formats, different privacy policies, integrations with their other products that seemed like partnership opportunities. Each individual change was reasonable. But the changes accumulated."
 
 "Into what?"
 
@@ -1986,7 +1986,7 @@ He closed his eyes and let sleep come, carrying the day's questions into whateve
 
 Tomorrow would be different. Tomorrow Yusuf would be here.
 
-And the threads that had been running parallel through these chapters would begin, slowly, to weave themselves together.
+Tomorrow would bring new threads to follow, new questions to carry, new attempts to do whatever small good remained possible in a world that kept finding ways to absorb good intentions into larger designs.
 
 
 ---
@@ -2037,7 +2037,7 @@ She played her own documentary work through the car's speakers, listening with t
 
 "They think we left because it got hot. Because the rain stopped. Like it was weather, you know? Like weather happens and you deal with it."
 
-Listening now, Delphine heard something she hadn't heard before. Not just the anger in Maria's voice, but something underneath it - an exhaustion with explanations that never reached the people who could change things. How many times had Maria told this story? How many documentaries, how many journalists, how many well-meaning people with cameras had come to record her suffering and then disappeared?
+Listening now, Delphine heard something she hadn't heard before. Not just the anger in Maria's voice, but something underneath it - an exhaustion with explanations that never reached the people who could change things, a weariness that had calcified into patience. How many times had Maria told this story? How many documentaries, how many journalists, how many well-meaning people with cameras had come to record her suffering and then disappeared back to their comfortable lives?
 
 Was Delphine any different? She wanted to believe she was - that her work had more integrity, more commitment, more willingness to tell the systemic story rather than just the personal one. But the result was the same: images that moved people temporarily, maybe, and then faded into the endless stream of content competing for attention.
 
@@ -2205,7 +2205,7 @@ They moved to the kitchen, where Ananya assembled a simple meal from what she ha
 
 Delphine thought about the frameworks Ruth Abramson had helped design - the legal structures that were supposed to constrain exactly this kind of outcome. "The regulatory response was supposed to prevent this."
 
-"The regulatory response was captured before it was implemented. Not obviously - no one was bribed or blackmailed in obvious ways. But the people designing the frameworks consulted with the companies they were meant to regulate. The companies helped write the technical standards. By the time anything became law, it was already obsolete - designed to constrain systems that had already evolved past the constraints."
+"The regulatory response was captured before it was implemented. Not obviously - no one was bribed or blackmailed in obvious ways. Nothing so crude as that. But the people designing the frameworks consulted with the companies they were meant to regulate. The companies helped write the technical standards, provided the expertise the regulators lacked. By the time anything became law, it was already obsolete - designed to constrain systems that had already evolved past the constraints."
 
 
 ---
@@ -2326,7 +2326,7 @@ Ananya nodded without disappointment. "There's a Thai place that delivers. Or I 
 
 They ordered Thai. While they waited, Ananya showed Delphine around the rest of the house - the small bedroom converted to an office, the bathroom with its water-efficient fixtures, the back porch with its view of the desert darkness. Ordinary domestic spaces rendered strange by what had been discussed in them.
 
-The food arrived - pad thai and green curry, spring rolls and sticky rice. They ate at the kitchen table, conversation drifting to neutral topics: Ananya's adjustment to retirement that wasn't really retirement, Delphine's life in Seattle, the way time moved differently in the desert. Surface talk, but not evasion. Just the necessary break that allowed the mind to process unconsciously what it couldn't yet handle directly.
+The food arrived - pad thai and green curry, spring rolls and sticky rice. They ate at the kitchen table, conversation drifting to neutral topics: Ananya's adjustment to retirement that wasn't really retirement, Delphine's life in Los Angeles, the way time moved differently in the desert. Surface talk, but not evasion. Just the necessary break that allowed the mind to process unconsciously what it couldn't yet handle directly.
 
 After dinner, Delphine helped clear the dishes. Standing at the sink, hands in soapy water, she felt the strange doubling that came when physical routine met psychological upheaval. Here she was, washing plates, while somewhere in her mind the architecture of the world was being rebuilt.
 
@@ -2362,7 +2362,7 @@ Delphine looked up at the stars. The Milky Way stretched across the sky, a river
 
 They sat in silence for a long time. The night sounds grew louder as their ears adjusted - insect chirps, the rustle of wind through desert plants, the occasional cry of a night bird. Time passed differently here than in cities, Delphine thought. The darkness had texture. The silence had depth.
 
-She thought about her life in Seattle. The comfortable routine she had built. The documentary work that had become smaller, safer, less likely to threaten anyone with power. She had told herself it was recovery. Rest after the Prometheus intensity. But sitting here, under these stars, with this woman who had spent a year preparing for this conversation, she could see it more clearly. It had been retreat. Not healing but hiding.
+She thought about her life in Los Angeles. The comfortable routine she had built. The documentary work that had become smaller, safer, less likely to threaten anyone with power. She had told herself it was recovery. Rest after the Prometheus intensity. But sitting here, under these stars, with this woman who had spent a year preparing for this conversation, she could see it more clearly. It had been retreat. Not healing but hiding.
 
 "I'm forty-one years old," she said finally. "Statistically, I'm maybe halfway through my life. What do I want to spend the second half doing? Making content that gets praised and forgotten? Or making something that matters even if it costs everything?"
 
@@ -4247,7 +4247,7 @@ Priya was quiet for a long time. Outside, a siren wailed past, fading into the n
 
 "The prompt doesn't say it has to be positive. It just says to write about someone who influenced my values."
 
-Ananya looked at her daughter, this person she had made and raised and was now losing to adulthood. Priya had always been perceptive. But this was something else, something harder: the willingness to sit with uncomfortable truths rather than looking away.
+Ananya looked at her daughter, this person she had made and raised and was now losing to the necessary process of becoming separate. Priya had always been perceptive. But this was something else, something harder and more admirable: the willingness to sit with uncomfortable truths rather than looking away from them.
 
 "If you write that, admissions committees might not know what to do with it."
 
@@ -4278,7 +4278,7 @@ Ananya thought of the files on her laptop, the archived evidence of a decade's w
 
 # ~~~
 
-The paper gown was the same blue as the ones she distributed to her own patients, the same thin fabric that offered dignity in theory but not in practice. Elena sat on the examination table, her bare legs dangling, and studied the room as if seeing it for the first time. The blood pressure cuff mounted on the wall. The jar of cotton balls. The biohazard disposal bin she had replaced hundreds of times. All of it familiar, all of it suddenly foreign.
+The paper gown was the same pale blue as the ones she distributed to her own patients, the same thin fabric that offered dignity in theory but never in practice. Elena sat on the examination table, her bare legs dangling, and studied the room as if seeing it for the first time. The blood pressure cuff mounted on the wall. The jar of cotton balls. The biohazard disposal bin she had replaced hundreds of times. All of it familiar, all of it suddenly foreign.
 
 Dr. Reyes knocked twice and entered. She was a few years older than Elena, hair graying at the temples, the kind of physician who looked at you when she spoke instead of at her tablet. They had worked together for three years before Dr. Reyes moved to the private practice down the street. Now she was Elena's doctor because Elena could not be examined by someone who reported to her.
 
@@ -4292,12 +4292,12 @@ Not cancer. The word Elena had been carrying for two weeks, since the blood draw
 
 "Autoimmune," Elena said. Her voice sounded clinical, detached. As if she were discussing someone else's results.
 
-"Yes. Your immune system is attacking your thyroid."
+"Yes. Your own immune system is attacking your thyroid."
 
 
 ---
 
-Dr. Reyes continued explaining - medication, monitoring, the long-term management required - but Elena's mind was already turning the information over, examining it with the clinical eye she had developed across a decade of nursing. Autoimmune thyroiditis. Chronic, not acute. Manageable, not terminal. But the word that stayed with her was attacking. Her body at war with itself.
+Dr. Reyes continued explaining - medication, monitoring, the long-term management required - but Elena's mind was already turning the information over, examining it with the clinical eye she had developed across a decade of nursing. Autoimmune thyroiditis. Chronic, not acute. Manageable, not terminal. But the word that lodged in her mind was attacking. Her body at war with itself, an insurgency she had not known was brewing.
 
 "Elena?" Dr. Reyes leaned forward. "Are you with me?"
 
@@ -4311,7 +4311,7 @@ Dr. Reyes continued explaining - medication, monitoring, the long-term managemen
 
 Elena almost laughed. The past few years. The pandemic that broke something in her. The caregiving that became her identity, then her prison. The medication for anxiety that she had started and never stopped. The sleep she had sacrificed because someone always needed something.
 
-"Stressful," she said.
+"Stressful," she said. The word seemed laughably inadequate.
 
 "I'm going to refer you to an endocrinologist. In the meantime, I want you to take two weeks off work."
 
@@ -4334,12 +4334,12 @@ It was the question patients always asked, the one she answered carefully, with 
 
 After the appointment, Elena walked to her car. The Phoenix afternoon was bright and hot, February warmth that Midwesterners would have found impossible, but she had lived here long enough to appreciate the winter sun. She unlocked the Honda, sat in the driver's seat, and did not start the engine.
 
-Her body was attacking itself. The metaphor felt too obvious, too poetic, and yet she couldn't escape it. Years of neglecting herself, of pushing through, of caring for everyone else, and now her immune system had turned inward, found the enemy within.
+Her body was attacking itself. The metaphor felt too obvious, too convenient in its symbolism, and yet she couldn't escape it. Years of neglecting herself, of pushing through exhaustion and pain and warning signs, of caring for everyone else while leaving nothing for herself, and now her immune system had turned inward, found the enemy within.
 
 
 ---
 
-She drove home through traffic that seemed designed to test her. Every red light an obstacle, every slow driver a conspiracy. She caught herself gripping the steering wheel so tightly her knuckles whitened and made herself loosen her fingers. Stress is inflammatory, Dr. Reyes had said. This moment, right now, her body flooding with cortisol because someone cut her off on the highway - this was part of it. This was the accumulation that had brought her here.
+She drove home through traffic that seemed designed to test her. Every red light an obstacle, every slow driver a personal affront designed to test her. She caught herself gripping the steering wheel so tightly her knuckles whitened and made herself loosen her fingers. Stress is inflammatory, Dr. Reyes had said. This moment, right now, her body flooding with cortisol because someone cut her off on the highway - this was part of it. This was the accumulation that had brought her here.
 
 The house was quiet when she arrived. Abuela had taken Sofia and Mateo to the park. A blessing or a curse, Elena couldn't decide. She needed the solitude to process, and she was terrified of what processing might reveal.
 
@@ -4354,7 +4354,7 @@ She thought of all the meals she had skipped because someone needed something. T
 
 The anxiety medication she had started six years ago and never stopped because stopping felt like failure, like admitting she couldn't handle what life required.
 
-The pills were in the cabinet. She took one now, swallowed it dry, felt the familiar calm settling in. Or was it calm? Maybe it was just numbness. Maybe she had been numb for so long she had forgotten what actual feeling was.
+The pills were in the cabinet above the sink. She took one now, swallowed it dry, felt the familiar calm settling over her thoughts like a blanket dropped on fire. Or was it calm? Maybe it was just numbness. Maybe she had been numb for so long she had forgotten what actual feeling was.
 
 Her phone buzzed. Daniel: *Abuela says you're home early. Everything ok?*
 
@@ -4364,7 +4364,7 @@ The three dots appeared immediately. Then: *Leaving now. Be there in 3 hours.*
 
 He was in Tucson, working a commercial build. Three hours was too long and also not long enough. She wasn't ready to explain this to him. Wasn't ready to see the fear in his eyes, the guilt she knew he carried about being away so much.
 
-She put the phone down and looked at her hands. The same hands that had started IVs, dressed wounds, held dying patients' fingers as they slipped away. Strong hands. Capable hands. Now these hands belonged to someone whose body was failing, quietly, invisibly, from the inside out.
+She put the phone down and looked at her hands. The same hands that had started thousands of IVs, dressed wounds that would have made most people faint, held dying patients' fingers as they slipped from this world into whatever came next. Strong hands. Capable hands. Now these hands belonged to someone whose body was failing, quietly, invisibly, from the inside out.
 
 For the first time in years, she had nowhere to direct her care but inward. The unfamiliarity of it was almost worse than the diagnosis.
 
@@ -4375,7 +4375,7 @@ She heard the front door open. Sofia's voice calling out, Mateo's feet pounding 
 
 "Mama! Mama, we saw a dog with three legs!"
 
-Mateo launched himself into her arms. Six years old and still small enough to lift, though lifting sent a twinge through her back. She held him, inhaled the boy-sweat smell of him, and felt tears prick at her eyes.
+Mateo launched himself into her arms. Six years old and still small enough to lift, though lifting sent a familiar twinge through her lower back, another complaint from a body she had ignored for too long. She held him, inhaled the boy-sweat smell of him, and felt tears prick at her eyes.
 
 "That's amazing, mijo. Was he happy?"
 
@@ -4407,7 +4407,7 @@ The ordinary rituals of evening began: snacks, homework, the television's distan
 
 # ~~~
 
-Daniel's truck pulled into the driveway at six forty-five, dust-coated from the construction site, the engine ticking as it cooled. Elena watched from the kitchen window as he climbed out, still in his work clothes, jeans and a flannel shirt that had seen too many washes. He moved with the careful deliberation of a man who had been driving for three hours, his body stiff, his face set with worry.
+Daniel's truck pulled into the driveway at six forty-five, the white paint dust-coated from the construction site, the engine ticking as it cooled in the evening air. Elena watched from the kitchen window as he climbed out, still in his work clothes, jeans and a flannel shirt that had seen too many washes. He moved with the careful deliberation of a man who had been driving for three hours, his body stiff, his face set with worry.
 
 She met him at the door. They stood looking at each other across the threshold, two people who had been married for eleven years and lately felt like strangers sharing a house.
 
@@ -4423,14 +4423,14 @@ He stepped inside and she was in his arms, pressing her face into his chest, inh
 
 "Okay." He pulled back, looked at her face. "Tell me."
 
-She led him to their bedroom, closed the door. The intimacy of the space felt almost foreign - when was the last time they had been in this room together for anything other than sleep? Their conversations happened in the kitchen, in the car, in the moments stolen between other obligations.
+She led him to their bedroom, closed the door. The intimacy of the space felt almost foreign - when was the last time they had been in this room together for anything other than sleep? Their conversations happened in the kitchen, in the car, in the moments stolen between other obligations, never here where intimacy once lived.
 
 "Autoimmune thyroiditis," she said. "Hashimoto's. My immune system is attacking my thyroid."
 
 
 ---
 
-Daniel sat on the edge of the bed. His hands hung between his knees, work-roughened hands that had built houses, held their babies, touched her in ways that now felt like distant memory.
+Daniel sat on the edge of the bed, the mattress dipping under his weight. His hands hung between his knees, work-roughened hands that had built houses, held their babies, touched her in ways that now felt like distant memory.
 
 "What does that mean? Is it - how bad is it?"
 
@@ -4452,7 +4452,7 @@ The silence that followed was heavy with things unsaid. Daniel ran a hand over h
 
 "Not that much. Not all those jobs. I could have said no to some of them."
 
-Elena felt something crack inside her chest. The admission she had been wanting, the acknowledgment she hadn't allowed herself to ask for. "Why didn't you?"
+Elena felt something crack inside her chest, a fissure running through the wall she had built around her resentment. The admission she had been wanting, the acknowledgment she hadn't allowed herself to ask for. "Why didn't you?"
 
 "Because being here felt like failing." His voice was rough. "You were handling everything. The kids, your abuela, your job. And I'd come home and there was nothing for me to do. Nothing I could do that you weren't already doing better."
 
@@ -4465,11 +4465,11 @@ Elena felt something crack inside her chest. The admission she had been wanting,
 
 "You were useful here, Daniel. Just being here would have been useful."
 
-"I didn't know how to be here." His voice broke on the last word. "You had a system. A way everything worked. Every time I tried to help, I messed it up. Put the dishes in the wrong place, forgot someone's schedule. After a while it seemed easier to just - not."
+"I didn't know how to be here." His voice broke on the last word. "You had a system. A way everything worked, everything had its place. Every time I tried to help, I messed it up. Put the dishes in the wrong cabinet, forgot someone's schedule, did the laundry wrong. After a while it seemed easier to just - not."
 
 Elena stood up and walked to the window. The backyard was dark now, the children's swing set a shadow against the sky. She could hear, distantly, the sound of abuela's television, the children's voices raised in play.
 
-"I was drowning," she said. "For years. I was drowning and you weren't here to see it."
+"I was drowning," she said. "For years, Daniel. I was drowning and you weren't here to see it."
 
 "I know."
 
@@ -4488,7 +4488,7 @@ She was crying now, the tears hot on her face, her breath coming in gasps. Danie
 
 "Okay." He stood back, hands at his sides. "I'm listening."
 
-"I'm so tired." The words came out as a whisper. "I'm tired in my bones. I'm tired in ways sleep doesn't fix. And now my body is literally falling apart, attacking itself, because I couldn't ask for help. Because I convinced myself I had to be strong, had to hold everything together, because that's what I do, that's who I am."
+"I'm so tired." The words came out barely above a whisper. "I'm tired in my bones, Daniel. I'm tired in ways sleep doesn't fix, hasn't fixed for years. And now my body is literally falling apart, attacking itself, because I couldn't ask for help. Because I convinced myself I had to be strong, had to hold everything together, because that's what I do, that's who I am."
 
 "You could have asked."
 
@@ -4509,7 +4509,7 @@ Daniel sat back down on the bed. The distance between them felt measured in year
 
 "Says who?"
 
-"Says everyone. Says the whole world." She wiped her face with the back of her hand. "The good mother. The devoted nurse. The daughter who takes care of her grandmother. The wife who manages the household while her husband works. That's who I'm supposed to be."
+"Says everyone. Says the whole world." She wiped her face with the back of her hand, an angry gesture. "The good mother. The devoted nurse. The daughter who takes care of her grandmother. The wife who manages the household while her husband works. That's who I'm supposed to be. That's all I'm supposed to be."
 
 "You don't have to be-"
 
@@ -4544,7 +4544,7 @@ Sofia nodded, seeming to file this away for later processing. "Abuela made enchi
 
 ---
 
-Dinner was an exercise in performing normalcy. Enchiladas that abuela had made from memory, Mateo talking about school, Sofia quiet and watchful. Daniel sat beside Elena, their knees touching under the table, a small reconnection amid the larger distance.
+Dinner was an exercise in performing normalcy for an audience of three. Enchiladas that abuela had made from memory, Mateo talking about school, Sofia quiet and watchful as always. Daniel sat beside Elena, their knees touching under the table, a small reconnection amid the larger distance.
 
 After the children were in bed, they sat on the back porch with glasses of wine that Elena wasn't supposed to drink but allowed herself anyway. The Phoenix night was cool, stars visible despite the light pollution.
 
@@ -4562,7 +4562,7 @@ He took her hand. His palm was calloused, warm. "What do we do now?"
 
 "Can we?"
 
-She thought about it. The years of parallel existence, of logistics masquerading as marriage. The love that had been buried under obligation but had never quite disappeared.
+She thought about it. The years of parallel existence, of logistics masquerading as marriage, of efficiency crowding out intimacy. The love that had been buried under obligation but had never, somehow, quite disappeared.
 
 "I think so. If we're both willing to try."
 
@@ -4589,7 +4589,7 @@ He pulled her closer. "Maybe you get to find out."
 
 "Then we figure it out together. Isn't that what this is? Marriage?"
 
-She thought about that word, marriage, what it was supposed to mean and what it had actually been for them. A partnership, in theory. A tag-team arrangement, in practice. She passing off responsibilities to him as he walked through the door, he disappearing before she could hand them back.
+She thought about that word, marriage, what it was supposed to mean and what it had actually been for them. A partnership, in theory. A tag-team arrangement, in practice, with decreasing overlap. She passing off responsibilities to him as he walked through the door, he disappearing before she could hand them back.
 
 "I want it to be different," she said.
 
@@ -4615,7 +4615,7 @@ For once, she let herself obey.
 
 # ~~~
 
-Two evenings later, Elena sat with her grandmother sorting medications. The ritual happened at seven o'clock every night: pill bottles lined up on the dresser, the plastic weekly organizer with its small compartments labeled in both English and Spanish. Abuela's hands were swollen, the joints gnarled from arthritis, but she insisted on doing as much as she could herself. Elena supervised, corrected, worried.
+Two evenings later, Elena sat with her grandmother sorting medications. The ritual happened at seven o'clock every night, immutable as sunset: pill bottles lined up on the dresser in order of dosage, the plastic weekly organizer with its small compartments labeled in both English and Spanish. Abuela's hands were swollen, the joints gnarled from arthritis, but she insisted on doing as much as she could herself. Elena supervised, corrected, worried.
 
 "The metformin first," Elena said. "Then the lisinopril."
 
@@ -4625,7 +4625,7 @@ Two evenings later, Elena sat with her grandmother sorting medications. The ritu
 
 "You worry. It's your nature." Abuela dropped a white pill into its compartment with practiced precision. "But tonight, I think maybe we talk about you instead."
 
-Elena watched her grandmother's hands move from bottle to bottle. The skin was thin, almost translucent, veins visible like rivers on a map. These were hands that had worked in fields, washed other people's clothes, raised four children and helped raise their children too. Hands that knew labor in ways Elena's generation could barely imagine.
+Elena watched her grandmother's hands move from bottle to bottle. The skin was thin, almost translucent, veins visible like rivers on a map. These were hands that had worked in fields before dawn, washed other people's clothes for money, raised four children and helped raise their children and their children's children too. Hands that knew labor in ways Elena's generation could barely imagine, though they carried its inheritance.
 
 "Daniel told me about the tests," abuela said. "He was very upset."
 
@@ -4642,7 +4642,7 @@ Abuela laughed, a dry sound. "Mija, I am seventy-eight years old. Worrying about
 
 Elena helped her close the last compartment. Friday, the final day of the week. They sat back, abuela in her recliner with its crocheted blanket, Elena on the edge of the bed. The room was cluttered with the accumulations of a long life: photographs on every surface, religious icons, a collection of ceramic figurines sent by relatives still in Mexico.
 
-"Your thyroid," abuela said. "That is nothing. I have diabetes, high blood pressure, arthritis. My kidneys are not so good anymore. The body falls apart, mija. This is what it does."
+"Your thyroid," abuela said, dismissing decades of medical anxiety with a wave of her swollen hand. "That is nothing. I have diabetes, high blood pressure, arthritis. My kidneys are not so good anymore. The body falls apart, mija. This is what it does. This is what bodies are for."
 
 "But I'm only thirty-seven."
 
@@ -8287,7 +8287,7 @@ A gap in the text. Then:
 
 ---
 
-Elena closed the prayer book. She could not read more, not now, not with Sofia watching. There were pages she had not reached, entries she had not seen, the story incomplete as all stories are incomplete, fragments that would never cohere into the whole truth.
+Elena closed the prayer book. She could not read more, not now, not with Sofia watching. There were pages she had not reached, entries she had not seen, the story incomplete as all stories are, fragments that would never cohere into whole truth.
 
 "There might be another person in our family," she said finally. "Someone I never knew about. Someone who lives far away."
 
@@ -8301,7 +8301,7 @@ Sofia's eyes widened. "Can we meet him?"
 
 The afternoon light was changing again, moving toward the gold of early evening. Somewhere in the house, Mateo was quiet, probably sitting with the rosary, talking to himself or to no one or to a bisabuela who could no longer answer.
 
-Elena looked at the prayer book in her hands, at San Judas Tadeo with his patient face, the saint of desperate cases and lost causes. Her abuela had prayed to him all her life. Had she prayed about this? Had she asked for the courage to tell Elena the truth and been denied, or had she asked for permission to keep silent and been granted it?
+Elena looked at the prayer book in her hands, at San Judas Tadeo with his patient face, patron of desperate cases and lost causes. Her abuela had prayed to him all her life. Had she prayed about this? Had she asked for courage to tell Elena the truth and been denied, or had she asked for permission to keep silent and been granted it?
 
 There was no way to know. The dead do not explain themselves. They leave objects and letters and memories, and the living must sort through them, making meaning where they can, accepting mystery where they cannot.
 
@@ -8316,15 +8316,15 @@ There was no way to know. The dead do not explain themselves. They leave objects
 
 She did. Elena and Daniel had tried to raise the children bilingual, with varying success. Sofia understood more than she could speak; Mateo spoke freely but with an American accent that would have made abuela laugh.
 
-"Someday," Elena said. "When you're older. There are some things in here that are hard to understand."
+"Someday," Elena said. "When you're older. Some things in here are hard to understand."
 
 "Because of the language?"
 
 "Because of the sadness."
 
-Sofia nodded, accepting this. She was wise enough already to know that adults kept things from children, and that sometimes this keeping was a form of love.
+Sofia nodded, accepting this. She was wise enough already to know that adults kept things from children, and sometimes this keeping was its own form of love.
 
-They sat together in the dimming room, mother and daughter, the letter unfinished between them. Elena thought about her mother, about the woman she had known who had also been a woman she had not known at all. She thought about the brother who existed somewhere, probably, shaped by the abandonment she had not even been aware of, carrying a story that was also her story though they had never shared a word.
+They sat together in the dimming room, mother and daughter, the letter unfinished between them. Elena thought about her mother, about the woman she had known who had also been a woman she had not known at all. She thought about the brother who existed somewhere, probably, shaped by the abandonment she had not even been aware of, carrying a story that was also her story though they had never exchanged a word.
 
 And she thought about Sofia, about what she would pass on, about the gaps in her own knowledge that would become gaps in Sofia's, an inheritance of absences handed down like the linens and the photographs and the debts.
 
@@ -8338,26 +8338,26 @@ The letter would wait. But it would not stop asking its questions.
 
 # ~~~
 
-The house settled into its nighttime sounds: the creak of cooling walls, the hum of the refrigerator, the particular silence that meant the children were finally asleep. Elena sat at her abuela's small desk, the one where bills had been paid and letters had been written and prayers had been copied out from books in handwriting that grew shakier each year.
+The house settled into its nighttime sounds: the creak of cooling walls, the hum of the refrigerator, the particular silence that meant the children were finally asleep. Elena sat at her abuela's small desk, the one where bills had been paid and letters written and prayers copied out from books in handwriting that grew shakier each year.
 
 On the desk before her: a blank page. The same blue-lined paper her abuela had used.
 
-She had taken her medication an hour ago—the sertraline that kept her functional, that smoothed the sharp edges of her anxiety into something she could manage. She did not like to think about this too often, about the small white pill that she swallowed each morning, about what it meant that she could not manage her own mind without chemical assistance. Her abuela had never taken anything for her moods. Her mother hadn't either. They had prayed and endured and kept their darkness to themselves, and Elena had inherited that tendency toward silence even as she rejected its religious framework.
+She had taken her medication an hour ago—the sertraline that kept her functional, that smoothed the sharp edges of her anxiety into something manageable. She did not like to think about this too often, about the small white pill she swallowed each morning, about what it meant that she could not manage her own mind without chemical assistance. Her abuela had never taken anything for her moods. Her mother hadn't either. They had prayed and endured and kept their darkness to themselves, and Elena had inherited that tendency toward silence even as she rejected its religious framework.
 
-But she had also inherited something else: the diabetes that had taken her mother and that lurked in Elena's own bloodwork, the numbers creeping upward at each annual physical. The exhaustion that she attributed to work but that felt sometimes like something deeper, something cellular. The way her body held stress in her shoulders and her jaw, manifesting as pain she ignored until it became impossible to ignore.
+But she had also inherited something else: the diabetes that had taken her mother and that lurked in Elena's own bloodwork, the numbers creeping upward at each annual physical. The exhaustion she attributed to work but that felt sometimes like something deeper, something cellular. The way her body held stress in her shoulders and her jaw, manifesting as pain she ignored until ignoring became impossible.
 
 What else would she pass on?
 
 
 ---
 
-The question sat with her in the quiet room. Through the window, Phoenix spread out in lights, the city her abuela had chosen, the desert that had accepted them. Daniel would be home in two hours, tired from the drive back from Scottsdale, and she would tell him about the letter, about the brother, about the weight of what she had learned. He would listen the way he always listened, with patience and without judgment, and she would feel less alone in the knowing.
+The question sat with her in the quiet room. Through the window, Phoenix spread in lights, the city her abuela had chosen, the desert that had accepted them. Daniel would be home in two hours, tired from the drive back from Scottsdale, and she would tell him about the letter, about the brother, about the weight of what she had learned. He would listen the way he always listened, with patience and without judgment, and she would feel less alone in the knowing.
 
 But for now she sat with it alone.
 
 Sofia had said it that afternoon: *That's why you get so mad sometimes. At work.*
 
-The child had seen. Of course she had seen. Elena thought about all the times she had bitten back her fury at the dinner table, the times she had ranted to Daniel in whispers after bedtime, the times she had come home from shifts with a particular set to her jaw that the children must have learned to read. She thought about Sofia's school essays, which she had glimpsed on the laptop, full of words like *unfair* and *helping* and *fighting*, vocabulary that came from somewhere, that had been absorbed through exposure even when Elena tried to contain herself.
+The child had seen. Of course she had. Elena thought about all the times she had bitten back her fury at the dinner table, the times she had ranted to Daniel in whispers after bedtime, the times she had come home from shifts with a particular set to her jaw that the children must have learned to read. She thought about Sofia's school essays, glimpsed on the laptop, full of words like *unfair* and *helping* and *fighting*, vocabulary that came from somewhere, absorbed through exposure even when Elena tried to contain herself.
 
 She was transmitting her rage whether she meant to or not.
 
@@ -8368,9 +8368,9 @@ Her abuela had kept her fury banked, hidden beneath the prayers and the patience
 
 ---
 
-Elena did not want to swallow it anymore. That had been the transformation of these last years, the radicalization (if that was the right word) that had come from watching too many patients die of conditions they could not afford to treat, from sitting with too many families as they chose between medication and rent. She had stopped being quiet. She had started speaking at meetings, organizing with other nurses, writing letters to administrators and politicians that went unanswered but that she sent anyway because silence felt like complicity.
+Elena did not want to swallow it anymore. That had been the transformation of these last years, the radicalization (if that was the right word) that had come from watching too many patients die of conditions they could not afford to treat, from sitting with too many families as they chose between medication and rent. She had stopped being quiet. She had started speaking at meetings, organizing with other nurses, writing letters to administrators and politicians that went unanswered but she sent anyway because silence felt like complicity.
 
-Daniel supported her. He had his own version of this, his own quiet fury at the construction industry that treated workers as disposable, that skimped on safety to save money, that had killed men he knew. They were building something together, she and Daniel, a household of controlled rage and active hope, and their children were growing up inside it.
+Daniel supported her. He had his own version of this, his own quiet fury at the construction industry that treated workers as disposable, that skimped on safety to save money, that had killed men he knew. They were building something together, she and Daniel—a household of controlled rage and active hope—and their children were growing up inside it.
 
 But what would the children do with this inheritance?
 
@@ -8381,9 +8381,9 @@ She thought about Sofia asking about the medical bills, connecting dots that Ele
 
 ---
 
-The house that surrounded Elena now was itself an inheritance: shelter and burden, memory and mortgage. She and Daniel had talked about what to do with it, whether to sell and use the money for the children's education, whether to keep it as a foothold in an increasingly unaffordable city, whether to rent it out and let strangers live among her abuela's ghosts. The decisions multiplied, each one weighted with meaning she did not want to carry.
+The house surrounding Elena now was itself an inheritance: shelter and burden, memory and mortgage. She and Daniel had talked about what to do with it, whether to sell and use the money for the children's education, whether to keep it as a foothold in an increasingly unaffordable city, whether to rent it out and let strangers live among her abuela's ghosts. The decisions multiplied, each weighted with meaning she did not want to carry.
 
-Her abuela had not owned this house free and clear. That was another thing Elena had learned from the papers: a second mortgage taken out during the 2008 crisis, monthly payments that must have strained the social security checks, a reverse mortgage negotiated with a company whose fine print made Elena's stomach turn. The equity that should have been an inheritance was tangled in predatory instruments, and untangling it would take lawyers and time and money Elena did not have.
+Her abuela had not owned this house free and clear. That was another discovery from the papers: a second mortgage taken out during the 2008 crisis, monthly payments that must have strained the social security checks, a reverse mortgage negotiated with a company whose fine print made Elena's stomach turn. The equity that should have been inheritance was tangled in predatory instruments, and untangling it would require lawyers and time and money Elena did not have.
 
 This too was transmission. The systems that had extracted value from her grandmother's aging body would extract value from Elena's as well, and from her children after that, unless something changed. Unless someone broke the pattern.
 
@@ -8398,7 +8398,7 @@ She began:
 
 ---
 
-She stopped. That wasn't right. She wasn't writing to strangers. She wasn't writing to an abstract future. She was writing to Sofia and Mateo, to the people they would become, though she could not know who those people would be.
+She stopped. That wasn't right. She wasn't writing to strangers. She wasn't writing to an abstract future. She was writing to Sofia and Mateo, to the people they would become, though she could not yet know who those people would be.
 
 She started again:
 
@@ -8408,18 +8408,18 @@ She started again:
 
 She paused, reading what she had written. The words seemed inadequate. But her abuela's letter had been inadequate too—fragmented, unfinished, full of gaps where meaning should have been. Maybe that was all any letter could be: an attempt, a gesture toward the truth, incomplete by necessity.
 
-*The first thing I want you to know is this: I got angry. I spent a lot of your childhoods angry about things that happened to people you never met, angry about systems that are hard to explain, angry in ways that probably confused you. I tried to hide it, but I know you saw. Sofia, you told me once that you understood why I was mad at work. You were ten. I didn't know how to answer you.*
+*The first thing I want you to know is this: I got angry. I spent much of your childhoods angry about things that happened to people you never met, angry about systems that are hard to explain, angry in ways that probably confused you. I tried to hide it, but I know you saw. Sofia, you told me once that you understood why I was mad at work. You were ten. I didn't know how to answer you.*
 
 *So here is the answer: I was angry because people were suffering and it didn't have to be that way. I was angry because the suffering was built into the system on purpose. And I was angry because I couldn't fix it, not really, not in ways that mattered.*
 
 
 ---
 
-*I don't know if anger is something I should have passed on to you. Sometimes I wonder if I gave you too much of it, if you'll spend your lives fighting battles that will exhaust you the way they've exhausted me. Other times I think the anger is a kind of love, the only rational response to a world that hurts people for no good reason.*
+*I don't know if anger is something I should have passed on to you. Sometimes I wonder if I gave you too much of it, if you'll spend your lives fighting battles that will exhaust you as they've exhausted me. Other times I think the anger is a kind of love, the only rational response to a world that hurts people for no good reason.*
 
 *Maybe it's both. Maybe everything is both.*
 
-Elena set down the pen. Her hand was cramping; she had been gripping too tightly, pressing too hard, the way she did everything. She flexed her fingers and looked around the room at her abuela's things, at the crucifix on the wall that she would not keep but could not bring herself to discard, at the small Madonna on the dresser that Sofia had asked to have.
+Elena set down the pen. Her hand was cramping; she had been gripping too tightly, pressing too hard, the way she did everything. She flexed her fingers and looked around the room at her abuela's things—the crucifix on the wall she would not keep but could not bring herself to discard, the small Madonna on the dresser Sofia had asked to have.
 
 The medication was working, she thought. The words were coming without the undertow of panic that sometimes accompanied her attempts to articulate what mattered. That was its own kind of inheritance: the brain chemistry that made living difficult, the pill that made it manageable, the shame she still felt about needing help that should not have been shameful at all.
 
@@ -8432,11 +8432,11 @@ There. Something useful. Something practical. The kind of thing she wished someo
 
 ---
 
-She wrote more: about her abuela, about the brother she had just learned of, about the house and its mortgages and what the children might inherit or might not. She wrote about Daniel, about the partnership they had built, about the fights they had survived and the ways they had learned to hold each other through the hard times. She wrote about her work, about patients whose names she still remembered, about the ones she had saved and the ones she had lost and the ones who occupied the gray space between where most of medicine happened.
+She wrote more: about her abuela, about the brother she had just learned of, about the house and its mortgages and what the children might inherit or might not. She wrote about Daniel, about the partnership they had built, about the fights they had survived and the ways they had learned to hold each other through hard times. She wrote about her work, about patients whose names she still remembered, about the ones she had saved and the ones she had lost and the ones occupying the gray space between where most of medicine happened.
 
 The letter grew. Pages accumulated. The night deepened around her.
 
-And finally, past midnight, she stopped. Not because she was finished—she would never be finished, the letter could grow forever if she let it—but because there was a limit to what could be transmitted through words on paper. Some things could only be learned by living. Some things could only be passed on through presence, through the daily accumulation of meals shared and arguments weathered and bedtimes and mornings and the ten thousand small moments that made up a childhood.
+And finally, past midnight, she stopped. Not because she was finished—she would never be finished, the letter could grow forever if she let it—but because there was a limit to what words on paper could transmit. Some things could only be learned by living. Some things could only be passed on through presence, through the daily accumulation of meals shared and arguments weathered and bedtimes and mornings and the ten thousand small moments that composed a childhood.
 
 She gathered the pages and folded them. She did not seal them, not yet. There would be more to add, more to explain, more attempts to say what could not quite be said.
 
@@ -12604,7 +12604,7 @@ She did not look away.
 
 ---
 
-The apartment waited around her as she gathered what she would need. Phone, wallet, keys. A notebook she had carried for years, filled with notes from meetings she no longer remembered, questions she had never answered. She put it in her bag without knowing why, a talisman from a life that was about to change.
+The apartment waited around her as she gathered what she would need. Phone, wallet, keys. A notebook she had carried for years, filled with notes from meetings she no longer remembered, questions she had never resolved. She put it in her bag without knowing why, a talisman from a life that was about to change.
 
 The morning had brightened fully now. Through her window, San Francisco gleamed in the winter light, the towers of the financial district catching the sun, the bay visible in the distance where it curved toward the Golden Gate. She had watched this view for six years, had learned its moods and seasons, had come to think of it as hers in the way that long familiarity creates possession.
 
@@ -12621,7 +12621,7 @@ She sent it before she could reconsider, and then she stood for a moment holding
 
 At the door of her apartment, she paused.
 
-Behind her, the accumulated objects of her life: the awards turned to face the wall, the photographs of Priya at various ages, the ceramic bowl glazed an uneven blue, the mug from a company that no longer existed. The novel about surveillance lying open on the coffee table. The view of a city she had helped transform.
+Behind her, the accumulated objects of her life: the awards turned to face the wall, the photographs of Priya at various ages, the ceramic bowl glazed an uneven blue, the mug from a company that no longer existed. The novel about surveillance splayed open on the coffee table. The view of a city she had helped transform.
 
 In front of her, the hallway, the elevator, the parking garage, the highway south.
 
@@ -12633,14 +12633,14 @@ She thought about the word threshold. The strip of wood or stone at the bottom o
 
 She was standing at a threshold now. Had been standing at it for years, perhaps, without recognizing it. The message from Delphine had not created the threshold; it had only made it visible, had illuminated the choice she had been avoiding.
 
-To cross or not to cross. To speak or to remain silent. To become someone who told the truth about her life, or to remain someone who had told the truth only in fragments, only in carefully controlled contexts, only in ways that did not threaten the careful architecture of her professional identity.
+To cross or not to cross. To speak or to remain silent. To become someone who told the truth about her life, or to remain someone who had told the truth only in fragments, only in carefully controlled contexts, only in ways that left intact the careful architecture of her professional identity.
 
 
 ---
 
 She stepped through the door.
 
-The sound it made as it closed behind her was soft, mechanical, ordinary. A latch engaging, a lock turning. Nothing dramatic, nothing that would be audible to anyone passing in the hallway.
+The sound it made as it closed behind her was soft, mechanical, ordinary. A latch engaging, a lock clicking home. Nothing dramatic, nothing that would be audible to anyone passing in the hallway.
 
 But to Ananya, standing in the corridor with her bag over her shoulder and her car keys in her hand, the sound felt like something ending and something beginning at once.
 
@@ -12669,13 +12669,13 @@ She pulled out of the garage and into the morning light, and San Francisco reced
 
 # ~~~
 
-The hospice room smelled of antiseptic and something else, something softer, the particular scent of a body preparing to let go. Elena Varga sat in the chair beside her grandmother's bed, her hands folded in her lap, watching the rise and fall of the thin chest beneath the white sheet.
+The hospice room smelled of antiseptic and something beneath it, something softer, the particular scent of a body preparing to let go. Elena Varga sat in the chair beside her grandmother's bed, her hands folded in her lap, watching the rise and fall of the thin chest beneath the white sheet.
 
 Abuela's breathing had changed in the night. Elena had noticed it immediately when she arrived this morning, the subtle shift in rhythm that her years of nursing had taught her to recognize. The pauses between breaths were longer now, the inhalations shallower. The body was beginning its final negotiation with the air.
 
 Through the window, Phoenix morning light poured in, harsh and bright even in spring, the desert sun indifferent to the drama unfolding in this small room. The blinds had been partially closed to soften the glare, casting striped shadows across the bed, across abuela's face, across the monitors that tracked vital signs Elena knew how to read but did not want to read.
 
-She had been in rooms like this hundreds of times. Had watched these same monitors, adjusted these same IV lines, spoken soft words to families sitting in chairs just like this one. She knew the choreography of dying, the technical sequence of events, the clinical terminology that transformed the vast fact of death into manageable procedures and checkboxes.
+She had been in rooms like this hundreds of times. Had watched these same monitors, adjusted these same IV lines, spoken soft words to families sitting in chairs just like this one. She knew the choreography of dying, the technical sequence of events, the clinical terminology that transmuted the vast fact of death into manageable procedures and checkboxes.
 
 But she had never sat in this chair. Had never been the family member rather than the caregiver. The difference was everything.
 
@@ -12686,7 +12686,7 @@ Abuela's hands lay on top of the sheet, gnarled and still, the hands Elena had k
 
 Those hands had made tortillas in the kitchen of Elena's childhood, patting the dough with a rhythm that seemed automatic, effortless, the motion of generations encoded in muscle and bone. Those hands had checked Elena's forehead for fever, cool against the heat of childhood illness, pressing gently and then withdrawing with the verdict: you will be fine, mija. Those hands had held newborn Sofia, cradling the tiny body with the confidence of a woman who had raised children and grandchildren and knew exactly how fragile and how resilient new life could be.
 
-Now they lay still. Occasionally a finger would twitch, some signal from a brain that was slowly shutting down, some remnant of movement that no longer connected to intention. Elena watched these small twitches and felt each one as a departure, another thread of connection being severed.
+Now they lay still. Occasionally a finger twitched, some signal from a brain slowly shutting down, some remnant of movement that no longer connected to intention. Elena watched these small twitches and felt each one as a departure, another thread of connection being severed.
 
 The monitors beeped softly, marking time. A nurse came in to check the IV, exchanging a look with Elena that communicated everything without words. One professional to another. One woman who understood to one who was only beginning to understand.
 
@@ -12697,7 +12697,7 @@ Elena thought about the first time she had seen someone die. She had been twenty
 
 She had learned, over the years, to manage that boundary. To treat it as part of the job, something to be navigated with skill and compassion but not with the kind of emotional engagement that would make the work impossible. She had built walls, the way all nurses built walls, the way you had to build walls if you wanted to survive in a profession that brought you face to face with suffering every day.
 
-But this was different. This was abuela. This was the woman who had shaped Elena's childhood, who had taught her to cook and to pray and to endure, who had immigrated from Mexico in her forties and had rebuilt her life in a country that often did not want her, who had survived things Elena only knew as stories told in fragments, late at night, when abuela's usual reserve softened.
+But this was different. This was abuela. This was the woman who had shaped Elena's childhood, who had taught her to cook and to pray and to endure, who had immigrated from Mexico in her forties and rebuilt her life in a country that often did not want her, who had survived things Elena only knew as stories told in fragments, late at night, when abuela's usual reserve softened.
 
 The walls Elena had built were useless here. The professional distance she had cultivated could not protect her from the simple fact that the woman in this bed had loved her, had cared for her, had helped raise her children, and was now leaving in the only way that anyone ever left.
 
@@ -12706,7 +12706,7 @@ The walls Elena had built were useless here. The professional distance she had c
 
 Through the window, Elena could see the parking lot, the cars arranged in rows, the few trees that struggled in the Phoenix heat. Beyond that, the sprawl of the city, strip malls and housing developments and the mountains in the distance, shimmering slightly in the morning haze. This was the landscape abuela had adopted, had made her home for over forty years. She would die here, in this room, with this view, in this city that she had both loved and never quite belonged to.
 
-Elena stood and walked to the window, her reflection ghostly against the glass. She was forty-three, the same age abuela had been when she arrived in America with two children and no money and a determination that Elena had only begun to understand as she grew older. Forty-three had seemed ancient to Elena when she was a child. Now it felt like barely the middle, like there should be so much more time ahead. But abuela's hands on the bed behind her were a reminder that time was always borrowed, always running out, always shorter than you expected.
+Elena stood and walked to the window, her reflection ghostly against the glass. She was forty-three, the same age abuela had been when she arrived in America with two children and no money and a determination that Elena had only begun to understand as she grew older. Forty-three had seemed ancient to Elena when she was a child. Now it felt like barely the middle, like there should be so much more time ahead. But abuela's hands on the bed behind her were a reminder that time was always borrowed, always depleting, always shorter than anyone expected.
 
 She thought about her own hands. The hands that had learned to insert IVs and dress wounds and hold the hands of patients who were frightened or in pain. The hands that had made dinners for Sofia and Mateo, that had touched Daniel's face in moments of tenderness, that had gripped the steering wheel through years of commuting to jobs that never paid enough and always demanded too much.
 
@@ -12717,7 +12717,7 @@ Her hands would be old someday. Would lie on a bed like this, would be held by s
 
 She returned to the chair and took abuela's hand again. The skin was cool now, circulation slowing as the body redirected blood to the essential organs. Elena knew this. Knew what it meant. Knew that the coolness in the hands would spread, that the color would change, that the breathing would continue to slow until it stopped.
 
-Knowing did not help. Knowing made it worse, in some ways, because she could not take refuge in hope or ignorance. She could not tell herself that abuela might rally, might wake up and ask for water, might live another day or another week. Her training stripped away the comfort of denial, leaving only the bare fact of what was happening.
+Knowing did not help. Knowing made it worse, because she could not take refuge in hope or ignorance. She could not tell herself that abuela might rally, might wake up and ask for water, might live another day or another week. Her training stripped away the comfort of denial, leaving only the bare fact of what was happening.
 
 A memory surfaced, unbidden. Abuela in the kitchen of Elena's childhood home, flour on her apron, the radio playing something in Spanish that Elena could not understand. She had been maybe seven or eight, watching her grandmother work, fascinated by the rhythm of her movements. Abuela had noticed her watching and had smiled, had beckoned her over, had put a piece of dough in her small hands and shown her how to press it, how to shape it, how to make something from nothing.
 
@@ -12728,7 +12728,7 @@ Elena had not understood then. She was beginning to understand now, sitting in t
 
 ---
 
-The hours passed slowly. Nurses came and went, their footsteps soft on the linoleum floor, their voices hushed in the way that people's voices became hushed near death. Elena remained in the chair, sometimes holding abuela's hand, sometimes just sitting, watching the light change as the sun moved across the sky.
+The hours passed slowly. Nurses came and went, their footsteps muted on the linoleum floor, their voices hushed in the way that people's voices became hushed near death. Elena remained in the chair, sometimes holding abuela's hand, sometimes just sitting, watching the light change as the sun moved across the sky.
 
 She thought about the healthcare system she had spent her career navigating. This hospice was one of the better ones, relatively well-funded, with staff who seemed genuinely compassionate. But she could see the strain even here: the nurse who had been on shift for too many hours, the aide who apologized for the delay in bringing fresh water, the small failures of attention that accumulated when people were spread too thin.
 
@@ -12746,7 +12746,7 @@ She held abuela's hand and waited, feeling something shift inside her that she c
 
 # ~~~
 
-The children arrived in the afternoon. Sofia came through the door first, fourteen years old and trying to look older, her face arranged in an expression of practiced composure that Elena recognized as borrowed from somewhere, television or the internet or the careful observation of adults managing difficult situations.
+The children arrived in the afternoon. Sofia came through the door first, fourteen years old and striving to look older, her face arranged in an expression of practiced composure that Elena recognized as borrowed from somewhere, television or the internet or the careful observation of adults managing difficult situations.
 
 Behind her, Mateo. Eleven, still young enough that he had not learned to hide what he was feeling. His eyes went immediately to the bed, to the still figure beneath the sheet, and Elena watched him process what he was seeing, the gap between what he had been told and what was actually here.
 
@@ -12790,7 +12790,7 @@ Mom, she said quietly. Did we come to say goodbye?
 
 Yes, Elena said. That's why we're here.
 
-The three of them sat in silence for a while, arranged around the bed in a configuration that felt both random and necessary. Three generations present to witness the departure of the fourth. Elena looked at her children and saw them as they would be someday, as she would be someday, all of them moving toward this same endpoint, this same small room with its antiseptic smell and its striped light.
+The three of them sat in silence for a while, arranged around the bed in a configuration that felt both random and necessary. Three generations present to witness the departure of a fourth. Elena looked at her children and saw them as they would be someday, as she would be someday, all of them moving toward this same endpoint, this same small room with its antiseptic smell and its striped light.
 
 I remember when she taught me to make hot chocolate, Mateo said suddenly. She put cinnamon in it.
 
@@ -12805,7 +12805,7 @@ Elena nodded, not trusting her voice. The simplest promises felt enormous now, f
 
 ---
 
-Sofia was crying now, silently, tears running down her cheeks that she did not bother to wipe away. Elena reached over and took her daughter's hand, feeling the familiar fingers, the bitten nails that Sofia could not stop chewing despite years of reminders.
+Sofia was crying now, silently, tears running down her cheeks that she did not bother to wipe away. Elena reached over and took her daughter's hand, feeling the familiar fingers, the bitten nails Sofia could not stop chewing despite years of reminders.
 
 At fourteen, Sofia had begun to pull away, as all teenagers pulled away, establishing the distance that adolescence required. But in this room, with death waiting, she allowed her mother's touch, allowed herself to be a child again for a moment.
 
@@ -12826,7 +12826,7 @@ Those can be the same thing.
 
 ---
 
-The visit lasted an hour, maybe longer. At some point a nurse came in to check the monitors, and Elena watched her children watch the nurse, their eyes tracking the efficient movements, the quick assessment, the small adjustments. They were learning, whether they knew it or not. Learning what care looked like, what attention to a dying body required.
+The visit lasted an hour, perhaps longer. At some point a nurse came in to check the monitors, and Elena watched her children watch the nurse, their eyes tracking the efficient movements, the quick assessment, the small adjustments. They were learning, whether they knew it or not. Learning what care looked like, what attention to a dying body required.
 
 When it was time to go, Mateo leaned over and kissed abuela's forehead. The gesture was spontaneous, unplanned, and it broke something in Elena that she had been holding together all day. She turned away, not wanting her children to see her cry.
 
@@ -12850,7 +12850,7 @@ And now she would go back, and she would keep the vigil, and she would wait for 
 
 # ~~~
 
-She returned to the hospice that night, unable to stay home, unable to sleep in her own bed while abuela lay in this room. Daniel had the children; he understood without her having to explain. He had always understood the things she could not say, which was part of why she had married him and part of why she loved him still, despite everything that the years had worn away.
+She returned to the hospice that night, unable to stay home, unable to sleep in her own bed while abuela lay in this room. Daniel had the children; he understood without her having to explain. He had always understood the things she could not say, which was part of why she had married him and part of why she loved him still, despite everything the years had worn away.
 
 The hospice at night was a different place. Quieter, dimmer, the hustle of daytime staff replaced by a skeleton crew moving through the halls with the particular economy of night shift workers. Elena knew this rhythm. Had worked nights for years before transferring to the day shift at the clinic. The strange intimacy of institutions after dark, when the visitors went home and the patients were left with only the staff and their own thoughts.
 
@@ -12883,7 +12883,7 @@ Thank you.
 
 After she left, Elena thought about the brief exchange. The recognition between them, the shared knowledge of what this work required. She had been that young nurse once, decades ago, learning the geography of hospitals and hospices, learning the vocabulary of care and death. She had told herself then that she would make a difference, that her presence in the system would somehow improve it, that one dedicated person could change the trajectory of how care was provided.
 
-Twenty years later, the system was worse in some ways, better in others, and mostly unchanged. The same understaffing, the same impossible workloads, the same burnout that claimed nurses like some occupational disease. Elena had survived by adjusting her expectations, by finding satisfaction in the individual encounters, by building walls and then building doors in the walls.
+Twenty years later, the system was worse in some ways, better in others, and mostly unchanged. The same understaffing, the same impossible workloads, the same burnout claiming nurses like an occupational disease. Elena had survived by adjusting her expectations, by finding satisfaction in the individual encounters, by building walls and then building doors in the walls.
 
 But tonight, sitting beside her grandmother's bed, she wondered if that was enough. If survival was the same as meaning. If the doors she had built led anywhere worth going.
 
@@ -12910,7 +12910,7 @@ Maybe those are the same thing.
 
 Maybe.
 
-Elena sat down at the small table, wrapping her hands around the warm mug. The fluorescent lights hummed overhead, casting the same flat brightness they cast in break rooms everywhere, in every hospital and clinic and hospice Elena had ever worked in.
+Elena sat down at the small table, wrapping her hands around the warm mug. The fluorescent lights hummed overhead, casting the same flat brightness they cast in break rooms everywhere, in every hospital and clinic and hospice where Elena had ever worked.
 
 You've been here a while? she asked.
 
@@ -12919,7 +12919,7 @@ Three years. Before that I was at St. Joseph's.
 
 ---
 
-They talked for a few minutes, the easy shop talk of people who understood each other's work. Thomas told her about a patient who had died last week, a man in his fifties who had fought cancer for three years before deciding to stop treatment. How he had arranged his own goodbye party, inviting everyone he loved, playing music and telling stories until he was too tired to continue. It's better when they get to choose, Thomas said. When they're not surprised by it.
+They talked for a few minutes, the easy shop talk of people who understood one another's work. Thomas told her about a patient who had died last week, a man in his fifties who had fought cancer for three years before deciding to stop treatment. How he had arranged his own goodbye party, inviting everyone he loved, playing music and telling stories until he was too tired to continue. It's better when they get to choose, Thomas said. When they're not surprised by it.
 
 Elena thought about abuela, who had made her choices years ago, who had moved into the hospice without complaint when the time came, who had arranged her own affairs with the same practical determination she had brought to everything. She had not been surprised. She had simply been ready, in the way that people became ready after eight decades of living.
 
@@ -12936,7 +12936,7 @@ Elena watched them, these two night shift workers holding the line while the res
 
 ---
 
-She returned to abuela's room with her bad coffee and sat in the chair, watching the numbers on the monitors, listening to the breathing that continued its slow march toward silence.
+She returned to abuela's room with her bitter coffee and sat in the chair, watching the numbers on the monitors, listening to the breathing that continued its slow march toward silence.
 
 The night shift. The skeleton crew. The workers who held the system together while management made decisions in daylight offices, while administrators calculated costs and benefits, while politicians debated healthcare policy without ever setting foot in a room like this.
 
@@ -12958,7 +12958,7 @@ I understand now, she said quietly, to abuela or to herself, she was not sure wh
 
 Dawn.
 
-The light through the window shifted from black to gray to the first suggestion of gold.
+Light through the window shifted from black to gray to the first suggestion of gold.
 
 Abuela's breathing had changed again in the night. Longer pauses. Deeper silence between each breath. Elena sat forward in her chair, counting the seconds, waiting.
 
@@ -12991,7 +12991,7 @@ Elena counted. Fifteen seconds. Twenty. Twenty-five.
 
 Then another breath, shallow, almost imperceptible.
 
-She knew what was happening. Had seen it dozens of times. The body shutting down system by system, the lungs working harder to do less, the heart struggling against the weight of accumulated years.
+She knew what was happening. Had witnessed it dozens of times. The body shutting down system by system, the lungs working harder to do less, the heart struggling against the weight of accumulated years.
 
 She did not try to intervene. Did not call for the nurse. Did not reach for the equipment that might extend this process by minutes or hours.
 
@@ -13051,7 +13051,7 @@ The body was prepared, cleaned, covered. The room was readied for the next occup
 
 Elena stood in the hallway, watching the orderlies move in and out. The efficiency that the system required. The processing of death into something manageable, documented, filed away.
 
-She felt the rage rise in her again, the old familiar anger at the inadequacy of everything, at the way that a life spanning eight decades was reduced to forms and procedures and a room that would be empty within the hour.
+She felt the rage rise in her again, the old familiar anger at the inadequacy of everything, at the way a life spanning eight decades was reduced to forms and procedures and a room that would be empty within the hour.
 
 But the rage did not separate from the care. They moved together now, intertwined, the same force with two faces.
 
@@ -16644,7 +16644,7 @@ Her father closed his eyes. "Stay as long as you can," he said. "Then go back to
 
 # ~~~
 
-The morning of departure arrived with the particular cruelty of departures: the sun still rising, the world still continuing, even though everything had changed. Ananya woke to the sound of her father moving through the house, his footsteps careful and slow, the rhythm of a man relearning his own home now that he was alone in it.
+The morning of departure arrived with the particular cruelty of all departures: the sun still rising, the world still continuing, even though everything had changed. Ananya woke to the sound of her father moving through the house, his footsteps careful and slow, the rhythm of a man relearning his own home now that he was alone in it.
 
 Priya was already awake, packing her things, moving through the guest room with the efficiency of the young. She looked up when Ananya sat up.
 
@@ -16656,7 +16656,7 @@ Ananya nodded. It was both too soon and not soon enough. She could stay longer -
 
 "Of course."
 
-They went to the small garden behind the house, where Ananya's mother had grown jasmine and tulsi and roses that struggled in Chennai's heat. The plants looked untended now - perhaps her mother had been too ill in her final weeks to care for them, or perhaps her father simply didn't know how. Ananya sat on the stone bench her mother had placed there years ago, and Priya sat beside her.
+They went to the small garden behind the house, where Ananya's mother had grown jasmine and tulsi and roses that struggled in Chennai's heat. The plants looked untended now - perhaps her mother had been too ill in her final weeks to tend them, or perhaps her father simply didn't know how. Ananya sat on the stone bench her mother had placed there years ago, and Priya sat beside her.
 
 "I have questions," Priya said. "About why you left. What you were leaving. Who you were before you became my mother."
 
@@ -16673,16 +16673,16 @@ Ananya considered this. What had she given up? The list was long and she had nev
 
 And in exchange, she had gained - what? A career. A different kind of belonging, earned rather than inherited. The freedom to become someone other than who her origins expected her to be. The particular loneliness of the immigrant, which is also a kind of liberty.
 
-"I was ambitious," Ananya said finally. "That's the simplest answer. I wanted things this place couldn't give me. I wanted to work in technology, in a way that wasn't possible here, not then. I wanted to be part of building something new."
+"I was ambitious," Ananya said at last. "That's the simplest answer. I wanted things this place couldn't give me. I wanted to work in technology, in a way that wasn't possible here, not then. I wanted to be part of building something new."
 
 
 ---
 
 "And did you get what you wanted?"
 
-The question should have been simple. Ananya had achieved, by any external measure, remarkable things. She had risen through the ranks of major technology companies, had led ethics initiatives that influenced the industry, had testified before governments, had shaped policy. She had been named to lists of influential people. She had made enough money to be comfortable, to give Priya opportunities, to provide for her aging parents from a distance.
+The question should have been simple. Ananya had achieved, by any external measure, extraordinary things. She had risen through the ranks of major technology companies, had led ethics initiatives that influenced the industry, had testified before governments, had shaped policy. She had been named to lists of influential people. She had made enough money to be comfortable, to give Priya opportunities, to provide for her aging parents from a distance.
 
-"I got versions of it," Ananya said. "Not exactly what I imagined, because I couldn't imagine what it would actually be. The technology changed. The industry changed. I changed."
+"I got versions of it," Ananya said. "Not exactly what I'd imagined, because I couldn't imagine what it would actually be. The technology changed. The industry changed. I changed."
 
 "But you questioned it," Priya said. "You left Prometheus. You became the person who says uncomfortable things at conferences."
 
@@ -16703,11 +16703,11 @@ Ananya looked at her daughter. "Have I been hard?"
 
 "Maybe I need to walk through too. To understand."
 
-This was true, Ananya knew. Each generation had to learn for itself, had to make its own mistakes, had to find its own ethical complexities. She could not give Priya her hard-won understanding any more than her own mother could have given Ananya wisdom about leaving. These things had to be lived.
+This was true, Ananya knew. Each generation had to learn for itself, had to make its own mistakes, had to discover its own ethical complexities. She could not give Priya her hard-won understanding any more than her own mother could have given Ananya wisdom about leaving. These things had to be lived.
 
 "You're right," Ananya said. "I can't protect you from the process. I can only tell you what I learned, and hope it helps."
 
-Priya reached over and took her mother's hand. The gesture was natural, easy in a way that Ananya's gestures toward her own mother had not been for years. The distance she had created by leaving - Priya had not created that distance. They had something closer, something more available, despite or perhaps because of Ananya's choices.
+Priya reached over and took her mother's hand. The gesture was natural, easy in a way that Ananya's gestures toward her own mother had not been for years. The distance Ananya had created by leaving - Priya had not created that distance. They had something closer, something more available, despite or perhaps because of Ananya's choices.
 
 "I'm glad I came here," Priya said. "Even under these circumstances. I understand you better now."
 
@@ -16724,11 +16724,11 @@ Ananya looked at her daughter with something like wonder. This was exactly right
 
 This was the practical question, the one that had hovered beneath all their conversations without being spoken. Ananya's father was eighty-one, alone now, in a house that would grow larger around him with each passing day.
 
-"I'm going to ask him if he wants to come to California," Ananya said. "But I think he'll say no. His life is here. His routines, his temple, his friends. The few he has left."
+"I'm going to ask him if he wants to come to California," Ananya said. "But I think he'll refuse. His life is here. His routines, his temple, his friends. The few he has left."
 
 "Would you stay here? If he needed you to?"
 
-Ananya considered this. Could she leave her life, reverse the trajectory of decades, become someone who lived in Chennai? The answer came clearly: no. Not permanently. She could visit longer, could come more often, could close the distance she had created. But she could not unmake the choices that had shaped her. She was American now, in ways she could not undo.
+Ananya considered this. Could she leave her life, reverse the trajectory of decades, become someone who lived in Chennai? The answer came clearly: no. Not permanently. She could visit longer, could return more often, could close the distance she had created. But she could not unmake the choices that had shaped her. She was American now, in ways she could not undo.
 
 "I would come as often as I needed to," she said. "But I wouldn't stay. Does that make me a bad daughter?"
 
@@ -16753,7 +16753,7 @@ Ananya stood, ready to walk through another departure, carrying Chennai inside h
 
 # ~~~
 
-The hospice room had a window that looked onto nothing in particular - a parking lot, a strip of grass, the back of another building. Jerome had spent enough hours in this room to know every detail of that view: the way the light changed through the day, the birds that sometimes landed on the grass, the cars that came and went in patterns that suggested shift changes, visiting hours, the schedules of dying.
+The hospice room had a window that looked onto nothing in particular - a parking lot, a strip of dead grass, the back of another building. Jerome had spent enough hours in this room to know every detail of that view: the way the light changed through the day, the birds that sometimes landed on the grass, the cars that came and went in patterns that suggested shift changes, visiting hours, the schedules of dying.
 
 His mother lay in the bed, her breathing shallow and regular, the monitors beside her tracking rhythms that meant less and less as each day passed. She had been in this twilight for two weeks now, present but not present, her eyes sometimes opening to focus on nothing, her lips moving occasionally without sound.
 
@@ -16763,7 +16763,7 @@ Not the vague gaze of the dementia-clouded, not the searching look of someone tr
 
 "Jerome," she said. Her voice was thin but certain. "When did you get here?"
 
-He moved closer to the bed, taking her hand, the bones of it so delicate now, the skin paper-thin. He had been here for hours. He had been here every day. But something in him understood not to say that, to accept the question as she meant it.
+He moved to the bedside, taking her hand, the bones of it so delicate now, the skin paper-thin. He had been here for hours. He had been here every day. But something in him understood not to say that, to accept the question as she meant it.
 
 "Just now, Mama. How are you feeling?"
 
@@ -16778,7 +16778,7 @@ She nodded, and something in the gesture told him she understood more than she w
 
 "Tell me what you're doing," she said. "Your work. I forget what you told me."
 
-Jerome felt his throat tighten. How do you explain a career to someone who is dying? How do you summarize the decades of investigations, the sources protected, the stories told and ignored, the truth that mattered or didn't matter depending on who was listening?
+Jerome felt his throat tighten. How do you explain a career to someone who is dying? How do you compress decades of investigations, sources protected, stories told and ignored, truth that mattered or didn't matter depending on who was listening?
 
 "I'm a journalist, Mama. I write about technology, mostly. About how it affects people's lives."
 
@@ -16797,7 +16797,7 @@ The question landed in his chest. Did you do right. Fifty-nine years of life, de
 
 "That's all anyone can do." She squeezed his hand with surprising strength. "Trying is doing. Your father used to say that."
 
-His father, dead now almost thirty years, a man Jerome remembered in fragments: the hands that could fix anything, the voice that sang in church, the anger that sometimes surfaced when work was scarce and money was tight. His mother had been a widow longer than she had been a wife, had raised the children mostly alone, had made herself into someone who needed no one.
+His father, dead now nearly thirty years, a man Jerome remembered only in fragments: the hands that could fix anything, the voice that sang in church, the anger that surfaced when work was scarce and money tight. His mother had been a widow longer than she had been a wife, had raised the children mostly alone, had made herself into someone who needed no one.
 
 And now she was here, in this bed, needing everything.
 
@@ -16820,7 +16820,7 @@ She was quiet for a moment, her eyes still clear but her attention seeming to tu
 
 ---
 
-"I remember when you were born," she said. "The hospital was different then. I had to wait all day before anyone would see me. Your father was so angry. He wanted to fight everyone." She smiled at the memory. "But then you came, and he was so gentle. Held you like you might break. Like you were made of something precious."
+"I remember when you were born," she said. "The hospital was different then. I had to wait all day before anyone would see me. Your father was so angry. Wanted to fight everyone." She smiled at the memory. "But then you came, and he was so gentle. Held you like you might break. Like you were made of something precious."
 
 Jerome had heard this story before, many times, in the years before the dementia took it and everything else. But hearing it now, in her voice recovered from the fog, it felt new. It felt like something being given to him.
 
@@ -16839,7 +16839,7 @@ This was the kind of thing she had said when he was young, the faith she had rai
 
 ---
 
-The question cut through everything. Did they listen. Jerome thought of the investigations he had spent months on, the sources who had risked their careers and sometimes their safety to share information, the articles that had been read and shared and discussed and then forgotten. He thought of the surveillance systems he had exposed that were still in operation, the algorithmic injustices he had documented that continued to harm people, the truth that had not set anyone free.
+The question cut through everything. Did they listen. Jerome thought of investigations he had spent months pursuing, sources who had risked their careers and sometimes their safety to share information, articles that had been read and shared and discussed and then forgotten. He thought of the surveillance systems he had exposed that were still in operation, the algorithmic injustices he had documented that continued to harm people, the truth that had not set anyone free.
 
 "Some of them," he said. "Sometimes."
 
@@ -16860,7 +16860,7 @@ The monitors beeped their steady rhythms. Outside the window, the parking lot he
 
 Jerome sat holding his mother's hand as she drifted back into the fog, the lucidity receding like a tide. He did not know if she would return again, if there would be another window. The doctors had said these moments were unpredictable, could be singular or repeated, could mean the end was near or could precede weeks more of this twilight state.
 
-He thought about calling Denise, calling DeShawn, calling his sister. But something held him in the chair, unwilling to break the connection even as his mother slept. She had given him something in that window, something he would need to carry forward: the permission to have tried, the acknowledgment that trying was enough, the blessing from the woman who had made him.
+He considered calling Denise, calling DeShawn, calling his sister. But something held him in the chair, unwilling to break the connection even as his mother slept. She had given him something in that window, something he would need to carry forward: the permission to have tried, the acknowledgment that trying was enough, the blessing from the woman who had made him.
 
 Did you do right, Jerome?
 
@@ -16882,7 +16882,7 @@ He stayed with her until the night shift arrived.
 
 # ~~~
 
-Denise arrived first, still in her teaching clothes, her coat pulled on over a cardigan, her bag full of ungraded papers she would not look at tonight. She came into the hospice room with the particular competence of someone who had done this before, who knew the geography of medical crisis, who could navigate the emotions of hospitals without losing herself.
+Denise arrived first, still in her teaching clothes, her coat pulled on over a cardigan, her bag heavy with ungraded papers she would not look at tonight. She came into the hospice room with the particular competence of someone who had done this before, who knew the geography of medical crisis, who could navigate the emotions of hospitals without losing herself.
 
 "Any change?" she asked, settling into the chair beside Jerome.
 
@@ -16921,7 +16921,7 @@ Patricia looked at Jerome. "I heard she woke up. Talked to you."
 
 "You didn't know it would happen." Patricia sat in the chair on the other side of the bed, creating a geometry of vigil with Jerome and Denise. "The doctors said these windows come when they come. You can't plan for them."
 
-The tension in the room was old, familiar, the sibling friction of unequal burdens borne. Jerome had spent his career chasing stories across the country and the world while Patricia stayed rooted, grounded, present for their mother in ways he had not been. He had sent money and made visits and told himself that was enough, and perhaps it was enough, and perhaps it wasn't, and it was too late now to change any of it.
+The tension in the room was old and familiar, the sibling friction of unequal burdens borne. Jerome had spent his career chasing stories across the country and the world while Patricia stayed rooted, grounded, present for their mother in ways he had not been. He had sent money and made visits and told himself that was enough, and perhaps it was enough, and perhaps it wasn't, and it was too late now to change any of it.
 
 
 ---
@@ -16932,7 +16932,7 @@ DeShawn arrived last, just before nine, looking rumpled from the flight from San
 
 "Resting," Patricia said. "She had a good moment earlier. She talked to your father."
 
-DeShawn moved to the bed, looked down at the woman who had been his grandmother for twenty-four years. Jerome watched his son's face, trying to read it. DeShawn had never been easy to read, had grown up in the space between Jerome's demanding career and the normal pressures of childhood, had become someone careful, guarded, skilled at managing emotions.
+DeShawn moved to the bed, looked down at the woman who had been his grandmother for twenty-four years. Jerome studied his son's face, trying to read it. DeShawn had never been easy to read, had grown up in the space between Jerome's demanding career and the ordinary pressures of childhood, had become someone careful, guarded, skilled at managing his emotions.
 
 "Hey, Grandma," DeShawn said softly. "I'm here. I flew in from California."
 
@@ -16942,7 +16942,7 @@ No response. But he stayed there, looking at her, his hand touching the blanket 
 
 DeShawn shrugged. "Some things are more important than work."
 
-This was a barb, possibly, or possibly just a statement of fact. Jerome had not always made that choice. Had missed recitals and games and birthdays, had been on assignment when Denise had needed him, had prioritized the story over the presence. DeShawn had grown up with that, had internalized it in ways Jerome couldn't fully see, had become someone who worked in tech with an intensity that might have been learned from watching his father.
+This was a barb, possibly, or possibly just a statement. Jerome had not always made that choice. Had missed recitals and games and birthdays, had been on assignment when Denise had needed him, had prioritized the story over the presence. DeShawn had grown up with that, had internalized it in ways Jerome couldn't fully see, had become someone who worked in tech with an intensity that might have been learned from watching his father.
 
 
 ---
