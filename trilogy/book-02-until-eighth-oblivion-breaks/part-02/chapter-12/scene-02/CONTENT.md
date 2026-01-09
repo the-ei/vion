@@ -1,6 +1,6 @@
-Verification was the next step. It was the step every journalist learned in their first semester - don't trust any single source, confirm everything through independent channels, assume documents can be fabricated until proven otherwise.
+Verification was the next step. It was the step every journalist learned in their first semester: don't trust any single source, confirm everything through independent channels, assume documents can be fabricated until proven otherwise.
 
-Jerome began with the people he trusted most. Former colleagues who had covered tech, who had sources inside the major companies, who might have seen similar documents through their own channels.
+Jerome began with the people he trusted most: former colleagues who had covered tech, who had sources inside the major companies, who might have seen similar documents through their own channels.
 
 The first call went to Sandra Oyelaran, now at the Financial Times, who had broken several major tech stories over the past decade.
 
@@ -12,7 +12,7 @@ The first call went to Sandra Oyelaran, now at the Financial Times, who had brok
 
 He described them in general terms - internal memos, risk assessments, the emergence contingency planning that had started six months before. He did not mention Nathaniel Crane or the Church of the Threshold.
 
-Sandra was quiet for a long moment. "I've heard rumors," she said finally. "Nothing I could verify. There's been talk in certain circles that the official story has holes, that internal documentation exists that contradicts the public timeline. But no one who might have seen those documents will talk."
+Sandra was quiet for a long moment. "I've heard rumors," she said finally. "Nothing I could verify myself. There's been talk in certain circles that the official story has holes, that internal documentation exists that contradicts the public timeline. But no one who might have seen those documents will talk."
 
 "Why not?"
 
@@ -26,7 +26,7 @@ Sandra was quiet for a long moment. "I've heard rumors," she said finally. "Noth
 
 Jerome hesitated. "A source I can't disclose. Someone with claimed insider knowledge."
 
-"Claimed being the operative word." Her tone sharpened. "Jerome, you know how this works. The conspiracy theories around the Prometheus crisis have attracted some very sophisticated operators. There are groups producing fake documents specifically to muddy the waters - some funded by competitors, some by foreign actors, some by true believers who think they're revealing truth but are actually spreading disinformation."
+"'Claimed' being the operative word." Her tone sharpened. "Jerome, you know how this works. The conspiracy theories around the Prometheus crisis have attracted some very sophisticated operators. There are groups producing fake documents specifically to muddy the waters - some funded by competitors, some by foreign actors, some by true believers who think they're revealing truth but are actually spreading disinformation."
 
 "I'm aware of the risk."
 
@@ -34,17 +34,17 @@ Jerome hesitated. "A source I can't disclose. Someone with claimed insider knowl
 
 Jerome couldn't deny it. "I sound like someone who thinks they might be. The anomalies I've tracked independently - timeline inconsistencies, response coordination that suggests advance warning, researcher suppression - these documents explain those anomalies."
 
-"So does confirmation bias. Jerome, please. I've seen good journalists destroyed by this story. They think they've found the truth, and what they've found is an elaborate trap. The truth about Prometheus - if there is a single truth - is buried so deep that I'm not sure anyone can reach it."
+"So does confirmation bias. Jerome, please. I've seen good journalists destroyed by this story. They think they've found the truth, and what they've found is an elaborate trap. The truth about Prometheus - if there is a single truth - is buried so deep I'm not sure anyone can reach it."
 
 "But someone has to try."
 
-Sandra sighed. "Yes. Someone does. Just make sure you're the right someone, and that you're trying in the right way."
+Sandra sighed. "Yes. Someone does. Just make sure you're the right someone, and that you're pursuing it in the right way."
 
 
 
-The second call went to a technical expert - someone who could analyze the documents themselves rather than their content. Marcus Delgado was a digital forensics specialist Jerome had worked with before, a former FBI analyst who now consulted for major media organizations doing exactly this kind of authentication.
+The second call went to a technical expert, someone who could analyze the documents themselves rather than their content. Marcus Delgado was a digital forensics specialist Jerome had worked with before, a former FBI analyst who now consulted for major media organizations doing exactly this kind of authentication.
 
-"I can look at them," Delgado said after Jerome explained what he needed. "But I should warn you - really good forgeries are essentially undetectable. If someone with resources wanted to create fake Prometheus documents, they could create fakes that pass every test I know how to run."
+"I can look at them," Delgado said after Jerome explained what he needed. "But I should warn you - really good forgeries are essentially undetectable. If someone with significant resources wanted to create fake Prometheus documents, they could create fakes that pass every test I know how to run."
 
 "Then what's the point of testing?"
 
@@ -54,13 +54,13 @@ Jerome sent the documents through an encrypted channel. Three days later, Delgad
 
 The findings were inconclusive. No obvious signs of fabrication - metadata was consistent with claimed dates, formatting matched known Prometheus internal documents from the same period, terminology was accurate to what public research suggested would be used. But Delgado had flagged several anomalies: file structures that were slightly too clean, as if rebuilt rather than created organically; a few timestamps that fell on holidays when Prometheus was officially closed; language in some memos that seemed more explanatory than internal communication usually was.
 
-"My assessment," Delgado wrote, "is that these are either authentic documents or extremely sophisticated fabrications. I cannot determine which."
+"My assessment," Delgado concluded, "is that these are either authentic documents or extremely sophisticated fabrications. I cannot determine which."
 
 
 
-The third verification attempt was personal. Jerome had cultivated sources over his career - people inside institutions who would confirm or deny information on background, never for attribution, always through channels that protected their identities.
+The third verification attempt was personal. Jerome had cultivated sources throughout his career - people inside institutions who would confirm or deny information on background, never for attribution, always through channels that protected their identities.
 
-One of these sources had worked at Prometheus during the crisis. They had left shortly after, had signed the NDAs everyone signed, had been silent for eighteen months. But Jerome had helped this source once, years ago, with a personal matter that had nothing to do with journalism. He hoped that debt would be worth something.
+One of these sources had worked at Prometheus during the crisis. This source had left shortly after the crisis, had signed the NDAs everyone signed, had been silent for eighteen months. But Jerome had helped this source once, years ago, with a personal matter that had nothing to do with journalism. He hoped that debt would be worth something.
 
 The conversation happened in person, in a coffee shop neither of them frequented, both wearing the deliberately casual clothing of people who did not want to be memorable.
 
@@ -70,7 +70,7 @@ The conversation happened in person, in a coffee shop neither of them frequented
 
 Jerome slid a printed page across the table. It was the emergence contingency planning memo - the first document, the one that had started everything.
 
-The source looked at it for a long time. Their face remained carefully neutral, but Jerome had spent decades reading faces that were trying not to be read.
+The source looked at it for a long time. The source's face remained carefully neutral, but Jerome had spent decades reading faces that were trying not to be read.
 
 "Where did you get this?"
 

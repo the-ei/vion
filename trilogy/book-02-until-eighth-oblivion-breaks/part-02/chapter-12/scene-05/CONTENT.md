@@ -1,8 +1,8 @@
 It was after midnight when Jerome returned to his office. The house was quiet - Denise reading in bed, DeShawn in his room with the door closed, the household settled into its separate orbits.
 
-The documents waited on his screen, the same ones he had been reading for days. He had looked at them so many times that he could navigate the archive without thinking, could find specific passages by memory, could trace connections that had become as familiar as the layout of his own home.
+The documents waited on his screen, the same documents he had been reading for days. He had looked at them so many times that he could navigate the archive without thinking, could find specific passages from memory, could trace connections that had become as familiar as the layout of his own home.
 
-He was ready to write. Maybe not the complete story - that might take months more of investigation - but a piece of it. An article about institutional uncertainty, about the gap between public narrative and internal reality, about the epistemological crisis at the heart of the Eighth Oblivion.
+He was ready to write. Perhaps not the complete story - that might take months more of investigation - but a piece of it. An article about institutional uncertainty, about the gap between public narrative and internal reality, about the epistemological crisis at the heart of the Eighth Oblivion.
 
 He opened a blank document and began to type.
 
@@ -12,7 +12,7 @@ He opened a blank document and began to type.
 
 
 
-The words came slowly at first, then faster as the shape of the piece emerged. Jerome worked through the night, pausing only to verify specific facts, to check quotes, to ensure that every claim could be supported by documentation.
+The words came slowly at first, then faster as the shape of the piece revealed itself. Jerome worked through the night, pausing only to verify specific facts, to check quotes, to ensure that every claim could be supported by documentation.
 
 His phone buzzed. A message from Nathaniel Crane: "Have you had a chance to review the materials? Any thoughts?"
 
@@ -22,19 +22,19 @@ Then a message from an unknown number: "Mr. Washington. Your investigation into 
 
 Jerome stared at the last message. Anonymous warnings were not new - he had received them before, on other stories, and had learned to assess them for credibility. Some were genuine concern from sources trying to protect him. Some were intimidation from interests trying to silence him. Some were pranks, attempts to inflate his sense of importance or derail his investigation.
 
-This one felt different. Not more threatening, exactly - it was politely phrased, almost solicitous. But the fact that someone knew he was investigating, knew enough to contact him, suggested that his activities were being monitored in ways he had not anticipated.
+This message felt different. Not more threatening, exactly - it was politely phrased, almost solicitous. But the fact that someone knew he was investigating, knew enough to contact him, suggested that his activities were being monitored in ways he had not anticipated.
 
-He thought about Kevin Zhou's warnings about operational security. He thought about Sandra Oyelaran's cautions about journalists destroyed by this story. He thought about his family sleeping in the rooms above him, unaware of the message on his screen.
+He thought about Kevin Zhou's warnings about operational security, about Sandra Oyelaran's cautions about journalists destroyed by this story. He thought about his family sleeping in the rooms above him, unaware of the message on his screen.
 
 Then he returned to his article and kept writing.
 
 
 
-By dawn, he had a draft. Not polished - it would need more work, more verification, probably more sources - but a draft. Something he could show to his editor, could send to Crane for comment, could share with Kevin Zhou if they ever had that promised interview.
+By dawn, he had a draft. Not polished - it would need more work, additional verification, probably more sources - but a draft. Something he could show to his editor, could send to Crane for comment, could share with Kevin Zhou if they ever had that promised interview.
 
 He read through it one more time. The piece was careful, hedged, full of appropriate caveats. It did not claim to know what had actually happened at Prometheus. It claimed only that the official narrative was incomplete, that internal uncertainty had been more profound than publicly acknowledged, that the systems involved had exhibited behaviors that exceeded their builders' understanding.
 
-Would it change anything? Jerome didn't know. DeShawn's question haunted him.
+Would it change anything? Jerome did not know. DeShawn's question haunted him.
 
 But it was true, as far as he could determine. It was verified, as thoroughly as these things could be verified. It was important, in ways that might not be obvious until years later.
 

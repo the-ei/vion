@@ -1,4 +1,4 @@
-Sunday dinner had been a ritual in the Washington household for as long as DeShawn could remember. Denise made her mother's recipes - jerk chicken, rice and peas, cornbread that was controversial because it had sugar in it, which apparently violated some tradition Jerome's side of the family maintained. The three of them ate in the dining room, not the kitchen, because Sunday dinner was formal enough to merit the extra dishes.
+Sunday dinner had been a ritual in the Washington household for as long as anyone could remember. Denise made her mother's recipes - jerk chicken, rice and peas, cornbread that was perpetually controversial because it had sugar in it, which apparently violated some tradition Jerome's side of the family maintained. The three of them ate in the dining room, not the kitchen, because Sunday dinner was formal enough to merit the extra dishes.
 
 Tonight, Jerome kept checking his phone.
 
@@ -8,7 +8,7 @@ Jerome looked up, registered the complaint, put the phone face-down on the table
 
 "You're always expecting some responses. It's Sunday dinner."
 
-"The boy's right." Denise's tone was light, but Jerome heard the edge beneath it. "Whatever it is can wait an hour."
+"The boy's right." Denise's tone was light, but Jerome heard the edge beneath. "Whatever it is can wait an hour."
 
 Jerome made an effort to be present. He asked DeShawn about school, about college applications, about the robotics club that had been consuming his son's free time. DeShawn answered with the half-attention of a teenager who knew when he was being managed.
 
@@ -26,7 +26,7 @@ Jerome considered the question. "I don't know. What do you mean by 'change anyth
 
 The question stung because it was exactly what Jerome had been asking himself.
 
-"The truth matters," he said, the answer he always gave. "Even if people don't immediately act on it, having accurate information in the public record matters."
+"The truth matters," he said - the answer he always gave. "Even if people don't immediately act on it, having accurate information in the public record matters."
 
 DeShawn's expression suggested he was not convinced. "But does it though? I read your articles. They're good - better than most stuff online. But they don't seem to change anything. The companies keep doing what they're doing. The government keeps not understanding. People keep arguing with each other based on which reality they've chosen to believe."
 
@@ -36,11 +36,11 @@ DeShawn's expression suggested he was not convinced. "But does it though? I read
 
 Denise intervened, as she often did when father and son approached contentious territory. "The thing about journalism, sweetheart, is that you don't always see the impact directly. Stories accumulate. They shape how people think over time. One article might not change anything, but a hundred articles create pressure that eventually produces change."
 
-"That sounds like cope," DeShawn said. "No offense, Mom."
+"That sounds like cope, honestly," DeShawn said. "No offense, Mom."
 
 "Full offense taken, thank you." But she was smiling. "Jerome, help me out here."
 
-Jerome looked at his son - seventeen, brilliant, raised on the internet and deeply skeptical of institutions his parents' generation still believed in. He thought about what Kevin Zhou had said about the counter-narratives, about how they absorbed new information and converted it into supporting evidence.
+Jerome looked at his son - seventeen years old, brilliant, raised on the internet and deeply skeptical of institutions his parents' generation still believed in. He thought about what Kevin Zhou had said about the counter-narratives, about how they absorbed new information and converted it into supporting evidence.
 
 
 
@@ -48,7 +48,7 @@ Jerome looked at his son - seventeen, brilliant, raised on the internet and deep
 
 "Harder how?"
 
-"Harder because you can't just tell people the truth and expect them to update. You have to show them something they can't dismiss, in a way they can't ignore, and hope that somewhere along the line the accumulated pressure reaches a tipping point."
+"Harder because you can't simply tell people the truth and expect them to update. You have to show them something they can't dismiss, in a way they can't ignore, and hope that somewhere along the line the accumulated pressure reaches a tipping point."
 
 DeShawn seemed to consider this. "But what if there is no tipping point? What if we're past the point where information can change anything?"
 
@@ -56,7 +56,7 @@ DeShawn seemed to consider this. "But what if there is no tipping point? What if
 
 "Because you've been doing this for thirty years and it's too late to change careers?"
 
-The question landed harder than DeShawn probably intended. Jerome looked at his son, saw himself twenty years ago - hungry for truth, suspicious of institutions, certain that authenticity required rejecting the compromises his elders had made.
+The question landed harder than DeShawn had probably intended. Jerome looked at his son and saw himself twenty years ago - hungry for truth, suspicious of institutions, certain that authenticity required rejecting the compromises his elders had made.
 
 "That's part of it," Jerome admitted. "But it's not the only part. I've seen journalism matter. I've seen stories change outcomes. It doesn't happen as often as I'd like, and it takes longer than it should, but it happens. The day I stop believing it can happen is the day I should stop doing this."
 
@@ -74,15 +74,15 @@ After dinner, Denise pulled Jerome aside while DeShawn loaded the dishwasher.
 
 "About the cynicism. About information not changing behavior. About you being absorbed in this story in ways that are concerning."
 
-Jerome sighed. "It's important, Denise. What I'm finding - it's not just another story. It's about the foundations of what we think we know."
+Jerome sighed. "It's important, Denise. What I'm finding - it's not just another story. It's about the very foundations of what we think we know."
 
-"That's what you said about the Prometheus whistleblowers. And the algorithmic bias series. And the financial disclosure investigation. Every story is the most important story, and every story takes more of you than you planned to give."
+"That's what you said about the Prometheus whistleblowers. And the algorithmic bias series. And the financial disclosure investigation before that. Every story is the most important story, and every story takes more of you than you planned to give."
 
 "This one is different."
 
 "They're all different. That's not the point." She touched his arm, the gesture of someone who had spent decades learning how to reach him. "The point is that you have a son who doesn't know how to talk to you about anything except work, and a wife who is watching you disappear into your office every night, and a life that exists outside whatever truth you're chasing. Those things matter too."
 
-Jerome wanted to argue, to explain why this story was actually different, why the stakes were high enough to justify the costs. But he heard DeShawn's words echoing: "Is it going to change anything?"
+Jerome wanted to argue, to explain why this particular story was actually different, why the stakes were high enough to justify the costs. But he heard DeShawn's words echoing: "Is it going to change anything?"
 
 What if he sacrificed his family for a story that changed nothing?
 
