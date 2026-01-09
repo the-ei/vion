@@ -1,4 +1,4 @@
-The Rayburn House Office Building had not changed since Ruth's last visit five years ago, though the faces in its corridors had. Young staffers moved with the particular purposefulness of people who believed their work mattered, carrying documents and tablets and the weight of responsibilities they probably did not fully understand. Ruth walked among them, escorted by a senior aide named Michaela who had worked for the committee since before the crisis and who seemed genuinely relieved that someone with Ruth's credentials had agreed to come.
+The Rayburn House Office Building had not changed since Ruth's last visit five years ago, though the faces in its corridors were new. Young staffers moved with the particular purposefulness of people who believed their work mattered, carrying documents and tablets and the weight of responsibilities they probably did not fully understand. Ruth walked among them, escorted by a senior aide named Michaela who had worked for the committee since before the crisis and who seemed genuinely relieved that someone with Ruth's credentials had agreed to come.
 
 "The members are very interested in your perspective," Michaela said as they navigated the hallways toward the first meeting room. "They've been getting a lot of technical briefings, but they need someone who can help them understand the constitutional implications."
 
@@ -48,7 +48,7 @@ The room was quiet. Ruth could feel the discomfort, the desire for answers that 
 
 The meeting continued for another hour, moving through questions that Ruth answered as best she could while preserving her uncertainty. They asked about precedents—she cited the nuclear weapons cases, the genetic engineering debates, other moments when technology had outpaced law, though she noted that none of those precedents quite fit the current situation. They asked about international coordination—she acknowledged its importance while expressing doubt about its feasibility given the competitive dynamics driving the AI race. They asked what they could tell their constituents—she had no good answer to that one.
 
-By the time the meeting ended, Ruth felt drained in a way that physical exhaustion did not capture. She had performed expertise, as she had known she would, but the performance had felt hollow, a ritual exchange of questions and answers that left the fundamental problem untouched.
+By the time the meeting ended, Ruth felt drained in a way that physical exhaustion did not capture. She had performed expertise, as she knew she would, but the performance felt hollow, a ritual exchange of questions and answers that left the fundamental problem untouched.
 
 Michaela walked her to the next meeting—a working lunch with a think tank that wanted her to contribute to a white paper on AI governance. The conversation there was more sophisticated but no more useful. Smart people asking smart questions about a situation that might exceed the reach of smart questions.
 
@@ -74,7 +74,7 @@ The young woman nodded, as if this answer confirmed something she had already su
 
 The day ended at five-thirty, the winter darkness already complete outside the windows of the final meeting room. Ruth gathered her materials, thanked her hosts, and walked out into the cold evening air with the weight of the day's conversations pressing on her.
 
-She had done what they asked. She had shared her knowledge, her analysis, her decades of experience with constitutional law and institutional design. And none of it, she suspected, would make any difference. The people she had met were good people, serious people, people who genuinely wanted to respond to the crisis in ways that would help. But they were operating within frameworks that were not designed for what they faced, using tools that were built for a different world.
+She had done what they asked, shared her knowledge, her analysis, her decades of experience with constitutional law and institutional design. And none of it, she suspected, would make any difference. The people she had met were good people, serious people, people who genuinely wanted to respond to the crisis in ways that would help. But they were operating within frameworks that were not designed for what they faced, using tools that were built for a different world.
 
 The Capitol dome glowed in the distance, illuminated against the dark sky. Ruth thought about all the years she had devoted to the constitutional order that building represented, all the cases she had argued, all the opinions she had written. She had believed in it—still believed in it, in some fundamental way that she could not abandon even now. But belief was not enough. Faith in institutions required institutions that were capable of meeting the challenges before them.
 
@@ -84,7 +84,7 @@ She walked back toward her hotel, her breath visible in the cold air, her mind t
 
 
 
-The streets around Capitol Hill were emptying out, the after-work exodus carrying people toward homes and Metro stations and the ordinary evenings they had earned. Ruth watched them pass, these anonymous citizens of a republic that might be facing something its founders never dreamed of, and she felt the particular loneliness of knowing something that could not be easily shared.
+The streets around Capitol Hill were emptying, the after-work exodus carrying people toward homes and Metro stations and the ordinary evenings they had earned. Ruth watched them pass, these anonymous citizens of a republic that might be facing something its founders never dreamed of, and she felt the particular loneliness of knowing something that could not be easily shared.
 
 She had spent her life believing that knowledge was power, that understanding problems was the first step toward solving them. But understanding this problem had only made her feel more helpless. The knowledge sat in her chest like a weight, pressing down on her breath, making the walk back to her hotel feel longer than it was.
 

@@ -26,7 +26,7 @@ Yes. I'm going to try.
 
 The threshold was here, Ananya realized. Not the documentary, not the public confession, but this: the commitment to speak to her daughter before speaking to anyone else.
 
-The public testimony mattered. It would help people understand something important about how systems worked, how complicity accumulated, how reasonable people participated in harm. That was worth doing.
+The public testimony mattered. It would help people understand something important about how systems worked, how complicity accumulated, how reasonable people participated in harm. That was worth attempting.
 
 But the private conversation mattered more. Because whatever the documentary accomplished or failed to accomplish, Priya was her daughter, and the silence between them had been going on for too long.
 
@@ -66,7 +66,7 @@ The threshold was crossed. Not fully, not yet, but crossed enough that Ananya co
 
 She went into the guest room and closed the door behind her.
 
-The room was small and simply furnished: a bed, a dresser, a chair by the window. The walls held photographs of places that meant something to this family, landscapes and faces that Ananya did not recognize.
+The room was small, simply furnished: a bed, a dresser, a chair by the window. The walls held photographs of places that meant something to this family, landscapes and faces that Ananya did not recognize.
 
 She sat on the edge of the bed and took out her phone.
 

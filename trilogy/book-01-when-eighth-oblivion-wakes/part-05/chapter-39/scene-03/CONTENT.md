@@ -1,4 +1,4 @@
-The hotel room felt smaller in the evening, the walls pressing in around the bed and desk and the single chair where Ruth sat with her phone in her hand, deciding whether to make the calls she had been putting off.
+The hotel room felt smaller in the evening, walls pressing in around the bed and desk and the single chair where Ruth sat with her phone, deciding whether to make the calls she had been avoiding.
 
 David answered on the second ring, his voice carrying the particular satisfaction of someone who had navigated the day's markets successfully. "Mom. How's Washington?"
 
@@ -36,7 +36,7 @@ David was quiet for a moment, processing this. When he spoke, his voice was care
 
 "Maybe not. But it's how I feel."
 
-The silence between them stretched, filling with the history of disappointments they both carried. David had been a different kind of child—curious, idealistic, interested in justice. Somewhere along the way, those qualities had been channeled into the pursuit of wealth, into the belief that success was measured in numbers on a screen. Ruth did not understand how it had happened, or whether she could have done something to prevent it.
+The silence between them stretched, filling with the history of disappointment they both carried. David had been a different kind of child once: curious, idealistic, interested in justice. Somewhere along the way, those qualities had been channeled into the pursuit of wealth, into the belief that success was measured in numbers on a screen. Ruth did not understand how it had happened, or whether she could have done something to prevent it.
 
 
 
@@ -46,7 +46,7 @@ The silence between them stretched, filling with the history of disappointments 
 
 They said goodbye, and Ruth sat for a moment with the phone still in her hand, feeling the distance between herself and her son as a physical ache. Then she dialed Rebecca's number.
 
-Her daughter answered with the sound of exhaustion in her voice, the particular fatigue of someone who worked with people in crisis and absorbed their pain into her own body. "Mom. Hi. Sorry, it's been a day."
+Her daughter answered with exhaustion in her voice, the fatigue of someone who worked with people in crisis and absorbed their pain into her own body. "Mom. Hi. Sorry, it's been a day."
 
 "It's always a day for you. How are you?"
 
@@ -98,7 +98,7 @@ The words hung in the silence between them, transmitted through cellular network
 
 "That sounds like you, actually. Underneath all the judicial dignity, you've always been someone who finds a way."
 
-Ruth felt something release in her chest, a tension she had been carrying without fully acknowledging. Her daughter's words landed as affirmation, as permission she had not known she needed.
+Ruth felt something release in her chest, a tension she had carried without fully acknowledging. Her daughter's words landed as affirmation, as permission she had not known she needed.
 
 "I miss your mother," Ruth said, the statement emerging from somewhere deeper than the conversation had been. "Susan would have known what to think about all this. She would have had some sharp thing to say that cut through my confusion."
 

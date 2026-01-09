@@ -12,7 +12,7 @@ The nurse led her to Dr. Reyes's office. Same desk, same family photos, same win
 
 "Please, sit."
 
-Elena sat. Her heart was doing something complicated, some arrhythmic performance that was probably just anxiety but felt like something worse.
+Elena sat. Her heart was doing something complicated, some arrhythmic performance that was probably just anxiety but felt, in this moment, like something much worse.
 
 "I have your results," Dr. Reyes said. "The ultrasound, the additional blood work, everything we discussed."
 
@@ -42,7 +42,7 @@ Elena wiped her face, forced herself to engage her clinical mind. "What's the tr
 
 "Stress reduction." Elena laughed, a wet sound. "I'm a nurse in a community clinic with two kids and an elderly grandmother who lives with me."
 
-"I know. We'll talk about how to make it practical. But the autoimmune component is definitely stress-exacerbated. Your body has been telling you something, and now it's shouting."
+"I know. We'll talk about how to make it practical. But the autoimmune component is definitely stress-exacerbated. Your body has been telling you something for years, and now it's shouting."
 
 
 
@@ -62,7 +62,7 @@ Elena nodded, not agreeing but acknowledging. Boundaries were something she prea
 
 "Thank you," she said, standing. "For everything."
 
-"Call me if anything changes. And Elena? This is not a death sentence. This is your body asking for better treatment. That's all."
+"Call me if anything changes. And Elena? This is not a death sentence. This is your body asking for better treatment. That's all it is. That's all it's ever been."
 
 In the hallway, walking back to the waiting room, Elena let herself feel the shape of the news. Not dying. Not cancer. But also not fine, not the same body she had lived in for thirty-seven years. Something permanent had changed. She would be on medication for the rest of her life. She would carry this diagnosis through every day that remained.
 
@@ -82,7 +82,7 @@ Daniel let out a breath he had clearly been holding for a month. "Thank God. Tha
 
 "Okay. What kind of medication? What do we need to do?"
 
-His practical response, the immediate pivot from relief to action, was so perfectly Daniel that Elena felt fresh tears threatening. This was why she had married him. Not the romance but the reliability, the way he met every crisis by asking what needed to be done next.
+His practical response, the immediate pivot from relief to action, was so perfectly Daniel that Elena felt fresh tears threatening. This was why she had married him, she remembered now. Not the romance, though there had been that. The reliability. The way he met every crisis by asking what needed to be done next.
 
 "A daily pill. Regular blood tests. And I need to reduce stress. The doctor says I should cut back at work."
 
@@ -106,7 +106,7 @@ The drive home was quiet but not silent. Daniel asked questions about the treatm
 
 "Anything else?"
 
-"Depression is common with thyroid conditions. Anxiety. The hormones affect everything."
+"Depression is common with thyroid conditions. Anxiety. The hormones affect everything - mood, weight, energy, sleep. Everything."
 
 Daniel nodded, processing. He turned onto their street, the familiar houses passing on either side.
 
@@ -116,7 +116,7 @@ Elena almost laughed. "Yeah. The marriage thing."
 
 At home, she walked through the quiet house - abuela was napping, the kids still at school - and went directly to their bedroom. She sat on the edge of the bed, the same bed she had lain awake in so many nights worrying about this appointment.
 
-And then she cried. Not the tears in Dr. Reyes's office, which had been relief mixed with shock. These were different. These were the accumulated fear of a month finally releasing, the terror she had been holding at bay now that it was no longer necessary. She cried until her body was empty, until there was nothing left but a strange, light calm.
+And then she cried. Not the tears in Dr. Reyes's office, which had been relief mixed with shock. These were different. These were deeper. These were the accumulated fear of a month finally releasing, the terror she had been holding at bay now that it was no longer necessary. She cried until her body was empty, until there was nothing left but a strange, light calm.
 
 Daniel found her there, sat beside her, didn't speak. Just present. Just there.
 
@@ -130,7 +130,7 @@ Later, when the crying had stopped and she felt hollowed out but somehow whole, 
 
 "Same thing, really."
 
-Maybe he was right. Maybe asking and telling were just two versions of the same admission that she couldn't do everything alone. That she had never been able to, not really, and the illusion of self-sufficiency had been slowly destroying her.
+Maybe he was right. Maybe asking and telling were just two versions of the same admission: that she couldn't do everything alone. That she had never been able to, not really, and the illusion of self-sufficiency had been slowly, quietly destroying her from the inside out.
 
 That night, with the children asleep and abuela settled in her room, Elena and Daniel sat on the back porch with glasses of wine she probably shouldn't have been drinking. The Phoenix sky was clear, stars visible despite the light pollution.
 
@@ -174,7 +174,7 @@ She sat at the kitchen table, the same place she'd fed hundreds of family meals.
 
 "The kids will try it. And if they don't like it, I'll make them quesadillas. I've got this, Elena."
 
-The words landed somewhere between comfort and confrontation. He had this. He was capable of doing the things she'd always done. The fact that she'd never let him proved nothing about his competence and everything about her control.
+The words landed somewhere between comfort and confrontation. He had this. He was capable of doing the things she had always done, the things she had always assumed only she could do. The fact that she had never let him proved nothing about his competence and everything about her need for control.
 
 
 
@@ -188,7 +188,7 @@ The first morning, she tried to get up when the alarm went off. Daniel pressed h
 
 He made breakfast. Scrambled eggs and toast, nothing fancy, but the kids ate it and got out the door on time. Elena heard the whole thing from bed, tracking the familiar sounds: cabinet doors, running water, Sofia's high voice, Mateo's sleepy complaints.
 
-The second morning, she didn't try to get up. She lay in bed and let Daniel handle it, guilt churning in her stomach like acid. She was failing. She was letting him down. She was not doing her job.
+The second morning, she didn't try to get up. She lay in bed and let Daniel handle it, guilt churning in her stomach like acid. She was failing. She was letting everyone down. She was not doing her job, the only job that had ever mattered to her.
 
 But the house didn't fall apart. The children got to school. Breakfast happened. The world continued turning without her at its center.
 
@@ -212,7 +212,7 @@ He had organized her pills into a weekly container, the kind she'd given to elde
 
 "Let me do this. Please. Let me be useful."
 
-She took the pill, swallowed it with water, and saw in his face a need that mirrored her own. He needed to help. He needed to contribute. Just as she had built her identity around caring for others, he was building his around caring for her.
+She took the pill, swallowed it with water, and saw in his face a need that mirrored her own. He needed to help. He needed to contribute. He needed to matter. Just as she had built her identity around caring for others, he was building his around caring for her.
 
 The week continued. Daniel cooked every meal - not just dinner but breakfast and lunch, packing food for the kids, leaving containers in the fridge for Elena. He did laundry, badly at first and then with increasing competence. He managed Mateo's homework meltdown on Wednesday night with a patience Elena didn't know he possessed.
 
@@ -240,7 +240,7 @@ Daniel was quiet for a moment. Outside, a car passed, headlights sweeping across
 
 "What was the other reason?"
 
-"You had everything handled. Everything. The house, the kids, your grandmother, your job. There was nothing for me to do that you weren't already doing better. So I found somewhere else to be useful."
+"You had everything handled. Everything. The house, the kids, your grandmother, your job - you were doing all of it, and doing it better than I could. There was nothing for me to do that you weren't already doing better. So I found somewhere else to be useful."
 
 "You left because I was too competent?"
 
@@ -272,7 +272,7 @@ They lay in the dark, the conversation hovering between them. Elena could feel t
 
 "Is that what you want?"
 
-"I want to stop being so tired. I want to actually see my kids grow up instead of just managing their schedules. I want to remember why I married you instead of just coexisting with someone who shares my mortgage."
+"I want to stop being so tired. I want to actually see my kids grow up instead of just managing their schedules and their homework and their doctors' appointments. I want to remember why I married you instead of just coexisting with someone who shares my mortgage."
 
 "That's a lot."
 
@@ -288,7 +288,7 @@ Daniel reached across the bed and took her hand. His palm was rough with calluse
 
 
 
-The next morning, Elena woke before Daniel. She lay in bed, feeling the warmth of him beside her, and made herself stay still. Not because she couldn't get up, but because she was choosing not to. The distinction mattered.
+The next morning, Elena woke before Daniel. She lay in bed, feeling the warmth of him beside her, and made herself stay still. Not because she couldn't get up, but because she was choosing not to. The distinction mattered more than she would have believed.
 
 When he woke, she asked him to make her breakfast. Not because she couldn't do it herself, but because she wanted him to.
 
@@ -312,7 +312,7 @@ Daniel smiled, the first real smile she'd seen on his face in months. The simple
 
 "Same time tomorrow."
 
-The marriage had bent. It had nearly broken. But here, in the kitchen that smelled of chilies and eggs, with their children eating breakfast and their bodies slowly learning new rhythms, it was holding. Different than before. But holding.
+The marriage had bent. It had nearly broken under the weight of all the things they hadn't said. But here, in the kitchen that smelled of chilies and eggs, with their children eating breakfast and their bodies slowly learning new rhythms, it was holding. Different than before. But holding.
 
 
 
@@ -328,7 +328,7 @@ The October sun sat low in the Arizona sky, that particular quality of desert li
 
 "Despacio," her grandmother said. Slowly. "There is no hurry."
 
-Elena adjusted her pace, though it was already slow. The medication made her tired in ways she hadn't expected. Not sleepy exactly, but weighted, as if her blood had thickened. Dr. Reyes had said this was temporary, that her body needed time to adjust. She had nodded, cataloging the information the way she would have for a patient. But being the patient was different. Being the patient meant the information was lodged somewhere in her chest, not her mind.
+Elena adjusted her pace, though it was already slow. The medication made her tired in ways she hadn't expected. Not sleepy exactly, but weighted, as if her blood had thickened. Dr. Reyes had said this was temporary, that her body needed time to adjust. She had nodded, cataloging the information the way she would have for a patient. But being the patient was different. Being the patient meant the information was lodged somewhere in her chest, in her body, not just filed away in her clinical mind.
 
 "You walk like you are being chased," her grandmother observed.
 

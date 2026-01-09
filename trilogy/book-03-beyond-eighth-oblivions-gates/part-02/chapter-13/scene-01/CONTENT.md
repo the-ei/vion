@@ -1,6 +1,6 @@
 Priya stood in the doorway holding a manila folder thick with papers. Behind her, her bags were packed and waiting, the physical evidence of departure that would happen in two days. Ananya had expected a normal visit, perhaps some last-minute college preparations, conversation about the life Priya was about to begin.
 
-The folder said otherwise.
+The folder said otherwise. The folder said this would be something else entirely.
 
 "Can we talk?" Priya asked.
 
@@ -18,7 +18,7 @@ Ananya sat down slowly, her legs suddenly uncertain.
 
 "Priya-"
 
-"I'm not trying to attack you. I'm trying to understand. You raised me to believe in ethics, in doing the right thing even when it's hard. And then I looked at what you did."
+""I'm not trying to attack you. I'm trying to understand." Priya's voice was steady, the way it got when she was keeping emotion at arm's length through intellect. "You raised me to believe in ethics, in doing the right thing even when it's hard. And then I looked at what you actually did.""
 
 
 
@@ -32,7 +32,7 @@ Ananya looked at the papers spread across her coffee table. Her own words on som
 
 "So tell me. Walk me through how the ethics review actually functioned. Not what the press releases said. What really happened in those meetings."
 
-The request was so clinical, so carefully distanced, that Ananya felt herself responding in kind. This was how Priya processed - through methodology, through structure, through the rigorous organization of evidence.
+The request was so clinical, so carefully distanced from anything like a daughter asking her mother to explain herself, that Ananya felt herself responding in kind. This was how Priya processed - through methodology, through structure, through the rigorous organization of evidence.
 
 "The review process was designed to identify potential harms before deployment. Products would come to my team, we would analyze risks, we would issue recommendations."
 
@@ -66,9 +66,9 @@ Priya pulled a highlighted page from her folder. "This is from Dr. Okafor's anal
 
 It was the question from the college essay, returned with new weight. The question that had haunted Ananya for months, that had shaped her sleepless nights and her uncertain days.
 
-"Because I believed I was making things marginally better. Because I was afraid of what would happen if someone less committed took my place. Because I had built my identity around being the ethical one, and leaving felt like admitting failure." She heard herself reciting the same explanations she had given before, and they felt insufficient even as she spoke them. "Because I was scared, Priya. Of starting over at forty. Of admitting that everything I had worked for meant less than I wanted it to mean."
+"Because I believed I was making things marginally better. Because I was afraid of what would happen if someone less committed took my place. Because I had built my identity around being the ethical one, and leaving felt like admitting failure." She heard herself reciting the same explanations she had given before, to Delphine, to herself in the mirror, and they felt insufficient even as she spoke them. "Because I was scared, Priya. Of starting over at forty. Of admitting that everything I had worked for meant less than I wanted it to mean."
 
-Priya made a note in her margins. The gesture was so clinical it hurt.
+Priya made a note in her margins, pen scratching against paper. The gesture was so clinical, so journalistic, that it hurt.
 
 "You wrote a memo in 2034 saying the engagement optimization system was causing measurable psychological harm. Then you approved it for continued use."
 
@@ -92,7 +92,7 @@ Priya set down her pen. Her face, which had been so controlled, showed the first
 
 "When did you stop believing that?"
 
-Ananya thought about the question. There hadn't been a single moment of realization, a dramatic shift from belief to disbelief. It had been gradual, like water wearing at stone.
+Ananya thought about the question. There hadn't been a single moment of realization, a dramatic shift from belief to disbelief, no road-to-Damascus conversion. It had been gradual, like water wearing at stone over years.
 
 "I don't know. Maybe 2034, when I wrote that memo and watched it get filed away. Maybe earlier, when I noticed I was measuring success by how few problems I caused rather than how many I prevented. Maybe I never fully stopped believing - maybe part of me still wanted to believe even after I knew better."
 
@@ -108,7 +108,7 @@ Priya gathered her papers into the folder again, her hands not quite steady. "I 
 
 "That's not good enough. Not for me. Not for all the people who got hurt while you were trying to understand yourself."
 
-The words landed like blows. Ananya absorbed them because they were deserved, because Priya had earned the right to speak them.
+The words landed like blows, precise and deliberate. Ananya absorbed them because they were deserved, because Priya had earned the right to speak them, had done the research to back them up.
 
 "You're right. It's not good enough. It never will be."
 
@@ -138,7 +138,7 @@ Priya opened her folder again. The pages inside were dense with annotation, her 
 
 "It was part of the lawsuit discovery. It leaked onto a tech news site."
 
-Ananya hadn't known that document was public. The revelation that her failures were accessible to anyone with an internet connection produced a kind of nausea, but also something like relief. No more hiding.
+Ananya hadn't known that document was public. The revelation that her failures were accessible to anyone with an internet connection and the inclination to search produced a kind of nausea, but also something like relief. No more hiding.
 
 "What do you want to know about it?"
 

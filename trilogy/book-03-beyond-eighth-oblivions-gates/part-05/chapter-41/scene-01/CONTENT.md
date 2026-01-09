@@ -1,4 +1,4 @@
-The symposium was called "Understanding the Eighth Oblivion: A Decade in Retrospect," and it was being held at a conference center in Washington DC, the kind of neutral space where academics and policymakers and journalists gathered to historicize what the rest of the world was still living through.
+The symposium was called "Understanding the Eighth Oblivion: A Decade in Retrospect," held at a conference center in Washington DC, the kind of neutral space where academics and policymakers and journalists gathered to historicize what the rest of the world was still living through.
 
 Ananya stood in the green room, adjusting the collar of her blouse, not quite ready to face the audience. She was on the first panel: "Technology Ethics in Crisis: What Worked and What Failed." The other panelists were a former regulator, a philosopher she had debated before, and a tech executive she had once worked with at Prometheus. The moderator was a journalist who had covered the tech industry for twenty years.
 
@@ -20,7 +20,7 @@ A knock at the door. Delphine entered, looking elegant in the particular way tha
 
 "Exactly. They weren't inside it. They can afford to have theories."
 
-Ananya smiled despite her nerves. This was what she loved about Delphine: the sharpness that cut through pretense, the refusal to be impressed by credentials when experience was what mattered.
+Ananya smiled despite her nerves. This was what she loved about Delphine: the sharpness that cut through pretense, the refusal to be impressed by credentials when experience mattered more.
 
 "Your documentary is being referenced constantly," Ananya said. "I heard one of the academics call it 'the definitive visual text of the period.'"
 
@@ -48,7 +48,7 @@ Priya looked between her mother and this woman she had heard so much about. "You
 
 Delphine laughed. "Fair. I'm bad at responding. It's a known issue."
 
-The three women sat together in the green room, an unlikely constellation: the tech ethicist, the documentary filmmaker, the next-generation daughter who was finding her own path. Their connection to each other was visible in the ease of their interaction, the shorthand that years of friendship had created.
+The three women sat together in the green room, an unlikely constellation: the tech ethicist, the documentary filmmaker, the next-generation daughter who was finding her own path. Their connection was visible in the ease of their interaction, the shorthand years of friendship had created.
 
 "I'm nervous about the panel," Ananya admitted. "Not about the content, but about the framing. They want me to be the person who has answers. Who can say definitively whether ethical AI worked or failed. But I don't have definitive answers. I have questions, still. Doubts."
 
@@ -62,7 +62,7 @@ Ananya looked at her daughter. This was exactly what she had told Priya in Chenn
 
 "I've been watching you my whole life," Priya said. "I learned a few things."
 
-The generational dynamic was visible in the room: Ananya at forty-eight, the weight of her career choices carried in the lines around her eyes; Priya at twenty-four, still forming, still deciding what to inherit and what to reject. The future was in Priya's hands now, or in the hands of people like her - the ones who would take what the previous generation had built and done and failed at, and make something else of it.
+The generational dynamic was visible: Ananya at forty-eight, the weight of her career choices carried in the lines around her eyes; Priya at twenty-four, still forming, still deciding what to inherit and what to reject. The future was in Priya's hands now, or in the hands of people like her - the ones who would take what the previous generation had built and done and failed at, and make something else of it.
 
 "The panel is about what worked and what failed," Ananya said. "I'm going to say that the question is wrong. That working and failing aren't opposites. That you can try to do right and fail, and the trying still matters. That you can succeed by metrics and still cause harm. The dichotomy is false."
 
@@ -92,7 +92,7 @@ Ananya laughed, the tension breaking slightly. This was what she had now: her da
 
 She walked toward the stage, toward the bright lights and the panel table and the audience that would judge what she said. The symposium was historicizing the decade, but she was still living it, still working through its implications, still uncertain about what it all meant.
 
-That was what she would say. That the story wasn't over, that the questions remained open, that anyone claiming to understand what had happened was simplifying something that resisted simplification.
+That was what she would say. That the story wasn't over, that the questions remained open, that anyone claiming to understand what happened was simplifying something that resisted simplification.
 
 The Eighth Oblivion. Even the name was a construction, a way of packaging a set of events and trends and transformations into something that could be discussed at academic conferences. The reality was messier, more diffuse, still unfolding.
 

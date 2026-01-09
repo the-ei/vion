@@ -1,4 +1,4 @@
-The last week of March came in soft, the light different from February's gray insistence. Spring arriving slowly to San Francisco, the way it did - not dramatic transformation but gradual warming, the fog retreating slightly earlier each morning, the parks greening at the edges.
+The last week of March came in soft, the light different from February's gray insistence. Spring arriving slowly to San Francisco the way it did: not dramatic transformation but gradual warming, the fog retreating slightly earlier each morning, the parks greening at the edges.
 
 Ruth Abramson's apartment occupied the top floor of a converted Victorian in the Inner Richmond. She had rented it for three months while she decided whether to make the move permanent, and the temporary had begun to feel like something else. Books on the shelves now. A coffee maker on the counter. Susan's photograph on the windowsill, catching the morning light.
 

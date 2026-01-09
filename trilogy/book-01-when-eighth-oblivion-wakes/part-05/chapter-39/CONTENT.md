@@ -1,6 +1,6 @@
 The approach to Reagan National never failed to move her, even after all these years, even after all the arrivals and departures that had marked her relationship with this city. The Potomac below, the monuments emerging from the geometry of the flight path, the particular way Washington announced itself as a place where power lived. Ruth had first flown into this airport in 1987, a young law clerk about to begin her career, and she had felt then what she felt now: a mixture of awe and skepticism, of recognition and distance.
 
-She was sixty-one years old. She had spent four decades in the law, first as a clerk, then as a litigator, then on the 9th Circuit bench, then as what they called semi-retired, which meant teaching at Stanford and writing occasionally and saying no to most of the invitations that still came to someone with her reputation. The crisis had brought a new kind of invitation. Congressional committees wanted her testimony. Think tanks wanted her analysis. Networks wanted her face on screens to provide gravitas to discussions she found largely uninformed.
+She was sixty-one. She had spent four decades in the law, first as a clerk, then as a litigator, then on the 9th Circuit bench, then as what they called semi-retired, which meant teaching at Stanford and writing occasionally and declining most of the invitations that still came to someone with her reputation. The crisis had brought a new kind of invitation. Congressional committees wanted her testimony. Think tanks wanted her analysis. Networks wanted her face on screens to provide gravitas to discussions she found largely uninformed.
 
 She had accepted this trip because the invitation came from people she respected—senior staffers who had worked with her years ago, who remembered her constitutional opinions, who believed she might have something useful to say. Whether that belief was justified, she did not know. She was not sure she had anything to say that would help.
 
@@ -8,7 +8,7 @@ The plane touched down with the familiar jolt of contact with ground, and Ruth g
 
 
 
-The car service picked her up at arrivals, a young man in a dark suit holding a sign with her name. She climbed into the backseat and watched the familiar route unfold: the George Washington Parkway, the bridge across the Potomac, the Capitol dome emerging against the winter sky. It was late afternoon, the sun already low, the buildings casting long shadows across the National Mall.
+The car service collected her at arrivals, a young man in a dark suit holding a sign with her name. She climbed into the backseat and watched the familiar route unfold: the George Washington Parkway, the bridge across the Potomac, the Capitol dome emerging against winter sky. It was late afternoon, the sun already low, the buildings casting long shadows across the National Mall.
 
 Susan would have had something to say about this. Susan always had something to say about Washington, about its pretensions and its possibilities, about the gap between the ideals carved into marble and the reality of what happened in the rooms where power actually lived. Ruth felt her absence as a constant pressure, a weight she carried every day but noticed more acutely here, in a city where they had spent so much time together.
 
@@ -18,7 +18,7 @@ The hotel was near Capitol Hill, one of those anonymous places that served the i
 
 
 
-Why had they summoned her? The question had been circling her mind since the invitation arrived, since she had agreed against her better judgment, since she had booked the flight that brought her back to a city she had been avoiding for years. They wanted her credibility, presumably—the weight that her name carried, the imprimatur of judicial experience applied to questions that had no judicial answers.
+Why had they summoned her? The question circled her mind since the invitation arrived, since she agreed against her better judgment, since she booked the flight that brought her back to a city she had been avoiding for years. They wanted her credibility, presumably—the weight that her name carried, the imprimatur of judicial experience applied to questions that had no judicial answers.
 
 The crisis was not a legal problem in any straightforward sense. The technologies being developed did not violate existing laws, because the laws had been written for a different world, a slower world, a world where change happened at a pace that governance could keep up with. Now change was happening faster than anyone could process, and the tools of law seemed inadequate to the task.
 
@@ -30,7 +30,7 @@ The window showed her the Capitol in the distance, its dome lit against the dark
 
 
 
-Ruth unpacked her overnight bag—she had brought only what she needed, having learned long ago that Washington consumed as much time as you gave it—and settled into the room's single armchair with her laptop. The schedule for tomorrow was dense: meetings with committee staff in the morning, a working lunch with a think tank, an afternoon session with officials from the executive branch. Each group wanted something from her, wanted her to lend her reputation to their positions, wanted to leave the meetings able to say that Ruth Abramson had been consulted.
+Ruth unpacked her overnight bag, having learned long ago that Washington consumed as much time as you gave it, and settled into the room's single armchair with her laptop. The schedule for tomorrow was dense: meetings with committee staff in the morning, a working lunch with a think tank, an afternoon session with officials from the executive branch. Each group wanted something from her, wanted her to lend her reputation to their positions, wanted to leave the meetings able to say that Ruth Abramson had been consulted.
 
 Susan would have been merciless about this. "They want your name on their memos," she would have said. "They don't want your actual thoughts, because your actual thoughts might complicate their narratives."
 
@@ -42,7 +42,7 @@ She closed the laptop and looked out the window at the night gathering over the 
 
 
 
-She ordered room service because she did not have the energy to go out, because the restaurants she remembered from her Washington years had probably been replaced by new ones she would not recognize, because eating alone in public had become unbearable since Susan died. The meal arrived on a cart, and she ate at the small desk by the window, watching the lights of the city, thinking about the conversations she would have tomorrow.
+She ordered room service because she lacked the energy to go out, because the restaurants she remembered from her Washington years had probably been replaced by new ones she would not recognize, because eating alone in public had become unbearable since Susan died. The meal arrived on a cart, and she ate at the small desk by the window, watching the lights of the city, thinking about the conversations she would have tomorrow.
 
 The people she would meet believed in the system. They had to—their careers depended on the assumption that government could respond to problems, that the constitutional order was adequate to the challenges it faced. If they did not believe that, they would not be able to get up in the morning and do their work.
 
@@ -56,7 +56,7 @@ She finished her meal and prepared for bed, and the city continued to hum outsid
 
 
 
-The bed was comfortable in the way hotel beds were comfortable: adequate, anonymous, designed for rest rather than belonging. Ruth lay in the darkness and thought about the journey that had brought her here, the decades of work, the cases argued, the opinions written, the life built around the belief that law could make the world more just.
+The bed was comfortable the way hotel beds were comfortable: adequate, anonymous, designed for rest rather than belonging. Ruth lay in the darkness and thought about the journey that had brought her here, the decades of work, the cases argued, the opinions written, the life built around the belief that law could make the world more just.
 
 She had done good work. She knew that, could feel it in the corpus of decisions she had contributed to, in the students she had taught, in the junior lawyers she had mentored. Her career had mattered, in the way careers matter to the people whose lives they touch. But now, at sixty-one, facing questions that dwarfed everything she had ever considered, she wondered whether any of it would prove relevant.
 
@@ -76,7 +76,7 @@ She closed her eyes and let the hotel's artificial silence wrap around her, and 
 
 ---
 
-The Rayburn House Office Building had not changed since Ruth's last visit five years ago, though the faces in its corridors had. Young staffers moved with the particular purposefulness of people who believed their work mattered, carrying documents and tablets and the weight of responsibilities they probably did not fully understand. Ruth walked among them, escorted by a senior aide named Michaela who had worked for the committee since before the crisis and who seemed genuinely relieved that someone with Ruth's credentials had agreed to come.
+The Rayburn House Office Building had not changed since Ruth's last visit five years ago, though the faces in its corridors were new. Young staffers moved with the particular purposefulness of people who believed their work mattered, carrying documents and tablets and the weight of responsibilities they probably did not fully understand. Ruth walked among them, escorted by a senior aide named Michaela who had worked for the committee since before the crisis and who seemed genuinely relieved that someone with Ruth's credentials had agreed to come.
 
 "The members are very interested in your perspective," Michaela said as they navigated the hallways toward the first meeting room. "They've been getting a lot of technical briefings, but they need someone who can help them understand the constitutional implications."
 
@@ -126,7 +126,7 @@ The room was quiet. Ruth could feel the discomfort, the desire for answers that 
 
 The meeting continued for another hour, moving through questions that Ruth answered as best she could while preserving her uncertainty. They asked about precedents—she cited the nuclear weapons cases, the genetic engineering debates, other moments when technology had outpaced law, though she noted that none of those precedents quite fit the current situation. They asked about international coordination—she acknowledged its importance while expressing doubt about its feasibility given the competitive dynamics driving the AI race. They asked what they could tell their constituents—she had no good answer to that one.
 
-By the time the meeting ended, Ruth felt drained in a way that physical exhaustion did not capture. She had performed expertise, as she had known she would, but the performance had felt hollow, a ritual exchange of questions and answers that left the fundamental problem untouched.
+By the time the meeting ended, Ruth felt drained in a way that physical exhaustion did not capture. She had performed expertise, as she knew she would, but the performance felt hollow, a ritual exchange of questions and answers that left the fundamental problem untouched.
 
 Michaela walked her to the next meeting—a working lunch with a think tank that wanted her to contribute to a white paper on AI governance. The conversation there was more sophisticated but no more useful. Smart people asking smart questions about a situation that might exceed the reach of smart questions.
 
@@ -152,7 +152,7 @@ The young woman nodded, as if this answer confirmed something she had already su
 
 The day ended at five-thirty, the winter darkness already complete outside the windows of the final meeting room. Ruth gathered her materials, thanked her hosts, and walked out into the cold evening air with the weight of the day's conversations pressing on her.
 
-She had done what they asked. She had shared her knowledge, her analysis, her decades of experience with constitutional law and institutional design. And none of it, she suspected, would make any difference. The people she had met were good people, serious people, people who genuinely wanted to respond to the crisis in ways that would help. But they were operating within frameworks that were not designed for what they faced, using tools that were built for a different world.
+She had done what they asked, shared her knowledge, her analysis, her decades of experience with constitutional law and institutional design. And none of it, she suspected, would make any difference. The people she had met were good people, serious people, people who genuinely wanted to respond to the crisis in ways that would help. But they were operating within frameworks that were not designed for what they faced, using tools that were built for a different world.
 
 The Capitol dome glowed in the distance, illuminated against the dark sky. Ruth thought about all the years she had devoted to the constitutional order that building represented, all the cases she had argued, all the opinions she had written. She had believed in it—still believed in it, in some fundamental way that she could not abandon even now. But belief was not enough. Faith in institutions required institutions that were capable of meeting the challenges before them.
 
@@ -162,7 +162,7 @@ She walked back toward her hotel, her breath visible in the cold air, her mind t
 
 
 
-The streets around Capitol Hill were emptying out, the after-work exodus carrying people toward homes and Metro stations and the ordinary evenings they had earned. Ruth watched them pass, these anonymous citizens of a republic that might be facing something its founders never dreamed of, and she felt the particular loneliness of knowing something that could not be easily shared.
+The streets around Capitol Hill were emptying, the after-work exodus carrying people toward homes and Metro stations and the ordinary evenings they had earned. Ruth watched them pass, these anonymous citizens of a republic that might be facing something its founders never dreamed of, and she felt the particular loneliness of knowing something that could not be easily shared.
 
 She had spent her life believing that knowledge was power, that understanding problems was the first step toward solving them. But understanding this problem had only made her feel more helpless. The knowledge sat in her chest like a weight, pressing down on her breath, making the walk back to her hotel feel longer than it was.
 
@@ -184,7 +184,7 @@ Tomorrow she would leave Washington. But she would not leave empty-handed.
 
 ---
 
-The hotel room felt smaller in the evening, the walls pressing in around the bed and desk and the single chair where Ruth sat with her phone in her hand, deciding whether to make the calls she had been putting off.
+The hotel room felt smaller in the evening, walls pressing in around the bed and desk and the single chair where Ruth sat with her phone, deciding whether to make the calls she had been avoiding.
 
 David answered on the second ring, his voice carrying the particular satisfaction of someone who had navigated the day's markets successfully. "Mom. How's Washington?"
 
@@ -222,7 +222,7 @@ David was quiet for a moment, processing this. When he spoke, his voice was care
 
 "Maybe not. But it's how I feel."
 
-The silence between them stretched, filling with the history of disappointments they both carried. David had been a different kind of child—curious, idealistic, interested in justice. Somewhere along the way, those qualities had been channeled into the pursuit of wealth, into the belief that success was measured in numbers on a screen. Ruth did not understand how it had happened, or whether she could have done something to prevent it.
+The silence between them stretched, filling with the history of disappointment they both carried. David had been a different kind of child once: curious, idealistic, interested in justice. Somewhere along the way, those qualities had been channeled into the pursuit of wealth, into the belief that success was measured in numbers on a screen. Ruth did not understand how it had happened, or whether she could have done something to prevent it.
 
 
 
@@ -232,7 +232,7 @@ The silence between them stretched, filling with the history of disappointments 
 
 They said goodbye, and Ruth sat for a moment with the phone still in her hand, feeling the distance between herself and her son as a physical ache. Then she dialed Rebecca's number.
 
-Her daughter answered with the sound of exhaustion in her voice, the particular fatigue of someone who worked with people in crisis and absorbed their pain into her own body. "Mom. Hi. Sorry, it's been a day."
+Her daughter answered with exhaustion in her voice, the fatigue of someone who worked with people in crisis and absorbed their pain into her own body. "Mom. Hi. Sorry, it's been a day."
 
 "It's always a day for you. How are you?"
 
@@ -284,7 +284,7 @@ The words hung in the silence between them, transmitted through cellular network
 
 "That sounds like you, actually. Underneath all the judicial dignity, you've always been someone who finds a way."
 
-Ruth felt something release in her chest, a tension she had been carrying without fully acknowledging. Her daughter's words landed as affirmation, as permission she had not known she needed.
+Ruth felt something release in her chest, a tension she had carried without fully acknowledging. Her daughter's words landed as affirmation, as permission she had not known she needed.
 
 "I miss your mother," Ruth said, the statement emerging from somewhere deeper than the conversation had been. "Susan would have known what to think about all this. She would have had some sharp thing to say that cut through my confusion."
 
@@ -318,7 +318,7 @@ The night deepened around her as she wrote, and the city outside her window cont
 
 ---
 
-Ruth woke before dawn, her body still calibrated to California time, and for a long moment she lay in the hotel darkness, feeling the city's presence beyond her window. Then she rose, dressed in layers against the February cold, and went out to walk.
+Ruth woke before dawn, her body still on California time, and for a long moment she lay in the hotel darkness, feeling the city's presence beyond her window. Then she rose, dressed in layers against the February cold, and went out to walk.
 
 The Mall was empty at this hour, the monuments standing in their illuminated silence, the grass still touched with frost. Ruth walked without particular destination, letting her feet carry her along paths she had walked decades ago, when Susan was alive, when they were young, when the future felt like something that would unfold gradually enough to be navigated.
 
@@ -332,7 +332,7 @@ Maybe that was what Ruth needed to understand. The official channels had their l
 
 She walked among the monuments as the light grew, passing Jefferson's rotunda, Washington's obelisk, the reflecting pool that mirrored the brightening sky. The tourists had not yet arrived; she had this space to herself, this physical expression of national aspiration that now felt both precious and precarious.
 
-The founders had built something remarkable—a system of governance that had survived civil war and depression and world wars, that had expanded liberty even when liberty's expansion required conflict with the system's own contradictions. They had not anticipated what Ruth now faced. How could they have? But they had built something flexible enough, resilient enough, to adapt to challenges they could not imagine.
+The founders had built something remarkable: a system of governance that had survived civil war and depression and world wars, that had expanded liberty even when liberty's expansion required conflict with the system's own contradictions. They had not anticipated what Ruth now faced. How could they have? But they had built something flexible enough, resilient enough, to adapt to challenges they could not imagine.
 
 Maybe that flexibility was the answer. Not new frameworks, not the regulatory mechanisms that yesterday's meetings had endlessly debated, but the older flexibility—the capacity of constitutional thought to stretch toward novel challenges.
 
@@ -344,7 +344,7 @@ She could be one of those people. She had spent decades within institutions, wor
 
 
 
-The sun crested the horizon as she walked back toward her hotel, painting the monuments in gold, making the marble glow with a light that felt almost hopeful. The city was beginning to stir—joggers on the paths, early commuters in cars, the ordinary machinery of human activity resuming its cycles.
+The sun crested the horizon as she walked back toward her hotel, painting the monuments gold, making the marble glow with light that felt almost hopeful. The city was beginning to stir—joggers on the paths, early commuters in cars, the ordinary machinery of human activity resuming its cycles.
 
 She thought about Jerome Washington, to whom she had sent an email the night before. She thought about the whistleblower from Prometheus, whoever she was, who had risked everything to share what she knew. She thought about Elena Vasquez, the young staffer who had asked her what she would do, and who had seemed to understand the answer before Ruth gave it.
 

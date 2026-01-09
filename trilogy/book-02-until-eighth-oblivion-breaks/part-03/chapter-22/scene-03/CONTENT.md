@@ -22,7 +22,7 @@ His phone buzzed. Denise. He picked up.
 
 "Eating. Mostly sleeping. You know how it is."
 
-"I know how it is." There was affection in her voice, but also fatigue. Thirty years of marriage, and she still loved him, but the love had taken on the texture of worn fabric. Familiar, comfortable, frayed at the edges.
+"I know how it is." There was affection in her voice, but also fatigue—the particular fatigue of loving someone who was always leaving for the next story. Thirty years of marriage, and she still loved him, but the love had taken on the texture of worn fabric. Familiar, comfortable, frayed at the edges.
 
 "How's home?" he asked.
 
@@ -72,7 +72,7 @@ But one voice kept returning, louder than the others. The young Somali-American 
 
 It was the question that haunted all journalism, the one Jerome had been avoiding for thirty years. He told himself he was giving voice to the voiceless, amplifying the stories of people who couldn't reach the platforms he could reach. But the young man's challenge cut deeper than that. Even when journalists had good intentions, they were still taking something. They were still the ones shaping the narrative, deciding what mattered, what fit, what the story was really about.
 
-Jerome had built a career on believing that truth-telling was inherently valuable. But what if truth-telling had become its own kind of ritual, a performance of concern that substituted for actual change? What if the articles and exposés and investigations were just a way for the system to let off steam, to process its contradictions without resolving them?
+Jerome had built a career on believing that truth-telling was inherently valuable, that sunlight was the best disinfectant, that an informed public would make better choices. But what if truth-telling had become its own kind of ritual, a performance of concern that substituted for actual change? What if the articles and exposés and investigations were just a way for the system to let off steam, to process its contradictions without resolving them?
 
 He didn't have answers. He kept writing anyway. The story about Minneapolis workers was important because their stories were important, because their suffering was real, because someone should bear witness. Whether the bearing of witness accomplished anything beyond itself—that was a question he couldn't answer.
 
@@ -126,9 +126,9 @@ At two in the morning, Jerome finally closed his laptop. He was tired in a way t
 
 He brushed his teeth in the small bathroom, looked at himself in the mirror. Sixty-two years old, hair going gray, the face of a man who had spent his life chasing truth through a world that wasn't particularly interested in being honest with itself.
 
-*You're still doing it*, he told his reflection. *After everything. You're still doing it.*
+*You're still doing it*, he told his reflection. *After everything. After all the stories that changed nothing. You're still doing it.*
 
-He wasn't sure if that was admirable or pathological. Probably both.
+He wasn't sure if that was admirable or pathological. Probably both. The distinction had stopped mattering somewhere along the way.
 
 He lay down on the hotel bed without getting under the covers, staring at the ceiling in the darkness. Tomorrow he would fly back to Baltimore. Tomorrow night he would talk to Ananya. The story would move forward, building toward something he couldn't yet see.
 

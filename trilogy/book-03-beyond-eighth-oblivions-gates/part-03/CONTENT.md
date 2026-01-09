@@ -1174,13 +1174,13 @@ The words were sharp, precise, the way Jessie's words always were when she was s
 
 "I want you to do whatever you need to do. But I'm tired of being part of the audience."
 
-Silence. They stood in the gallery, surrounded by the artifacts of a crisis they had both lived through, differently positioned, differently implicated. Jessie had been writing television then—shows that distracted, that entertained, that gave people something to think about other than the falling world. She had never claimed her work was important in the way Delphine had claimed hers.
+Silence. They stood in the gallery, surrounded by artifacts of a crisis they had both lived through, differently positioned, differently implicated. Jessie had been writing television then—shows that distracted, entertained, gave people something to think about other than the falling world. She had never claimed her work was important the way Delphine had claimed hers.
 
 "You think I'm performing."
 
 "I think you don't know the difference anymore. Between actually reckoning with something and making a narrative about reckoning with it."
 
-Delphine wanted to argue. Wanted to explain that the exhibition was different, that this was not content in the old sense, that museums created space for slow consideration rather than viral consumption. But the argument felt hollow even as she formulated it. What if Jessie was right? What if this whole project was just another form of the thing she was supposedly critiquing?
+Delphine wanted to argue. Wanted to explain that the exhibition was different, that this was not content in the old sense, that museums created space for slow consideration rather than viral consumption. But the argument felt hollow as she formulated it. What if Jessie was right? What if this whole project was just another form of what she was supposedly critiquing?
 
 "The work you're doing here is good," Jessie said, her voice softening slightly. "The artifacts matter. The stories matter. But your presence in it—your constant need to position yourself, to explain yourself, to be both creator and critic of your own history—that's the part I can't follow."
 
@@ -1204,13 +1204,13 @@ They walked in silence to the final gallery, the one with the questions on the w
 
 Delphine felt something crack inside her, the frustration that came from being seen too clearly. "You think I shouldn't do this work at all."
 
-"I think—" Jessie stopped, rubbed her eyes, the exhaustion of a long day surfacing. "I think you're brilliant at this. That's never been the issue. The issue is that you can't stop. Every reckoning leads to another project. Every self-examination becomes another piece of content. At some point, the doing has to become just living."
+"I think—" Jessie stopped, rubbed her eyes, exhaustion of the long day surfacing. "I think you're brilliant at this. That's never been the issue. The issue is you can't stop. Every reckoning leads to another project. Every self-examination becomes another piece of content. At some point, the doing has to become just living."
 
 "And what does just living look like?"
 
 "I don't know. You could ask me about my day. You could help Theo with homework. You could exist without turning existence into something to be analyzed and displayed."
 
-The accusation was familiar. They had circled it for years, the difference between Delphine's need to make meaning and Jessie's ability to live without that need. It was the fault line in their marriage, the place where they rubbed against each other without ever quite eroding through.
+The accusation was familiar. They had circled it for years, the difference between Delphine's need to make meaning and Jessie's ability to live without that need. The fault line in their marriage, the place where they rubbed against each other without ever quite eroding through.
 
 "I'm trying," Delphine said.
 
@@ -1218,13 +1218,13 @@ The accusation was familiar. They had circled it for years, the difference betwe
 
 
 
-They returned to the cafe. Theo looked up from the tablet, assessed the situation, and announced that he was ready for ice cream. The declaration broke something between them, returned them to the practical world where children needed to be fed and schedules needed to be maintained.
+They returned to the cafe. Theo looked up from the tablet, assessed the situation, announced he was ready for ice cream. The declaration broke something between them, returned them to the practical world where children needed feeding and schedules needed maintaining.
 
 "Let's go," Jessie said to Theo. "Mom needs to finish some work. We'll meet her at home."
 
 Delphine watched them leave—her wife and her son, the family she had built while also building a career in narrative, the people who loved her despite or perhaps because of all the ways she made loving her difficult.
 
-In the quiet of the closing museum, she walked back through the galleries one more time. The video played on loop, her younger self explaining things with confidence she no longer felt. The artifacts sat in their cases, objects rescued from the flow of time, made significant by the contexts she had constructed around them.
+In the quiet of the closing museum, she walked back through the galleries one more time. The video played on loop, her younger self explaining with confidence she no longer felt. Artifacts sat in their cases, objects rescued from the flow of time, made significant by the contexts she had constructed around them.
 
 Was Jessie right?
 
@@ -1238,7 +1238,7 @@ The exhibition told a story about the crisis. But it also told a story about Del
 
 She found the catalogue proof in her bag and flipped to the introduction she had written. The words were careful, measured, full of the kind of qualified acknowledgment that Jessie had called out. "As someone who was part of the content industry during the crisis, I approach this curation with an awareness of my own complicity..."
 
-It was true. It was also, she now saw, a performance of awareness that stopped short of actual vulnerability. She was positioning herself as the enlightened insider, the one who had the special perspective of having been on the inside and now stood outside, explaining.
+True. But also, she now saw, a performance of awareness that stopped short of actual vulnerability. She was positioning herself as the enlightened insider, the one with the special perspective of having been on the inside who now stood outside, explaining.
 
 What would it look like to actually be honest?
 
@@ -1262,13 +1262,13 @@ That was transmission. That was inheritance. She could not control what they too
 
 ---
 
-The house was quiet by eleven. Theo asleep after ice cream and bath and the ritual of bedtime stories that he insisted he was too old for but still wanted. Jessie reading in bed, the light from her tablet casting blue shadows on her face, the argument from earlier still present between them but softened now, smoothed by the domestic rhythms that had outlasted all their conflicts.
+The house was quiet by eleven. Theo asleep after ice cream and bath and the ritual of bedtime stories he insisted he was too old for but still wanted. Jessie reading in bed, the light from her tablet casting blue shadows on her face, the argument from earlier still present between them but softened now, smoothed by domestic rhythms that had outlasted all their conflicts.
 
 Delphine sat in her study with the door half-closed, the catalogue proof open before her, the margins full of questions she did not know how to answer. Her phone showed the time in London: nearly seven in the morning. Her mother would be awake, would be moving through the rituals of tea and radio and the slow start that had replaced the busy mornings of her working years.
 
 She pressed the video call button and waited.
 
-Her mother's face appeared, slightly pixelated from the Atlantic distance, familiar and strange in the way parents become when you have not seen them in months. Behind her: the flat in Brixton that Delphine had never lived in but knew intimately from screens, the books that lined the walls, the window that looked out on the plane tree her mother had watched for thirty years.
+Her mother's face appeared, slightly pixelated from the Atlantic distance, familiar and strange the way parents become when you have not seen them in months. Behind her: the flat in Brixton Delphine had never lived in but knew intimately from screens, the books lining the walls, the window looking out on the plane tree her mother had watched for thirty years.
 
 "Delphine. What a surprise."
 
@@ -1286,7 +1286,7 @@ Delphine felt something release in her chest at the sound of her mother's voice,
 
 "How are you?" Delphine asked.
 
-"Old. Tired. Missing your father." A simple accounting, delivered without drama. Her father had died two years ago, and her mother's grief was now folded into her daily life, present but no longer overwhelming. "How are you? You look worried."
+"Old. Tired. Missing your father." A simple accounting, delivered without drama. Her father had died two years ago, and her mother's grief was now folded into daily life, present but no longer overwhelming. "How are you? You look worried."
 
 "Jessie says I'm still doing the same thing I always did. Just in fancier packaging."
 
@@ -1298,7 +1298,7 @@ Delphine felt something release in her chest at the sound of her mother's voice,
 
 "Telling people how to feel about things. Shaping narratives. Turning everything into content."
 
-Her mother was quiet for a moment, her face thoughtful in the screen's light. "When I was teaching," she said finally, "I worried about the same thing. Every lesson was a kind of shaping. Every choice of what to include and what to leave out was a kind of manipulation. I used to lie awake wondering if I was helping the children see the world clearly or just teaching them my version of it."
+Her mother was quiet for a moment, face thoughtful in the screen's light. "When I was teaching," she said finally, "I worried about the same thing. Every lesson a kind of shaping. Every choice of what to include and leave out a kind of manipulation. I used to lie awake wondering if I was helping children see the world clearly or just teaching them my version of it."
 
 "What did you decide?"
 
@@ -1308,7 +1308,7 @@ Her mother was quiet for a moment, her face thoughtful in the screen's light. "W
 
 
 
-"Jessie is very clever," her mother said. "She sees things most people don't. But she also—and forgive me, I know she's your wife—she also has a tendency to think that not engaging is somehow more authentic than engaging. As if you can live without making meaning. You can't. You just make different kinds."
+"Jessie is very clever," her mother said. "She sees things most people don't. But she also—and forgive me, I know she's your wife—has a tendency to think that not engaging is somehow more authentic than engaging. As if you can live without making meaning. You can't. You just make different kinds."
 
 "So what do I do?"
 
@@ -1322,7 +1322,7 @@ Delphine smiled. Her father's voice, coming through her mother's memory, still p
 
 "I mean: who do you imagine seeing it? Whose understanding are you trying to change? When you picture success, what does it look like?"
 
-Delphine considered the question. She had imagined critics praising the curation, scholars citing the catalogue, visitors leaving with new perspectives on the crisis years. But all of those imaginings featured herself at the center—the grateful audiences, the recognition, the sense of having done something significant.
+Delphine considered the question. She had imagined critics praising the curation, scholars citing the catalogue, visitors leaving with new perspectives on the crisis years. But all those imaginings featured herself at the center—the grateful audiences, the recognition, the sense of having done something significant.
 
 "I think," she said slowly, "I've been imagining it for me. For my sense of having contributed something."
 
@@ -1334,7 +1334,7 @@ Delphine considered the question. She had imagined critics praising the curation
 
 
 
-They talked for a while longer, meandering through topics: her mother's health, Theo's school, the exhibition's details, the memories of her father that surfaced unbidden. Her mother had a way of making space for wandering, of following the conversation wherever it led without insisting on direction.
+They talked a while longer, meandering through topics: her mother's health, Theo's school, the exhibition's details, memories of her father surfacing unbidden. Her mother had a way of making space for wandering, following the conversation wherever it led without insisting on direction.
 
 "Your father never resolved it either," her mother said as they were winding down. "The question of whether his work mattered. He kept asking until the end. I used to find it exhausting. Now I find it comforting, in a strange way. The questioning was who he was. If he had stopped questioning, he would have been someone else."
 
@@ -1344,7 +1344,7 @@ They talked for a while longer, meandering through topics: her mother's health, 
 
 "That's terrifying."
 
-"Yes. But what's the alternative? Stop working? Stop making things? Sit in silence because you can't be sure of the impact?" Her mother shook her head. "That's not living. That's just waiting to die."
+"Yes. But what's the alternative? Stop working? Stop making things? Sit in silence because you can't be sure of impact?" Her mother shook her head. "That's not living. That's just waiting to die."
 
 Delphine felt tears prickle at her eyes. The conversation had opened something, had touched the fear beneath all her activity: that none of it mattered, that she was filling time with significance-seeking to avoid confronting the void.
 
@@ -1358,7 +1358,7 @@ Delphine felt tears prickle at her eyes. The conversation had opened something, 
 
 
 
-After the call ended, Delphine sat with the catalogue proof, looking at the questions she had written in the margins. Her mother's words echoed: let some things go. Accept that you'll never know if it mattered.
+After the call ended, Delphine sat with the catalogue proof, looking at questions she had written in the margins. Her mother's words echoed: let some things go. Accept that you'll never know if it mattered.
 
 She turned to the introduction and picked up her pen.
 
@@ -1368,7 +1368,7 @@ The original text was careful, measured, the product of months of revision. Now 
 
 *This is my inheritance from that time, offered to you without guarantees. Take what you can. Leave what you can't. That's all any of us can do.*
 
-She read it over. It was less polished than the rest of the introduction. Less controlled. Less the work of a professional curator and more the work of a person trying to communicate something true.
+She read it over. Less polished than the rest of the introduction. Less controlled. Less the work of a professional curator and more the work of a person trying to communicate something true.
 
 Maybe that was the difference Jessie had been looking for. Not the absence of meaning-making, but a loosening of the grip on outcome.
 
@@ -1378,11 +1378,11 @@ The house was fully quiet now, even Jessie's tablet light extinguished. Delphine
 
 
 
-She stood in his doorway for a long moment, watching him sleep, thinking about what he would inherit from her. Not just the genes, not just the habits, but the particular quality of attention she brought to the world—the need to understand, to explain, to make meaning out of experience.
+She stood in his doorway a long moment, watching him sleep, thinking about what he would inherit from her. Not just genes, not just habits, but the particular quality of attention she brought to the world—the need to understand, to explain, to make meaning from experience.
 
 Would he be like her? Would he spend his life wrestling with the question of whether his work mattered? Or would he be more like Jessie, able to do and be without the endless analysis?
 
-She did not know. That was the nature of inheritance: you could not control what passed on. You could only offer what you had and trust that the next generation would take what they needed and leave what they didn't.
+She did not know. That was inheritance: you could not control what passed on. You could only offer what you had and trust the next generation to take what they needed and leave what they didn't.
 
 Theo stirred, sensing her presence, but did not wake.
 
@@ -1404,7 +1404,7 @@ The exhibition would open in two weeks. The meaning would be made by others. Del
 
 
 
-In the morning, she woke early and returned to her study. The catalogue proof sat where she had left it, the handwritten addition visible in the margins. In the light of day, it looked messier than she remembered. Less a deliberate choice and more a late-night impulse that might need to be revised.
+In the morning, she woke early and returned to her study. The catalogue proof sat where she had left it, handwritten addition visible in the margins. In daylight it looked messier than she remembered. Less a deliberate choice than a late-night impulse that might need revision.
 
 But she read it again, and it still felt true.
 
@@ -1412,7 +1412,7 @@ She photographed the page and emailed it to the catalogue editor with a short me
 
 Then she closed the laptop and went to make breakfast for her son, who was already awake and asking questions about the exhibition, about the shoes he had seen, about whether he could come to the opening and what he should wear.
 
-The questions were endless, as children's questions always were. But this morning, instead of answering with explanations, Delphine tried something different. She asked questions back.
+The questions were endless, as children's questions always are. But this morning, instead of answering with explanations, Delphine tried something different. She asked questions back.
 
 "What do you think you should wear?"
 
@@ -1436,7 +1436,7 @@ That was inheritance too. Perhaps the most important kind.
 
 # Chapter 21: What He Left
 
-The building did not look like a tomb. That was the first thing Yusuf noticed as they pulled into the parking lot, Amina driving because his hands were shaking too much to hold the wheel. The Threshold—its new name, painted on a glass door that had replaced the industrial metal of his memory—was bright, open, welcoming in a way that felt like a betrayal. New windows had been cut into the old brick walls, flooding the interior with afternoon light. A mural covered the eastern face: hands reaching upward, figures in motion, colors that had no right to exist on a building where his father had died.
+The building did not look like a tomb. That was the first thing Yusuf noticed as they pulled into the parking lot, Amina driving because his hands were shaking too much to hold the wheel. The Threshold—its new name, painted on a glass door that had replaced the industrial metal of his memory—was bright, open, welcoming in a way that felt like betrayal. New windows had been cut into the old brick walls, flooding the interior with afternoon light. A mural covered the eastern face: hands reaching upward, figures in motion, colors that had no right to exist on a building where his father had died.
 
 "It's beautiful," Amina said.
 
@@ -1448,7 +1448,7 @@ The building did not look like a tomb. That was the first thing Yusuf noticed as
 
 She did not press. She had learned, over the years of grieving together and grieving separately, when to ask and when to wait. Yusuf sat in the passenger seat and looked at the building that had taken his father from him, that had swallowed fourteen years of anger and advocacy and impossible hope, that now stood transformed into something the city called a community arts space.
 
-He had helped make this happen. That was the strangest part. He had given testimony at city council meetings, his voice shaking as he described watching his mother collapse when the foreman called. He had helped write grant applications, had connected with organizers and artists who wanted to do something with the abandoned warehouse, had spent three years turning his grief into leverage. And now the building was reborn, and he was terrified to go inside.
+He had helped make this happen. That was the strangest part. He had given testimony at city council meetings, voice shaking as he described watching his mother collapse when the foreman called. He had helped write grant applications, connected with organizers and artists who wanted to do something with the abandoned warehouse, spent three years turning his grief into leverage. And now the building was reborn, and he was terrified to go inside.
 
 
 
@@ -1458,7 +1458,7 @@ Amina waited with him, patient as she always was, while he gathered what he coul
 
 "No. But let's go."
 
-They walked to the entrance together, past a small crowd of people setting up tables and stringing lights for tonight's opening celebration. Someone recognized Yusuf—a woman from the organizing committee, her name escaped him—and waved. He waved back, feeling the unreality of it, the sense of being in two places at once: the present moment with its festive preparations and the past that pressed against everything, demanding acknowledgment.
+They walked to the entrance together, past a small crowd setting up tables and stringing lights for tonight's opening celebration. Someone recognized Yusuf—a woman from the organizing committee, her name escaped him—and waved. He waved back, feeling the unreality of it, the sense of being in two places at once: the present moment with its festive preparations and the past pressing against everything, demanding acknowledgment.
 
 The doors opened onto a lobby that had once been a loading dock. The concrete floor was polished now, reflecting the light from above. Where pallets had been stacked, sculptures rose. Where forklifts had maneuvered, benches invited rest. The transformation was so complete that for a moment Yusuf could almost believe he had imagined the other version, the industrial gray, the sound of machinery, his father's lunch box on a hook by the time clock.
 
@@ -1468,11 +1468,11 @@ But the bones were the same. The ceiling beams, the height of the space, the par
 
 
 
-She had been seven when their father died. Her memories were impressions more than scenes: the way their mother's face had looked when the news came, the strange adults who filled their apartment for days afterward, the feeling of something essential having been removed from the world. She did not remember their father's voice, not really. She did not remember the warehouse as it had been, though Yusuf had described it to her so many times that she sometimes claimed his descriptions as her own memories.
+She had been seven when their father died. Her memories were impressions more than scenes: the way their mother's face had looked when the news came, the strange adults who filled their apartment for days afterward, the feeling of something essential having been removed. She did not remember their father's voice, not really. She did not remember the warehouse as it had been, though Yusuf had described it so many times she sometimes claimed his descriptions as her own memories.
 
 "This way."
 
-He led her through the gallery spaces, past installations by local artists, past photographs of the neighborhood's history mounted on walls that had once been bare concrete. The ceiling was strung with lights now, tiny constellations that might have seemed magical if he hadn't known what lay beneath the fresh paint.
+He led her through the gallery spaces, past installations by local artists, past photographs of the neighborhood's history mounted on walls once bare concrete. The ceiling was strung with lights now, tiny constellations that might have seemed magical if he hadn't known what lay beneath the fresh paint.
 
 They reached the back of the building. Here was the loading dock, the one that had been converted into a performance stage. Metal steps led up to a platform where speakers were being mounted, where a microphone stand waited for tonight's performers.
 
@@ -1486,7 +1486,7 @@ The stage was maybe twenty feet across, raised three feet from the floor. In his
 
 Amina was silent beside him. She reached for his hand and held it, her fingers cool against his palm.
 
-"The company paid a settlement," Yusuf said. "You know this. But the money went to medical bills from before—he'd been working through an injury that the company said was his fault. And then Mom's hours got cut because she was taking too much time off to deal with everything. So the settlement bought us maybe six months of stability before we were back to where we started. Actually worse, because we didn't have his income anymore."
+"The company paid a settlement," Yusuf said. "You know this. But the money went to medical bills from before—he'd been working through an injury the company said was his fault. And then Mom's hours got cut because she was taking too much time off to deal with everything. So the settlement bought us maybe six months of stability before we were back to where we started. Actually worse, because we didn't have his income anymore."
 
 "I know."
 
@@ -1494,7 +1494,7 @@ Amina was silent beside him. She reached for his hand and held it, her fingers c
 
 "Is that bad?"
 
-Yusuf considered the question. Was it bad that his sister's grief was made of secondhand material, shaped by his tellings and their mother's silences? Or was it simply how inheritance worked—the next generation receiving not the event itself but the narrative of the event, the meaning already attached?
+Yusuf considered. Was it bad that his sister's grief was made of secondhand material, shaped by his tellings and their mother's silences? Or was this simply how inheritance worked—the next generation receiving not the event itself but the narrative of the event, the meaning already attached?
 
 "No," he said finally. "It's just different. You lost someone you barely knew. I lost someone I thought I knew, and then spent years realizing I didn't know him at all."
 
@@ -1508,7 +1508,7 @@ He told her things he had never told her. Small things, the details that had not
 
 "It's what happened to a lot of people. Still happens. The system takes what you have and tells you it's worthless, then uses you up and throws you away."
 
-The bitterness in his voice surprised him. He had thought he was past this phase, had processed the anger through years of organizing and advocacy, had transmuted it into something more useful. But standing here, on the stage that had been the platform where his father died, the anger was as fresh as the day of the funeral.
+The bitterness in his voice surprised him. He had thought he was past this phase, had processed the anger through years of organizing and advocacy, transmuted it into something more useful. But standing here, on the stage that had been the platform where his father died, the anger was as fresh as the day of the funeral.
 
 Amina squeezed his hand. "You're playing here tonight."
 
@@ -1516,7 +1516,7 @@ Amina squeezed his hand. "You're playing here tonight."
 
 "Are you going to be okay?"
 
-He did not answer immediately. The question was too large, encompassing not just tonight but everything: the decision to perform his own music for the first time in years, the songs he had written and hidden and never shared, the terror of giving voice to what he had held silent.
+He did not answer immediately. The question was too large, encompassing not just tonight but everything: the decision to perform his own music for the first time in years, songs he had written and hidden and never shared, the terror of giving voice to what he had held silent.
 
 "I don't know," he said. "But I'm going to try."
 
@@ -1524,7 +1524,7 @@ They stood together on the transformed stage, brother and sister, the children o
 
 
 
-Workers moved around them, setting up for tonight. Someone checked the microphones. Someone else adjusted the lights, creating pools of illumination that fell across the stage in patterns that might have seemed random but were carefully designed. The space was becoming a theater, a venue, a place where art would happen. It was no longer a warehouse. It was no longer the scene of an industrial accident. It was something else now, and Yusuf was still learning what that something else might mean.
+Workers moved around them, setting up for tonight. Someone checked the microphones. Someone else adjusted lights, creating pools of illumination across the stage in patterns that might have seemed random but were carefully designed. The space was becoming a theater, a venue, a place where art would happen. No longer a warehouse. No longer the scene of an industrial accident. Something else now, and Yusuf was still learning what that something else might mean.
 
 "I brought his guitar," he said. "Well, not his. His was lost years ago. But I brought the one I play. The songs I wrote—some of them are about him. About the work. About what it felt like to grow up after."
 
@@ -1536,7 +1536,7 @@ Workers moved around them, setting up for tonight. Someone checked the microphon
 
 "Tonight. With everyone else."
 
-Amina nodded, accepting this. She understood, he thought, even without his explaining. That some things needed to be given publicly, needed witnesses beyond the familiar circle of family. That the songs had been held so long they had become pressure, and the only way to release them was through performance, through the ritual of speaking into a room full of strangers.
+Amina nodded, accepting this. She understood, he thought, even without explanation. That some things needed to be given publicly, needed witnesses beyond the familiar circle of family. That the songs had been held so long they had become pressure, and the only release was through performance, through the ritual of speaking into a room full of strangers.
 
 "Dad would be proud," she said.
 
@@ -1550,9 +1550,9 @@ Amina nodded, accepting this. She understood, he thought, even without his expla
 
 
 
-The car waited in the parking lot. The stage waited in the building. The guitar waited in the back seat, its case holding songs that Yusuf had written in the years of grief and survival, songs that had stayed hidden because he had been afraid of what it would mean to share them, afraid that making art from his father's death was a kind of exploitation, afraid that he would fail and the failure would be witnessed.
+The car waited in the parking lot. The stage waited in the building. The guitar waited in the back seat, its case holding songs Yusuf had written in the years of grief and survival, songs that had stayed hidden because he was afraid of what it would mean to share them, afraid that making art from his father's death was a kind of exploitation, afraid that he would fail and the failure would be witnessed.
 
-But he was more afraid now of never trying. Of reaching his father's age—forty-two, just forty-two—and having nothing to show for it but the gig work and the organizing and the endless struggle to keep his head above water. His father had dreamed of engineering, of understanding how things worked, of building structures that would persist. Yusuf dreamed of music, of finding the words that could carry weight, of transmitting something that mattered.
+But he was more afraid now of never trying. Of reaching his father's age—forty-two, just forty-two—and having nothing to show for it but gig work and organizing and the endless struggle to keep his head above water. His father had dreamed of engineering, of understanding how things worked, of building structures that would persist. Yusuf dreamed of music, of finding words that could carry weight, of transmitting something that mattered.
 
 Tonight he would try. He would stand on the stage where his father had fallen and he would sing about what that falling had meant, about the precarity that shaped their family, about the hope that persisted despite everything. The audience would include people who remembered his father, people from the organizing community, and strangers who knew nothing of his history. They would hear the songs and make their own meaning. That was all he could offer.
 

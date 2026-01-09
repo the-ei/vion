@@ -14,7 +14,7 @@ The question had been building all evening, had been underneath everything else 
 
 "That's not an answer."
 
-"It's the truth. I've spent years trying to parse my own motivations, and I can't reach certainty. Both things were true simultaneously. I believed I was helping and I was also avoiding the terrifying prospect of reinvention. I can't separate them into percentages or weights. They were tangled together."
+"It's the truth. I've spent years trying to parse my own motivations, and I can't reach certainty. Both things were true simultaneously. I believed I was helping and I was also avoiding the terrifying prospect of reinvention, of starting over with nothing. I can't separate them into percentages or weights. They were tangled together from the beginning."
 
 Priya's brow furrowed. "That's a cop-out."
 
@@ -34,11 +34,11 @@ Priya set down her tea. She looked at her mother with an expression Ananya could
 
 "That I'm like you. That I would probably do the same thing in your position."
 
-The statement landed somewhere between compliment and indictment.
+The statement landed somewhere between compliment and indictment, in that uncertain territory where truth lives.
 
 "I hope not."
 
-"I'm serious. I'm good at convincing myself that what I want is what's right. I can construct justifications for anything. You taught me that, even if you didn't mean to."
+"I'm serious. I'm good at convincing myself that what I want is what's right. I can construct justifications for anything, airtight arguments that lead wherever I need them to go. You taught me that, even if you didn't mean to."
 
 "Priya-"
 
@@ -74,7 +74,7 @@ They sat in silence. The city hummed outside the windows, cars and voices and th
 
 "Always. For as long as I'm alive, I'll be here."
 
-Priya nodded. She lifted her tea, finally drank some of it, grimaced at the temperature. "This is cold."
+Priya nodded. The nod felt like something, though Ananya couldn't say exactly what. She lifted her tea, finally drank some of it, grimaced at the temperature. "This is cold."
 
 "I can make more."
 
@@ -104,7 +104,7 @@ It was the question Ananya had been wrestling with for months. The question that
 
 Ananya looked at her daughter. Eighteen years old, about to begin a life that would include her own compromises and failures, her own attempts to reconcile principles with reality. What answer could Ananya give that would help Priya navigate what lay ahead?
 
-"I'm leaning toward cooperating. Toward telling the truth, even if it costs me. This conversation - what you've asked me, what I've had to admit - it's clarified something. I can't keep protecting an institution that hurt people. Even if that means implicating myself."
+"I'm leaning toward cooperating. Toward telling the truth, even if it costs me everything I have left. This conversation - what you've asked me, what I've had to admit - it's clarified something. I can't keep protecting an institution that hurt people. Even if that means implicating myself."
 
 "That could ruin you. Financially, professionally."
 
@@ -116,7 +116,7 @@ Priya stood up, crossed the kitchen, and wrapped her arms around her mother. The
 
 "I'm proud of you for saying that," Priya whispered. "Even though I'm still angry. Even though I don't forgive you. I'm proud that you're willing to do the right thing now."
 
-Ananya held her daughter, felt the solid reality of her, the person she had made and raised and was now losing to adulthood. In two days, Priya would be gone. In some sense, she was already gone - transformed by the conversation into someone new, someone who saw her mother clearly.
+Ananya held her daughter, felt the solid reality of her, the warmth of the person she had made and raised and was now losing to adulthood. In two days, Priya would be gone. In some sense, she was already gone - transformed by the conversation into someone new, someone who saw her mother clearly and loved her anyway.
 
 "I love you," Ananya said.
 
@@ -138,7 +138,7 @@ They stood like that for a long time, mother and daughter, the kitchen dark arou
 
 Priya nodded, gathered her folder of research, and walked toward the guest room that had been her room for years of shuttling between parents. At the door, she paused.
 
-"When I write about you for my college essay - and I will write about you eventually - I'm not going to make it simple. I'm not going to make you a villain or a hero. I'm going to write about someone who tried and failed and tried again. Is that okay?"
+"When I write about you for my college essay - and I will write about you eventually, probably for the graduate school application I'm already imagining - I'm not going to make it simple. I'm not going to make you a villain or a hero. I'm going to write about someone who tried and failed and tried again. Is that okay?"
 
 
 
@@ -172,7 +172,7 @@ Ananya looked toward the guest room, toward the daughter who was trying to learn
 
 "That's where everything starts."
 
-Ananya thanked her friend, hung up, and sat in the dark kitchen until sleep became possible. Somewhere beyond the windows, the city continued its million simultaneous lives. Somewhere down the hall, her daughter dreamed of futures Ananya couldn't predict. And somewhere inside herself, a decision had been made that would change everything that came after.
+Ananya thanked her friend, hung up, and sat in the dark kitchen until sleep became possible. Somewhere beyond the windows, the city continued its million simultaneous lives, indifferent to her crisis and resolution. Somewhere down the hall, her daughter dreamed of futures Ananya couldn't predict. And somewhere inside herself, a decision had been made that would change everything that came after.
 
 
 

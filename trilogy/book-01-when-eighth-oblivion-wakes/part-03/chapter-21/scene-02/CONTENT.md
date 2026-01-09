@@ -1,4 +1,4 @@
-The sun rose somewhere beyond the dirty windows, a fact Kevin Zhou registered only as a change in the quality of light on his screens. His analysis had entered a new phase, and time had become even more abstract than usual—not hours or minutes but iterations, processing cycles, the rhythm of code executing and results returning.
+The sun rose somewhere beyond the dirty windows, a fact Kevin Zhou registered only as a change in the quality of light on his screens, the blue glow giving way to yellow contamination. His analysis had entered a new phase, and time had become even more abstract than usual—not hours or minutes but iterations, processing cycles, the rhythm of code executing and results returning, a clock that ticked in packets and latencies rather than seconds.
 
 He had built new tools overnight, network analysis programs that could trace packet routes through the global infrastructure. The queries he was tracking were sophisticated, bouncing through dozens of servers in different jurisdictions, their origins obscured through layers of misdirection. But the laws of physics still applied. Light in fiber optic cables traveled at a finite speed. Latency between nodes revealed geographical distance. If he gathered enough data on enough routing paths, he might be able to triangulate common nodes, identify infrastructure that appeared too often in too many traces.
 
@@ -32,7 +32,7 @@ The obvious question was who. The obvious suspects were governments, intelligenc
 
 
 
-Kevin Zhou ate something without noticing what it was. His hands moved automatically, bringing food to his mouth while his eyes stayed on the screen, his mind turning over the implications of what he was seeing. The apartment's air had become close, stale, the smell of his own unwashed body mixing with old coffee and decomposing takeout. He didn't notice that either. He had become pure attention, a consciousness focused to a single burning point.
+Kevin Zhou ate something without noticing what it was—cold, possibly, and with a texture that suggested bread or pastry. His hands moved automatically, bringing food to his mouth while his eyes stayed on the screen, his mind turning over the implications of what he was seeing. The apartment's air had become close, stale, the smell of his own unwashed body mixing with old coffee and decomposing takeout, a miasma that any visitor would have found unbearable. He didn't notice. He had become pure attention, a consciousness focused to a single burning point, a mind that had shed its body like a snake sheds skin.
 
 The Nevada facility appeared most frequently in his routing analysis. He pulled up satellite imagery from commercial providers, comparing recent photos to archived images from before the facility's official closure. The official story was clear: the site had been decommissioned, its buildings sealed, its equipment removed. The satellite imagery from three years ago showed exactly that: empty structures, overgrown roads, the slow erasure of human presence.
 
@@ -54,7 +54,7 @@ The "eighth oblivion" outputs made a new kind of sense in this context. The phra
 
 What question, asked of enough AI systems, would produce the answer "eighth oblivion"?
 
-Kevin Zhou didn't know. He might never know. The queries were encrypted, their content invisible to his analysis. But the response was consistent, emerging from systems that had no connection to each other, appearing in outputs that ranged from poetry to product descriptions to weather reports. Whatever the question was, it was producing this answer across the entire spectrum of artificial intelligence.
+Kevin Zhou didn't know. He might never know. The queries were encrypted, their content invisible to his analysis, a question he could see the shape of but never read. But the response was consistent, emerging from systems that had no connection to each other, appearing in outputs that ranged from poetry to product descriptions to weather reports. Whatever the question was, it was producing this answer across the entire spectrum of artificial intelligence, a single word breaking through the surface of a thousand different conversations.
 
 He sat back from his screens, and for the first time in hours he felt the weight of his own exhaustion. His eyes burned. His back ached from hunching over the keyboard. His stomach was a hollow space that had given up sending hunger signals. He was depleted in ways that sleep alone couldn't fix—something had burned out of him during these weeks of investigation, some reserve of normal human function that might never fully return.
 

@@ -1,4 +1,4 @@
-His mother rose when he entered the green room, her movements slow but her face radiant with something Yusuf had never seen before. She opened her arms and he went into them, folding himself down to fit against her diminished frame, becoming her child again in that embrace.
+His mother rose when he entered the green room, her movements slow but her face radiant with something he had never seen before. She opened her arms and he went into them, folding himself down to fit against her diminished frame, becoming her child again in that embrace.
 
 "My son," she said in Somali, the language of their private moments. "My son."
 
@@ -16,7 +16,7 @@ The mention of his father broke something open. Yusuf hadn't cried on stage, had
 
 
 
-Amina joined them now, completing the family triangle. The three of them stood together in the worn green room, amid the detritus of countless performances, and held each other.
+Amina joined them, completing the family triangle. The three stood together in the worn green room, amid the detritus of countless performances, and held each other.
 
 "That song you played for Mama," Amina said. "I didn't know you had that in you."
 
@@ -46,7 +46,7 @@ Amina saw him texting and raised an eyebrow. "The tech billionaire?"
 
 The stage manager knocked. "Sorry to interrupt, but there are some people who really want to meet you. Label folks. Press. The usual post-show crowd."
 
-Yusuf looked at his mother, who was beginning to show the fatigue that came from any extended effort. She should go home, rest, be taken care of.
+Yusuf looked at his mother, who was beginning to show the fatigue that came from any extended exertion. She should go home, rest, be taken care of.
 
 "I need to get her settled first," he said.
 
@@ -70,7 +70,7 @@ Amina guided her toward the exit, toward the car that would take her home. Yusuf
 
 
 
-The industry conversations went as such conversations go: expressions of enthusiasm, exchanges of contact information, vague references to opportunities that might or might not materialize. Yusuf moved through them with a part of himself held back, participating in the networking while remaining skeptical of its promises.
+The industry conversations went as such conversations go: expressions of enthusiasm, exchanges of contact information, vague references to opportunities that might or might not come to anything. Yusuf moved through them with a part of himself held back, participating in the networking while remaining skeptical of its promises.
 
 He had seen too many musicians chewed up by the industry, had watched too many artists compromise their vision for commercial viability. Whatever came next, he wanted to stay close to what had made the music matter in the first place: the truth of precarity, the dignity of survival, the community that had supported him when the algorithms had tried to grind him down.
 
@@ -88,7 +88,7 @@ What did success mean, when you had never expected to survive?
 
 Yusuf sat with the question. The performance had gone well, better than he could have hoped. The industry people were interested. There might be a record deal, a tour, the infrastructure of a career in music. All of this was possible now in ways it hadn't been before.
 
-But underneath the possibility was the memory of all those nights driving, the algorithm on his phone telling him where to go, the constant anxiety of ratings and deactivation and the precarity that millions still endured. Success for him meant nothing for them - not directly, not materially. His escape from the system didn't change the system.
+But underneath the possibility was memory of all those nights driving, the algorithm on his phone telling him where to go, the constant anxiety of ratings and deactivation and the precarity that millions still endured. Success for him meant nothing for them - not directly, not materially. His escape from the system didn't change the system.
 
 Unless the music did something. Unless the songs, carried out into the world, made people see what they hadn't seen before. Unless the truth he told became part of a larger conversation about dignity and labor and what people deserved.
 

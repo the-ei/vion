@@ -1,6 +1,6 @@
 The cherry blossoms were at peak bloom, the Tidal Basin ringed with tourists and the whole city performing its annual ritual of beauty. Jerome Washington had seen forty-two springs in D.C. and had learned to navigate around the crowds, to find the side streets and the off-hours when the city was just itself, neither monument nor spectacle. But today he had meetings on Capitol Hill, and Capitol Hill did not yield to scheduling preferences.
 
-The Russell Senate Office Building held its usual morning traffic - staffers with badges moving purposefully, lobbyists with suits moving strategically, tourists with cameras moving bewilderedly. Jerome signed in at security, collected his visitor pass, and made his way to the office of Senator Patricia Holbrook, Chair of the Senate Judiciary Committee. He had been requesting this meeting for three weeks. He had finally received fifteen minutes with her chief counsel.
+The Russell Senate Office Building held its usual morning traffic - staffers with badges moving purposefully, lobbyists with suits moving strategically, tourists with cameras moving bewilderedly. The architecture of democracy performing its daily ritual of importance. Jerome signed in at security, collected his visitor pass, and made his way to the office of Senator Patricia Holbrook, Chair of the Senate Judiciary Committee. He had been requesting this meeting for three weeks. He had finally received fifteen minutes with her chief counsel.
 
 The chief counsel's name was Thomas Merrick, and he had the carefully bland face of someone whose job required saying nothing that could be quoted. He met Jerome in a small conference room that probably served multiple purposes - the furniture was institutional, the walls bare except for the senator's portrait.
 
@@ -22,7 +22,7 @@ The chief counsel's name was Thomas Merrick, and he had the carefully bland face
 
 "I can't speak to specific agency timelines. What I can tell you is that the committee has remained engaged with this issue and continues to prioritize technology governance as a key concern."
 
-Jerome had been a journalist for twenty-three years. He knew what these words meant. They meant nothing was happening, and nothing would happen, and the process would continue in the sense that government processes always continued - meetings would be held, memos would circulate, and the systems that had prompted the hearings would keep operating because no one had the authority or the will to stop them.
+Jerome had been a journalist for twenty-three years. He knew what these words meant. They meant nothing was happening, and nothing would happen, and the process would continue in the sense that government processes always continued - meetings would be held, memos would circulate, and the systems that had prompted the hearings would keep operating because no one had the authority or the will to stop them. The words were load-bearing walls in a structure built entirely of words.
 
 "I've spoken with some of the experts who testified," Jerome said. "Several of them described frustration with the committee's follow-through. They feel their recommendations were heard but not implemented."
 
@@ -76,11 +76,11 @@ The investigations were being buried. Not through inaction - through action. Som
 
 He could not print this. He had a single source, no documentation, no confirmation. His editors would kill the story, and they would be right to - journalism required evidence, and he had only inference.
 
-But he knew. The knowing sat in his chest with the weight of something true and unprovable, the particular curse of investigative reporters who saw patterns they could not demonstrate.
+But he knew. The knowing sat in his chest with the weight of something true and unprovable, the particular curse of investigative reporters who saw patterns they could not demonstrate, who lived in the gap between journalism and prophecy.
 
 Jerome left the coffee shop and walked through D.C.'s April afternoon, past the monuments and the cherry blossoms and the tourists who still believed in the ideals the city was supposed to represent. He had spent his career believing that truth mattered, that exposure changed things, that journalism could hold power accountable. The belief had carried him through two decades of work, through the long investigations and the frustrating sources and the stories that took years to tell.
 
-Now he was not sure. The truth had been told. The exposure had happened. And power had absorbed it, continued, adapted.
+Now he was not sure. The truth had been told. The exposure had happened. And power had absorbed it, continued, adapted. The sunlight disinfected nothing that did not want to be clean.
 
 He needed to see his mother. He needed to remember what care looked like, what limits felt like, what it meant to be present with someone who was losing everything and could not be saved by reporting.
 

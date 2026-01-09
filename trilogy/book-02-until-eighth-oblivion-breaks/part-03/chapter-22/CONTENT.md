@@ -1,6 +1,6 @@
 The flight from Baltimore to Minneapolis took three hours, during which Jerome Washington read everything he could find about the local economy—employment figures, industry reports, the particular texture of a Midwest city trying to reinvent itself as the world reinvented around it. The reading was his ritual before any reporting trip, a way of arriving informed, or at least not entirely ignorant.
 
-The airport was like every other mid-sized American airport: the same chain restaurants, the same gift shops selling local variations on universal products, the same flow of travelers moving with purpose they didn't feel. Jerome collected his rental car—a compact, the cheapest option, journalism didn't pay what it used to—and drove toward the hotel he had booked near downtown.
+The airport was like every other mid-sized American airport: the same chain restaurants, the same gift shops selling local variations on universal products, the same flow of travelers moving with purpose they didn't feel. The sameness itself was a story, one Jerome had been writing in his head for years: the flattening of American space, the way capital homogenized everything it touched. Jerome collected his rental car—a compact, the cheapest option, journalism didn't pay what it used to—and drove toward the hotel he had booked near downtown.
 
 Minneapolis in May was beautiful in a way he hadn't expected. The lakes, the green, the sky that seemed larger than coastal skies. He had spent most of his career in Baltimore, New York, Washington—cities where nature was something you drove past on the way to somewhere else. Here, nature seemed to be the point.
 
@@ -14,7 +14,7 @@ The hotel was a Best Western near the convention center, seventy-nine dollars a 
 
 His name was Terrence Oyelaran—a community organizer Jerome had been connected to through a mutual acquaintance at a labor nonprofit. On the phone, Terrence had been cautious but not hostile, the particular wariness of someone who had dealt with journalists before and learned not to expect much.
 
-They met at a coffee shop in a neighborhood that showed its economic stress in the storefronts: payday lenders, discount stores, the particular retail ecology of communities where money didn't stay long. Terrence was late thirties, Black, with the bearing of someone who had spent years in meetings and marches and the slow work of building power from below.
+They met at a coffee shop in a neighborhood that showed its economic stress in the storefronts: payday lenders, discount stores, a shuttered pharmacy with its windows soaped over, the particular retail ecology of communities where money didn't stay long. Terrence was late thirties, Black, with the bearing of someone who had spent years in meetings and marches and the slow work of building power from below.
 
 "Jerome Washington," Terrence said, shaking his hand. "I've read some of your stuff. Not bad for mainstream media."
 
@@ -36,7 +36,7 @@ They talked for an hour. Terrence explained the local landscape: the gig workers
 
 "I tell them you come recommended. I tell them the story might reach people who can do something. But honestly? I'm not sure I believe that anymore. The people who can do something already know what's happening. They've decided not to do anything."
 
-Jerome nodded. He had felt this himself—the creeping suspicion that journalism had become ritual rather than action, a way of documenting decline without affecting it. But he didn't know what else to do. Writing was all he had.
+Jerome nodded. He had felt this himself—the creeping suspicion that journalism had become ritual rather than action, a way of documenting decline without affecting it, a form of prayer that no longer expected answers. But he didn't know what else to do. Writing was all he had.
 
 "I'll try not to waste anyone's time," he said. "Including yours."
 
@@ -52,7 +52,7 @@ Terrence looked at him for a long moment, assessing. Then he seemed to reach som
 
 That afternoon, Jerome drove around Minneapolis, getting a feel for the city's geography. He took notes on neighborhoods, on the physical markers of economic distress and resilience. Here was a block of boarded-up businesses; there was a community center with a line out the door. Here were the new luxury apartments rising near downtown; there were the older buildings where people actually lived.
 
-He stopped at a gas station to fill the rental car and found himself watching the other customers. A woman in scrubs, probably a nurse, paying for gas and energy drinks. A man in work boots buying lottery tickets. An elderly couple filling a shopping bag with snacks for what looked like a long drive. Ordinary people, living ordinary lives, facing changes that weren't ordinary at all.
+He stopped at a gas station to fill the rental car and found himself watching the other customers—the journalist's habit of observation that never quite turned off. A woman in scrubs, probably a nurse, paying for gas and energy drinks, her face slack with exhaustion. A man in work boots buying lottery tickets, hope against hope. An elderly couple filling a shopping bag with snacks for what looked like a long drive. Ordinary people, living ordinary lives, facing changes that weren't ordinary at all.
 
 His phone buzzed with a text from Denise: *How's Minneapolis?*
 
@@ -92,7 +92,7 @@ Jerome had been a journalist for thirty years. He had broken stories, won awards
 
 Maybe journalism was just documentation at this point. A record for future historians, if there were future historians. A way of saying: we saw this coming, we tried to warn you, you didn't listen.
 
-But he kept doing it anyway. Kept flying to cities like Minneapolis, kept interviewing people whose lives were being squeezed, kept taking their stories and shaping them into narratives that might or might not be read by people who might or might not care. He kept doing it because he didn't know how to stop, because stopping felt like surrender, because some part of him still believed that truth mattered even when the evidence suggested otherwise.
+But he kept doing it anyway. Kept flying to cities like Minneapolis, kept interviewing people whose lives were being squeezed, kept taking their stories and shaping them into narratives that might or might not be read by people who might or might not care. He kept doing it because he didn't know how to stop, because stopping felt like surrender, because some part of him still believed that truth mattered even when the evidence suggested otherwise, even when the truth seemed to pass through the world without leaving a mark.
 
 His phone buzzed. A message from a contact at Prometheus Systems—someone he had been cultivating for months, hoping for inside information. The message was brief: *Still thinking about your request. These are sensitive times. Can't promise anything.*
 
@@ -114,7 +114,7 @@ The first interview was at eight in the morning, a woman named Maria Delgado who
 
 "I know. But you're giving me your time."
 
-She accepted the gesture with the particular grace of someone who had learned not to refuse help but hadn't learned to stop feeling ashamed of needing it. Jerome had seen this before, the complex choreography of dignity in hard times.
+She accepted the gesture with the particular grace of someone who had learned not to refuse help but hadn't learned to stop feeling ashamed of needing it. Jerome had seen this before, the complex choreography of dignity in hard times, the ways people held themselves together even as the world pulled at their seams.
 
 Maria had worked at the warehouse for four years. Good worker, never late, exceeded her pick rate every month. Then the robots came—not new, robots had been there all along, but more of them, smarter, faster. Then the AI scheduling system that started shifting her hours to less desirable times. Then the productivity standards that kept rising even as the human workers had less to do.
 
@@ -136,7 +136,7 @@ The second interview was at noon, a man named David Kowalski who drove for Uber 
 
 "They say it's market conditions. But I talk to other drivers. We all think it's the autonomous vehicles. Not here yet, not really, but the companies are already pricing in the transition. Fewer incentives for humans, lower per-ride payouts. They're squeezing us now so when the robot cars come, we're already gone."
 
-Jerome looked around the parking lot. Two other drivers sat in their cars nearby, phones mounted on dashboards, waiting for the ping that would send them somewhere. A small community of the displaced, gathering in the spaces between places.
+Jerome looked around the parking lot. Two other drivers sat in their cars nearby, phones mounted on dashboards, waiting for the ping that would send them somewhere. A small community of the displaced, gathering in the spaces between places, their lives measured out in notifications and estimated arrival times.
 
 "What will you do if driving goes away?"
 
@@ -158,7 +158,7 @@ Jerome photographed the screenshots, careful to capture only the schedule, nothi
 
 "Why are you talking to me?" he asked. A question he often asked, because the answer revealed what people hoped to achieve.
 
-Sarah was quiet for a moment. "Because I don't know what else to do. I've complained through official channels. I've talked to my union. Nothing works. Maybe if it's public, if people see what's happening..." She trailed off. "Or maybe nothing will change and I'll get fired for talking to a journalist. I honestly don't know anymore."
+Sarah was quiet for a moment. "Because I don't know what else to do. I've complained through official channels. I've talked to my union. Nothing works. Maybe if it's public, if people see what's happening..." She trailed off, her hands still around the coffee she hadn't drunk. "Or maybe nothing will change and I'll get fired for talking to a journalist. I honestly don't know anymore."
 
 
 
@@ -180,7 +180,7 @@ Halfway through the meeting, Jerome noticed him. A young Somali-American man in 
 
 Something about the young man drew Jerome's attention—the quality of his attention, maybe. Most people in the room were focused on themselves, on their own stories, their own fears. This young man seemed to be watching the whole room, the whole situation, as if seeing patterns others missed.
 
-Jerome found himself returning to the young man throughout the meeting, stealing glances. He was young—mid-twenties at most. He wore clothes that suggested gig work: practical, worn, the uniform of someone who spent time on their feet. But his bearing suggested something else, some kind of intellectual engagement that went beyond immediate concerns.
+Jerome found himself returning to the young man throughout the meeting, stealing glances the way he had learned to observe without being obvious. He was young—mid-twenties at most. He wore clothes that suggested gig work: practical, worn, the uniform of someone who spent time on their feet. But his bearing suggested something else, some kind of intellectual engagement that went beyond immediate concerns.
 
 The meeting continued. Terrence facilitated skillfully, drawing people out, keeping the discussion focused, building toward something. There was talk of organizing, of collective action, of demanding a seat at the table. The language of hope, even as the faces showed doubt.
 
@@ -220,7 +220,7 @@ The young man studied him. Jerome could feel himself being assessed, measured ag
 
 "That's the only way to think about it. You come here, you take our stories, you turn them into content. Maybe you win an award. Maybe you don't. Either way, nothing changes for us."
 
-Jerome had heard this before—the critique of journalism as extraction, as colonization by other means. It was a critique he mostly agreed with, which made it harder to answer.
+Jerome had heard this before—the critique of journalism as extraction, as colonization by other means, as poverty porn dressed up in progressive language. It was a critique he mostly agreed with, which made it harder to answer.
 
 "You might be right," he said. "I've been doing this for thirty years, and I'm not sure anything I've written has changed anything. But I don't know what else to do. Writing is all I have."
 
@@ -286,7 +286,7 @@ His phone buzzed. Denise. He picked up.
 
 "Eating. Mostly sleeping. You know how it is."
 
-"I know how it is." There was affection in her voice, but also fatigue. Thirty years of marriage, and she still loved him, but the love had taken on the texture of worn fabric. Familiar, comfortable, frayed at the edges.
+"I know how it is." There was affection in her voice, but also fatigue—the particular fatigue of loving someone who was always leaving for the next story. Thirty years of marriage, and she still loved him, but the love had taken on the texture of worn fabric. Familiar, comfortable, frayed at the edges.
 
 "How's home?" he asked.
 
@@ -336,7 +336,7 @@ But one voice kept returning, louder than the others. The young Somali-American 
 
 It was the question that haunted all journalism, the one Jerome had been avoiding for thirty years. He told himself he was giving voice to the voiceless, amplifying the stories of people who couldn't reach the platforms he could reach. But the young man's challenge cut deeper than that. Even when journalists had good intentions, they were still taking something. They were still the ones shaping the narrative, deciding what mattered, what fit, what the story was really about.
 
-Jerome had built a career on believing that truth-telling was inherently valuable. But what if truth-telling had become its own kind of ritual, a performance of concern that substituted for actual change? What if the articles and exposés and investigations were just a way for the system to let off steam, to process its contradictions without resolving them?
+Jerome had built a career on believing that truth-telling was inherently valuable, that sunlight was the best disinfectant, that an informed public would make better choices. But what if truth-telling had become its own kind of ritual, a performance of concern that substituted for actual change? What if the articles and exposés and investigations were just a way for the system to let off steam, to process its contradictions without resolving them?
 
 He didn't have answers. He kept writing anyway. The story about Minneapolis workers was important because their stories were important, because their suffering was real, because someone should bear witness. Whether the bearing of witness accomplished anything beyond itself—that was a question he couldn't answer.
 
@@ -390,9 +390,9 @@ At two in the morning, Jerome finally closed his laptop. He was tired in a way t
 
 He brushed his teeth in the small bathroom, looked at himself in the mirror. Sixty-two years old, hair going gray, the face of a man who had spent his life chasing truth through a world that wasn't particularly interested in being honest with itself.
 
-*You're still doing it*, he told his reflection. *After everything. You're still doing it.*
+*You're still doing it*, he told his reflection. *After everything. After all the stories that changed nothing. You're still doing it.*
 
-He wasn't sure if that was admirable or pathological. Probably both.
+He wasn't sure if that was admirable or pathological. Probably both. The distinction had stopped mattering somewhere along the way.
 
 He lay down on the hotel bed without getting under the covers, staring at the ceiling in the darkness. Tomorrow he would fly back to Baltimore. Tomorrow night he would talk to Ananya. The story would move forward, building toward something he couldn't yet see.
 

@@ -18,7 +18,7 @@ She sat at the kitchen table, the same place she'd fed hundreds of family meals.
 
 "The kids will try it. And if they don't like it, I'll make them quesadillas. I've got this, Elena."
 
-The words landed somewhere between comfort and confrontation. He had this. He was capable of doing the things she'd always done. The fact that she'd never let him proved nothing about his competence and everything about her control.
+The words landed somewhere between comfort and confrontation. He had this. He was capable of doing the things she had always done, the things she had always assumed only she could do. The fact that she had never let him proved nothing about his competence and everything about her need for control.
 
 
 
@@ -32,7 +32,7 @@ The first morning, she tried to get up when the alarm went off. Daniel pressed h
 
 He made breakfast. Scrambled eggs and toast, nothing fancy, but the kids ate it and got out the door on time. Elena heard the whole thing from bed, tracking the familiar sounds: cabinet doors, running water, Sofia's high voice, Mateo's sleepy complaints.
 
-The second morning, she didn't try to get up. She lay in bed and let Daniel handle it, guilt churning in her stomach like acid. She was failing. She was letting him down. She was not doing her job.
+The second morning, she didn't try to get up. She lay in bed and let Daniel handle it, guilt churning in her stomach like acid. She was failing. She was letting everyone down. She was not doing her job, the only job that had ever mattered to her.
 
 But the house didn't fall apart. The children got to school. Breakfast happened. The world continued turning without her at its center.
 
@@ -56,7 +56,7 @@ He had organized her pills into a weekly container, the kind she'd given to elde
 
 "Let me do this. Please. Let me be useful."
 
-She took the pill, swallowed it with water, and saw in his face a need that mirrored her own. He needed to help. He needed to contribute. Just as she had built her identity around caring for others, he was building his around caring for her.
+She took the pill, swallowed it with water, and saw in his face a need that mirrored her own. He needed to help. He needed to contribute. He needed to matter. Just as she had built her identity around caring for others, he was building his around caring for her.
 
 The week continued. Daniel cooked every meal - not just dinner but breakfast and lunch, packing food for the kids, leaving containers in the fridge for Elena. He did laundry, badly at first and then with increasing competence. He managed Mateo's homework meltdown on Wednesday night with a patience Elena didn't know he possessed.
 
@@ -84,7 +84,7 @@ Daniel was quiet for a moment. Outside, a car passed, headlights sweeping across
 
 "What was the other reason?"
 
-"You had everything handled. Everything. The house, the kids, your grandmother, your job. There was nothing for me to do that you weren't already doing better. So I found somewhere else to be useful."
+"You had everything handled. Everything. The house, the kids, your grandmother, your job - you were doing all of it, and doing it better than I could. There was nothing for me to do that you weren't already doing better. So I found somewhere else to be useful."
 
 "You left because I was too competent?"
 
@@ -116,7 +116,7 @@ They lay in the dark, the conversation hovering between them. Elena could feel t
 
 "Is that what you want?"
 
-"I want to stop being so tired. I want to actually see my kids grow up instead of just managing their schedules. I want to remember why I married you instead of just coexisting with someone who shares my mortgage."
+"I want to stop being so tired. I want to actually see my kids grow up instead of just managing their schedules and their homework and their doctors' appointments. I want to remember why I married you instead of just coexisting with someone who shares my mortgage."
 
 "That's a lot."
 
@@ -132,7 +132,7 @@ Daniel reached across the bed and took her hand. His palm was rough with calluse
 
 
 
-The next morning, Elena woke before Daniel. She lay in bed, feeling the warmth of him beside her, and made herself stay still. Not because she couldn't get up, but because she was choosing not to. The distinction mattered.
+The next morning, Elena woke before Daniel. She lay in bed, feeling the warmth of him beside her, and made herself stay still. Not because she couldn't get up, but because she was choosing not to. The distinction mattered more than she would have believed.
 
 When he woke, she asked him to make her breakfast. Not because she couldn't do it herself, but because she wanted him to.
 
@@ -156,7 +156,7 @@ Daniel smiled, the first real smile she'd seen on his face in months. The simple
 
 "Same time tomorrow."
 
-The marriage had bent. It had nearly broken. But here, in the kitchen that smelled of chilies and eggs, with their children eating breakfast and their bodies slowly learning new rhythms, it was holding. Different than before. But holding.
+The marriage had bent. It had nearly broken under the weight of all the things they hadn't said. But here, in the kitchen that smelled of chilies and eggs, with their children eating breakfast and their bodies slowly learning new rhythms, it was holding. Different than before. But holding.
 
 
 

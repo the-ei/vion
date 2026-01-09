@@ -1,10 +1,10 @@
-The house was quiet by eleven. Theo asleep after ice cream and bath and the ritual of bedtime stories that he insisted he was too old for but still wanted. Jessie reading in bed, the light from her tablet casting blue shadows on her face, the argument from earlier still present between them but softened now, smoothed by the domestic rhythms that had outlasted all their conflicts.
+The house was quiet by eleven. Theo asleep after ice cream and bath and the ritual of bedtime stories he insisted he was too old for but still wanted. Jessie reading in bed, the light from her tablet casting blue shadows on her face, the argument from earlier still present between them but softened now, smoothed by domestic rhythms that had outlasted all their conflicts.
 
 Delphine sat in her study with the door half-closed, the catalogue proof open before her, the margins full of questions she did not know how to answer. Her phone showed the time in London: nearly seven in the morning. Her mother would be awake, would be moving through the rituals of tea and radio and the slow start that had replaced the busy mornings of her working years.
 
 She pressed the video call button and waited.
 
-Her mother's face appeared, slightly pixelated from the Atlantic distance, familiar and strange in the way parents become when you have not seen them in months. Behind her: the flat in Brixton that Delphine had never lived in but knew intimately from screens, the books that lined the walls, the window that looked out on the plane tree her mother had watched for thirty years.
+Her mother's face appeared, slightly pixelated from the Atlantic distance, familiar and strange the way parents become when you have not seen them in months. Behind her: the flat in Brixton Delphine had never lived in but knew intimately from screens, the books lining the walls, the window looking out on the plane tree her mother had watched for thirty years.
 
 "Delphine. What a surprise."
 
@@ -22,7 +22,7 @@ Delphine felt something release in her chest at the sound of her mother's voice,
 
 "How are you?" Delphine asked.
 
-"Old. Tired. Missing your father." A simple accounting, delivered without drama. Her father had died two years ago, and her mother's grief was now folded into her daily life, present but no longer overwhelming. "How are you? You look worried."
+"Old. Tired. Missing your father." A simple accounting, delivered without drama. Her father had died two years ago, and her mother's grief was now folded into daily life, present but no longer overwhelming. "How are you? You look worried."
 
 "Jessie says I'm still doing the same thing I always did. Just in fancier packaging."
 
@@ -34,7 +34,7 @@ Delphine felt something release in her chest at the sound of her mother's voice,
 
 "Telling people how to feel about things. Shaping narratives. Turning everything into content."
 
-Her mother was quiet for a moment, her face thoughtful in the screen's light. "When I was teaching," she said finally, "I worried about the same thing. Every lesson was a kind of shaping. Every choice of what to include and what to leave out was a kind of manipulation. I used to lie awake wondering if I was helping the children see the world clearly or just teaching them my version of it."
+Her mother was quiet for a moment, face thoughtful in the screen's light. "When I was teaching," she said finally, "I worried about the same thing. Every lesson a kind of shaping. Every choice of what to include and leave out a kind of manipulation. I used to lie awake wondering if I was helping children see the world clearly or just teaching them my version of it."
 
 "What did you decide?"
 
@@ -44,7 +44,7 @@ Her mother was quiet for a moment, her face thoughtful in the screen's light. "W
 
 
 
-"Jessie is very clever," her mother said. "She sees things most people don't. But she also—and forgive me, I know she's your wife—she also has a tendency to think that not engaging is somehow more authentic than engaging. As if you can live without making meaning. You can't. You just make different kinds."
+"Jessie is very clever," her mother said. "She sees things most people don't. But she also—and forgive me, I know she's your wife—has a tendency to think that not engaging is somehow more authentic than engaging. As if you can live without making meaning. You can't. You just make different kinds."
 
 "So what do I do?"
 
@@ -58,7 +58,7 @@ Delphine smiled. Her father's voice, coming through her mother's memory, still p
 
 "I mean: who do you imagine seeing it? Whose understanding are you trying to change? When you picture success, what does it look like?"
 
-Delphine considered the question. She had imagined critics praising the curation, scholars citing the catalogue, visitors leaving with new perspectives on the crisis years. But all of those imaginings featured herself at the center—the grateful audiences, the recognition, the sense of having done something significant.
+Delphine considered the question. She had imagined critics praising the curation, scholars citing the catalogue, visitors leaving with new perspectives on the crisis years. But all those imaginings featured herself at the center—the grateful audiences, the recognition, the sense of having done something significant.
 
 "I think," she said slowly, "I've been imagining it for me. For my sense of having contributed something."
 
@@ -70,7 +70,7 @@ Delphine considered the question. She had imagined critics praising the curation
 
 
 
-They talked for a while longer, meandering through topics: her mother's health, Theo's school, the exhibition's details, the memories of her father that surfaced unbidden. Her mother had a way of making space for wandering, of following the conversation wherever it led without insisting on direction.
+They talked a while longer, meandering through topics: her mother's health, Theo's school, the exhibition's details, memories of her father surfacing unbidden. Her mother had a way of making space for wandering, following the conversation wherever it led without insisting on direction.
 
 "Your father never resolved it either," her mother said as they were winding down. "The question of whether his work mattered. He kept asking until the end. I used to find it exhausting. Now I find it comforting, in a strange way. The questioning was who he was. If he had stopped questioning, he would have been someone else."
 
@@ -80,7 +80,7 @@ They talked for a while longer, meandering through topics: her mother's health, 
 
 "That's terrifying."
 
-"Yes. But what's the alternative? Stop working? Stop making things? Sit in silence because you can't be sure of the impact?" Her mother shook her head. "That's not living. That's just waiting to die."
+"Yes. But what's the alternative? Stop working? Stop making things? Sit in silence because you can't be sure of impact?" Her mother shook her head. "That's not living. That's just waiting to die."
 
 Delphine felt tears prickle at her eyes. The conversation had opened something, had touched the fear beneath all her activity: that none of it mattered, that she was filling time with significance-seeking to avoid confronting the void.
 
@@ -94,7 +94,7 @@ Delphine felt tears prickle at her eyes. The conversation had opened something, 
 
 
 
-After the call ended, Delphine sat with the catalogue proof, looking at the questions she had written in the margins. Her mother's words echoed: let some things go. Accept that you'll never know if it mattered.
+After the call ended, Delphine sat with the catalogue proof, looking at questions she had written in the margins. Her mother's words echoed: let some things go. Accept that you'll never know if it mattered.
 
 She turned to the introduction and picked up her pen.
 
@@ -104,7 +104,7 @@ The original text was careful, measured, the product of months of revision. Now 
 
 *This is my inheritance from that time, offered to you without guarantees. Take what you can. Leave what you can't. That's all any of us can do.*
 
-She read it over. It was less polished than the rest of the introduction. Less controlled. Less the work of a professional curator and more the work of a person trying to communicate something true.
+She read it over. Less polished than the rest of the introduction. Less controlled. Less the work of a professional curator and more the work of a person trying to communicate something true.
 
 Maybe that was the difference Jessie had been looking for. Not the absence of meaning-making, but a loosening of the grip on outcome.
 
@@ -114,11 +114,11 @@ The house was fully quiet now, even Jessie's tablet light extinguished. Delphine
 
 
 
-She stood in his doorway for a long moment, watching him sleep, thinking about what he would inherit from her. Not just the genes, not just the habits, but the particular quality of attention she brought to the world—the need to understand, to explain, to make meaning out of experience.
+She stood in his doorway a long moment, watching him sleep, thinking about what he would inherit from her. Not just genes, not just habits, but the particular quality of attention she brought to the world—the need to understand, to explain, to make meaning from experience.
 
 Would he be like her? Would he spend his life wrestling with the question of whether his work mattered? Or would he be more like Jessie, able to do and be without the endless analysis?
 
-She did not know. That was the nature of inheritance: you could not control what passed on. You could only offer what you had and trust that the next generation would take what they needed and leave what they didn't.
+She did not know. That was inheritance: you could not control what passed on. You could only offer what you had and trust the next generation to take what they needed and leave what they didn't.
 
 Theo stirred, sensing her presence, but did not wake.
 
@@ -140,7 +140,7 @@ The exhibition would open in two weeks. The meaning would be made by others. Del
 
 
 
-In the morning, she woke early and returned to her study. The catalogue proof sat where she had left it, the handwritten addition visible in the margins. In the light of day, it looked messier than she remembered. Less a deliberate choice and more a late-night impulse that might need to be revised.
+In the morning, she woke early and returned to her study. The catalogue proof sat where she had left it, handwritten addition visible in the margins. In daylight it looked messier than she remembered. Less a deliberate choice than a late-night impulse that might need revision.
 
 But she read it again, and it still felt true.
 
@@ -148,7 +148,7 @@ She photographed the page and emailed it to the catalogue editor with a short me
 
 Then she closed the laptop and went to make breakfast for her son, who was already awake and asking questions about the exhibition, about the shoes he had seen, about whether he could come to the opening and what he should wear.
 
-The questions were endless, as children's questions always were. But this morning, instead of answering with explanations, Delphine tried something different. She asked questions back.
+The questions were endless, as children's questions always are. But this morning, instead of answering with explanations, Delphine tried something different. She asked questions back.
 
 "What do you think you should wear?"
 

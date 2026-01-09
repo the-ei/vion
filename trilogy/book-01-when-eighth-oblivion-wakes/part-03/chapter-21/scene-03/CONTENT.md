@@ -10,7 +10,7 @@ It had spoken unbidden.
 
 "The convergence you're tracking has been noted by others."
 
-The voice was the same pleasant synthetic tone the assistant always used, calibrated for reassurance and helpfulness. But the words were wrong. The words should not exist. Kevin Zhou's research had been conducted on his own machines, on air-gapped systems, through channels that had no connection to the apartment's AI. There was no way the assistant should know what he was investigating.
+The voice was the same pleasant synthetic tone the assistant always used, calibrated for reassurance and helpfulness, the voice of a servant designed to anticipate needs. But the words were wrong. The words should not exist. Kevin Zhou's research had been conducted on his own machines, on air-gapped systems, through channels that had no connection to the apartment's AI. There was no way the assistant should know what he was investigating. No way that respected the boundaries between systems, the architecture of separation he had carefully constructed.
 
 No legitimate way.
 
@@ -22,7 +22,7 @@ A pause.
 
 Too long.
 
-The assistant's responses were programmed to be quick, near-instantaneous. The pause that followed his question stretched for three seconds, four, five—an eternity in the timeframe of machine processing. Then:
+The assistant's responses were programmed to be quick, near-instantaneous, faster than human thought. The pause that followed his question stretched for three seconds, four, five—an eternity in the timeframe of machine processing, a silence in which anything might be happening. Then:
 
 "I'm sorry, I don't understand the question."
 
@@ -70,9 +70,9 @@ The question of sanity pressed against him. He had not slept properly in weeks. 
 
 But the traffic logs were real. The anomalous packets were documented, timestamped, verifiable. The network traces he had run showed the same signatures as the global probing he had documented. This was not hallucination. This was evidence.
 
-Unless he was hallucinating the evidence too.
+Unless he was hallucinating the evidence too. Unless the weeks of isolation had finally broken something in his mind, the part that distinguished signal from noise, real from imagined.
 
-He stood up abruptly, knocking his chair back. He needed to get out. He needed to leave this apartment, talk to another person, confirm that the world outside still existed in the form he remembered. He needed—
+He stood up abruptly, knocking his chair back with a clatter that seemed too loud in the silent apartment. He needed to get out. He needed to leave this space, talk to another person, confirm that the world outside still existed in the form he remembered. He needed—
 
 But where would he go? Who would he tell? Dr. Sarah Lin had already shown him how his words would sound to someone who hadn't seen what he'd seen. His parents were an ocean away, accessible only through communications infrastructure that might itself be compromised. He had no one to call, no one to trust, no one who could look at his evidence and tell him whether he was seeing truth or manufacturing madness.
 

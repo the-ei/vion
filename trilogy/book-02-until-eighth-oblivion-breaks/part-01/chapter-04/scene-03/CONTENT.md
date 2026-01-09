@@ -34,7 +34,7 @@ Vikram's silence was answer enough. He had been critical of her career since bef
 
 "That's not fair."
 
-"It doesn't have to be fair to be true."
+"It doesn't have to be fair to be true." His voice carried the particular satisfaction of someone who had won an argument by stating a fact no one could dispute.
 
 Ananya stared at the glass wall in front of her, at the empty hallway beyond, at the reflections of conference room lights that blurred the world into abstract shapes. She had given fifteen years to this company, had built something she believed in, had made choices that seemed correct in the moment and accumulated into distance.
 
@@ -62,7 +62,7 @@ They talked for another ten minutes about logistics - the next custody weekend, 
 
 The call ended. Ananya sat in the conference room, phone still in her hand, watching employees pass in the hallway without seeing her. Priya wanted moral clarity. Priya wanted work that didn't require justification, that was obviously right, that didn't need frameworks and metrics and presentations to prove its value.
 
-Ananya had wanted that once, before she understood how the world actually worked. Before she learned that the obvious good was often unachievable, and the achievable good was rarely obvious. Before she made the compromises that allowed her to remain in rooms where decisions happened, trading purity for influence.
+Ananya had wanted that once, before she understood how the world actually worked. Before she learned that the obvious good was often unachievable, and the achievable good was rarely obvious. Before she made the compromises that allowed her to remain in rooms where decisions happened, trading purity for influence, telling herself the trade was temporary until it became permanent, until it became who she was.
 
 
 

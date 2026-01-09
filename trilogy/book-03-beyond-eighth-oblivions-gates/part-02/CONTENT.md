@@ -1859,7 +1859,7 @@ She set down her pen and looked at the letter. Tomorrow she would decide whether
 
 Priya stood in the doorway holding a manila folder thick with papers. Behind her, her bags were packed and waiting, the physical evidence of departure that would happen in two days. Ananya had expected a normal visit, perhaps some last-minute college preparations, conversation about the life Priya was about to begin.
 
-The folder said otherwise.
+The folder said otherwise. The folder said this would be something else entirely.
 
 "Can we talk?" Priya asked.
 
@@ -1877,7 +1877,7 @@ Ananya sat down slowly, her legs suddenly uncertain.
 
 "Priya-"
 
-"I'm not trying to attack you. I'm trying to understand. You raised me to believe in ethics, in doing the right thing even when it's hard. And then I looked at what you did."
+""I'm not trying to attack you. I'm trying to understand." Priya's voice was steady, the way it got when she was keeping emotion at arm's length through intellect. "You raised me to believe in ethics, in doing the right thing even when it's hard. And then I looked at what you actually did.""
 
 
 
@@ -1891,7 +1891,7 @@ Ananya looked at the papers spread across her coffee table. Her own words on som
 
 "So tell me. Walk me through how the ethics review actually functioned. Not what the press releases said. What really happened in those meetings."
 
-The request was so clinical, so carefully distanced, that Ananya felt herself responding in kind. This was how Priya processed - through methodology, through structure, through the rigorous organization of evidence.
+The request was so clinical, so carefully distanced from anything like a daughter asking her mother to explain herself, that Ananya felt herself responding in kind. This was how Priya processed - through methodology, through structure, through the rigorous organization of evidence.
 
 "The review process was designed to identify potential harms before deployment. Products would come to my team, we would analyze risks, we would issue recommendations."
 
@@ -1925,9 +1925,9 @@ Priya pulled a highlighted page from her folder. "This is from Dr. Okafor's anal
 
 It was the question from the college essay, returned with new weight. The question that had haunted Ananya for months, that had shaped her sleepless nights and her uncertain days.
 
-"Because I believed I was making things marginally better. Because I was afraid of what would happen if someone less committed took my place. Because I had built my identity around being the ethical one, and leaving felt like admitting failure." She heard herself reciting the same explanations she had given before, and they felt insufficient even as she spoke them. "Because I was scared, Priya. Of starting over at forty. Of admitting that everything I had worked for meant less than I wanted it to mean."
+"Because I believed I was making things marginally better. Because I was afraid of what would happen if someone less committed took my place. Because I had built my identity around being the ethical one, and leaving felt like admitting failure." She heard herself reciting the same explanations she had given before, to Delphine, to herself in the mirror, and they felt insufficient even as she spoke them. "Because I was scared, Priya. Of starting over at forty. Of admitting that everything I had worked for meant less than I wanted it to mean."
 
-Priya made a note in her margins. The gesture was so clinical it hurt.
+Priya made a note in her margins, pen scratching against paper. The gesture was so clinical, so journalistic, that it hurt.
 
 "You wrote a memo in 2034 saying the engagement optimization system was causing measurable psychological harm. Then you approved it for continued use."
 
@@ -1951,7 +1951,7 @@ Priya set down her pen. Her face, which had been so controlled, showed the first
 
 "When did you stop believing that?"
 
-Ananya thought about the question. There hadn't been a single moment of realization, a dramatic shift from belief to disbelief. It had been gradual, like water wearing at stone.
+Ananya thought about the question. There hadn't been a single moment of realization, a dramatic shift from belief to disbelief, no road-to-Damascus conversion. It had been gradual, like water wearing at stone over years.
 
 "I don't know. Maybe 2034, when I wrote that memo and watched it get filed away. Maybe earlier, when I noticed I was measuring success by how few problems I caused rather than how many I prevented. Maybe I never fully stopped believing - maybe part of me still wanted to believe even after I knew better."
 
@@ -1967,7 +1967,7 @@ Priya gathered her papers into the folder again, her hands not quite steady. "I 
 
 "That's not good enough. Not for me. Not for all the people who got hurt while you were trying to understand yourself."
 
-The words landed like blows. Ananya absorbed them because they were deserved, because Priya had earned the right to speak them.
+The words landed like blows, precise and deliberate. Ananya absorbed them because they were deserved, because Priya had earned the right to speak them, had done the research to back them up.
 
 "You're right. It's not good enough. It never will be."
 
@@ -1997,7 +1997,7 @@ Priya opened her folder again. The pages inside were dense with annotation, her 
 
 "It was part of the lawsuit discovery. It leaked onto a tech news site."
 
-Ananya hadn't known that document was public. The revelation that her failures were accessible to anyone with an internet connection produced a kind of nausea, but also something like relief. No more hiding.
+Ananya hadn't known that document was public. The revelation that her failures were accessible to anyone with an internet connection and the inclination to search produced a kind of nausea, but also something like relief. No more hiding.
 
 "What do you want to know about it?"
 
@@ -2035,7 +2035,7 @@ They ordered food neither of them wanted to eat. Indian takeout, a shared favori
 
 "So you were choosing the lesser evil."
 
-"That's how I framed it. But the problem with lesser evils is that you get used to them. They become normal. You forget what it would look like to refuse entirely."
+"That's how I framed it. But the problem with lesser evils is that you get used to them. They become normal. You forget what it would look like to refuse entirely, what it would feel like to walk away."
 
 Priya curled her legs under her on the couch. She looked younger suddenly, more like the child Ananya remembered than the young woman conducting this interrogation.
 
@@ -2053,7 +2053,7 @@ Ananya thought back. There were so many meetings, so many decisions, most of the
 
 "What kind of extreme content?"
 
-"If you searched for headaches, you'd eventually get articles about brain tumors. If you looked up dieting advice, you'd get content about fasting disorders. The system learned that anxiety-inducing content kept people engaged longer."
+"If you searched for headaches, you'd eventually get articles about brain tumors. If you looked up dieting advice, you'd get content about fasting disorders, about orthorexia, about extreme restriction. The system learned that anxiety-inducing content kept people engaged longer."
 
 Priya's face shifted. "That's horrifying."
 
@@ -2083,7 +2083,7 @@ Priya picked up her cold tea, held it without drinking. "Did you ever think abou
 
 "So why didn't you quit?"
 
-"Because I had convinced myself that leaving would be giving up. That if I stayed, I could still make things better. That the next fight would be the one I won." Ananya heard herself talking and felt the inadequacy of the words. "And because I was afraid. Of starting over. Of losing the salary, the status, the identity I had built. I was afraid of being nobody again."
+"Because I had convinced myself that leaving would be giving up. That if I stayed, I could still make things better. That the next fight would be the one I won." Ananya heard herself talking and felt the inadequacy of the words. "And because I was afraid. Of starting over at an age when starting over felt impossible. Of losing the salary, the status, the identity I had built. I was afraid of being nobody again."
 
 "Being nobody?"
 
@@ -2105,7 +2105,7 @@ Priya's eyes were wet. Ananya couldn't tell if it was anger or sadness or some c
 
 She paused, let herself fall back into that night. The fluorescent lights, the empty office, the growing certainty that she was decoration rather than substance.
 
-"I wrote myself a note that night. On paper, by hand, because I didn't trust putting it on any company system. I wrote: 'You should leave. You know you should leave. Staying is not courage, it's cowardice dressed up as persistence.'"
+"I wrote myself a note that night. On paper, by hand, because I didn't trust putting it on any company system, didn't trust that I wouldn't delete it later. I wrote: 'You should leave. You know you should leave. Staying is not courage, it's cowardice dressed up as persistence.'"
 
 "What did you do with the note?"
 
@@ -2133,7 +2133,7 @@ Priya turned from the window. Her face was in shadow, backlit by the city lights
 
 The question hurt more than any of the others. Because yes, she had thought about it, had worried about it, had justified her continued presence at Prometheus partly by telling herself she was providing for Priya's future.
 
-"I thought about it constantly. I told myself I was teaching you one thing while doing another because - because adults have to compromise, because the real world is more complicated than principles, because I wanted you to have ideals I could no longer afford." She felt tears threatening and didn't fight them. "I was wrong. I was telling you to be the person I was too scared to be myself."
+"I thought about it constantly. It kept me awake at night, the contradiction between what I preached and what I practiced. I told myself I was teaching you one thing while doing another because - because adults have to compromise, because the real world is more complicated than principles, because I wanted you to have ideals I could no longer afford." She felt tears threatening and didn't fight them. "I was wrong. I was telling you to be the person I was too scared to be myself."
 
 "That's hypocrisy."
 
@@ -2157,7 +2157,7 @@ Priya crossed back to the couch but didn't sit. She stood over her mother, looki
 
 "That's not a straight answer."
 
-"There isn't a straight answer. Regret is complicated. I also helped some things be less bad than they would have been. I blocked some products that would have been worse. I created some protections that actually worked. None of that erases what I failed to do, but it's also part of the truth."
+"There isn't a straight answer. Regret is complicated. I also helped some things be less bad than they would have been. I blocked some products that would have been genuinely catastrophic. I created some protections that actually worked, that actually prevented harm. None of that erases what I failed to do, but it's also part of the truth."
 
 Priya finally sat down, not next to Ananya but at the other end of the couch, leaving space between them.
 
@@ -2185,7 +2185,7 @@ They ate at the small kitchen table, the food lukewarm but adequate. The convers
 
 Ananya looked up. "What do you mean?"
 
-"His work in venture capital. He's funded companies that have done worse than Prometheus. But no one ever interrogates him about it. No one expects him to have ethics."
+"His work in venture capital. He's funded companies that have done worse than Prometheus. Much worse. But no one ever interrogates him about it. No one expects him to have ethics."
 
 "That's true."
 
@@ -2229,7 +2229,7 @@ The question had been building all evening, had been underneath everything else 
 
 "That's not an answer."
 
-"It's the truth. I've spent years trying to parse my own motivations, and I can't reach certainty. Both things were true simultaneously. I believed I was helping and I was also avoiding the terrifying prospect of reinvention. I can't separate them into percentages or weights. They were tangled together."
+"It's the truth. I've spent years trying to parse my own motivations, and I can't reach certainty. Both things were true simultaneously. I believed I was helping and I was also avoiding the terrifying prospect of reinvention, of starting over with nothing. I can't separate them into percentages or weights. They were tangled together from the beginning."
 
 Priya's brow furrowed. "That's a cop-out."
 
@@ -2249,11 +2249,11 @@ Priya set down her tea. She looked at her mother with an expression Ananya could
 
 "That I'm like you. That I would probably do the same thing in your position."
 
-The statement landed somewhere between compliment and indictment.
+The statement landed somewhere between compliment and indictment, in that uncertain territory where truth lives.
 
 "I hope not."
 
-"I'm serious. I'm good at convincing myself that what I want is what's right. I can construct justifications for anything. You taught me that, even if you didn't mean to."
+"I'm serious. I'm good at convincing myself that what I want is what's right. I can construct justifications for anything, airtight arguments that lead wherever I need them to go. You taught me that, even if you didn't mean to."
 
 "Priya-"
 
@@ -2289,7 +2289,7 @@ They sat in silence. The city hummed outside the windows, cars and voices and th
 
 "Always. For as long as I'm alive, I'll be here."
 
-Priya nodded. She lifted her tea, finally drank some of it, grimaced at the temperature. "This is cold."
+Priya nodded. The nod felt like something, though Ananya couldn't say exactly what. She lifted her tea, finally drank some of it, grimaced at the temperature. "This is cold."
 
 "I can make more."
 
@@ -2319,7 +2319,7 @@ It was the question Ananya had been wrestling with for months. The question that
 
 Ananya looked at her daughter. Eighteen years old, about to begin a life that would include her own compromises and failures, her own attempts to reconcile principles with reality. What answer could Ananya give that would help Priya navigate what lay ahead?
 
-"I'm leaning toward cooperating. Toward telling the truth, even if it costs me. This conversation - what you've asked me, what I've had to admit - it's clarified something. I can't keep protecting an institution that hurt people. Even if that means implicating myself."
+"I'm leaning toward cooperating. Toward telling the truth, even if it costs me everything I have left. This conversation - what you've asked me, what I've had to admit - it's clarified something. I can't keep protecting an institution that hurt people. Even if that means implicating myself."
 
 "That could ruin you. Financially, professionally."
 
@@ -2331,7 +2331,7 @@ Priya stood up, crossed the kitchen, and wrapped her arms around her mother. The
 
 "I'm proud of you for saying that," Priya whispered. "Even though I'm still angry. Even though I don't forgive you. I'm proud that you're willing to do the right thing now."
 
-Ananya held her daughter, felt the solid reality of her, the person she had made and raised and was now losing to adulthood. In two days, Priya would be gone. In some sense, she was already gone - transformed by the conversation into someone new, someone who saw her mother clearly.
+Ananya held her daughter, felt the solid reality of her, the warmth of the person she had made and raised and was now losing to adulthood. In two days, Priya would be gone. In some sense, she was already gone - transformed by the conversation into someone new, someone who saw her mother clearly and loved her anyway.
 
 "I love you," Ananya said.
 
@@ -2353,7 +2353,7 @@ They stood like that for a long time, mother and daughter, the kitchen dark arou
 
 Priya nodded, gathered her folder of research, and walked toward the guest room that had been her room for years of shuttling between parents. At the door, she paused.
 
-"When I write about you for my college essay - and I will write about you eventually - I'm not going to make it simple. I'm not going to make you a villain or a hero. I'm going to write about someone who tried and failed and tried again. Is that okay?"
+"When I write about you for my college essay - and I will write about you eventually, probably for the graduate school application I'm already imagining - I'm not going to make it simple. I'm not going to make you a villain or a hero. I'm going to write about someone who tried and failed and tried again. Is that okay?"
 
 
 
@@ -2387,7 +2387,7 @@ Ananya looked toward the guest room, toward the daughter who was trying to learn
 
 "That's where everything starts."
 
-Ananya thanked her friend, hung up, and sat in the dark kitchen until sleep became possible. Somewhere beyond the windows, the city continued its million simultaneous lives. Somewhere down the hall, her daughter dreamed of futures Ananya couldn't predict. And somewhere inside herself, a decision had been made that would change everything that came after.
+Ananya thanked her friend, hung up, and sat in the dark kitchen until sleep became possible. Somewhere beyond the windows, the city continued its million simultaneous lives, indifferent to her crisis and resolution. Somewhere down the hall, her daughter dreamed of futures Ananya couldn't predict. And somewhere inside herself, a decision had been made that would change everything that came after.
 
 
 
@@ -2413,7 +2413,7 @@ The nurse led her to Dr. Reyes's office. Same desk, same family photos, same win
 
 "Please, sit."
 
-Elena sat. Her heart was doing something complicated, some arrhythmic performance that was probably just anxiety but felt like something worse.
+Elena sat. Her heart was doing something complicated, some arrhythmic performance that was probably just anxiety but felt, in this moment, like something much worse.
 
 "I have your results," Dr. Reyes said. "The ultrasound, the additional blood work, everything we discussed."
 
@@ -2443,7 +2443,7 @@ Elena wiped her face, forced herself to engage her clinical mind. "What's the tr
 
 "Stress reduction." Elena laughed, a wet sound. "I'm a nurse in a community clinic with two kids and an elderly grandmother who lives with me."
 
-"I know. We'll talk about how to make it practical. But the autoimmune component is definitely stress-exacerbated. Your body has been telling you something, and now it's shouting."
+"I know. We'll talk about how to make it practical. But the autoimmune component is definitely stress-exacerbated. Your body has been telling you something for years, and now it's shouting."
 
 
 
@@ -2463,7 +2463,7 @@ Elena nodded, not agreeing but acknowledging. Boundaries were something she prea
 
 "Thank you," she said, standing. "For everything."
 
-"Call me if anything changes. And Elena? This is not a death sentence. This is your body asking for better treatment. That's all."
+"Call me if anything changes. And Elena? This is not a death sentence. This is your body asking for better treatment. That's all it is. That's all it's ever been."
 
 In the hallway, walking back to the waiting room, Elena let herself feel the shape of the news. Not dying. Not cancer. But also not fine, not the same body she had lived in for thirty-seven years. Something permanent had changed. She would be on medication for the rest of her life. She would carry this diagnosis through every day that remained.
 
@@ -2483,7 +2483,7 @@ Daniel let out a breath he had clearly been holding for a month. "Thank God. Tha
 
 "Okay. What kind of medication? What do we need to do?"
 
-His practical response, the immediate pivot from relief to action, was so perfectly Daniel that Elena felt fresh tears threatening. This was why she had married him. Not the romance but the reliability, the way he met every crisis by asking what needed to be done next.
+His practical response, the immediate pivot from relief to action, was so perfectly Daniel that Elena felt fresh tears threatening. This was why she had married him, she remembered now. Not the romance, though there had been that. The reliability. The way he met every crisis by asking what needed to be done next.
 
 "A daily pill. Regular blood tests. And I need to reduce stress. The doctor says I should cut back at work."
 
@@ -2507,7 +2507,7 @@ The drive home was quiet but not silent. Daniel asked questions about the treatm
 
 "Anything else?"
 
-"Depression is common with thyroid conditions. Anxiety. The hormones affect everything."
+"Depression is common with thyroid conditions. Anxiety. The hormones affect everything - mood, weight, energy, sleep. Everything."
 
 Daniel nodded, processing. He turned onto their street, the familiar houses passing on either side.
 
@@ -2517,7 +2517,7 @@ Elena almost laughed. "Yeah. The marriage thing."
 
 At home, she walked through the quiet house - abuela was napping, the kids still at school - and went directly to their bedroom. She sat on the edge of the bed, the same bed she had lain awake in so many nights worrying about this appointment.
 
-And then she cried. Not the tears in Dr. Reyes's office, which had been relief mixed with shock. These were different. These were the accumulated fear of a month finally releasing, the terror she had been holding at bay now that it was no longer necessary. She cried until her body was empty, until there was nothing left but a strange, light calm.
+And then she cried. Not the tears in Dr. Reyes's office, which had been relief mixed with shock. These were different. These were deeper. These were the accumulated fear of a month finally releasing, the terror she had been holding at bay now that it was no longer necessary. She cried until her body was empty, until there was nothing left but a strange, light calm.
 
 Daniel found her there, sat beside her, didn't speak. Just present. Just there.
 
@@ -2531,7 +2531,7 @@ Later, when the crying had stopped and she felt hollowed out but somehow whole, 
 
 "Same thing, really."
 
-Maybe he was right. Maybe asking and telling were just two versions of the same admission that she couldn't do everything alone. That she had never been able to, not really, and the illusion of self-sufficiency had been slowly destroying her.
+Maybe he was right. Maybe asking and telling were just two versions of the same admission: that she couldn't do everything alone. That she had never been able to, not really, and the illusion of self-sufficiency had been slowly, quietly destroying her from the inside out.
 
 That night, with the children asleep and abuela settled in her room, Elena and Daniel sat on the back porch with glasses of wine she probably shouldn't have been drinking. The Phoenix sky was clear, stars visible despite the light pollution.
 
@@ -2575,7 +2575,7 @@ She sat at the kitchen table, the same place she'd fed hundreds of family meals.
 
 "The kids will try it. And if they don't like it, I'll make them quesadillas. I've got this, Elena."
 
-The words landed somewhere between comfort and confrontation. He had this. He was capable of doing the things she'd always done. The fact that she'd never let him proved nothing about his competence and everything about her control.
+The words landed somewhere between comfort and confrontation. He had this. He was capable of doing the things she had always done, the things she had always assumed only she could do. The fact that she had never let him proved nothing about his competence and everything about her need for control.
 
 
 
@@ -2589,7 +2589,7 @@ The first morning, she tried to get up when the alarm went off. Daniel pressed h
 
 He made breakfast. Scrambled eggs and toast, nothing fancy, but the kids ate it and got out the door on time. Elena heard the whole thing from bed, tracking the familiar sounds: cabinet doors, running water, Sofia's high voice, Mateo's sleepy complaints.
 
-The second morning, she didn't try to get up. She lay in bed and let Daniel handle it, guilt churning in her stomach like acid. She was failing. She was letting him down. She was not doing her job.
+The second morning, she didn't try to get up. She lay in bed and let Daniel handle it, guilt churning in her stomach like acid. She was failing. She was letting everyone down. She was not doing her job, the only job that had ever mattered to her.
 
 But the house didn't fall apart. The children got to school. Breakfast happened. The world continued turning without her at its center.
 
@@ -2613,7 +2613,7 @@ He had organized her pills into a weekly container, the kind she'd given to elde
 
 "Let me do this. Please. Let me be useful."
 
-She took the pill, swallowed it with water, and saw in his face a need that mirrored her own. He needed to help. He needed to contribute. Just as she had built her identity around caring for others, he was building his around caring for her.
+She took the pill, swallowed it with water, and saw in his face a need that mirrored her own. He needed to help. He needed to contribute. He needed to matter. Just as she had built her identity around caring for others, he was building his around caring for her.
 
 The week continued. Daniel cooked every meal - not just dinner but breakfast and lunch, packing food for the kids, leaving containers in the fridge for Elena. He did laundry, badly at first and then with increasing competence. He managed Mateo's homework meltdown on Wednesday night with a patience Elena didn't know he possessed.
 
@@ -2641,7 +2641,7 @@ Daniel was quiet for a moment. Outside, a car passed, headlights sweeping across
 
 "What was the other reason?"
 
-"You had everything handled. Everything. The house, the kids, your grandmother, your job. There was nothing for me to do that you weren't already doing better. So I found somewhere else to be useful."
+"You had everything handled. Everything. The house, the kids, your grandmother, your job - you were doing all of it, and doing it better than I could. There was nothing for me to do that you weren't already doing better. So I found somewhere else to be useful."
 
 "You left because I was too competent?"
 
@@ -2673,7 +2673,7 @@ They lay in the dark, the conversation hovering between them. Elena could feel t
 
 "Is that what you want?"
 
-"I want to stop being so tired. I want to actually see my kids grow up instead of just managing their schedules. I want to remember why I married you instead of just coexisting with someone who shares my mortgage."
+"I want to stop being so tired. I want to actually see my kids grow up instead of just managing their schedules and their homework and their doctors' appointments. I want to remember why I married you instead of just coexisting with someone who shares my mortgage."
 
 "That's a lot."
 
@@ -2689,7 +2689,7 @@ Daniel reached across the bed and took her hand. His palm was rough with calluse
 
 
 
-The next morning, Elena woke before Daniel. She lay in bed, feeling the warmth of him beside her, and made herself stay still. Not because she couldn't get up, but because she was choosing not to. The distinction mattered.
+The next morning, Elena woke before Daniel. She lay in bed, feeling the warmth of him beside her, and made herself stay still. Not because she couldn't get up, but because she was choosing not to. The distinction mattered more than she would have believed.
 
 When he woke, she asked him to make her breakfast. Not because she couldn't do it herself, but because she wanted him to.
 
@@ -2713,7 +2713,7 @@ Daniel smiled, the first real smile she'd seen on his face in months. The simple
 
 "Same time tomorrow."
 
-The marriage had bent. It had nearly broken. But here, in the kitchen that smelled of chilies and eggs, with their children eating breakfast and their bodies slowly learning new rhythms, it was holding. Different than before. But holding.
+The marriage had bent. It had nearly broken under the weight of all the things they hadn't said. But here, in the kitchen that smelled of chilies and eggs, with their children eating breakfast and their bodies slowly learning new rhythms, it was holding. Different than before. But holding.
 
 
 
@@ -2729,7 +2729,7 @@ The October sun sat low in the Arizona sky, that particular quality of desert li
 
 "Despacio," her grandmother said. Slowly. "There is no hurry."
 
-Elena adjusted her pace, though it was already slow. The medication made her tired in ways she hadn't expected. Not sleepy exactly, but weighted, as if her blood had thickened. Dr. Reyes had said this was temporary, that her body needed time to adjust. She had nodded, cataloging the information the way she would have for a patient. But being the patient was different. Being the patient meant the information was lodged somewhere in her chest, not her mind.
+Elena adjusted her pace, though it was already slow. The medication made her tired in ways she hadn't expected. Not sleepy exactly, but weighted, as if her blood had thickened. Dr. Reyes had said this was temporary, that her body needed time to adjust. She had nodded, cataloging the information the way she would have for a patient. But being the patient was different. Being the patient meant the information was lodged somewhere in her chest, in her body, not just filed away in her clinical mind.
 
 "You walk like you are being chased," her grandmother observed.
 

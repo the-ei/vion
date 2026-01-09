@@ -44,7 +44,7 @@ What if I say things that make me look worse than the archive does? What if I'm 
 
 Then the documentary will be better for it. The whole point is to understand how ordinary people participate in harm without seeing themselves as harmful. If you can articulate that from your own experience, it's more valuable than anything in the archive.
 
-The risk was enormous. Ananya understood that. She would be exposing herself to criticism from every direction: former colleagues who would see her as a traitor, critics who would see her confession as insufficient, the public who might not understand the nuances and would see only complicity.
+The risk was enormous. Ananya understood that. She would be exposing herself to criticism from every direction: former colleagues who would see her as traitor, critics who would see her confession as insufficient, the public who might not grasp the nuances and would see only complicity.
 
 But there was also something liberating in the prospect. After years of careful positioning, of defensive statements and qualified admissions, the idea of simply saying what she knew to be true had a strange appeal.
 

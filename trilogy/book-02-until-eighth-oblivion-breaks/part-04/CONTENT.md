@@ -1102,7 +1102,7 @@ Her calm was not resignation. It was the calm of someone who had learned, throug
 
 Yusuf went to the hospital that evening. He rode the bicycle through streets that were emptier than usual, past storefronts that were dark, past gas stations with handwritten signs: CASH ONLY. NO CARDS. The March evening was cold, and he wished he had worn more layers, but he had not planned for a world where his quick scooter rides had become long bicycle journeys.
 
-Hennepin County Medical Center was chaos. The parking lot was full, the emergency room line extending out the door, people sitting on the ground with injuries and illnesses that the overwhelmed system couldn't process. Yusuf pushed through to the front desk, where a nurse who looked like she hadn't slept in days was trying to triage a crowd that kept growing.
+Hennepin County Medical Center was chaos, the same hospital where his father had died, where Yusuf had stood in the hallway at twelve years old and learned what systems did to people like them. The parking lot was full, the emergency room line extending out the door, people sitting on the ground with injuries and illnesses that the overwhelmed system couldn't process. Yusuf pushed through to the front desk, where a nurse who looked like she hadn't slept in days was trying to triage a crowd that kept growing.
 
 "My mother needs dialysis medication," he said. "Atenolol. She's down to a five-day supply."
 
@@ -1116,11 +1116,11 @@ Hennepin County Medical Center was chaos. The parking lot was full, the emergenc
 
 "I know." The nurse's voice cracked, just slightly, the first hint of the person beneath the professional mask. "I know. I'm sorry. We're doing everything we can."
 
-But everything was not enough. Yusuf could see that. Everything would never be enough, not for people like his mother, not for families like his.
+But everything was not enough. Yusuf could see that in her eyes, could see the same exhaustion he had seen in the man in the gray suit twelve years ago, the same helplessness dressed in different words. Everything would never be enough, not for people like his mother, not for families like his. The systems failed them in abundance and they failed them in scarcity. There was no version of the system that did not fail them.
 
 
 
-He rode home through the dark streets, the bicycle's old reflectors barely visible, no lights to guide him except the headlights of the occasional passing car. The city was quieter than he had ever known it, the usual hum of traffic and commerce and electronic connection replaced by something older and stranger, a silence that felt almost solid.
+He rode home through the dark streets, the bicycle's old reflectors barely catching the light, no streetlamps to guide him except the headlights of the occasional passing car. The city was quieter than he had ever known it, the usual hum of traffic and commerce and electronic connection replaced by something older and stranger, a silence that felt almost solid, almost like a presence.
 
 When he got home, Amina was asleep on the couch, curled under a blanket, her phone clutched in her hand as if waiting for a call that would never come. Habiba was still in her chair, awake, watching the window.
 
@@ -1132,7 +1132,7 @@ When he got home, Amina was asleep on the couch, curled under a blanket, her pho
 
 "I don't know. Nobody knows."
 
-He sat down in the chair across from her, the chair his father used to sit in, the chair that had remained empty for twelve years because no one could bear to claim it. He sat there now because there was nowhere else to sit, and because he was tired, and because the symbolism of chairs seemed less important than the reality of being together.
+He sat down in the chair across from her, the chair his father used to sit in, the chair that had remained empty for twelve years because no one could bear to claim it. He sat there now because there was nowhere else to sit, and because he was tired, and because the symbolism of chairs seemed less important than the reality of being together, the reality of the three of them in this apartment, waiting for a world that might never help them.
 
 "We'll figure it out," he said. "We always do."
 
@@ -1140,7 +1140,7 @@ He sat down in the chair across from her, the chair his father used to sit in, t
 
 They sat together in the darkness, mother and son, listening to the city's new silence. Tomorrow Yusuf would go out again, would find the informal networks that were forming, would look for any source of the medication his mother needed. Tonight he would rest, and watch, and count the days.
 
-Five days. Maybe six. The countdown had begun.
+Five days. Maybe six. The countdown had begun, another countdown, another cliff, another deadline in a life that had always been lived on the edge of deadlines. But this time Yusuf sat in his father's chair. This time he would not be a child listening through the walls. This time he would do whatever it took.
 
 
 
@@ -1150,13 +1150,13 @@ Five days. Maybe six. The countdown had begun.
 
 ---
 
-The church was called Hope Lutheran, though the sign out front had lost several letters and now read only HOPE UT ERAN. It had become, in the day and a half since the systems failed, a kind of unofficial community center, a place where people gathered to share information and resources in the absence of any other coordination.
+The church was called Hope Lutheran, though the sign out front had lost several letters and now read only HOPE UT ERAN, which seemed appropriate, which seemed honest. It had become, in the day and a half since the systems failed, a kind of unofficial community center, a place where people gathered to share information and resources in the absence of any other coordination.
 
 Yusuf arrived on Wednesday morning, his second day of searching. The church parking lot was full of people, some sitting on the concrete steps, some standing in clusters, all of them talking in the rapid exchange of information that had become the city's new currency. A table near the door held water bottles and granola bars, donations from somewhere, distributed by volunteers who had appeared from nowhere.
 
 He moved through the crowd, listening, gathering fragments. The power grid was holding in Minneapolis, but some areas were out. The hospitals were still overwhelmed. Someone said the National Guard was being mobilized. Someone else said the president had declared a state of emergency, though no one could confirm this because no one had working televisions or internet.
 
-Near the back of the lot, a man stood alone, out of place in a way that was hard to define. He wore a fleece vest over a button-down shirt, the uniform of a certain kind of professional, and he held his phone in his hands as if still hoping it might come back to life. His rental car, a white sedan with a company logo on the door, sat dead at the edge of the parking lot, its dashboard dark.
+Near the back of the lot, a man stood alone, out of place in a way that was hard to define but easy to see. He wore a fleece vest over a button-down shirt, the uniform of a certain kind of professional, and he held his phone in his hands as if still hoping it might come back to life, as if faith alone could restore the connection. His rental car, a white sedan with a company logo on the door, sat dead at the edge of the parking lot, its dashboard dark.
 
 Yusuf recognized something in him: the look of someone whose entire world had depended on systems that no longer existed.
 
@@ -1172,13 +1172,13 @@ The man looked up, startled. "The fleet management system. It's cloud-based. Whe
 
 Yusuf felt something shift in his perception, a connection forming. "Infrastructure management?"
 
-"Predictive systems. We help companies anticipate and prevent failures. Monitor their networks, flag vulnerabilities before they become problems." The man's voice had the quality of a practiced pitch, words he had said hundreds of times. "Ironic, right? My company helps prevent exactly this kind of thing, and here I am, stranded."
+"Predictive systems. We help companies anticipate and prevent failures. Monitor their networks, flag vulnerabilities before they become problems." The man's voice had the quality of a practiced pitch, words he had said hundreds of times to people who had money to spend on such things. "Ironic, right? My company helps prevent exactly this kind of thing, and here I am, stranded."
 
 "What company?"
 
 "You probably haven't heard of it. Vantage Nexus. We're a startup, part of Kevin Zhou's portfolio."
 
-Yusuf had heard of Kevin Zhou. Everyone had heard of Kevin Zhou, the tech billionaire whose face appeared on magazine covers and news clips, whose companies promised to solve the world's problems through data and optimization. Yusuf had seen him discussed in the gig worker forums, had read articles about how his platforms affected drivers and delivery workers, had felt the distant presence of his wealth like a weather system shaping conditions from far away.
+Yusuf had heard of Kevin Zhou. Everyone had heard of Kevin Zhou, the tech billionaire whose face appeared on magazine covers and news clips, whose companies promised to solve the world's problems through data and optimization and efficiency. Yusuf had seen him discussed in the gig worker forums, had read articles about how his platforms affected drivers and delivery workers, had felt the distant presence of his wealth like a weather system shaping conditions from far away, indifferent to the people caught in its patterns.
 
 "I've heard of him," Yusuf said.
 
@@ -1186,7 +1186,7 @@ Yusuf had heard of Kevin Zhou. Everyone had heard of Kevin Zhou, the tech billio
 
 "I'm Nathaniel," the man said, extending his hand. "Nathaniel Burke. I was here for a client meeting. Was supposed to be one day, in and out, back to the office by tonight."
 
-Yusuf shook the hand, feeling the softness of it, the hands of someone who had never lifted boxes or pushed scooters or done the physical work that wore bodies down. "Yusuf Hassan. I was mid-delivery when everything died."
+Yusuf shook the hand, feeling the softness of it, the hands of someone who had never lifted boxes or pushed scooters or done the physical work that wore bodies down, the hands that had never known calluses or the particular cracks that came from cold and labor. "Yusuf Hassan. I was mid-delivery when everything died."
 
 "Delivery?"
 
@@ -1200,9 +1200,11 @@ Nathaniel nodded, and Yusuf saw him process this information, saw him categorize
 
 "I don't know exactly. The information was on my phone. But I remember it's north of the city. Some kind of facility. A few of us joked about it, called it the bunker. I never thought I'd actually need it."
 
-Yusuf thought about his mother, about the five days of medication, about the hospital that couldn't help and the pharmacies that were closed. He thought about a facility with backup power and supplies, a place prepared for exactly this kind of failure.
+Yusuf thought about his mother, about the four days of medication now remaining, about the hospital that couldn't help and the pharmacies that were closed. He thought about a facility with backup power and supplies, a place prepared for exactly this kind of failure, a place that might have medicine for people who could get inside.
 
 "I can help you get there," he said. "If you can help me find something I need."
+
+The tech worker looked at the gig worker. The gig worker looked at the tech worker. Between them, invisible but present, lay all the systems that had made their lives what they were, that had connected them and separated them and brought them to this church parking lot where the sign read HOPE UT ERAN and the only way forward was together.
 
 
 
@@ -1214,7 +1216,7 @@ Yusuf thought about his mother, about the five days of medication, about the hos
 
 # Chapter 30: The Stories We Tell
 
-The timer on the wall showed 44:37 and counting down. Forty-four minutes and thirty-seven seconds until the satellite window closed, until their link to whatever audience remained went dark again, until they were just another building full of people with generators and nothing to say to the world.
+The timer on the wall showed 44:37 and counting down. Forty-four minutes. Thirty-seven seconds. The numbers dropping like water from a faucet, each one a smaller portion of their link to whatever audience remained, each one bringing them closer to the moment when they would be just another building full of people with generators and nothing to say to the world.
 
 Delphine Okafor-Barnes stood at the back of the control room, watching her team work. They had been at it for four days now, sleeping in shifts on the couches in the break room, eating whatever was left in the vending machines, running on coffee and the particular adrenaline that came from being needed when everything else had stopped. The generators hummed in the basement, burning through fuel that would run out eventually, powering screens that showed the fragments of a world they could still reach.
 
@@ -1226,7 +1228,7 @@ Delphine Okafor-Barnes stood at the back of the control room, watching her team 
 
 Delphine absorbed this. New York, the media capital, silent. What did that mean? The city overwhelmed? The uplinks destroyed? Or just technical failure, equipment failure, the kind of thing that would be fixed in an hour once the systems came back online?
 
-She didn't know. No one knew anything.
+She didn't know. No one knew anything, and the not-knowing was spreading faster than any information ever had.
 
 
 
@@ -1238,7 +1240,7 @@ Lawrence Kim appeared at her elbow, holding a tablet that still worked because i
 
 "The fires are what people can see. You can't broadcast a cascade failure. You can't show viewers a interconnected system collapsing. But fire? Fire is primordial. Fire is content."
 
-He wasn't wrong. Delphine had spent fifteen years in media, had built campaigns and brands and narrative strategies for companies whose names everyone knew. She understood the mechanics of attention, the way certain images stuck while others slid past. Fire was sticky. Complexity was not.
+He wasn't wrong. Delphine had spent fifteen years in media, had built campaigns and brands and narrative strategies for companies whose names everyone knew, whose products shaped how people thought and felt and bought. She understood the mechanics of attention, the way certain images stuck while others slid past, the emotional calculus that made some content viral and other content invisible. Fire was sticky. Complexity was not.
 
 But fire wasn't true. Or rather, fire was true in a way that obscured the larger truth, the way a photograph of a single burning building could make you miss the city around it.
 
@@ -1248,7 +1250,7 @@ But fire wasn't true. Or rather, fire was true in a way that obscured the larger
 
 "That's what we don't know. What do we actually know?"
 
-Lawrence looked at her with an expression she couldn't quite read.
+Lawrence looked at her with an expression she couldn't quite read, the expression of a man who had just been challenged by his protege and wasn't sure whether to be proud or annoyed.
 
 
 
@@ -1260,7 +1262,7 @@ Lawrence looked at her with an expression she couldn't quite read.
 
 Delphine looked at the timer: 37:42. She thought about her wife Jessie, at home with Theo, waiting for word. She thought about the audience out there, whoever they were, wherever they were, sitting in the dark with whatever devices still worked, hungry for someone to tell them what was happening.
 
-She thought about the stories she had told in her career. The campaigns that had moved markets and elections and cultural conversations. The viral moments she had engineered, the narratives she had shaped, the attention she had captured and redirected toward things that often didn't deserve it. She had been good at her job. She had been very good. And now she stood in a half-lit control room with thirty-seven minutes of satellite time and no idea what truth sounded like anymore.
+She thought about the stories she had told in her career. The campaigns that had moved markets and elections and cultural conversations. The viral moments she had engineered, the narratives she had shaped, the attention she had captured and redirected toward things that often didn't deserve it. She had been good at her job. She had been very good. She had won awards and given speeches about the power of storytelling and never quite asked herself whether power and goodness were the same thing. And now she stood in a half-lit control room with thirty-seven minutes of satellite time and no idea what truth sounded like anymore.
 
 "Get me the verified reports only," she said to Kenji. "Nothing speculative. Nothing we can't source to an eyewitness or an official statement. I want to know exactly what we know and nothing more."
 
@@ -1270,7 +1272,7 @@ She thought about the stories she had told in her career. The campaigns that had
 
 
 
-The verified reports came back thin. Power grid holding in most urban areas. Water still flowing. Hospitals overwhelmed but operational. National Guard deployed in twelve states. President's location unknown. No confirmed information about cause. No timeline for recovery. That was it. That was everything they could say without speculation, without story, without the narrative infrastructure that usually made information into meaning.
+The verified reports came back thin, almost anorexic. Power grid holding in most urban areas. Water still flowing. Hospitals overwhelmed but operational. National Guard deployed in twelve states. President's location unknown. No confirmed information about cause. No timeline for recovery. That was it. That was everything they could say without speculation, without story, without the narrative infrastructure that usually transformed raw information into meaning.
 
 Lawrence looked at the list and shook his head. "This isn't content. This is a weather report."
 
@@ -1280,7 +1282,7 @@ Lawrence looked at the list and shook his head. "This isn't content. This is a w
 
 He was right. She knew he was right. The human mind didn't absorb facts; it absorbed narratives. You had to give people characters, conflict, resolution. You had to give them something to feel, not just something to know. That was what she had always done. That was her craft.
 
-The timer showed 28:15. Twenty-eight minutes to decide what story to tell.
+The timer showed 28:15. Twenty-eight minutes to decide what story to tell, and sixteen years of career instinct telling her one thing while something deeper, something almost forgotten, told her another.
 
 She thought about Theo, four years old, asking about his iPad. She thought about Jessie, a TV writer who understood story better than anyone, who would have known exactly what to say if she were here. She thought about the audience out there, whoever they were, and what they actually needed to hear.
 
@@ -1298,7 +1300,7 @@ She thought about Theo, four years old, asking about his iPad. She thought about
 
 ---
 
-The whiteboard in the conference room was covered with narrative fragments, handwritten in different colors, organized into rough categories that Delphine had created that morning while trying to make sense of what the world was telling itself.
+The whiteboard in the conference room was covered with narrative fragments, handwritten in different colors, organized into rough categories that Delphine had created that morning while trying to make sense of what the world was telling itself. It looked like a map of a fever dream, a taxonomy of fear.
 
 CONSPIRACY (blue marker):
 - "The government knew. They planned this."
@@ -1330,7 +1332,7 @@ And in the corner, in a small neat script, the category she had labeled ACCURATE
 - "Recovery time unknown"
 - "This has happened before, on smaller scales"
 
-The accurate information was the quietest. It didn't shout. It didn't promise explanation or blame. It just sat there, waiting to be noticed, while the other narratives spread faster than anyone could track.
+The accurate information was the quietest. It didn't shout. It didn't promise explanation or blame or catharsis. It just sat there, waiting to be noticed, plain and unsatisfying, while the other narratives spread faster than anyone could track, faster than truth had ever managed to move.
 
 
 
@@ -1340,7 +1342,7 @@ The narratives on the board were not new. She recognized them from every crisis 
 
 The conspiracy theories were the fastest, as they always were. Within hours of the failure, someone had claimed to know the real reason. Government plot. Deep state. Emergency powers grabbed under cover of chaos. Delphine had seen versions of this story attached to every event of the past two decades: pandemics, elections, economic crises, natural disasters. The pattern was always the same. Bad things happen because bad people made them happen. Find the bad people and you understand the bad things.
 
-It was comforting, in a way. More comforting than the truth, which was that complex systems failed for complex reasons, that no one was fully in control, that the world was held together by infrastructure no one understood and everyone depended on. People didn't want to hear that. People wanted villains.
+It was comforting, in a way. More comforting than the truth, which was that complex systems failed for complex reasons, that no one was fully in control, that the world was held together by infrastructure no one understood and everyone depended on and almost no one had ever thought about until it stopped working. People didn't want to hear that. People wanted villains. They wanted a face to hate, a cause to fight, an ending that made sense.
 
 
 
@@ -1348,7 +1350,7 @@ The foreign attack narrative was almost as popular, and almost as wrong. China h
 
 But the evidence didn't support it. The failure was too widespread, too simultaneous, too undirected to be an attack. Attacks had targets. This had none. It was everywhere at once, affecting systems that had nothing to do with each other, as if the entire technological layer of civilization had simply decided to stop working at the same moment. That wasn't how attacks worked. That was how complex systems failed.
 
-Delphine had helped build this information ecosystem. Not directly, not intentionally, but through the campaigns she had run, the attention she had captured, the narratives she had shaped. She had spent fifteen years learning how to make stories spread, how to trigger emotional responses, how to create content that moved from screen to screen like a virus. She had been good at it. She had won awards. And now she stood in front of a whiteboard covered with the results of her craft: a world that had forgotten how to distinguish signal from noise.
+Delphine had helped build this information ecosystem. Not directly, not intentionally, but through the campaigns she had run, the attention she had captured, the narratives she had shaped. She had spent fifteen years learning how to make stories spread, how to trigger emotional responses, how to create content that moved from screen to screen like a contagion. She had been good at it. She had won awards for it. She had been invited to conferences to teach others how to do it. And now she stood in front of a whiteboard covered with the results of her craft: a world that had forgotten how to distinguish signal from noise, truth from story, fact from feeling.
 
 
 

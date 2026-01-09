@@ -2,13 +2,13 @@ The clinic was empty when Elena arrived, the parking lot holding only her Coroll
 
 Three weeks since the funeral. Three weeks since she had held her grandmother's hand through the final hours, watching the monitors slow and the breath become something visible, countable, each one a decision the body was making until the decisions stopped. She had expected to feel hollowed out. Instead she felt clarified, as if grief had burned away some protective coating she hadn't known she was wearing.
 
-The clinic key was cold in her hand. The back entrance, employee door, the one they all used to avoid the lobby where patients lined up before opening, sometimes hours before, the ones who had no other options and knew that being first might mean being seen before the clinic filled past capacity. She had walked through this door for eleven years. Today it felt different.
+The clinic key was cold in her hand. The back entrance, employee door, the one they all used to avoid the lobby where patients lined up before opening, sometimes hours before, the ones who had no other options and knew that being first might mean being seen before the clinic filled past capacity. She had walked through this door for eleven years. Today everything felt different.
 
 Inside, the hallway was dim, motion sensors not yet triggered, and she moved through the half-light like someone visiting a church before the congregation arrives. The supply closet first, its door ajar, the shelves that were never quite full enough. Gauze, syringes, the generic medications that the pharmaceutical reps didn't bother to market because there was no profit in them. She knew exactly what was missing, what was always missing, what requests had been denied and would be denied again.
 
 
 
-She walked through the exam rooms one by one, flicking on lights that buzzed for a moment before catching. Room three, where the blood pressure cuff had been broken for two months, the requisition for a replacement stuck somewhere in the procurement system. Room five, the one with the window that faced east, which they tried to save for patients who seemed like they needed something beyond the medical. The paper on the examination tables was fresh, someone having restocked last night, white sheets waiting to be crinkled by the weight of bodies that would come.
+She walked through the exam rooms one by one, flicking on lights that buzzed for a moment before catching. Room three, where the blood pressure cuff had been broken for two months, the requisition for a replacement trapped somewhere in the procurement system. Room five, the one with the window that faced east, which they tried to save for patients who seemed like they needed something beyond the medical. The paper on the examination tables was fresh, someone having restocked last night, white sheets waiting to be crinkled by the weight of bodies that would come.
 
 Elena touched the paper in room two. Ran her fingers along the edge where it met the vinyl of the table. She had touched thousands of these tables, guided thousands of patients onto them, helped them lie back or sit up or turn to the side. The familiarity should have numbed her to what the tables represented. Instead, standing here alone, she saw each one as a kind of altar. Not religious exactly. But sacred. The place where people came when something in their bodies had broken or was breaking, when the machine they lived inside had failed them in some way they couldn't fix alone.
 
@@ -18,7 +18,7 @@ But something had happened in that room that she was still trying to understand.
 
 
 
-The waiting room was the space that haunted her most. Forty-two plastic chairs bolted to the floor in rows, a configuration designed for efficiency rather than comfort. The television mounted in the corner that played news no one watched, its sound too low to hear over the ambient noise of waiting. The rack of pamphlets about diseases and prevention, curling at the edges, their information outdated by the time they were printed. She had once counted the hours that patients spent in these chairs, a rough calculation during a particularly brutal week, and the number had been so high she'd never told anyone.
+The waiting room was the space that haunted her most. Forty-two plastic chairs bolted to the floor in rows, a configuration designed for efficiency rather than comfort. The television mounted in the corner that played news no one watched, its sound too low to hear over the ambient noise of waiting. The rack of pamphlets about diseases and prevention, curling at the edges, their information outdated by the time they reached the rack. She had once counted the hours that patients spent in these chairs, a rough calculation during a particularly brutal week, and the number had been so high she'd never told anyone.
 
 Elena sat down in one of the chairs now, in the empty room, in the quiet before opening. The plastic was cool against her back. She looked at the reception window, the plexiglass partition that had been installed during the pandemic and never removed, the slot through which insurance cards passed like offerings. From this angle she could see what patients saw. The clock on the wall that moved slower than any clock should move. The water fountain that worked intermittently. The door to the back, the promised land, the place where help might or might not be waiting.
 
@@ -28,7 +28,7 @@ She thought about her abuela sitting in waiting rooms, decades ago, before Elena
 
 But the rage had cost her. Over the years she had learned to compartmentalize it, to set it aside during patient encounters so that she could function, so that the anger at what created the wounds wouldn't interfere with her ability to tend them. The care and the rage had become separate forces, twin engines running on parallel tracks. She had thought this was necessary. She had thought this was what the job required.
 
-Sitting in the empty waiting room, she understood now that the separation had been its own kind of wound. Her grandmother's death had fused them back together. Not the way they'd been when she was young and furious, but something different. An integration that let her see the system while tending its victims, feel the rage while offering the care. She didn't know yet what this would change. But she knew something had changed.
+Sitting in the empty waiting room, she understood now that the separation had been its own kind of wound. Her grandmother's death had fused them back together. Not the way they'd been when she was young and furious, but something different. An integration that let her see the system while tending its casualties, feel the rage while offering the care. She didn't know yet what this would change. But she knew something had changed.
 
 The light through the front windows was strengthening, Phoenix morning turning from purple to gold to the white blaze that would dominate by noon. Elena could hear the custodian moving somewhere in the back, the rattle of trash bags, the rhythm of someone else's work. In forty minutes the doors would open. The chairs would fill. The day would begin its relentless forward motion, patient after patient, crisis after crisis, the never-ending stream of need that a clinic like this tried to meet with never-enough resources.
 
@@ -58,11 +58,11 @@ Elena watched them file in as she prepared the first exam room, faces she recogn
 
 The first patient on her rotation was Graciela Montoya, fifty-four years old, diabetic, back because her blood sugar had been spiking again. Elena had seen her three times in the past year, each visit prompted by symptoms that could have been prevented with proper management, proper medication, proper access to the kind of care that people with good insurance took for granted. She called Graciela's name and watched the woman rise slowly from her chair, the heaviness of her body visible in every movement.
 
-In the exam room, Elena went through the vitals. Blood pressure elevated. Weight up since the last visit, though Graciela swore she was trying. Blood sugar, when they tested it, was at 287, nearly double what it should be. Elena made notes in the chart while Graciela explained what had happened since her last visit, the story unfolding in fragments, shame mixed with frustration mixed with exhaustion.
+In the exam room, Elena ran through the vitals. Blood pressure elevated. Weight up since the last visit, though Graciela swore she was trying. Blood sugar, when they tested it, was at 287, nearly double what it should be. Elena made notes in the chart while Graciela explained what had happened since her last visit, the story unfolding in fragments, shame mixed with frustration mixed with exhaustion.
 
 
 
-Her employer had cut her hours. This was the central fact around which everything else rotated. Graciela cleaned offices for a janitorial company, had done so for eight years, and when the company discovered that anyone working thirty or more hours qualified for their health insurance plan, they restructured the schedules. Now Graciela worked twenty-eight hours a week across three different sites, earning less money and qualifying for nothing. She had applied for Medicaid and been denied. Something about the formula, the way her income and her household size and the state's eligibility rules combined into a verdict that she fell through the cracks.
+Her employer had cut her hours. This was the central fact around which everything else rotated. Graciela cleaned offices for a janitorial company, had done so for eight years, and when the company discovered that anyone working thirty or more hours qualified for their health insurance plan, they restructured the schedules. Now Graciela worked twenty-eight hours a week across three different sites, earning less money and qualifying for nothing. She had applied for Medicaid and been denied. Something about the formula, the way her income and household size and the state's eligibility rules combined into a verdict that she fell through the cracks.
 
 So she stretched her medication. The metformin that was supposed to be taken twice daily, she took once. When the bottle ran out, she waited until she could afford another. She ate what she could afford, which was not what the nutritional guidelines recommended. She knew what she was supposed to do. She simply could not do it.
 
@@ -72,7 +72,7 @@ What was different today was that Elena felt both the rage and the care simultan
 
 
 
-She called in one of the clinic's social workers to sit with Graciela, to find some program or workaround that might help. There were pharmaceutical company assistance programs, charity care options, byzantine pathways through the system that sometimes led somewhere. The social worker would try. Whether it would work was another question.
+She called in one of the clinic's social workers to sit with Graciela, to find some program or workaround that might help. There were pharmaceutical company assistance programs, charity care options, byzantine pathways through the bureaucracy that sometimes led somewhere. The social worker would try. Whether it would work was another question.
 
 The next patient was a child, seven years old, brought in by his grandmother because his mother was working and couldn't take the time off. His name was Jaylen and his asthma had been getting worse all spring. He sat on the examination table looking scared, his small chest rising and falling too fast, the wheeze audible before Elena even touched her stethoscope to his skin.
 
@@ -82,7 +82,7 @@ Elena listened to his lungs, the crackling sound that shouldn't be there, the ai
 
 
 
-She had a colleague, years ago, who had burned out on exactly this feeling. He was a good nurse, maybe the best she had worked with, and he had cared so deeply about the environmental factors driving disease that he couldn't do the job anymore. He went to work for an advocacy organization instead, left the bedside to fight the upstream causes. Elena had understood why. Some days she envied him. But she had stayed at the bedside, kept treating the symptoms, kept showing up even though the wounds she dressed would be reopened by the world outside the clinic walls.
+She had a colleague, years earlier, who had burned out on exactly this feeling. He was a good nurse, maybe the best she had worked with, and he had cared so deeply about the environmental factors driving disease that he couldn't do the job anymore. He went to work for an advocacy organization instead, left the bedside to fight the upstream causes. Elena had understood why. Some days she envied him. But she had stayed at the bedside, kept treating the symptoms, kept showing up even though the wounds she dressed would be reopened by the world outside the clinic walls.
 
 What she understood now, watching Jaylen breathe, was that both approaches were necessary and neither was sufficient. The advocates needed the nurses to tend to the damage while they worked on the causes. The nurses needed the advocates to fight for changes that would mean fewer wounds to tend. They were not opponents but partners in an endless relay, passing the work back and forth, the exhausting marathon of trying to make things less bad.
 
@@ -102,7 +102,7 @@ Elena made notes. Adjusted one prescription to try to reduce costs. Looked up ye
 
 
 
-By noon she had seen twelve patients. Twelve stories of systems failing, of bodies breaking under pressures that were not natural, of care patched together from inadequate resources. She had done what she could for each one, which was something, which was not nothing, which was also not enough.
+By noon she had seen twelve patients. Twelve stories of systems failing, of bodies breaking under pressures that were not natural, of care patched together from inadequate resources. She had done what she could for each one, which was something, which was not nothing, which remained not enough.
 
 The clinic hummed around her. Phones ringing. Colleagues moving through hallways. The waiting room still full despite the morning's work, more people arriving as others left. The doctor on duty was behind schedule, which meant everyone was behind schedule, the cascade of delay that happened almost every day. Elena caught a glimpse of herself in the bathroom mirror as she washed her hands between patients and saw someone she almost didn't recognize. Not that she looked different, exactly. But something in her eyes had changed.
 
@@ -114,7 +114,7 @@ Her pager buzzed. Another patient waiting. She dried her hands, checked her face
 
 
 
-The afternoon patients blurred together, more variations on the morning's themes. A teenager with a wound that had gotten infected because he waited too long to come in, embarrassed about how he'd gotten it. A pregnant woman who should have been seeing an obstetrician but couldn't get an appointment until her third trimester. An elderly woman whose dementia was progressing while her daughter, the caregiver, showed all the signs of burning out herself.
+The afternoon patients blurred together, more variations on the morning's themes of need. A teenager with a wound that had gotten infected because he waited too long to come in, embarrassed about how he'd gotten it. A pregnant woman who should have been seeing an obstetrician but couldn't get an appointment until her third trimester. An elderly woman whose dementia was progressing while her daughter, the caregiver, showed all the signs of burning out herself.
 
 Elena moved through these encounters with a focus that felt new. She saw each patient as an individual while also seeing the pattern they formed, the mosaic of systemic failure that assembled itself from particular cases. This was what she had always known intellectually but had protected herself from feeling. Now she felt it and kept working.
 
@@ -158,7 +158,7 @@ Destiny made a sound that might have been agreement or skepticism. "You've been 
 
 "I'm tired too. But the tired and the angry are... I don't know. They're integrated somehow. They're not fighting each other anymore."
 
-Patricia was looking at her with something like hope. The young ones always wanted to hear that it got easier, that there was some trick to surviving this work long-term. Elena had never been able to give them that reassurance because she hadn't found it herself. She had survived by splitting herself in two, the part that raged and the part that cared, and eventually she had stopped feeling either one very strongly.
+Patricia was looking at her with something like hope. The young ones always wanted to hear that it got easier, that there was some trick to surviving this work long-term. Elena had never been able to give them that reassurance because she hadn't found it herself. She had survived by cleaving herself in two, the part that raged and the part that cared, and eventually she had stopped feeling either one very strongly.
 
 Until now. Until her grandmother's hand had gone cold in hers and something had melted back together.
 
@@ -236,7 +236,7 @@ She thought about how to answer. They had been married for eighteen years, since
 
 "I know. But still."
 
-They were quiet for a moment, the kind of silence that long marriages learn to hold. She heard his breathing, the distant clatter of his jobsite, and felt the ache of missing him that she had grown accustomed to over the years of his working away from home. This was the economy of their life: his labor traded for their stability, his absence the cost of their children's college funds.
+They were quiet for a moment, the kind of silence that long marriages learn to hold. She heard his breathing, the distant clatter of his jobsite, and felt the ache of missing him that she had grown accustomed to over the years of his working away from home. This was the economy of their life: his labor traded for their stability, his absence the price of their children's college funds.
 
 "How are the kids?" he asked. "Mrs. Delgado said everything was fine when I checked in this morning."
 

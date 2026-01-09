@@ -1,4 +1,4 @@
-The whiteboard in the conference room was covered with narrative fragments, handwritten in different colors, organized into rough categories that Delphine had created that morning while trying to make sense of what the world was telling itself.
+The whiteboard in the conference room was covered with narrative fragments, handwritten in different colors, organized into rough categories that Delphine had created that morning while trying to make sense of what the world was telling itself. It looked like a map of a fever dream, a taxonomy of fear.
 
 CONSPIRACY (blue marker):
 - "The government knew. They planned this."
@@ -30,7 +30,7 @@ And in the corner, in a small neat script, the category she had labeled ACCURATE
 - "Recovery time unknown"
 - "This has happened before, on smaller scales"
 
-The accurate information was the quietest. It didn't shout. It didn't promise explanation or blame. It just sat there, waiting to be noticed, while the other narratives spread faster than anyone could track.
+The accurate information was the quietest. It didn't shout. It didn't promise explanation or blame or catharsis. It just sat there, waiting to be noticed, plain and unsatisfying, while the other narratives spread faster than anyone could track, faster than truth had ever managed to move.
 
 
 
@@ -40,7 +40,7 @@ The narratives on the board were not new. She recognized them from every crisis 
 
 The conspiracy theories were the fastest, as they always were. Within hours of the failure, someone had claimed to know the real reason. Government plot. Deep state. Emergency powers grabbed under cover of chaos. Delphine had seen versions of this story attached to every event of the past two decades: pandemics, elections, economic crises, natural disasters. The pattern was always the same. Bad things happen because bad people made them happen. Find the bad people and you understand the bad things.
 
-It was comforting, in a way. More comforting than the truth, which was that complex systems failed for complex reasons, that no one was fully in control, that the world was held together by infrastructure no one understood and everyone depended on. People didn't want to hear that. People wanted villains.
+It was comforting, in a way. More comforting than the truth, which was that complex systems failed for complex reasons, that no one was fully in control, that the world was held together by infrastructure no one understood and everyone depended on and almost no one had ever thought about until it stopped working. People didn't want to hear that. People wanted villains. They wanted a face to hate, a cause to fight, an ending that made sense.
 
 
 
@@ -48,7 +48,7 @@ The foreign attack narrative was almost as popular, and almost as wrong. China h
 
 But the evidence didn't support it. The failure was too widespread, too simultaneous, too undirected to be an attack. Attacks had targets. This had none. It was everywhere at once, affecting systems that had nothing to do with each other, as if the entire technological layer of civilization had simply decided to stop working at the same moment. That wasn't how attacks worked. That was how complex systems failed.
 
-Delphine had helped build this information ecosystem. Not directly, not intentionally, but through the campaigns she had run, the attention she had captured, the narratives she had shaped. She had spent fifteen years learning how to make stories spread, how to trigger emotional responses, how to create content that moved from screen to screen like a virus. She had been good at it. She had won awards. And now she stood in front of a whiteboard covered with the results of her craft: a world that had forgotten how to distinguish signal from noise.
+Delphine had helped build this information ecosystem. Not directly, not intentionally, but through the campaigns she had run, the attention she had captured, the narratives she had shaped. She had spent fifteen years learning how to make stories spread, how to trigger emotional responses, how to create content that moved from screen to screen like a contagion. She had been good at it. She had won awards for it. She had been invited to conferences to teach others how to do it. And now she stood in front of a whiteboard covered with the results of her craft: a world that had forgotten how to distinguish signal from noise, truth from story, fact from feeling.
 
 
 

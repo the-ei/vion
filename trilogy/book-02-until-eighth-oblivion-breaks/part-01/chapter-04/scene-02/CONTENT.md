@@ -76,7 +76,7 @@ She thought of Kevin Zhou at the safety conference two weeks ago, his sharp ques
 
 The framework was real. The constraints it created were real. The reduction in harmful outputs was measurable, verifiable, significant.
 
-But what about the parts she couldn't measure? The systems being developed in corners of the company her framework didn't reach? The applications she approved in principle without seeing in practice? The gap between the ethics she designed on slides and the ethics that actually governed what the company built?
+But what about the parts she couldn't measure? The systems being developed in corners of the company her framework didn't reach? The applications she approved in principle without seeing in practice? The gap between the ethics she designed on slides and the ethics that actually governed what the company built? The distance between the map and the territory that the map, by existing, allowed everyone to ignore?
 
 Her phone buzzed. A calendar reminder: call with Vikram at 12:30.
 

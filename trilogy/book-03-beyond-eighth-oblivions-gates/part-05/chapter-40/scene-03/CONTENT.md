@@ -1,4 +1,4 @@
-The first notes rang out into the room, and something shifted. The anxiety that had been building for hours didn't disappear, but it transformed - became energy, became focus, became the particular fuel that performance required. Yusuf's fingers found the chords they had found a thousand times in practice, but now the chords were amplified, now they filled a space, now they were received by ears that weren't his own.
+The first notes rang out, and something shifted. The anxiety that had been building for hours didn't disappear, but it transformed - became energy, became focus, became the particular fuel that performance required. Yusuf's fingers found the chords they had found a thousand times in practice, but now the chords were amplified, now they filled a space, now they were received by ears that weren't his own.
 
 "Survival" was the song about the algorithm years, about the particular degradation of having your worth calculated in real-time by systems you couldn't see. The lyrics spoke of night driving and rating anxiety, of the gap between the self you knew yourself to be and the self the platform reduced you to. But the music lifted the words, made them something other than complaint - made them testimony, witness, the transformation of suffering into art.
 
@@ -10,7 +10,7 @@ The song ended. Applause.
 
 
 
-The second song was faster, angrier, the frustration of years condensed into three minutes of sound. Yusuf felt it move through him - the rage at what the platforms had done to him, the recognition that the platforms were just the latest face of something older, the exploitation that had killed his father and would continue killing unless something changed.
+The second song was faster, angrier, the frustration of years compressed into three minutes of sound. Yusuf felt it move through him - the rage at what the platforms had done to him, the recognition that the platforms were just the latest face of something older, the exploitation that had killed his father and would continue killing unless something changed.
 
 But even in the anger, there was joy. The joy of making music, of being heard, of standing in front of people who had chosen to be here. Performance was a gift in both directions: the audience gave attention, the performer gave expression, and something was created in the exchange that neither could achieve alone.
 
@@ -22,7 +22,7 @@ The songs moved through him now, one after another, the setlist he had arranged 
 
 
 
-At some point - he couldn't say when - the self-consciousness fell away. There was no more Yusuf-watching-himself-perform, no more anxiety about how it was being received. There was only the music, the sound, the flow of expression through his body into the room.
+At some point - he could not say when - the self-consciousness fell away. There was no more Yusuf-watching-himself-perform, no more anxiety about how it was being received. There was only the music, the sound, the flow of expression through his body into the room.
 
 This was what he had lived for. This was why all the years of driving and delivering and scraping by had been endurable. The music had been the thread connecting him to himself, the practice that kept him sane when everything else was designed to make him a unit of productivity.
 
@@ -36,7 +36,7 @@ The song ended. The applause swelled. Yusuf leaned into the microphone.
 
 
 
-He had written the song years ago, in a moment of clarity about what his mother had sacrificed. It wasn't a sentimental song - he didn't do sentimental - but it was honest about the weight she had carried, the meals she had skipped so her children could eat, the nights she had worked so they could stay in school. The song was called "What I Owe," and he had never played it live before, had saved it for a moment that mattered.
+He had written the song years ago, in a moment of clarity about what she had sacrificed. It wasn't a sentimental song - he didn't do sentimental - but it was honest about the weight she had carried, the meals she had skipped so her children could eat, the nights she had worked so they could stay in school. The song was called "What I Owe," and he had never played it live before, had saved it for a moment that mattered.
 
 This was that moment.
 
@@ -54,7 +54,7 @@ Then the room erupted, the crowd rising to their feet, the sound of their apprec
 
 The rest of the set passed in a kind of flow state, each song arriving when it needed to, the band locked in together, the audience responsive and present. By the time they reached the final song, the room had become a single organism, breathing together, moving together, transformed by the shared experience of live music.
 
-The finale was "Tomorrow Anyway," the most hopeful song Yusuf had written, the one that acknowledged everything that was broken while insisting that tomorrow was still coming, that the sunrise didn't care about your problems, that survival meant showing up again even when showing up seemed impossible.
+The finale was "Tomorrow Anyway," the most hopeful song Yusuf had written, the one that acknowledged everything broken while insisting tomorrow was still coming, that the sunrise didn't care about your problems, that survival meant showing up again even when showing up seemed impossible.
 
 The song built from quiet to loud, from solitary guitar to the full band, from spoken word to singing. The audience joined in on the chorus, which had become an anthem in the Minneapolis music scene, the words simple enough to learn on first hearing: *Tomorrow anyway, tomorrow anyway, we get up and we do it tomorrow anyway.*
 
@@ -68,7 +68,7 @@ He bowed. The lights came down. The performance was over.
 
 
 
-Backstage, the band embraced in the particular way of musicians after a good show, the relief and joy and exhaustion mingled together. Someone handed Yusuf water, and he drank it in gulps, his throat raw from singing, his body beginning to register the effort the performance had required.
+Backstage, the band embraced in the particular way of musicians after a good show, relief and joy and exhaustion mingled together. Someone handed Yusuf water, and he drank it in gulps, his throat raw from singing, his body beginning to register the effort the performance had required.
 
 "That was the best we've ever played," Mina said. "Something locked in during 'Night Shift' and never let go."
 

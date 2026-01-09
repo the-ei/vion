@@ -1,4 +1,4 @@
-The drive from San Francisco to Los Angeles had taken six hours, the highway unreeling through the Central Valley and then climbing over the Grapevine, the landscape shifting from brown to green to brown again as the miles accumulated.
+The drive from San Francisco to Los Angeles had taken six hours, the highway unreeling through the Central Valley and then climbing over the Grapevine, landscape shifting from brown to green to brown again as the miles accumulated.
 
 Ananya had used the time to think. Or to not think, which was also a kind of thinking, the mind working beneath the surface while the body performed the mechanical tasks of driving. The road had always done this for her, had always loosened the grip of consciousness just enough to let something else emerge.
 
@@ -14,7 +14,7 @@ This was the threshold. Not the door of the house, but this moment, this choice 
 
 She got out of the car.
 
-The air was different here than in San Francisco. Warmer, drier, with a clarity that came from the desert winds that had been blowing for days. The sky was a blue she rarely saw in the fog belt, and the light was relentless, illuminating everything without shadow or softness.
+The air was different here than in San Francisco. Warmer, drier, with a clarity that came from the desert winds that had been blowing for days. The sky was a blue she rarely saw in the fog belt, the light relentless, illuminating everything without shadow or softness.
 
 As she walked up the path to the front door, she noticed the details. A bicycle leaning against the porch railing. A basketball hoop attached to the garage, the net weathered from use. Signs of a life being lived, of a family occupying this space in all the ordinary ways that families occupy space.
 
@@ -38,7 +38,7 @@ I said I would.
 
 I know. But saying and doing are different things.
 
-She stepped back to let Ananya in, and Ananya crossed the threshold into a house that smelled of coffee and something baking, the domestic scent of a home that functioned, that was not just shelter but sanctuary.
+She stepped back to let Ananya in, and Ananya crossed the threshold into a house that smelled of coffee and something baking, the domestic atmosphere of a home that functioned, that was not merely shelter but sanctuary.
 
 The front room was cluttered in a comfortable way: books on shelves, plants in corners, photographs on the walls that showed years of a life lived together. Through a doorway, Ananya caught a glimpse of a kitchen, heard the sound of someone moving around.
 
@@ -54,7 +54,7 @@ Jessie appeared in the doorway, wiping her hands on a towel. She was younger tha
 
 You must be Ananya. I've heard so much about you.
 
-The greeting was genuine, without the edge of suspicion that Ananya might have expected. Whatever Delphine had told her wife about their alliance, it had not created hostility.
+The greeting was genuine, without the edge of suspicion that Ananya might have expected. Whatever Delphine had told her wife about the alliance, it had not bred hostility.
 
 Thank you for having me, Ananya said. The words sounded formal even to her own ears, the careful politeness of someone unused to domestic hospitality.
 

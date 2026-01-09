@@ -12,7 +12,7 @@ The nurse led her to Dr. Reyes's office. Same desk, same family photos, same win
 
 "Please, sit."
 
-Elena sat. Her heart was doing something complicated, some arrhythmic performance that was probably just anxiety but felt like something worse.
+Elena sat. Her heart was doing something complicated, some arrhythmic performance that was probably just anxiety but felt, in this moment, like something much worse.
 
 "I have your results," Dr. Reyes said. "The ultrasound, the additional blood work, everything we discussed."
 
@@ -42,7 +42,7 @@ Elena wiped her face, forced herself to engage her clinical mind. "What's the tr
 
 "Stress reduction." Elena laughed, a wet sound. "I'm a nurse in a community clinic with two kids and an elderly grandmother who lives with me."
 
-"I know. We'll talk about how to make it practical. But the autoimmune component is definitely stress-exacerbated. Your body has been telling you something, and now it's shouting."
+"I know. We'll talk about how to make it practical. But the autoimmune component is definitely stress-exacerbated. Your body has been telling you something for years, and now it's shouting."
 
 
 
@@ -62,7 +62,7 @@ Elena nodded, not agreeing but acknowledging. Boundaries were something she prea
 
 "Thank you," she said, standing. "For everything."
 
-"Call me if anything changes. And Elena? This is not a death sentence. This is your body asking for better treatment. That's all."
+"Call me if anything changes. And Elena? This is not a death sentence. This is your body asking for better treatment. That's all it is. That's all it's ever been."
 
 In the hallway, walking back to the waiting room, Elena let herself feel the shape of the news. Not dying. Not cancer. But also not fine, not the same body she had lived in for thirty-seven years. Something permanent had changed. She would be on medication for the rest of her life. She would carry this diagnosis through every day that remained.
 
@@ -82,7 +82,7 @@ Daniel let out a breath he had clearly been holding for a month. "Thank God. Tha
 
 "Okay. What kind of medication? What do we need to do?"
 
-His practical response, the immediate pivot from relief to action, was so perfectly Daniel that Elena felt fresh tears threatening. This was why she had married him. Not the romance but the reliability, the way he met every crisis by asking what needed to be done next.
+His practical response, the immediate pivot from relief to action, was so perfectly Daniel that Elena felt fresh tears threatening. This was why she had married him, she remembered now. Not the romance, though there had been that. The reliability. The way he met every crisis by asking what needed to be done next.
 
 "A daily pill. Regular blood tests. And I need to reduce stress. The doctor says I should cut back at work."
 
@@ -106,7 +106,7 @@ The drive home was quiet but not silent. Daniel asked questions about the treatm
 
 "Anything else?"
 
-"Depression is common with thyroid conditions. Anxiety. The hormones affect everything."
+"Depression is common with thyroid conditions. Anxiety. The hormones affect everything - mood, weight, energy, sleep. Everything."
 
 Daniel nodded, processing. He turned onto their street, the familiar houses passing on either side.
 
@@ -116,7 +116,7 @@ Elena almost laughed. "Yeah. The marriage thing."
 
 At home, she walked through the quiet house - abuela was napping, the kids still at school - and went directly to their bedroom. She sat on the edge of the bed, the same bed she had lain awake in so many nights worrying about this appointment.
 
-And then she cried. Not the tears in Dr. Reyes's office, which had been relief mixed with shock. These were different. These were the accumulated fear of a month finally releasing, the terror she had been holding at bay now that it was no longer necessary. She cried until her body was empty, until there was nothing left but a strange, light calm.
+And then she cried. Not the tears in Dr. Reyes's office, which had been relief mixed with shock. These were different. These were deeper. These were the accumulated fear of a month finally releasing, the terror she had been holding at bay now that it was no longer necessary. She cried until her body was empty, until there was nothing left but a strange, light calm.
 
 Daniel found her there, sat beside her, didn't speak. Just present. Just there.
 
@@ -130,7 +130,7 @@ Later, when the crying had stopped and she felt hollowed out but somehow whole, 
 
 "Same thing, really."
 
-Maybe he was right. Maybe asking and telling were just two versions of the same admission that she couldn't do everything alone. That she had never been able to, not really, and the illusion of self-sufficiency had been slowly destroying her.
+Maybe he was right. Maybe asking and telling were just two versions of the same admission: that she couldn't do everything alone. That she had never been able to, not really, and the illusion of self-sufficiency had been slowly, quietly destroying her from the inside out.
 
 That night, with the children asleep and abuela settled in her room, Elena and Daniel sat on the back porch with glasses of wine she probably shouldn't have been drinking. The Phoenix sky was clear, stars visible despite the light pollution.
 

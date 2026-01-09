@@ -1,6 +1,6 @@
 From the wings, Yusuf watched his mother arrive. Amina guided her through the crowd that was beginning to fill the venue, found the seats they had reserved near the front, helped her settle with the careful attention of a daughter who had learned to be caregiver.
 
-His mother looked old. This was not news, but seeing her from this distance, in this context, made it newly visible. She was seventy-three, had survived poverty and immigration and widowhood and the chronic illnesses that poor healthcare had left untreated for too long. She moved carefully now, conserving energy, her body a machine that required constant maintenance.
+His mother looked old. This was not news, but seeing her from this distance, in this context, made it visible again. She was seventy-three, had survived poverty and immigration and widowhood and the chronic illnesses that poor healthcare had left untreated for too long. She moved carefully now, conserving energy, her body a machine that required constant maintenance.
 
 And yet she was here. She had made it to this night, to this venue, to the front row where she would watch her son perform for an audience of strangers. That was a kind of triumph that statistics couldn't capture, that algorithms couldn't measure.
 
@@ -20,7 +20,7 @@ Kevin Zhou. The tech executive who had become something like a friend, whose mes
 
 *That's how you know it matters. Go give them something real.*
 
-Something real. That was what Yusuf had been trying to make, in all the years of writing songs in cramped apartments, in all the nights of driving and thinking about what he would say if he had a platform to say it. Not propaganda, not message music in any simple sense. Just the truth of what it felt like to be him, to be invisible, to survive within systems designed for someone else's profit.
+Something real. That was what Yusuf had been trying to make, in all those years of writing songs in cramped apartments, in all the nights of driving and thinking about what he would say if he ever had a platform to say it. Not propaganda, not message music in any simple sense. Just the truth of what it felt like to be him, to be invisible, to survive within systems designed for someone else's profit.
 
 Amina was walking toward the backstage entrance, having settled their mother. She appeared in the wings, her face bright with excitement that she was trying to modulate into something cooler.
 
@@ -32,7 +32,7 @@ Amina was walking toward the backstage entrance, having settled their mother. Sh
 
 
 
-Amina was twenty-five now, the political voice of her generation, the organizer who channeled her anger into action. She had chosen a different path than Yusuf: not art but activism, not expression but organizing. Their father's death had shaped them both, but in different directions. Yusuf had retreated into music; Amina had advanced into the systems that killed their father, determined to change them.
+Amina was twenty-five now, the political voice of her generation, the organizer who channeled anger into action. She had chosen a different path than Yusuf: not art but activism, not expression but organizing. Their father's death had shaped them both, but in different directions. Yusuf had retreated into music; Amina had advanced into the systems that killed their father, determined to change them.
 
 "How's the movement stuff going?" Yusuf asked, not because he wanted to discuss it now but because he needed something to talk about that wasn't his own anxiety.
 
@@ -56,7 +56,7 @@ Yusuf nodded. This was what they had both learned: you couldn't redeem tragedy, 
 
 "I don't feel like I've earned anything. I feel like I got lucky."
 
-"Luck is just the name people give to persistence they didn't witness. I witnessed it. This isn't luck."
+"Luck is the name people give to persistence they didn't witness. I witnessed it. This isn't luck."
 
 The stage manager appeared. "Fifteen minutes, Yusuf. We're going to dim the house lights in ten."
 
@@ -78,7 +78,7 @@ He took a breath. He held it. He let it go.
 
 The house lights dimmed. The crowd hushed, that particular silence that precedes live music, the collective intake of breath. Yusuf stood at the edge of the stage, guitar in hand, waiting for the cue.
 
-He thought about all the nights he had imagined this moment. Driving through the dark, delivering packages, the app telling him where to go and how fast. The dream of music had been the thing that kept him moving through those nights, the belief that someday he would stand here, would give something back, would transform the hours of isolation into something shared.
+He thought of all the nights he had imagined this moment. Driving through the dark, delivering packages, the app telling him where to go and how fast. The dream of music had been the thing that kept him moving through those nights, the belief that someday he would stand here, would give something back, would transform the hours of isolation into something shared.
 
 And now he was here. Not because the system had worked, but because he had survived it. Not because the platforms had supported him, but because he had found spaces outside them, communities that traded in meaning rather than metrics. Minneapolis had given him this - the music scene, the venues, the fellow musicians who had recognized something in his songs and helped him make them better.
 

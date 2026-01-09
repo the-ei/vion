@@ -32,7 +32,7 @@ Sanjay pointed to the relevant sections. "UAE. Thailand. The third is a subsidia
 
 
 
-Ananya felt the room tilt slightly, the sensation of a worldview adjusting under pressure. Her framework. Her tools. The infrastructure she had built to make the company better was being used to make certain governments worse.
+Ananya felt the room tilt slightly, the sensation of a worldview adjusting under pressure. Her framework. Her tools. The infrastructure she had built to make the company better was being used to make certain governments worse. Her tools had been weaponized against the people they were supposed to protect.
 
 "Does anyone else know?"
 
@@ -68,7 +68,7 @@ Or stay. Investigate. Find out who authorized this and why. Use her position to 
 
 "And you need time to think?"
 
-The judgment in his voice was familiar - she heard it in Priya's silences, in Kevin Zhou's questions, in the part of herself that still believed ethical work should be simpler than this. Sanjay wanted her to act. He wanted her to be the Chief Ethics Officer in fact, not just title. He wanted the person she had spent her career pretending to be.
+The judgment in his voice was familiar - she heard it in Priya's silences, in Kevin Zhou's questions, in the part of herself that still believed ethical work should be simpler than this, that still remembered the person she had been before the compromises accumulated into character. Sanjay wanted her to act. He wanted her to be the Chief Ethics Officer in fact, not just title. He wanted the person she had spent her career pretending to be.
 
 "If I act rashly, I lose the position that lets me act at all," Ananya said. "If I go public without understanding the full picture, I give them the narrative - rogue ethics officer, didn't follow proper channels, handled it poorly. The story becomes about me, not about them."
 
@@ -102,7 +102,7 @@ Sanjay gathered the papers and put them back in his bag. He stood, looking at he
 
 "Yes."
 
-"Heroes lose. Heroes get fired, get discredited, get destroyed, and the thing they heroically opposed continues without them. I've been doing this for a long time, Sanjay. The right thing is not always the dramatic thing."
+"Heroes lose. Heroes get fired, get discredited, get destroyed, and the thing they heroically opposed continues without them. I've been doing this for a long time, Sanjay. The right thing is not always the dramatic thing." She heard herself say it and wondered if this was wisdom or rationalization, if there was any difference anymore.
 
 He left. Ananya stayed, staring at the table where the documents had been, feeling the weight of what she now knew pressing against the weight of what she had just promised to the board.
 

@@ -1,4 +1,4 @@
-The law firm occupied the seventh floor of a building on University Avenue that Ananya had passed hundreds of times without ever noticing. That was its function, she understood now. A building designed to be passed. A building that existed precisely because no one would remember seeing it. The lobby smelled faintly of lemon cleaning solution and old coffee, and the elevator made a sound like metal breathing as it rose.
+The law firm occupied the seventh floor of a building on University Avenue that Ananya had passed hundreds of times without noticing. That was its function, she understood now. A building designed to be passed. A building that existed precisely because no one would remember seeing it. The lobby smelled faintly of lemon cleaning solution and old coffee, and the elevator made a sound like metal breathing as it rose.
 
 Sandra Oyelaran's office was smaller than Ananya had expected, though she wasn't sure what she'd expected. A window overlooking the street. Diplomas on the wall - Stanford Law, state bar admission, something from the American Bar Association. Bookshelves with the kind of books no one reads but everyone displays. A desk neither too clean nor too cluttered.
 
@@ -22,7 +22,7 @@ Sandra nodded, waiting.
 
 "Exactly." Sandra looked up. "Tell me about the leave itself. Was there paperwork? Specific terms?"
 
-Ananya described the conversation with the HR director - the careful phrasing, the emphasis on mutual benefit, the absence of anything that could be called an accusation. Sandra asked questions: timing, witnesses, documentation. Ananya answered as precisely as she could, watching Sandra translate her experience into legal categories.
+Ananya described the conversation with HR - the careful phrasing, the emphasis on mutual benefit, the absence of anything that could be called an accusation. Sandra asked questions: timing, witnesses, documentation. Ananya answered as precisely as she could, watching Sandra translate her experience into legal categories.
 
 It was strange, this translation. What had happened at Prometheus - what she had seen, what she had done, what she had failed to do - these things existed in some dimension that legal language couldn't quite reach. Sandra was competent, clearly. She knew the relevant statutes, the precedents, the procedures. But she was mapping unknown territory with tools designed for known terrain.
 
@@ -44,7 +44,7 @@ Sandra's pen paused over the legal pad. "Company property?"
 
 "Categories rarely do," Sandra said. She set down her pen. "Let me explain the legal landscape, and then we can talk about how your situation fits - or doesn't fit - within it."
 
-What followed was a careful exposition of whistleblower protections. State and federal laws. The conditions under which disclosure was protected and when it wasn't. The difference between going to regulators and going to journalists. The gap between what Ananya could prove and what she knew. Sandra spoke clearly, without condescension, but Ananya could hear the limits of her expertise in the pauses between points.
+What followed was a careful exposition of whistleblower protections. State and federal laws. Conditions under which disclosure was protected and when it wasn't. The difference between going to regulators and going to journalists. The gap between what Ananya could prove and what she knew. Sandra spoke clearly, without condescension, but Ananya could hear the limits of her expertise in the pauses between points.
 
 "The thing is," Sandra finally said, "your situation sits at the edge of these frameworks. You're not alleging fraud, exactly. You're not reporting safety violations in the traditional sense. You're saying that a company developed technology with implications they didn't adequately assess. That's - " She paused, searching for the word. "Novel."
 
@@ -76,7 +76,7 @@ Sandra paused, glasses in hand. "I'd want to know what the documents actually sa
 
 
 
-Ananya looked out the window. A woman was walking a small dog on the sidewalk below, the dog stopping to investigate every tree. The ordinary world, going on.
+Ananya looked out the window. Below, a woman walked a small dog that stopped to investigate every tree. The ordinary world, going on.
 
 "They show what the company knew and when. They show decisions made with incomplete information and no process for obtaining complete information. They show a culture of -" She stopped, tried again. "They show people being very good at not asking certain questions."
 
@@ -114,7 +114,7 @@ Driving home, she passed the Prometheus campus - glass and steel and landscaping
 
 ---
 
-Priya arrived on a Tuesday afternoon, stepping off the train from her father's place with a backpack too heavy for her frame and the particular expression she wore when transitioning between households. Not unhappy, exactly. Just recalibrating. Ananya recognized the look because she'd felt it herself, once, shuttling between divorced parents in a suburb outside Chennai before her family moved to the States.
+Priya arrived Tuesday afternoon, stepping off the train from her father's place with a backpack too heavy for her frame and the expression she wore when transitioning between households. Not unhappy, exactly. Just recalibrating. Ananya recognized the look because she'd felt it herself, once, shuttling between divorced parents in a suburb outside Chennai before her family moved to the States.
 
 "Your bag weighs more than you do," Ananya said, reaching for it.
 
@@ -284,7 +284,7 @@ She walked back to her car through the fading light, the week already becoming m
 
 ---
 
-The first offer came Monday morning, before Ananya had finished her coffee. A consulting firm in Menlo Park - TechSafe Partners, the kind of name that told you exactly nothing - had somehow obtained her personal email and wanted to discuss opportunities. Their CEO, a man named Daniel Reeves, spoke with the brisk enthusiasm of someone who saw the world as a series of problems requiring solutions and fees.
+The first offer came Monday morning, before Ananya finished her coffee. A consulting firm in Menlo Park, TechSafe Partners, the kind of name that told you exactly nothing, had obtained her personal email and wanted to discuss opportunities. Their CEO, a man named Daniel Reeves, spoke with the brisk enthusiasm of someone who saw the world as a series of problems requiring solutions and fees.
 
 "Your experience at Prometheus is exactly what companies are looking for right now," he said through her laptop speakers. Ananya had declined the video call option, preferring to see him without being seen. On her screen, Daniel was fit, gray-templed, wearing the uniform of Bay Area executive casual. Behind him, the office was all glass and natural light, the aesthetics of transparency deployed in service of opacity.
 
@@ -398,7 +398,7 @@ Ananya made herself dinner - rice, dal, the familiar routine - and ate alone at 
 
 ---
 
-Saturday evening. Priya back at her father's, the house returned to its particular silence. Ananya sat in her home office with the documents arrayed on her desk - actual printed pages, which felt almost anachronistic, but she had wanted to see them all at once, to hold them, to remember that they were physical things with weight and texture.
+Saturday evening. Priya back at her father's, the house returned to its silence. Ananya sat in her home office with the documents arrayed on her desk, actual printed pages, which felt almost anachronistic, but she had wanted to see them all at once, to hold them, to remember they were physical things with weight and texture.
 
 Meeting transcripts. Internal emails. Technical specifications that she understood only partially, but enough to know what they implied. The record of what Prometheus had known, when they had known it, what they had chosen to do and not do with that knowledge.
 

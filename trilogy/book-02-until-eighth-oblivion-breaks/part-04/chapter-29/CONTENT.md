@@ -278,7 +278,7 @@ Her calm was not resignation. It was the calm of someone who had learned, throug
 
 Yusuf went to the hospital that evening. He rode the bicycle through streets that were emptier than usual, past storefronts that were dark, past gas stations with handwritten signs: CASH ONLY. NO CARDS. The March evening was cold, and he wished he had worn more layers, but he had not planned for a world where his quick scooter rides had become long bicycle journeys.
 
-Hennepin County Medical Center was chaos. The parking lot was full, the emergency room line extending out the door, people sitting on the ground with injuries and illnesses that the overwhelmed system couldn't process. Yusuf pushed through to the front desk, where a nurse who looked like she hadn't slept in days was trying to triage a crowd that kept growing.
+Hennepin County Medical Center was chaos, the same hospital where his father had died, where Yusuf had stood in the hallway at twelve years old and learned what systems did to people like them. The parking lot was full, the emergency room line extending out the door, people sitting on the ground with injuries and illnesses that the overwhelmed system couldn't process. Yusuf pushed through to the front desk, where a nurse who looked like she hadn't slept in days was trying to triage a crowd that kept growing.
 
 "My mother needs dialysis medication," he said. "Atenolol. She's down to a five-day supply."
 
@@ -292,11 +292,11 @@ Hennepin County Medical Center was chaos. The parking lot was full, the emergenc
 
 "I know." The nurse's voice cracked, just slightly, the first hint of the person beneath the professional mask. "I know. I'm sorry. We're doing everything we can."
 
-But everything was not enough. Yusuf could see that. Everything would never be enough, not for people like his mother, not for families like his.
+But everything was not enough. Yusuf could see that in her eyes, could see the same exhaustion he had seen in the man in the gray suit twelve years ago, the same helplessness dressed in different words. Everything would never be enough, not for people like his mother, not for families like his. The systems failed them in abundance and they failed them in scarcity. There was no version of the system that did not fail them.
 
 
 
-He rode home through the dark streets, the bicycle's old reflectors barely visible, no lights to guide him except the headlights of the occasional passing car. The city was quieter than he had ever known it, the usual hum of traffic and commerce and electronic connection replaced by something older and stranger, a silence that felt almost solid.
+He rode home through the dark streets, the bicycle's old reflectors barely catching the light, no streetlamps to guide him except the headlights of the occasional passing car. The city was quieter than he had ever known it, the usual hum of traffic and commerce and electronic connection replaced by something older and stranger, a silence that felt almost solid, almost like a presence.
 
 When he got home, Amina was asleep on the couch, curled under a blanket, her phone clutched in her hand as if waiting for a call that would never come. Habiba was still in her chair, awake, watching the window.
 
@@ -308,7 +308,7 @@ When he got home, Amina was asleep on the couch, curled under a blanket, her pho
 
 "I don't know. Nobody knows."
 
-He sat down in the chair across from her, the chair his father used to sit in, the chair that had remained empty for twelve years because no one could bear to claim it. He sat there now because there was nowhere else to sit, and because he was tired, and because the symbolism of chairs seemed less important than the reality of being together.
+He sat down in the chair across from her, the chair his father used to sit in, the chair that had remained empty for twelve years because no one could bear to claim it. He sat there now because there was nowhere else to sit, and because he was tired, and because the symbolism of chairs seemed less important than the reality of being together, the reality of the three of them in this apartment, waiting for a world that might never help them.
 
 "We'll figure it out," he said. "We always do."
 
@@ -316,7 +316,7 @@ He sat down in the chair across from her, the chair his father used to sit in, t
 
 They sat together in the darkness, mother and son, listening to the city's new silence. Tomorrow Yusuf would go out again, would find the informal networks that were forming, would look for any source of the medication his mother needed. Tonight he would rest, and watch, and count the days.
 
-Five days. Maybe six. The countdown had begun.
+Five days. Maybe six. The countdown had begun, another countdown, another cliff, another deadline in a life that had always been lived on the edge of deadlines. But this time Yusuf sat in his father's chair. This time he would not be a child listening through the walls. This time he would do whatever it took.
 
 
 
@@ -326,13 +326,13 @@ Five days. Maybe six. The countdown had begun.
 
 ---
 
-The church was called Hope Lutheran, though the sign out front had lost several letters and now read only HOPE UT ERAN. It had become, in the day and a half since the systems failed, a kind of unofficial community center, a place where people gathered to share information and resources in the absence of any other coordination.
+The church was called Hope Lutheran, though the sign out front had lost several letters and now read only HOPE UT ERAN, which seemed appropriate, which seemed honest. It had become, in the day and a half since the systems failed, a kind of unofficial community center, a place where people gathered to share information and resources in the absence of any other coordination.
 
 Yusuf arrived on Wednesday morning, his second day of searching. The church parking lot was full of people, some sitting on the concrete steps, some standing in clusters, all of them talking in the rapid exchange of information that had become the city's new currency. A table near the door held water bottles and granola bars, donations from somewhere, distributed by volunteers who had appeared from nowhere.
 
 He moved through the crowd, listening, gathering fragments. The power grid was holding in Minneapolis, but some areas were out. The hospitals were still overwhelmed. Someone said the National Guard was being mobilized. Someone else said the president had declared a state of emergency, though no one could confirm this because no one had working televisions or internet.
 
-Near the back of the lot, a man stood alone, out of place in a way that was hard to define. He wore a fleece vest over a button-down shirt, the uniform of a certain kind of professional, and he held his phone in his hands as if still hoping it might come back to life. His rental car, a white sedan with a company logo on the door, sat dead at the edge of the parking lot, its dashboard dark.
+Near the back of the lot, a man stood alone, out of place in a way that was hard to define but easy to see. He wore a fleece vest over a button-down shirt, the uniform of a certain kind of professional, and he held his phone in his hands as if still hoping it might come back to life, as if faith alone could restore the connection. His rental car, a white sedan with a company logo on the door, sat dead at the edge of the parking lot, its dashboard dark.
 
 Yusuf recognized something in him: the look of someone whose entire world had depended on systems that no longer existed.
 
@@ -348,13 +348,13 @@ The man looked up, startled. "The fleet management system. It's cloud-based. Whe
 
 Yusuf felt something shift in his perception, a connection forming. "Infrastructure management?"
 
-"Predictive systems. We help companies anticipate and prevent failures. Monitor their networks, flag vulnerabilities before they become problems." The man's voice had the quality of a practiced pitch, words he had said hundreds of times. "Ironic, right? My company helps prevent exactly this kind of thing, and here I am, stranded."
+"Predictive systems. We help companies anticipate and prevent failures. Monitor their networks, flag vulnerabilities before they become problems." The man's voice had the quality of a practiced pitch, words he had said hundreds of times to people who had money to spend on such things. "Ironic, right? My company helps prevent exactly this kind of thing, and here I am, stranded."
 
 "What company?"
 
 "You probably haven't heard of it. Vantage Nexus. We're a startup, part of Kevin Zhou's portfolio."
 
-Yusuf had heard of Kevin Zhou. Everyone had heard of Kevin Zhou, the tech billionaire whose face appeared on magazine covers and news clips, whose companies promised to solve the world's problems through data and optimization. Yusuf had seen him discussed in the gig worker forums, had read articles about how his platforms affected drivers and delivery workers, had felt the distant presence of his wealth like a weather system shaping conditions from far away.
+Yusuf had heard of Kevin Zhou. Everyone had heard of Kevin Zhou, the tech billionaire whose face appeared on magazine covers and news clips, whose companies promised to solve the world's problems through data and optimization and efficiency. Yusuf had seen him discussed in the gig worker forums, had read articles about how his platforms affected drivers and delivery workers, had felt the distant presence of his wealth like a weather system shaping conditions from far away, indifferent to the people caught in its patterns.
 
 "I've heard of him," Yusuf said.
 
@@ -362,7 +362,7 @@ Yusuf had heard of Kevin Zhou. Everyone had heard of Kevin Zhou, the tech billio
 
 "I'm Nathaniel," the man said, extending his hand. "Nathaniel Burke. I was here for a client meeting. Was supposed to be one day, in and out, back to the office by tonight."
 
-Yusuf shook the hand, feeling the softness of it, the hands of someone who had never lifted boxes or pushed scooters or done the physical work that wore bodies down. "Yusuf Hassan. I was mid-delivery when everything died."
+Yusuf shook the hand, feeling the softness of it, the hands of someone who had never lifted boxes or pushed scooters or done the physical work that wore bodies down, the hands that had never known calluses or the particular cracks that came from cold and labor. "Yusuf Hassan. I was mid-delivery when everything died."
 
 "Delivery?"
 
@@ -376,9 +376,11 @@ Nathaniel nodded, and Yusuf saw him process this information, saw him categorize
 
 "I don't know exactly. The information was on my phone. But I remember it's north of the city. Some kind of facility. A few of us joked about it, called it the bunker. I never thought I'd actually need it."
 
-Yusuf thought about his mother, about the five days of medication, about the hospital that couldn't help and the pharmacies that were closed. He thought about a facility with backup power and supplies, a place prepared for exactly this kind of failure.
+Yusuf thought about his mother, about the four days of medication now remaining, about the hospital that couldn't help and the pharmacies that were closed. He thought about a facility with backup power and supplies, a place prepared for exactly this kind of failure, a place that might have medicine for people who could get inside.
 
 "I can help you get there," he said. "If you can help me find something I need."
+
+The tech worker looked at the gig worker. The gig worker looked at the tech worker. Between them, invisible but present, lay all the systems that had made their lives what they were, that had connected them and separated them and brought them to this church parking lot where the sign read HOPE UT ERAN and the only way forward was together.
 
 
 

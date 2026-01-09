@@ -1,4 +1,4 @@
-The law firm occupied the seventh floor of a building on University Avenue that Ananya had passed hundreds of times without ever noticing. That was its function, she understood now. A building designed to be passed. A building that existed precisely because no one would remember seeing it. The lobby smelled faintly of lemon cleaning solution and old coffee, and the elevator made a sound like metal breathing as it rose.
+The law firm occupied the seventh floor of a building on University Avenue that Ananya had passed hundreds of times without noticing. That was its function, she understood now. A building designed to be passed. A building that existed precisely because no one would remember seeing it. The lobby smelled faintly of lemon cleaning solution and old coffee, and the elevator made a sound like metal breathing as it rose.
 
 Sandra Oyelaran's office was smaller than Ananya had expected, though she wasn't sure what she'd expected. A window overlooking the street. Diplomas on the wall - Stanford Law, state bar admission, something from the American Bar Association. Bookshelves with the kind of books no one reads but everyone displays. A desk neither too clean nor too cluttered.
 
@@ -22,7 +22,7 @@ Sandra nodded, waiting.
 
 "Exactly." Sandra looked up. "Tell me about the leave itself. Was there paperwork? Specific terms?"
 
-Ananya described the conversation with the HR director - the careful phrasing, the emphasis on mutual benefit, the absence of anything that could be called an accusation. Sandra asked questions: timing, witnesses, documentation. Ananya answered as precisely as she could, watching Sandra translate her experience into legal categories.
+Ananya described the conversation with HR - the careful phrasing, the emphasis on mutual benefit, the absence of anything that could be called an accusation. Sandra asked questions: timing, witnesses, documentation. Ananya answered as precisely as she could, watching Sandra translate her experience into legal categories.
 
 It was strange, this translation. What had happened at Prometheus - what she had seen, what she had done, what she had failed to do - these things existed in some dimension that legal language couldn't quite reach. Sandra was competent, clearly. She knew the relevant statutes, the precedents, the procedures. But she was mapping unknown territory with tools designed for known terrain.
 
@@ -44,7 +44,7 @@ Sandra's pen paused over the legal pad. "Company property?"
 
 "Categories rarely do," Sandra said. She set down her pen. "Let me explain the legal landscape, and then we can talk about how your situation fits - or doesn't fit - within it."
 
-What followed was a careful exposition of whistleblower protections. State and federal laws. The conditions under which disclosure was protected and when it wasn't. The difference between going to regulators and going to journalists. The gap between what Ananya could prove and what she knew. Sandra spoke clearly, without condescension, but Ananya could hear the limits of her expertise in the pauses between points.
+What followed was a careful exposition of whistleblower protections. State and federal laws. Conditions under which disclosure was protected and when it wasn't. The difference between going to regulators and going to journalists. The gap between what Ananya could prove and what she knew. Sandra spoke clearly, without condescension, but Ananya could hear the limits of her expertise in the pauses between points.
 
 "The thing is," Sandra finally said, "your situation sits at the edge of these frameworks. You're not alleging fraud, exactly. You're not reporting safety violations in the traditional sense. You're saying that a company developed technology with implications they didn't adequately assess. That's - " She paused, searching for the word. "Novel."
 
@@ -76,7 +76,7 @@ Sandra paused, glasses in hand. "I'd want to know what the documents actually sa
 
 
 
-Ananya looked out the window. A woman was walking a small dog on the sidewalk below, the dog stopping to investigate every tree. The ordinary world, going on.
+Ananya looked out the window. Below, a woman walked a small dog that stopped to investigate every tree. The ordinary world, going on.
 
 "They show what the company knew and when. They show decisions made with incomplete information and no process for obtaining complete information. They show a culture of -" She stopped, tried again. "They show people being very good at not asking certain questions."
 

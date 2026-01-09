@@ -2,7 +2,7 @@ The house on Edmondson Avenue had been in the family for forty-three years, sinc
 
 His father had died in this house six years ago. A heart attack in the living room, sudden and complete. His mother had found him on the floor and called Jerome, and Jerome had driven from D.C. through the worst traffic of his life, arriving to find his father already gone and his mother sitting on the couch staring at nothing.
 
-Now his mother was the one disappearing, though more slowly, through the gradual erosion of a mind that had once been sharp and funny and occasionally cutting. The dementia had started as forgetfulness - names, appointments, where she'd put her keys - and had progressed to something deeper, something that took not just memories but the architecture of self.
+Now his mother was the one disappearing, though more slowly, through the gradual erosion of a mind that had once been sharp and funny and occasionally cutting. The dementia had started as forgetfulness - names, appointments, where she'd put her keys - and had progressed to something deeper, something that took not just memories but the architecture of self, the load-bearing walls of identity.
 
 Sandra opened the door before Jerome could knock. His sister had always known when he was coming, some sibling radar that persisted from childhood.
 
@@ -74,7 +74,7 @@ He looked at her. She was looking at him with an expression he couldn't quite re
 
 "Especially then. He said the ones who get angry are the ones who still believe it matters. The ones who don't get angry anymore - they've already given up."
 
-Jerome felt something shift in his chest, some pressure that had been building release slightly. His father had not been an easy man. He had been proud and stubborn and occasionally harsh, shaped by the particular experiences of Black men of his generation. But he had believed in things. He had believed that work mattered, that integrity mattered, that you stood up even when standing up cost you.
+Jerome felt something shift in his chest, some pressure that had been building release slightly. His father had not been an easy man. He had been proud and stubborn and occasionally harsh, shaped by the particular experiences of Black men of his generation. But he had believed in things. He had believed that work mattered, that integrity mattered, that you stood up even when standing up cost you. He had believed these things without evidence, the way faith required you to believe, and his faith had sustained him.
 
 
 
@@ -94,7 +94,7 @@ His mother was quiet for a long moment, watching the television without seeing i
 
 "I think it's supposed to mean something."
 
-"It does mean something. Just not the something you want." She reached out and took his hand, her grip fragile but certain. "You tell the truth. That's your job. What the world does with it - that's the world's job. You can't do both."
+"It does mean something. Just not the something you want." She reached out and took his hand, her grip fragile but certain. "You tell the truth. That's your job. What the world does with it - that's the world's job. You can't do both." She squeezed his hand with surprising strength. "You're not God, baby. You're just a man with a pen. Be that. Let the rest be the rest."
 
 It was the clearest thing she had said all day, maybe the clearest thing she had said in months. Jerome held onto her hand and felt the strange gift of her remaining wisdom, offered from a mind that was losing everything else.
 

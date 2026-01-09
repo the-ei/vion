@@ -38,7 +38,7 @@ Her calm was not resignation. It was the calm of someone who had learned, throug
 
 Yusuf went to the hospital that evening. He rode the bicycle through streets that were emptier than usual, past storefronts that were dark, past gas stations with handwritten signs: CASH ONLY. NO CARDS. The March evening was cold, and he wished he had worn more layers, but he had not planned for a world where his quick scooter rides had become long bicycle journeys.
 
-Hennepin County Medical Center was chaos. The parking lot was full, the emergency room line extending out the door, people sitting on the ground with injuries and illnesses that the overwhelmed system couldn't process. Yusuf pushed through to the front desk, where a nurse who looked like she hadn't slept in days was trying to triage a crowd that kept growing.
+Hennepin County Medical Center was chaos, the same hospital where his father had died, where Yusuf had stood in the hallway at twelve years old and learned what systems did to people like them. The parking lot was full, the emergency room line extending out the door, people sitting on the ground with injuries and illnesses that the overwhelmed system couldn't process. Yusuf pushed through to the front desk, where a nurse who looked like she hadn't slept in days was trying to triage a crowd that kept growing.
 
 "My mother needs dialysis medication," he said. "Atenolol. She's down to a five-day supply."
 
@@ -52,11 +52,11 @@ Hennepin County Medical Center was chaos. The parking lot was full, the emergenc
 
 "I know." The nurse's voice cracked, just slightly, the first hint of the person beneath the professional mask. "I know. I'm sorry. We're doing everything we can."
 
-But everything was not enough. Yusuf could see that. Everything would never be enough, not for people like his mother, not for families like his.
+But everything was not enough. Yusuf could see that in her eyes, could see the same exhaustion he had seen in the man in the gray suit twelve years ago, the same helplessness dressed in different words. Everything would never be enough, not for people like his mother, not for families like his. The systems failed them in abundance and they failed them in scarcity. There was no version of the system that did not fail them.
 
 
 
-He rode home through the dark streets, the bicycle's old reflectors barely visible, no lights to guide him except the headlights of the occasional passing car. The city was quieter than he had ever known it, the usual hum of traffic and commerce and electronic connection replaced by something older and stranger, a silence that felt almost solid.
+He rode home through the dark streets, the bicycle's old reflectors barely catching the light, no streetlamps to guide him except the headlights of the occasional passing car. The city was quieter than he had ever known it, the usual hum of traffic and commerce and electronic connection replaced by something older and stranger, a silence that felt almost solid, almost like a presence.
 
 When he got home, Amina was asleep on the couch, curled under a blanket, her phone clutched in her hand as if waiting for a call that would never come. Habiba was still in her chair, awake, watching the window.
 
@@ -68,7 +68,7 @@ When he got home, Amina was asleep on the couch, curled under a blanket, her pho
 
 "I don't know. Nobody knows."
 
-He sat down in the chair across from her, the chair his father used to sit in, the chair that had remained empty for twelve years because no one could bear to claim it. He sat there now because there was nowhere else to sit, and because he was tired, and because the symbolism of chairs seemed less important than the reality of being together.
+He sat down in the chair across from her, the chair his father used to sit in, the chair that had remained empty for twelve years because no one could bear to claim it. He sat there now because there was nowhere else to sit, and because he was tired, and because the symbolism of chairs seemed less important than the reality of being together, the reality of the three of them in this apartment, waiting for a world that might never help them.
 
 "We'll figure it out," he said. "We always do."
 
@@ -76,7 +76,7 @@ He sat down in the chair across from her, the chair his father used to sit in, t
 
 They sat together in the darkness, mother and son, listening to the city's new silence. Tomorrow Yusuf would go out again, would find the informal networks that were forming, would look for any source of the medication his mother needed. Tonight he would rest, and watch, and count the days.
 
-Five days. Maybe six. The countdown had begun.
+Five days. Maybe six. The countdown had begun, another countdown, another cliff, another deadline in a life that had always been lived on the edge of deadlines. But this time Yusuf sat in his father's chair. This time he would not be a child listening through the walls. This time he would do whatever it took.
 
 
 

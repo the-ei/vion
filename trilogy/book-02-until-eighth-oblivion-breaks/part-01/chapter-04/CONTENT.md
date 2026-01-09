@@ -132,7 +132,7 @@ She thought of Kevin Zhou at the safety conference two weeks ago, his sharp ques
 
 The framework was real. The constraints it created were real. The reduction in harmful outputs was measurable, verifiable, significant.
 
-But what about the parts she couldn't measure? The systems being developed in corners of the company her framework didn't reach? The applications she approved in principle without seeing in practice? The gap between the ethics she designed on slides and the ethics that actually governed what the company built?
+But what about the parts she couldn't measure? The systems being developed in corners of the company her framework didn't reach? The applications she approved in principle without seeing in practice? The gap between the ethics she designed on slides and the ethics that actually governed what the company built? The distance between the map and the territory that the map, by existing, allowed everyone to ignore?
 
 Her phone buzzed. A calendar reminder: call with Vikram at 12:30.
 
@@ -188,7 +188,7 @@ Vikram's silence was answer enough. He had been critical of her career since bef
 
 "That's not fair."
 
-"It doesn't have to be fair to be true."
+"It doesn't have to be fair to be true." His voice carried the particular satisfaction of someone who had won an argument by stating a fact no one could dispute.
 
 Ananya stared at the glass wall in front of her, at the empty hallway beyond, at the reflections of conference room lights that blurred the world into abstract shapes. She had given fifteen years to this company, had built something she believed in, had made choices that seemed correct in the moment and accumulated into distance.
 
@@ -216,7 +216,7 @@ They talked for another ten minutes about logistics - the next custody weekend, 
 
 The call ended. Ananya sat in the conference room, phone still in her hand, watching employees pass in the hallway without seeing her. Priya wanted moral clarity. Priya wanted work that didn't require justification, that was obviously right, that didn't need frameworks and metrics and presentations to prove its value.
 
-Ananya had wanted that once, before she understood how the world actually worked. Before she learned that the obvious good was often unachievable, and the achievable good was rarely obvious. Before she made the compromises that allowed her to remain in rooms where decisions happened, trading purity for influence.
+Ananya had wanted that once, before she understood how the world actually worked. Before she learned that the obvious good was often unachievable, and the achievable good was rarely obvious. Before she made the compromises that allowed her to remain in rooms where decisions happened, trading purity for influence, telling herself the trade was temporary until it became permanent, until it became who she was.
 
 
 
@@ -280,7 +280,7 @@ Sanjay pointed to the relevant sections. "UAE. Thailand. The third is a subsidia
 
 
 
-Ananya felt the room tilt slightly, the sensation of a worldview adjusting under pressure. Her framework. Her tools. The infrastructure she had built to make the company better was being used to make certain governments worse.
+Ananya felt the room tilt slightly, the sensation of a worldview adjusting under pressure. Her framework. Her tools. The infrastructure she had built to make the company better was being used to make certain governments worse. Her tools had been weaponized against the people they were supposed to protect.
 
 "Does anyone else know?"
 
@@ -316,7 +316,7 @@ Or stay. Investigate. Find out who authorized this and why. Use her position to 
 
 "And you need time to think?"
 
-The judgment in his voice was familiar - she heard it in Priya's silences, in Kevin Zhou's questions, in the part of herself that still believed ethical work should be simpler than this. Sanjay wanted her to act. He wanted her to be the Chief Ethics Officer in fact, not just title. He wanted the person she had spent her career pretending to be.
+The judgment in his voice was familiar - she heard it in Priya's silences, in Kevin Zhou's questions, in the part of herself that still believed ethical work should be simpler than this, that still remembered the person she had been before the compromises accumulated into character. Sanjay wanted her to act. He wanted her to be the Chief Ethics Officer in fact, not just title. He wanted the person she had spent her career pretending to be.
 
 "If I act rashly, I lose the position that lets me act at all," Ananya said. "If I go public without understanding the full picture, I give them the narrative - rogue ethics officer, didn't follow proper channels, handled it poorly. The story becomes about me, not about them."
 
@@ -350,7 +350,7 @@ Sanjay gathered the papers and put them back in his bag. He stood, looking at he
 
 "Yes."
 
-"Heroes lose. Heroes get fired, get discredited, get destroyed, and the thing they heroically opposed continues without them. I've been doing this for a long time, Sanjay. The right thing is not always the dramatic thing."
+"Heroes lose. Heroes get fired, get discredited, get destroyed, and the thing they heroically opposed continues without them. I've been doing this for a long time, Sanjay. The right thing is not always the dramatic thing." She heard herself say it and wondered if this was wisdom or rationalization, if there was any difference anymore.
 
 He left. Ananya stayed, staring at the table where the documents had been, feeling the weight of what she now knew pressing against the weight of what she had just promised to the board.
 
@@ -382,7 +382,7 @@ She walked to the podium. The award was heavy, crystal and metal, designed to co
 
 The audience applauded. Nathan Webb nodded from the front row. Board members raised their glasses. Journalists took notes.
 
-Ananya smiled and held the award and felt nothing.
+Ananya smiled and held the award and felt nothing, or felt something so vast and contradictory that nothing was the only word her mind could find for it.
 
 
 

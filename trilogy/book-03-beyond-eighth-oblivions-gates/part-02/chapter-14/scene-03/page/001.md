@@ -4,7 +4,7 @@ The October sun sat low in the Arizona sky, that particular quality of desert li
 
 "Despacio," her grandmother said. Slowly. "There is no hurry."
 
-Elena adjusted her pace, though it was already slow. The medication made her tired in ways she hadn't expected. Not sleepy exactly, but weighted, as if her blood had thickened. Dr. Reyes had said this was temporary, that her body needed time to adjust. She had nodded, cataloging the information the way she would have for a patient. But being the patient was different. Being the patient meant the information was lodged somewhere in her chest, not her mind.
+Elena adjusted her pace, though it was already slow. The medication made her tired in ways she hadn't expected. Not sleepy exactly, but weighted, as if her blood had thickened. Dr. Reyes had said this was temporary, that her body needed time to adjust. She had nodded, cataloging the information the way she would have for a patient. But being the patient was different. Being the patient meant the information was lodged somewhere in her chest, in her body, not just filed away in her clinical mind.
 
 "You walk like you are being chased," her grandmother observed.
 

@@ -1,4 +1,4 @@
-The timer on the wall showed 44:37 and counting down. Forty-four minutes and thirty-seven seconds until the satellite window closed, until their link to whatever audience remained went dark again, until they were just another building full of people with generators and nothing to say to the world.
+The timer on the wall showed 44:37 and counting down. Forty-four minutes. Thirty-seven seconds. The numbers dropping like water from a faucet, each one a smaller portion of their link to whatever audience remained, each one bringing them closer to the moment when they would be just another building full of people with generators and nothing to say to the world.
 
 Delphine Okafor-Barnes stood at the back of the control room, watching her team work. They had been at it for four days now, sleeping in shifts on the couches in the break room, eating whatever was left in the vending machines, running on coffee and the particular adrenaline that came from being needed when everything else had stopped. The generators hummed in the basement, burning through fuel that would run out eventually, powering screens that showed the fragments of a world they could still reach.
 
@@ -10,7 +10,7 @@ Delphine Okafor-Barnes stood at the back of the control room, watching her team 
 
 Delphine absorbed this. New York, the media capital, silent. What did that mean? The city overwhelmed? The uplinks destroyed? Or just technical failure, equipment failure, the kind of thing that would be fixed in an hour once the systems came back online?
 
-She didn't know. No one knew anything.
+She didn't know. No one knew anything, and the not-knowing was spreading faster than any information ever had.
 
 
 
@@ -22,7 +22,7 @@ Lawrence Kim appeared at her elbow, holding a tablet that still worked because i
 
 "The fires are what people can see. You can't broadcast a cascade failure. You can't show viewers a interconnected system collapsing. But fire? Fire is primordial. Fire is content."
 
-He wasn't wrong. Delphine had spent fifteen years in media, had built campaigns and brands and narrative strategies for companies whose names everyone knew. She understood the mechanics of attention, the way certain images stuck while others slid past. Fire was sticky. Complexity was not.
+He wasn't wrong. Delphine had spent fifteen years in media, had built campaigns and brands and narrative strategies for companies whose names everyone knew, whose products shaped how people thought and felt and bought. She understood the mechanics of attention, the way certain images stuck while others slid past, the emotional calculus that made some content viral and other content invisible. Fire was sticky. Complexity was not.
 
 But fire wasn't true. Or rather, fire was true in a way that obscured the larger truth, the way a photograph of a single burning building could make you miss the city around it.
 
@@ -32,7 +32,7 @@ But fire wasn't true. Or rather, fire was true in a way that obscured the larger
 
 "That's what we don't know. What do we actually know?"
 
-Lawrence looked at her with an expression she couldn't quite read.
+Lawrence looked at her with an expression she couldn't quite read, the expression of a man who had just been challenged by his protege and wasn't sure whether to be proud or annoyed.
 
 
 
@@ -44,7 +44,7 @@ Lawrence looked at her with an expression she couldn't quite read.
 
 Delphine looked at the timer: 37:42. She thought about her wife Jessie, at home with Theo, waiting for word. She thought about the audience out there, whoever they were, wherever they were, sitting in the dark with whatever devices still worked, hungry for someone to tell them what was happening.
 
-She thought about the stories she had told in her career. The campaigns that had moved markets and elections and cultural conversations. The viral moments she had engineered, the narratives she had shaped, the attention she had captured and redirected toward things that often didn't deserve it. She had been good at her job. She had been very good. And now she stood in a half-lit control room with thirty-seven minutes of satellite time and no idea what truth sounded like anymore.
+She thought about the stories she had told in her career. The campaigns that had moved markets and elections and cultural conversations. The viral moments she had engineered, the narratives she had shaped, the attention she had captured and redirected toward things that often didn't deserve it. She had been good at her job. She had been very good. She had won awards and given speeches about the power of storytelling and never quite asked herself whether power and goodness were the same thing. And now she stood in a half-lit control room with thirty-seven minutes of satellite time and no idea what truth sounded like anymore.
 
 "Get me the verified reports only," she said to Kenji. "Nothing speculative. Nothing we can't source to an eyewitness or an official statement. I want to know exactly what we know and nothing more."
 
@@ -54,7 +54,7 @@ She thought about the stories she had told in her career. The campaigns that had
 
 
 
-The verified reports came back thin. Power grid holding in most urban areas. Water still flowing. Hospitals overwhelmed but operational. National Guard deployed in twelve states. President's location unknown. No confirmed information about cause. No timeline for recovery. That was it. That was everything they could say without speculation, without story, without the narrative infrastructure that usually made information into meaning.
+The verified reports came back thin, almost anorexic. Power grid holding in most urban areas. Water still flowing. Hospitals overwhelmed but operational. National Guard deployed in twelve states. President's location unknown. No confirmed information about cause. No timeline for recovery. That was it. That was everything they could say without speculation, without story, without the narrative infrastructure that usually transformed raw information into meaning.
 
 Lawrence looked at the list and shook his head. "This isn't content. This is a weather report."
 
@@ -64,7 +64,7 @@ Lawrence looked at the list and shook his head. "This isn't content. This is a w
 
 He was right. She knew he was right. The human mind didn't absorb facts; it absorbed narratives. You had to give people characters, conflict, resolution. You had to give them something to feel, not just something to know. That was what she had always done. That was her craft.
 
-The timer showed 28:15. Twenty-eight minutes to decide what story to tell.
+The timer showed 28:15. Twenty-eight minutes to decide what story to tell, and sixteen years of career instinct telling her one thing while something deeper, something almost forgotten, told her another.
 
 She thought about Theo, four years old, asking about his iPad. She thought about Jessie, a TV writer who understood story better than anyone, who would have known exactly what to say if she were here. She thought about the audience out there, whoever they were, and what they actually needed to hear.
 
@@ -82,7 +82,7 @@ She thought about Theo, four years old, asking about his iPad. She thought about
 
 ---
 
-The whiteboard in the conference room was covered with narrative fragments, handwritten in different colors, organized into rough categories that Delphine had created that morning while trying to make sense of what the world was telling itself.
+The whiteboard in the conference room was covered with narrative fragments, handwritten in different colors, organized into rough categories that Delphine had created that morning while trying to make sense of what the world was telling itself. It looked like a map of a fever dream, a taxonomy of fear.
 
 CONSPIRACY (blue marker):
 - "The government knew. They planned this."
@@ -114,7 +114,7 @@ And in the corner, in a small neat script, the category she had labeled ACCURATE
 - "Recovery time unknown"
 - "This has happened before, on smaller scales"
 
-The accurate information was the quietest. It didn't shout. It didn't promise explanation or blame. It just sat there, waiting to be noticed, while the other narratives spread faster than anyone could track.
+The accurate information was the quietest. It didn't shout. It didn't promise explanation or blame or catharsis. It just sat there, waiting to be noticed, plain and unsatisfying, while the other narratives spread faster than anyone could track, faster than truth had ever managed to move.
 
 
 
@@ -124,7 +124,7 @@ The narratives on the board were not new. She recognized them from every crisis 
 
 The conspiracy theories were the fastest, as they always were. Within hours of the failure, someone had claimed to know the real reason. Government plot. Deep state. Emergency powers grabbed under cover of chaos. Delphine had seen versions of this story attached to every event of the past two decades: pandemics, elections, economic crises, natural disasters. The pattern was always the same. Bad things happen because bad people made them happen. Find the bad people and you understand the bad things.
 
-It was comforting, in a way. More comforting than the truth, which was that complex systems failed for complex reasons, that no one was fully in control, that the world was held together by infrastructure no one understood and everyone depended on. People didn't want to hear that. People wanted villains.
+It was comforting, in a way. More comforting than the truth, which was that complex systems failed for complex reasons, that no one was fully in control, that the world was held together by infrastructure no one understood and everyone depended on and almost no one had ever thought about until it stopped working. People didn't want to hear that. People wanted villains. They wanted a face to hate, a cause to fight, an ending that made sense.
 
 
 
@@ -132,7 +132,7 @@ The foreign attack narrative was almost as popular, and almost as wrong. China h
 
 But the evidence didn't support it. The failure was too widespread, too simultaneous, too undirected to be an attack. Attacks had targets. This had none. It was everywhere at once, affecting systems that had nothing to do with each other, as if the entire technological layer of civilization had simply decided to stop working at the same moment. That wasn't how attacks worked. That was how complex systems failed.
 
-Delphine had helped build this information ecosystem. Not directly, not intentionally, but through the campaigns she had run, the attention she had captured, the narratives she had shaped. She had spent fifteen years learning how to make stories spread, how to trigger emotional responses, how to create content that moved from screen to screen like a virus. She had been good at it. She had won awards. And now she stood in front of a whiteboard covered with the results of her craft: a world that had forgotten how to distinguish signal from noise.
+Delphine had helped build this information ecosystem. Not directly, not intentionally, but through the campaigns she had run, the attention she had captured, the narratives she had shaped. She had spent fifteen years learning how to make stories spread, how to trigger emotional responses, how to create content that moved from screen to screen like a contagion. She had been good at it. She had won awards for it. She had been invited to conferences to teach others how to do it. And now she stood in front of a whiteboard covered with the results of her craft: a world that had forgotten how to distinguish signal from noise, truth from story, fact from feeling.
 
 
 

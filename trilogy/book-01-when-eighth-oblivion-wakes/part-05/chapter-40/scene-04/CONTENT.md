@@ -1,4 +1,4 @@
-Saturday evening. Priya back at her father's, the house returned to its particular silence. Ananya sat in her home office with the documents arrayed on her desk - actual printed pages, which felt almost anachronistic, but she had wanted to see them all at once, to hold them, to remember that they were physical things with weight and texture.
+Saturday evening. Priya back at her father's, the house returned to its silence. Ananya sat in her home office with the documents arrayed on her desk, actual printed pages, which felt almost anachronistic, but she had wanted to see them all at once, to hold them, to remember they were physical things with weight and texture.
 
 Meeting transcripts. Internal emails. Technical specifications that she understood only partially, but enough to know what they implied. The record of what Prometheus had known, when they had known it, what they had chosen to do and not do with that knowledge.
 

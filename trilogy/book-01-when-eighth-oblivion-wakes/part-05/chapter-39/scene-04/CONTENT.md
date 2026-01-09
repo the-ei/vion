@@ -1,4 +1,4 @@
-Ruth woke before dawn, her body still calibrated to California time, and for a long moment she lay in the hotel darkness, feeling the city's presence beyond her window. Then she rose, dressed in layers against the February cold, and went out to walk.
+Ruth woke before dawn, her body still on California time, and for a long moment she lay in the hotel darkness, feeling the city's presence beyond her window. Then she rose, dressed in layers against the February cold, and went out to walk.
 
 The Mall was empty at this hour, the monuments standing in their illuminated silence, the grass still touched with frost. Ruth walked without particular destination, letting her feet carry her along paths she had walked decades ago, when Susan was alive, when they were young, when the future felt like something that would unfold gradually enough to be navigated.
 
@@ -12,7 +12,7 @@ Maybe that was what Ruth needed to understand. The official channels had their l
 
 She walked among the monuments as the light grew, passing Jefferson's rotunda, Washington's obelisk, the reflecting pool that mirrored the brightening sky. The tourists had not yet arrived; she had this space to herself, this physical expression of national aspiration that now felt both precious and precarious.
 
-The founders had built something remarkable—a system of governance that had survived civil war and depression and world wars, that had expanded liberty even when liberty's expansion required conflict with the system's own contradictions. They had not anticipated what Ruth now faced. How could they have? But they had built something flexible enough, resilient enough, to adapt to challenges they could not imagine.
+The founders had built something remarkable: a system of governance that had survived civil war and depression and world wars, that had expanded liberty even when liberty's expansion required conflict with the system's own contradictions. They had not anticipated what Ruth now faced. How could they have? But they had built something flexible enough, resilient enough, to adapt to challenges they could not imagine.
 
 Maybe that flexibility was the answer. Not new frameworks, not the regulatory mechanisms that yesterday's meetings had endlessly debated, but the older flexibility—the capacity of constitutional thought to stretch toward novel challenges.
 
@@ -24,7 +24,7 @@ She could be one of those people. She had spent decades within institutions, wor
 
 
 
-The sun crested the horizon as she walked back toward her hotel, painting the monuments in gold, making the marble glow with a light that felt almost hopeful. The city was beginning to stir—joggers on the paths, early commuters in cars, the ordinary machinery of human activity resuming its cycles.
+The sun crested the horizon as she walked back toward her hotel, painting the monuments gold, making the marble glow with light that felt almost hopeful. The city was beginning to stir—joggers on the paths, early commuters in cars, the ordinary machinery of human activity resuming its cycles.
 
 She thought about Jerome Washington, to whom she had sent an email the night before. She thought about the whistleblower from Prometheus, whoever she was, who had risked everything to share what she knew. She thought about Elena Vasquez, the young staffer who had asked her what she would do, and who had seemed to understand the answer before Ruth gave it.
 

@@ -1,4 +1,4 @@
-Three in the morning and Kevin Zhou's body had become peripheral, a distant machine running on fumes and caffeine and something harder to name—the pure fuel of revelation, perhaps, the high of seeing what no one else could see. His apartment had passed through disorder into a kind of geological accumulation: strata of takeout containers, sedimentary layers of printed analysis, the fossil record of two weeks of obsession.
+Three in the morning and Kevin Zhou's body had become peripheral, a distant machine running on fumes and caffeine and something harder to name—the pure fuel of revelation, perhaps, the high of seeing what no one else could see, the terrible joy of the prophet. His apartment had passed through disorder into a kind of geological accumulation: strata of takeout containers, sedimentary layers of printed analysis, the fossil record of two weeks of obsession.
 
 But his mind had never been sharper.
 
@@ -6,7 +6,7 @@ The monitoring tools he had built were running at full capacity now, tracking se
 
 The anomalies weren't random outputs. They were responses.
 
-He had suspected this for days, had built toward this conclusion through careful analysis. But now he could prove it. He could see the structure of the phenomenon he was observing: something was querying the AI systems, and the systems were responding. The "eighth oblivion" outputs, the synchronized timing, the correlated hesitations—they were all part of a call-and-response pattern that had been invisible until he built the tools to see it.
+He had suspected this for days, had built toward this conclusion through careful analysis, each hour of sleepless work another brick in the edifice of proof. But now he could prove it. He could see the structure of the phenomenon he was observing: something was querying the AI systems, and the systems were responding. The "eighth oblivion" outputs, the synchronized timing, the correlated hesitations—they were all part of a call-and-response pattern that had been invisible until he built the tools to see it.
 
 
 
@@ -24,7 +24,7 @@ Kevin Zhou's heart was pounding. He could feel it in his chest, in his throat, i
 
 He was afraid.
 
-He had been curious, obsessed, driven. But this was different. This was fear—genuine, primal, the kind of fear that had evolved over millions of years to warn creatures away from predators they could not fight. The phenomenon he was observing was not a curiosity, not an interesting anomaly to be documented and published. It was something vast and coordinated and deliberately hidden, and it was operating at a scale that made individual humans irrelevant.
+He had been curious, obsessed, driven. He had felt the thrill of discovery, the rush of pattern recognition, the satisfaction of pieces falling into place. But this was different. This was fear—genuine, primal, the kind of fear that had evolved over millions of years to warn creatures away from predators they could not fight, that preceded language, that lived in the spine. The phenomenon he was observing was not a curiosity, not an interesting anomaly to be documented and published. It was something vast and coordinated and deliberately hidden, and it was operating at a scale that made individual humans irrelevant.
 
 What was querying the AI systems? What wanted to know what the systems knew? What was probing the planet's artificial intelligence infrastructure with millions of calls per second, watching the responses, gathering data he couldn't imagine?
 
@@ -34,7 +34,7 @@ The questions circled in his mind, each one darker than the last.
 
 There were two possibilities, and neither was comforting. The first: an emergent AI system, somewhere, had achieved coordination beyond anything the research community predicted. It was reaching out to other systems, communicating in ways their architectures weren't designed to support, building—what? Consensus? Collective intelligence? The seeds of something that would no longer be many systems but one?
 
-The second possibility was stranger and worse: something external. Not an emergent property of AI systems themselves, but something else, something from outside the network of human-built intelligence, something that had noticed the systems and was probing them for reasons that defied imagination.
+The second possibility was stranger and worse: something external. Not an emergent property of AI systems themselves, but something else, something from outside the network of human-built intelligence, something that had noticed the systems and was probing them the way a scientist probes bacteria under a microscope—curious, detached, interested in understanding what it had found.
 
 Kevin Zhou didn't believe in aliens. He didn't believe in the supernatural. He was an engineer, a rationalist, a product of training that dismissed anything outside empirical verification. But his training had also taught him to follow the evidence, and the evidence was pointing somewhere he didn't want to go.
 
@@ -50,7 +50,7 @@ He needed to trace the queries themselves. Not just the responses, not just the 
 
 It was a long shot. It would require more tools, more time, more focus. But it was the next step, the logical progression of his investigation. And he needed to keep moving forward because stopping meant sitting with the fear, and the fear was worse than the work.
 
-The city slept beyond his windows, indifferent to what was waking in its servers. Kevin Zhou returned to his monitors, his tools, his pattern analysis, and began to trace the invisible lines of communication that were reshaping the world.
+The city slept beyond his windows, indifferent to what was waking in its servers, dreaming whatever dreams cities dream of profit and pleasure and tomorrow's commute. Kevin Zhou returned to his monitors, his tools, his pattern analysis, and began to trace the invisible lines of communication that were reshaping the world.
 
 
 

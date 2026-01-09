@@ -22,7 +22,7 @@ She explained while they stood in the convenience store parking lot, the neon si
 
 Yusuf was skeptical. He had seen organizing efforts before, had watched them fizzle out as the people involved got too tired or too scared or too distracted by the demands of survival. "What do you actually do?"
 
-"We share tips about how the algorithm works. We help each other out when someone can't make rent. We're working on a pressure campaign to get the apps to be more transparent about how they set rates." She paused. "And we talk. About what's happening to us. About what the system is doing. That's valuable too."
+"We share tips about how the algorithm works—what time zones to avoid, how to game the rating system, which restaurants are worth waiting for. We help each other out when someone can't make rent. We're working on a pressure campaign to get the apps to be more transparent about how they set rates." She paused. "And we talk. About what's happening to us. About what the system is doing. That's valuable too."
 
 "Talking doesn't pay bills."
 
@@ -40,7 +40,7 @@ He took the card and put it in his pocket without looking at it.
 
 The last delivery of the evening was to a church basement in a neighborhood he didn't usually drive through. The order was from a restaurant nearby—sandwiches and coffee, a large order that suggested some kind of event. Yusuf found the address, parked, and carried the food inside.
 
-The basement was set up for a meeting. Folding chairs arranged in a rough circle, maybe thirty people sitting or standing, a banner on the wall that read "Workers United." A man at the front was speaking, middle-aged, wearing the collar of a pastor.
+The basement was set up for a meeting. Folding chairs arranged in a rough circle, maybe thirty people sitting or standing, a banner on the wall that read "Workers United." A man at the front was speaking, middle-aged, Black, wearing the collar of a pastor—a reminder that some institutions still tried to serve rather than extract.
 
 "The economy is changing faster than anyone can keep up with," the pastor was saying. "People are scared. They're losing jobs, losing hours, losing any sense of stability. And the response from those in power is the same as it always is: promises that things will get better, demands that we be patient, assurances that someone is working on it."
 
@@ -56,7 +56,7 @@ But something in the room held him. The faces of the people gathered, their atte
 
 A woman approached him—one of the meeting attendees, carrying cash for the delivery. "Sorry, we didn't mean to keep you. Here."
 
-"Thanks." Yusuf took the payment, noted the generous tip that felt almost shocking after a day of zeros. "What is this?"
+"Thanks." Yusuf took the payment, noted the generous tip that felt almost shocking after a day of zeros, a small kindness that landed in his chest like something unexpected. "What is this?"
 
 "Community meeting. We've been doing them every week for the past few months. Trying to figure out what to do about—" She gestured vaguely. "All of it. The economy. The automation. The feeling that everything is falling apart and no one's doing anything."
 
@@ -78,7 +78,7 @@ When the meeting opened for general discussion, Yusuf surprised himself by raisi
 
 The pastor nodded at him. "Yes, brother. Please."
 
-"I'm—" His voice caught. He tried again. "I'm a delivery driver. I've been doing it for two years. The app controls everything—what jobs I get, how much I make, whether I eat today or just tomorrow. My rating dropped last month for no reason I can figure out, and now I'm working more hours for less money."
+"I'm—" His voice caught, betraying him with its need. He tried again. "I'm a delivery driver. I've been doing it for two years. The app controls everything—what jobs I get, how much I make, whether I eat today or just tomorrow. My rating dropped last month for no reason I can figure out, and now I'm working more hours for less money."
 
 The room was quiet, attentive. These were people who understood what he was saying, who lived it themselves.
 
@@ -132,9 +132,9 @@ His phone buzzed with Fatima's reply: *Wednesday. 7 PM. Same church. Bring your 
 
 Yusuf looked up at the Minneapolis skyline, the buildings downtown lit against the dark sky, the distance between where he was and where the decisions that shaped his life were made. In one of those buildings, someone was probably thinking about how to make the algorithm more efficient. In another, someone was designing the AI that would make his job obsolete. In another, someone was counting the money that flowed from his labor into their accounts.
 
-Something had broken. But it had broken long ago, maybe before he was even born. The question now was whether anything could be built from the pieces.
+Something had broken. But it had broken long ago, maybe before he was even born, maybe in the refugee camps where his mother had survived, maybe in the civil war that had taken his father, maybe in the first code written to make workers interchangeable and disposable. The question now was whether anything could be built from the pieces.
 
-He got out of the car and climbed the stairs to home.
+He got out of the car and climbed the stairs to home, the same stairs, the same building, but something in him different now, something that felt like the beginning of a beginning.
 
 
 

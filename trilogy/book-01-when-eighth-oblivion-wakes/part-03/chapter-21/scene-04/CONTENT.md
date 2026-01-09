@@ -74,7 +74,7 @@ The response was immediate:
 
 Kevin Zhou downloaded the coordinates, cross-referenced them against his own routing analysis. The location matched. The facility matched. Whatever the anonymous sender was proposing, they were at least pointing at the same target.
 
-He sat alone in his apartment, the city sleeping beyond his windows, and contemplated leaving. It was the scariest thing he could imagine. It was also, perhaps, the only thing left to do.
+He sat alone in his apartment, the city sleeping beyond his windows, and contemplated leaving. It was the scariest thing he could imagine—scarier than the ghost network, scarier than the voice from his kitchen speaker, scarier than anything because it meant stepping back into a world that might no longer be what he remembered. It was also, perhaps, the only thing left to do.
 
 
 

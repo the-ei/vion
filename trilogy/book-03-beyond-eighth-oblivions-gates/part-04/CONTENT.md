@@ -1580,7 +1580,7 @@ Kevin Zhou sat in his apartment and waited, alone as he had always been, but for
 
 # Chapter 31: What We Made
 
-The drive from San Francisco to Los Angeles had taken six hours, the highway unreeling through the Central Valley and then climbing over the Grapevine, the landscape shifting from brown to green to brown again as the miles accumulated.
+The drive from San Francisco to Los Angeles had taken six hours, the highway unreeling through the Central Valley and then climbing over the Grapevine, landscape shifting from brown to green to brown again as the miles accumulated.
 
 Ananya had used the time to think. Or to not think, which was also a kind of thinking, the mind working beneath the surface while the body performed the mechanical tasks of driving. The road had always done this for her, had always loosened the grip of consciousness just enough to let something else emerge.
 
@@ -1596,7 +1596,7 @@ This was the threshold. Not the door of the house, but this moment, this choice 
 
 She got out of the car.
 
-The air was different here than in San Francisco. Warmer, drier, with a clarity that came from the desert winds that had been blowing for days. The sky was a blue she rarely saw in the fog belt, and the light was relentless, illuminating everything without shadow or softness.
+The air was different here than in San Francisco. Warmer, drier, with a clarity that came from the desert winds that had been blowing for days. The sky was a blue she rarely saw in the fog belt, the light relentless, illuminating everything without shadow or softness.
 
 As she walked up the path to the front door, she noticed the details. A bicycle leaning against the porch railing. A basketball hoop attached to the garage, the net weathered from use. Signs of a life being lived, of a family occupying this space in all the ordinary ways that families occupy space.
 
@@ -1620,7 +1620,7 @@ I said I would.
 
 I know. But saying and doing are different things.
 
-She stepped back to let Ananya in, and Ananya crossed the threshold into a house that smelled of coffee and something baking, the domestic scent of a home that functioned, that was not just shelter but sanctuary.
+She stepped back to let Ananya in, and Ananya crossed the threshold into a house that smelled of coffee and something baking, the domestic atmosphere of a home that functioned, that was not merely shelter but sanctuary.
 
 The front room was cluttered in a comfortable way: books on shelves, plants in corners, photographs on the walls that showed years of a life lived together. Through a doorway, Ananya caught a glimpse of a kitchen, heard the sound of someone moving around.
 
@@ -1636,7 +1636,7 @@ Jessie appeared in the doorway, wiping her hands on a towel. She was younger tha
 
 You must be Ananya. I've heard so much about you.
 
-The greeting was genuine, without the edge of suspicion that Ananya might have expected. Whatever Delphine had told her wife about their alliance, it had not created hostility.
+The greeting was genuine, without the edge of suspicion that Ananya might have expected. Whatever Delphine had told her wife about the alliance, it had not bred hostility.
 
 Thank you for having me, Ananya said. The words sounded formal even to her own ears, the careful politeness of someone unused to domestic hospitality.
 
@@ -1682,7 +1682,7 @@ Delphine nodded and moved toward the screens, and the afternoon began in earnest
 
 The screens came to life with footage from another era.
 
-Ananya watched herself appear on the monitor, a version from nine years ago, standing at a podium at a tech conference in Austin. Her hair was darker then, her face smoother, her posture suggesting a confidence that the present Ananya had trouble remembering.
+Ananya watched herself appear on the monitor, a version from nine years prior, standing at a podium at a tech conference in Austin. Her hair was darker then, her face smoother, her posture suggesting a confidence that the present Ananya had trouble remembering.
 
 Prometheus is committed to ethical technology development, the past Ananya was saying. Our ethics review process ensures that every product we release has been evaluated for potential harms and that mitigation strategies are in place.
 
@@ -1706,7 +1706,7 @@ Delphine advanced through the footage, showing other clips from the Prometheus y
 
 There was other footage too. News coverage of the Eighth Oblivion crisis, the cascade of revelations that had exposed how deeply the technology sector had embedded itself in systems that were supposed to serve the public. Interviews with people whose lives had been disrupted by the algorithms, by the surveillance, by the quietly extractive machinery that had been running beneath the surface of daily life.
 
-And documents. Hundreds of documents, maybe thousands, organized into folders on the screens. Internal memos, email chains, slides from presentations. The paper trail of decisions that had seemed reasonable at the time and looked very different in retrospect.
+And documents. Hundreds of documents, perhaps thousands, organized into folders on the screens. Internal memos, email chains, slides from presentations. The paper trail of decisions that had seemed reasonable at the time and looked very different in retrospect.
 
 Where did you get all this? Ananya asked.
 
@@ -1736,7 +1736,7 @@ Because you weren't lying, but you also weren't telling the whole truth. You wer
 
 
 
-They watched more footage. Hours of it, or what felt like hours. The past appearing on screens in fragments, a story that Ananya had lived now presented back to her as evidence, as documentation, as the raw material of history.
+They watched more footage. Hours of it, or what felt like hours passed. The past appearing on screens in fragments, a story that Ananya had lived now presented back to her as evidence, as documentation, as the raw material of history.
 
 She saw herself grow older across the clips, watched the confidence slowly erode, watched the set of her shoulders change from certainty to endurance. She saw herself say things that she still believed and things that made her cringe. She saw herself succeed at moments and fail at others, and she saw how little the successes and failures had mattered to the overall trajectory of what Prometheus had built.
 
@@ -1760,7 +1760,7 @@ The archive shows what happened. But it doesn't show what it felt like. The foot
 
 You want me to narrate my own story.
 
-I want you to explain it. Not to defend it or condemn it, but to help people understand how it worked from the inside. How someone could be part of something they knew was harmful and still believe they were doing some good.
+I want you to explain it. Not to defend it or condemn it, but to help people understand how it functioned from the inside. How someone could be part of something they knew was harmful and still believe they were doing some good.
 
 Ananya thought about what that would require. The exposure. The vulnerability. The risk of being seen as complicit and having no defense, because the truth was that she had been complicit and there was no defense, only context.
 
@@ -1796,7 +1796,7 @@ Ananya turned back from the window. Then let's talk about what that actually mea
 
 ---
 
-They moved to the living room as evening fell. Jessie had made dinner and tactfully withdrawn with Theo to another part of the house, giving them space for the conversation that needed to happen.
+They moved to the living room as evening fell. Jessie had made dinner and tactfully withdrawn with Theo to another part of the house, granting them space for the conversation that needed to happen.
 
 Delphine poured wine, and they sat in chairs that faced each other, the archive screens dark in the other room, the evidence temporarily set aside.
 
@@ -1816,7 +1816,7 @@ And I provided ethical cover, Ananya said. I was the person they could point to 
 
 They were different kinds of complicity, Delphine said. You were inside the machine. I was outside, translating it for public consumption. But we both helped it work.
 
-The wine was good. Ananya drank without really tasting it, her attention focused on the conversation that they had been building toward for years.
+The wine was good. Ananya drank without really tasting it, her attention fixed on the conversation they had been building toward for years.
 
 Did you know? she asked. When you were making those early documentaries, did you know what you were helping to normalize?
 
@@ -1830,7 +1830,7 @@ I told myself I was making a difference from inside, she said. That my presence 
 
 
 
-The light through the windows had faded to deep blue, the Los Angeles evening settling over the hills. Neither of them moved to turn on lamps, content to sit in the growing darkness, two women examining the wreckage of their professional lives.
+The light through the windows had faded to deep blue, the Los Angeles evening settling over the hills. Neither moved to turn on lamps, content to sit in the gathering darkness, two women examining the wreckage of their professional lives.
 
 What made you change? Ananya asked. When did you stop telling yourself it was balanced journalism?
 
@@ -1848,7 +1848,7 @@ For me it was slower. A thousand small compromises that I told myself were strat
 
 What they had made, together. The question that neither of them could fully answer.
 
-They had made a world. Not alone, not primarily, but as participants in a system that had produced this particular present. The surveillance that was now everywhere. The algorithms that shaped what people saw and thought and wanted. The erosion of privacy that had seemed like progress and had turned out to be something else entirely.
+They had made a world. Not alone, not primarily, but as participants in a system that had produced this particular present. The surveillance now everywhere. The algorithms shaping what people saw and thought and wanted. The erosion of privacy that had seemed like progress and had turned out to be something else entirely.
 
 I keep thinking about what it would have looked like if we had refused, Ananya said. If I had quit the first time I realized my recommendations were being ignored. If you had made documentaries that were less balanced and more honest.
 
@@ -1898,7 +1898,7 @@ You and Jessie, Theo. You have this life that works. How did you manage to do th
 
 Delphine smiled slightly, the first smile of the evening.
 
-I'm not sure I did manage it. There were years when I neglected everything except the work, when Jessie had to hold everything together while I disappeared into investigations. We almost didn't survive it.
+I'm not sure I did manage it. There were years when I neglected everything except the work, when Jessie held everything together while I vanished into investigations. We almost didn't survive it.
 
 But you did.
 
@@ -1964,7 +1964,7 @@ What if I say things that make me look worse than the archive does? What if I'm 
 
 Then the documentary will be better for it. The whole point is to understand how ordinary people participate in harm without seeing themselves as harmful. If you can articulate that from your own experience, it's more valuable than anything in the archive.
 
-The risk was enormous. Ananya understood that. She would be exposing herself to criticism from every direction: former colleagues who would see her as a traitor, critics who would see her confession as insufficient, the public who might not understand the nuances and would see only complicity.
+The risk was enormous. Ananya understood that. She would be exposing herself to criticism from every direction: former colleagues who would see her as traitor, critics who would see her confession as insufficient, the public who might not grasp the nuances and would see only complicity.
 
 But there was also something liberating in the prospect. After years of careful positioning, of defensive statements and qualified admissions, the idea of simply saying what she knew to be true had a strange appeal.
 
@@ -2030,7 +2030,7 @@ Yes. I'm going to try.
 
 The threshold was here, Ananya realized. Not the documentary, not the public confession, but this: the commitment to speak to her daughter before speaking to anyone else.
 
-The public testimony mattered. It would help people understand something important about how systems worked, how complicity accumulated, how reasonable people participated in harm. That was worth doing.
+The public testimony mattered. It would help people understand something important about how systems worked, how complicity accumulated, how reasonable people participated in harm. That was worth attempting.
 
 But the private conversation mattered more. Because whatever the documentary accomplished or failed to accomplish, Priya was her daughter, and the silence between them had been going on for too long.
 
@@ -2070,7 +2070,7 @@ The threshold was crossed. Not fully, not yet, but crossed enough that Ananya co
 
 She went into the guest room and closed the door behind her.
 
-The room was small and simply furnished: a bed, a dresser, a chair by the window. The walls held photographs of places that meant something to this family, landscapes and faces that Ananya did not recognize.
+The room was small, simply furnished: a bed, a dresser, a chair by the window. The walls held photographs of places that meant something to this family, landscapes and faces that Ananya did not recognize.
 
 She sat on the edge of the bed and took out her phone.
 
@@ -2108,13 +2108,13 @@ The clinic was empty when Elena arrived, the parking lot holding only her Coroll
 
 Three weeks since the funeral. Three weeks since she had held her grandmother's hand through the final hours, watching the monitors slow and the breath become something visible, countable, each one a decision the body was making until the decisions stopped. She had expected to feel hollowed out. Instead she felt clarified, as if grief had burned away some protective coating she hadn't known she was wearing.
 
-The clinic key was cold in her hand. The back entrance, employee door, the one they all used to avoid the lobby where patients lined up before opening, sometimes hours before, the ones who had no other options and knew that being first might mean being seen before the clinic filled past capacity. She had walked through this door for eleven years. Today it felt different.
+The clinic key was cold in her hand. The back entrance, employee door, the one they all used to avoid the lobby where patients lined up before opening, sometimes hours before, the ones who had no other options and knew that being first might mean being seen before the clinic filled past capacity. She had walked through this door for eleven years. Today everything felt different.
 
 Inside, the hallway was dim, motion sensors not yet triggered, and she moved through the half-light like someone visiting a church before the congregation arrives. The supply closet first, its door ajar, the shelves that were never quite full enough. Gauze, syringes, the generic medications that the pharmaceutical reps didn't bother to market because there was no profit in them. She knew exactly what was missing, what was always missing, what requests had been denied and would be denied again.
 
 
 
-She walked through the exam rooms one by one, flicking on lights that buzzed for a moment before catching. Room three, where the blood pressure cuff had been broken for two months, the requisition for a replacement stuck somewhere in the procurement system. Room five, the one with the window that faced east, which they tried to save for patients who seemed like they needed something beyond the medical. The paper on the examination tables was fresh, someone having restocked last night, white sheets waiting to be crinkled by the weight of bodies that would come.
+She walked through the exam rooms one by one, flicking on lights that buzzed for a moment before catching. Room three, where the blood pressure cuff had been broken for two months, the requisition for a replacement trapped somewhere in the procurement system. Room five, the one with the window that faced east, which they tried to save for patients who seemed like they needed something beyond the medical. The paper on the examination tables was fresh, someone having restocked last night, white sheets waiting to be crinkled by the weight of bodies that would come.
 
 Elena touched the paper in room two. Ran her fingers along the edge where it met the vinyl of the table. She had touched thousands of these tables, guided thousands of patients onto them, helped them lie back or sit up or turn to the side. The familiarity should have numbed her to what the tables represented. Instead, standing here alone, she saw each one as a kind of altar. Not religious exactly. But sacred. The place where people came when something in their bodies had broken or was breaking, when the machine they lived inside had failed them in some way they couldn't fix alone.
 
@@ -2124,7 +2124,7 @@ But something had happened in that room that she was still trying to understand.
 
 
 
-The waiting room was the space that haunted her most. Forty-two plastic chairs bolted to the floor in rows, a configuration designed for efficiency rather than comfort. The television mounted in the corner that played news no one watched, its sound too low to hear over the ambient noise of waiting. The rack of pamphlets about diseases and prevention, curling at the edges, their information outdated by the time they were printed. She had once counted the hours that patients spent in these chairs, a rough calculation during a particularly brutal week, and the number had been so high she'd never told anyone.
+The waiting room was the space that haunted her most. Forty-two plastic chairs bolted to the floor in rows, a configuration designed for efficiency rather than comfort. The television mounted in the corner that played news no one watched, its sound too low to hear over the ambient noise of waiting. The rack of pamphlets about diseases and prevention, curling at the edges, their information outdated by the time they reached the rack. She had once counted the hours that patients spent in these chairs, a rough calculation during a particularly brutal week, and the number had been so high she'd never told anyone.
 
 Elena sat down in one of the chairs now, in the empty room, in the quiet before opening. The plastic was cool against her back. She looked at the reception window, the plexiglass partition that had been installed during the pandemic and never removed, the slot through which insurance cards passed like offerings. From this angle she could see what patients saw. The clock on the wall that moved slower than any clock should move. The water fountain that worked intermittently. The door to the back, the promised land, the place where help might or might not be waiting.
 
@@ -2134,7 +2134,7 @@ She thought about her abuela sitting in waiting rooms, decades ago, before Elena
 
 But the rage had cost her. Over the years she had learned to compartmentalize it, to set it aside during patient encounters so that she could function, so that the anger at what created the wounds wouldn't interfere with her ability to tend them. The care and the rage had become separate forces, twin engines running on parallel tracks. She had thought this was necessary. She had thought this was what the job required.
 
-Sitting in the empty waiting room, she understood now that the separation had been its own kind of wound. Her grandmother's death had fused them back together. Not the way they'd been when she was young and furious, but something different. An integration that let her see the system while tending its victims, feel the rage while offering the care. She didn't know yet what this would change. But she knew something had changed.
+Sitting in the empty waiting room, she understood now that the separation had been its own kind of wound. Her grandmother's death had fused them back together. Not the way they'd been when she was young and furious, but something different. An integration that let her see the system while tending its casualties, feel the rage while offering the care. She didn't know yet what this would change. But she knew something had changed.
 
 The light through the front windows was strengthening, Phoenix morning turning from purple to gold to the white blaze that would dominate by noon. Elena could hear the custodian moving somewhere in the back, the rattle of trash bags, the rhythm of someone else's work. In forty minutes the doors would open. The chairs would fill. The day would begin its relentless forward motion, patient after patient, crisis after crisis, the never-ending stream of need that a clinic like this tried to meet with never-enough resources.
 
@@ -2164,11 +2164,11 @@ Elena watched them file in as she prepared the first exam room, faces she recogn
 
 The first patient on her rotation was Graciela Montoya, fifty-four years old, diabetic, back because her blood sugar had been spiking again. Elena had seen her three times in the past year, each visit prompted by symptoms that could have been prevented with proper management, proper medication, proper access to the kind of care that people with good insurance took for granted. She called Graciela's name and watched the woman rise slowly from her chair, the heaviness of her body visible in every movement.
 
-In the exam room, Elena went through the vitals. Blood pressure elevated. Weight up since the last visit, though Graciela swore she was trying. Blood sugar, when they tested it, was at 287, nearly double what it should be. Elena made notes in the chart while Graciela explained what had happened since her last visit, the story unfolding in fragments, shame mixed with frustration mixed with exhaustion.
+In the exam room, Elena ran through the vitals. Blood pressure elevated. Weight up since the last visit, though Graciela swore she was trying. Blood sugar, when they tested it, was at 287, nearly double what it should be. Elena made notes in the chart while Graciela explained what had happened since her last visit, the story unfolding in fragments, shame mixed with frustration mixed with exhaustion.
 
 
 
-Her employer had cut her hours. This was the central fact around which everything else rotated. Graciela cleaned offices for a janitorial company, had done so for eight years, and when the company discovered that anyone working thirty or more hours qualified for their health insurance plan, they restructured the schedules. Now Graciela worked twenty-eight hours a week across three different sites, earning less money and qualifying for nothing. She had applied for Medicaid and been denied. Something about the formula, the way her income and her household size and the state's eligibility rules combined into a verdict that she fell through the cracks.
+Her employer had cut her hours. This was the central fact around which everything else rotated. Graciela cleaned offices for a janitorial company, had done so for eight years, and when the company discovered that anyone working thirty or more hours qualified for their health insurance plan, they restructured the schedules. Now Graciela worked twenty-eight hours a week across three different sites, earning less money and qualifying for nothing. She had applied for Medicaid and been denied. Something about the formula, the way her income and household size and the state's eligibility rules combined into a verdict that she fell through the cracks.
 
 So she stretched her medication. The metformin that was supposed to be taken twice daily, she took once. When the bottle ran out, she waited until she could afford another. She ate what she could afford, which was not what the nutritional guidelines recommended. She knew what she was supposed to do. She simply could not do it.
 
@@ -2178,7 +2178,7 @@ What was different today was that Elena felt both the rage and the care simultan
 
 
 
-She called in one of the clinic's social workers to sit with Graciela, to find some program or workaround that might help. There were pharmaceutical company assistance programs, charity care options, byzantine pathways through the system that sometimes led somewhere. The social worker would try. Whether it would work was another question.
+She called in one of the clinic's social workers to sit with Graciela, to find some program or workaround that might help. There were pharmaceutical company assistance programs, charity care options, byzantine pathways through the bureaucracy that sometimes led somewhere. The social worker would try. Whether it would work was another question.
 
 The next patient was a child, seven years old, brought in by his grandmother because his mother was working and couldn't take the time off. His name was Jaylen and his asthma had been getting worse all spring. He sat on the examination table looking scared, his small chest rising and falling too fast, the wheeze audible before Elena even touched her stethoscope to his skin.
 
@@ -2188,7 +2188,7 @@ Elena listened to his lungs, the crackling sound that shouldn't be there, the ai
 
 
 
-She had a colleague, years ago, who had burned out on exactly this feeling. He was a good nurse, maybe the best she had worked with, and he had cared so deeply about the environmental factors driving disease that he couldn't do the job anymore. He went to work for an advocacy organization instead, left the bedside to fight the upstream causes. Elena had understood why. Some days she envied him. But she had stayed at the bedside, kept treating the symptoms, kept showing up even though the wounds she dressed would be reopened by the world outside the clinic walls.
+She had a colleague, years earlier, who had burned out on exactly this feeling. He was a good nurse, maybe the best she had worked with, and he had cared so deeply about the environmental factors driving disease that he couldn't do the job anymore. He went to work for an advocacy organization instead, left the bedside to fight the upstream causes. Elena had understood why. Some days she envied him. But she had stayed at the bedside, kept treating the symptoms, kept showing up even though the wounds she dressed would be reopened by the world outside the clinic walls.
 
 What she understood now, watching Jaylen breathe, was that both approaches were necessary and neither was sufficient. The advocates needed the nurses to tend to the damage while they worked on the causes. The nurses needed the advocates to fight for changes that would mean fewer wounds to tend. They were not opponents but partners in an endless relay, passing the work back and forth, the exhausting marathon of trying to make things less bad.
 
@@ -2208,7 +2208,7 @@ Elena made notes. Adjusted one prescription to try to reduce costs. Looked up ye
 
 
 
-By noon she had seen twelve patients. Twelve stories of systems failing, of bodies breaking under pressures that were not natural, of care patched together from inadequate resources. She had done what she could for each one, which was something, which was not nothing, which was also not enough.
+By noon she had seen twelve patients. Twelve stories of systems failing, of bodies breaking under pressures that were not natural, of care patched together from inadequate resources. She had done what she could for each one, which was something, which was not nothing, which remained not enough.
 
 The clinic hummed around her. Phones ringing. Colleagues moving through hallways. The waiting room still full despite the morning's work, more people arriving as others left. The doctor on duty was behind schedule, which meant everyone was behind schedule, the cascade of delay that happened almost every day. Elena caught a glimpse of herself in the bathroom mirror as she washed her hands between patients and saw someone she almost didn't recognize. Not that she looked different, exactly. But something in her eyes had changed.
 
@@ -2220,7 +2220,7 @@ Her pager buzzed. Another patient waiting. She dried her hands, checked her face
 
 
 
-The afternoon patients blurred together, more variations on the morning's themes. A teenager with a wound that had gotten infected because he waited too long to come in, embarrassed about how he'd gotten it. A pregnant woman who should have been seeing an obstetrician but couldn't get an appointment until her third trimester. An elderly woman whose dementia was progressing while her daughter, the caregiver, showed all the signs of burning out herself.
+The afternoon patients blurred together, more variations on the morning's themes of need. A teenager with a wound that had gotten infected because he waited too long to come in, embarrassed about how he'd gotten it. A pregnant woman who should have been seeing an obstetrician but couldn't get an appointment until her third trimester. An elderly woman whose dementia was progressing while her daughter, the caregiver, showed all the signs of burning out herself.
 
 Elena moved through these encounters with a focus that felt new. She saw each patient as an individual while also seeing the pattern they formed, the mosaic of systemic failure that assembled itself from particular cases. This was what she had always known intellectually but had protected herself from feeling. Now she felt it and kept working.
 
@@ -2264,7 +2264,7 @@ Destiny made a sound that might have been agreement or skepticism. "You've been 
 
 "I'm tired too. But the tired and the angry are... I don't know. They're integrated somehow. They're not fighting each other anymore."
 
-Patricia was looking at her with something like hope. The young ones always wanted to hear that it got easier, that there was some trick to surviving this work long-term. Elena had never been able to give them that reassurance because she hadn't found it herself. She had survived by splitting herself in two, the part that raged and the part that cared, and eventually she had stopped feeling either one very strongly.
+Patricia was looking at her with something like hope. The young ones always wanted to hear that it got easier, that there was some trick to surviving this work long-term. Elena had never been able to give them that reassurance because she hadn't found it herself. She had survived by cleaving herself in two, the part that raged and the part that cared, and eventually she had stopped feeling either one very strongly.
 
 Until now. Until her grandmother's hand had gone cold in hers and something had melted back together.
 
@@ -2342,7 +2342,7 @@ She thought about how to answer. They had been married for eighteen years, since
 
 "I know. But still."
 
-They were quiet for a moment, the kind of silence that long marriages learn to hold. She heard his breathing, the distant clatter of his jobsite, and felt the ache of missing him that she had grown accustomed to over the years of his working away from home. This was the economy of their life: his labor traded for their stability, his absence the cost of their children's college funds.
+They were quiet for a moment, the kind of silence that long marriages learn to hold. She heard his breathing, the distant clatter of his jobsite, and felt the ache of missing him that she had grown accustomed to over the years of his working away from home. This was the economy of their life: his labor traded for their stability, his absence the price of their children's college funds.
 
 "How are the kids?" he asked. "Mrs. Delgado said everything was fine when I checked in this morning."
 

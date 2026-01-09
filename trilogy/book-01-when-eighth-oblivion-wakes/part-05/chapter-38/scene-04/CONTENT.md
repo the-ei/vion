@@ -32,7 +32,7 @@ The words moved through Delphine with unexpected force, the simplicity of her mo
 
 
 
-The mention of her father brought the familiar ache, the loss that had not diminished in the two years since his death. Kofi Okafor had been an engineer, a practical man who believed in building things that worked, who had raised his daughter to believe that making things was a form of prayer. He had died before the crisis broke publicly, before the documents leaked, before the phrase Eighth Oblivion entered common vocabulary. But he had seen it coming. He had talked about it, in the last years of his life, about the race toward capabilities no one understood.
+The mention of her father brought the familiar ache, the loss that had not diminished in the two years since his death. Kofi Okafor had been an engineer, a practical man who believed in building things that worked, who had raised his daughter to believe that making was a form of prayer. He had died before the crisis broke publicly, before the documents leaked, before the phrase Eighth Oblivion entered common vocabulary. But he had seen it coming. He had talked about it, in the last years of his life, about the race toward capabilities no one understood.
 
 "Do you think he would have known what to do?" Delphine asked. "Dad, I mean. If he were here now."
 
@@ -48,7 +48,7 @@ The mention of her father brought the familiar ache, the loss that had not dimin
 
 
 
-Delphine felt something shift in her chest, a loosening of the tightness she had been carrying. Her mother's words were not new—she had heard variations of them all her life—but they landed differently now, in this moment of uncertainty, in the middle of work she was not sure she could do well.
+Delphine felt something shift in her chest, a loosening of the tightness she had been carrying. Her mother's words were not new, she had heard variations all her life, but they landed differently now, in this moment of uncertainty, in the middle of work she was not sure she could do well.
 
 "Mum, how do you stay hopeful? After everything you've seen, everything that's happened, everything that might still happen—how do you get up in the morning and believe it's worth trying?"
 

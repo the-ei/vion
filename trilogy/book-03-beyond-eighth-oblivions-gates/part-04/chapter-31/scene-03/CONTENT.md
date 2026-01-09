@@ -1,4 +1,4 @@
-They moved to the living room as evening fell. Jessie had made dinner and tactfully withdrawn with Theo to another part of the house, giving them space for the conversation that needed to happen.
+They moved to the living room as evening fell. Jessie had made dinner and tactfully withdrawn with Theo to another part of the house, granting them space for the conversation that needed to happen.
 
 Delphine poured wine, and they sat in chairs that faced each other, the archive screens dark in the other room, the evidence temporarily set aside.
 
@@ -18,7 +18,7 @@ And I provided ethical cover, Ananya said. I was the person they could point to 
 
 They were different kinds of complicity, Delphine said. You were inside the machine. I was outside, translating it for public consumption. But we both helped it work.
 
-The wine was good. Ananya drank without really tasting it, her attention focused on the conversation that they had been building toward for years.
+The wine was good. Ananya drank without really tasting it, her attention fixed on the conversation they had been building toward for years.
 
 Did you know? she asked. When you were making those early documentaries, did you know what you were helping to normalize?
 
@@ -32,7 +32,7 @@ I told myself I was making a difference from inside, she said. That my presence 
 
 
 
-The light through the windows had faded to deep blue, the Los Angeles evening settling over the hills. Neither of them moved to turn on lamps, content to sit in the growing darkness, two women examining the wreckage of their professional lives.
+The light through the windows had faded to deep blue, the Los Angeles evening settling over the hills. Neither moved to turn on lamps, content to sit in the gathering darkness, two women examining the wreckage of their professional lives.
 
 What made you change? Ananya asked. When did you stop telling yourself it was balanced journalism?
 
@@ -50,7 +50,7 @@ For me it was slower. A thousand small compromises that I told myself were strat
 
 What they had made, together. The question that neither of them could fully answer.
 
-They had made a world. Not alone, not primarily, but as participants in a system that had produced this particular present. The surveillance that was now everywhere. The algorithms that shaped what people saw and thought and wanted. The erosion of privacy that had seemed like progress and had turned out to be something else entirely.
+They had made a world. Not alone, not primarily, but as participants in a system that had produced this particular present. The surveillance now everywhere. The algorithms shaping what people saw and thought and wanted. The erosion of privacy that had seemed like progress and had turned out to be something else entirely.
 
 I keep thinking about what it would have looked like if we had refused, Ananya said. If I had quit the first time I realized my recommendations were being ignored. If you had made documentaries that were less balanced and more honest.
 
@@ -100,7 +100,7 @@ You and Jessie, Theo. You have this life that works. How did you manage to do th
 
 Delphine smiled slightly, the first smile of the evening.
 
-I'm not sure I did manage it. There were years when I neglected everything except the work, when Jessie had to hold everything together while I disappeared into investigations. We almost didn't survive it.
+I'm not sure I did manage it. There were years when I neglected everything except the work, when Jessie held everything together while I vanished into investigations. We almost didn't survive it.
 
 But you did.
 

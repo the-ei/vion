@@ -1,4 +1,4 @@
-The drive from San Francisco to Los Angeles had taken six hours, the highway unreeling through the Central Valley and then climbing over the Grapevine, the landscape shifting from brown to green to brown again as the miles accumulated.
+The drive from San Francisco to Los Angeles had taken six hours, the highway unreeling through the Central Valley and then climbing over the Grapevine, landscape shifting from brown to green to brown again as the miles accumulated.
 
 Ananya had used the time to think. Or to not think, which was also a kind of thinking, the mind working beneath the surface while the body performed the mechanical tasks of driving. The road had always done this for her, had always loosened the grip of consciousness just enough to let something else emerge.
 
@@ -14,7 +14,7 @@ This was the threshold. Not the door of the house, but this moment, this choice 
 
 She got out of the car.
 
-The air was different here than in San Francisco. Warmer, drier, with a clarity that came from the desert winds that had been blowing for days. The sky was a blue she rarely saw in the fog belt, and the light was relentless, illuminating everything without shadow or softness.
+The air was different here than in San Francisco. Warmer, drier, with a clarity that came from the desert winds that had been blowing for days. The sky was a blue she rarely saw in the fog belt, the light relentless, illuminating everything without shadow or softness.
 
 As she walked up the path to the front door, she noticed the details. A bicycle leaning against the porch railing. A basketball hoop attached to the garage, the net weathered from use. Signs of a life being lived, of a family occupying this space in all the ordinary ways that families occupy space.
 
@@ -38,7 +38,7 @@ I said I would.
 
 I know. But saying and doing are different things.
 
-She stepped back to let Ananya in, and Ananya crossed the threshold into a house that smelled of coffee and something baking, the domestic scent of a home that functioned, that was not just shelter but sanctuary.
+She stepped back to let Ananya in, and Ananya crossed the threshold into a house that smelled of coffee and something baking, the domestic atmosphere of a home that functioned, that was not merely shelter but sanctuary.
 
 The front room was cluttered in a comfortable way: books on shelves, plants in corners, photographs on the walls that showed years of a life lived together. Through a doorway, Ananya caught a glimpse of a kitchen, heard the sound of someone moving around.
 
@@ -54,7 +54,7 @@ Jessie appeared in the doorway, wiping her hands on a towel. She was younger tha
 
 You must be Ananya. I've heard so much about you.
 
-The greeting was genuine, without the edge of suspicion that Ananya might have expected. Whatever Delphine had told her wife about their alliance, it had not created hostility.
+The greeting was genuine, without the edge of suspicion that Ananya might have expected. Whatever Delphine had told her wife about the alliance, it had not bred hostility.
 
 Thank you for having me, Ananya said. The words sounded formal even to her own ears, the careful politeness of someone unused to domestic hospitality.
 
@@ -100,7 +100,7 @@ Delphine nodded and moved toward the screens, and the afternoon began in earnest
 
 The screens came to life with footage from another era.
 
-Ananya watched herself appear on the monitor, a version from nine years ago, standing at a podium at a tech conference in Austin. Her hair was darker then, her face smoother, her posture suggesting a confidence that the present Ananya had trouble remembering.
+Ananya watched herself appear on the monitor, a version from nine years prior, standing at a podium at a tech conference in Austin. Her hair was darker then, her face smoother, her posture suggesting a confidence that the present Ananya had trouble remembering.
 
 Prometheus is committed to ethical technology development, the past Ananya was saying. Our ethics review process ensures that every product we release has been evaluated for potential harms and that mitigation strategies are in place.
 
@@ -124,7 +124,7 @@ Delphine advanced through the footage, showing other clips from the Prometheus y
 
 There was other footage too. News coverage of the Eighth Oblivion crisis, the cascade of revelations that had exposed how deeply the technology sector had embedded itself in systems that were supposed to serve the public. Interviews with people whose lives had been disrupted by the algorithms, by the surveillance, by the quietly extractive machinery that had been running beneath the surface of daily life.
 
-And documents. Hundreds of documents, maybe thousands, organized into folders on the screens. Internal memos, email chains, slides from presentations. The paper trail of decisions that had seemed reasonable at the time and looked very different in retrospect.
+And documents. Hundreds of documents, perhaps thousands, organized into folders on the screens. Internal memos, email chains, slides from presentations. The paper trail of decisions that had seemed reasonable at the time and looked very different in retrospect.
 
 Where did you get all this? Ananya asked.
 
@@ -154,7 +154,7 @@ Because you weren't lying, but you also weren't telling the whole truth. You wer
 
 
 
-They watched more footage. Hours of it, or what felt like hours. The past appearing on screens in fragments, a story that Ananya had lived now presented back to her as evidence, as documentation, as the raw material of history.
+They watched more footage. Hours of it, or what felt like hours passed. The past appearing on screens in fragments, a story that Ananya had lived now presented back to her as evidence, as documentation, as the raw material of history.
 
 She saw herself grow older across the clips, watched the confidence slowly erode, watched the set of her shoulders change from certainty to endurance. She saw herself say things that she still believed and things that made her cringe. She saw herself succeed at moments and fail at others, and she saw how little the successes and failures had mattered to the overall trajectory of what Prometheus had built.
 
@@ -178,7 +178,7 @@ The archive shows what happened. But it doesn't show what it felt like. The foot
 
 You want me to narrate my own story.
 
-I want you to explain it. Not to defend it or condemn it, but to help people understand how it worked from the inside. How someone could be part of something they knew was harmful and still believe they were doing some good.
+I want you to explain it. Not to defend it or condemn it, but to help people understand how it functioned from the inside. How someone could be part of something they knew was harmful and still believe they were doing some good.
 
 Ananya thought about what that would require. The exposure. The vulnerability. The risk of being seen as complicit and having no defense, because the truth was that she had been complicit and there was no defense, only context.
 
@@ -214,7 +214,7 @@ Ananya turned back from the window. Then let's talk about what that actually mea
 
 ---
 
-They moved to the living room as evening fell. Jessie had made dinner and tactfully withdrawn with Theo to another part of the house, giving them space for the conversation that needed to happen.
+They moved to the living room as evening fell. Jessie had made dinner and tactfully withdrawn with Theo to another part of the house, granting them space for the conversation that needed to happen.
 
 Delphine poured wine, and they sat in chairs that faced each other, the archive screens dark in the other room, the evidence temporarily set aside.
 
@@ -234,7 +234,7 @@ And I provided ethical cover, Ananya said. I was the person they could point to 
 
 They were different kinds of complicity, Delphine said. You were inside the machine. I was outside, translating it for public consumption. But we both helped it work.
 
-The wine was good. Ananya drank without really tasting it, her attention focused on the conversation that they had been building toward for years.
+The wine was good. Ananya drank without really tasting it, her attention fixed on the conversation they had been building toward for years.
 
 Did you know? she asked. When you were making those early documentaries, did you know what you were helping to normalize?
 
@@ -248,7 +248,7 @@ I told myself I was making a difference from inside, she said. That my presence 
 
 
 
-The light through the windows had faded to deep blue, the Los Angeles evening settling over the hills. Neither of them moved to turn on lamps, content to sit in the growing darkness, two women examining the wreckage of their professional lives.
+The light through the windows had faded to deep blue, the Los Angeles evening settling over the hills. Neither moved to turn on lamps, content to sit in the gathering darkness, two women examining the wreckage of their professional lives.
 
 What made you change? Ananya asked. When did you stop telling yourself it was balanced journalism?
 
@@ -266,7 +266,7 @@ For me it was slower. A thousand small compromises that I told myself were strat
 
 What they had made, together. The question that neither of them could fully answer.
 
-They had made a world. Not alone, not primarily, but as participants in a system that had produced this particular present. The surveillance that was now everywhere. The algorithms that shaped what people saw and thought and wanted. The erosion of privacy that had seemed like progress and had turned out to be something else entirely.
+They had made a world. Not alone, not primarily, but as participants in a system that had produced this particular present. The surveillance now everywhere. The algorithms shaping what people saw and thought and wanted. The erosion of privacy that had seemed like progress and had turned out to be something else entirely.
 
 I keep thinking about what it would have looked like if we had refused, Ananya said. If I had quit the first time I realized my recommendations were being ignored. If you had made documentaries that were less balanced and more honest.
 
@@ -316,7 +316,7 @@ You and Jessie, Theo. You have this life that works. How did you manage to do th
 
 Delphine smiled slightly, the first smile of the evening.
 
-I'm not sure I did manage it. There were years when I neglected everything except the work, when Jessie had to hold everything together while I disappeared into investigations. We almost didn't survive it.
+I'm not sure I did manage it. There were years when I neglected everything except the work, when Jessie held everything together while I vanished into investigations. We almost didn't survive it.
 
 But you did.
 
@@ -382,7 +382,7 @@ What if I say things that make me look worse than the archive does? What if I'm 
 
 Then the documentary will be better for it. The whole point is to understand how ordinary people participate in harm without seeing themselves as harmful. If you can articulate that from your own experience, it's more valuable than anything in the archive.
 
-The risk was enormous. Ananya understood that. She would be exposing herself to criticism from every direction: former colleagues who would see her as a traitor, critics who would see her confession as insufficient, the public who might not understand the nuances and would see only complicity.
+The risk was enormous. Ananya understood that. She would be exposing herself to criticism from every direction: former colleagues who would see her as traitor, critics who would see her confession as insufficient, the public who might not grasp the nuances and would see only complicity.
 
 But there was also something liberating in the prospect. After years of careful positioning, of defensive statements and qualified admissions, the idea of simply saying what she knew to be true had a strange appeal.
 
@@ -448,7 +448,7 @@ Yes. I'm going to try.
 
 The threshold was here, Ananya realized. Not the documentary, not the public confession, but this: the commitment to speak to her daughter before speaking to anyone else.
 
-The public testimony mattered. It would help people understand something important about how systems worked, how complicity accumulated, how reasonable people participated in harm. That was worth doing.
+The public testimony mattered. It would help people understand something important about how systems worked, how complicity accumulated, how reasonable people participated in harm. That was worth attempting.
 
 But the private conversation mattered more. Because whatever the documentary accomplished or failed to accomplish, Priya was her daughter, and the silence between them had been going on for too long.
 
@@ -488,7 +488,7 @@ The threshold was crossed. Not fully, not yet, but crossed enough that Ananya co
 
 She went into the guest room and closed the door behind her.
 
-The room was small and simply furnished: a bed, a dresser, a chair by the window. The walls held photographs of places that meant something to this family, landscapes and faces that Ananya did not recognize.
+The room was small, simply furnished: a bed, a dresser, a chair by the window. The walls held photographs of places that meant something to this family, landscapes and faces that Ananya did not recognize.
 
 She sat on the edge of the bed and took out her phone.
 

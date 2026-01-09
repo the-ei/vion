@@ -230,7 +230,7 @@ The two brothers are finally called after he has been sitting for nearly two hou
 
 Yusuf's phone buzzes. A text from Amina: Quiz went good. Probably got an A. The mundane triumph of it makes him smile. He types back: Probably? and receives a string of eye-roll emojis in response. This is their language, the shorthand of siblings who have learned to communicate in fragments.
 
-He thinks about what Amina's life will be like after college. He hopes it will involve waiting rooms less.
+He thinks about what Amina's life will be like after college. He hopes it will involve waiting rooms less. He hopes she will be the one who is waited for.
 
 
 
@@ -246,7 +246,7 @@ Elena has returned to the door, preparing to call the next patient, but she catc
 
 His mother hands him a paper. Four medications, two of them new. The generic versions will run about two hundred dollars a month. The brand names would be more. They do not have insurance that covers brand names. They do not have insurance that covers much of anything.
 
-"We'll figure it out," Yusuf says, and the words are hollow but necessary.
+"We'll figure it out," Yusuf says, and the words are hollow but necessary, the kind of words families say when the truth is too heavy to carry in conversation.
 
 "We always do," his mother answers.
 
@@ -270,7 +270,7 @@ His mother does not answer immediately. She watches the desert pass outside her 
 
 "I have been scared before," she finally says. "This is not the worst thing I have survived."
 
-It is not a yes and it is not a no. It is the truth.
+It is not a yes and it is not a no. It is the truth, the only kind of answer someone who has survived what she has survived can give.
 
 
 
@@ -320,7 +320,7 @@ Knowing it is good feels dangerous.
 
 He has learned to be careful with hope, to ration it the way you ration water in a desert. His father had hopes. His father believed that hard work would lead somewhere, that America rewarded those who tried, that the warehouse job was a stepping stone to something better. His father's hopes died with him on a concrete floor, crushed beneath shelving that should have been repaired months earlier. Yusuf does not want to believe in things that can be crushed.
 
-But the music.
+But the music. The music is different.
 
 He adds a new layer: a recording of his own breath, captured one morning when he was running late, his body tight with the stress of time and money and the algorithm's judgment. He stretches the breath into something long and cyclical, a drone beneath the percussion, a reminder that all of this is being produced by a body, a human body, a body that is not a machine despite what the apps might prefer.
 
@@ -366,7 +366,7 @@ The thought carries him into sleep, a small defiance held close like a candle in
 
 Tomorrow will come regardless.
 
-Tonight he dreams of frequencies.
+Tonight, for once, he dreams of frequencies instead of timers.
 
 
 

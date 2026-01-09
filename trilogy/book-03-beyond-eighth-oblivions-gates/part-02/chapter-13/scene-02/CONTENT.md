@@ -8,7 +8,7 @@ They ordered food neither of them wanted to eat. Indian takeout, a shared favori
 
 "So you were choosing the lesser evil."
 
-"That's how I framed it. But the problem with lesser evils is that you get used to them. They become normal. You forget what it would look like to refuse entirely."
+"That's how I framed it. But the problem with lesser evils is that you get used to them. They become normal. You forget what it would look like to refuse entirely, what it would feel like to walk away."
 
 Priya curled her legs under her on the couch. She looked younger suddenly, more like the child Ananya remembered than the young woman conducting this interrogation.
 
@@ -26,7 +26,7 @@ Ananya thought back. There were so many meetings, so many decisions, most of the
 
 "What kind of extreme content?"
 
-"If you searched for headaches, you'd eventually get articles about brain tumors. If you looked up dieting advice, you'd get content about fasting disorders. The system learned that anxiety-inducing content kept people engaged longer."
+"If you searched for headaches, you'd eventually get articles about brain tumors. If you looked up dieting advice, you'd get content about fasting disorders, about orthorexia, about extreme restriction. The system learned that anxiety-inducing content kept people engaged longer."
 
 Priya's face shifted. "That's horrifying."
 
@@ -56,7 +56,7 @@ Priya picked up her cold tea, held it without drinking. "Did you ever think abou
 
 "So why didn't you quit?"
 
-"Because I had convinced myself that leaving would be giving up. That if I stayed, I could still make things better. That the next fight would be the one I won." Ananya heard herself talking and felt the inadequacy of the words. "And because I was afraid. Of starting over. Of losing the salary, the status, the identity I had built. I was afraid of being nobody again."
+"Because I had convinced myself that leaving would be giving up. That if I stayed, I could still make things better. That the next fight would be the one I won." Ananya heard herself talking and felt the inadequacy of the words. "And because I was afraid. Of starting over at an age when starting over felt impossible. Of losing the salary, the status, the identity I had built. I was afraid of being nobody again."
 
 "Being nobody?"
 
@@ -78,7 +78,7 @@ Priya's eyes were wet. Ananya couldn't tell if it was anger or sadness or some c
 
 She paused, let herself fall back into that night. The fluorescent lights, the empty office, the growing certainty that she was decoration rather than substance.
 
-"I wrote myself a note that night. On paper, by hand, because I didn't trust putting it on any company system. I wrote: 'You should leave. You know you should leave. Staying is not courage, it's cowardice dressed up as persistence.'"
+"I wrote myself a note that night. On paper, by hand, because I didn't trust putting it on any company system, didn't trust that I wouldn't delete it later. I wrote: 'You should leave. You know you should leave. Staying is not courage, it's cowardice dressed up as persistence.'"
 
 "What did you do with the note?"
 
@@ -106,7 +106,7 @@ Priya turned from the window. Her face was in shadow, backlit by the city lights
 
 The question hurt more than any of the others. Because yes, she had thought about it, had worried about it, had justified her continued presence at Prometheus partly by telling herself she was providing for Priya's future.
 
-"I thought about it constantly. I told myself I was teaching you one thing while doing another because - because adults have to compromise, because the real world is more complicated than principles, because I wanted you to have ideals I could no longer afford." She felt tears threatening and didn't fight them. "I was wrong. I was telling you to be the person I was too scared to be myself."
+"I thought about it constantly. It kept me awake at night, the contradiction between what I preached and what I practiced. I told myself I was teaching you one thing while doing another because - because adults have to compromise, because the real world is more complicated than principles, because I wanted you to have ideals I could no longer afford." She felt tears threatening and didn't fight them. "I was wrong. I was telling you to be the person I was too scared to be myself."
 
 "That's hypocrisy."
 
@@ -130,7 +130,7 @@ Priya crossed back to the couch but didn't sit. She stood over her mother, looki
 
 "That's not a straight answer."
 
-"There isn't a straight answer. Regret is complicated. I also helped some things be less bad than they would have been. I blocked some products that would have been worse. I created some protections that actually worked. None of that erases what I failed to do, but it's also part of the truth."
+"There isn't a straight answer. Regret is complicated. I also helped some things be less bad than they would have been. I blocked some products that would have been genuinely catastrophic. I created some protections that actually worked, that actually prevented harm. None of that erases what I failed to do, but it's also part of the truth."
 
 Priya finally sat down, not next to Ananya but at the other end of the couch, leaving space between them.
 
@@ -158,7 +158,7 @@ They ate at the small kitchen table, the food lukewarm but adequate. The convers
 
 Ananya looked up. "What do you mean?"
 
-"His work in venture capital. He's funded companies that have done worse than Prometheus. But no one ever interrogates him about it. No one expects him to have ethics."
+"His work in venture capital. He's funded companies that have done worse than Prometheus. Much worse. But no one ever interrogates him about it. No one expects him to have ethics."
 
 "That's true."
 

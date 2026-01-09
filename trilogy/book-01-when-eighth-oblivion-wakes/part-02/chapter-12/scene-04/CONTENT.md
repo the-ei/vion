@@ -24,7 +24,7 @@ Knowing it is good feels dangerous.
 
 He has learned to be careful with hope, to ration it the way you ration water in a desert. His father had hopes. His father believed that hard work would lead somewhere, that America rewarded those who tried, that the warehouse job was a stepping stone to something better. His father's hopes died with him on a concrete floor, crushed beneath shelving that should have been repaired months earlier. Yusuf does not want to believe in things that can be crushed.
 
-But the music.
+But the music. The music is different.
 
 He adds a new layer: a recording of his own breath, captured one morning when he was running late, his body tight with the stress of time and money and the algorithm's judgment. He stretches the breath into something long and cyclical, a drone beneath the percussion, a reminder that all of this is being produced by a body, a human body, a body that is not a machine despite what the apps might prefer.
 
@@ -70,7 +70,7 @@ The thought carries him into sleep, a small defiance held close like a candle in
 
 Tomorrow will come regardless.
 
-Tonight he dreams of frequencies.
+Tonight, for once, he dreams of frequencies instead of timers.
 
 
 

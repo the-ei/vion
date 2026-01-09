@@ -4,11 +4,11 @@ Elena watched them file in as she prepared the first exam room, faces she recogn
 
 The first patient on her rotation was Graciela Montoya, fifty-four years old, diabetic, back because her blood sugar had been spiking again. Elena had seen her three times in the past year, each visit prompted by symptoms that could have been prevented with proper management, proper medication, proper access to the kind of care that people with good insurance took for granted. She called Graciela's name and watched the woman rise slowly from her chair, the heaviness of her body visible in every movement.
 
-In the exam room, Elena went through the vitals. Blood pressure elevated. Weight up since the last visit, though Graciela swore she was trying. Blood sugar, when they tested it, was at 287, nearly double what it should be. Elena made notes in the chart while Graciela explained what had happened since her last visit, the story unfolding in fragments, shame mixed with frustration mixed with exhaustion.
+In the exam room, Elena ran through the vitals. Blood pressure elevated. Weight up since the last visit, though Graciela swore she was trying. Blood sugar, when they tested it, was at 287, nearly double what it should be. Elena made notes in the chart while Graciela explained what had happened since her last visit, the story unfolding in fragments, shame mixed with frustration mixed with exhaustion.
 
 
 
-Her employer had cut her hours. This was the central fact around which everything else rotated. Graciela cleaned offices for a janitorial company, had done so for eight years, and when the company discovered that anyone working thirty or more hours qualified for their health insurance plan, they restructured the schedules. Now Graciela worked twenty-eight hours a week across three different sites, earning less money and qualifying for nothing. She had applied for Medicaid and been denied. Something about the formula, the way her income and her household size and the state's eligibility rules combined into a verdict that she fell through the cracks.
+Her employer had cut her hours. This was the central fact around which everything else rotated. Graciela cleaned offices for a janitorial company, had done so for eight years, and when the company discovered that anyone working thirty or more hours qualified for their health insurance plan, they restructured the schedules. Now Graciela worked twenty-eight hours a week across three different sites, earning less money and qualifying for nothing. She had applied for Medicaid and been denied. Something about the formula, the way her income and household size and the state's eligibility rules combined into a verdict that she fell through the cracks.
 
 So she stretched her medication. The metformin that was supposed to be taken twice daily, she took once. When the bottle ran out, she waited until she could afford another. She ate what she could afford, which was not what the nutritional guidelines recommended. She knew what she was supposed to do. She simply could not do it.
 
@@ -18,7 +18,7 @@ What was different today was that Elena felt both the rage and the care simultan
 
 
 
-She called in one of the clinic's social workers to sit with Graciela, to find some program or workaround that might help. There were pharmaceutical company assistance programs, charity care options, byzantine pathways through the system that sometimes led somewhere. The social worker would try. Whether it would work was another question.
+She called in one of the clinic's social workers to sit with Graciela, to find some program or workaround that might help. There were pharmaceutical company assistance programs, charity care options, byzantine pathways through the bureaucracy that sometimes led somewhere. The social worker would try. Whether it would work was another question.
 
 The next patient was a child, seven years old, brought in by his grandmother because his mother was working and couldn't take the time off. His name was Jaylen and his asthma had been getting worse all spring. He sat on the examination table looking scared, his small chest rising and falling too fast, the wheeze audible before Elena even touched her stethoscope to his skin.
 
@@ -28,7 +28,7 @@ Elena listened to his lungs, the crackling sound that shouldn't be there, the ai
 
 
 
-She had a colleague, years ago, who had burned out on exactly this feeling. He was a good nurse, maybe the best she had worked with, and he had cared so deeply about the environmental factors driving disease that he couldn't do the job anymore. He went to work for an advocacy organization instead, left the bedside to fight the upstream causes. Elena had understood why. Some days she envied him. But she had stayed at the bedside, kept treating the symptoms, kept showing up even though the wounds she dressed would be reopened by the world outside the clinic walls.
+She had a colleague, years earlier, who had burned out on exactly this feeling. He was a good nurse, maybe the best she had worked with, and he had cared so deeply about the environmental factors driving disease that he couldn't do the job anymore. He went to work for an advocacy organization instead, left the bedside to fight the upstream causes. Elena had understood why. Some days she envied him. But she had stayed at the bedside, kept treating the symptoms, kept showing up even though the wounds she dressed would be reopened by the world outside the clinic walls.
 
 What she understood now, watching Jaylen breathe, was that both approaches were necessary and neither was sufficient. The advocates needed the nurses to tend to the damage while they worked on the causes. The nurses needed the advocates to fight for changes that would mean fewer wounds to tend. They were not opponents but partners in an endless relay, passing the work back and forth, the exhausting marathon of trying to make things less bad.
 
@@ -48,7 +48,7 @@ Elena made notes. Adjusted one prescription to try to reduce costs. Looked up ye
 
 
 
-By noon she had seen twelve patients. Twelve stories of systems failing, of bodies breaking under pressures that were not natural, of care patched together from inadequate resources. She had done what she could for each one, which was something, which was not nothing, which was also not enough.
+By noon she had seen twelve patients. Twelve stories of systems failing, of bodies breaking under pressures that were not natural, of care patched together from inadequate resources. She had done what she could for each one, which was something, which was not nothing, which remained not enough.
 
 The clinic hummed around her. Phones ringing. Colleagues moving through hallways. The waiting room still full despite the morning's work, more people arriving as others left. The doctor on duty was behind schedule, which meant everyone was behind schedule, the cascade of delay that happened almost every day. Elena caught a glimpse of herself in the bathroom mirror as she washed her hands between patients and saw someone she almost didn't recognize. Not that she looked different, exactly. But something in her eyes had changed.
 
@@ -60,7 +60,7 @@ Her pager buzzed. Another patient waiting. She dried her hands, checked her face
 
 
 
-The afternoon patients blurred together, more variations on the morning's themes. A teenager with a wound that had gotten infected because he waited too long to come in, embarrassed about how he'd gotten it. A pregnant woman who should have been seeing an obstetrician but couldn't get an appointment until her third trimester. An elderly woman whose dementia was progressing while her daughter, the caregiver, showed all the signs of burning out herself.
+The afternoon patients blurred together, more variations on the morning's themes of need. A teenager with a wound that had gotten infected because he waited too long to come in, embarrassed about how he'd gotten it. A pregnant woman who should have been seeing an obstetrician but couldn't get an appointment until her third trimester. An elderly woman whose dementia was progressing while her daughter, the caregiver, showed all the signs of burning out herself.
 
 Elena moved through these encounters with a focus that felt new. She saw each patient as an individual while also seeing the pattern they formed, the mosaic of systemic failure that assembled itself from particular cases. This was what she had always known intellectually but had protected herself from feeling. Now she felt it and kept working.
 

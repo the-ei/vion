@@ -288,7 +288,7 @@ He was not ready to decide. But he was ready to consider deciding, which was fur
 
 That night Kevin sat at his desk and tried to code. The laptop was open, the development environment loaded, the familiar interface that had been his primary mode of thought for fifteen years waiting for him to type something. He had always been able to code. Coding had been his refuge, his meditation, the place where the chaos of human interaction simplified into clean logic. When everything else failed, he could open an editor and make something, and the making would quiet his mind.
 
-The editor was open. His fingers were on the keys. Nothing came.
+The editor was open. His fingers were on the keys, in the position that had always summoned the flow state. Nothing came.
 
 He tried to start a simple function, something he had written a thousand times, but the syntax felt foreign, the logic slippery. He would begin a line and forget what he was trying to accomplish, would stare at the cursor blinking and feel the familiar flow state refusing to engage. It was like trying to speak a language he had once known fluently and finding the words dissolved.
 
@@ -310,7 +310,7 @@ Yusuf had stripped the wires with a pocket knife. Kevin remembered the sound, th
 
 Yusuf had shrugged. "You learn what you need to learn."
 
-The simplicity of the answer had struck Kevin then and struck him now, sitting in his expensive apartment, staring at his expensive screens, unable to do the thing he had always been able to do. Yusuf had learned to hotwire cars because life had required it. Kevin had learned to optimize systems because life had offered nothing else.
+The simplicity of the answer had struck Kevin then and struck him now, sitting in his expensive apartment surrounded by expensive screens, unable to do the thing he had always been able to do. Yusuf had learned to hotwire cars because life had required it, because survival had demanded knowledge that could not be purchased or downloaded. Kevin had learned to optimize systems because life had offered nothing else, because he had been insulated from every form of necessity except the need to perform excellence.
 
 
 
@@ -330,7 +330,7 @@ He began to type. Not code exactly, but notes. Questions.
 
 He stopped at that last question. It was strange, too personal, but it felt important. All his life he had built what he knew how to build, what his education and his environment and his assumptions had prepared him to build. What if there were other ways to build? What if the hotwiring was a metaphor for something larger: knowledge that emerged from necessity rather than optimization, capability that grew from constraint rather than abundance?
 
-He did not know. But for the first time in days, he was curious. The curiosity felt like a small flame in the darkness, not enough to light the room but enough to see by.
+He did not know. But for the first time in days, he was curious rather than merely guilty. The curiosity felt like a small flame in the darkness, not enough to light the room but enough to see by, enough to suggest that darkness was not the only possible state.
 
 
 
@@ -340,7 +340,7 @@ He deleted the draft and wrote something simpler: *Still here if you want to tal
 
 He did not send this one either. But he did not delete it. He let it sit in the compose field, the cursor blinking, the possibility remaining open.
 
-The city lights glittered through the window. Somewhere across the country, Yusuf was probably sleeping, or playing music, or doing the things that people did when they were not sitting in expensive apartments wondering how to be human. Kevin did not know what those things were. He had never learned.
+The city lights glittered through the window, each one a node in a network he had helped build and could no longer trust. Somewhere across the country, Yusuf was probably sleeping, or playing music, or doing the things that people did when they were not sitting in expensive apartments wondering how to be human. Kevin did not know what those things were. He had never learned, had never needed to learn, had optimized his way around the necessity.
 
 But he could learn. That was what the hotwiring had taught him. That was what he kept coming back to. The engine catching. The certainty of Yusuf's hands. The recognition that there were forms of competence Kevin had never encountered, forms of knowledge he had been too insulated to acquire.
 

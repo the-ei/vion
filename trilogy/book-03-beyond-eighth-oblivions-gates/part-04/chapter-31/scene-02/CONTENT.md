@@ -1,6 +1,6 @@
 The screens came to life with footage from another era.
 
-Ananya watched herself appear on the monitor, a version from nine years ago, standing at a podium at a tech conference in Austin. Her hair was darker then, her face smoother, her posture suggesting a confidence that the present Ananya had trouble remembering.
+Ananya watched herself appear on the monitor, a version from nine years prior, standing at a podium at a tech conference in Austin. Her hair was darker then, her face smoother, her posture suggesting a confidence that the present Ananya had trouble remembering.
 
 Prometheus is committed to ethical technology development, the past Ananya was saying. Our ethics review process ensures that every product we release has been evaluated for potential harms and that mitigation strategies are in place.
 
@@ -24,7 +24,7 @@ Delphine advanced through the footage, showing other clips from the Prometheus y
 
 There was other footage too. News coverage of the Eighth Oblivion crisis, the cascade of revelations that had exposed how deeply the technology sector had embedded itself in systems that were supposed to serve the public. Interviews with people whose lives had been disrupted by the algorithms, by the surveillance, by the quietly extractive machinery that had been running beneath the surface of daily life.
 
-And documents. Hundreds of documents, maybe thousands, organized into folders on the screens. Internal memos, email chains, slides from presentations. The paper trail of decisions that had seemed reasonable at the time and looked very different in retrospect.
+And documents. Hundreds of documents, perhaps thousands, organized into folders on the screens. Internal memos, email chains, slides from presentations. The paper trail of decisions that had seemed reasonable at the time and looked very different in retrospect.
 
 Where did you get all this? Ananya asked.
 
@@ -54,7 +54,7 @@ Because you weren't lying, but you also weren't telling the whole truth. You wer
 
 
 
-They watched more footage. Hours of it, or what felt like hours. The past appearing on screens in fragments, a story that Ananya had lived now presented back to her as evidence, as documentation, as the raw material of history.
+They watched more footage. Hours of it, or what felt like hours passed. The past appearing on screens in fragments, a story that Ananya had lived now presented back to her as evidence, as documentation, as the raw material of history.
 
 She saw herself grow older across the clips, watched the confidence slowly erode, watched the set of her shoulders change from certainty to endurance. She saw herself say things that she still believed and things that made her cringe. She saw herself succeed at moments and fail at others, and she saw how little the successes and failures had mattered to the overall trajectory of what Prometheus had built.
 
@@ -78,7 +78,7 @@ The archive shows what happened. But it doesn't show what it felt like. The foot
 
 You want me to narrate my own story.
 
-I want you to explain it. Not to defend it or condemn it, but to help people understand how it worked from the inside. How someone could be part of something they knew was harmful and still believe they were doing some good.
+I want you to explain it. Not to defend it or condemn it, but to help people understand how it functioned from the inside. How someone could be part of something they knew was harmful and still believe they were doing some good.
 
 Ananya thought about what that would require. The exposure. The vulnerability. The risk of being seen as complicit and having no defense, because the truth was that she had been complicit and there was no defense, only context.
 

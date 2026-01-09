@@ -4,7 +4,7 @@ The first interview was at eight in the morning, a woman named Maria Delgado who
 
 "I know. But you're giving me your time."
 
-She accepted the gesture with the particular grace of someone who had learned not to refuse help but hadn't learned to stop feeling ashamed of needing it. Jerome had seen this before, the complex choreography of dignity in hard times.
+She accepted the gesture with the particular grace of someone who had learned not to refuse help but hadn't learned to stop feeling ashamed of needing it. Jerome had seen this before, the complex choreography of dignity in hard times, the ways people held themselves together even as the world pulled at their seams.
 
 Maria had worked at the warehouse for four years. Good worker, never late, exceeded her pick rate every month. Then the robots came—not new, robots had been there all along, but more of them, smarter, faster. Then the AI scheduling system that started shifting her hours to less desirable times. Then the productivity standards that kept rising even as the human workers had less to do.
 
@@ -26,7 +26,7 @@ The second interview was at noon, a man named David Kowalski who drove for Uber 
 
 "They say it's market conditions. But I talk to other drivers. We all think it's the autonomous vehicles. Not here yet, not really, but the companies are already pricing in the transition. Fewer incentives for humans, lower per-ride payouts. They're squeezing us now so when the robot cars come, we're already gone."
 
-Jerome looked around the parking lot. Two other drivers sat in their cars nearby, phones mounted on dashboards, waiting for the ping that would send them somewhere. A small community of the displaced, gathering in the spaces between places.
+Jerome looked around the parking lot. Two other drivers sat in their cars nearby, phones mounted on dashboards, waiting for the ping that would send them somewhere. A small community of the displaced, gathering in the spaces between places, their lives measured out in notifications and estimated arrival times.
 
 "What will you do if driving goes away?"
 
@@ -48,7 +48,7 @@ Jerome photographed the screenshots, careful to capture only the schedule, nothi
 
 "Why are you talking to me?" he asked. A question he often asked, because the answer revealed what people hoped to achieve.
 
-Sarah was quiet for a moment. "Because I don't know what else to do. I've complained through official channels. I've talked to my union. Nothing works. Maybe if it's public, if people see what's happening..." She trailed off. "Or maybe nothing will change and I'll get fired for talking to a journalist. I honestly don't know anymore."
+Sarah was quiet for a moment. "Because I don't know what else to do. I've complained through official channels. I've talked to my union. Nothing works. Maybe if it's public, if people see what's happening..." She trailed off, her hands still around the coffee she hadn't drunk. "Or maybe nothing will change and I'll get fired for talking to a journalist. I honestly don't know anymore."
 
 
 
@@ -70,7 +70,7 @@ Halfway through the meeting, Jerome noticed him. A young Somali-American man in 
 
 Something about the young man drew Jerome's attention—the quality of his attention, maybe. Most people in the room were focused on themselves, on their own stories, their own fears. This young man seemed to be watching the whole room, the whole situation, as if seeing patterns others missed.
 
-Jerome found himself returning to the young man throughout the meeting, stealing glances. He was young—mid-twenties at most. He wore clothes that suggested gig work: practical, worn, the uniform of someone who spent time on their feet. But his bearing suggested something else, some kind of intellectual engagement that went beyond immediate concerns.
+Jerome found himself returning to the young man throughout the meeting, stealing glances the way he had learned to observe without being obvious. He was young—mid-twenties at most. He wore clothes that suggested gig work: practical, worn, the uniform of someone who spent time on their feet. But his bearing suggested something else, some kind of intellectual engagement that went beyond immediate concerns.
 
 The meeting continued. Terrence facilitated skillfully, drawing people out, keeping the discussion focused, building toward something. There was talk of organizing, of collective action, of demanding a seat at the table. The language of hope, even as the faces showed doubt.
 
@@ -110,7 +110,7 @@ The young man studied him. Jerome could feel himself being assessed, measured ag
 
 "That's the only way to think about it. You come here, you take our stories, you turn them into content. Maybe you win an award. Maybe you don't. Either way, nothing changes for us."
 
-Jerome had heard this before—the critique of journalism as extraction, as colonization by other means. It was a critique he mostly agreed with, which made it harder to answer.
+Jerome had heard this before—the critique of journalism as extraction, as colonization by other means, as poverty porn dressed up in progressive language. It was a critique he mostly agreed with, which made it harder to answer.
 
 "You might be right," he said. "I've been doing this for thirty years, and I'm not sure anything I've written has changed anything. But I don't know what else to do. Writing is all I have."
 
