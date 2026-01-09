@@ -1,6 +1,6 @@
 The piece went live at 8:00 AM Eastern.
 
-Jerome had been awake since six, unable to sleep past the anticipation. He'd made coffee, checked his email, walked through the house quietly so as not to wake Denise. Now he sat at his desk in the room that had become his office over the past three months - the small bedroom they'd converted, shelves of books and papers, the particular disorder of someone who did his best work in chaos.
+Jerome had been awake since six, unable to sleep past anticipation. He'd made coffee, checked his email, walked through the house quietly so as not to wake Denise. Now he sat at his desk in the room that had become his office over the past three months - the small bedroom they'd converted, shelves of books and papers, the particular disorder of someone who did his best work in chaos.
 
 On his screen, the words he had spent weeks writing were now public. "The Eighth Oblivion: One Year Later" - the title he had fought for against an editor who wanted something catchier. Published on The Atlantic's website, which felt like both validation and compromise. A serious venue, but a venue nonetheless. His words were now content, competing for attention alongside everything else people might choose to read on a Tuesday morning.
 
