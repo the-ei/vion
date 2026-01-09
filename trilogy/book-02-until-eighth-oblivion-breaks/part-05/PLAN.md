@@ -21,11 +21,13 @@ The Eighth Oblivion is revealed not as disaster narrowly avoided but as threshol
 
 ## Characters Present
 
-- **Surviving POVs:** Fundamentally changed, processing what happened
+- **Elena Varga (POV):** Processing the trauma of what she witnessed and did during the crisis. Her radicalization now permanent - she cannot return to the person she was. Questions about her marriage to Daniel, her role as mother to Sofia and Mateo.
+- **Yusuf Hassan (POV):** The crisis revealed who he actually is. His unexpected connection with Kevin Zhou during the break has changed both of them. His music may finally have found its subject - or may be abandoned for more urgent work.
+- **Kevin Zhou (POV):** His arc of building-then-reckoning approaches completion. The startup is transformed or absorbed or failed - but so is he. His isolation feels different now, after being thrown together with Yusuf and others during the crisis.
 - **The dead:** Present through memory, consequence, absence
-- **New configurations:** Relationships reformed around shared experience
-- **The next generation:** Hints of those who will matter in Book 3
-- **Institutional figures:** The system's adaptation, not collapse
+- **New configurations:** Relationships reformed around shared experience - the alliances forged during the break now tested by its aftermath
+- **The next generation:** Hints of those who will matter in Book 3 (Priya, DeShawn, Amina)
+- **Institutional figures:** Ruth, Ananya, Jerome - processing from their respective positions as the system adapts rather than collapses
 
 ## Timeline
 

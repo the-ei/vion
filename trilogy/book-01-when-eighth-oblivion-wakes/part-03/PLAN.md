@@ -18,10 +18,9 @@ The tremors are both literal (the ground shifting under characters' assumptions)
 
 ## Characters Present
 
-- **Tech Industry Insider** (Chapters 18, 22, 26): Whether inside or outside the company, now has evidence of something unprecedented happening with AI systems; becomes investigator or whistleblower; personal life in freefall or radical reconstruction
-- **Media/Entertainment Figure** (Chapters 19, 23): Encounters the "Eighth Oblivion" meme/theory through their work; must decide whether to amplify, debunk, or ignore; begins connecting dots across their sources
-- **Caring Profession Worker** (Chapters 20, 24): Sees the human impact of the tremors - patients, students, or clients affected by instability; their "drastic action" from Part 2 either succeeded or failed; systemic nature of problems becomes undeniable
-- **Economically Precarious Character** (Chapters 21, 25): Experiences the economic tremors most directly; becomes inadvertent witness to something significant; perspective from the margins proves valuable to others
+- **Kevin Zhou** (Chapters 18, 22, 26): Whether inside or outside Prometheus, now has evidence of something unprecedented happening with AI systems; becomes investigator or whistleblower; his startup ambitions may be implicated in the emerging crisis
+- **Jerome Washington** (Chapters 19, 23): Encounters the "Eighth Oblivion" meme/theory through his investigation; must decide whether to amplify, debunk, or ignore; his journalism becomes central to how the public understands the crisis
+- **Delphine Okafor-Barnes** (Chapters 20, 24): Hired to produce content explaining the emerging instability; encounters the "Eighth Oblivion" concept through her work; must decide what stories to tell - and reckon with the stories she's already told
 
 ## Timeline
 
@@ -79,8 +78,7 @@ Possible vectors of introduction:
 ## Open Questions
 
 - Exact nature and origin of "Eighth Oblivion" concept within the narrative
-- What AI anomalies does the tech insider observe?
-- How does the media figure's coverage of "Eighth Oblivion" affect their career/safety?
-- What specific systemic forces does the caring profession worker confront?
-- What does the economically precarious character witness?
+- What AI anomalies does Kevin Zhou observe?
+- How does Jerome's coverage of "Eighth Oblivion" affect his career/safety?
+- What content does Delphine produce, and how does it shape public understanding?
 - Is there a new POV introduced, or does a secondary character become more prominent?

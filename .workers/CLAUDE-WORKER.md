@@ -117,6 +117,12 @@ ISSUE: Timeline conflict with chapter-02
 DETAILS: Scene places event in March, but chapter-02 has it in February
 ```
 
+## Character Naming Constraints
+
+The following names are PROHIBITED for characters:
+- **Marcus** - Do not use this name for any character
+- **Chen** - Do not use this name for any character
+
 ## Do NOT
 
 - Modify files outside your assigned path

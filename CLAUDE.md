@@ -135,6 +135,14 @@ Flag issues for human review only when problems detected.
 3. **Systems/Society:** Capitalism, democracy, fascism, nationalism, media, entertainment
 4. **Individual Experience:** Burnout, mental health, drugs/alcohol, dopamine, longevity, psychology
 
+## Character Naming Constraints
+
+The following names are PROHIBITED for characters:
+- **Marcus** - Do not use this name for any character
+- **Chen** - Do not use this name for any character
+
+If existing characters have these names, they must be renamed throughout all planning documents.
+
 ## Stylistic Guidelines
 
 **Knausgaard elements:**

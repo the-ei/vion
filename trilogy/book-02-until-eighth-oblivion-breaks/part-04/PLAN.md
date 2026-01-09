@@ -21,7 +21,10 @@ The Eighth Oblivion, in its catastrophic interpretation, seems imminent. This is
 
 ## Characters Present
 
-- **All surviving POVs:** At their most raw and revealed
+- **Elena Varga (POV):** Her clinic becomes a frontline during the crisis. The caring profession view essential as human costs become undeniable. Her radicalization deepens - not violent, but with clear-eyed fury at systems that make health a commodity.
+- **Yusuf Hassan (POV):** Among the first affected and last considered. His arc traces whether precarity leads to radicalization, resignation, or something else. Crisis throws him together with unlikely allies.
+- **Jerome Washington (POV):** At his most raw and revealed. His journalism may have prepared the public for this moment - or may have been entirely impotent. The gap between knowing and acting becomes unbearable.
+- **Delphine Okafor-Barnes (POV):** Her media expertise now focused on survival and meaning-making in real time. The stories she tells during the crisis will shape how it's remembered - if anyone remembers.
 - **Characters who have died or disappeared:** Their absence shaping others' choices
 - **Antagonist figures:** Some revealed as more complex, others as worse than imagined
 - **Ordinary people:** The collective response to crisis

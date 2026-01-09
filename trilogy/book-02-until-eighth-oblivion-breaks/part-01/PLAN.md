@@ -19,10 +19,11 @@ This section establishes the new status quo while revealing its instability. The
 
 ## Characters Present
 
-- **Returning POV characters:** In diminished, altered, or unexpectedly elevated circumstances
-- **New POV character(s):** Positioned to see what Book 1 characters missed
-- **Secondary characters:** Showing how non-protagonists processed the events
-- **Institutional figures:** Demonstrating system resilience and adaptation
+- **Ruth Abramson (POV):** Called out of retirement to advise on legal response to Book 1's crisis; now grappling with the gap between law's promises and its actual capacity. Her institutional faith tested by the absence of consequences.
+- **Elena Varga (POV):** Still at the Phoenix community health center, seeing the human toll of the crisis in her patients' bodies - stress-related illnesses, untreated conditions, the health consequences of economic precarity deepening.
+- **Kevin Zhou (POV):** His startup implicated in Book 1's events; now navigating the aftermath as both liability and opportunity. The question of what "building the future" means weighs heavily.
+- **Ananya Ramaswamy (POV):** Watching Prometheus Systems' "pivot to safety" from inside, uncertain whether it's genuine transformation or sophisticated performance. Her daughter Priya is now 16, increasingly independent.
+- **Secondary characters:** Jerome's journalism on the crisis; Yusuf's ground-level experience of economic strain; institutional figures demonstrating system resilience and adaptation.
 
 ## Timeline
 

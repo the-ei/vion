@@ -20,11 +20,19 @@ This part reintroduces our surviving POV characters in their new circumstances. 
 
 ## Characters Present
 
-- Returning POV characters from Books 1-2, now altered by years and events
-- New configurations of relationships established in earlier books
-- Children of POV characters, now older and beginning to have their own agency
+**POV Characters for Part 1:**
+- **Delphine Okafor-Barnes** (41 in 2037): Creative director navigating post-crisis media landscape; her "social impact" work now under scrutiny; developing unexpected alliance with Ananya; Theo now 7 and asking difficult questions about what her work means
+- **Jerome Washington** (55): Journalist whose Eighth Oblivion coverage defined the crisis narrative; now confronting whether truth-telling changed anything; DeShawn (20) has become a tech founder, embodying everything Jerome distrusted; his mother's dementia has progressed
+- **Ruth Abramson** (64): Semi-retired judge whose legal opinions shaped the response to the crisis; now teaching and writing; grappling with whether institutions she dedicated her life to actually held; her children David and Rebecca represent two paths through the changed world
+- **Kevin Zhou** (31): His startup either absorbed, failed, or transformed by the crisis; now integrating lessons from his reckoning with what "building the future" means; less prominent but still present as the tech perspective on new arrangements
+
+**Supporting Presence:**
+- Ananya referenced through her developing alliance with Delphine
+- Elena, Yusuf referenced as their situations have evolved
+- DeShawn Cole as emerging figure in the tech world
+- Priya Ramaswamy (Ananya's daughter, now 17) connected to the next generation plotlines
+- Amina Hassan (Yusuf's sister, now 19) as the academic hope of her family
 - Institutional figures representing the new power arrangements
-- Characters referenced but absent, their fates to be revealed
 
 ## Timeline
 

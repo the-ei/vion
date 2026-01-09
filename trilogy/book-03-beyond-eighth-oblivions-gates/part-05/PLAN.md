@@ -21,9 +21,19 @@ These final seven chapters synthesize without simplifying. The Eighth Oblivion c
 
 ## Characters Present
 
-- All surviving POV characters find their resolutions
-- The dead present through memory, legacy, and effect
-- Children and younger generation as inheritors and continuers
+**POV Characters for Part 5:**
+- **Ananya Ramaswamy** (47-48 in 2041-42): Her arc frames the trilogy's question about complicity and change; resolution of her relationship with Priya (23-24); the alliance with Delphine complete; what ethical capitalism meant or didn't mean; finding her gate
+- **Jerome Washington** (59-60): The journalist's role diminished as truth's power was tested; resolution with DeShawn (24-25) who became what Jerome feared and hoped; Denise as partner through everything; his mother either passed or in final stages; the truth mattering or not mattering resolved
+- **Delphine Okafor-Barnes** (44): Her media perspective threads through the trilogy, culminating in her reckoning with narrative itself; her close friendship with Ananya resolving; Theo (12) at the threshold of adolescence; what art and meaning-making become in her hands
+- **Ruth Abramson** (68-69): The eldest character, her resolution is quieter - whether institutions adapt, whether law held, whether her life's framework mattered; her children David and Rebecca as two paths; her mortality either faced or transcended; wisdom at the gate
+- **Yusuf Hassan** (33-34): His perspective became central to understanding the transformation; resolution of the precarity arc - survival with dignity achieved or still struggling; his music as escape, expression, or gift; Amina (24-25) as the next generation's voice; his mother's care a continuing thread
+
+**Supporting Presence:**
+- Elena and Kevin Zhou having crossed their thresholds, present through reference and effect
+- The dead present through memory, legacy, and effect (potentially Ruth if she dies in Part 4, or earlier characters)
+- DeShawn Cole, Priya Ramaswamy, Amina Hassan as the next generation inheritors
+- Sofia and Mateo Varga (Elena's children, 15 and 12) visible beyond their parents' arcs
+- Theo (Delphine and Jessie's son) at the edge of his own story
 - Characters from throughout the trilogy making final appearances
 - The world itself as a kind of character reaching resolution
 

@@ -28,21 +28,21 @@ Seven POV characters whose lives intersect across the trilogy. Each embodies asp
 - Book 3: Major POV (Parts 2, 4, 5)
 
 **Key Relationships:**
-- Professional rivalry with CHEN WEI (they serve on the same industry safety board)
-- Her daughter Priya becomes close to MARCUS's son in Book 2
+- Professional rivalry with KEVIN ZHOU (they serve on the same industry safety board)
+- Her daughter Priya becomes close to JEROME's son in Book 2
 - Unlikely alliance with DELPHINE in Book 3
 
 ---
 
-### 2. MARCUS JEFFERSON COLE
+### 2. JEROME WASHINGTON
 
 **Age:** 52 (2032)
 
 **Profession:** Investigative journalist, formerly with major outlets, now independent (Substack, podcast, occasional documentary work)
 
-**Background:** Raised in Baltimore, Howard University graduate. Spent twenty years at prestige outlets, won a Pulitzer at 38 for financial crisis reporting. Left traditional media in 2028 when his investigation into surveillance tech was killed by corporate pressure. His wife Denise teaches high school history; their son DeShawn (17) is a talented coder who admires the tech world Marcus increasingly distrusts. Marcus's mother has early-stage dementia; he manages her care from across the country with his sister.
+**Background:** Raised in Baltimore, Howard University graduate. Spent twenty years at prestige outlets, won a Pulitzer at 38 for financial crisis reporting. Left traditional media in 2028 when his investigation into surveillance tech was killed by corporate pressure. His wife Denise teaches high school history; their son DeShawn (17) is a talented coder who admires the tech world Jerome increasingly distrusts. Jerome's mother has early-stage dementia; he manages her care from across the country with his sister.
 
-**Core Motivation:** Marcus believes the truth still matters, that exposure can create change. He's testing this hypothesis against mounting evidence that the information ecosystem has made truth impotent.
+**Core Motivation:** Jerome believes the truth still matters, that exposure can create change. He's testing this hypothesis against mounting evidence that the information ecosystem has made truth impotent.
 
 **Primary Flaw/Tension:** His righteousness can curdle into self-righteousness. He's sacrificed financial security for integrity but sometimes resents that his family bears the cost. His relationship with DeShawn is strained - the son sees opportunity where the father sees threat.
 
@@ -56,7 +56,7 @@ Seven POV characters whose lives intersect across the trilogy. Each embodies asp
 **Key Relationships:**
 - Source relationship with ANANYA that becomes friendship
 - Interviews ELENA about care worker conditions
-- His son DeShawn's trajectory parallels CHEN WEI's early career
+- His son DeShawn's trajectory parallels KEVIN ZHOU's early career
 
 ---
 
@@ -82,11 +82,11 @@ Seven POV characters whose lives intersect across the trilogy. Each embodies asp
 **Key Relationships:**
 - Treats YUSUF's mother in Book 1 (how they first connect)
 - Her clinic receives funding through an organization DELPHINE produces content for
-- Interviewed by MARCUS for his Book 1 investigation
+- Interviewed by JEROME for his Book 1 investigation
 
 ---
 
-### 4. CHEN WEI
+### 4. KEVIN ZHOU
 
 **Age:** 28 (2032)
 
@@ -94,7 +94,7 @@ Seven POV characters whose lives intersect across the trilogy. Each embodies asp
 
 **Background:** Born in Shenzhen, moved to US at 18 for MIT, never went back. Prodigy coder, published first serious paper at 20. Parents still in China, increasingly unreachable as political tensions rise. Lives alone in San Francisco, social life largely virtual. Dated sporadically; nothing lasting. His entire identity is built around being exceptional, useful, ahead.
 
-**Core Motivation:** Chen Wei wants to matter - to build something that outlasts him. He tells himself it's about the technology, but it's really about proving he's real.
+**Core Motivation:** Kevin Zhou wants to matter - to build something that outlasts him. He tells himself it's about the technology, but it's really about proving he's real.
 
 **Primary Flaw/Tension:** He's brilliant but not wise. He can see what technology can do without seeing what it should do. His isolation feels chosen but is partly defensive - he doesn't know how to connect without hierarchy. He despises the ethics-washing of people like Ananya but secretly envies their certainty.
 
@@ -107,7 +107,7 @@ Seven POV characters whose lives intersect across the trilogy. Each embodies asp
 
 **Key Relationships:**
 - Professional tension with ANANYA (he thinks her ethics role is theater)
-- Mentorship relationship with DeShawn Cole (MARCUS's son)
+- Mentorship relationship with DeShawn Cole (JEROME's son)
 - Unexpected connection with YUSUF in Book 2
 
 ---
@@ -132,7 +132,7 @@ Seven POV characters whose lives intersect across the trilogy. Each embodies asp
 - Book 3: Major POV (Parts 1, 3, 5)
 
 **Key Relationships:**
-- Produces a documentary featuring MARCUS
+- Produces a documentary featuring JEROME
 - Her company partners with ELENA's health center for a "social impact" campaign
 - By Book 3, close friendship with ANANYA (two women reckoning with their proximity to power)
 
@@ -159,7 +159,7 @@ Seven POV characters whose lives intersect across the trilogy. Each embodies asp
 
 **Key Relationships:**
 - His mother is treated by ELENA
-- Unexpected connection with CHEN WEI during Book 2's crisis (thrown together by circumstance)
+- Unexpected connection with KEVIN ZHOU during Book 2's crisis (thrown together by circumstance)
 - His sister Amina's trajectory interweaves with the next generation plotlines
 
 ---
@@ -184,8 +184,8 @@ Seven POV characters whose lives intersect across the trilogy. Each embodies asp
 - Book 3: Supporting POV (Parts 1, 2, 5)
 
 **Key Relationships:**
-- Consulted by MARCUS for his investigations
-- Her legal opinions directly affect CHEN WEI's company
+- Consulted by JEROME for his investigations
+- Her legal opinions directly affect KEVIN ZHOU's company
 - Finds unexpected kinship with ELENA over the gap between systems and people
 
 ---
@@ -195,11 +195,11 @@ Seven POV characters whose lives intersect across the trilogy. Each embodies asp
 ```
                               POWER/PROXIMITY
                                     |
-                              CHEN WEI (28)
+                              KEVIN ZHOU (28)
                              /      |       \
                     rivalry /       |        \ mentors
                            /        |         \
-                    ANANYA (41)-----|-----DeShawn (Marcus's son)
+                    ANANYA (41)-----|-----DeShawn (Jerome's son)
                       |   \         |
               allies  |    \        |
                  with |     \       |
@@ -209,7 +209,7 @@ Seven POV characters whose lives intersect across the trilogy. Each embodies asp
     produces |    Book 3       \   |
    doc about |    friends       \  |
             |         |          \ |
-          MARCUS (52)  |          \|
+          JEROME (52)  |          \|
             |  \      |           RUTH (61)
  interviews |   \     |            /
             |    \    |           / advises on
@@ -222,7 +222,7 @@ Seven POV characters whose lives intersect across the trilogy. Each embodies asp
       mother  |         \
         of    |          \
               |           \
-          YUSUF (24)-------CHEN WEI
+          YUSUF (24)-------KEVIN ZHOU
                    (Book 2 crisis
                     throws them
                     together)
@@ -230,20 +230,20 @@ Seven POV characters whose lives intersect across the trilogy. Each embodies asp
 ---
 
 GEOGRAPHIC DISTRIBUTION:
-  Bay Area: Ananya, Chen Wei
+  Bay Area: Ananya, Kevin Zhou
   Los Angeles: Delphine
   Phoenix: Elena
   Minneapolis: Yusuf
   DC/California: Ruth
-  Baltimore/East Coast: Marcus
+  Baltimore/East Coast: Jerome
 
 ---
 
 GENERATIONAL SPREAD:
   Silent/Boomer: Ruth (61)
-  Gen X: Marcus (52), Ananya (41)
+  Gen X: Jerome (52), Ananya (41)
   Millennial: Delphine (38), Elena (34)
-  Gen Z: Chen Wei (28), Yusuf (24)
+  Gen Z: Kevin Zhou (28), Yusuf (24)
 ```
 
 ---
@@ -254,16 +254,16 @@ GENERATIONAL SPREAD:
 
 | Part | Title | POV Characters | Focus |
 |------|-------|---------------|-------|
-| Part 1 | Surface Tension | Ananya, Marcus, Chen Wei, Delphine | Establishment: four lives in apparent stability |
-| Part 2 | Cracks | Marcus, Elena, Chen Wei, Yusuf | Intersections begin; ground-level view introduced |
-| Part 3 | Tremors | Chen Wei, Marcus, Delphine | The concept named; tech/media perspectives |
-| Part 4 | Fault Lines | Ananya, Marcus, Elena, Yusuf | Crisis crystallizes; human costs foregrounded |
-| Part 5 | Wake | Ananya, Marcus, Delphine, Ruth | Aftermath; Ruth enters as institutional voice |
+| Part 1 | Surface Tension | Ananya, Jerome, Kevin Zhou, Delphine | Establishment: four lives in apparent stability |
+| Part 2 | Cracks | Jerome, Elena, Kevin Zhou, Yusuf | Intersections begin; ground-level view introduced |
+| Part 3 | Tremors | Kevin Zhou, Jerome, Delphine | The concept named; tech/media perspectives |
+| Part 4 | Fault Lines | Ananya, Jerome, Elena, Yusuf | Crisis crystallizes; human costs foregrounded |
+| Part 5 | Wake | Ananya, Jerome, Delphine, Ruth | Aftermath; Ruth enters as institutional voice |
 
 **Book 1 POV Breakdown:**
 - Ananya: 3 parts (Major)
-- Marcus: 5 parts (Major)
-- Chen Wei: 3 parts (Major)
+- Jerome: 5 parts (Major)
+- Kevin Zhou: 3 parts (Major)
 - Delphine: 3 parts (Supporting)
 - Elena: 2 parts (Supporting)
 - Yusuf: 2 parts (Supporting)
@@ -275,17 +275,17 @@ GENERATIONAL SPREAD:
 
 | Part | Title | POV Characters | Focus |
 |------|-------|---------------|-------|
-| Part 1 | Aftermath | Ruth, Elena, Chen Wei, Ananya | Absorption and denial; institutional response |
-| Part 2 | Counter-Narratives | Marcus, Ruth, Chen Wei, Delphine | Competing interpretations proliferate |
-| Part 3 | Acceleration | Marcus, Ananya, Ruth, Yusuf | Exponential change; choosing sides |
-| Part 4 | The Break | Elena, Yusuf, Marcus, Delphine | Crisis rupture; ground-level experience |
-| Part 5 | Through | Elena, Yusuf, Chen Wei | Resolution and reframing; transformed perspectives |
+| Part 1 | Aftermath | Ruth, Elena, Kevin Zhou, Ananya | Absorption and denial; institutional response |
+| Part 2 | Counter-Narratives | Jerome, Ruth, Kevin Zhou, Delphine | Competing interpretations proliferate |
+| Part 3 | Acceleration | Jerome, Ananya, Ruth, Yusuf | Exponential change; choosing sides |
+| Part 4 | The Break | Elena, Yusuf, Jerome, Delphine | Crisis rupture; ground-level experience |
+| Part 5 | Through | Elena, Yusuf, Kevin Zhou | Resolution and reframing; transformed perspectives |
 
 **Book 2 POV Breakdown:**
 - Ruth: 3 parts (Major)
 - Elena: 3 parts (Major)
-- Chen Wei: 3 parts (Major)
-- Marcus: 3 parts (Major)
+- Kevin Zhou: 3 parts (Major)
+- Jerome: 3 parts (Major)
 - Yusuf: 3 parts (Major)
 - Ananya: 2 parts (Supporting)
 - Delphine: 2 parts (Supporting)
@@ -296,20 +296,20 @@ GENERATIONAL SPREAD:
 
 | Part | Title | POV Characters | Focus |
 |------|-------|---------------|-------|
-| Part 1 | New Arrangements | Delphine, Marcus, Ruth, Chen Wei | Changed world; reconfigured lives |
+| Part 1 | New Arrangements | Delphine, Jerome, Ruth, Kevin Zhou | Changed world; reconfigured lives |
 | Part 2 | Reckoning | Ananya, Elena, Yusuf, Ruth | Consequences and accounting |
-| Part 3 | Inheritances | Elena, Marcus, Delphine, Yusuf | Next generation; what's passed on |
-| Part 4 | Thresholds | Ananya, Elena, Yusuf, Chen Wei | Different characters cross different gates |
-| Part 5 | Gates | Ananya, Marcus, Delphine, Ruth, Yusuf | Synthesis and resolution; all voices echo |
+| Part 3 | Inheritances | Elena, Jerome, Delphine, Yusuf | Next generation; what's passed on |
+| Part 4 | Thresholds | Ananya, Elena, Yusuf, Kevin Zhou | Different characters cross different gates |
+| Part 5 | Gates | Ananya, Jerome, Delphine, Ruth, Yusuf | Synthesis and resolution; all voices echo |
 
 **Book 3 POV Breakdown:**
 - Ananya: 3 parts (Major)
 - Elena: 3 parts (Major)
 - Yusuf: 4 parts (Major)
 - Delphine: 3 parts (Major)
-- Marcus: 2 parts (Supporting)
+- Jerome: 2 parts (Supporting)
 - Ruth: 3 parts (Supporting)
-- Chen Wei: 2 parts (Supporting)
+- Kevin Zhou: 2 parts (Supporting)
 
 ---
 
@@ -320,12 +320,12 @@ GENERATIONAL SPREAD:
 - **Elena:** Supporting in Book 1, Major in Books 2-3. The caring profession view becomes more important as human costs accumulate.
 
 ### Characters Whose Prominence Shifts:
-- **Chen Wei:** Major in Books 1-2, Supporting in Book 3. His arc of building-then-reckoning completes earlier; Book 3 shows him integrating what he learned.
+- **Kevin Zhou:** Major in Books 1-2, Supporting in Book 3. His arc of building-then-reckoning completes earlier; Book 3 shows him integrating what he learned.
 - **Ruth:** Supporting in Book 1, Major in Book 2, Supporting in Book 3. She's most important when institutions are tested; her resolution is quieter.
 
 ### Characters Who Anchor the Trilogy:
 - **Ananya:** Major in Books 1 and 3, Supporting in Book 2. Her arc frames the trilogy's question about complicity and change.
-- **Marcus:** Major in Books 1 and 2, Supporting in Book 3. The journalist's role diminishes as truth's power is tested.
+- **Jerome:** Major in Books 1 and 2, Supporting in Book 3. The journalist's role diminishes as truth's power is tested.
 
 ### Characters Providing Continuity:
 - **Delphine:** Supporting presence throughout, Major only in Book 3. Her media perspective threads through, culminating in her reckoning with narrative itself.
@@ -338,8 +338,8 @@ GENERATIONAL SPREAD:
 
 Questions to resolve:
 - Does Ruth survive to the trilogy's end? (Her age and the timeline span 10 years)
-- What happens to CHEN WEI's startup - absorbed, failed, or transformed?
-- Does MARCUS's journalism have lasting impact or fade into noise?
+- What happens to KEVIN ZHOU's startup - absorbed, failed, or transformed?
+- Does JEROME's journalism have lasting impact or fade into noise?
 - What becomes of YUSUF's music - escape, expression, or abandoned dream?
 - Do ELENA and Daniel's marriage survive the trilogy's pressures?
 - How does ANANYA's relationship with Priya evolve as Priya grows up?
@@ -351,14 +351,14 @@ Questions to resolve:
 
 | Theme | Primary Characters |
 |-------|-------------------|
-| Tech/Power | Ananya, Chen Wei |
-| Media/Narrative | Marcus, Delphine |
+| Tech/Power | Ananya, Kevin Zhou |
+| Media/Narrative | Jerome, Delphine |
 | Human Cost/Care | Elena, Ruth |
 | Economic Precarity | Yusuf, Elena |
 | Family/Connection | All (central) |
-| Institutional Faith | Ananya, Ruth, Marcus |
+| Institutional Faith | Ananya, Ruth, Jerome |
 | Meaning-Making | Delphine, Yusuf |
-| Generational Difference | Ruth <-> Chen Wei, Yusuf |
+| Generational Difference | Ruth <-> Kevin Zhou, Yusuf |
 
 ---
 

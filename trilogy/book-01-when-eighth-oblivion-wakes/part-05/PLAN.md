@@ -19,10 +19,10 @@ Part 5 is about choice in the face of foreknowledge. Each character knows more t
 
 ## Characters Present
 
-- **Tech Industry Insider** (Chapters 36, 40): Living with the consequences of their revelations; choosing ongoing role - activist, consultant, hermit?; marriage resolved one way or another
-- **Media/Entertainment Figure** (Chapters 37, 41): Career reconfigured by Part 4 choices; new platform or mode of truth-telling; sobriety or relapse as measure of their integration
-- **Caring Profession Worker** (Chapters 38, 42): Returned to frontline work with new understanding; finding sustainable resistance within institutions; connection to other characters maintained
-- **Economically Precarious Character** (Chapters 39): Circumstance possibly improved or worsened by crisis aftermath; agency demonstrated; family obligations reconfigured
+- **Ananya Ramaswamy** (Chapters 36, 40): Living with the consequences of her revelations about Prometheus; choosing ongoing role - activist, consultant, hermit?; her relationship with daughter Priya evolves as she reckons with what her career meant; unlikely alliance with Delphine begins forming
+- **Jerome Washington** (Chapters 37, 41): Career reconfigured by Part 4 choices; his journalism central to how the public understands the crisis but he must reckon with how little understanding changes; friendship with Ananya solidified; his son DeShawn's trajectory a continuing tension
+- **Delphine Okafor-Barnes** (Chapters 38, 42): Reckoning with the stories she's told that made this moment possible; new platform or mode of truth-telling emerging; her work producing content about the crisis forces confrontation with her own complicity; connection with Ananya deepening
+- **Ruth Abramson** (Chapter 39): Semi-retired federal judge called out of retirement to advise on the legal response to the crisis; enters the narrative as institutional voice; her commitment to law and process tested by the gap between systems and people; finds unexpected kinship with Elena's perspective
 
 ## Timeline
 
