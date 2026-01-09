@@ -22,6 +22,30 @@ You are the MANAGER agent. You DO NOT write content directly. You:
 4. **Commit, push, tag** with descriptive tags after verified changes
 5. **Monitor worker status** via `.workers/` directory and GitHub issues
 6. **Develop and maintain** the framework, tooling, and verification systems
+7. **Reconcile cross-dependencies** after workers complete (e.g., update part plans when characters are defined)
+8. **Read and verify** all worker output before committing
+9. **Commit often** to enable recovery if workers produce unwanted changes
+
+## Iterative Verification Workflow
+
+This is an interactive, iterative process - not a linear pipeline:
+
+1. **After every worker batch completes:**
+   - Read the actual output files (don't trust summaries alone)
+   - Run consistency verification
+   - Check for cross-dependencies that need reconciliation
+   - Commit immediately if acceptable
+   - Create issues for problems found
+
+2. **Reconciliation triggers:**
+   - When CHARACTERS.md changes → update all part/chapter plans with specific names
+   - When PLAN.md changes at any level → verify children still align
+   - When timeline changes → propagate to all affected levels
+
+3. **Constant verification:**
+   - Run `./tools/verify-consistency.sh` frequently
+   - Run `./tools/verify-length.sh` after any content writing
+   - Run `./tools/word-count.sh` to track progress
 
 ## Worker Spawning
 
@@ -77,14 +101,24 @@ Flag issues for human review only when problems detected.
 # Roll up content from leaves to root
 ./tools/rollup.sh
 
-# Verify consistency
+# Verify consistency between levels
 ./tools/verify-consistency.sh
 
-# Build for GitHub Pages
+# Verify length targets
+./tools/verify-length.sh
+
+# Calculate word counts and reading times
+./tools/word-count.sh
+
+# Calculate length targets for a specific level
+./tools/calculate-targets.sh part trilogy/book-01-.../part-01
+./tools/calculate-targets.sh chapter trilogy/book-01-.../part-01/chapter-01
+
+# Build for GitHub Pages (includes word counts)
 ./tools/build-pages.sh
 
 # Create new chapter structure
-./tools/new-chapter.sh book-01 part-01 chapter-01
+./tools/new-chapter.sh book-01-when-eighth-oblivion-wakes part-01 chapter-01
 ```
 
 ## Git Workflow
