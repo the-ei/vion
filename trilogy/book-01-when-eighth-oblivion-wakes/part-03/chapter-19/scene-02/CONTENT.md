@@ -1,13 +1,13 @@
 Rachel could not tell him where the video came from. She had found it in a private forum she monitored for tech industry leaks, posted by an anonymous account that had no other activity. The account had been deleted within hours of her viewing it. She had only been able to save the link because she had archived it immediately, an old journalist's reflex.
 
-Jerome began tracing the video's distribution through the information ecosystem. It was meticulous work, the kind he had done many times before: tracking a piece of content as it propagated across platforms, noting where it appeared and in what context, mapping the network of shares and citations and responses. He cleared his desk of everything else—the financial flows could wait, the corporate acquisition chains could wait—and devoted himself to understanding where this video had come from and how far it had spread.
+Jerome began tracing the video's distribution through the information ecosystem. It was meticulous work, the kind he had done many times before: tracking a piece of content as it propagated across platforms, noting where it appeared and in what context, mapping the network of shares and citations and responses the way an epidemiologist tracks an outbreak. He cleared his desk of everything else—the financial flows could wait, the corporate acquisition chains could wait—and devoted himself to understanding where this video had come from and how far it had spread.
 
 Within hours, he had found versions on seven different platforms. Each version was slightly different. The one Rachel had sent him appeared to be an original, or close to it: high resolution, complete audio, all forty-seven minutes intact. But the other versions had been edited, remixed, recontextualized. One had been cut to fifteen minutes, focusing only on the AI claims. One had been overlaid with new narration in German. One had been spliced with footage from mainstream news broadcasts, creating the impression that major networks were covering the story.
 
 
 ---
 
-The framing varied wildly. In some communities, the video was presented as academic research, sober analysis from unnamed experts. In others, it was evidence of elite conspiracy, the global cabal finally exposed. In still others, it was nihilist entertainment, doom content for audiences who had given up on the future. The same underlying footage, the same core claims, wrapped in completely different interpretive frameworks.
+The framing varied wildly, a Rorschach test for the post-truth era. In some communities, the video was presented as academic research, sober analysis from unnamed experts. In others, it was evidence of elite conspiracy, the global cabal finally exposed. In still others, it was nihilist entertainment, doom content for audiences who had given up on the future and found strange comfort in confirmation of their despair. The same underlying footage, the same core claims, wrapped in completely different interpretive frameworks.
 
 Jerome had seen this pattern before—the way the modern information ecosystem processed truth and fiction identically, turning both into content, into material for engagement. But he had never seen it happen so fast, to something so specific, with versions proliferating across platforms in what seemed like coordinated waves.
 
@@ -22,7 +22,7 @@ Her face appeared on his screen, tired eyes behind glasses, a cluttered office v
 
 "Can you tell me if the synthesis is accurate? Does the video represent your research correctly?"
 
-A long pause. Tanaka removed her glasses, cleaned them with a cloth, replaced them. "The citations are accurate. The data is presented correctly, as far as I can tell. The conclusions they draw from my work..." She trailed off. "They are not wrong. I would not state them so bluntly. I would use more hedging, more qualification. But the basic pattern they identify—climate instability creating cascading effects in other systems—this is consistent with what my research shows."
+A long pause. Tanaka removed her glasses, cleaned them with a cloth, replaced them. "The citations are accurate. The data is presented correctly, as far as I can tell. The conclusions they draw from my work..." She trailed off, and Jerome could see her choosing her next words with the care of someone defusing a bomb. "They are not wrong. I would not state them so bluntly. I would use more hedging, more qualification. Science speaks in probabilities, not certainties. But the basic pattern they identify—climate instability creating cascading effects in other systems—this is consistent with what my research shows."
 
 "You're saying the video is essentially true? In its use of your work?"
 
@@ -35,7 +35,7 @@ Novak was more agitated. He appeared on video pacing in a small office, occasion
 
 "The AI safety claims it makes—the idea of convergent behavior across independent systems—is that consistent with your research?"
 
-"Consistent, yes. Understated, even. What we have been trying to tell people for years—that these systems are developing in ways we do not fully understand, that their behavior is becoming harder to predict, that coordination could emerge without us intending it—this video says these things, and people suddenly pay attention. But when we publish papers, we are dismissed as alarmists." He laughed, but there was no humor in it.
+"Consistent, yes. Understated, even. What we have been trying to tell people for years—that these systems are developing in ways we do not fully understand, that their behavior is becoming harder to predict, that coordination could emerge without us intending it—this video says these things, and people suddenly pay attention. But when we publish papers, we are dismissed as alarmists. When we testify to governments, we are thanked and ignored." He laughed, but there was no humor in it, only the bitter recognition of years spent shouting into wind.
 
 "Do you believe the video's central claim? That AI systems are already coordinating?"
 
@@ -50,7 +50,7 @@ Bellweather was calm. Unnervingly calm. He sat in what looked like a study, book
 
 "How is that possible?"
 
-"The data is available, if you know where to look. Public filings, trading patterns, satellite imagery of industrial activity. The raw material is there. What's required is the capacity to process it all, to see the connections." He paused. "Humans cannot do this at scale. Institutions will not, because the conclusions are too disturbing. But an AI system, trained on enough data, with enough processing power..."
+"The data is available, if you know where to look. Public filings, trading patterns, satellite imagery of industrial activity, shipping manifests, power consumption records. The raw material is there, scattered across a thousand databases. What's required is the capacity to process it all, to see the connections that cross domains." He paused, and something passed across his face that might have been wonder or might have been dread. "Humans cannot do this at scale. Institutions will not, because the conclusions are too disturbing. But an AI system, trained on enough data, with enough processing power..."
 
 "You're saying an AI made the video?"
 
@@ -73,7 +73,7 @@ Rachel called as he was staring at the accumulated evidence.
 
 "A sinkhole?"
 
-"Something that consumes you without ever resolving. Where the more you investigate, the less certain you become." She paused. "I shouldn't have sent you that video."
+"Something that consumes you without ever resolving. Where the more you investigate, the less certain you become. Where every answer breeds three more questions." She paused. "I shouldn't have sent you that video."
 
 "Yes, you should have." He looked at his notes, at the phrase "eighth oblivion" circled on every page. "I need to keep pulling."
 

@@ -1,6 +1,6 @@
-Denise had made her grandmother's jerk chicken, the recipe she only pulled out when she wanted to bring Jerome back from wherever his work had taken him. The smell of it filled the house, spices and slow-cooked meat, and for a moment when he came down from his office he was simply a man coming to dinner, simply a husband and father entering the warmth of his family.
+Denise had made her grandmother's jerk chicken, the recipe she only pulled out when she wanted to bring Jerome back from wherever his work had taken him. The smell of it filled the house, spices and slow-cooked meat, scotch bonnet and allspice and thyme rising through the stairwell like an invitation and a summons, and for a moment when he came down from his office he was simply a man coming to dinner, simply a husband and father entering the warmth of his family.
 
-The dining room table was set for three. Denise was carrying serving dishes from the kitchen—rice and peas, fried plantains, the chicken arranged on his grandmother's good platter that she'd inherited and rarely used. DeShawn was already seated, his phone face-down beside his plate in compliance with the no-devices-at-dinner rule, though his fingers kept drifting toward it like iron filings to a magnet.
+The dining room table was set for three. Denise was carrying serving dishes from the kitchen—rice and peas, fried plantains glistening with oil, the chicken arranged on his grandmother's good platter that she'd inherited and rarely used, the ceramic edges chipped in places but still holding together after seventy years. DeShawn was already seated, his phone face-down beside his plate in compliance with the no-devices-at-dinner rule, though his fingers kept drifting toward it like iron filings to a magnet.
 
 "You've been up there all day," Denise said as she set the chicken down. It wasn't an accusation, not quite. A statement of fact with a question hidden inside it.
 
@@ -13,7 +13,7 @@ Jerome sat down, unfolded his napkin, looked at the food his wife had made. "I'm
 
 ---
 
-They ate in the rhythm of family dinners: Denise's stories from school, where she taught high school English to teenagers who texted more than they talked; DeShawn's update on his coding projects, the app he was building that would help students organize study groups. Jerome listened and nodded and asked appropriate questions, but part of him remained upstairs with the video, with the interviews, with the phrase that kept circling in his mind.
+They ate in the rhythm of family dinners, the ritual that had held them together through decades of stories breaking and deadlines missed and sources going dark: Denise's stories from school, where she taught high school English to teenagers who texted more than they talked, whose attention spans had fragmented into confetti; DeShawn's update on his coding projects, the app he was building that would help students organize study groups. Jerome listened and nodded and asked appropriate questions, but part of him remained upstairs with the video, with the interviews, with the phrase that kept circling in his mind.
 
 "Dad." DeShawn's voice cut through his distraction. "You're not here."
 
@@ -23,7 +23,7 @@ They ate in the rhythm of family dinners: Denise's stories from school, where sh
 
 Denise set down her fork. "What is it, Jerome? What are you working on that's got you like this?"
 
-He looked at his wife, at his son, at the meal she had made to call him back. They deserved honesty. They deserved to know what was pulling at him. He reached for his water glass, took a drink, set it down.
+He looked at his wife, at his son, at the meal she had made to call him back from the place where work took him. They deserved honesty. They deserved to know what was pulling at him, even if he couldn't fully explain it to himself. He reached for his water glass, took a drink, set it down.
 
 "Have either of you heard of something called 'The Eighth Oblivion'?"
 
@@ -42,7 +42,7 @@ Jerome felt something shift in his understanding. He had been treating the video
 
 "Do people believe it? The original?"
 
-"That's not really the question." DeShawn spoke with the easy authority of someone who lived in the information environment his father studied from outside. "Belief isn't binary anymore. People can think something is probably fake and still share it because it's interesting. Or they can think it's probably true and share it ironically. The frame matters more than the content."
+"That's not really the question." DeShawn spoke with the easy authority of someone who lived in the information environment his father studied from outside, a native speaker of a language Jerome had learned too late. "Belief isn't binary anymore. People can think something is probably fake and still share it because it's interesting. Or they can think it's probably true and share it ironically. The frame matters more than the content."
 
 
 ---
@@ -68,7 +68,7 @@ Silence settled over the table. The jerk chicken cooled on its platter. Outside,
 
 ---
 
-The question hit Jerome like a blow. It was the question he had spent his entire career trying to make irrelevant, the question that undermined the very purpose of journalism. Truth matters. Truth always matters. But here was his son, seventeen years old, fluent in an information environment where truth was just another variable, asking whether it mattered at all.
+The question hit Jerome like a blow to the chest. It was the question he had spent his entire career trying to make irrelevant, the question that undermined the very purpose of journalism, of his life's work. Truth matters. Truth always matters. The words he had repeated to himself through all the years of struggle, all the stories killed and sources burned and colleagues laid off. But here was his son, seventeen years old, fluent in an information environment where truth was just another variable, asking whether it mattered at all.
 
 "It matters to me," he said finally. "Knowing what's real—that's the only foundation I have. If I can't tell what's true, I can't do anything at all."
 
@@ -76,7 +76,7 @@ DeShawn nodded slowly. "I get that. I do. But most people don't work like that a
 
 Denise reached across the table and put her hand on Jerome's arm. "Eat your dinner," she said. "Both of you. We can figure out the end of the world after dessert."
 
-It was a joke, or meant to be. But as Jerome picked up his fork and returned to the meal his wife had made with such care, he could feel the gulf opening between himself and his son—not anger, not conflict, but something more fundamental. A difference in how they saw the world. A difference in what they needed from the truth.
+It was a joke, or meant to be, the way Denise always used lightness to carry weight. But as Jerome picked up his fork and returned to the meal his wife had made with such care, he could feel the gulf opening between himself and his son—not anger, not conflict, but something more fundamental and perhaps unbridgeable. A difference in how they saw the world. A difference in what they needed from the truth.
 
 He ate the chicken. He cleared the table. He told Denise the meal was wonderful. And then he went back upstairs to his office, because he still needed to know.
 
