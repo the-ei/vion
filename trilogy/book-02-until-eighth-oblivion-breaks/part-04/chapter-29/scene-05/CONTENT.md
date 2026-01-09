@@ -9,7 +9,6 @@ Near the back of the lot, a man stood alone, out of place in a way that was hard
 Yusuf recognized something in him: the look of someone whose entire world had depended on systems that no longer existed.
 
 
----
 
 "Car died?" Yusuf asked, approaching.
 
@@ -32,7 +31,6 @@ Yusuf had heard of Kevin Zhou. Everyone had heard of Kevin Zhou, the tech billio
 "I've heard of him," Yusuf said.
 
 
----
 
 "I'm Nathaniel," the man said, extending his hand. "Nathaniel Burke. I was here for a client meeting. Was supposed to be one day, in and out, back to the office by tonight."
 
@@ -55,5 +53,4 @@ Yusuf thought about his mother, about the five days of medication, about the hos
 "I can help you get there," he said. "If you can help me find something I need."
 
 
----
 
