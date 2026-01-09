@@ -17,7 +17,6 @@ The phone buzzed again.
 His thumb hovered over the notification. Five hundred forty-seven. When his father was alive, they had talked about credit scores like abstract puzzles, numbers that mattered to a world neither of them fully inhabited, a game other people played. Now those numbers were the walls of Yusuf's cage, and the walls were closing in.
 
 
----
 
 Another buzz.
 
@@ -36,7 +35,6 @@ The poke bowl was ready. He drove it to a high-rise downtown, rode the elevator 
 Yusuf smiled the smile he had perfected. "Have a good evening."
 
 
----
 
 Back in the car, he checked the app. His rating had dropped. Four point two stars, down from four point five last week. The algorithm's punishment was already beginning, the invisible hand pressing him down into the lower tier where the good shifts went to others and the complaints accumulated.
 
@@ -49,7 +47,6 @@ Two paths Yusuf had not taken. But his own path didn't feel like escape. It felt
 He finished the shift at eight, pulled into a strip mall parking lot, and sat with the engine running. The math wasn't complicated. At his current rate, paying down the collection account would take a year. During that year, his credit would stay destroyed. Without credit, no apartment. Without an apartment, he would stay in his mother's place. At twenty-seven, still in the room where he had been a child.
 
 
----
 
 He scrolled through his contacts. Names of people who had drifted away, who had their own lives, their own problems. Numbers he had collected during the crisis years, connections that had mattered then and meant nothing now.
 
@@ -74,7 +71,6 @@ It rang twice.
 The question was so simple and so unanswerable that Yusuf almost laughed.
 
 
----
 
 "I've been better," he said. "I've been a lot better."
 
@@ -105,7 +101,6 @@ Yusuf leaned his head against the headrest and closed his eyes. The parking lot 
 "Because I've been thinking about that time a lot lately," Kevin said. "About what it meant. The things we learned, the skills we developed. Some of us got out in ways that were respectable. Some of us didn't. But we all came through something together."
 
 
----
 
 "You didn't need the skills I developed," Yusuf said. "Your skills were already worth something."
 
@@ -132,13 +127,12 @@ The man with the dog had disappeared. The parking lot was empty now, just Yusuf 
 He hung up and sat in the silence. The cascade hadn't stopped. But something else had begun, something he couldn't name yet, something that might or might not be hope.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Amina came through the door carrying a backpack and a duffel bag, wearing a University of Minnesota sweatshirt and the kind of white sneakers that cost more than Yusuf made in a shift. She dropped everything in the hallway and wrapped her arms around him, squeezing hard enough to hurt.
 
@@ -157,7 +151,6 @@ Their mother appeared from the kitchen, wiping her hands on a dish towel. The sm
 He set the table. The same plates they had used his whole life, one chipped on the edge from an argument he barely remembered, his father's voice raised about something that didn't matter anymore. The same forks and knives, the same cloth napkins his mother insisted on even when they couldn't afford the laundry. The small rituals of continuity that held a family together.
 
 
----
 
 Amina had changed in ways that were hard to specify but impossible to miss. It wasn't just the clothes or the laptop she pulled out to show their mother something, scrolling through photographs of a life that looked nothing like this apartment. It was the way she carried herself, the confidence in her movements, the sense that she inhabited a future rather than just enduring a present.
 
@@ -180,7 +173,6 @@ Yusuf ate his food and listened. The lamb stew his mother had made was rich and 
 "Let's talk about something else," Yusuf said.
 
 
----
 
 Their mother began to clear the dishes, waving off their offers to help. She moved slowly, deliberately, the chronic fatigue visible in every gesture. Two jobs, still, at fifty-three: the hotel housekeeping that had destroyed her back and the evening cleaning service that was destroying her knees. Yusuf sent her money every month, had been sending her money since he was nineteen, and it still wasn't enough to let her stop.
 
@@ -209,7 +201,6 @@ Amina listened without interrupting. When he finished, she was quiet for a long 
 "It should be my debt too."
 
 
----
 
 "No. It shouldn't. You were sixteen. You were in high school. You were supposed to focus on getting out."
 
@@ -242,7 +233,6 @@ Yusuf stood up, walked to the window. The street outside was quiet, a few cars p
 "One of them is a tragedy. The other is just weakness." He turned to look at her. "And I don't know which one I am."
 
 
----
 
 Amina came to stand beside him. She was taller than he remembered, almost his height now.
 
@@ -275,7 +265,6 @@ He turned to look at her, his little sister who wasn't little anymore, who was b
 "Because I remember your music. And it was too good to just disappear."
 
 
----
 
 They talked for another hour, the conversation ranging from memories to plans to the careful avoidance of anything too painful. When Amina finally yawned and declared she needed sleep, Yusuf helped her set up the pull-out couch, the same routine from every visit.
 
@@ -300,7 +289,6 @@ But sitting there in the dark, listening to the familiar sounds of the apartment
 He would go to the studio. He would find out what remained.
 
 
----
 
 In the morning, their mother made breakfast. Eggs and flatbread and the sweet tea she had learned to make from her own mother decades ago in a country Yusuf had never seen. Amina talked about her summer plans - an internship she was applying for, a research opportunity that might lead somewhere. Their mother beamed.
 
@@ -323,13 +311,12 @@ Yusuf stood on the sidewalk, looking at the door. Four years since he had walked
 He pushed the door open and walked in.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The lobby smelled the same. That particular mix of cigarette smoke and audio equipment, of late nights and creative desperation, of hope and its opposite. The walls were covered with album artwork, most of it from artists Yusuf didn't recognize but some from people he knew, people he had worked alongside in the years before everything changed.
 
@@ -356,7 +343,6 @@ The voice came from the control room doorway. Darnell Williams, the studio's own
 "For you? I'll make availability. Come on, let me show you what's changed."
 
 
----
 
 The equipment had changed but the room hadn't. The same acoustic panels on the walls, the same couch that had absorbed a thousand conversations about art and money and the places they intersected. The board was newer, digital where the old one had been analog, but Darnell had kept some of the vintage gear - the compressors and preamps that gave the studio its particular sound.
 
@@ -385,7 +371,6 @@ Darnell nodded slowly. "That sounds about right. You had something, Yusuf. Real 
 "You're here. So let's see what's still in there." Darnell gestured toward the live room. "I'll give you two hours. On the house. Call it a welcome back gift."
 
 
----
 
 The live room was smaller than he remembered. Or maybe he had grown. He sat at the keyboard they kept there, a Nord that was newer than anything he had touched in years, and placed his hands on the keys.
 
@@ -397,7 +382,7 @@ His fingers were stiff, uncertain. The patterns that had once flowed through him
 
 Yusuf closed his eyes. Tried not to think. Tried to find the place inside himself where the music had lived, the space he had sealed off when survival became more important than creation.
 
-It was still there. Smaller than before, diminished by neglect, but not gone. He found a melody he had been working on four years ago, something unfinished, and his hands began to move through it. Slowly at first, with mistakes, but moving.
+It was still there. Smaller than before, diminished by years of neglect like a muscle that had atrophied, but not gone. He found a melody he had been working on four years ago, something unfinished that had never left him, and his hands began to move through it. Slowly at first, with mistakes, but moving.
 
 The sound was wrong. Too much rust, too much hesitation. The nuances that used to come naturally now required conscious thought. But beneath the rust, something persisted. The instinct that had made Darnell notice him in the first place, the thing that couldn't be taught because it had to be felt.
 
@@ -406,7 +391,6 @@ He played for an hour. By the end, his hands were aching and his shirt was damp 
 But he had played. He had remembered.
 
 
----
 
 "Not bad," Darnell said when Yusuf came back to the control room. "For someone who's been dead for four years."
 
@@ -414,13 +398,13 @@ But he had played. He had remembered.
 
 "It was rusty. That's different. Rust can be fixed. Absence can't."
 
-Yusuf collapsed onto the couch. His whole body felt wrung out, but not in the way that delivery shifts left him wrung out. This exhaustion was different - productive, somehow, connected to something rather than emptied by it.
+Yusuf collapsed onto the couch. His whole body felt wrung out, but not in the way that delivery shifts left him wrung out, hollowed and defeated. This exhaustion was different - productive, somehow, connected to something rather than emptied by it.
 
 "Why did you stop?" Darnell asked. "For real. Not the life-happened version."
 
 Yusuf thought about it. The question Amina had asked, the question he kept avoiding.
 
-"Because I was scared," he said finally. "Because if I kept trying and failed, that would be worse than not trying at all. At least this way I could tell myself I was a sacrifice. That I gave up something meaningful for my family. But if I had kept going and it turned out I wasn't good enough..."
+"Because I was scared," he said finally. "Because if I kept trying and failed, that would be worse than not trying at all. At least this way I could tell myself I was a sacrifice, a martyr to family duty. That I gave up something meaningful for my family. But if I had kept going and it turned out I wasn't good enough..."
 
 "Then you'd just be someone who couldn't make it."
 
@@ -437,7 +421,6 @@ His phone buzzed. Kevin Zhou's name on the screen.
 "I need to take this," Yusuf said.
 
 
----
 
 He stepped into the lobby, answered the call.
 
@@ -447,7 +430,7 @@ He stepped into the lobby, answered the call.
 
 "Yeah. Go ahead."
 
-"There's a company I'm advising. They do risk assessment, crisis management. Corporate stuff mostly, but they're expanding into new areas." Kevin paused. "They need people who understand how things actually work at the ground level. During the crisis, during the collapse. People who had to navigate broken systems from the inside."
+"There's a company I'm advising. They do risk assessment, crisis management. Corporate stuff mostly, but they're expanding into new areas." Kevin paused. "They need people who understand how things actually work at the ground level. During the crisis, during the collapse, during all the times the official systems stopped functioning. People who had to navigate broken systems from the inside."
 
 "And you thought of me."
 
@@ -464,7 +447,6 @@ Yusuf walked to the window. The street outside was busy with weekend traffic, pe
 "Not exactly. A contract. Trial basis. See if it works. The pay is good - really good. And it's not gig work. It's using what you already know."
 
 
----
 
 "Why are you doing this?" Yusuf asked. "We barely know each other."
 
@@ -488,14 +470,13 @@ Yusuf thought about the keyboard in the other room, the rust in his fingers, the
 
 "Don't thank me yet. Thank me if it works."
 
-After hanging up, Yusuf stood at the window for a long time. Two paths had opened, or maybe they were the same path splitting. The music that couldn't be bought and the skills that suddenly could. The thing he had always wanted to be and the thing he had become in order to survive.
+After hanging up, Yusuf stood at the window for a long time. Two paths had opened, or maybe they were the same path splitting into different futures. The music that couldn't be bought and the skills that suddenly could. The thing he had always wanted to be and the thing he had become in order to survive.
 
 He didn't know yet which direction to take. But for the first time in years, there was a direction to consider. There was a choice to make.
 
 He went back into the control room and asked Darnell about booking regular sessions.
 
 
----
 
 
 

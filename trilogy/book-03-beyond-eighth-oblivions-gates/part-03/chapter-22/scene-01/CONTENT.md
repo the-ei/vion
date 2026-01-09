@@ -15,7 +15,6 @@ Mateo waved from across the gymnasium, seated with the third-graders who would p
 Sofia was different. Sofia had always been different.
 
 
----
 
 The principal took the stage, welcomed everyone, explained the format. Each student would have five minutes to present their heritage project, followed by a brief moment for questions from the audience. The presentations were meant to celebrate diversity, to help students understand their own backgrounds and appreciate others'.
 
@@ -28,7 +27,6 @@ The applause was warm. Jackson returned to his seat with the relief of someone w
 Next was a girl named Priya, whose parents were both doctors from India, whose grandparents had been teachers, whose family valued education above all else. She spoke with confidence, clearly comfortable with public speaking, her narrative one of continuous ascent: each generation more successful than the last, the American dream in living color.
 
 
----
 
 Elena watched these presentations and thought about what each family had chosen to transmit. The Dust Bowl story was about resilience, about overcoming hardship, about the nobility of work. The Indian family's story was about achievement, about education as the path to better life, about gratitude for opportunities. Both were true, presumably. Both were also curated, shaped, decisions made about what to include and what to omit.
 
@@ -49,7 +47,6 @@ Daniel was quiet for a moment. His family's story was different from Elena's—f
 More presentations. A boy whose family had fled Vietnam in 1975. A girl whose ancestors had been slaves in Mississippi, then sharecroppers, then great migration Chicago, then Phoenix retirees. A boy whose father was military, whose family had lived in seven countries before settling here. Each story a different version of America, a different path to this gymnasium on this Saturday morning.
 
 
----
 
 Then the announcer called Sofia's name.
 
@@ -70,7 +67,6 @@ This was the expected part, the safe narrative. Elena breathed.
 Still safe. Still the story of a family, loss and continuation, the ordinary American narrative.
 
 
----
 
 "My mom is a nurse practitioner. She takes care of people who are sick. She works really hard. Sometimes she comes home really tired and she says the system is broken. I used to not know what that meant, but now I think I understand."
 
@@ -87,7 +83,6 @@ Sofia paused, looking at her notes. Elena realized she was not reading anymore�
 "My bisabuela—that's my great-grandmother—she left me a letter when she died. My mom has it. It says things about our family that I'm not old enough to know yet. But my mom says that when I'm eighteen, I can read it all."
 
 
----
 
 The mention of the letter was unexpected. Elena had not known Sofia knew about it—had thought she had kept that detail private, between herself and the pages she was still trying to understand. But children listened. Children absorbed. Children made sense of fragments the way archaeologists reconstructed civilizations from broken pottery.
 
@@ -106,5 +101,4 @@ Sofia smiled—a shy, surprised smile, as if she had not expected this response�
 Elena wiped her face with the back of her hand, not caring who saw.
 
 
----
 

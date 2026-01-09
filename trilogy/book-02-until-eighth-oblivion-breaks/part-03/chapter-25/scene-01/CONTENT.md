@@ -11,7 +11,6 @@ This was the coalition Fatima had told him about. The unlikely alliance she was 
 Yusuf wasn't sure he belonged here. He wasn't sure he belonged anywhere. But Fatima had asked him to come, and after the church basement meeting, after weeks of thinking about what Jerome Washington had said, he had decided to try.
 
 
----
 
 Fatima called the meeting to order at seven. She had the presence of someone used to holding rooms together—calm, direct, the kind of authority that came from competence rather than position.
 
@@ -28,7 +27,6 @@ Yusuf listened, still against the wall, still unsure. These people came from dif
 But Fatima was right. They all saw the same thing. They just saw it from different angles.
 
 
----
 
 The meeting moved to strategy. What could they actually do? Protests were discussed—visible opposition, getting media attention, making the human cost undeniable. Mutual aid networks were proposed—helping each other survive while they fought for larger changes. Political pressure was debated—who to target, what to demand, how to leverage the limited power they had.
 
@@ -47,7 +45,6 @@ Fatima intervened before the argument could escalate. "We're not going to solve 
 Yusuf watched the negotiation with fascination. He had never seen anything like this—people with different ideologies trying to find common ground, disagreeing passionately but staying in the room. His experience of political conversation had been either agreement or exile. This was something else.
 
 
----
 
 The conversation turned to gig workers. Sarah spoke about the algorithmic management systems she had helped build—how they were designed to maximize extraction, to keep workers off-balance, to prevent any organizing or collective action.
 
@@ -68,7 +65,6 @@ The room was listening. Forty pairs of eyes, waiting.
 "It's not just the economics. It's the way they make you feel like it's your fault. Like if you're struggling, it's because you're not working smart enough, not optimizing enough."
 
 
----
 
 He kept talking. He hadn't planned to say so much, but once he started, the words kept coming. He talked about the anxiety of checking his phone, never knowing what the algorithm would offer or withhold. He talked about watching his income drop while working the same hours. He talked about his mother, who still thought hard work was enough because that was what America had promised her when they came here.
 
@@ -85,7 +81,6 @@ Sarah caught Yusuf's eye across the room. Something passed between them—recogn
 Yusuf sat down, his hands still shaking. He had spoken. People had listened. Nothing had changed, and yet something had. He was not just watching anymore.
 
 
----
 
 The meeting continued for another hour, moving through logistics and timelines. A protest was planned for the following month—a rally at the state capitol, bringing together the different constituencies represented here. Mutual aid funds were being organized, a network to help people survive while they fought for longer-term change.
 
@@ -106,7 +101,6 @@ After the meeting ended, Fatima found him by the coffee urn.
 Yusuf took the card, looked at it, put it in his pocket. Translate between worlds. He wasn't sure what that meant yet. But something in him had shifted tonight, some door opening that he hadn't known was closed.
 
 
----
 
 He walked home through the Minneapolis night, the summer air warm and soft. The city was different at this hour—quieter, the daytime bustle faded, the streets belonging to people going home from late shifts or heading out to early ones.
 
@@ -127,5 +121,4 @@ The algorithm could wait.
 Yusuf walked home through the warm night, feeling something new taking shape inside him. Not hope exactly—he had been disappointed too many times to trust hope. But something. Possibility, maybe. The sense that there might be more to life than surviving.
 
 
----
 

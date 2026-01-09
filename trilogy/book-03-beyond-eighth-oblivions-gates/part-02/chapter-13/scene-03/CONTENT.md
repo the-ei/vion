@@ -25,7 +25,6 @@ Priya's brow furrowed. "That's a cop-out."
 "Neither do I. But they're the only truths I have."
 
 
----
 
 Priya set down her tea. She looked at her mother with an expression Ananya couldn't name - not forgiveness, not accusation, something else entirely.
 
@@ -60,7 +59,6 @@ Ananya felt something shift in her chest, a realignment she couldn't quite ident
 "I know."
 
 
----
 
 They sat in silence. The city hummed outside the windows, cars and voices and the distant rhythm of urban life. Inside the apartment, the quiet was total except for the refrigerator's occasional murmur.
 
@@ -91,7 +89,6 @@ Ananya felt tears moving down her face. She didn't wipe them away.
 "I'd like that. The calls."
 
 
----
 
 "Can I ask you one more thing?" Priya said.
 
@@ -114,7 +111,6 @@ Ananya looked at her daughter. Eighteen years old, about to begin a life that wo
 "I know. But I've already been ruined in the ways that matter most. My reputation for ethics is gone. My identity as the good one is gone. All I have left is the chance to tell the truth about what happened. It's not much, but it's something."
 
 
----
 
 Priya stood up, crossed the kitchen, and wrapped her arms around her mother. The embrace was fierce, sudden, unexpected after everything they had said.
 
@@ -145,7 +141,6 @@ Priya nodded, gathered her folder of research, and walked toward the guest room 
 "When I write about you for my college essay - and I will write about you eventually - I'm not going to make it simple. I'm not going to make you a villain or a hero. I'm going to write about someone who tried and failed and tried again. Is that okay?"
 
 
----
 
 "That's okay," Ananya said. "That's the truest version."
 
@@ -180,5 +175,4 @@ Ananya looked toward the guest room, toward the daughter who was trying to learn
 Ananya thanked her friend, hung up, and sat in the dark kitchen until sleep became possible. Somewhere beyond the windows, the city continued its million simultaneous lives. Somewhere down the hall, her daughter dreamed of futures Ananya couldn't predict. And somewhere inside herself, a decision had been made that would change everything that came after.
 
 
----
 

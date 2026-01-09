@@ -17,7 +17,6 @@ Caroline's smile flickered but held. "Direct. I appreciate that." She gestured t
 "The evidence shows exactly what David told you - routine transactions with multiple degrees of separation from anything problematic. In a normal prosecution, this would be dismissed or plea-bargained down to civil penalties. But this isn't normal."
 
 
----
 
 "What makes it abnormal?"
 
@@ -34,7 +33,6 @@ Ruth opened the folder. Press clippings, case summaries, Santos's political traj
 "You understand." Caroline leaned forward. "Here's the difficult truth: the legal merits are on our side, but the legal merits may not matter. A jury will see headlines, will hear senators naming this firm, will want to hold someone accountable for a crisis that hurt them. David's technical innocence is less emotionally satisfying than his symbolic guilt."
 
 
----
 
 "What are the options?"
 
@@ -55,7 +53,6 @@ Ruth thought about what David had said - the suspicions he'd had, the questions 
 "He wants it to be over. He wants his wife back. He wants to stop being the face of a narrative he never asked to be part of." Caroline paused. "What he wants most is to know that his mother doesn't think he's a criminal. But that's not something I can negotiate for him."
 
 
----
 
 The meeting continued for another hour, moving through legal details that Ruth understood better than most clients but found no comfort in understanding. The case was legally defensible but politically exposed. The prosecution was motivated by career advancement rather than justice. The jury pool was contaminated by months of prejudicial coverage.
 
@@ -70,7 +67,6 @@ The answer was more complicated than yes or no. David had participated in a syst
 The law, Ruth had always believed, was supposed to distinguish between these situations. Criminal guilt required intent. But what David had demonstrated was something the law could barely see: the absence of intent to know, the deliberate cultivation of ignorance that allowed profit without responsibility.
 
 
----
 
 She thought about the Prometheus crisis, about the hearing where she had testified, about the counter-narratives competing for public attention. At every level, the pattern was the same: people not knowing, choosing not to know, building systems that made knowing optional.
 
@@ -85,5 +81,4 @@ Ruth rose from the bench and walked back toward the city. She had no answers for
 It was not enough. It was what she had.
 
 
----
 

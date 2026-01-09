@@ -19,7 +19,6 @@ Jessie intercepted her between conversations. "How are you holding up?"
 Jessie looked at her with the particular expression of a spouse who knows too much. "You spent two years making something that questions everything you've done for a living. That's personal."
 
 
----
 
 The executive from the film found her near the wine table. His name was Jonathan something, she remembered - a vice president at one of the major platforms, someone she had interviewed two years ago in a sterile office building, someone whose words she had cut and arranged to make a point about complicity.
 
@@ -46,7 +45,6 @@ He was quiet for a moment. Around them, the reception continued its murmur, peop
 This surprised her. She had expected defensiveness, not reflection.
 
 
----
 
 "You're still there?" she asked. "At the company?"
 
@@ -69,11 +67,10 @@ Ananya appeared at her elbow. "What was that about?"
 "I'm not sure. Either he's angry or he's actually listening. Maybe both."
 
 
----
 
 "Both is probably accurate." Ananya took a glass of wine from a passing tray. "How are you feeling about the response so far?"
 
-"Confused. People seem to like it, but I can't tell if they understood what I was trying to do. Or if what I was trying to do is even possible."
+"Confused. People seem to like it, but I can't tell if they understood what I was trying to do. Or if what I was trying to do is even achievable."
 
 "What were you trying to do?"
 
@@ -94,7 +91,6 @@ Delphine laughed, the tension breaking slightly. "Soon. I have to talk to a few 
 Jessie intercepted him, steering him toward the food table with promises of more interesting conversations, though what conversations might interest a twelve-year-old at a documentary premiere reception Delphine could not imagine.
 
 
----
 
 The reception was thinning. People were drifting toward exits, toward their cars, toward the rest of their evenings. Delphine had done the performance, had talked to the people who needed talking to, had heard enough praise and enough criticism to know that the film would have a life, would be discussed, would matter to someone even if she couldn't yet see who.
 
@@ -119,5 +115,4 @@ Delphine felt the tears she had been holding back threatening again. She blinked
 "You'll figure it out. You always do."
 
 
----
 

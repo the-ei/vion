@@ -23,7 +23,6 @@ Jerome knew this tone. Twenty-three years of marriage had taught him to recogniz
 "Where should I start?" Her voice cracked on the question. "With the fact that you've been gone more than you've been here for the past two months? With DeShawn asking me when his father became a ghost?"
 
 
----
 
 "I'm working on something important."
 
@@ -44,7 +43,6 @@ Jerome felt the words land with the precision of long-observed wounds. She wasn'
 "Changed understanding hasn't saved a single marriage, Jerome. Changed understanding hasn't made a single teenager feel less abandoned by his father."
 
 
----
 
 The accusation settled in the early morning quiet. Jerome could hear the house around them - the hum of the refrigerator, the tick of the clock, the sounds of a home that had sheltered their life together and was now the stage for its potential dissolution.
 
@@ -67,7 +65,6 @@ Jerome wanted to defend himself, to explain that he was doing this for them as m
 "You tell me. Because I'm not sure there is one, for you."
 
 
----
 
 They sat in the silence that follows when words have run out but the conversation isn't over. Outside, the sky was beginning to lighten - the gray pre-dawn giving way to the pinks and oranges of another day that would require choices neither of them was ready to make.
 
@@ -88,13 +85,12 @@ And here he was, facing his own. The story or the family. The pursuit of truth o
 He went to the bedroom and lay down on the bed that had been his and Denise's for two decades, closed his eyes, and tried not to think about what would happen when he woke up.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Jerome woke to the smell of coffee and the sound of voices - DeShawn's, and then Denise's responding. The light through the windows suggested late morning, maybe early afternoon. He had slept longer than he meant to, the exhaustion of travel and emotional confrontation pulling him under.
 
@@ -115,7 +111,6 @@ Denise and DeShawn were in the kitchen when he came down. They stopped talking a
 Jerome sat at the kitchen table, accepted the plate DeShawn brought him. The normalcy of the gesture - his son serving him food, his wife moving around the kitchen, the domestic rhythm that had been their life for seventeen years - felt both comforting and precarious.
 
 
----
 
 "We need to talk," DeShawn said. "All of us."
 
@@ -140,7 +135,6 @@ Jerome looked at Denise, who was watching from the counter. She nodded slightly,
 "Then figure it out." DeShawn's voice was firm in a way Jerome had never heard from him before. "Because you're not the only person who matters. And you're not the only person who needs you."
 
 
----
 
 The words landed differently coming from DeShawn than they had from Denise. His wife's criticism, however valid, could be dismissed as the familiar friction of a long marriage. But his son's - his son, who admired his work, who was interested in the same questions, who might have been Kevin Zhou if circumstances were different - his son's words cut through defenses Jerome hadn't known he was maintaining.
 
@@ -161,7 +155,6 @@ Jerome looked at the list. It was reasonable - more than reasonable, it was mode
 "I know. And I've broken them. But I'm hearing you now. Both of you."
 
 
----
 
 "There's one more thing," DeShawn said. "And this one's just from me."
 
@@ -182,7 +175,6 @@ DeShawn was quiet for a moment. "That's terrifying."
 "Yes. It is."
 
 
----
 
 "Then what's the point?" DeShawn asked. "If we can't know, if understanding isn't possible - why keep investigating?"
 
@@ -203,13 +195,12 @@ Denise reached across the table and took his hand. "Trying is enough. For now. W
 Jerome looked at his family - the wife who had loved him for twenty-three years and was asking for the minimum of reciprocity, the son who was growing up faster than he had noticed - and felt the weight of what he had almost lost.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 That evening, Jerome's phone rang while he was helping DeShawn draft college application essays. The name on the screen made his stomach tighten: Linda.
 
@@ -230,7 +221,6 @@ Their father had been dead for twenty years. But in their mother's mind, he was 
 "Jerome." Linda paused. "I need you to understand something. This isn't a visit you're fitting into your schedule. This is your mother, who is losing herself. She's been asking for you. On her good days, she remembers you and wonders why you never visit. On her bad days, she thinks you're still a child and worries about why you're not home from school yet."
 
 
----
 
 The words hit Jerome with physical force. He had been so consumed by stories about systems and institutions and the future of humanity that he had neglected the most fundamental system of all - his own family, shrinking while he looked elsewhere.
 
@@ -249,7 +239,6 @@ Jerome couldn't tell her those things because he hadn't done them. He had sent m
 "I've heard that before. From you, from our brother before he moved to Seattle and disappeared. Everyone promises to do better, and I'm still the one who shows up."
 
 
----
 
 "Tell me what you need," Jerome said. "Specifically. Not just anger - I deserve the anger - but tell me what I can actually do."
 
@@ -272,7 +261,6 @@ They talked for another ten minutes, arranging logistics - when he would arrive,
 When Jerome hung up, he stood in the hallway for a long moment. His mother's face flickered in his memory - not as she was now, diminished and confused, but as she had been when he was a child, when she had been the center of his world.
 
 
----
 
 DeShawn appeared in the hallway, the college essay forgotten. "Everything okay?"
 
@@ -299,13 +287,12 @@ The question caught Jerome off guard. "Maybe. It happens to a lot of people. The
 "Then we should make the most of the time when you're still you." DeShawn's voice was steady, but Jerome could hear the fear beneath it. "That's what I think about, when I watch Grandma. How important it is to have the conversations now, while they're still possible."
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The drive to Baltimore took just over an hour. Jerome left early Saturday morning, while Denise and DeShawn were still asleep, leaving a note that he would call when he arrived. The promise of dinners and weekends was already being tested by obligations that predated it.
 
@@ -326,7 +313,6 @@ Her face lit up then, the confusion giving way to recognition. "Jerome! When did
 "I just arrived. I wanted to surprise you."
 
 
----
 
 She patted the chair next to her, and Jerome sat. Her hand found his - thin, papery, still warm with life even as so much else faded.
 
@@ -351,7 +337,6 @@ Jerome did remember. His first encounter with a computer, at eight years old, th
 "Not like this." Her voice was small, vulnerable. "I forget important things. I forget who people are. Sometimes I forget who I am."
 
 
----
 
 Jerome squeezed her hand. "You're still you, Mom. Even when you forget things. The person who raised me, who taught me to value truth and work hard and care about the world - that's still you."
 
@@ -374,7 +359,6 @@ His mother was his first teacher in understanding. She had shown him how to read
 "Not as important as you."
 
 
----
 
 Linda arrived around noon, and they left their mother in the care of the facility staff to have the conversation they had been avoiding.
 
@@ -401,13 +385,12 @@ Linda looked at him with an assessment that reminded Jerome uncomfortably of the
 "I'll believe it when I see it. But I'll hope for it too."
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Jerome returned to DC late that night, exhausted in ways that went beyond physical tiredness. The drive had been quiet - just him and his thoughts and the late-night radio playing songs from decades ago, the soundtrack of a life that had moved faster than he had noticed.
 
@@ -422,7 +405,6 @@ What had it all amounted to? He had published careful journalism that had been a
 The investigation materials seemed different now, seen through the lens of his mother's fading memory, his wife's exhaustion, his son's need for presence. Less urgent, less essential, less worth the sacrifice they had extracted.
 
 
----
 
 He thought about what Kevin Zhou had said - that building continued even when the outcome was uncertain, because the alternative was letting others build in your place. The same logic applied to journalism: you kept investigating even when understanding seemed impossible, because the alternative was surrendering the field to those who didn't care about truth.
 
@@ -437,7 +419,6 @@ Jerome pulled out his notebook and began to write - not an article, not research
 "My wife. My son. My mother. My sister. They have borne the weight of my pursuit while I have reaped the benefits. This is not sustainable. This is not just."
 
 
----
 
 He wrote for an hour, the thoughts pouring out faster than he could organize them. About the Eighth Oblivion and what it meant. About institutional uncertainty and the limits of understanding. About his mother's dementia as a personal version of the collective forgetting he was trying to document.
 
@@ -454,7 +435,6 @@ The last thought before sleep took him was of his mother, looking out the window
 He slept without dreaming, for once. The next story could wait.
 
 
----
 
 
 

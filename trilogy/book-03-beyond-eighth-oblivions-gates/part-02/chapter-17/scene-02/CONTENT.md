@@ -9,7 +9,6 @@ He chose a button-down shirt, dark blue, one he had bought for interviews years 
 From the kitchen came the smell of breakfast. His mother was awake.
 
 
----
 
 Mrs. Hassan had made canjeero and eggs, the breakfast she used to prepare for him on important days when he was young. First day of school. Big exams. Job interviews that had never turned into jobs. She stood at the stove with her back to him, but he could see the care she was putting into the preparation, the attention that was her way of saying what she couldn't say in words.
 
@@ -28,7 +27,6 @@ He sat at the small table, the same table where he had sat for thousands of meal
 "You know what you're doing. You've been doing it for years. Now you just do it in a different room."
 
 
----
 
 His phone buzzed. A text from Amina: "Day one!! You're going to be great. Call me after if you want to decompress. Love you."
 
@@ -49,7 +47,6 @@ The first video call was with Kevin himself, welcoming him to the company. Kevin
 "That's exactly your job. You're the person who's going to tell us what we're missing."
 
 
----
 
 The morning passed in a blur of faces and names and information. He met the engineering team - young people mostly, idealistic in the way that people who had never been ground down by algorithms could afford to be. He met the product manager, who asked careful questions about his experience and actually seemed to listen to the answers. He sat through presentations about the company's mission, its values, its commitment to building technology that didn't exploit the people it touched.
 
@@ -60,7 +57,6 @@ Between meetings, he put on his headphones and played the track he had recorded 
 The song ended. A notification popped up: his next meeting in five minutes. He closed the music app and rejoined the world of video calls and shared screens and people who were going to pay him to notice harm before it happened.
 
 
----
 
 At lunch, his mother knocked softly on the living room doorframe. He was between calls, staring at documentation about the company's workforce management systems, trying to understand the architecture of tools that were very similar to the ones that had shaped his own life.
 
@@ -75,5 +71,4 @@ This was what he had been hired to do. This was why Kevin had flown to Minneapol
 Outside, the December sun was setting already, the winter solstice claiming its darkness. The shortest day of the year, and Yusuf had spent it beginning something new. Not the end of what he had been, but the transformation of it. The anger remained. The knowledge remained. He was just finding new rooms to carry them into.
 
 
----
 

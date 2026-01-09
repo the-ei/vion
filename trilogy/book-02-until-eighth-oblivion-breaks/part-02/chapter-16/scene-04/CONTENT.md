@@ -17,7 +17,6 @@ Her face lit up then, the confusion giving way to recognition. "Jerome! When did
 "I just arrived. I wanted to surprise you."
 
 
----
 
 She patted the chair next to her, and Jerome sat. Her hand found his - thin, papery, still warm with life even as so much else faded.
 
@@ -42,7 +41,6 @@ Jerome did remember. His first encounter with a computer, at eight years old, th
 "Not like this." Her voice was small, vulnerable. "I forget important things. I forget who people are. Sometimes I forget who I am."
 
 
----
 
 Jerome squeezed her hand. "You're still you, Mom. Even when you forget things. The person who raised me, who taught me to value truth and work hard and care about the world - that's still you."
 
@@ -65,7 +63,6 @@ His mother was his first teacher in understanding. She had shown him how to read
 "Not as important as you."
 
 
----
 
 Linda arrived around noon, and they left their mother in the care of the facility staff to have the conversation they had been avoiding.
 
@@ -92,5 +89,4 @@ Linda looked at him with an assessment that reminded Jerome uncomfortably of the
 "I'll believe it when I see it. But I'll hope for it too."
 
 
----
 

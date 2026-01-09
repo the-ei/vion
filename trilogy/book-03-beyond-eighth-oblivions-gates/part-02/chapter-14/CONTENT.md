@@ -21,7 +21,6 @@ Elena sat. Her heart was doing something complicated, some arrhythmic performanc
 Dr. Reyes turned the laptop toward her. Images appeared: her thyroid, gray and grainy. Numbers she could read as easily as she read patient charts.
 
 
----
 
 "It's Hashimoto's," Dr. Reyes said. "The antibody levels confirm autoimmune thyroiditis. Your thyroid is under attack from your immune system, as we suspected."
 
@@ -46,7 +45,6 @@ Elena wiped her face, forced herself to engage her clinical mind. "What's the tr
 "I know. We'll talk about how to make it practical. But the autoimmune component is definitely stress-exacerbated. Your body has been telling you something, and now it's shouting."
 
 
----
 
 They talked for another twenty minutes. Dr. Reyes walked her through the medication protocol, the lab schedule, the signs that would indicate the dose needed adjustment. Elena took notes, her handwriting shaky but legible, the familiar act of documenting treatment grounding her.
 
@@ -73,7 +71,6 @@ Daniel stood when he saw her. His face asked the question he was too afraid to v
 "Let's go to the car," she said. "I'll tell you there."
 
 
----
 
 The parking lot was hot, October in Phoenix still carrying summer's memory. They stood between their Honda and someone else's truck, the privacy of cars providing cover.
 
@@ -100,7 +97,6 @@ She leaned against the car, felt the sun-warmed metal through her scrubs. "I don
 "I know." He stepped closer, put his hands on her shoulders. "That's why you're going to have to learn."
 
 
----
 
 The drive home was quiet but not silent. Daniel asked questions about the treatment, the timeline, the specifics of what Elena would need. She answered in clinical terms that became personal as she spoke, the diagnosis shifting from abstract to real with each word.
 
@@ -125,7 +121,6 @@ And then she cried. Not the tears in Dr. Reyes's office, which had been relief m
 Daniel found her there, sat beside her, didn't speak. Just present. Just there.
 
 
----
 
 Later, when the crying had stopped and she felt hollowed out but somehow whole, she told Daniel she needed to call the clinic. She spoke to her director, explained the diagnosis, heard the concern and support in response. Yes, reduced hours would be possible. Yes, they would adjust schedules. Yes, she needed to take care of herself.
 
@@ -152,13 +147,12 @@ That night, with the children asleep and abuela settled in her room, Elena and D
 She couldn't promise. No one could promise anything about bodies and time. But she leaned into him, let him hold her, and said the only true thing available: "I'll try. I'll really try."
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Daniel cooked with the same attention he brought to construction - measuring, leveling, ensuring everything was precisely where it needed to be. The kitchen filled with the smell of his grandmother's recipes: chiles roasting on the burner, beans simmering on the back, the particular spice blend he'd learned before she died.
 
@@ -183,7 +177,6 @@ She sat at the kitchen table, the same place she'd fed hundreds of family meals.
 The words landed somewhere between comfort and confrontation. He had this. He was capable of doing the things she'd always done. The fact that she'd never let him proved nothing about his competence and everything about her control.
 
 
----
 
 The first morning, she tried to get up when the alarm went off. Daniel pressed her gently back into the pillow.
 
@@ -210,7 +203,6 @@ By the third morning, something had shifted. Not quite acceptance, but a weakeni
 He had organized her pills into a weekly container, the kind she'd given to elderly patients for years. Each day's compartment labeled in his careful handwriting.
 
 
----
 
 "You didn't have to do that."
 
@@ -235,7 +227,6 @@ By Thursday, she had stopped trying to interfere. By Friday, she had started to 
 Daniel rolled onto his side, facing her. "What if healing is a kind of work too? What if resting is something you have to learn to do?"
 
 
----
 
 "We need to talk," Elena said. "About more than just this week."
 
@@ -266,7 +257,6 @@ Elena stared at the ceiling. The truth of it settled over her like a weight. She
 "Don't be sorry. Just let me back in."
 
 
----
 
 "What do you need from me?" Elena asked. "Not just now, while I'm sick. What do you need from this marriage?"
 
@@ -297,7 +287,6 @@ Daniel reached across the bed and took her hand. His palm was rough with calluse
 "Then we try again. That's what marriage is, right? Trying again?"
 
 
----
 
 The next morning, Elena woke before Daniel. She lay in bed, feeling the warmth of him beside her, and made herself stay still. Not because she couldn't get up, but because she was choosing not to. The distinction mattered.
 
@@ -326,13 +315,12 @@ Daniel smiled, the first real smile she'd seen on his face in months. The simple
 The marriage had bent. It had nearly broken. But here, in the kitchen that smelled of chilies and eggs, with their children eating breakfast and their bodies slowly learning new rhythms, it was holding. Different than before. But holding.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Her abuela's cane made a sound against the sidewalk that Elena had never noticed before. Click. Pause. Click. The rhythm of a body negotiating with concrete, with gravity, with the accumulated weight of seventy-eight years. They walked together down the street where Elena had grown up, past the Martinez house with its chain-link fence, past the lot where Mr. Dominguez used to work on cars before his hands gave out, past the corner where she had waited for the school bus every morning for twelve years.
 
@@ -351,7 +339,6 @@ Elena adjusted her pace, though it was already slow. The medication made her tir
 Elena didn't argue. Her grandmother saw things that were true whether or not Elena was ready to admit them.
 
 
----
 
 They passed the Nguyen family's house, where the grandmother sat on the porch as she did every afternoon, her hands busy with something Elena couldn't see from this distance. The woman raised a hand in greeting. Elena's abuela raised hers in return. Two old women acknowledging each other across the distance of different languages, different histories, the same bone-deep knowledge of what bodies require.
 
@@ -370,7 +357,6 @@ Elena sat. The metal was warm from the sun, and she could feel it through her je
 "When I was young," her grandmother said, "my body was my servant. I told it what to do and it obeyed. I worked in the fields alongside your grandfather before we came north. I carried water. I carried children. I carried everything."
 
 
----
 
 Her grandmother's hands rested on the top of her cane, fingers wrapped around the wood that Elena's father had carved for her three winters ago. The joints were swollen now, the skin mapped with veins that stood out like rivers seen from space.
 
@@ -389,7 +375,6 @@ Elena felt her throat tighten. "I was taking care of everyone."
 "Everyone except yourself. And the self includes the body. They are not separate, however much we pretend."
 
 
----
 
 The mockingbird had stopped singing. In the silence, Elena could hear the distant sound of traffic on the freeway, the constant hum that had been the background noise of her childhood. She had stopped noticing it decades ago. Now it came back to her, a reminder that the world continued whether or not she was paying attention.
 
@@ -406,7 +391,6 @@ Tears were coming now. Elena tried to blink them back, a reflex built over years
 So Elena let them come. The tears she had been holding since the waiting room, since the diagnosis, since long before that. Tears for the years of exhaustion she had reframed as dedication. Tears for the body she had treated as an instrument instead of a home.
 
 
----
 
 Her grandmother held her while she wept, one arm around her shoulders, the other hand still gripping the cane for balance. They must have looked strange to anyone passing - two women on a bus bench, one ancient and one crying, the late afternoon light turning everything gold.
 
@@ -425,7 +409,6 @@ Elena wiped her eyes with the back of her hand, a gesture from childhood. Her gr
 They sat in the cooling air, watching the shadows lengthen. The Nguyen grandmother had gone inside. The mockingbird had returned to a different tree, running through its repertoire again.
 
 
----
 
 "We should go back," Elena said finally. "The kids will wonder where we are."
 
@@ -450,7 +433,6 @@ It would have been easy to lie, to reassemble the composure that had slipped awa
 Sofia processed this. Then she sat down on the bench, wedging herself between Elena and her great-grandmother, and took both their hands.
 
 
----
 
 Three generations of women on a bus bench that no bus would ever visit. The light had turned amber now, the sun dropping toward the horizon, the air carrying the first suggestion of evening cool. Elena felt her grandmother's hand in one of hers, her daughter's in the other, and something shifted in her chest.
 
@@ -475,7 +457,6 @@ They walked home slowly, the three of them, at the pace of the oldest and the yo
 That night, after the children were in bed, Elena sat in her own bed with a notebook - old-fashioned paper, because screens felt wrong for this - and began to write a letter to her body. She felt foolish at first. But she kept writing anyway, because her grandmother had told her to, and her grandmother had never been wrong about the things that mattered.
 
 
----
 
 
 

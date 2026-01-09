@@ -19,7 +19,6 @@ Yusuf looked at the map. The route wound through suburbs and farmland, avoiding 
 Nathaniel's jaw tightened. "No. I wasn't important enough."
 
 
----
 
 The class dynamics of the revelation settled over the kitchen like a second layer of air. Yusuf's mother was dying because the systems had failed. The people who built those systems had built themselves escape routes. And Nathaniel, who had been part of that world, was now sitting in Yusuf's kitchen offering access to resources that had never been meant for people like Yusuf's family.
 
@@ -46,7 +45,6 @@ Yusuf studied the map. Sixty miles. On foot, with bicycles if they could find th
 "Because I know some of them. Because I can trade information. Because..." Nathaniel stopped. "Because I'm hoping that not all of them are monsters."
 
 
----
 
 Amina spoke from the doorway. "How do you know the map is accurate? That the facility is even real?"
 
@@ -67,7 +65,6 @@ Yusuf traced the route on the map with his finger. Through the suburbs of Plymou
 The silence was the answer. Two to three days. Habiba might not have two to three days. The math was brutal and obvious: if Yusuf left, he might return to find her dead. If he stayed, he would watch her die.
 
 
----
 
 "There's something else," Nathaniel said. "Even if we get there, even if they let us in, even if they have dialysis equipment - we'd need to bring your mother. Or stay long enough for them to give us what she needs to survive the trip."
 
@@ -94,7 +91,6 @@ Yusuf looked at the map. The route, the distance, the uncertainty at the end.
 "I know." He folded the map carefully. "There isn't much time to take."
 
 
----
 
 Nathaniel left to gather what supplies he could for the journey. Yusuf remained at the kitchen table, the map still in his hands, his sister still watching from the doorway.
 
@@ -125,5 +121,4 @@ He wanted to argue with her calm acceptance. He wanted her to protest, to cry, t
 She was right. He hated that she was right.
 
 
----
 

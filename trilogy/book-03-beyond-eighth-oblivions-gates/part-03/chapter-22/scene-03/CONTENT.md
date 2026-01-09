@@ -17,7 +17,6 @@ Elena considered the question carefully. There were many ways to answer, many po
 "Not wrong, exactly. Just... incomplete. But that's okay. All stories are incomplete. You can't fit a whole family into five minutes."
 
 
----
 
 Sofia nodded, processing this. She had her bisabuela's way of thinking before speaking, the deliberate consideration that Elena had never quite mastered herself.
 
@@ -38,7 +37,6 @@ But the words never came easier. You just had to say them.
 "It was true for some people. The ones with good insurance, with money, with the right kind of jobs. But for a lot of my patients—people like our family, people who work hard but don't have much—the story was different."
 
 
----
 
 "Different how?"
 
@@ -63,7 +61,6 @@ Then Sofia said: "That makes sense."
 "Yeah. It's like when kids at school are mean and the teachers could stop it but they don't. It's not just the kids being mean—it's the grown-ups who let it happen."
 
 
----
 
 The comparison was imperfect but Elena nodded. Sofia was making the concept hers, translating it into a scale she could understand. That was how learning worked, she supposed. You took what was too big and you made it smaller, more manageable, until you could hold it.
 
@@ -88,7 +85,6 @@ The truth of this hit Elena like a physical thing. Sofia was right. The inherita
 "Yes," Elena admitted. "You already carry it. But what you do with it—that's yours to decide."
 
 
----
 
 They sat together in the quiet of the morning, mother and daughter, the conversation having reached a pause that did not feel like an ending. Elena thought about all the other conversations they would have—when Sofia was fifteen, eighteen, twenty-five—as the understanding deepened and changed. This was just the beginning.
 
@@ -115,7 +111,6 @@ Daniel laughed, and Elena found herself laughing too, the tension of the convers
 "Not weird at all," Elena said. "It's who you are."
 
 
----
 
 Mateo, bored with the adult conversation, demanded attention for his spaceship. The moment shifted, became family life again, the serious discussion folded into the ordinary chaos of Sunday morning. Elena made more food, Daniel played with Mateo, Sofia retreated to her room to work on homework that was probably already finished.
 
@@ -132,7 +127,6 @@ She picked up her pen and wrote:
 *I don't know if this is a gift or a burden. Maybe it's both.*
 
 
----
 
 She continued writing, the words coming faster now, the barrier between her careful preparation and her actual thoughts finally breaking. The letter became less curated, more raw. She wrote about her fears—that her anger was toxic, that she had burdened her children with problems too large for them. She wrote about her hopes—that Sofia and Mateo would find their own ways of making the world better, ways that Elena could not imagine.
 
@@ -149,5 +143,4 @@ Outside her window, she could hear Sofia in the backyard, talking to Mateo about
 For now, it was enough.
 
 
----
 

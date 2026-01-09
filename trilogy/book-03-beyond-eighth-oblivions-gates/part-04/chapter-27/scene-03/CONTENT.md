@@ -9,7 +9,6 @@ Ananya set the phone down again and sat on the couch, her hands in her lap, star
 Their last conversation had been two weeks ago. A Sunday afternoon, Ananya's time, Sunday evening in Washington where Priya lived now, both of them performing the ritual of weekly contact that had replaced the easier communication of Priya's childhood. The conversation had lasted twenty minutes, maybe twenty-five, and had covered: Priya's new apartment, which had better light than the old one; a restaurant Ananya had tried in the Mission, nothing special but decent; the weather, which was cold in Washington and mild in San Francisco; a piece of legislation Priya was working on, described in terms so general that Ananya understood nothing about it except that it mattered to her daughter.
 
 
----
 
 What they had not discussed: Prometheus. The Eighth Oblivion. The years of crisis that had shaped the world Priya now worked to repair. The role Ananya had played in creating the conditions Priya spent her days trying to address.
 
@@ -20,7 +19,6 @@ Ananya had answered with the careful language she had developed for such occasio
 Priya had listened. Had nodded. Had asked follow-up questions that revealed she was genuinely trying to understand. And then, gradually, she had stopped asking. Not in anger, not in judgment, but in something that felt to Ananya like exhaustion, or perhaps protection. As though Priya had decided that the truth, whatever it was, would cost more than she was willing to pay.
 
 
----
 
 Ananya remembered a moment from that last phone call, a pause in the conversation when the silence stretched slightly too long, and she had felt the presence of everything they were not saying pressing against the words they were saying, a weight both of them carried without acknowledging.
 
@@ -35,7 +33,6 @@ What would Priya want to hear? That was the question Ananya could not answer. If
 Ananya did not know her daughter well enough anymore to predict her response. That was the painful truth she had been avoiding, the price of the careful distance they had maintained. Somewhere in the years of silence and surface conversation, she had lost access to Priya's interior life, had stopped being able to guess what her daughter was thinking or feeling. They loved each other, she was certain of that. But love without understanding was a precarious thing, easily disrupted by revelations that the other person was not who you thought they were.
 
 
----
 
 She thought about calling Priya now. Picking up the phone, not to reply to Delphine but to dial her daughter's number, to say: there's something I need to tell you, something I should have told you years ago. She imagined Priya's voice on the other end, wary and patient, the tone she used when she sensed that a difficult conversation was coming. She imagined trying to explain, trying to find words for the accumulated weight of a decade of choices.
 
@@ -48,7 +45,6 @@ How do you tell your daughter that you spent a decade providing cover for harm y
 How do you explain that staying felt like the only option, and leaving felt like surrender, and now you cannot tell which choice would have been right because both of them led here, to this morning, to this message, to this silence that has grown between you like a wall neither of you knows how to climb?
 
 
----
 
 Ananya stood and walked to the bookshelf where she kept photographs. Priya as a baby, held in Vikram's arms, both of them laughing at something outside the frame. Priya at five, at ten, at fifteen. Priya at her college graduation, standing between her parents who had already begun the slow process of separation, smiling for the camera while the family unraveled around her.
 
@@ -65,5 +61,4 @@ Ananya did not know. But she knew, standing in her apartment in the morning ligh
 And that whatever she decided, she could not decide without thinking about Priya.
 
 
----
 

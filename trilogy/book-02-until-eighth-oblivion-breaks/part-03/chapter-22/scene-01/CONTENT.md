@@ -9,7 +9,6 @@ But he wasn't here for the scenery. He was here because three months after the A
 His editor wanted a story. Jerome wanted the truth. Sometimes those were the same thing.
 
 
----
 
 The hotel was a Best Western near the convention center, seventy-nine dollars a night, continental breakfast included. Jerome checked in, dropped his bag in the room, and immediately headed out to meet his first contact.
 
@@ -28,7 +27,6 @@ They met at a coffee shop in a neighborhood that showed its economic stress in t
 "There's always a story that needs telling. The question is whether anyone will listen when you tell it."
 
 
----
 
 They talked for an hour. Terrence explained the local landscape: the gig workers who had no benefits and no protection, the warehouse employees being replaced by robots and algorithms, the small business owners watching their markets evaporate as tech giants entered every sector. The same story Jerome had heard in other cities, but with local variations, local faces, local specifics.
 
@@ -51,7 +49,6 @@ Terrence looked at him for a long moment, assessing. Then he seemed to reach som
 "Good. I'll send you the address."
 
 
----
 
 That afternoon, Jerome drove around Minneapolis, getting a feel for the city's geography. He took notes on neighborhoods, on the physical markers of economic distress and resilience. Here was a block of boarded-up businesses; there was a community center with a line out the door. Here were the new luxury apartments rising near downtown; there were the older buildings where people actually lived.
 
@@ -76,7 +73,6 @@ He paid for his gas and got back in the car, the afternoon light starting to fad
 Tonight he would eat room service and review his notes and try not to think too hard about whether any of it mattered.
 
 
----
 
 Back at the hotel, he spread his materials across the bed: printouts of economic data, background on local companies and organizations, a list of potential interviews Terrence had provided. He was looking for the shape of the story, the thread that would connect individual experiences to larger patterns.
 
@@ -89,7 +85,6 @@ Jerome organized his notes into categories: Economic Impact, Personal Stories, S
 He made himself a coffee from the hotel room's single-serving machine and sat at the desk, staring at his laptop. The cursor blinked in an empty document, waiting for words he wasn't sure he had.
 
 
----
 
 The question that kept circling in his mind was the one Terrence had raised: What was different this time? Why should anyone expect his article to change anything when so many articles before it had changed nothing?
 
@@ -106,5 +101,4 @@ It was more than he had gotten before. Jerome allowed himself a moment of hope, 
 That would have to be enough.
 
 
----
 

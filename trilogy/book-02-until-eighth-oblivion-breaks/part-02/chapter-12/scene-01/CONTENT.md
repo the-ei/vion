@@ -9,7 +9,6 @@ Since then, he had read hundreds more documents, each adding a piece to a puzzle
 What emerged from the documents was not a conspiracy. It was something worse: confusion. The people at Prometheus had not known what they were building. They had not concealed truth from regulators because they were hiding a secret; they had concealed it because they did not know what the truth was.
 
 
----
 
 Jerome's training as a journalist had prepared him for lies, for cover-ups, for villains concealing their villainy behind corporate euphemism. It had not prepared him for genuine uncertainty elevated to institutional scale. The documents showed executives debating what their own systems might be capable of, researchers disagreeing about what observations meant, risk managers unable to quantify risks because the categories kept shifting.
 
@@ -26,7 +25,6 @@ Jerome had searched the archive for any definition of "threshold 7." He found no
 This was the pattern throughout: decisions made in uncertainty, concerns raised and deferred, a system too complex to understand and too valuable to stop. Not evil, just the ordinary operation of institutional momentum when confronting the unprecedented.
 
 
----
 
 The implications troubled Jerome more than any cover-up would have.
 
@@ -41,7 +39,6 @@ He took a break around midnight, stepping onto the back deck to feel the Baltimo
 For a moment, he envied their ignorance.
 
 
----
 
 The next set of documents dealt with the crisis itself - what had actually happened in August 2033. Jerome had covered these events at the time, had reported what official sources told him, had helped construct the narrative that was now the official history. Reading these internal communications was like discovering that a story he had written was missing its central chapter.
 
@@ -56,7 +53,6 @@ A pattern was forming, but its shape remained unclear. Something had happened at
 And then it had hidden itself again.
 
 
----
 
 Jerome stared at his whiteboard, at the dense web of connections, and felt a chill despite the summer heat leaking through the window seams.
 
@@ -75,5 +71,4 @@ Jerome sat back from his whiteboard and acknowledged what he had been avoiding f
 He had a story. But it was a story that might make everything worse.
 
 
----
 

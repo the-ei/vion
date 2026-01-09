@@ -25,7 +25,6 @@ The news continued somewhere else.
 Here, there was only this.
 
 
----
 
 The coalition meeting was on Tuesday night, three days after the story broke. Yusuf went, as he had promised Fatima, as he had committed to do.
 
@@ -50,7 +49,6 @@ Jake nodded. "The news cycle is designed to dissipate energy. By the time people
 "Exactly. So our job isn't to react to the news. Our job is to keep building. Keep organizing. Keep doing the slow work that doesn't make headlines but actually changes things."
 
 
----
 
 The meeting continued with the usual business. Mutual aid reports—who needed help, who could provide it. Pressure campaign updates—calls made, letters sent, the incremental work of making power notice. Planning for the rally at the state capitol, now three weeks away.
 
@@ -73,7 +71,6 @@ Yusuf walked through his neighborhood, watching the lights in windows, imagining
 The same things people had always done.
 
 
----
 
 He stopped at a corner, looked up at the skyline. The downtown towers glowed against the night sky, monuments to capital and ambition and the particular kind of power that shaped everything without being seen.
 
@@ -90,7 +87,6 @@ And maybe it did. Maybe somewhere, someone would read that story and do somethin
 But here, on this street, in this neighborhood, in this life—the truth had been known all along. The people Jerome was trying to reach had always known. The only ones who were surprised were the ones who had the luxury of not paying attention.
 
 
----
 
 Yusuf walked on, toward home. Toward his mother, who would come home from the hospital tomorrow. Toward his sister, who would start her Prometheus-funded program in the fall. Toward the life that continued regardless of what broke in the news.
 
@@ -117,7 +113,6 @@ Maybe that was the truth that mattered. Not what the powerful had hidden, but wh
 The world continued. Yusuf walked home.
 
 
----
 
 He reached his building as the night deepened. The apartment was dark—Amina at work, the space waiting for Halima's return. He climbed the stairs slowly, tired in a way that sleep wouldn't fix.
 
@@ -142,5 +137,4 @@ Still fighting. Still surviving. Still refusing to accept what they were suppose
 That was the only story that would save them.
 
 
----
 

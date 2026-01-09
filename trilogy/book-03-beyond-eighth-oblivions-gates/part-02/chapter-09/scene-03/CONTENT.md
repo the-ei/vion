@@ -23,7 +23,6 @@ Priya's expression flickered. "Dad's values are pretty obvious. Make money, inve
 "Is it wrong?"
 
 
----
 
 Ananya did not answer. The marriage had ended in part because she could not reconcile her ethics work with Vikram's enthusiastic funding of companies whose business models depended on the same dynamics she was supposed to be constraining. They had learned not to discuss work. The silence had expanded until it filled the whole house.
 
@@ -46,7 +45,6 @@ Priya's fingers hovered over the keyboard. "Okay. Basic question first. Why did 
 "I studied philosophy in college," Ananya began. "I was interested in questions about what we owe each other, how to make decisions that affect other people. When I moved into tech, I saw that those questions were everywhere, but nobody was asking them."
 
 
----
 
 "So you became the person who asked them."
 
@@ -79,7 +77,6 @@ Priya looked up from her laptop. Her eyes, Ananya's own eyes staring back at her
 "Then what was the point?"
 
 
----
 
 Ananya moved to the couch. After a moment, Priya followed, leaving her laptop on the table. The dinner dishes sat abandoned, sauce congealing.
 
@@ -110,7 +107,6 @@ The question from the college essay prompt, transformed into something that cut.
 "I know. I don't have a better one."
 
 
----
 
 Priya stood, walked to the window, stood where Ananya had stood three days ago watching the fog roll in. Her back was straight, her shoulders held with a tension that seemed to come from somewhere deep in her chest.
 
@@ -145,7 +141,6 @@ Priya wiped her face with her sleeve. A gesture from childhood, the five-year-ol
 "I don't know yet. I have to talk to lawyers."
 
 
----
 
 Priya came back to the couch. Sat down, but farther away than before, at the far end where the arm curved. The distance between them measured in cushions, in years, in the accumulated weight of stories Ananya had told about her work that were now revealed as incomplete.
 
@@ -172,7 +167,6 @@ Priya was quiet for a long time. Outside, a siren wailed past, fading into the n
 "I understand."
 
 
----
 
 "But maybe that's what I should write about." Priya pulled her knees up to her chest. "Not about someone who has good values. About learning that the people you admire are more complicated than you thought. About how values don't protect you from failing."
 
@@ -199,5 +193,4 @@ Ananya thought of the files on her laptop, the archived evidence of a decade's w
 "Then we better get started."
 
 
----
 

@@ -15,7 +15,6 @@ Not cancer. The word Elena had been carrying for two weeks, since the blood draw
 "Yes. Your own immune system is attacking your thyroid."
 
 
----
 
 Dr. Reyes continued explaining - medication, monitoring, the long-term management required - but Elena's mind was already turning the information over, examining it with the clinical eye she had developed across a decade of nursing. Autoimmune thyroiditis. Chronic, not acute. Manageable, not terminal. But the word that lodged in her mind was attacking. Her body at war with itself, an insurgency she had not known was brewing.
 
@@ -40,7 +39,6 @@ Elena almost laughed. The past few years. The pandemic that broke something in h
 "You have to."
 
 
----
 
 Dr. Reyes looked at her the way Elena looked at patients who refused to accept their diagnoses. "You've spent years telling other people to take care of themselves. Now it's your turn. Your body is telling you something, and you need to listen."
 
@@ -57,7 +55,6 @@ After the appointment, Elena walked to her car. The Phoenix afternoon was bright
 Her body was attacking itself. The metaphor felt too obvious, too convenient in its symbolism, and yet she couldn't escape it. Years of neglecting herself, of pushing through exhaustion and pain and warning signs, of caring for everyone else while leaving nothing for herself, and now her immune system had turned inward, found the enemy within.
 
 
----
 
 She drove home through traffic that seemed designed to test her. Every red light an obstacle, every slow driver a personal affront designed to test her. She caught herself gripping the steering wheel so tightly her knuckles whitened and made herself loosen her fingers. Stress is inflammatory, Dr. Reyes had said. This moment, right now, her body flooding with cortisol because someone cut her off on the highway - this was part of it. This was the accumulation that had brought her here.
 
@@ -70,7 +67,6 @@ When had she last felt well? She tried to remember and couldn't locate a date. B
 She thought of all the meals she had skipped because someone needed something. The sleep she had surrendered to night shifts, to children with fevers, to worry that kept her staring at the ceiling until dawn.
 
 
----
 
 The anxiety medication she had started six years ago and never stopped because stopping felt like failure, like admitting she couldn't handle what life required.
 
@@ -89,7 +85,6 @@ She put the phone down and looked at her hands. The same hands that had started 
 For the first time in years, she had nowhere to direct her care but inward. The unfamiliarity of it was almost worse than the diagnosis.
 
 
----
 
 She heard the front door open. Sofia's voice calling out, Mateo's feet pounding down the hallway.
 
@@ -120,13 +115,12 @@ Abuela nodded. "I'll make dinner."
 The ordinary rituals of evening began: snacks, homework, the television's distant murmur. Elena moved through them as if through water, her body present but her mind somewhere else, somewhere she had never been before - turned inward, attending to herself.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Daniel's truck pulled into the driveway at six forty-five, the white paint dust-coated from the construction site, the engine ticking as it cooled in the evening air. Elena watched from the kitchen window as he climbed out, still in his work clothes, jeans and a flannel shirt that had seen too many washes. He moved with the careful deliberation of a man who had been driving for three hours, his body stiff, his face set with worry.
 
@@ -149,7 +143,6 @@ She led him to their bedroom, closed the door. The intimacy of the space felt al
 "Autoimmune thyroiditis," she said. "Hashimoto's. My immune system is attacking my thyroid."
 
 
----
 
 Daniel sat on the edge of the bed, the mattress dipping under his weight. His hands hung between his knees, work-roughened hands that had built houses, held their babies, touched her in ways that now felt like distant memory.
 
@@ -178,7 +171,6 @@ Elena felt something crack inside her chest, a fissure running through the wall 
 "Because being here felt like failing." His voice was rough. "You were handling everything. The kids, your abuela, your job. And I'd come home and there was nothing for me to do. Nothing I could do that you weren't already doing better."
 
 
----
 
 "So you left."
 
@@ -201,7 +193,6 @@ Elena stood up and walked to the window. The backyard was dark now, the children
 "Mateo's teacher says he's withdrawn, doesn't participate. I've been meaning to get him evaluated but there's never time because there's never time for anything, Daniel, there's just surviving until the next day and doing it again."
 
 
----
 
 She was crying now, the tears hot on her face, her breath coming in gasps. Daniel crossed the room and tried to hold her but she pushed him away.
 
@@ -226,7 +217,6 @@ Daniel sat back down on the bed. The distance between them felt measured in year
 "Because I didn't tell you. Because telling you felt like admitting I couldn't handle it. And I was supposed to be able to handle it."
 
 
----
 
 "Says who?"
 
@@ -263,7 +253,6 @@ Sofia nodded, seeming to file this away for later processing. "Abuela made enchi
 "Then we better not keep her waiting."
 
 
----
 
 Dinner was an exercise in performing normalcy for an audience of three. Enchiladas that abuela had made from memory, Mateo talking about school, Sofia quiet and watchful as always. Daniel sat beside Elena, their knees touching under the table, a small reconnection amid the larger distance.
 
@@ -294,7 +283,6 @@ She thought about it. The years of parallel existence, of logistics masquerading
 They sat in silence, hands linked, while the night settled around them. Not resolution, Elena knew. Resolution was too neat a word for the mess of human relationship. But willingness. That, for now, was enough.
 
 
----
 
 Later, in bed, Daniel curled against her back, his arm around her waist. The intimacy felt tentative, like they were learning each other again.
 
@@ -329,13 +317,12 @@ She turned in his arms, faced him in the dark. His features were shadows, famili
 For once, she let herself obey.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Two evenings later, Elena sat with her grandmother sorting medications. The ritual happened at seven o'clock every night, immutable as sunset: pill bottles lined up on the dresser in order of dosage, the plastic weekly organizer with its small compartments labeled in both English and Spanish. Abuela's hands were swollen, the joints gnarled from arthritis, but she insisted on doing as much as she could herself. Elena supervised, corrected, worried.
 
@@ -360,7 +347,6 @@ Elena watched her grandmother's hands move from bottle to bottle. The skin was t
 Abuela laughed, a dry sound. "Mija, I am seventy-eight years old. Worrying about my family is what keeps me alive. Don't take that from me."
 
 
----
 
 Elena helped her close the last compartment. Friday, the final day of the week. They sat back, abuela in her recliner with its crocheted blanket, Elena on the edge of the bed. The room was cluttered with the accumulations of a long life: photographs on every surface, religious icons, a collection of ceramic figurines sent by relatives still in Mexico.
 
@@ -383,7 +369,6 @@ Abuela leaned forward, took Elena's hand in her swollen fingers. The grip was st
 "No. Listen. This is important."
 
 
----
 
 Abuela settled back in her chair, her eyes going distant with memory.
 
@@ -402,7 +387,6 @@ Abuela paused, her gaze fixed on the photograph of the Virgin Mary above her dre
 "You are so much like her. The same stubbornness. The same belief that you must carry everything alone. But you see where that belief led her."
 
 
----
 
 Elena wiped her eyes with the heel of her hand. The image of her great-grandmother dying alone among the corn was unbearable, and she understood that was precisely why abuela was telling her. To make it unbearable. To make her see what that kind of strength actually cost.
 
@@ -425,7 +409,6 @@ Abuela squeezed her hand. "None of us learn. We practice. Every day, we practice
 "Simple," Elena repeated. The word felt foreign in her mouth.
 
 
----
 
 "You have been at war with your body, mija." Abuela's eyes held hers. "It is time for peace talks."
 
@@ -454,7 +437,6 @@ Sofia crossed the room and climbed onto the bed beside Elena. Her small body was
 Elena pulled Sofia close, pressed her face into her daughter's hair to hide the tears.
 
 
----
 
 "You already do, mija," Elena said. "Just being here helps."
 
@@ -485,7 +467,6 @@ Elena held her daughter, looked at her grandmother across the dim room. The foll
 It was, perhaps, the first step of peace talks with a body she had fought for too long.
 
 
----
 
 
 

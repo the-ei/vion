@@ -17,7 +17,6 @@ She began again:
 Sofia, when you read this you'll be eighteen—
 
 
----
 
 The pen moved slowly. Elena wrote a sentence, crossed it out, wrote another. She wanted to tell Sofia about being a nurse—not the textbook version but the truth of it, how bodies taught you things you could not learn any other way. She wanted to tell her about the healthcare system, about rage as a form of love, about the difference between accepting what you cannot change and refusing to accept what you can.
 
@@ -34,7 +33,6 @@ When I was your age—the age you are now, not the age you'll be when you read t
 I want to tell you who I am.
 
 
----
 
 Elena wrote about nursing. About the first time she held a dying patient's hand and felt the moment of leaving—not peaceful like the movies showed, but a struggle, a refusal, and then an absence. About the way she went home that night and could not eat, could not sleep, and the next day went back anyway.
 
@@ -47,7 +45,6 @@ By the time you read this, you'll have seen me tired more nights than you can co
 Because here's what I want you to know: the fury and the tenderness are the same thing. I'm angry BECAUSE I love people. Because I've held their hands while they suffered from problems that didn't have to be problems. Because I've watched the system hurt people I was trained to help.
 
 
----
 
 The clock on the microwave said 2:47 AM. Elena had been writing for three hours, and the letter was still not finished. Pages accumulated beside her, some complete, some abandoned, a mess of attempts at transmission.
 
@@ -70,7 +67,6 @@ You will inherit a world that needs fixing. I'm sorry we didn't fix more of it b
 She read it back. It was too much. It was not enough. It was something.
 
 
----
 
 She did not finish the letter that night. By four in the morning, her eyes were burning and the words had stopped making sense. She stacked the pages together, tucked them into a folder, and left them on the table. Tomorrow night she would try again. Or the night after.
 
@@ -107,7 +103,6 @@ Sofia's face showed the particular eleven-year-old mixture of curiosity and exas
 "It'll come faster than you think."
 
 
----
 
 They had breakfast together—cereal for Sofia, toast and coffee for Elena, the domesticity of a Wednesday morning. Mateo was still asleep; Daniel had left for work an hour ago. The house had that particular quiet of people not yet fully present.
 
@@ -132,7 +127,6 @@ Elena watched her daughter navigate the morning. Eleven years old. Seven years f
 What would Sofia carry forward from these years? Not what Elena intended, probably. Something else.
 
 
----
 
 "Mom?" Sofia was looking at her, phone lowered.
 
@@ -163,5 +157,4 @@ The letter waited on the table. Half-finished, probably inadequate, an attempt a
 It was not control. She understood that now. It was offering. You could not make your children receive what you gave. You could only give it and hope.
 
 
----
 

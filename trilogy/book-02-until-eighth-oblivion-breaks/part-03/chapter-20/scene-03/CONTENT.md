@@ -14,7 +14,7 @@ Ruth called. Rebecca answered on the second ring, the sounds of a busy office fa
 
 "It wasn't just Morrison. You looked like you were actually saying what you thought for once. Instead of the diplomatic version."
 
-Rebecca knew her too well. At forty-three, with twenty years of social work behind her, she had developed the same capacity for reading people that Ruth had developed in courtrooms. They were alike in ways that sometimes startled Ruth—the same directness, the same impatience with pretense.
+Rebecca knew her too well. At forty-three, with twenty years of social work behind her—twenty years of watching families fracture and reunite and fracture again—she had developed the same capacity for reading people that Ruth had developed in courtrooms. They were alike in ways that sometimes startled Ruth—the same directness, the same impatience with pretense.
 
 "Maybe I was," Ruth admitted. "I'm getting too old to pretend anymore."
 
@@ -27,7 +27,6 @@ Rebecca knew her too well. At forty-three, with twenty years of social work behi
 "I am different. I think something shifted today. I'm not sure what yet."
 
 
----
 
 They talked for an hour. Rebecca was dealing with a surge in her caseload—families in crisis, unemployment claims that couldn't be processed fast enough, the leading edge of economic anxiety hitting the people least equipped to handle it. She didn't connect it explicitly to ATLAS-7, but Ruth heard the connection anyway.
 
@@ -41,7 +40,7 @@ Ruth thought about the testimony she had given, the careful legal analysis that 
 
 "I'm sorry you're dealing with that," she said.
 
-"It's the job. I knew what I was signing up for." Rebecca paused. "I think about mom sometimes. When things get hard. She would have known what to do."
+"It's the job. I knew what I was signing up for." Rebecca paused, and Ruth heard the weight of that pause, the years of accumulated difficulty that lived in it. "I think about mom sometimes. When things get hard. She would have known what to do."
 
 "Susan always knew what to do."
 
@@ -52,7 +51,6 @@ It was true. Susan's certainty had been the certainty of action, not knowledge�
 Maybe it was time to argue with honesty instead.
 
 
----
 
 "I'm going to write something," Ruth said, surprising herself with the announcement. "Something that says what I actually think. Not testimony. Not legal analysis. Something honest."
 
@@ -79,7 +77,6 @@ Ruth sighed. David. Her son, who worked in the industry she was contemplating at
 "And he's also someone who fundamentally disagrees with what I believe. That doesn't stop being true just because we share DNA."
 
 
----
 
 After the call with Rebecca, Ruth sat alone in the hotel room as evening settled into night. The city lights came on beyond her window, the same view she had been looking at for two days, now transformed by what she was planning to do.
 
@@ -93,14 +90,13 @@ She began to write.
 
 *That world is over.*
 
-The words came easier than she expected. They had been building for years, the doubts she had suppressed, the questions she had avoided asking. Now they poured out onto the page like water through a broken dam.
+The words came easier than she expected. They had been building for years, decades even—the doubts she had suppressed, the questions she had avoided asking, the accumulated weight of professional caution. Now they poured out onto the page like water through a broken dam, and she found she did not want to stop them.
 
 She wrote about the hearing she had just given, about the senators who had nodded and taken notes and would do nothing. She wrote about the lobbyists in the gallery, the power arrangements that determined outcomes regardless of testimony. She wrote about her career, the compromises she had made, the effectiveness she had imagined she was achieving while the systems she criticized grew stronger and faster.
 
 She wrote until midnight, and then she saved the draft and closed her laptop and sat in the dark.
 
 
----
 
 She should have felt exhausted, but instead she felt something like relief. The essay was rough—barely a first draft—but it existed. The words were on the page rather than circling in her head. Tomorrow she would refine them, cut and add and shape. And then she would have to decide whether to publish.
 
@@ -121,7 +117,6 @@ Something was converging. The testimony, the essay, the journalist's inquiry. Pi
 Sleep came slowly, and when it came, it was full of dreams she wouldn't remember.
 
 
----
 
 In the morning, before she left Washington, she opened the email again and composed a reply.
 
@@ -133,12 +128,11 @@ It felt like stepping off a ledge. The essay she was writing, the journalist's i
 
 What was left to protect?
 
-She packed her suitcase, checked out of the hotel, and caught the train back to Georgetown. Through the window, the American landscape slid past—suburbs and farmland and the particular green of the Mid-Atlantic in spring. She thought about her parents, who had survived the Holocaust and immigrated to this country believing in its promises. She thought about Susan, who had believed in the power of individual action to make things better. She thought about Rebecca, still fighting in the trenches of social services, and David, building wealth on the assumption that the system would hold.
+She packed her suitcase, checked out of the hotel, and caught the train back to Georgetown. Through the window, the American landscape slid past—suburbs and farmland and the particular green of the Mid-Atlantic in spring. She thought about her parents, who had survived the Holocaust and immigrated to this country believing in its promises—her mother's accent that never quite faded, her father's nightmares that he never discussed, the faith they had placed in American institutions because the alternative was despair. She thought about Susan, who had believed in the power of individual action to make things better. She thought about Rebecca, still fighting in the trenches of social services, and David, building wealth on the assumption that the system would hold.
 
 The system was not going to hold. That was the thing she knew now, the thing she had probably known for years without admitting it. The essay would say it out loud. The journalist would document it. And she would have to live with whatever came after.
 
-The train carried her home, and Ruth watched the world pass by, already composing the next paragraph in her head.
+The train carried her home through a landscape her parents would have found unimaginably peaceful, and Ruth watched the world pass by, already composing the next paragraph in her head, already becoming something other than what she had been.
 
 
----
 

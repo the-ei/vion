@@ -5,7 +5,6 @@ She walked through the treatment floor with a fresh pair of gloves snapping agai
 The smell was the thing she would remember later, if she remembered anything at all, which seemed uncertain. Antiseptic and sweat and the particular staleness of air that had been breathed too many times by too many people, the ventilation system running but not enough, never enough.
 
 
----
 
 A woman in her seventies lay on the examination table in bay four, her skin the color and texture of parchment left too long in the sun, her eyes open but fixed on the ceiling tiles as if counting them, as if the count mattered, as if arriving at a final number might constitute a form of understanding. Diabetic ketoacidosis. Elena knew this without looking at the chart because she had treated three other cases in the past forty-eight hours, because the crisis had interrupted insulin supplies and now the bodies were catching up to the interruption, the chemistry of neglect expressing itself in rapid breathing and fruity-smelling breath and the gradual dissolution of everything that had been held together.
 
@@ -18,7 +17,6 @@ Insulin next. She calculated the dose, drew it into the syringe, administered it
 "Is it over," Mrs. Reyes said. It was not a question.
 
 
----
 
 "Yes," Elena said. "The emergency protocols have been lifted. You're going to be fine. Your blood sugar was very high, but we're bringing it down."
 
@@ -33,7 +31,6 @@ From somewhere down the hall came a sound that might have been crying or might h
 The dawn light had reached Mrs. Reyes's face now, catching the deep lines around her eyes, the yellowish tint of her skin that would improve with treatment, the particular exhaustion of someone who had survived something they had not expected to survive.
 
 
----
 
 Elena walked to the supply closet, which had been ransacked and restocked and ransacked again, the shelves a palimpsest of crisis management, each layer of absence and replenishment telling its own story of what had been needed and when. Saline bags remaining: twelve. Insulin vials: four. Gauze: enough. Syringes: running low but not critical. She made mental notes that she would forget and someone else would make the same notes and they would muddle through as they had been muddling through, the system held together by the exhaustion of the people working it.
 
@@ -56,7 +53,6 @@ She turned. Dr. Okonkwo stood in the doorway, his white coat stained in ways tha
 Home. The word had no referent. She thought of the apartment in Phoenix, the unmade bed, the children's rooms empty because the children were in Flagstaff, or supposed to be in Flagstaff, and she had not been able to confirm this, had not been able to reach anyone.
 
 
----
 
 "I need to finish with Mrs. Reyes," she said. "Then I'll see."
 
@@ -69,13 +65,12 @@ The generator hummed beneath everything. Main power had been restored, officiall
 She leaned against the wall and pressed her hands to her face and breathed. Thirty seconds. That was all she allowed herself. Then she pushed off the wall and walked toward the next patient, the next task, the next breath.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Between patients, she tried her phone. The screen displayed two bars of signal, a miracle given the past week, and she touched Daniel's name and listened to the silence that followed, the silence that stretched and stretched until it became a tone, a mechanical voice saying that all circuits were busy, please try again later. She tried Sofia's tablet, the one with the parental controls and the tracking feature that was supposed to let her know where her daughter was at any time, but the app spun its loading wheel and eventually displayed an error she did not have the capacity to interpret.
 
@@ -94,7 +89,6 @@ Elena tried Daniel again. The call dropped before it could even connect. She sta
 "My mother in Tempe. My brother says she's fine but I haven't heard her voice." Dr. Reyes picked at a tear in the vinyl chair. "It's the not hearing that's the worst part."
 
 
----
 
 A text arrived from a number Elena did not recognize, and for one frozen moment she thought it might be Daniel calling from someone else's phone, but it was a message from the county emergency services, an automated broadcast: SITUATION STABILIZED. SHELTER-IN-PLACE ORDER LIFTED. RETURN TO NORMAL OPERATIONS WHEN SAFE. The message had been sent four hours ago, languishing in some digital queue before reaching her. Normal operations. Elena read the words several times, trying to find meaning in them, trying to remember what normal operations had felt like, whether she had ever performed them or only imagined that she had.
 
@@ -107,7 +101,6 @@ Three days ago they had been safe. Three days was a long time.
 She tried calling back. The circuits were still busy.
 
 
----
 
 The man with the infected laceration was named Rodriguez, and he wanted to talk. He sat on the examination table while Elena cleaned his wound and he talked about what he had seen: the power going out, the fires on the horizon, the neighbors who had left and the neighbors who had stayed, the way the silence had been the worst part, the silence when all the humming machines stopped and you could hear exactly how alone you were.
 
@@ -134,7 +127,6 @@ The woman looked up. Her face was tear-streaked but composed, the crying apparen
 "No. I don't think so." The woman looked back at her hands. "I just didn't know where else to go."
 
 
----
 
 Elena sat down beside her. This was not protocol, not procedure, not the efficient deployment of medical resources, but she sat anyway, in the plastic chair beside this woman whose name she did not know, in the waiting room that smelled of disinfectant and fear.
 
@@ -159,13 +151,12 @@ She did not leave a message. What would she say? I'm alive. Are you alive? The q
 She hung up and went to find the next patient.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Mr. Gutierrez was seventy-four years old and severely dehydrated. His chart said this, the numbers spelling out a story of neglect that was not his fault, that was no one's fault, that was simply what happened when systems failed and bodies were left to their own devices. Elena read the chart and saw the numbers and began the treatment protocol: IV access, saline bolus, electrolyte panel, monitor for cardiac complications. His skin was loose over the bones of his hands, and when she touched him to find a vein she thought of her abuela's hands, though her abuela's hands were darker, softer, though the comparison made no sense except that everything was making connections now, her mind sliding between present and past without her permission.
 
@@ -182,7 +173,6 @@ She blinked. The fluorescent lights were on. The room was bright. Mr. Gutierrez 
 "That's nice," Elena heard herself say. Her hands adjusted the drip rate. Her hands were competent. Her hands had not stopped being competent even when the rest of her had stopped being anything at all.
 
 
----
 
 *The generator stuttered. This was the second night, or the third. The stutter lasted four seconds, which was long enough for Elena to think: this is it, this is how we lose them, all of them, the ones on ventilators, the ones whose medications required refrigeration, the ones for whom the fragile technological membrane between living and dying was about to dissolve.*
 
@@ -199,7 +189,6 @@ Mr. Gutierrez was telling her about his wife. His wife had died three years ago.
 "That's lovely," Elena said. She checked his blood pressure. It was stabilizing. The saline was doing its work. Some things still worked. Some interventions still intervened.
 
 
----
 
 *The woman with the head wound. Middle of the night, second or third, time had collapsed into itself. She came in carried by two men Elena didn't know, neighbors maybe, strangers helping strangers because there was no one else. The wound was deep. Elena could see the white gleam of bone through the blood, and she had worked by flashlight because the generator was prioritizing the ICU, had stitched by flashlight while the woman screamed and screamed and then stopped screaming, which was worse.*
 
@@ -220,7 +209,6 @@ The pattern of the curtain around Mr. Gutierrez's bed was blue flowers on a whit
 She did not believe him. She smiled anyway, because the smile was a kind of medicine too, and he deserved whatever medicine she could offer.
 
 
----
 
 *Dr. Okonkwo's voice over the emergency radio, calm even when calm was impossible:* We're losing the south wing. Redirect all resources. *And she had redirected, had moved through the chaos with a purpose that felt like walking through water, every step an effort, every step a choice not to stop.*
 
@@ -237,7 +225,6 @@ Elena stood beside his bed and breathed.
 She looked at the morning glories on the curtain and waited for her mind to quiet. It did not quiet. She kept breathing anyway.
 
 
----
 
 *The water, someone screamed. Don't drink the water.*
 
@@ -262,13 +249,12 @@ Elena walked out of the treatment bay and stood in the hallway and pressed her p
 Then she put her hands down and looked at her phone. Still no signal. Still no news. She walked toward the next patient.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The phone rang. It actually rang, the sound arriving like something from another era, and for a moment Elena did not understand what it was, this electronic chirping that used to be the most ordinary thing in the world and now seemed like a miracle or a hallucination, an artifact from a civilization she had once belonged to. She was in the back hallway, near the staff bathrooms, and she fumbled the phone from her pocket and saw Daniel's name on the screen and pressed accept so hard she nearly dropped the device.
 
@@ -289,7 +275,6 @@ Elena made a sound that might have been a laugh or might have been a sob. The wa
 "Sofia's watching cartoons. Mateo's asleep on the couch. He's been asking for you constantly." A pause. "Elena, where are you? What's happening there?"
 
 
----
 
 "I'm at the clinic. I've been here since." Since when? She could not reconstruct the timeline. "Since you left. Since the evacuation."
 
@@ -320,7 +305,6 @@ Another silence. This one lasted longer. She could hear him breathing, the famil
 "Elena, things are never going to stabilize. You know that."
 
 
----
 
 She did know. She knew it and still she could not leave, some part of her fused to this place, to these tasks, to the work that gave her a reason not to think about everything else.
 
@@ -353,7 +337,6 @@ The song. The bedtime song Elena had sung to both children since they were infan
 "Okay." Another silence. "Mommy? Are the bad things over?"
 
 
----
 
 Elena closed her eyes. The wall held her up. Through the phone she could hear the cartoon voices, the false cheerfulness of animated animals having adventures, and beyond that the silence of a house in Flagstaff where her children waited for her to say something that would make the world make sense.
 
@@ -376,13 +359,12 @@ They stayed on the line for another minute, not speaking, just breathing togethe
 She stood in the hallway for a long time after. The fluorescent lights buzzed. Someone walked past, a nurse she should know, and nodded at her, and she nodded back. The call was over. Her family was alive. She should feel relieved. She did feel relieved, somewhere beneath the numbness. But relief was not the same as knowing what to do next, and she did not know, could not know, stood there not knowing until her legs started moving again of their own accord, carrying her toward the next patient, the next task, the next breath.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The break room was never designed for this. It was designed for lunch and coffee and mild complaints about scheduling, for the small daily frictions of institutional life, and now it held six people who had forgotten how to do anything but sit, their bodies arranged on the worn couch and the plastic chairs like debris deposited by a flood that had receded without warning. Elena was among them, though she did not remember deciding to sit, did not remember walking here, only remembered that at some point her legs had stopped carrying her and this is where they had stopped.
 
@@ -393,7 +375,6 @@ The television was on, muted, showing a news broadcast. A woman at a desk, lips 
 The overhead light flickered once and everyone tensed. Then it steadied, and the tension remained, the aftermath of a flinch that would take months to unlearn.
 
 
----
 
 Elena thought about the patient with the broken arm. He had come in during the second day, maybe the third, when the clinic was at its most overwhelmed and every available surface had become a treatment space. His arm had been broken by something falling, a shelf, a cabinet, something in his home that had toppled when the tremors hit, though whether the tremors were seismic or something else entirely had never been explained to her satisfaction. But his arm was not what he wanted to talk about. His arm was secondary to the question he kept asking, the question that had become a kind of fever in him, more urgent than any physical pain: his daughter, his daughter, had anyone heard from his daughter, she had been downtown when it started, she had been in one of the buildings that might have fallen or might have held.
 
@@ -404,7 +385,6 @@ The crying nurse had stopped crying. She was eating now, methodically, without a
 The television showed footage of a street somewhere, damage she could not identify, people walking through wreckage.
 
 
----
 
 The refrigerator hummed. The fluorescent lights hummed. The generator beneath the building hummed, still running even though it was no longer necessary, no one willing to turn it off, no one trusting that it would not become necessary again at any moment. Elena listened to these sounds and let them become the texture of the silence, the white noise of aftermath.
 
@@ -423,7 +403,6 @@ The evening had arrived without anyone noticing. Through the window, the parking
 Elena sat. She breathed. She waited for something that had already passed to feel like it had passed, for the ending to catch up with the event it was meant to conclude. Outside, the city continued its silent convalescence, and somewhere her children slept in unfamiliar beds, and somewhere patients waited for care she was not giving them, and she sat very still and let the time move around her like water around a stone, eroding nothing, changing nothing, simply passing.
 
 
----
 
 
 

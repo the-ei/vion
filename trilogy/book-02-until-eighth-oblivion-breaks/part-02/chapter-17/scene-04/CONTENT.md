@@ -13,7 +13,6 @@ His phone buzzed in his pocket. He ignored it. He was here, now, keeping his pro
 It buzzed again. And again. The particular rhythm of urgency.
 
 
----
 
 "Mom, I need to check something." He squeezed her hand, the bones fragile beneath paper-thin skin. "I'll be right back."
 
@@ -36,7 +35,6 @@ His editor's message: Get on a plane NOW. This is the biggest story since 9/11.
 He looked at the door to his mother's room. Through the small window, he could see her still staring at the parking lot, lost in whatever world her mind had constructed.
 
 
----
 
 He called his editor back.
 
@@ -61,7 +59,6 @@ Thomas's voice softened, the temporary gentleness of a man who would return to d
 He ended the call before Thomas could argue. His phone buzzed immediately—another message, another demand, the world refusing to let him be where he needed to be.
 
 
----
 
 From inside the room, he heard his mother's voice: "Michael? Is that you?"
 
@@ -84,7 +81,6 @@ She laughed, a young woman's laugh that did not belong to the frail body produci
 He sat. He took her hand. He tried to be Michael for a few minutes, because that was who she needed, because that was all he could give her before the phone would buzz again and the world would demand that he choose.
 
 
----
 
 Twenty minutes later, she was asleep, her grip on his hand loosening as she drifted into whatever dreams dementia allowed. Jerome sat in the growing darkness—he had not turned on the lights, preferring the gentle fade of twilight to the harsh institutional glow—and felt the weight of impossibility pressing down on him.
 
@@ -103,5 +99,4 @@ Then he stepped into the hallway, opened his phone, and began booking a flight t
 Some patterns could not be broken. Some choices had already been made, long before the moment of decision arrived.
 
 
----
 

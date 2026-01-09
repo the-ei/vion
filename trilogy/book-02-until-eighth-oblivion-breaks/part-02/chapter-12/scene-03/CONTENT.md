@@ -17,7 +17,6 @@ Kevin Zhou's response came slowly, as if he were weighing each word.
 "I wasn't at Prometheus. I can't speak to their specific systems."
 
 
----
 
 Jerome pushed gently. "But you've heard things. You've been to gatherings where people discuss what actually happened, not what's in the official reports."
 
@@ -36,7 +35,6 @@ Kevin Zhou's response was even slower this time. When it came, it was more perso
 "I run an organization like that. Not as large as Prometheus, but structured similarly. And yes - uncertainty at every level is accurate. We build systems we don't fully understand, we deploy them because the market demands deployment, and we hope we can correct problems before they become catastrophic. It's not malice. It's the ordinary operation of competitive pressure in a field where no one can predict outcomes."
 
 
----
 
 "Would you be willing to meet in person?" Jerome asked. "I'd like to understand better what you're building and how it relates to what happened at Prometheus."
 
@@ -59,7 +57,6 @@ Jerome knew this was true. It was the epistemological problem at the heart of th
 "I don't know. Maybe write it anyway and accept that you can't control how it's used. Maybe write something that explicitly addresses the interpretation problem. Maybe don't write anything at all. I'm not a journalist - I build systems. I'm probably the wrong person to ask."
 
 
----
 
 The conversation ended with Kevin Zhou promising to think about a real interview. It wasn't commitment, but it was more than Jerome had expected. Something in their exchange had built enough trust to leave the door open.
 
@@ -76,5 +73,4 @@ How do you write a story like that?
 Jerome didn't know. But he knew he had to try.
 
 
----
 

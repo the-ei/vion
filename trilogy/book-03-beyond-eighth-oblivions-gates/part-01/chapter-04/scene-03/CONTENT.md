@@ -21,7 +21,6 @@ DeShawn was quiet for a moment, his face doing that processing thing Kevin had l
 "Tell me about your company," DeShawn said finally. "What actually happened?"
 
 
----
 
 Kevin had told the story before, in fragments, but never the whole thing. Something about DeShawn's question - the genuine curiosity in it, the willingness to hear something that might complicate his certainty - made Kevin want to tell it properly.
 
@@ -44,7 +43,6 @@ DeShawn's expression had changed. Not convinced, but not dismissive either. "You
 "I didn't know enough to ask the right questions. And by the time I understood what was happening, I was so deep inside the system that leaving felt like failure."
 
 
----
 
 "But you did leave."
 
@@ -73,7 +71,6 @@ Kevin understood both sides of that dynamic. The father who saw patterns from ex
 "Is that what he's saying? Or is he saying be careful?"
 
 
----
 
 DeShawn didn't answer. The question hung between them, complicated by whatever history Kevin couldn't see.
 
@@ -104,7 +101,6 @@ But hope wasn't certainty. And the pattern was strong.
 After the call ended, Kevin sat in his apartment and looked at the Oakland lights through his window. The city was beautiful at night, in its rough way - the harbor lights reflecting off the water, the hills rising dark against the sky, the ordinary accumulation of a million small lives being lived.
 
 
----
 
 He thought about the conversation. About what DeShawn had said regarding his father - the impossible-to-please father, the gap between them that felt like disapproval but might be something else.
 
@@ -131,7 +127,6 @@ Mr. Washington, my name is Kevin. I'm a former tech founder who has been informa
 He read it three times, then hit send before he could change his mind.
 
 
----
 
 Then he stood at the window and watched the lights and waited to see if anything would come of it.
 
@@ -152,7 +147,6 @@ Was that hope or hubris? He couldn't always tell the difference.
 He finished his tea and went back to his desk. The code was still there, patient and impersonal, waiting for his attention. He opened the file and began working again, letting the logic of the system carry him away from questions he couldn't answer.
 
 
----
 
 At eleven, he closed his laptop and prepared for bed. The day had been long - the morning's coding interrupted by DeShawn's news, the afternoon's walk through Oakland with its complicated thoughts about distance and belonging, the evening's conversations that might or might not have changed anything.
 
@@ -177,5 +171,4 @@ Tomorrow would be different. Tomorrow Yusuf would be here.
 Tomorrow would bring new threads to follow, new questions to carry, new attempts to do whatever small good remained possible in a world that kept finding ways to absorb good intentions into larger designs.
 
 
----
 

@@ -5,7 +5,6 @@ She rose without turning on the lamp, navigating by memory through the familiar 
 The hallway was silent as she passed the children's rooms. Sofia's door was closed, as it always was now that she was fifteen and insisted on privacy with the ferocity of someone constructing a self, and Elena resisted the urge to open it and check on her daughter the way she had when Sofia was small.
 
 
----
 
 Mateo's door was ajar, and through the gap she could see the shape of him beneath his blankets, twelve years old and still sleeping with the stuffed elephant he had received on his first birthday, though he would have been mortified if anyone at school knew. She did not go in. The floorboards in his room creaked, and he was a light sleeper, and she had learned years ago that the best gift she could give her children on these early mornings was the gift of not waking them.
 
@@ -14,7 +13,6 @@ At the end of the hall, the door to Abuela's room stood open. Elena paused at th
 The kitchen was dark and cool, the tile floor cold against her bare feet. She started the coffee maker, the same machine they had owned for twelve years, its plastic housing yellowed and one of the buttons cracked, but still functional, still producing the same adequate coffee it had always produced, reliable in its mediocrity.
 
 
----
 
 While she waited for the coffee to brew, Elena stood at the kitchen window and watched the darkness outside. Their neighborhood was quiet at this hour, the streets empty except for the occasional sweep of headlights from someone else starting an early shift. The houses across the street were all dark, their occupants still sleeping, and Elena felt the peculiar solitude of being awake when the world was not, the sense of existing in a pocket of time that belonged only to her. She had come to cherish these mornings, these forty-five minutes before the rest of the household stirred, when she could drink her coffee in silence and read the news on her phone or simply sit with her own thoughts, uninterrupted by the needs of her children or her mother-in-law or her patients, the only portion of the day that belonged entirely to her.
 
@@ -23,7 +21,6 @@ The coffee maker beeped. She poured herself a cup, black, no sugar, the way she 
 She checked her phone. No messages, which was good. Messages at this hour usually meant something had gone wrong at the clinic or with one of Abuela's medical alerts. She scrolled through the news, the same stories she had read the night before, the same conflicts and controversies and small disasters that populated the endless stream of information.
 
 
----
 
 At 5:30, she rinsed her cup in the sink and gathered her things: her badge, her stethoscope, the insulated lunch bag she packed each night with the same rotation of salads and leftovers. She wrote a note on the whiteboard by the refrigerator, as she did every morning: "Left at 5:35. Call if you need anything. Abuela's glucose was 112 at 4:50. Love, E." The note was for Daniel, who would wake at six and take over the morning routine, getting the children ready for school and checking on his mother before leaving for his own job at the construction site in Mesa, three hours away if traffic was bad.
 
@@ -32,7 +29,6 @@ The drive to the clinic took twenty-two minutes at this hour, before the traffic
 The clinic parking lot was mostly empty when she arrived. Rosario's car was already there, as it always was, the old Honda Civic with the peeling bumper sticker that said "Nurses Call the Shots." Elena pulled into her usual spot, the one three spaces from the door, and sat for a moment before going in.
 
 
----
 
 Inside, the clinic held the particular stillness of early morning, the fluorescent lights not yet fully warmed, casting their bluish pallor over the empty chairs, the air conditioning humming its constant mechanical hum. Rosario was at the front desk, a cup of coffee in one hand and the day's schedule printed out in front of her, the way she liked to review it before the first patients arrived. She looked up when Elena came in, her face creasing into the smile that had greeted Elena every morning for the past five years.
 
@@ -47,5 +43,4 @@ Elena went to the break room and hung up her jacket, then checked the schedule o
 She poured herself another cup of coffee from the break room pot and stood by the window, watching the sun clear the mountains to the east, the last traces of color fading from the sky as the day began in earnest. In forty-five minutes, the first patient would arrive, and the machinery of the clinic would start to turn, the familiar rhythm of vital signs and patient histories and treatment plans that structured her days. For now, though, the world was quiet, and the coffee was hot, and everything was exactly as it should be, as it had always been, as it would always be.
 
 
----
 

@@ -11,7 +11,6 @@ A young woman approached DeShawn with a business card and a smile that contained
 But perhaps it did matter. Perhaps it mattered differently than Jerome had been able to see.
 
 
----
 
 The room began to empty as people moved toward the next session, the next opportunity. Jerome stayed. He had nowhere else to be and no desire to navigate the corridors of this conference any further. The booths with their demonstrations, the networking lounges with their algorithmic matchmaking, the panels on AI governance and ethical scaling—none of it was for him. He was a guest here, a visitor from an older mode of accountability.
 
@@ -28,7 +27,6 @@ The post office had been about delivery. Getting things where they needed to go.
 Maybe journalism was the same. Maybe what DeShawn was building was the same again, transformed once more.
 
 
----
 
 A fragment from DeShawn's presentation surfaced:
 
@@ -49,7 +47,6 @@ His son looked up. "You stayed."
 "I stayed."
 
 
----
 
 "There's a coffee place down the hall that's less chaotic than the networking lounges," DeShawn said. "Twenty minutes? I need to finish with a couple of people."
 
@@ -72,7 +69,6 @@ Jerome typed: He mentioned me. It was different than I expected. Will call tonig
 He put the phone away. The coffee was bitter and overextracted, the kind of thing that passed for artisanal in contexts where no one was paying attention to the actual product. He drank it anyway.
 
 
----
 
 What did it mean, to have your work used as foundation?
 
@@ -91,7 +87,6 @@ His father would not have understood any of this. His father understood packages
 Three generations of the same stubborn refusal.
 
 
----
 
 DeShawn arrived carrying his own coffee and a pastry he probably did not need but had earned. He looked tired in a way that suggested adrenaline fading, the comedown after performance. Jerome recognized the feeling—the interviews after a big story broke, when you had to be articulate about work you wanted to stop thinking about.
 
@@ -112,7 +107,6 @@ They regarded each other. Father and son, fifty-seven and twenty-three, journali
 "I thought that," Jerome said carefully. "I'm not sure anymore."
 
 
----
 
 The noise of the conference continued beyond their alcove: the chatter of networking, the announcements of upcoming sessions, the ambient hum of commerce dressed as innovation. Jerome and DeShawn sat in their small quiet, two men trying to find language for something that had changed.
 
@@ -129,5 +123,4 @@ Jerome nodded slowly. He had thought similar things, late at night, when another
 The echo was intentional. Father and son, using each other's words.
 
 
----
 

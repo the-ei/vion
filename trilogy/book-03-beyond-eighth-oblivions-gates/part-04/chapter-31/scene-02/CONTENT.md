@@ -19,7 +19,6 @@ The question hung in the air between them, weighted with all the conversations t
 I believed some of it, Ananya said slowly. I believed that the process existed, that reviews were being conducted. What I didn't understand, or didn't let myself understand, was how little the process actually changed.
 
 
----
 
 Delphine advanced through the footage, showing other clips from the Prometheus years. Internal meetings where Ananya's face appeared in the background, present but not central. Press conferences where executives spoke and Ananya stood to the side, available to answer questions about ethics that were rarely asked.
 
@@ -36,7 +35,6 @@ Delphine clicked through the files, showing the organization.
 I've been building this archive for six years. Since before I knew I was building it for anything. I just knew that someone needed to preserve what was happening, because the companies would never preserve it themselves.
 
 
----
 
 Ananya sat down in the chair Delphine offered, her eyes fixed on the screens, feeling the weight of history pressing in around her.
 
@@ -55,7 +53,6 @@ Because I was lying?
 Because you weren't lying, but you also weren't telling the whole truth. You were in an impossible position, and the footage shows exactly how impossible it was.
 
 
----
 
 They watched more footage. Hours of it, or what felt like hours. The past appearing on screens in fragments, a story that Ananya had lived now presented back to her as evidence, as documentation, as the raw material of history.
 
@@ -70,7 +67,6 @@ It's complicated.
 It's very complicated. That's what I'm trying to capture. The narratives we've told about the Eighth Oblivion are too simple. The evil corporation, the corrupt executives, the innocent public. But that's not what the record shows. The record shows a system, and systems don't have villains the way stories need villains.
 
 
----
 
 Ananya looked at the screens, now dark, the parade of images and documents temporarily silenced.
 
@@ -91,7 +87,6 @@ And you think that will help?
 I think it's necessary. I think without the inside perspective, the documentary becomes just another piece about tech malfeasance, and people will watch it and nod along and learn nothing.
 
 
----
 
 The light in the room had shifted while they watched the footage, the afternoon moving toward evening. Through the window, Ananya could see the Los Angeles hills, the houses scattered across the slopes, the lives being lived behind walls she would never see through.
 
@@ -112,5 +107,4 @@ I know, Delphine said. That's why this has to be an honest accounting, not a hit
 Ananya turned back from the window. Then let's talk about what that actually means.
 
 
----
 

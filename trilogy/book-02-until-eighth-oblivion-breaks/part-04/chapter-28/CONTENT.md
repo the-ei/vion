@@ -11,7 +11,6 @@ Nothing.
 Beside him, Denise stirred, her face turned away on the pillow, still deep in sleep. The school year exhausted her in ways his flexible schedule as a freelance journalist never quite matched, and he tried to let her sleep when he could. He slipped out of bed quietly and walked to the living room, where the router blinked red in the pre-dawn dimness.
 
 
----
 
 Red meant no connection. Red meant the device was trying and failing to reach the network. Jerome unplugged the router, counted to thirty, plugged it back in. The lights cycled through their startup sequence: amber, amber, amber, red. He tried again. Red.
 
@@ -26,7 +25,6 @@ In the bedroom, Denise was waking, he could hear her moving, and he was not read
 He turned it on.
 
 
----
 
 The radio crackled with static, then voices. A local AM station, one he had not listened to in years, was broadcasting. The announcer's voice was calm but strained, the professional composure of someone delivering news they did not fully understand.
 
@@ -55,7 +53,6 @@ Denise appeared in the kitchen doorway, her face still soft with sleep, and look
 He did not know how to answer her.
 
 
----
 
 "Something's wrong with the internet," he said. "The whole internet, I think. Not just us. Everywhere."
 
@@ -88,13 +85,12 @@ It was the question she always asked, the teacher's instinct to organize informa
 "Power is on. Radio is working. Internet is not. Phones are spotty at best. Something is affecting systems on a large scale." He paused. "Something bad."
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 By eight o'clock, Jerome had filled three pages of the legal pad. He wrote in the handwriting he had almost forgotten he possessed, the cursive script his mother had insisted he learn forty years ago, before keyboards made handwriting seem like an affectation of the elderly. He wrote what the radio said: outages reported. systems affected. the following areas. stay tuned for updates. He wrote what the radio didn't say: anything about cause, scope, duration, or meaning.
 
@@ -107,7 +103,6 @@ He could not verify. He could not triangulate between sources. He could not call
 He had a legal pad and a battery-powered radio and his own observations, which were limited to the view from his window and the silence of his devices. He was less informed than a nineteenth-century newspaper editor in a small town. At least that editor could walk outside and ask people what they'd seen.
 
 
----
 
 Jerome stared at his notes. He had organized them by category: RADIO REPORTS, OBSERVATIONS, TIMELINE, QUESTIONS. The QUESTIONS list was longest. What caused this? How widespread? How long will it last? Is this a cyberattack? Who is responsible? What do the authorities know?
 
@@ -122,7 +117,6 @@ He thought about his years of investigation. The sources who had warned him abou
 None of it had mattered. Not one word.
 
 
----
 
 The systems had failed anyway. The fragility he had documented was manifesting exactly as he had predicted, and his predictions had done nothing to prevent it. The gap between knowing and acting, between journalism and change, between truth and consequence, had never felt wider or more painful.
 
@@ -141,7 +135,6 @@ Denise appeared in the doorway again, dressed now, her teacher's bag over her sh
 "I'm going to try to get to school," she said. "The automated message said cancelled, but it cut off. I want to see what's happening."
 
 
----
 
 "Should you be going out?" Jerome asked.
 
@@ -166,7 +159,6 @@ His son was somewhere in this broken system, working for a company that interfac
 Where was he now?
 
 
----
 
 Jerome went to the window again and looked out at the unchanged street. A delivery truck passed, then another. The morning traffic was lighter than usual, perhaps, but not absent. People were still moving through the city, still going about their routines, still living as if this were an ordinary Tuesday in an ordinary world. Maybe they didn't know yet. Maybe they thought it was just their own phone, their own computer, a local outage that would be fixed by noon.
 
@@ -181,13 +173,12 @@ Jerome wrote it down. He wrote everything down, not because it would become jour
 The morning stretched on. The radio talked. Jerome listened and wrote and waited for something to make sense, and nothing did.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Denise returned at noon, her face flushed from the heat outside. She had not made it to the school; the traffic lights on 33rd Street were out, causing gridlock that stretched for blocks, and when she finally reached the building she found it locked, a paper sign on the door saying CLOSED UNTIL FURTHER NOTICE in hasty handwriting, the letters uneven as if the hand that wrote them had been shaking.
 
@@ -210,7 +201,6 @@ She was right, of course. She was usually right about practical matters, the thi
 She paused, her hand on the pantry door. "Nothing?"
 
 
----
 
 "Nothing. Calls drop. Texts say delivered but I don't trust it."
 
@@ -241,7 +231,6 @@ Denise looked at him, really looked, and he saw the strain beneath her calm. She
 "Go now," she said. "I'll keep listening to the radio. If anything changes, I'll come get you."
 
 
----
 
 Jerome stood, feeling the ache in his back from sitting hunched over the radio all morning. He looked at the legal pad, at the pages of notes that meant nothing without a way to share them, without a platform to give them meaning.
 
@@ -262,7 +251,6 @@ It was the absolution he needed, and he resented needing it, resented her for gi
 He kissed her on the cheek and left the apartment, taking the stairs up three floors to Mrs. Patterson's door.
 
 
----
 
 The door was ajar, propped open with a book, a thick hardcover that looked like it might have been a Bible. Jerome knocked on the frame.
 
@@ -287,13 +275,12 @@ Mrs. Patterson nodded, unsurprised. She had lived through enough to know that un
 "Would you like some tea?" she asked. "The stove still works. Gas, you know. Old-fashioned."
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Back in his apartment, Jerome sat with the phone in his hand and thought about his son.
 
@@ -306,7 +293,6 @@ And then DeShawn had taken the job. A startup in the Bay Area, one of Kevin Zhou
 Jerome had written about Kevin Zhou twice. Both pieces had been critical. Both pieces had been accurate. Both pieces had been ignored by the people with power to change anything. And both pieces had meant that his son now worked for someone Jerome had publicly called a danger to democratic society.
 
 
----
 
 He tried calling again. The phone rang once, a thin distant sound, then silence. Not even a recording, not even an error message. Just silence.
 
@@ -323,7 +309,6 @@ Jerome didn't know. He couldn't know. The silence between them was absolute.
 He remembered teaching DeShawn to ride a bicycle, the way the boy had fallen and gotten up, fallen and gotten up, his knees bloody and his face determined, refusing to quit until he could circle the block without wobbling. He remembered driving DeShawn to college, the twelve hours of highway and awkward silence, the hug in the dormitory parking lot that had lasted longer than either of them expected, that had said everything words could not.
 
 
----
 
 He remembered the argument at Thanksgiving two years ago, the one that had almost ended in DeShawn leaving early. Jerome had made a comment about Kevin Zhou, something about the surveillance implications of predictive infrastructure, and DeShawn had exploded. "You criticize everything," he had said. "You see risk in everything. You don't understand that some of us are actually trying to build things instead of just tearing them down."
 
@@ -340,7 +325,6 @@ Denise had intervened then, had steered the conversation elsewhere, had smoothed
 Now Jerome sat with his silent phone and wondered if that argument would be the last real conversation he ever had with his son. The thought was unbearable, so unbearable that he could hold it only for seconds before his mind flinched away from it. He pushed it away. DeShawn was fine. DeShawn was a grown man who could take care of himself. The networks were down, not the world. The networks were down, not the world. He repeated it like a prayer he didn't believe.
 
 
----
 
 But the networks were the world now. That was the whole point, the thing Jerome had been trying to say for years, the truth DeShawn had never been willing to hear because hearing it would have meant questioning everything he'd chosen. The infrastructure was not separate from life. It was life. It was how people communicated, worked, bought food, received medical care, navigated from place to place. It was the nervous system of civilization, and when it failed, everything failed with it.
 
@@ -357,13 +341,12 @@ He thought about calling DeShawn again. He thought about trying different number
 "I didn't ask if you were hungry. Come have some lunch."
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 At four o'clock, Jerome went back upstairs to check on Mrs. Patterson. The tea she had offered earlier had been surprisingly good, a loose-leaf blend her late husband used to buy from a shop that had closed years ago. She had talked about Gerald Patterson for an hour, about his job at the steel plant before it closed, about the garden he used to keep on the roof of the building, about the way he would sit by this same window in the evenings and watch the city settle into darkness.
 
@@ -386,7 +369,6 @@ He sat down in the chair across from her, the same chair he had occupied that mo
 "More of the same. Outages. Confusion. No one knows much."
 
 
----
 
 "That's how it was in '68," she said. "The riots. Nobody knew anything. The radio would say one thing and you'd look out the window and see something different. Gerald used to say the news was always twelve hours behind reality."
 
@@ -407,7 +389,6 @@ Jerome opened the closet and found the tanks, neatly arranged on a small rack. T
 "We'll figure it out together. And if the power does go out, I'll come up right away. I promise."
 
 
----
 
 She looked at him with an expression he couldn't quite read. Gratitude, maybe. Or something deeper, some recognition of the connection that forms between strangers when the world forces them to stop being strangers, when the systems that keep people apart stop functioning and leave only the humans behind.
 
@@ -426,7 +407,6 @@ Jerome thought about his legal pad downstairs, the notes that would never become
 It should have felt like a comedown, a diminishment, a surrender. A journalist who had won a Pulitzer, reduced to checking on neighbors and carrying sandwiches, learning how oxygen tanks worked. But it didn't feel that way. It felt, for the first time since the morning, like something he could actually do, like something that might actually matter to someone, somewhere, today.
 
 
----
 
 By evening, the radio had begun to repeat itself, the loop of uncertainty tightening. The same announcements, the same fragments, the same unhelpful advice, as if the announcers had run out of new ways to say they didn't know anything. Jerome sat in his own apartment, the legal pad on the table in front of him, and made a decision.
 
@@ -457,7 +437,6 @@ She put down her book and looked at him with something that might have been reli
 The darkness was coming now, the March evening settling over Baltimore like a hand pressing down. Jerome sat next to his wife on the couch and listened to the quiet of a city that had stopped talking to itself, a city that had fallen silent for the first time in living memory, a city that was, perhaps, learning to listen again.
 
 
----
 
 
 

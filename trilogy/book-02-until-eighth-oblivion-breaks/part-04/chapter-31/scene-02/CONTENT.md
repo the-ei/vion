@@ -15,7 +15,6 @@ Daniel opened his arms.
 She fit against him the way she always had, her head against his shoulder, her hands finding the familiar terrain of his back. But he was different now - leaner, harder, his body stripped down to essential components. He smelled of sweat and dust and something chemical she could not identify, and beneath it, faintly, the soap they kept at home. As if he had showered before leaving, nine days ago, and that soap was still clinging to whatever remained of the man she had married.
 
 
----
 
 "The children," she said into his shoulder.
 
@@ -40,7 +39,6 @@ He nodded, kissed her forehead, and walked past her into the clinic. She watched
 Now there were thirty-seven names on a list, and Daniel was home, and somehow both of those things were true in the same moment.
 
 
----
 
 In fragments, over the next hour, she learned what had happened.
 
@@ -67,5 +65,4 @@ She crossed to him and took his hand. His palm was blistered, the skin raw. He h
 He did not answer. But he squeezed her hand once, tight, and that was enough.
 
 
----
 

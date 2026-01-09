@@ -23,7 +23,6 @@ The voice came from the control room doorway. Darnell Williams, the studio's own
 "For you? I'll make availability. Come on, let me show you what's changed."
 
 
----
 
 The equipment had changed but the room hadn't. The same acoustic panels on the walls, the same couch that had absorbed a thousand conversations about art and money and the places they intersected. The board was newer, digital where the old one had been analog, but Darnell had kept some of the vintage gear - the compressors and preamps that gave the studio its particular sound.
 
@@ -52,7 +51,6 @@ Darnell nodded slowly. "That sounds about right. You had something, Yusuf. Real 
 "You're here. So let's see what's still in there." Darnell gestured toward the live room. "I'll give you two hours. On the house. Call it a welcome back gift."
 
 
----
 
 The live room was smaller than he remembered. Or maybe he had grown. He sat at the keyboard they kept there, a Nord that was newer than anything he had touched in years, and placed his hands on the keys.
 
@@ -64,7 +62,7 @@ His fingers were stiff, uncertain. The patterns that had once flowed through him
 
 Yusuf closed his eyes. Tried not to think. Tried to find the place inside himself where the music had lived, the space he had sealed off when survival became more important than creation.
 
-It was still there. Smaller than before, diminished by neglect, but not gone. He found a melody he had been working on four years ago, something unfinished, and his hands began to move through it. Slowly at first, with mistakes, but moving.
+It was still there. Smaller than before, diminished by years of neglect like a muscle that had atrophied, but not gone. He found a melody he had been working on four years ago, something unfinished that had never left him, and his hands began to move through it. Slowly at first, with mistakes, but moving.
 
 The sound was wrong. Too much rust, too much hesitation. The nuances that used to come naturally now required conscious thought. But beneath the rust, something persisted. The instinct that had made Darnell notice him in the first place, the thing that couldn't be taught because it had to be felt.
 
@@ -73,7 +71,6 @@ He played for an hour. By the end, his hands were aching and his shirt was damp 
 But he had played. He had remembered.
 
 
----
 
 "Not bad," Darnell said when Yusuf came back to the control room. "For someone who's been dead for four years."
 
@@ -81,13 +78,13 @@ But he had played. He had remembered.
 
 "It was rusty. That's different. Rust can be fixed. Absence can't."
 
-Yusuf collapsed onto the couch. His whole body felt wrung out, but not in the way that delivery shifts left him wrung out. This exhaustion was different - productive, somehow, connected to something rather than emptied by it.
+Yusuf collapsed onto the couch. His whole body felt wrung out, but not in the way that delivery shifts left him wrung out, hollowed and defeated. This exhaustion was different - productive, somehow, connected to something rather than emptied by it.
 
 "Why did you stop?" Darnell asked. "For real. Not the life-happened version."
 
 Yusuf thought about it. The question Amina had asked, the question he kept avoiding.
 
-"Because I was scared," he said finally. "Because if I kept trying and failed, that would be worse than not trying at all. At least this way I could tell myself I was a sacrifice. That I gave up something meaningful for my family. But if I had kept going and it turned out I wasn't good enough..."
+"Because I was scared," he said finally. "Because if I kept trying and failed, that would be worse than not trying at all. At least this way I could tell myself I was a sacrifice, a martyr to family duty. That I gave up something meaningful for my family. But if I had kept going and it turned out I wasn't good enough..."
 
 "Then you'd just be someone who couldn't make it."
 
@@ -104,7 +101,6 @@ His phone buzzed. Kevin Zhou's name on the screen.
 "I need to take this," Yusuf said.
 
 
----
 
 He stepped into the lobby, answered the call.
 
@@ -114,7 +110,7 @@ He stepped into the lobby, answered the call.
 
 "Yeah. Go ahead."
 
-"There's a company I'm advising. They do risk assessment, crisis management. Corporate stuff mostly, but they're expanding into new areas." Kevin paused. "They need people who understand how things actually work at the ground level. During the crisis, during the collapse. People who had to navigate broken systems from the inside."
+"There's a company I'm advising. They do risk assessment, crisis management. Corporate stuff mostly, but they're expanding into new areas." Kevin paused. "They need people who understand how things actually work at the ground level. During the crisis, during the collapse, during all the times the official systems stopped functioning. People who had to navigate broken systems from the inside."
 
 "And you thought of me."
 
@@ -131,7 +127,6 @@ Yusuf walked to the window. The street outside was busy with weekend traffic, pe
 "Not exactly. A contract. Trial basis. See if it works. The pay is good - really good. And it's not gig work. It's using what you already know."
 
 
----
 
 "Why are you doing this?" Yusuf asked. "We barely know each other."
 
@@ -155,12 +150,11 @@ Yusuf thought about the keyboard in the other room, the rust in his fingers, the
 
 "Don't thank me yet. Thank me if it works."
 
-After hanging up, Yusuf stood at the window for a long time. Two paths had opened, or maybe they were the same path splitting. The music that couldn't be bought and the skills that suddenly could. The thing he had always wanted to be and the thing he had become in order to survive.
+After hanging up, Yusuf stood at the window for a long time. Two paths had opened, or maybe they were the same path splitting into different futures. The music that couldn't be bought and the skills that suddenly could. The thing he had always wanted to be and the thing he had become in order to survive.
 
 He didn't know yet which direction to take. But for the first time in years, there was a direction to consider. There was a choice to make.
 
 He went back into the control room and asked Darnell about booking regular sessions.
 
 
----
 

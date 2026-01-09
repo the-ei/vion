@@ -13,7 +13,6 @@ DeShawn didn't know this pattern. He only knew that the biggest player in the in
 Kevin Zhou opened his video call app and connected.
 
 
----
 
 DeShawn's face appeared on screen, backlit by the startup workspace Kevin Zhou recognized from previous calls. He looked younger than usual, bright with enthusiasm, the look of someone who believed something wonderful was happening.
 
@@ -29,12 +28,11 @@ DeShawn's expression flickered, a hint of caution entering his enthusiasm. "What
 
 "I'm saying they want to integrate it. Integration sounds collaborative but functions as consumption. They're not interested in your vision - they're interested in your technology. There's a difference."
 
-DeShawn leaned back, his jaw setting. Kevin Zhou recognized the body language - he had held himself the same way, years ago, when older colleagues had tried to warn him about the industry's patterns. The young heard warnings as fear, not wisdom. They heard "be careful" as "don't try." They couldn't distinguish between caution born of experience and anxiety born of failure.
+DeShawn leaned back, his jaw setting. Kevin Zhou recognized the body language - he had held himself the same way, years ago, when older colleagues had tried to warn him about the industry's patterns. The young heard warnings as fear, not wisdom. They heard "be careful" as "don't try," as if the messenger's own failures were the only possible explanation for caution. They couldn't distinguish between caution born of experience and anxiety born of failure.
 
 "I hear what you're saying," DeShawn said carefully. "But this is different. What we've built isn't just technology - it's a whole approach. The integration they're interested in requires understanding the philosophy behind it. They can't just take the code and run."
 
 
----
 
 "That's what every founder thinks. I thought the same thing about my company. The technology is unique, the approach is specific, they'll need us to make it work." Kevin Zhou kept his voice level, trying not to sound condescending. "But Prometheus has resources you can't imagine. They'll spend six months extracting everything you know, then build a team of their own people to continue the work. You'll be on an 'advisory' committee that never meets. Your equity will be in stock that vests over years you won't stay. By the time you realize what happened, it'll be too late to do anything about it."
 
@@ -55,7 +53,6 @@ The silence stretched between them. Kevin Zhou could see DeShawn processing, wei
 But negotiating with Prometheus wasn't like negotiating with other startups or with investors who needed your success. Prometheus didn't need DeShawn's startup to succeed; they only needed it not to succeed independently. The acquisition might be designed to prevent competition rather than to acquire capacity. Kevin Zhou didn't know how to explain this without sounding paranoid.
 
 
----
 
 "Can I ask you something?" DeShawn's tone had shifted, becoming more direct. "When you had your company, before everything fell apart - if Prometheus had approached you, would you have listened to someone telling you to be careful?"
 
@@ -76,7 +73,6 @@ DeShawn was quiet for a long moment. When he spoke again, his voice was softer. 
 "I know. Constraints are real. I'm not saying the choice is simple. I'm saying it's a choice. Don't let it get made for you by momentum."
 
 
----
 
 The call ended with polite thanks, neither of them quite satisfied. Kevin Zhou set down his phone and stared at the wall of his apartment, processing what had just happened. He had tried to warn DeShawn, and DeShawn had listened without hearing. The words had landed but hadn't penetrated. In a week, maybe two, DeShawn would sit down with Prometheus executives and begin the process of signing away control of his work.
 
@@ -93,7 +89,6 @@ Kevin Zhou shelved the thought for now. He needed time to process, to consider w
 He returned to his own work, trying to focus on the mutual aid platform's latest development challenges. But his mind kept returning to DeShawn's excited face, the certainty in his voice, the brightness of hope that couldn't yet see the trap it was walking into.
 
 
----
 
 In the afternoon, an email arrived that briefly distracted him from the DeShawn situation. A foundation he didn't recognize - the Resilience Futures Initiative - wanted to discuss funding for his mutual aid platform. They had heard about the project through "network connections" and were interested in supporting expansion.
 
@@ -108,5 +103,4 @@ He thought about his parents in Shanghai, increasingly unreachable as US-China r
 Building small, building local, building accountable - these weren't just technical choices. They were answers to the question of what kind of power should exist in the world.
 
 
----
 

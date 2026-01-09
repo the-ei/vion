@@ -7,7 +7,6 @@ The pines were dusted with snow. Flagstaff's elevation meant winter in ways that
 Daniel's sister lived in a modest house on the east side of town, a neighborhood of single-story homes with large yards and views of the peaks. Elena pulled into the driveway and turned off the engine and sat for a moment, her hands still on the wheel.
 
 
----
 
 The front door opened. She saw Daniel first, standing in the doorway, and then the blur of motion that was Mateo running across the yard, his small legs pumping, his voice calling Mommy Mommy Mommy in a continuous stream. He hit her before she was fully out of the car, wrapping himself around her legs with a force that nearly knocked her over, and then she was kneeling in the driveway holding him, his body warm against hers, his arms around her neck so tight she could barely breathe.
 
@@ -22,7 +21,6 @@ Over his head, she saw Sofia. Her daughter stood on the porch steps, half-hidden
 Sofia did not move. Daniel put his hand on her shoulder, gentle, and whispered something Elena could not hear. Still Sofia stood there, watching, and Elena understood that something had changed in her daughter during the weeks of separation, something that would not be undone by simply arriving.
 
 
----
 
 Daniel came down the steps with Sofia beside him, still holding her shoulder. He was thinner than Elena remembered, his face more angular, the bones showing through in ways that spoke of stress and sleeplessness and weeks of holding everything together alone. When he reached her, he wrapped his arms around both her and Mateo, and she smelled him, the familiar smell of him that she had been missing without knowing she was missing it.
 
@@ -43,7 +41,6 @@ Finally, Sofia spoke. "You were gone a long time."
 Sofia looked at her mother for a long moment, and Elena saw the accusation in her eyes, the child's pure logic that said: you were supposed to be here and you were not. And Elena had no defense, because the accusation was true. She had chosen to stay at the clinic. She had chosen the patients over her children. The choice had seemed necessary at the time, and now she was not sure what necessary meant anymore.
 
 
----
 
 "Let's go inside," Daniel said, his voice gentle. "It's cold out here."
 
@@ -64,5 +61,4 @@ Elena had no answer. Sofia was right. She could have left earlier, could have ha
 She held Mateo and looked at Sofia and felt the weight of the choices she had made, and she did not know how to carry it.
 
 
----
 

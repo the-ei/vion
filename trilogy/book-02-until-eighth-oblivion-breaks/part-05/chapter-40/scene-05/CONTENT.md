@@ -11,7 +11,6 @@ Amina had questions throughout dinner. About California, about technology, about
 Fatima served coffee after dinner. The good coffee, Yusuf noticed, from the tin she kept for special occasions. Something had shifted in his mother's assessment of their guest. Not full acceptance - Fatima did not give that easily - but acknowledgment. Kevin had passed some test Yusuf had not even realized was being administered.
 
 
----
 
 The drive to Kevin's hotel was quiet. Not the uncomfortable silence of strangers with nothing to say, but the comfortable silence of people who have said too much to say more. The streets of Minneapolis slid past, familiar and strange at once, the city Yusuf had grown up in now layered with new meaning.
 
@@ -34,7 +33,6 @@ Kevin was quiet for a moment. The hotel lobby glowed behind him, all that glass 
 Yusuf thought about this as Kevin got out of the car. Thought about it all the way home.
 
 
----
 
 The apartment was quiet when he got back. Fatima and Amina already in bed, the dishes washed and put away, the kitchen returned to its ordinary state as if the evening had been a dream. Yusuf stood in the darkness of the living room for a long moment, feeling the weight of the day settling into his bones.
 
@@ -55,5 +53,4 @@ He saved the file. Named it "Threshold."
 Then he went to bed and slept better than he had in years.
 
 
----
 

@@ -19,7 +19,6 @@ She led him to their bedroom, closed the door. The intimacy of the space felt al
 "Autoimmune thyroiditis," she said. "Hashimoto's. My immune system is attacking my thyroid."
 
 
----
 
 Daniel sat on the edge of the bed, the mattress dipping under his weight. His hands hung between his knees, work-roughened hands that had built houses, held their babies, touched her in ways that now felt like distant memory.
 
@@ -48,7 +47,6 @@ Elena felt something crack inside her chest, a fissure running through the wall 
 "Because being here felt like failing." His voice was rough. "You were handling everything. The kids, your abuela, your job. And I'd come home and there was nothing for me to do. Nothing I could do that you weren't already doing better."
 
 
----
 
 "So you left."
 
@@ -71,7 +69,6 @@ Elena stood up and walked to the window. The backyard was dark now, the children
 "Mateo's teacher says he's withdrawn, doesn't participate. I've been meaning to get him evaluated but there's never time because there's never time for anything, Daniel, there's just surviving until the next day and doing it again."
 
 
----
 
 She was crying now, the tears hot on her face, her breath coming in gasps. Daniel crossed the room and tried to hold her but she pushed him away.
 
@@ -96,7 +93,6 @@ Daniel sat back down on the bed. The distance between them felt measured in year
 "Because I didn't tell you. Because telling you felt like admitting I couldn't handle it. And I was supposed to be able to handle it."
 
 
----
 
 "Says who?"
 
@@ -133,7 +129,6 @@ Sofia nodded, seeming to file this away for later processing. "Abuela made enchi
 "Then we better not keep her waiting."
 
 
----
 
 Dinner was an exercise in performing normalcy for an audience of three. Enchiladas that abuela had made from memory, Mateo talking about school, Sofia quiet and watchful as always. Daniel sat beside Elena, their knees touching under the table, a small reconnection amid the larger distance.
 
@@ -164,7 +159,6 @@ She thought about it. The years of parallel existence, of logistics masquerading
 They sat in silence, hands linked, while the night settled around them. Not resolution, Elena knew. Resolution was too neat a word for the mess of human relationship. But willingness. That, for now, was enough.
 
 
----
 
 Later, in bed, Daniel curled against her back, his arm around her waist. The intimacy felt tentative, like they were learning each other again.
 
@@ -199,5 +193,4 @@ She turned in his arms, faced him in the dark. His features were shadows, famili
 For once, she let herself obey.
 
 
----
 

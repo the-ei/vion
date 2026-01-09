@@ -11,7 +11,6 @@ Grace met him at the door, already dressed for her nursing shift at Johns Hopkin
 "She's asking for Daddy again," Grace said. "Since five this morning."
 
 
----
 
 "I'll sit with her. You get ready for work."
 
@@ -36,7 +35,6 @@ Jerome sat down in the chair beside her bed, the same chair he'd sat in a thousa
 "That's nice." She patted his hand with her free one. "You're a nice young man."
 
 
----
 
 The morning routine was familiar in the way that all acts of care become familiar - medication at 7:30, the careful negotiation of pills and water, the checking of blood pressure and oxygen levels that the monitoring system could do automatically but that Jerome did by hand because his mother remembered what hands meant even when she didn't remember who was attached to them.
 
@@ -57,7 +55,6 @@ Now she didn't know his name. Now she lived in a world where his father was stil
 Love didn't require recognition. He had learned that.
 
 
----
 
 Grace came in at eight to say goodbye, bending to kiss their mother on the forehead.
 
@@ -86,7 +83,6 @@ The question caught him off guard. She was looking directly at him now, and some
 "That's all any of us can do." She nodded, satisfied. "Trying is enough. Don't let anyone tell you different."
 
 
----
 
 Then the clarity faded, as it always did, and she was looking at the window again, at the light coming through the glass, at something only she could see.
 
@@ -109,7 +105,6 @@ Jerome felt his throat tighten. "Thank you, Mama."
 "Harold will be home soon. You can stay for dinner if you like."
 
 
----
 
 He left at ten, when Mrs. Patterson arrived early and insisted she could handle things from here. The relief aide was a woman in her sixties, retired from school administration, who had known Evelyn through church and treated the caregiving work as a continuation of friendship rather than a job.
 
@@ -130,7 +125,6 @@ The corporations were still there, slightly reorganized. The politicians were st
 He wasn't sure he could do it honestly.
 
 
----
 
 Home was a row house in Roland Park that he and Denise had bought twenty-two years ago, when the neighborhood was still affordable and they were still young enough to believe that hard work would be rewarded. The house had appreciated in value faster than his salary, which was one of those economic jokes that stopped being funny once you understood what it meant.
 
@@ -155,13 +149,12 @@ Denise looked up then, her eyes meeting his with the particular intimacy of long
 She came around the island and kissed him, a brief touch that carried twenty-five years of practice. Then she went back to her grading, and Jerome went to make himself a sandwich, and the morning continued as mornings do, carrying them toward whatever was coming next.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The home studio was in the basement - a space Jerome had converted five years ago when the pandemic before the crisis had made remote work mandatory and staying productive had required physical separation from the domestic rhythms upstairs. Soundproofing on the walls, a professional microphone setup, a background of bookshelves carefully arranged to suggest scholarship without ostentation. The apparatus of serious conversation.
 
@@ -180,7 +173,6 @@ The podcast host appeared on screen at noon exactly - a younger man, early thirt
 "It's true." Timothy leaned forward, his enthusiasm obvious even through the screen. "I want to start at the beginning. When did you first realize that what was happening was bigger than anyone was reporting?"
 
 
----
 
 Jerome had answered this question a hundred times, had a polished version ready that hit the right beats and made him sound both humble and perceptive. But something about today - the morning with his mother, the question about happiness, the weight of accumulated doubt - made the polished version feel dishonest.
 
@@ -201,7 +193,6 @@ Timothy looked slightly startled, as if guests weren't supposed to turn the inte
 The question hung there, uncomfortable in its honesty.
 
 
----
 
 "The reforms," Timothy said, recovering. "The regulatory frameworks. The corporate restructuring. You're not suggesting that none of that happened."
 
@@ -222,7 +213,6 @@ Timothy was quiet for a moment, clearly wrestling with how to navigate a convers
 "By the mythology. By the stories we tell ourselves about how change happens. That truth matters. That power can be held accountable. That journalism serves democracy." Jerome heard himself saying things he rarely said out loud. "What if those are just stories we tell to make ourselves feel like the work means something?"
 
 
----
 
 The interview continued for another forty minutes, but Jerome could feel that the energy had shifted. Timothy kept trying to steer toward the triumphalist narrative - the awards, the recognition, the place Jerome had earned in journalism history - and Jerome kept deflecting toward the uncomfortable questions that the narrative couldn't accommodate.
 
@@ -253,7 +243,6 @@ Jerome looked at his wife. Thirty years of teaching high school history. Thirty 
 "You don't doubt what you do," he said.
 
 
----
 
 "I doubt it every day. Every period. Every lesson plan I've put together for thirty years." She reached across and took a piece of his sandwich, a casual intimacy. "But I keep doing it because the alternative is worse. Not teaching. Not trying. Just accepting that nothing matters and nothing changes. That's not a life. That's just waiting to die."
 
@@ -290,7 +279,6 @@ Denise kissed his forehead and took the empty plate. "I love you. Even when you'
 She went back upstairs, and Jerome sat alone with his doubt, waiting for evening, waiting for his son, waiting to see if he could keep the promise he'd just made.
 
 
----
 
 The afternoon passed in the scattered rhythm of semi-retirement. Jerome answered emails, declined two interview requests, read the news with the particular attention of someone who had once helped shape it. The world was churning forward as it always did - corporate announcements, political maneuvering, climate reports that got worse every quarter - and he felt his distance from it as both relief and loss.
 
@@ -313,7 +301,6 @@ That wasn't a book. That was a surrender.
 But what if the surrender was the truth? What if that was the story he actually needed to tell?
 
 
----
 
 He thought about the podcast interview, about the things he'd said that would probably make his colleagues uncomfortable. The crusading journalist admitting that he wasn't sure crusading worked. The truth-teller questioning whether truth had any power. It wasn't the narrative the profession wanted. It wasn't the legacy his awards suggested he should be building.
 
@@ -336,13 +323,12 @@ He closed his laptop and went upstairs to help Denise with dinner. DeShawn would
 Some things couldn't be written. They had to be lived through first.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 DeShawn arrived at six-thirty, twenty minutes late, with the particular energy of someone who was always moving toward the next thing. He came through the front door like a disruption - tall, handsome, carrying himself with a confidence that Jerome recognized as both inheritance and something else entirely, something that belonged only to DeShawn and his generation. His son, but not his son. A person shaped by forces Jerome had documented but never fully understood.
 
@@ -365,7 +351,6 @@ They sat down to eat. Denise had made roast chicken with vegetables, the meal sh
 "I know it sounds like a lot. But the runway we need to reach profitability -" DeShawn stopped himself, perhaps hearing how he sounded. "It's going well. I'm working hard. The team is great."
 
 
----
 
 "Tell us what the company actually does," Denise said. "You've explained it before, but I still don't fully understand."
 
@@ -388,7 +373,6 @@ Jerome looked at his son across the table - the challenge in DeShawn's eyes, the
 "I'm not against technology. I'm against the way technology gets captured by the same interests it's supposed to disrupt."
 
 
----
 
 "So you think that's what I'm doing? Getting captured?"
 
@@ -413,7 +397,6 @@ The directness of it caught Jerome off guard. DeShawn had named the thing he'd b
 "Maybe. I hope so."
 
 
----
 
 DeShawn set down his fork. His face had closed, the openness of his arrival replaced by something harder. "You know what the difference is between us, Dad? You document problems. You write about how things are broken. You win awards for describing the disaster. But you don't build anything. You don't create solutions. You just point at what's wrong and expect other people to fix it."
 
@@ -436,7 +419,6 @@ The words landed with the particular force of truth spoken by someone who had th
 "I think I'm trying. I think I'm in a position to help small businesses survive, to give people tools they couldn't afford otherwise, to democratize access to technology that's been hoarded by the big players. That's something. That's more than writing about problems from a distance."
 
 
----
 
 Denise stood up and started clearing plates, the motion breaking the tension slightly. Neither Jerome nor DeShawn moved to help - they were still locked in their confrontation, the meal forgotten.
 
@@ -467,7 +449,6 @@ It was the same thing Denise had said earlier. Maybe that was how his family saw
 "I love you too," Jerome said. "That's why I worry."
 
 
----
 
 DeShawn left at eight-thirty, earlier than planned but not angry - just young, busy, moving toward the next thing the way young people did. He hugged his mother, shook his father's hand, promised to come back soon. The same ritual, the same words, the same distance that was always there now.
 
@@ -496,7 +477,6 @@ Jerome dried a plate, set it in the rack, picked up another. "What if he's right
 "Everything is similar to everything if you look at it a certain way. That doesn't make the similarities the most important thing."
 
 
----
 
 They finished cleaning and Denise went upstairs to grade papers, kissing him goodnight with the ease of long habit. Jerome stood in the kitchen for a moment, listening to the silence of the house, thinking about his son disappearing into the night to build things Jerome didn't understand and couldn't stop.
 
@@ -521,7 +501,6 @@ Then he went upstairs to bed, where Denise was already sleeping, and he lay in t
 Some things couldn't be resolved. They could only be lived with.
 
 
----
 
 Tomorrow there would be another morning at Grace's house, another hour or two with his mother who might or might not know him. There would be email and phone calls and the accumulated demands of a public life he had built and now inhabited like a borrowed house. There would be the question of what to write, what to do with the years he had left, what legacy he could build that wasn't just documentation of things he'd been unable to stop.
 
@@ -542,7 +521,6 @@ That was what he knew how to do. Show up. Pay attention. Bear witness.
 Maybe that would have to be enough.
 
 
----
 
 
 

@@ -19,7 +19,6 @@ She set a plate on his desk—sandwich, chips, an apple. The care of a wife who 
 "Thank you," he said. He didn't touch the food.
 
 
----
 
 By eight o'clock, the story had mutated. Different outlets emphasized different angles. Tech blogs focused on the capability curves. Business pages worried about stock prices. Political sites mapped the implications onto existing battles—regulation versus innovation, workers versus markets.
 
@@ -42,7 +41,6 @@ The truth was out. The numbers were public. Anyone who wanted to know what Prome
 Truth, it turned out, was not enough.
 
 
----
 
 At ten o'clock, Prometheus released their response. A statement from Victor Reeves, carefully lawyered, dismissing the documents as "internal scenario planning taken out of context" and reaffirming the company's "commitment to responsible innovation."
 
@@ -67,7 +65,6 @@ She sat on the arm of his chair, put her hand on his shoulder. "The story is goo
 Denise was quiet for a moment. "I don't know. But it's what you have."
 
 
----
 
 The night went late. Jerome watched as the conversation shifted, fragmented, became noise. Politicians issued statements—concerned phrases, calls for investigation, the performance of response. None of them would do anything. He knew that. He had seen it before.
 
@@ -90,7 +87,6 @@ But he would wake up tomorrow and do it again. Write another story. Document ano
 It was all he knew how to do.
 
 
----
 
 He went to bed at two in the morning. Denise was already asleep, the rhythm of her breathing a comfort that didn't quite reach him.
 
@@ -117,5 +113,4 @@ The only thing he knew how to do.
 Write.
 
 
----
 

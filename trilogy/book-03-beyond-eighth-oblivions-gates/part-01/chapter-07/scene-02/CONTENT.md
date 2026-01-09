@@ -13,7 +13,6 @@ She had written and rewritten the statement until every word earned its place. N
 "The question before the Supreme Court in Henderson is narrow: does the Post-Crisis Artificial Intelligence Governance Act of 2036 create a private right of action for individuals harmed by algorithmic decision-making? But the implications of the answer are vast."
 
 
----
 
 She laid out the argument: how algorithmic systems now made decisions affecting every aspect of American life - employment, credit, housing, healthcare, education. How these decisions often operated without human oversight, at scales and speeds that made traditional accountability impossible. How the frameworks created after the Eighth Oblivion crisis had promised to address these issues but, in their current form, provided no meaningful remedy to individuals harmed by algorithmic action.
 
@@ -28,7 +27,6 @@ She concluded with a call for the Court to interpret the Act according to its ev
 The first few senators asked softballs - friendly questions that let her elaborate on points from her statement. She answered precisely, building the record she wanted to create. The room was warm under the lights, and Ruth felt sweat beginning to form at her temples.
 
 
----
 
 Then Senator Bradford from Kentucky took his turn. He was a large man with a politician's smile and a prosecutor's instincts, known for his close ties to the technology industry.
 
@@ -51,7 +49,6 @@ Ruth felt the trap he was setting. Bradford wanted sound bites for his communica
 "Then Congress should have said so explicitly. It didn't. The absence of that limitation suggests it wasn't intended."
 
 
----
 
 Senator Bradford leaned forward, his tone becoming sharper. "Professor Abramson, during your time on the Ninth Circuit, you wrote several opinions that expanded corporate liability beyond what many observers considered appropriate. Some would say you have a pattern of finding liability where others see freedom of enterprise."
 
@@ -70,7 +67,6 @@ Bradford's smile tightened. "I'm simply noting that your perspective isn't neutr
 The exchange hung in the air. Ruth saw a flicker of something in Bradford's eyes - recognition that he had not won this round. He shuffled his papers and yielded his time.
 
 
----
 
 The hearing continued for another hour, cycling through senators with varying agendas. Ruth answered each question with the same careful precision, aware that the transcript would become part of the record, that every word could be quoted or misquoted in the ongoing public debate. By the time Senator Oduya called for adjournment, exhaustion had settled into her bones.
 
@@ -99,7 +95,6 @@ He looked uncomfortable, the confident young attorney replaced by something more
 Benjamin's expression tightened. "Because it's complicated. Because I have obligations. Because change from inside requires being inside."
 
 
----
 
 Ruth considered this. She had heard similar arguments throughout her career - people who believed they could reform institutions from within, who compromised today in hope of influence tomorrow. Sometimes it worked. Often it didn't. The institutions absorbed them, reshaping their values until the reform they'd intended became impossible to remember.
 
@@ -122,7 +117,6 @@ Susan would have said that neutrality was always a fiction anyway. That everyone
 Ruth finished her coffee and boarded the delayed flight home.
 
 
----
 
 By the time she landed in Oakland, it was after eleven. The airport shuttle deposited her at her house in the Berkeley hills, where the windows were dark and the night was quiet. She let herself in, dropped her bag, and stood for a moment in the entryway, feeling the particular silence of an empty home.
 
@@ -141,5 +135,4 @@ Ruth finished her tea and went to bed. Sleep came slowly, crowded with fragments
 That was something. That was perhaps everything.
 
 
----
 

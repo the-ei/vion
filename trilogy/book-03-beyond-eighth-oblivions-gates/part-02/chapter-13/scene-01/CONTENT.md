@@ -21,7 +21,6 @@ Ananya sat down slowly, her legs suddenly uncertain.
 "I'm not trying to attack you. I'm trying to understand. You raised me to believe in ethics, in doing the right thing even when it's hard. And then I looked at what you did."
 
 
----
 
 Ananya looked at the papers spread across her coffee table. Her own words on some of them, highlighted in yellow. Interview quotes from people she had worked alongside. Academic analysis that reduced her career to a case study in institutional capture.
 
@@ -52,7 +51,6 @@ Ananya closed her eyes for a moment. "Sometimes. Partially. It depended on how s
 "And you kept approving products anyway."
 
 
----
 
 "Yes."
 
@@ -77,7 +75,6 @@ Priya made a note in her margins. The gesture was so clinical it hurt.
 "I approved it after modifications were made. The harm was reduced."
 
 
----
 
 "Reduced," Priya repeated. "But not eliminated."
 
@@ -106,7 +103,6 @@ Ananya thought about the question. There hadn't been a single moment of realizat
 Priya gathered her papers into the folder again, her hands not quite steady. "I need to understand something, Mom. I need to understand how someone who taught me to tell the truth could lie to herself for so long."
 
 
----
 
 "I need to understand it too," Ananya said. "I've been trying to understand it for years."
 
@@ -133,7 +129,6 @@ Ananya reached across the space between them, but Priya didn't take her hand.
 "Especially then."
 
 
----
 
 Priya opened her folder again. The pages inside were dense with annotation, her handwriting covering the margins. She had spent the summer building this case, assembling evidence with the thoroughness Ananya had tried to teach her. Now that thoroughness was being turned on its teacher.
 
@@ -164,5 +159,4 @@ Priya's pen hovered over her notebook. "That's what I can't understand. Five yea
 "I know. Looking back, I can't understand it either."
 
 
----
 

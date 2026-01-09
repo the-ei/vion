@@ -15,7 +15,6 @@ The words took a moment to resolve into meaning. He read them once, then again, 
 A label. Small, independent, based somewhere in the Pacific Northwest. They had found his uploads. They had listened. They were interested.
 
 
----
 
 The offer was modest. They were honest about that. They could provide studio time, production support, distribution across streaming platforms. They could not promise much money. But they wanted to work with him, wanted to develop what they had heard, wanted to see if there was an EP somewhere in the fragments he had shared.
 
@@ -32,7 +31,6 @@ But the email did not ask for anything except a response. A conversation. A will
 It was, as far as he could tell, genuine.
 
 
----
 
 His first instinct was fear. The cold clarity of it surprised him, slicing through the excitement he might have expected. Fear that this was real. Fear of what it would mean if he said yes. Fear of the transformation that being taken seriously would require.
 
@@ -49,7 +47,6 @@ The fear of failure and the fear of regret, circling each other in his chest lik
 He put the phone down. Picked up the coffee, which was barely warm now. Drank it anyway, tasting nothing.
 
 
----
 
 He did not reply.
 
@@ -66,7 +63,6 @@ He pulled up to the restaurant, accepted the bag, drove to the address. Stood on
 The routine unchanged. But everything underneath it shifted, rearranged, no longer the same shape it had been an hour ago.
 
 
----
 
 He finished the delivery and pulled over again, this time on a quiet residential street, houses dark except for the occasional blue glow of a television. The heater wheezed. The cold pressed in.
 
@@ -83,5 +79,4 @@ He closed the email without responding. Put the phone away. Started the car.
 But the decision was already forming somewhere beneath his conscious thought, like a melody that would not stay silent, pressing toward shape.
 
 
----
 

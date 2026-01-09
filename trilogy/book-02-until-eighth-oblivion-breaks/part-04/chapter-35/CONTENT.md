@@ -15,7 +15,6 @@ Elena nodded. She did not move from the doorway.
 "Ma'am? Can we come inside?"
 
 
----
 
 She stepped aside. Not welcoming, not obstructing. Simply allowing.
 
@@ -40,7 +39,6 @@ She thought about the network that had formed. The decisions made by consensus a
 "We've been managing distribution ourselves," she said.
 
 
----
 
 The official looked up from his tablet. "Excuse me?"
 
@@ -65,7 +63,6 @@ The official was silent.
 "We did that before," Elena said. "It didn't work."
 
 
----
 
 She walked outside to where the community had gathered. Daniel found her in the crowd, his hand finding hers.
 
@@ -90,13 +87,12 @@ Elena stood at the intersection and watched both operate. She did not know which
 The break was ending. Something else was beginning.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The apartment door was unlocked. Yusuf turned the handle and stepped inside, and the first thing he saw was Amina asleep in the chair beside their mother's bed.
 
@@ -113,7 +109,6 @@ The relief hit him like a physical blow. His knees weakened; he caught himself o
 He had made the right choice. Or rather, the choice he had made had not been punished. He was not sure if those were the same thing.
 
 
----
 
 Habiba's eyes opened.
 
@@ -140,7 +135,6 @@ Yusuf looked at his sister, still asleep in the chair. "She did everything."
 "Yes. Maybe both."
 
 
----
 
 The enclave was still vivid in his memory. Sixty miles northwest of Minneapolis, hidden in a wooded area that gave no sign from the road, accessible only if you knew where to look.
 
@@ -155,7 +149,6 @@ And so they had helped. Reluctantly, with conditions, with the clear implication
 But they had also shown him something. The enclave was not a charity; it was a lifeboat. Built by people who had seen the storm coming and had chosen to save themselves.
 
 
----
 
 The knowledge was bitter. He had saved his mother with help from people who had let the world burn while protecting their own comfort. Tech executives, investors, the same class of people who had built the fragile systems that failed - they had known. They had known enough to build bunkers, to stockpile supplies, to create redundant communications when the public infrastructure had none.
 
@@ -182,7 +175,6 @@ Habiba was quiet for a moment. Then she said: "I thought I was going to die. For
 "No. Because you came back. Because you found help." She looked at him with clear eyes. "You saved my life, Yusuf. Whatever else is true, that's true too."
 
 
----
 
 Amina stirred in the chair, her eyes opening slowly. For a moment she seemed disoriented, caught between sleep and waking. Then she saw Yusuf, and her face transformed.
 
@@ -217,13 +209,12 @@ He thought about the enclave. About the people who had prepared. About the knowl
 But his mother was alive, and his sister was safe, and they were together. For now, that was enough.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The knock came at three in the afternoon.
 
@@ -246,7 +237,6 @@ The word broke something in Jerome. He crossed the room in three strides and pul
 Denise joined the embrace, the three of them holding each other in the doorway, the apartment behind them and the broken world outside and none of it mattering because DeShawn was here.
 
 
----
 
 They moved to the living room. Denise made tea - or what passed for tea these days, some herbal mixture they had scavenged from their depleted kitchen. DeShawn sat on the couch, looking around the apartment as if seeing it for the first time.
 
@@ -267,7 +257,6 @@ Jerome felt the journalist in him stir, the instinct to probe, to question, to f
 "Later," Jerome said. "Tell me later. Right now, just... be here."
 
 
----
 
 DeShawn slept for fourteen hours. Jerome and Denise took turns checking on him, watching from the doorway of his childhood bedroom as he lay motionless on the narrow bed, his body finally allowed to rest.
 
@@ -288,7 +277,6 @@ Jerome did not say I told you so. He did not need to. The truth was visible in D
 "Isn't it?"
 
 
----
 
 The question hung in the air. Jerome watched his son wrestle with something invisible, something that had been building throughout the walk across states and was only now beginning to surface.
 
@@ -305,7 +293,6 @@ Instead, he felt nothing but grief. Not for himself, not for his journalism, but
 "I would rather have been wrong," Jerome said. "If I could choose, I would rather have been wrong about everything."
 
 
----
 
 They sat together in the living room, father and son, while evening settled over Baltimore. The power had returned to some parts of the city; Jerome could see lights in windows that had been dark for two weeks. The systems were coming back. The world was reassembling itself.
 
@@ -330,13 +317,12 @@ Jerome reached across and took his son's hand. The gesture felt strange - they h
 DeShawn squeezed his hand once, tight, and did not let go.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The car pulled into the driveway just after four in the afternoon.
 
@@ -355,7 +341,6 @@ Jessie approached more slowly, her face showing the exhaustion of the drive, of 
 They stood in the driveway, the three of them, holding each other while the late afternoon sun warmed their backs.
 
 
----
 
 Inside, the house looked different. Delphine saw it through Jessie's eyes: the equipment she had set up for broadcasting, the notes covering every surface, the remnants of two weeks of working alone while the world collapsed outside.
 
@@ -378,7 +363,6 @@ Jessie sat down beside Theo, one hand resting on his sleeping form. "That's a bi
 "It's the only project that matters."
 
 
----
 
 Jessie was quiet for a moment, processing. Then she said: "What happened to the work you were doing before? The podcast, the analysis pieces. Lawrence Kim and the corporate access."
 
@@ -399,7 +383,6 @@ Theo stirred in his sleep, murmuring something inaudible. Jessie stroked his hai
 Delphine smiled - the first real smile in sixteen days. "I'm going to do it anyway."
 
 
----
 
 Evening came, and the three of them ate dinner together for the first time in two weeks. The food was simple - whatever Delphine had managed to preserve or acquire during the crisis - but it felt like a feast. Theo talked nonstop between bites, telling stories about Oregon, about Jessie's parents, about the garden where he had played while the world collapsed.
 
@@ -420,13 +403,12 @@ But Delphine carried something new inside her now: a purpose that had not existe
 The crisis was over. Her work was just beginning.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 A mother in Phoenix:
 
@@ -453,7 +435,6 @@ A teacher in Detroit:
 We kept holding classes. No electricity, no internet, no textbooks half the time. Just me and twenty kids in a room, learning whatever I could remember. Multiplication tables. The states and their capitals. How to write a letter to someone you love.
 
 
----
 
 An engineer in San Francisco:
 
@@ -480,7 +461,6 @@ A construction worker in Phoenix:
 I walked forty miles to get home. My feet still haven't healed. But I got home.
 
 
----
 
 A social worker in New York:
 
@@ -509,7 +489,6 @@ I thought: both. It was both.
 And now the lights are back, and we can't see the stars anymore, and I don't know which loss is greater.
 
 
----
 
 
 

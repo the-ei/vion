@@ -19,7 +19,6 @@ The volunteer's eyebrows lifted slightly at the word son. Jerome imagined the ca
 "Thank you."
 
 
----
 
 Jerome walked through the conference, observing the way an anthropologist might observe a foreign culture. The booths displayed products and services that seemed to solve problems Jerome had not known existed: AI-powered customer engagement platforms, blockchain-verified supply chain optimization, neural network approaches to human resources. Young people in jeans and expensive sneakers moved between displays, collecting business cards and schedules, networking with the particular intensity of those who believed their next conversation might change their lives.
 
@@ -30,7 +29,6 @@ At a coffee station, he poured himself a cup that tasted of nothing and watched 
 Jerome thought about the stories he had written: the gig workers exploited by platforms, the communities disrupted by technologies that promised convenience and delivered precarity. Those stories had been read by millions, had won awards, had changed nothing that he could see. The platforms still operated. The exploitation continued. The executives in this room were the inheritors of systems he had exposed, and they spoke as if exposure had never happened.
 
 
----
 
 A young woman approached him, her badge indicating she was media—not a journalist, he suspected, but a content creator, the distinction no longer clearly maintained.
 
@@ -61,7 +59,6 @@ She retreated with apologies, and Jerome felt the familiar weariness of being tr
 Maybe DeShawn had been right, at the memory care facility. Maybe exposure was just another form of extraction.
 
 
----
 
 He found a seat at the back of Ballroom B well before DeShawn's presentation was scheduled to begin. The room was large, configured for several hundred people, with a stage at the front where a previous panel was wrapping up—something about sustainable growth metrics that Jerome could not follow.
 
@@ -74,7 +71,6 @@ Kevin Zhou was listed as a sponsor of the conference—his company's logo appear
 But when the room was nearly full, Jerome did not spot Zhou among the faces. Perhaps he was too important for individual sessions. Perhaps he was watching from elsewhere. Perhaps—the hope was unreasonable but Jerome held it anyway—he was not here at all.
 
 
----
 
 A moderator took the stage and introduced the session: "Accountability Architecture: Building Ethics Into Systems." The description made Jerome lean forward. This was not the language he associated with the tech industry—not the growth and disruption and scale that he had heard elsewhere in the conference. This was something different.
 
@@ -93,7 +89,6 @@ A murmur went through the audience. DeShawn had said something unexpected, somet
 "None of it works because ethics that can be worked around will be worked around. That's human nature. That's institutional incentive. The question isn't whether people will try to circumvent ethical guidelines—they will. The question is whether we can build systems that make circumvention impossible."
 
 
----
 
 DeShawn clicked to a new slide. Jerome could not see it clearly from the back of the room, but he could see that it contained text and diagrams, the visual language of technical presentation.
 
@@ -110,7 +105,6 @@ The room was very quiet. Jerome did not know where this was going.
 Tears pricked at Jerome's eyes. He had not expected this—had not expected to be acknowledged, still less to be credited with contributing to something his son was building.
 
 
----
 
 The presentation continued. DeShawn walked through technical details that Jerome could not follow: protocols and verification methods and something about cryptographic transparency that seemed to involve making every system decision auditable in real time. The audience asked questions that Jerome did not understand the language of, and DeShawn answered with the fluency of someone who had lived inside this world for years.
 
@@ -125,5 +119,4 @@ Pride, yes—that was there. But also something else. A loosening. A release of 
 Maybe rejection and transformation were not the same thing. Maybe inheritance could be invisible until it wasn't.
 
 
----
 

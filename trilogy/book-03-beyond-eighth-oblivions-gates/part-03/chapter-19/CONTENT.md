@@ -11,7 +11,6 @@ Darnell helped him carry them down the hallway, past the television room where t
 His mother's door was open. She was sitting in her chair by the window, dressed in the blue sweater he had sent last Christmas, her white hair pulled back from her face in a braid that the morning aide must have done.
 
 
----
 
 She looked up when he entered, and her face did the thing it sometimes did: a flicker of recognition, or almost-recognition, the sense of something familiar without the name attached.
 
@@ -32,7 +31,6 @@ Jerome opened the first box. On top: a framed photograph from 1987, the year he 
 She took the frame in her hands, studying it with the concentration of someone trying to solve a puzzle. Her fingers trembled slightly—they always did now—but her grip was still strong.
 
 
----
 
 "That's Jerome," she said suddenly, clarity arriving like a break in clouds. "That's my boy."
 
@@ -57,7 +55,6 @@ He laughed, surprising himself. Even now, even here, she was telling him to take
 "I'll try," he said. "Let me show you some other things."
 
 
----
 
 He took out clippings, yellowed and fragile, from the stories that had made his career. The investigation into the housing authority that led to criminal charges against three officials. The series on payday lending that prompted legislative hearings, though no legislation followed. The Pulitzer, finally, for the work on financial networks that exposed the mechanisms by which money moved from the pockets of the poor to the accounts of the wealthy.
 
@@ -78,7 +75,6 @@ The question landed like a stone in still water. Did it help. Did it change thin
 She was there again, fully present, his mother as he remembered her: the voice that had shaped his understanding of work and purpose and patience. He wanted to hold this moment, to record it somehow, to preserve it against the fog that would return.
 
 
----
 
 "I brought the Pulitzer," Jerome said. He had not planned to show her this—had thought it might seem like boasting—but now he wanted her to see it, wanted this version of her to hold evidence that her son's life had amounted to something recognized by the wider world.
 
@@ -101,7 +97,6 @@ Jerome had not known this. His father had died when Jerome was fifteen, long bef
 "He wanted to write books. Novels. But then the war came and he went away and when he came back he was different. He said the words had left him."
 
 
----
 
 "I didn't know that," Jerome said.
 
@@ -122,7 +117,6 @@ Denise rose and stood beside Jerome, her hand finding his shoulder. This was the
 "Have I told you I love you? Because I do. Even when I don't know your name. The feeling doesn't forget, even when the words do."
 
 
----
 
 The afternoon wore on. Jerome showed her more clippings, more photographs, more evidence of a life spent chasing truth. Sometimes she engaged, asking questions, making observations. Other times she stared out the window and did not respond, lost in whatever interior landscape the disease had made of her mind.
 
@@ -151,7 +145,6 @@ In the hallway, Denise took his hand.
 They walked out together, carrying the boxes, carrying the weight of what had been shown and not understood, what had been said and what had been lost to the water running out.
 
 
----
 
 The drive back to the hotel was quiet. Jerome watched Baltimore pass outside the window—neighborhoods he had grown up in, some gentrified beyond recognition, others still bearing marks of the disinvestment his own articles had documented decades ago. The city had changed and not changed, the same fundamental structures operating beneath new facades, wealth flowing upward as it always flowed while communities at the bottom held on as best they could.
 
@@ -172,13 +165,12 @@ Denise let the silence hold for a moment, the way she did when she understood th
 Jerome nodded, watching the city roll by, holding in his hands boxes full of his life's work and the new absence of information that had always been there, unknown until now.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 DeShawn arrived in a car that cost more than Jerome's first three cars combined. Electric, sleek, the color of money, pulling into the facility's visitor lot with the particular hush of expensive machinery. Jerome watched from the lobby window, feeling something twist in his chest he did not want to name.
 
@@ -201,7 +193,6 @@ They walked together down the familiar hallway. Jerome noticed his son's reactio
 The words landed flat, professional. Somewhere between childhood and now, they had lost the ability to speak to each other without negotiation.
 
 
----
 
 In his mother's room: she was awake, sitting in her chair, the Pulitzer certificate in her hands. She looked up when they entered and smiled.
 
@@ -230,7 +221,6 @@ DeShawn glanced at Jerome. Something flickered in his expression.
 "He's done important work," DeShawn said carefully.
 
 
----
 
 "But you don't do the same kind of work."
 
@@ -257,7 +247,6 @@ Jerome's hands tightened on the arms of his chair. This was not the time. Not th
 His mother was watching them, her eyes moving from face to face like a spectator at a tennis match. She understood that something was happening, even if the specifics escaped her.
 
 
----
 
 "Exposure matters," Jerome said. "People can't fight what they don't know about."
 
@@ -286,7 +275,6 @@ Silence. His mother had picked up the Pulitzer certificate again and was studyin
 "You're both so angry," she said quietly.
 
 
----
 
 They both turned to look at her. Her eyes were clear, focused—one of her lucid moments arriving at exactly the worst time.
 
@@ -309,7 +297,6 @@ His mother set down the certificate and reached for both their hands—Jerome's 
 Then she closed her eyes, the effort of the moment having exhausted her, and within seconds she was asleep, still holding their hands, anchoring them to each other through her failing body.
 
 
----
 
 They stood there for a long moment, unwilling to break the connection.
 
@@ -346,7 +333,6 @@ Jerome nodded. "I'd like that."
 DeShawn leaned down and kissed his grandmother's forehead, then left, his expensive shoes silent on the institutional floor.
 
 
----
 
 Jerome stayed with his mother until the afternoon aide came to check vitals. She woke briefly, asked if DeShawn was still there, and seemed satisfied when Jerome told her he would be back tomorrow.
 
@@ -377,41 +363,38 @@ In the hallway, Denise took his arm.
 They walked out together, the familiar route through the facility, past the residents and the aides and the ordinary tragedy of aging. Tomorrow DeShawn would come back. Tonight they would have dinner. Something had shifted, though Jerome could not yet name what it was.
 
 
+
+
+
+
+
 ---
 
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
-
-The dinner had been better than he expected. They had avoided the large topics, sticking to safer ground: DeShawn's apartment in Austin, Jerome's plans for partial retirement, the places Denise wanted to travel now that money was less tight. By dessert, something had loosened between them. Not resolution—there was too much history for that—but a temporary truce, a willingness to occupy the same space without combat.
+The dinner had been better than expected. They avoided the large topics, sticking to safer ground: DeShawn's apartment in Austin, Jerome's plans for partial retirement, the places Denise wanted to travel now that money was less tight. By dessert, something had loosened between them. Not resolution—there was too much history for that—but a temporary truce, a willingness to occupy the same space without combat.
 
 Now it was late, past eleven, and Jerome sat alone in his mother's room. DeShawn had gone back to his hotel. Denise was asleep at theirs. The facility at night was different: quieter, the halls dimmed, occasional sounds from other rooms breaking the hush. His mother slept on, her breath shallow but regular, the machines beside her bed tracking vitals that the night aide would check every few hours.
 
-He had told Denise he wanted to stay awhile. She understood without his having to explain. This might be the last time—or it might not, the uncertainty was its own torture—and he wanted to be here, present, while his mother moved through whatever dreams her damaged mind could still produce.
+He had told Denise he wanted to stay awhile. She understood without explanation. This might be the last time—or it might not, the uncertainty its own torture—and he wanted to be here, present, while his mother moved through whatever dreams her damaged mind could still produce.
 
 On the bedside table: the Pulitzer certificate he had brought, glowing faintly in the light from the hallway. Evidence of his life's work. Evidence that someone had deemed it significant.
 
 Had it been?
 
 
----
 
 DeShawn's words echoed: *Did his articles stop any of it? Or did they just give people something to feel outraged about?*
 
 Jerome had told himself for years that exposure was enough. That his job was to reveal, to document, to put truth on the record. What people did with that truth was not his responsibility. He was a journalist, not an activist. The distinction mattered, or so he had been taught, or so he had taught others.
 
-But sitting here in the dim room, watching his mother sleep toward death, the distinction felt thinner than it once had. He had spent his life telling stories about injustice. Had any of those stories dislodged injustice? Or had they simply recorded it for posterity, creating archives of harm that future scholars would study while the harm continued unabated?
+But sitting here in the dim room, watching his mother sleep toward death, the distinction felt thinner than it once had. He had spent his life telling stories about injustice. Had any of those stories dislodged injustice? Or had they simply recorded it for posterity, creating archives of harm that future scholars would study while harm continued unabated?
 
 His father had wanted to be a writer. The words had left him after the war.
 
-Jerome thought about what that meant. His father had seen something—done something, survived something—that had emptied him of the capacity for narrative. Had retreated into silence, into the practical work of providing for a family, into the daily labors that required no art. And yet some part of that thwarted ambition had survived, had passed to Jerome, had become the driving force of his life.
+Jerome thought about what that meant. His father had seen something—done something, survived something—that emptied him of the capacity for narrative. Had retreated into silence, into the practical work of providing for a family, into daily labors that required no art. And yet some part of that thwarted ambition had survived, passed to Jerome, become the driving force of his life.
 
 Inheritance was not a straight line. It was a crooked river, running through generations, picking up sediment here and depositing it there, arriving at destinations its source could never have imagined.
 
 
----
 
 And DeShawn: what had he inherited? The determination to make meaning, certainly. The conviction that the world could be better than it was. But the form was different. Where Jerome had believed in telling the truth, DeShawn believed in building systems that could not lie. Where Jerome had appealed to conscience, DeShawn was trying to engineer around the need for conscience altogether.
 
@@ -419,7 +402,7 @@ Was that better? Was it a betrayal? Or was it simply the next generation's answe
 
 His mother stirred in her sleep, murmuring something he could not understand. He leaned closer, hoping for words, but there were none—only sounds, the fragments of language without meaning.
 
-He thought about what he had wanted to pass on to DeShawn. Not the awards, though he had been proud of them. Not even the stories themselves, which already felt like relics of a different age, printed on paper that was crumbling, read on screens that had been replaced by newer screens.
+He thought about what he had wanted to pass on to DeShawn. Not the awards, though he had been proud of them. Not even the stories themselves, which already felt like relics of a different age, printed on paper that was crumbling, read on screens replaced by newer screens.
 
 What he had wanted to transmit was something harder to name. A way of seeing. An attention to the mechanisms beneath the surface of things, the flows of money and power that shaped people's lives without their knowing. The conviction that seeing clearly was the first step toward any change, even if the change did not come.
 
@@ -428,11 +411,10 @@ Did DeShawn have that? Did his work in technology carry the same quality of seei
 Jerome did not know. He had not asked. He had been too busy defending his own methods to inquire about his son's.
 
 
----
 
-That was the failure, he realized. Not his work, which had been what it was—an honest attempt to fulfill the role he understood himself to hold. The failure was in his fatherhood: the assumption that transmission could only happen through repetition, that his son was either following in his footsteps or failing to do so.
+That was the failure, he realized. Not his work, which had been what it was—an honest attempt to fulfill the role he understood himself to hold. The failure lay in his fatherhood: the assumption that transmission could only happen through repetition, that his son was either following in his footsteps or failing to.
 
-DeShawn had followed something. Had taken the inheritance and transformed it, adapted it to new conditions, made it his own in ways Jerome was only now beginning to glimpse.
+DeShawn had followed something. Had taken the inheritance and transformed it, adapted it to new conditions, made it his own in ways Jerome was only beginning to glimpse.
 
 The memory of his father surfaced again: the man who had lost words, who had retreated into practical work, who had carried his war-wounds silently. Jerome had always told himself he was different—he had used words, had made them his vocation, had refused to be silenced. But what if his father's retreat had been its own form of transmission? What if the silence had spoken, had communicated something about the cost of witness, about the difficulty of holding horror in language?
 
@@ -455,9 +437,8 @@ His name. She knew him.
 "I wanted to sit with you."
 
 
----
 
-She reached for his hand, and he took it—the familiar grip, weaker now than it had been, but still his mother's hand, the hand that had held his through fevers and first days of school and the afternoon they buried his father.
+She reached for his hand, and he took it—the familiar grip, weaker now but still his mother's hand, the hand that had held his through fevers and first days of school and the afternoon they buried his father.
 
 "Are you still writing?" she asked.
 
@@ -471,7 +452,7 @@ She was quiet for a moment, gathering something. "Because the writing is the wit
 
 "Is that enough?"
 
-"I don't know." Her honesty was a blade, clean and final. "I've spent my whole life not knowing if anything I did was enough. But I did it anyway. What else is there?"
+"I don't know." Her honesty a blade, clean and final. "I've spent my whole life not knowing if anything I did was enough. But I did it anyway. What else is there?"
 
 Jerome thought about this. He thought about DeShawn's challenge and his own defenses and the distance between them that might or might not be closable. He thought about the stories he had written and the ones he had not, the truths he had exposed and the systems that had continued churning regardless.
 
@@ -484,7 +465,6 @@ Jerome thought about this. He thought about DeShawn's challenge and his own defe
 "That nothing changes everything. That's not how it works. You push here, it moves a little there. You shine a light, and some shadows retreat while others deepen. The work is never finished. That's not failure—that's the nature of the work."
 
 
----
 
 She was fading again, her eyes losing focus, the clarity retreating. But before she went, she said one more thing:
 
@@ -492,7 +472,7 @@ She was fading again, her eyes losing focus, the clarity retreating. But before 
 
 Then she was asleep again, her breath evening out, her hand still in his.
 
-Jerome sat with her in the dark, thinking about generations and carrying and the strange forms that transmission takes. His father's lost words had become Jerome's journalism. His journalism, rejected in its method, might become something in DeShawn that he did not yet recognize.
+Jerome sat with her in the dark, thinking about generations and carrying and the strange forms transmission takes. His father's lost words had become Jerome's journalism. His journalism, rejected in its method, might become something in DeShawn he did not yet recognize.
 
 He called Denise.
 
@@ -519,13 +499,12 @@ Jerome laughed, quietly so as not to wake his mother. "I wonder where he gets th
 "It's a mystery."
 
 
----
 
-They talked for a while longer, the conversation meandering through the day's events and tomorrow's plans. DeShawn would come back in the morning, would say goodbye to his grandmother, would fly back to his life in Austin. Jerome and Denise would stay a few more days, making arrangements, sitting with his mother, doing the work of being present while there was still time.
+They talked a while longer, the conversation meandering through the day's events and tomorrow's plans. DeShawn would come back in the morning, say goodbye to his grandmother, fly back to his life in Austin. Jerome and Denise would stay a few more days, making arrangements, sitting with his mother, doing the work of being present while there was still time.
 
 When he hung up, the room was quiet. His mother's breathing was steady, her face peaceful in sleep. The Pulitzer certificate caught the light from the hallway, its gold seal glinting.
 
-Jerome reached out and touched it. The paper was smooth, official, a recognition of work that had mattered to someone, somewhere, at some point in time. It was not worthless—he knew that now. It was simply incomplete. A piece of a larger pattern that included his father's silence and his mother's endurance and his son's different approach and all the stories told and untold, changing things or not changing them, bearing witness regardless.
+Jerome reached out and touched it. The paper was smooth, official, recognition of work that had mattered to someone, somewhere, at some point in time. It was not worthless—he knew that now. Simply incomplete. A piece of a larger pattern that included his father's silence and his mother's endurance and his son's different approach and all the stories told and untold, changing things or not changing them, bearing witness regardless.
 
 He would call DeShawn tomorrow, before the flight. Would try to ask about his work, really ask, the way he should have years ago. Would try to see what his son was building as continuation rather than rejection.
 
@@ -536,7 +515,6 @@ It was simply how inheritance worked.
 He settled into the chair, prepared to keep vigil through the night. His mother slept on, dreaming of whatever she dreamed, and the hours passed slowly toward morning.
 
 
----
 
 
 

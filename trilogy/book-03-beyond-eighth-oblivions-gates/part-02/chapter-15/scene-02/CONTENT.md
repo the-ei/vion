@@ -27,7 +27,6 @@ Amina leaned back in her chair, studying him with the particular attention she'd
 "So why do you look like someone just asked you to betray everything you believe in?"
 
 
----
 
 Yusuf pushed back from the table, the chair scraping against linoleum that had been installed before he was born. He got up, poured himself water from the pitcher in the fridge, came back. The restlessness in his body had nowhere to go in this apartment.
 
@@ -52,7 +51,6 @@ Amina nodded slowly. "And he wants you to make them better."
 "You don't know they wouldn't."
 
 
----
 
 Their mother appeared in the doorway, her reading glasses pushed up on her forehead. "Are you arguing?"
 
@@ -83,7 +81,6 @@ Yusuf felt the accuracy of it land in his chest. His sister had always been able
 "Hasn't it?"
 
 
----
 
 Amina stood up, moved to the window that looked out on the parking lot, the same view they'd had their whole lives. Streetlights turning on in the November dark. Cars that belonged to people working shifts that had already started or hadn't ended yet.
 
@@ -102,7 +99,6 @@ Amina stood up, moved to the window that looked out on the parking lot, the same
 "You're already complicit. We're all complicit. We live in this world. The question is what you do with the complicity you can't avoid."
 
 
----
 
 The argument bloomed fully then, as arguments between siblings do - not a single thread but a tangle of them, old grievances and new fears woven together. Yusuf's voice rose; Amina matched him. He said she didn't understand because she'd gotten out through the respectable door, the scholarship door, the door that let her believe she'd earned her escape. She said he was holding onto his suffering like it made him holy, like being a victim was the only identity he had left.
 
@@ -127,7 +123,6 @@ She didn't deny it. That was the thing about Amina - she didn't soften her obser
 "I think you've survived something that would have destroyed most people," she said. "And I think you're afraid that if you let go of the anger, there won't be anything left. But there is, Yusuf. There's so much more to you than what they did to you."
 
 
----
 
 He thought about the music he used to make, back when he had time. The beats he'd layer at night after his shifts, the lyrics that came when he wasn't trying to find them. The studio session his friend had gotten him, years ago, that he'd had to cancel because of a delivery quota. All the things that existed in him besides the capacity to survive.
 
@@ -150,7 +145,6 @@ Yusuf remembered. The way he'd held her face in his hands, the way her eyes had 
 "I haven't forgotten," Amina said. "Not one day. I sit in my classes with kids whose parents could buy this building, and I remember that I'm there because someone gave me money and because you covered shifts so I could study and because Hooyo worked until her hands were raw."
 
 
----
 
 "Taking the scholarship didn't make me forget. It made me able to do something about it someday." She reached across the table and took his hand. "This could be that for you. A chance to carry what you know into rooms where it matters."
 
@@ -183,5 +177,4 @@ Yusuf looked at Amina. Amina looked at Yusuf. Neither of them spoke.
 It was the thing she always said. Tomorrow will be different. Sometimes it was a promise, sometimes a warning. Tonight, Yusuf couldn't tell which.
 
 
----
 

@@ -17,7 +17,6 @@ Then he began to sing.
 Not polished. Not ready. Not the version he would have prepared if he had known anyone was listening. Just the melody that had been with him for years, finally allowed to exist outside his head, his voice rough from the long night but finding the notes anyway.
 
 
----
 
 The song took shape.
 
@@ -38,7 +37,6 @@ He pressed stop.
 The file sat on his phone. Two minutes, forty-seven seconds. A song he had been building for years, captured in a parking lot at dawn, imperfect and real.
 
 
----
 
 He opened the email from the label.
 
@@ -50,7 +48,7 @@ The word sat there, small and enormous.
 
 Yes, I'm interested. Yes, I want to talk. Yes.
 
-He sent it before he could reconsider, before the fear could return and build its familiar walls, before the voice in his head that had always counseled caution could find new reasons to wait.
+He sent it before he could reconsider, before the fear could return and erect its familiar walls, before the voice in his head that had always counseled caution could find new reasons to wait.
 
 Then he opened Kevin Zhou's message.
 
@@ -63,11 +61,10 @@ Two yeses. Two doors walked through. Two refusals to wait any longer for conditi
 The sun was cresting the horizon now, weak winter light spreading across the parking lot, across his car, across his hands that were holding the phone that had just changed everything.
 
 
----
 
 He drove home.
 
-The streets were still mostly empty, the city still waking, the world not yet aware of what had just happened in a grocery store parking lot. A man had made a decision. A song had been sung into a phone. Emails had been sent.
+The streets were mostly empty still, the city waking, the world unaware of what had just happened in a grocery store parking lot. A man had made a decision. A song had been sung into a phone. Emails had been sent.
 
 Nothing visible had changed.
 
@@ -84,5 +81,4 @@ The sun rose over Minneapolis, the cold still pressing but beginning to lose its
 Then he went inside, to sleep, to wait for whatever came next, carrying the song with him like a promise he had finally made to himself.
 
 
----
 

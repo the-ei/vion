@@ -17,7 +17,6 @@ Elena looked at her husband in the moment before the moment, the final second of
 One.
 
 
----
 
 The ball dropped. The confetti exploded on the silent screen. In living rooms across America, people were cheering and kissing and making promises they might or might not keep. Here, in this small rented house in Flagstaff, Elena and Daniel touched their glasses together and drank.
 
@@ -38,7 +37,6 @@ Daniel was waiting in the hallway when she came out. They stood together in the 
 "No resolutions. Just. Recognitions."
 
 
----
 
 "What do you recognize?"
 
@@ -65,7 +63,6 @@ Not empty. Not at peace, exactly. But quiet, the way the surface of water become
 The threshold was behind her. The new year was beginning.
 
 
----
 
 Daniel had gone to bed. The house was silent except for the small sounds houses make when they are settling into night: the creak of wood contracting in the cold, the hum of the refrigerator, the distant whisper of wind against the windows.
 
@@ -82,5 +79,4 @@ The tea cooled in her hands. The stars turned imperceptibly in their ancient pat
 She was where she was supposed to be. She was ready for whatever came next.
 
 
----
 

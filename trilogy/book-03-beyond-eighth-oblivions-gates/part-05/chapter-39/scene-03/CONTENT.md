@@ -1,6 +1,6 @@
 The Q&A session followed the applause, moderated by a young professor Ruth did not know well but who handled the microphone duties with competence. Hands went up throughout the audience, and Ruth prepared herself for the questions that would test what she had said.
 
-The first few were soft - compliments dressed as questions, requests for elaboration on points she had already made. She answered them with practiced ease, adding details without changing substance.
+The first few were soft - compliments dressed as questions, requests for elaboration on points already made. She answered them with practiced ease, adding details without changing substance.
 
 Then a student stood, a young woman in the middle rows, her expression serious.
 
@@ -15,9 +15,8 @@ She paused, gathering her thoughts.
 "Let me answer your question with a question. When you say 'more radical approaches,' what do you mean? What would it look like to abandon the legal project in favor of something else?"
 
 
----
 
-The student didn't hesitate. "Direct action. Mass refusal. Building alternative systems rather than trying to reform the existing ones. The legal reforms you describe work at the margins, if at all. Meanwhile, the platforms continue to profit from harm, the surveillance continues to expand. Some of us think the only response is to opt out entirely, to build something different from scratch."
+The student didn't hesitate. "Direct action. Mass refusal. Building alternative systems rather than trying to reform existing ones. The legal reforms you describe work at the margins, if at all. Meanwhile, the platforms continue to profit from harm, the surveillance continues to expand. Some of us think the only response is to opt out entirely, to build something different from scratch."
 
 Ruth nodded slowly. "I understand the appeal. And I don't dismiss it. There are times when working within a system becomes complicity rather than reform. The question is how you know when you've reached that point."
 
@@ -30,7 +29,6 @@ She looked out at the audience, at the older faces who had spent their careers w
 "They have worked partially. Imperfectly. Inadequately. I accept all of that. But the alternative you're describing - opting out, building alternatives - also has its limits. The platforms don't disappear because some people refuse to use them. The surveillance doesn't stop because communities organize against it. Power doesn't yield to moral argument alone."
 
 
----
 
 Ruth felt herself entering territory that had no clear path, where honesty required acknowledging the limits of her own position.
 
@@ -44,16 +42,15 @@ The student nodded, not satisfied but perhaps less hostile.
 
 "That's fair. I'm not sure either. What I can tell you is that I spent my career on the inside because that was where I thought I could be most effective. Others made different choices. Neither of us was entirely right."
 
-The moderator moved to the next question, but Ruth saw the student writing something down, still thinking, still processing. That was enough. She had not converted anyone, but she had perhaps opened space for continued thought.
+The moderator moved to the next question, but Ruth saw the student writing something, still thinking, still processing. That was enough. She had not converted anyone, but she had perhaps opened space for continued thought.
 
 Other questions followed: technical points about doctrine, requests for opinions on current cases, the familiar rhythms of academic discourse. Ruth answered them all, drawing on decades of experience, feeling her energy flagging but her mind still sharp.
 
 
----
 
 When the formal Q&A ended, people rose, milled, began the slow movement toward the reception that would follow. Ruth stepped down from the podium and found herself immediately surrounded - former clerks who wanted to thank her, colleagues who wanted to offer praise, students who wanted photographs.
 
-David reached her first, his eyes still red but his composure restored.
+David reached her first, eyes still red but composure restored.
 
 "That was remarkable, Mom. Not what I expected, but remarkable."
 
@@ -78,9 +75,8 @@ Rebecca arrived, having navigated the crowd from the other side. She hugged Ruth
 "I know. That's what I loved about it. You chose honesty."
 
 
----
 
-The former clerks formed an informal receiving line, each of them wanting a moment with the judge who had shaped their careers. Ruth received them with the patience of long practice, asking about their work, remembering details about their lives, being the mentor they still needed her to be.
+The former clerks formed an informal receiving line, each wanting a moment with the judge who had shaped their careers. Ruth received them with the patience of long practice, asking about their work, remembering details about their lives, being the mentor they still needed her to be.
 
 Michael, who had clerked for her in 2025 and was now a law professor himself, took her hand with both of his.
 
@@ -99,5 +95,4 @@ Sarah, who had clerked in 2031 and had left law for policy work, asked quietly: 
 The reception pulled her forward, the crowd still wanting pieces of her attention. But Ruth felt something settling inside her, the strange peace of having said what she had to say. The lecture was over. The questions had been answered, or at least acknowledged. What remained was the walk into the evening, the rest of her life, the gate she was preparing to cross.
 
 
----
 

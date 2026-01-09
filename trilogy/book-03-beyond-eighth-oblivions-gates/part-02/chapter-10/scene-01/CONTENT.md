@@ -15,7 +15,6 @@ Not cancer. The word Elena had been carrying for two weeks, since the blood draw
 "Yes. Your own immune system is attacking your thyroid."
 
 
----
 
 Dr. Reyes continued explaining - medication, monitoring, the long-term management required - but Elena's mind was already turning the information over, examining it with the clinical eye she had developed across a decade of nursing. Autoimmune thyroiditis. Chronic, not acute. Manageable, not terminal. But the word that lodged in her mind was attacking. Her body at war with itself, an insurgency she had not known was brewing.
 
@@ -40,7 +39,6 @@ Elena almost laughed. The past few years. The pandemic that broke something in h
 "You have to."
 
 
----
 
 Dr. Reyes looked at her the way Elena looked at patients who refused to accept their diagnoses. "You've spent years telling other people to take care of themselves. Now it's your turn. Your body is telling you something, and you need to listen."
 
@@ -57,7 +55,6 @@ After the appointment, Elena walked to her car. The Phoenix afternoon was bright
 Her body was attacking itself. The metaphor felt too obvious, too convenient in its symbolism, and yet she couldn't escape it. Years of neglecting herself, of pushing through exhaustion and pain and warning signs, of caring for everyone else while leaving nothing for herself, and now her immune system had turned inward, found the enemy within.
 
 
----
 
 She drove home through traffic that seemed designed to test her. Every red light an obstacle, every slow driver a personal affront designed to test her. She caught herself gripping the steering wheel so tightly her knuckles whitened and made herself loosen her fingers. Stress is inflammatory, Dr. Reyes had said. This moment, right now, her body flooding with cortisol because someone cut her off on the highway - this was part of it. This was the accumulation that had brought her here.
 
@@ -70,7 +67,6 @@ When had she last felt well? She tried to remember and couldn't locate a date. B
 She thought of all the meals she had skipped because someone needed something. The sleep she had surrendered to night shifts, to children with fevers, to worry that kept her staring at the ceiling until dawn.
 
 
----
 
 The anxiety medication she had started six years ago and never stopped because stopping felt like failure, like admitting she couldn't handle what life required.
 
@@ -89,7 +85,6 @@ She put the phone down and looked at her hands. The same hands that had started 
 For the first time in years, she had nowhere to direct her care but inward. The unfamiliarity of it was almost worse than the diagnosis.
 
 
----
 
 She heard the front door open. Sofia's voice calling out, Mateo's feet pounding down the hallway.
 
@@ -120,5 +115,4 @@ Abuela nodded. "I'll make dinner."
 The ordinary rituals of evening began: snacks, homework, the television's distant murmur. Elena moved through them as if through water, her body present but her mind somewhere else, somewhere she had never been before - turned inward, attending to herself.
 
 
----
 

@@ -11,7 +11,6 @@ It was Daniel's mother's posture. The same squared stance, the same forward lean
 This was inheritance: the things you did not choose, the pieces you carried without recognition.
 
 
----
 
 The gathering had a rhythm. Arrival and greeting, the initial chaos of children reuniting, then settling into patterns. Women in the kitchen, though not exclusively—Daniel's brother was the best cook in the family and had claimed the stove. Men in the living room, though not exclusively—Elena's sister-in-law had no patience for cooking and had joined the construction talk. The divisions were loose, permeable, not quite the traditions of earlier generations.
 
@@ -36,7 +35,6 @@ Elena accepted the observation. She did not say that Sofia's fury was also hers�
 The conversation continued, the comfortable surface exchanges of family gatherings. Behind them, Elena watched and catalogued—who had inherited what from whom, which children carried which ancestors forward.
 
 
----
 
 In the yard, Mateo was laughing. The sound was distinct—a bright, sudden explosion of joy that startled people who were not used to it. Elena heard it and smiled.
 
@@ -61,7 +59,6 @@ Daniel turned to look at her. "What kind of letters?"
 "The kind my abuela wrote me. To be opened when they're older."
 
 
----
 
 "What are you telling them?"
 
@@ -86,7 +83,6 @@ Elena's relationship with her own mother was complicated—love mixed with frust
 "I will."
 
 
----
 
 The dinner gathered everyone around a table that was slightly too small, children squeezed between adults, plates passed over heads. The conversation fragmented and reformed, multiple discussions happening at once.
 
@@ -111,7 +107,6 @@ What would they believe at thirty? At forty? What would they remember of these g
 She could not control it. The letters were an attempt, but the real inheritance was happening now, in these moments, in the things they heard and the gestures they copied and the fears they absorbed without knowing.
 
 
----
 
 After dinner, the adults scattered to help with dishes or watch the children or simply rest. Elena found herself on the back porch with Daniel's mother, the two of them looking out at the desert as the light faded.
 
@@ -136,7 +131,6 @@ Elena considered this. She had never thought of herself as careful—had thought
 "That's what family is for." Her mother-in-law touched her arm. "Among other things."
 
 
----
 
 The drive home was quiet. Sofia and Mateo fell asleep in the backseat, exhausted by hours of running and playing, their bodies loose and trusting in the way only children's bodies could be. Daniel drove, and Elena watched the highway lights pass.
 
@@ -163,5 +157,4 @@ They would carry pieces forward. Not the pieces Elena chose. The pieces that stu
 All she could do was offer, and hope, and keep writing.
 
 
----
 

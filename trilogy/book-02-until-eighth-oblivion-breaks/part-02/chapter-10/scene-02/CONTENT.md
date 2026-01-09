@@ -11,7 +11,6 @@ The applause from certain sections of the audience was immediate. Ruth noted whi
 Then Kincaid took his turn.
 
 
----
 
 Senator Kincaid spoke from an entirely different script. Where Holloway had been smooth, Kincaid was sharp; where she had been measured, he was accusatory. But the accusations landed in directions Ruth had not expected.
 
@@ -26,7 +25,6 @@ Ruth wrote: Counter-narrative. Manufactured crisis, deep state coordination. Fra
 She had seen these conspiracy-adjacent arguments circulating online, in the fever swamps where legitimate skepticism curdled into paranoid certainty. What surprised her was hearing them from a sitting senator with such confident conviction.
 
 
----
 
 What surprised her more was that certain of his procedural points were not without merit.
 
@@ -43,7 +41,6 @@ The exchange devolved from there. Ruth watched the political theater unfold, her
 Her role in this production was unclear.
 
 
----
 
 The other witnesses testified before her. The tech industry representative offered carefully hedged acknowledgments of past mistakes paired with emphatic, hollow assurances of future responsibility. The consumer advocate demanded regulation with the fervor of someone who believed in the power of rules to change behavior. The former intelligence official spoke in studied generalities that said nothing while appearing to say everything.
 
@@ -58,7 +55,6 @@ And she was about to be asked to contribute her expertise to this performance.
 When her turn came, Ruth stood, approached the microphone, and began to deliver testimony she suspected would satisfy no one.
 
 
----
 
 The tech industry representative was finished now, having successfully communicated nothing while appearing fully cooperative. The consumer advocate had made her points with precision that would play well in clips. The intelligence official had retreated behind classification requirements with practiced grace.
 
@@ -73,5 +69,4 @@ She thought of Susan, who would have told her to speak the truth and let the con
 Then she began to read.
 
 
----
 

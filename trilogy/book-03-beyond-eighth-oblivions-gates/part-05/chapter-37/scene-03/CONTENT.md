@@ -19,7 +19,6 @@ Jerome looked at his mother's face, searching for the young woman he had known o
 "And your brother?" DeShawn asked. "The one who died?"
 
 
----
 
 Jerome was surprised DeShawn knew about Marcus Jr. - the brother named after their father, born between Patricia and Jerome, who had died at four from an illness no doctor could diagnose. He was a shadow in the family's history, rarely spoken of, the grief that had never fully healed.
 
@@ -42,7 +41,6 @@ Jerome looked at him. This was new. DeShawn had always seemed uninterested in Je
 "Is that what journalism is? Finding people who want to tell stories?"
 
 
----
 
 "Part of it. The other part is understanding what the stories mean. Connecting them to something larger. Making people see how the small thing connects to the big thing."
 
@@ -63,7 +61,6 @@ This was more honesty than DeShawn had offered in years. Jerome tried not to rea
 The conversation was interrupted by a change in his mother's breathing - a hitch, a pause, something that made both of them turn to look. But she settled again, the rhythm resumed, and they relaxed slightly.
 
 
----
 
 "She's still here," DeShawn said.
 
@@ -84,7 +81,6 @@ The word seemed impossible. His mother had been the fixed point, the constant, t
 He was still holding her hand. He made himself let go.
 
 
----
 
 Patricia was crying, the grief she had held back releasing now that there was nothing left to wait for. Denise moved to comfort her, the two women who had never been close finding something shared in this moment. DeShawn stood at the foot of the bed, his face still, his eyes wet.
 
@@ -97,5 +93,4 @@ DeShawn stayed close to Jerome without speaking. This was its own kind of commun
 The body was prepared for transport. The room was cleared. The window that looked onto nothing would look onto nothing for the next occupant, the next family, the next vigil. Jerome stood in the doorway for a moment, looking back at the bed where his mother had died, trying to fix it in his memory. Then he turned and walked into the hallway, into the morning, into the rest of his life.
 
 
----
 

@@ -9,7 +9,6 @@ The landscape of precarity was visible in the architecture. Yusuf had made a son
 Would he still see it if he didn't have to live it? Would the corner of Lake and Chicago still speak to him if his Saturdays were not spent calculating what he could afford?
 
 
----
 
 He walked past the bus stop where his father had waited for the 21 every morning. The same shelter, probably the same bench. Yusuf remembered waiting there as a child, holding his father's hand, watching the buses come and go while his father calculated travel times to the warehouse.
 
@@ -26,7 +25,6 @@ Yusuf could reach it. The offer was sitting on his desk, waiting for his signatu
 And still he walked, not ready to sign.
 
 
----
 
 He called Amina from a bench outside the library where she spent most of her days.
 
@@ -55,7 +53,6 @@ The words hit differently outside the library, surrounded by the neighborhood th
 "I know he wanted something better for us. And this is better, Yusuf. This is what better looks like."
 
 
----
 
 "You can still organize," Amina continued. "You can still make music. You'll just have time. That's what stability gives you—time. Time to think about things instead of just surviving them."
 
@@ -80,7 +77,6 @@ Amina was quiet for a moment. "The anger isn't going anywhere. Trust me. I make 
 The bench was cold beneath him. The October light was fading. Yusuf thought about all the decisions his father had never gotten to make—the job offers that never came, the stability that stayed out of reach.
 
 
----
 
 "I should go," Amina said. "I have a seminar in twenty minutes. But Yusuf—take the job. Do it for yourself. Do it for Mom. Do it for the version of Dad who never got the chance."
 
@@ -103,7 +99,6 @@ Both, he realized. It was both. There was no version of this choice that didn't 
 Either way, something tore.
 
 
----
 
 He walked home as the streetlights came on. The neighborhood was quieter now, settling into evening routines. Through windows he could see families eating dinner, televisions glowing, the ordinary life that went on regardless of economic systems and individual choices.
 
@@ -124,7 +119,6 @@ He pressed the button. The phone rang twice.
 "It's Yusuf Hassan. About the offer."
 
 
----
 
 The call lasted three minutes. When it ended, the decision was made, and Yusuf stood in the street with the phone still warm against his ear.
 
@@ -145,5 +139,4 @@ Yusuf played into the night, making something new from something old, carrying h
 The pattern was breaking. Something was tearing. Something else was beginning.
 
 
----
 

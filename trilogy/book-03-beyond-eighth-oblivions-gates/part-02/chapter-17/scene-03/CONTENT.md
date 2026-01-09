@@ -9,7 +9,6 @@ She picked up her pen again and continued writing.
 "To David and Rebecca," the document began. "This is what I have learned."
 
 
----
 
 Susan's piano stood against the far wall, closed now, untouched since she died. Ruth had thought about selling it - neither of their children played - but she couldn't. The instrument held something of Susan's presence, the way all objects hold traces of the people who used them. The art on the walls, too: pieces Susan had chosen, the visual vocabulary of a marriage that had lasted thirty years.
 
@@ -22,7 +21,6 @@ She would die too. This was not news. But it was sharper now, more present, in t
 The document she was writing was not a will - that existed, updated regularly, filed with her attorney. It was something else. The things she wanted her children to understand that couldn't be captured in legal language.
 
 
----
 
 "I spent my career believing in institutions," she wrote. "I believed that law could constrain power, that regulations could protect the vulnerable, that if we built the right structures, they would hold. I was not entirely wrong. Structures matter. Laws matter. The framework of accountability, however imperfect, is better than its absence."
 
@@ -35,7 +33,6 @@ She thought of Elena Varga, the nurse she had met through Delphine's network. A 
 "What survives," Ruth wrote, "is smaller than I once hoped. Not the grand structures. Not the sweeping reforms. Those help, when they work, but they are never enough. What survives is human connection. Specific care for specific people. The small scale where love is possible."
 
 
----
 
 The afternoon light shifted, the sun already beginning its descent toward the early winter darkness. Ruth's tea had gone cold beside her; she had been writing for hours without noticing the time. Her hand was cramped, the old ache that came from using a pen instead of a keyboard. But she didn't want to type this. She wanted her children to see her handwriting, the physical evidence of her attention.
 
@@ -50,7 +47,6 @@ Ruth could see Susan's face clearly in her memory, the particular way she raised
 The congressional commission's report sat on her desk, unread since she'd skimmed it two days ago. Ninety-seven pages of recommendations. Some good, some toothless, some that would never survive the political process. She had done what she could. The rest was up to others.
 
 
----
 
 "I don't know if any of this will matter," she wrote. "The reforms I helped shape may be implemented and may work, or they may be blocked and forgotten. The testimony I gave may be cited in future cases and may influence policy, or it may disappear into archives that no one reads. I have learned to live with uncertainty."
 
@@ -65,5 +61,4 @@ She thought of Susan again, how she had kept working with her students even when
 Ruth set down her pen and flexed her hand, the ache familiar and almost welcome. Outside, the solstice light was fading. She had more to write. She picked up the pen again.
 
 
----
 

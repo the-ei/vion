@@ -15,7 +15,6 @@ Neither of them spoke for several minutes. The silence was not comfortable exact
 Kevin looked out the window. Yusuf watched him look, waiting for the judgment he expected: the assessment of the modest neighborhoods, the used cars, the working-class landscape of this part of the city. But Kevin's face showed only curiosity, the genuine attention of someone seeing something new.
 
 
----
 
 "What music is this?" Kevin asked.
 
@@ -42,7 +41,6 @@ Kevin was quiet for a moment. "Expensive. Strange. Everyone there is building so
 They drove through the neighborhood where Yusuf's family lived. He found himself pointing things out without planning to: the grocery store where his mother shopped, the community center where the mutual aid network met, the corner where he had once gotten his car stuck in a snowbank and three strangers had helped him push it out.
 
 
----
 
 "Why are you showing me this?" Kevin asked.
 
@@ -73,7 +71,6 @@ They got out of the car. Kevin's inadequate jacket was immediately defeated by t
 The door opened and warmth rushed out to meet them.
 
 
----
 
 Fatima stood in the doorway, having heard the car pull up. Her eyes moved from Yusuf to Kevin and back again, the rapid assessment of a mother who has learned to read situations quickly.
 
@@ -102,13 +99,12 @@ Amina appeared from her room, flashcards still in her hand, her expression immed
 Kevin laughed, the second genuine expression Yusuf had seen from him. "Your CS teacher isn't wrong."
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Yusuf settled into the couch and watched Kevin try to navigate his family. It was strange, seeing this space through an outsider's eyes: the apartment that had been his whole world for most of his life, now measured against whatever Kevin was used to in San Francisco.
 
@@ -131,7 +127,6 @@ Kevin nodded slowly, processing this. "I don't think anyone's ever explained it 
 The admission was stark, undisguised. Yusuf had assumed Kevin's isolation was chosen, the busy solitude of someone important with better things to do. But Kevin's face said something else: that the isolation was its own kind of cage, that he genuinely did not know how to be in a home with people.
 
 
----
 
 Amina returned with a laptop, apparently having decided that her brief absence was enough rest for Kevin.
 
@@ -154,7 +149,6 @@ Kevin took a sambusa and bit into it, and something in his face changed. Yusuf r
 "Thank you. I make them every Friday. Yusuf's father loved them."
 
 
----
 
 The mention of his father caught Yusuf off guard. His mother rarely spoke of him directly, especially to strangers. But she was looking at Kevin with an expression Yusuf could not quite read: assessment, yes, but also something softer.
 
@@ -183,7 +177,6 @@ Fatima studied him for a long moment. Then she nodded, apparently satisfied with
 Amina was eating sambusa and reviewing her neural network questions, apparently unbothered by the adult conversation happening around her.
 
 
----
 
 "Can I ask you something else?" she said to Kevin between bites.
 
@@ -210,13 +203,12 @@ Yusuf found an extra hat in the closet, one of his father's old ones that no one
 The door closed behind them. The sun was setting, and the temperature was dropping, and somewhere in Yusuf's mind was the beginning of a conversation that would change both of them.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The cold hit them immediately, the sun's fading warmth giving way to the night's relentless grip. Kevin hunched into his inadequate jacket despite the borrowed hat, his shoulders climbing toward his ears.
 
@@ -239,7 +231,6 @@ Kevin stopped walking. The corner looked like any other corner: a streetlight, a
 "I didn't know him," Yusuf continued. "But I think about him. There are probably corners like this all over the city now. All over everywhere. Places where people died because the systems failed."
 
 
----
 
 "The systems I helped build," Kevin said. It was not a question.
 
@@ -260,7 +251,6 @@ The question surprised Yusuf. No one had asked him that. Everyone wanted to know
 "Before the crisis, yeah. The apps, the ratings, the way every ride and every delivery was tracked and optimized and scored. I was already living in a system that didn't care if I lived or died, as long as I kept delivering packages on time. The crisis just made it visible for everyone else."
 
 
----
 
 Kevin was quiet for a long moment. The cold had gotten into him; Yusuf could see him shaking, though he was trying to hide it.
 
@@ -285,7 +275,6 @@ Yusuf looked at him. "You talk about it like it's something you study. For us it
 They stood in front of the community center, two men in the cold, the building dark behind them. Yusuf could feel something shifting in the conversation, some barrier lowering. Kevin was not defending his world anymore. He was trying to see Yusuf's.
 
 
----
 
 "Why did you really come here?" Yusuf asked. "Not the official reason. The real one."
 
@@ -310,7 +299,6 @@ Yusuf started walking again, away from the community center, toward the commerci
 "We can talk there. I think I understand what you're trying to figure out. I've been thinking about it too."
 
 
----
 
 "What have you been thinking?" Kevin asked.
 
@@ -331,13 +319,12 @@ Kevin was doing the same. His face was red from the cold, his borrowed hat pushe
 Kevin took a sip of his coffee and began to talk. And Yusuf listened. And somewhere in the listening, the conversation that would change them both began to take shape.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 "The thing you have to understand," Kevin said, his hands still wrapped around his coffee, "is that the systems were always going to break. Not because they were badly designed, although some were. Because they were designed to optimize for the wrong things. Efficiency over resilience. Growth over stability. Speed over robustness. You can build the perfect system for normal conditions and it will shatter the moment conditions become abnormal."
 
@@ -354,7 +341,6 @@ Yusuf thought about this. It matched something he had felt but not articulated: 
 "Because the safeguards slowed things down. Because they introduced friction. Because in a crisis, efficiency feels more important than ethics. So the privacy protections went away. The consent requirements went away. The human oversight went away. And suddenly our systems were doing things we had explicitly designed them not to do."
 
 
----
 
 "So the problem is the people, not the technology."
 
@@ -373,7 +359,6 @@ Yusuf took a sip of his coffee. It was cooling now, the heat of their conversati
 The waitress came by and refilled their coffee. Neither of them had ordered food. Neither of them had looked at the menus. The conversation had become its own sustenance.
 
 
----
 
 "So what are you saying?" Yusuf asked. "That we should go back to some kind of pre-technological state? Because that's not possible. You can't unring the bell."
 
@@ -388,7 +373,6 @@ Yusuf sat with this. The warmth of the diner wrapped around them, the condensati
 "During the crisis," he said slowly, "I felt something break. Not just the systems. Something in me. The way I understood the world. The way I understood my place in it. And for months afterward, I thought that breaking was the worst thing that had happened. The loss, the grief, the fear. But now. Now I wonder if what broke was something that needed to break. Something that was keeping me from seeing clearly."
 
 
----
 
 Kevin was watching him intently. "What did you see?"
 
@@ -409,7 +393,6 @@ The waitress refilled their cups again. Yusuf wondered how long they had been si
 "The people I worked with," Kevin said quietly, "most of them still think we can go back. Fix the bugs, patch the vulnerabilities, restore the old systems. They don't understand that the old systems were the vulnerability. That building something better means building something fundamentally different."
 
 
----
 
 "Do you think you can?"
 
@@ -432,13 +415,12 @@ Neither of them spoke for a long moment. The diner hummed around them - the clin
 Kevin smiled. It was the first real smile Yusuf had seen from him. "That's exactly what I've been trying to figure out."
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Fatima had outdone herself. The table was crowded with dishes: kousa mahshi, the stuffed squash glistening with tomato sauce; musakhan, the sumac-rubbed chicken on taboon bread; a salad of cucumbers and tomatoes dressed simply with olive oil and lemon. Yusuf watched Kevin's face as his mother explained each dish, the way his corporate composure gave way to something more human as he tasted the food, the genuine surprise in his expression.
 
@@ -453,7 +435,6 @@ Amina had questions throughout dinner. About California, about technology, about
 Fatima served coffee after dinner. The good coffee, Yusuf noticed, from the tin she kept for special occasions. Something had shifted in his mother's assessment of their guest. Not full acceptance - Fatima did not give that easily - but acknowledgment. Kevin had passed some test Yusuf had not even realized was being administered.
 
 
----
 
 The drive to Kevin's hotel was quiet. Not the uncomfortable silence of strangers with nothing to say, but the comfortable silence of people who have said too much to say more. The streets of Minneapolis slid past, familiar and strange at once, the city Yusuf had grown up in now layered with new meaning.
 
@@ -476,7 +457,6 @@ Kevin was quiet for a moment. The hotel lobby glowed behind him, all that glass 
 Yusuf thought about this as Kevin got out of the car. Thought about it all the way home.
 
 
----
 
 The apartment was quiet when he got back. Fatima and Amina already in bed, the dishes washed and put away, the kitchen returned to its ordinary state as if the evening had been a dream. Yusuf stood in the darkness of the living room for a long moment, feeling the weight of the day settling into his bones.
 
@@ -497,7 +477,6 @@ He saved the file. Named it "Threshold."
 Then he went to bed and slept better than he had in years.
 
 
----
 
 
 

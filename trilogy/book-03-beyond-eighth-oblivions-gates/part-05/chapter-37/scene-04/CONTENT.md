@@ -11,7 +11,6 @@ Memory. That was what he had spent his career working with, in a way. Journalism
 And yet.
 
 
----
 
 She had asked him if he did right. She had asked him if they listened.
 
@@ -32,7 +31,6 @@ DeShawn came to stand beside him, looking out at the parking lot, at the city be
 "I think about it too. About the stories I told. Whether I saw clearly, whether I got it right."
 
 
----
 
 "You got closer than most people."
 
@@ -57,7 +55,6 @@ Jerome nodded. This was what his mother had tried to tell him, what she had know
 "She was. In ways I didn't understand until just now."
 
 
----
 
 They stood together in the cold, father and son, the distance between them narrower than it had been in years, perhaps ever. Jerome felt something shifting, some barrier dissolving. It wasn't that their disagreements had been resolved or their differences bridged. It was simpler than that: they were here, together, in the presence of loss. And presence was its own kind of bridge.
 
@@ -76,7 +73,6 @@ The door opened again. Denise and Patricia emerged, Patricia on her phone making
 "Let's go back to the house," Jerome said. "There's a lot to do."
 
 
----
 
 But he didn't move immediately. He stood for another moment in the cold Baltimore morning, looking at the city his mother had loved, the city she had come to at eighteen and never left. She had built her life here, had raised her family here, had kept faith in the face of difficulties that Jerome could barely imagine.
 
@@ -97,5 +93,4 @@ Jerome looked at his family - Denise, Patricia, DeShawn, gathered together in gr
 He turned and walked toward them, back into his life, carrying his mother with him.
 
 
----
 

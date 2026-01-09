@@ -15,7 +15,6 @@ The page ended there. The next entry was dated three years later, the handwritin
 *I am trying again. You deserve to know where you come from. Not the pretty story we told, but the real one. I don't know how to begin.*
 
 
----
 
 "Mom?"
 
@@ -46,7 +45,6 @@ The sentence ended there. Crossed out, the ink heavy as if the pen had been pres
 *I cannot write his name. Some things are too heavy for paper.*
 
 
----
 
 "What does it say?" Sofia asked.
 
@@ -67,7 +65,6 @@ She continued reading:
 *Your mother cried for years. You didn't see it. She was careful. But I heard her at night, in the room next to mine, trying to be quiet. A mother who leaves a child carries that weight forever, even if she had no choice.*
 
 
----
 
 The letter blurred. Elena realized she was crying, tears falling onto the blue-lined paper, and she pulled the page away quickly, not wanting to damage the words.
 
@@ -92,7 +89,6 @@ Sofia's hand found hers, small fingers wrapping around Elena's larger ones, the 
 "She had to make a hard choice once. The letter tells me about it."
 
 
----
 
 "What kind of choice?"
 
@@ -113,7 +109,6 @@ A gap in the text. Then:
 *Some doors are better left closed. I tell myself this. I don't believe it.*
 
 
----
 
 Elena closed the prayer book. She could not read more, not now, not with Sofia watching. There were pages she had not reached, entries she had not seen, the story incomplete as all stories are, fragments that would never cohere into whole truth.
 
@@ -134,7 +129,6 @@ Elena looked at the prayer book in her hands, at San Judas Tadeo with his patien
 There was no way to know. The dead do not explain themselves. They leave objects and letters and memories, and the living must sort through them, making meaning where they can, accepting mystery where they cannot.
 
 
----
 
 "Can I read some of it?" Sofia asked.
 
@@ -159,5 +153,4 @@ And she thought about Sofia, about what she would pass on, about the gaps in her
 The letter would wait. But it would not stop asking its questions.
 
 
----
 

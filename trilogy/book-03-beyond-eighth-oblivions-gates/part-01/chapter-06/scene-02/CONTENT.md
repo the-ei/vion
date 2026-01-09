@@ -13,7 +13,6 @@ Jerome hung back, giving them space. He watched his son hold his wife and felt s
 "We didn't know what the results meant until yesterday. And you're here now. That's what matters."
 
 
----
 
 They ordered Thai food - Denise's choice, her comfort cuisine since she had spent a summer in Bangkok before graduate school. The containers spread across the kitchen table, steam rising, the familiar smells filling the room. Jerome poured wine for himself and Denise; DeShawn stuck with sparkling water, claiming he was trying to cut back on alcohol, which Jerome suspected was a gesture of solidarity with his mother rather than an actual lifestyle change.
 
@@ -36,7 +35,6 @@ Jerome noticed how matter-of-factly Denise discussed her own body, her own morta
 "I want to be here, Mom. Not because you need me. Because I want to."
 
 
----
 
 Denise reached across the table and squeezed his hand. "We'll figure out the schedule. Maybe you come down for the surgery and the first few days of recovery. But don't put your life on hold. That's not what I want. What I want is for you to be doing what makes you feel alive while I'm getting through this. Your success would be the best medicine."
 
@@ -55,7 +53,6 @@ DeShawn glanced at Jerome, a flicker of surprise that his father had been paying
 DeShawn looked at Jerome again, this time longer. The comparison hung in the air between them - the implication that they might not be as different as their arguments suggested.
 
 
----
 
 "I remember when I was maybe ten," DeShawn said, addressing both of them but looking mostly at his mother. "Dad was working on something big. I didn't know what - something about corporations, data, the kind of story he always did. He was barely home. Weeks of late nights, early mornings. And you, Mom, you kept everything running. Made sure I got to school, did my homework, had dinner. Never complained, at least not where I could hear."
 
@@ -76,7 +73,6 @@ Denise smiled, a tired but genuine expression. "Nothing like cancer to unstick a
 The dark humor landed, releasing something. Jerome almost laughed. DeShawn did laugh, brief and surprised.
 
 
----
 
 They finished dinner and moved to the living room. The evening had deepened outside, the windows dark, the house warm with light and presence. Jerome sat in his usual chair while Denise and DeShawn shared the couch. Old stories began to surface - the vacation to Cape Cod when DeShawn was eight and got stung by a jellyfish, the time Denise had mistakenly enrolled him in a dance class instead of a soccer league and he'd liked it so much she let him stay, the history project where Jerome had gotten too involved and DeShawn's teacher had gently suggested that sixth-graders should probably do their own research.
 
@@ -101,7 +97,6 @@ Denise looked at Jerome across the living room. "That was good. Having him here.
 "It's a trait. Flaws and virtues are just traits in different lighting."
 
 
----
 
 They went upstairs together, moving through the nighttime rituals that thirty years had worn smooth. Teeth brushed, clothes exchanged for sleepwear, the adjustments of pillows and blankets. The mundane mechanics of going to bed, unremarkable except for everything surrounding them.
 
@@ -124,7 +119,6 @@ Jerome reached for her hand under the covers. "What do you want to do differentl
 "That sounds good. Hard but good."
 
 
----
 
 "What about you?" Denise asked. "What do you want?"
 
@@ -161,5 +155,4 @@ He squeezed her hand. "I promise."
 They lay together in the dark, the house quiet around them, their son asleep down the hall. The world outside continued its revolutions. And in this small room, two people who had spent thirty years building something held on to each other against the uncertainty of what came next.
 
 
----
 

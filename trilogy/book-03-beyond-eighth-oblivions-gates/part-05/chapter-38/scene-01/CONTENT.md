@@ -13,7 +13,6 @@ She texted back: *Thank you. I'll call after.*
 Then she lay in bed a moment longer, letting the fear wash through her.
 
 
----
 
 This film was different from everything she had made before. Not commercial, not explanatory, not designed to satisfy the attention economy she had spent her career feeding. It was fragmentary, difficult, beautiful in ways that might not be recognized. She had made choices that any sensible producer would have vetoed: no through-line, no clear protagonist, no resolution. Just voices, images, the texture of a decade of transformation captured without being explained.
 
@@ -38,7 +37,6 @@ Theo looked up. "Is tonight the movie thing?"
 Delphine sat down across from him, this child she and Jessie had made together, now on the threshold of adolescence, his own opinions forming. "I don't know. Maybe not. It's not really about understanding. It's about - feeling something. Seeing something differently."
 
 
----
 
 "That sounds confusing," Theo said, but not unkindly. He was used to his mother's work, used to the long hours in the edit bay, the interviews that came and went, the absorption that creative work required. He had grown up in the margins of it, and he had learned to navigate those margins with grace.
 
@@ -59,7 +57,6 @@ She looked up from her phone. Jessie was watching her.
 "You're going to be okay," Jessie said. "Whatever happens tonight. The work is done. The film exists. Nothing anyone says can change what you made."
 
 
----
 
 This was true. The film existed. Two years of labor crystallized into ninety minutes that would be projected tonight onto a screen for strangers to watch. Whatever Delphine had meant by it, whatever she had tried to say about the decade they had all lived through, was now fixed, permanent, separate from her intentions.
 
@@ -78,5 +75,4 @@ The day stretched ahead. The premiere at seven. She had hours to fill.
 She opened her laptop and began writing the remarks she would give afterward, then deleted them. Some things could not be planned.
 
 
----
 

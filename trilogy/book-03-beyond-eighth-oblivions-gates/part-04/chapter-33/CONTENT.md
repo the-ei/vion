@@ -7,7 +7,6 @@ A warehouse. He kept getting caught on that word. His father had died in a wareh
 Now he was about to walk into another warehouse. The coincidence felt less like coincidence and more like something he couldn't name. Not fate, he didn't believe in that. But some kind of rhyme, some echo demanding to be heard.
 
 
----
 
 He got out of the car. Spring in Minneapolis was cold by the standards of elsewhere, but after the winter he had endured, forty degrees felt almost warm. The sky was the pale gray that passed for blue in the upper midwest, a feeble sun doing its best through the clouds. He crossed the street with his guitar case in one hand, the other shoved in his jacket pocket, and stood before the door.
 
@@ -20,7 +19,6 @@ The lobby was simple: exposed brick, a few chairs, a reception desk where no one
 A door opened and a woman emerged, mid-forties, Black, with graying locs and the kind of calm presence that suggested she had seen nervous musicians before. "Yusuf? I'm Renata. The producer. Come on back."
 
 
----
 
 The studio unfolded before him like a map of possibilities. Control room with its mixing board and monitors, the engineer already seated there, adjusting something. Through the window, the tracking room where instruments lived - drums set up, amps waiting, the space where sound was made. And beyond that, visible through another window, the vocal booth. A small room with a microphone on a stand, a pair of headphones hanging, a stool. The place where he would either sing or fail to.
 
@@ -35,7 +33,6 @@ Two hundred albums. Yusuf's hands were still shaking. He set down his guitar cas
 "Something there" was as much praise as Yusuf could absorb. He nodded, not trusting his voice to speak.
 
 
----
 
 Renata showed him around. The kitchen where they could make coffee and heat up food. The lounge with its worn couch where musicians took breaks. The bathroom. The emergency exits. The warehouse had been converted thoughtfully, the industrial bones visible beneath the acoustic treatment, the history of the building preserved even as its purpose had changed.
 
@@ -56,7 +53,6 @@ Renata nodded, something like respect in her eyes. "That's the job. Being here a
 She led him toward the vocal booth, and Yusuf followed, feeling the weight of the warehouse around him like a question he didn't yet know how to answer.
 
 
----
 
 The vocal booth was smaller than it looked through the window. Yusuf stepped inside and immediately felt enclosed, protected, as if the acoustic panels were holding space for him. The microphone was a Neumann, Terrell had said, the name meaning nothing to Yusuf except that it was expensive, serious, the kind of equipment that professionals used. It hung before him like an invitation.
 
@@ -75,13 +71,12 @@ Yusuf looked at the microphone. This was the moment his father would never have.
 Through the window, Terrell gave a thumbs up. The levels were good. The session could begin.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The sound check took longer than Yusuf expected. Terrell was meticulous, adjusting the microphone position by centimeters, asking Yusuf to sing the same phrase again and again while he listened for something Yusuf couldn't identify. The phrase was from one of his unfinished songs, just four words - "the dawn keeps breaking" - but by the twentieth repetition it had become meaningless, just sounds moving through air.
 
@@ -98,7 +93,6 @@ Renata looked at it and smiled. "That's from your friend Kevin. He sent it speci
 Kevin. The connection that had started when they were both struggling, when Yusuf was delivering packages to Kevin's building and Kevin was... whatever Kevin was doing then, the tech work that Yusuf had never fully understood. They had recognized something in each other. Now Kevin's technology was here, part of this.
 
 
----
 
 The interface glowed quietly, processing his voice through whatever algorithm Kevin had designed. Yusuf didn't understand the technology - he barely understood how a regular microphone worked - but he understood the intention. Kevin had made something to help voices be heard more fully, to capture what usually got lost in transmission. It was the opposite of what most tech seemed to do, which was flatten and compress and reduce. This was about preservation.
 
@@ -115,7 +109,6 @@ Yusuf's throat tightened. The sound check had been relatively safe, just technic
 No rush. But also no escape. He was here now, in the booth, with the microphone and the headphones and the professionals waiting behind the glass. He had to do something with this chance or he would never forgive himself.
 
 
----
 
 He had brought charts, lyrics he had written and rewritten over the years. They were in a folder in his guitar case, handwritten on notebook paper, the physical record of his attempts to say what he meant. Renata had asked him to leave the guitar in the control room for now; they would add instrumentation later, but first they wanted just his voice.
 
@@ -132,7 +125,6 @@ Don't worry about getting it perfect. Yusuf had spent his whole life worrying ab
 He looked at the lyrics in his hand and tried to remember that he wasn't trying to be perfect. He was trying to be true.
 
 
----
 
 The first attempt was a disaster. He started too high, realized it immediately, tried to adjust mid-phrase, lost the melody entirely. His voice cracked on a note he had hit perfectly a thousand times in his car. Through the window he could see Terrell making notes, Renata nodding, their faces betraying nothing.
 
@@ -153,7 +145,6 @@ Partners. The microphone and the song. The technology and the human. Kevin's int
 But maybe the capture was always part of the art. Maybe transmission was its own kind of creation.
 
 
----
 
 He tried the song again. This time he didn't try to be perfect. He let his voice do what it wanted, following the melody where it led, trusting the years of practice he hadn't known were practice. The verse came out differently than he had planned - a note bent where it should have been straight, a pause where there shouldn't have been one - but it felt true. It felt like him.
 
@@ -170,13 +161,12 @@ The sound check was over. The recording was about to begin.
 "No," Yusuf said. "But let's do it anyway."
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The red light came on and everything changed.
 
@@ -191,7 +181,6 @@ Punch in. He didn't know what that meant technically, but he understood the prin
 The second take was worse. He lost the melody entirely in the bridge, the part he had never quite figured out, the part that wandered between keys without committing to either. When he stopped, Renata just said "again" and he started again, and again, and again, the song becoming simultaneously more familiar and more strange with each repetition.
 
 
----
 
 By the seventh take, he wanted to quit. The frustration was physical, a tightness in his chest and throat that made singing harder, which made him more frustrated, which made singing even harder. The spiral downward. He had experienced this before, in his car, in his room, the moments when the music refused to cooperate and he gave up, put down the guitar, told himself he wasn't really a musician anyway, just a gig worker who liked to hum.
 
@@ -210,7 +199,6 @@ Renata looked up. "For what?"
 "Nobody does, the first time. You think all those voice memos you made were nothing? They were practice. You just didn't know you were practicing. The skill is there, it just needs to learn a new context."
 
 
----
 
 Yusuf drank the water and looked at the waveforms on the screen. His voice, transformed into visual data, the peaks and valleys of sound made visible. He could see where the good parts were and where they fell apart, the graphic representation of his failures and almost-successes.
 
@@ -231,7 +219,6 @@ Practice. He had never thought of recording as practice. He had thought of it as
 "I want to try not caring. Not about the recording, not about whether it's good. Just singing like nobody's listening."
 
 
----
 
 He went back into the booth. Put on the headphones. Looked at the lyrics in his hand and then set them aside. He knew the words; he had been singing this song, or trying to sing it, for eleven years. He didn't need the paper. What he needed was to stop needing things.
 
@@ -246,7 +233,6 @@ The verse came out differently than it had before. The notes were the same but t
 When he finished the song, the room was silent. Renata and Terrell were both still, listening to something only they could hear in the playback.
 
 
----
 
 "Play it back," Renata said.
 
@@ -265,7 +251,6 @@ They moved to the second song on his list, something lighter, a love song or a s
 The evening deepened outside the warehouse windows. They worked through song after song, false starts and breakthroughs interleaved, the ordinary process of making art.
 
 
----
 
 By eight o'clock they had rough takes of four songs. Not polished, not ready for release, but captured - the foundation Renata kept talking about, the raw material that would become something else. Yusuf's throat was sore from singing, a good kind of sore, the ache of use rather than damage. He sat on the couch in the lounge while Terrell exported files and Renata made notes.
 
@@ -284,13 +269,12 @@ He went to find Renata and tell her that his sister was coming. The warehouse wa
 The door buzzed. Amina was coming. The session wasn't over. And for the first time in longer than he could remember, Yusuf felt like he was exactly where he was supposed to be.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Amina stood in the control room like someone visiting a foreign country. She worked in finance, in an office with fluorescent lights and cubicles, a world as far from this one as Yusuf could imagine. But she looked around the studio with the same curiosity she had brought to everything since childhood, the willingness to be surprised that had survived their difficult upbringing.
 
@@ -315,7 +299,6 @@ Yusuf hesitated. He had never played his music for Amina in any serious way. She
 He nodded at Terrell, who pulled off his headphones and cued up the first song, "Inheritance." The speakers came alive with Yusuf's voice.
 
 
----
 
 Amina didn't move while the song played. She stood with her arms crossed, her face unreadable, watching the speakers as if she could see the sound coming from them. Yusuf watched her watching, trying to guess what she was thinking, failing. Siblings were supposed to know each other better than anyone, but there were parts of Amina that remained mysterious to him, just as there were parts of him that she was only now hearing.
 
@@ -338,7 +321,6 @@ When the song ended, the room was quiet. Terrell discreetly turned back to his w
 Amina uncrossed her arms. Her eyes were bright but she wasn't crying; she had inherited their mother's composure along with their father's stubbornness. "He would have loved it. You know that, right? He would have been so proud."
 
 
----
 
 Yusuf felt the weight of her words settle into him. Their father had never heard any of his music, had died before Yusuf even started writing songs seriously. The humming in the car, the fragments on the phone - all of that came after, born from the absence, a way of continuing a conversation that death had interrupted.
 
@@ -361,7 +343,6 @@ Amina smiled. "Finance makes you philosophical. All those numbers representing t
 "Yeah. Except yours actually mean something. I can hear it."
 
 
----
 
 They stood together in the control room, the siblings who had survived their father's death and their own different struggles, and for a moment the ten years between them collapsed. Amina was not the successful one and Yusuf was not the lost one. They were just two people who had come from the same place and gone in different directions, both directions valid, both lives real.
 
@@ -390,13 +371,12 @@ Amina nodded, satisfied. She headed for the door, paused, looked back.
 Then she was gone, and Yusuf was alone with the music again, ready to continue.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The night changed everything.
 
@@ -413,7 +393,6 @@ The song he called "Night Work" came together like that. He had the verses but t
 "One more time," Yusuf said. "I want to get it while I can still feel it."
 
 
----
 
 The zone - that was what Renata called it, the state where self-consciousness dissolved and music moved through you rather than from you. Yusuf had experienced it before, rarely, in his car late at night when the city was asleep and he was alone with his voice. But he had never experienced it like this, sustained, witnessed, captured by equipment that would preserve it for anyone to hear.
 
@@ -430,7 +409,6 @@ A single. The word felt surreal. Yusuf was a gig worker who hummed in his car. H
 Kevin's interface glowed blue in the rack. Yusuf wondered if Kevin knew what was happening, if some notification had reached him in whatever room he occupied, tracking the transmission of music he had helped to make possible.
 
 
----
 
 They worked until two in the morning. By the end, Yusuf had usable takes of six songs - not the whole EP they had planned, but more than he had expected. His voice was almost gone, reduced to a whisper, but the whisper was satisfied. He had done something real.
 
@@ -447,7 +425,6 @@ Terrell shut down the equipment piece by piece. Kevin's interface powered off, i
 "I will." He didn't know if it was true. He felt too alive to rest.
 
 
----
 
 The parking lot was empty except for his borrowed car and Renata's pickup truck. Minneapolis in the small hours of a spring night, the air cold and clean, the city quiet in the way that cities only get when most of their people are sleeping. Yusuf stood by his car and looked at the warehouse one more time.
 
@@ -458,7 +435,6 @@ The songs he had recorded were about his father and also about himself. They wer
 He got in the car and sat for a moment, not starting the engine. Through the windshield he could see the warehouse, the windows dark now, the music he had made inside it waiting for its next stage. He thought about calling Kevin, about texting Amina, about all the connections that had led to this night. But the moment felt too full for communication. He just wanted to be here, in the parking lot, in the aftermath, letting what had happened settle into him.
 
 
----
 
 He started the car.
 
@@ -473,7 +449,6 @@ He got out of the car and walked toward his apartment. His neighbors' windows we
 The threshold had been crossed. He was on the other side.
 
 
----
 
 
 

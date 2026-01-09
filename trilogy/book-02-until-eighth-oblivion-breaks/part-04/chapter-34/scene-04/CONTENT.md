@@ -25,7 +25,6 @@ Relief should have been there. Help was coming. The crisis was ending. The syste
 But relief was not what she felt.
 
 
----
 
 "Grid restoration," Mr. Ochoa said. "They're bringing back the power."
 
@@ -52,7 +51,6 @@ Daniel found Elena in the crowd and took her hand. "What are you thinking?"
 "Then why does it feel like that's what's coming?"
 
 
----
 
 Tony found another signal, clearer this time. A different voice, maybe a different station.
 
@@ -73,7 +71,6 @@ Elena did not feel reassured. She felt something harder, colder: the certainty t
 The fire burned. The radio crackled. The night continued, and somewhere in the darkness, the old world was reassembling itself.
 
 
----
 
 The gathering began to disperse as the hour grew late. People drifted back to their homes, carrying the news of restoration with them, spreading it to those who had not been at the fire. By morning, everyone would know: the crisis was ending.
 
@@ -96,5 +93,4 @@ The question was direct, honest, impossible to evade. Elena thought about the cl
 She didn't know if it was true. But she wanted it to be.
 
 
----
 

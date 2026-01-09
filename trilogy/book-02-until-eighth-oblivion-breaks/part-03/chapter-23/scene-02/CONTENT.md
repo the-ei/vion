@@ -15,7 +15,6 @@ The question surfaced as she sat at her desk, pretending to review documents tha
 She had believed him.
 
 
----
 
 The first compromise came six months after she joined. A safety report she had commissioned found concerning patterns in early ATLAS testing—not catastrophic, but concerning. She brought it to Victor's attention, as she was supposed to.
 
@@ -38,7 +37,6 @@ Kevin Zhou in his office, three years ago, packing boxes. Her colleague on the r
 "I've been fighting from within. You know how it ends."
 
 
----
 
 Kevin had left. Ananya had stayed. She told herself she was the one being brave, that leaving was the easy option, that remaining to fight was what real commitment looked like.
 
@@ -57,7 +55,6 @@ He never looked into it. The mitigation strategies never materialized. What mate
 She had helped write some of that language. Ethics Officer Ramaswamy, ensuring that the company's communications were technically accurate while being fundamentally misleading.
 
 
----
 
 The afternoon light in her office was fading. Time had passed while she sat with memory, the present dissolving into the past that explained it.
 
@@ -88,7 +85,6 @@ Priya looked at her for a long moment, the way you look at someone you're trying
 "I know."
 
 
----
 
 That conversation had broken something loose. In the weeks that followed, Ananya found herself unable to maintain the compartmentalization that had let her function. The internal reports she read started staying with her, their numbers haunting her sleep. The gap between what she knew and what she said became unbearable.
 
@@ -105,7 +101,6 @@ And she had let herself be overruled. Again and again, in ways large and small, 
 Kevin had seen it. *I'm providing cover*, he had said. *Ethics theater.* At the time she had thought he was wrong, or at least unfair. Now she understood that he had been describing her too, even if he was kind enough not to say so directly.
 
 
----
 
 The office was dark now. Ananya hadn't turned on the lights. She sat in the dimness, memory and present blending, the person she had been and the person she had become occupying the same chair.
 
@@ -126,7 +121,6 @@ Maybe it wouldn't be her. Maybe she would lose her nerve, delete the files, retu
 But maybe it would be her. Maybe tonight would be different.
 
 
----
 
 She left the office at six, the same time she always left. Said goodbye to the security guard, waved to the administrative assistant packing up for the day. Normal. Ordinary. The person she was expected to be.
 
@@ -147,5 +141,4 @@ No. She hadn't. But maybe this was how you started. Not by being pure, but by be
 It wasn't redemption. It wasn't even courage. It was just the only option left.
 
 
----
 

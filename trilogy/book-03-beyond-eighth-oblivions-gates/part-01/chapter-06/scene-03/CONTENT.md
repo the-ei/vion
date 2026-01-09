@@ -15,7 +15,6 @@ If you're willing to talk, I think you'll want to know what I've found.
 The email was followed by credentials - Jeffries' publication history, his academic affiliations, links to previous investigative work that Jerome could verify.
 
 
----
 
 Jerome's first reaction was defensive. He had spent years on the Eighth Oblivion coverage. He had pushed harder, dug deeper, risked more than any other journalist. His series had won awards, shaped public understanding, contributed to the regulatory responses that followed. If there had been something to find, he would have found it.
 
@@ -36,7 +35,6 @@ Jerome read the attachment twice. The writing was authentic - he recognized the 
 If this was real, his coverage had missed something fundamental.
 
 
----
 
 The video call connected at four o'clock. Malik Jeffries appeared on screen - younger than Jerome had expected, late twenties, Black, with wire-framed glasses and the kind of focused intensity that Jerome recognized from his own early years in the profession. Behind him, visible in the frame, were bookshelves dense with texts and a wall covered with printed documents, photographs, the physical evidence of long research.
 
@@ -57,7 +55,6 @@ For the next hour, Jeffries laid out his research. The corporate communications 
 Jerome listened, asked questions, took notes. His skepticism battled with his recognition that the picture Jeffries was painting explained gaps he had always noticed but never been able to fill.
 
 
----
 
 "Why come to me?" Jerome asked when Jeffries had finished his presentation. "You have the material. You're a capable journalist. Why not break this yourself?"
 
@@ -82,7 +79,6 @@ Jerome felt the echo of something in those words. A sense that he was being offe
 "I want to expose the truth. However that happens. If it means collaboration, I'm for it. If it means you take what I've found and run with it yourself, I'd accept that too. What matters is the story, not who tells it."
 
 
----
 
 The call ended with an agreement to talk again. Jeffries would send more documentation. Jerome would review it, verify what he could, identify questions and gaps. No commitment yet, no formal collaboration - just the first steps of what might become something larger.
 
@@ -109,7 +105,6 @@ He explained about Jeffries, about the email, about the evidence of what his Eig
 Denise nodded slowly. "That's the Jerome I know. The one who can't leave a question unanswered."
 
 
----
 
 "I'm scared," he admitted. "Not of the work - I know how to do that. But of what it might cost. What it might take from us, especially now."
 
@@ -142,5 +137,4 @@ He wrote until midnight, filling page after page with questions, connections, hy
 Outside his window, Baltimore slept. But Jerome was awake again, truly awake, looking backward to find what had been hidden.
 
 
----
 

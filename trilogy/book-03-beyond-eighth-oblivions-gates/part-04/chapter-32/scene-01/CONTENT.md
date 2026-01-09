@@ -7,7 +7,6 @@ The clinic key was cold in her hand. The back entrance, employee door, the one t
 Inside, the hallway was dim, motion sensors not yet triggered, and she moved through the half-light like someone visiting a church before the congregation arrives. The supply closet first, its door ajar, the shelves that were never quite full enough. Gauze, syringes, the generic medications that the pharmaceutical reps didn't bother to market because there was no profit in them. She knew exactly what was missing, what was always missing, what requests had been denied and would be denied again.
 
 
----
 
 She walked through the exam rooms one by one, flicking on lights that buzzed for a moment before catching. Room three, where the blood pressure cuff had been broken for two months, the requisition for a replacement stuck somewhere in the procurement system. Room five, the one with the window that faced east, which they tried to save for patients who seemed like they needed something beyond the medical. The paper on the examination tables was fresh, someone having restocked last night, white sheets waiting to be crinkled by the weight of bodies that would come.
 
@@ -18,7 +17,6 @@ Her grandmother had spent her final weeks in a bed that was really just another 
 But something had happened in that room that she was still trying to understand.
 
 
----
 
 The waiting room was the space that haunted her most. Forty-two plastic chairs bolted to the floor in rows, a configuration designed for efficiency rather than comfort. The television mounted in the corner that played news no one watched, its sound too low to hear over the ambient noise of waiting. The rack of pamphlets about diseases and prevention, curling at the edges, their information outdated by the time they were printed. She had once counted the hours that patients spent in these chairs, a rough calculation during a particularly brutal week, and the number had been so high she'd never told anyone.
 
@@ -27,7 +25,6 @@ Elena sat down in one of the chairs now, in the empty room, in the quiet before 
 She thought about her abuela sitting in waiting rooms, decades ago, before Elena was born, a young immigrant woman navigating a system designed for people who weren't her. The stories she'd told about being dismissed, being overlooked, being made to feel that her pain was less real because of how she spoke, where she came from, the color of her skin. Elena had heard these stories all her life. They had been part of why she'd become a nurse in the first place, that ancient rage refined into purpose.
 
 
----
 
 But the rage had cost her. Over the years she had learned to compartmentalize it, to set it aside during patient encounters so that she could function, so that the anger at what created the wounds wouldn't interfere with her ability to tend them. The care and the rage had become separate forces, twin engines running on parallel tracks. She had thought this was necessary. She had thought this was what the job required.
 
@@ -38,7 +35,6 @@ The light through the front windows was strengthening, Phoenix morning turning f
 She stood up from the plastic chair, her body stiff from sitting, from the sleeplessness that still came some nights, from the accumulated weight of forty-three years. Not old, not young. Somewhere in the middle of her working life with more ahead of her than behind.
 
 
----
 
 In the break room she made coffee, the ancient pot that the clinic had bought used from a diner that went out of business. She measured the grounds carefully, the ritual of it grounding her, the smell of coffee as it began to brew filling the small space. The refrigerator hummed, full of lunches brought from home, the economics of healthcare workers who couldn't afford to eat out on their salaries. A sign on the wall reminded everyone to label their food. Another sign reminded them about hand hygiene. The break room was where they came to be human for fifteen minutes at a time, to complain and laugh and hold each other up.
 
@@ -49,5 +45,4 @@ The coffee finished brewing. She poured a cup and held it in both hands, warming
 She was ready. Something in her had shifted, and she was ready.
 
 
----
 

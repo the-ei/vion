@@ -7,7 +7,6 @@ Jerome had been coming here every day since day three. He told Denise he needed 
 His legal pad was filled with notes. Careful, organized, cross-referenced. The habits of a lifetime did not disappear because the systems they served had collapsed. If anything, the habits had intensified - as if the precision of his note-taking might somehow compensate for the chaos beyond these walls.
 
 
----
 
 A ham radio operator named Gerald called out from his station: "Got Philadelphia coming through clear. They're saying the federal emergency response has established a secure perimeter around the Liberty Bell, but the rest of Center City is still without power. Food distribution happening at the stadium parking lots."
 
@@ -22,7 +21,6 @@ The article had been well-received. It had won a regional award. It had changed 
 Another voice crackled from a different radio station: someone in Richmond reporting that the water treatment plant was back online. Jerome wrote it down. His hand was steady, his penmanship clear.
 
 
----
 
 By mid-morning, a traveler arrived - a woman named Angela who had walked from Annapolis with information about the Chesapeake region. The hub received travelers like her daily: people who had been outside the city when the crisis hit and were making their way home, or people who had tried to reach family in other places and had returned with reports.
 
@@ -39,7 +37,6 @@ Jerome wrote it all down. The pattern was consistent: institutions designed for 
 He had written about this too. The brittleness beneath the efficiency. The assumption that complex systems would degrade gracefully rather than fail catastrophically. His articles had been praised for their foresight. Now that foresight felt like nothing at all.
 
 
----
 
 Ruth approached him around eleven, clipboard in hand. She was a retired teacher, seventy-three years old, who had taken charge of the hub with the calm authority of someone who had managed classrooms of unruly children for forty years.
 
@@ -64,5 +61,4 @@ But Ruth was right about one thing. Someone needed to remember.
 She walked away, back to her clipboard and her bulletins. Jerome looked at his legal pad for a long moment. Then he turned to a fresh page and kept writing.
 
 
----
 

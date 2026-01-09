@@ -11,7 +11,6 @@ She tried again. The same message appeared.
 She rebooted the computer, a process that took three full minutes while the old machine ground through its startup sequence. Mrs. Gutierrez sat patiently, her hands folded in her lap, her eyes following Elena's movements with mild curiosity.
 
 
----
 
 When the computer came back up, Elena tried again to access the EHR system. The same gray screen. The same error message. She picked up the phone on the desk and dialed the IT support line, a number she had memorized long ago. The line rang four times, then five, then an automated voice informed her that all technicians were currently assisting other callers and her estimated wait time was thirty-seven minutes.
 
@@ -28,7 +27,6 @@ She went to the supply cabinet in the hallway, the one that held the emergency f
 She documented the vital signs she had already taken, then began the diabetes management questionnaire from memory, writing in a neat hand that she had developed specifically for chart documentation. When was your last A1C? What was the result? Have you had any episodes of low blood sugar? Any numbness or tingling in your feet?
 
 
----
 
 By the time Elena finished with Mrs. Gutierrez, the waiting room had acquired three new patients, all of them looking slightly unsettled in a way that went beyond the ordinary anxiety of a clinic visit. Rosario caught Elena's eye as she escorted Mrs. Gutierrez to the door.
 
@@ -51,7 +49,6 @@ In Exam Room 1, Elena took Mrs. Prescott's blood pressure: 162 over 98. Dangerou
 "Lisinopril. Twenty milligrams."
 
 
----
 
 Elena documented the information by hand, then went to find Dr. Okonkwo. The supervising physician was in her office, frowning at her computer screen, which displayed the same gray error message Elena had seen earlier.
 
@@ -78,7 +75,6 @@ Elena nodded and went to the supply room, where they kept a small stock of medic
 "Thank you," Mrs. Prescott said. "I've never seen anything like this. My rideshare app died on the way here, too. The driver's phone just froze. He had to pull over and restart it three times."
 
 
----
 
 By 9:00, Elena had seen four patients, all of them documented by hand, all of them with stories. An elderly man whose ATM had rejected his card three times before the screen went dark entirely. A young mother whose grocery store checkout had frozen mid-transaction, her groceries still sitting in bags at the register. A teenager dropped off by her father, who said the traffic lights on 7th Avenue were all blinking yellow, the signals not cycling properly, cars edging through intersections like they had forgotten the rules.
 
@@ -103,5 +99,4 @@ The message showed SENDING for a long moment, then DELIVERED. But somehow she di
 Outside, the sky was bright now, the full blazing light of a March morning in Phoenix, and through the clinic windows Elena could see cars passing on the street, people going about their ordinary Tuesday as if nothing were wrong, as if the world were still the world it had been. But something was wrong. She could feel it in the weight of her phone in her pocket, in the hum of the backup generator that had kicked on without anyone noticing, in the growing line of patients with their accumulating stories of small failures.
 
 
----
 

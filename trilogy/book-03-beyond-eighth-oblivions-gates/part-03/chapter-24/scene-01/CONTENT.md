@@ -15,7 +15,6 @@ Professor Adelina Reyes found her there, studying a poster for a student film ab
 Delphine was not sure she wanted her work to be legible. Legibility implied transparency, and transparency implied understanding what she had been doing. She was not sure she understood.
 
 
----
 
 The screening room held approximately forty students in tiered seating. They settled into their chairs with laptops and tablets, ready to take notes on something Delphine had made in two weeks on a budget from a company that wanted to seem compassionate about gig workers. TechCare Solutions had commissioned the film as part of a corporate responsibility campaign. They had wanted something that acknowledged their workforce's struggles without implicating their business model.
 
@@ -28,7 +27,6 @@ The lights went down. Delphine's name appeared on the screen: DIRECTED BY DELPHI
 The name looked strange to her now, belonging to someone she had been seven years ago, making choices she could no longer fully reconstruct.
 
 
----
 
 The film opened with an alarm clock. 4:47 AM, the digits glowing red in a dark room. Then a hand reaching to silence it, then the slow process of rising: feet on cold floor, the shuffle to a bathroom, water splashing on a face that the camera never quite showed.
 
@@ -43,7 +41,6 @@ She remembered what she had cut. Tomás talking about the company's retaliation 
 She had cut it.
 
 
----
 
 The film's middle section featured three other workers: a warehouse picker whose wearable tracked her bathroom breaks, a remote call center operator monitored by software that flagged insufficient enthusiasm, and a TaskRunner whose clients rated her personality alongside her work. Delphine had spent weeks with each of them, gathering hours of footage that became minutes on screen.
 
@@ -58,7 +55,6 @@ The film continued: a shot of multiple workers in a parking lot at dawn, waiting
 This image. This was what she had fought for.
 
 
----
 
 TechCare had wanted that image removed. Their representative—a young man with a practiced smile and a title that meant nothing—had explained that the silhouettes looked ominous, like something from a dystopian film. They wanted the workers to look hopeful. Empowered by flexibility.
 
@@ -73,7 +69,6 @@ She had not known that at the time. She had only known she could not let them ta
 The final minutes of the film returned to Tomás, now at the end of his shift, driving home as the sun set. He was not complaining anymore. He was just tired.
 
 
----
 
 "I don't know if things will get better," Tomás said, his voice weary and honest. "But I know I can't stop. I've got a daughter. I've got rent. I've got bills that don't care how I feel about the algorithm."
 
@@ -90,7 +85,6 @@ Professor Reyes turned. "What do you mean?"
 The students were watching her with an attention that felt uncomfortable. They had been studying her compromises for three weeks. They probably knew more about what she had given up than she remembered herself.
 
 
----
 
 Professor Reyes nodded. "That's actually something we've discussed in class. The gap between the maker's memory and the made object. You made this film at a specific moment, with specific pressures, and those pressures dominated your experience. But the film exists outside those pressures now. It exists for viewers who don't know what you cut."
 
@@ -111,5 +105,4 @@ The students had their notebooks ready. Professor Reyes gestured for Delphine to
 Delphine was not sure she was ready. But she walked to the front anyway.
 
 
----
 

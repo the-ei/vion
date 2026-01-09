@@ -23,7 +23,6 @@ Or it doesn't. The information is suppressed, the source is caught, the story is
 She doesn't know which it will be.
 
 
----
 
 She clicks.
 
@@ -58,7 +57,6 @@ The bar fills. A notification appears.
 She stares at the words. They don't look like words. They look like a door closing behind her.
 
 
----
 
 Jerome types: *Received. Checking integrity now.*
 
@@ -93,7 +91,6 @@ The connection closes. The screen goes dark.
 She is alone now in a way she wasn't before.
 
 
----
 
 She stands up. Her legs are shaking. She hadn't noticed when she was sitting, but standing she can feel the tremor running through her, the body's response to what the mind has done.
 
@@ -116,7 +113,6 @@ The choice is made now. The files are sent. The door is closed.
 What remains is living with it.
 
 
----
 
 She thinks about calling Priya. Not to tell her—she can't tell her, not yet, maybe not ever—but just to hear her voice. The connection to something outside this moment.
 
@@ -139,7 +135,6 @@ She has to. There is no other option.
 The tea cools. She drinks it. The night continues.
 
 
----
 
 Midnight.
 
@@ -174,7 +169,6 @@ When she wakes, the sun is coming up.
 A new day. The same life. Everything different.
 
 
----
 
 She showers. Dresses. Eats breakfast. The mirror shows her face, unchanged, revealing nothing of what she did.
 
@@ -209,5 +203,4 @@ She opens her laptop.
 She begins.
 
 
----
 

@@ -17,7 +17,6 @@ And the fourth, unsigned, from a number he didn't recognize: "They'll make it lo
 "I don't know." The honest answer surprised him. "A year ago I would have said no immediately. But now... I'm tired. Running this company, navigating these dynamics, trying to do something good while surrounded by systems designed to capture and neutralize anything good."
 
 
----
 
 "This is what I was writing about," Jerome said. "In the piece about institutional uncertainty. The systems - the AI systems, the corporate systems, the regulatory systems - they're all beyond any individual's capacity to control. You can build something, but you can't protect it from being absorbed."
 
@@ -40,7 +39,6 @@ And now Prometheus wanted to take it.
 "It isn't. It's the appearance of choice designed to manufacture consent."
 
 
----
 
 Jerome's journalistic instincts were visible in his expression - the recognition that this was a story, that Kevin Zhou's situation illustrated larger dynamics, that documenting it could serve purposes beyond their personal conversation.
 
@@ -61,7 +59,6 @@ Kevin Zhou thought about what it would mean to have his situation documented, an
 "I think it has to be. Otherwise what am I doing with my life?"
 
 
----
 
 They stood for another moment, the city moving around them with its usual indifference to individual dramas. People walked past - tourists with cameras, workers in suits, the homeless pushing carts, the whole ecosystem of urban life flowing without knowing or caring about the conversation taking place within it.
 
@@ -82,5 +79,4 @@ Kevin Zhou took the card. It felt strange in his hand, this artifact from a prev
 They shook hands, and Kevin Zhou watched Jerome walk away - an older man in a younger man's city, carrying questions that might outlast both of them.
 
 
----
 

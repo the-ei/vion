@@ -21,7 +21,6 @@ Ananya sat down slowly, her legs suddenly uncertain.
 "I'm not trying to attack you. I'm trying to understand. You raised me to believe in ethics, in doing the right thing even when it's hard. And then I looked at what you did."
 
 
----
 
 Ananya looked at the papers spread across her coffee table. Her own words on some of them, highlighted in yellow. Interview quotes from people she had worked alongside. Academic analysis that reduced her career to a case study in institutional capture.
 
@@ -52,7 +51,6 @@ Ananya closed her eyes for a moment. "Sometimes. Partially. It depended on how s
 "And you kept approving products anyway."
 
 
----
 
 "Yes."
 
@@ -77,7 +75,6 @@ Priya made a note in her margins. The gesture was so clinical it hurt.
 "I approved it after modifications were made. The harm was reduced."
 
 
----
 
 "Reduced," Priya repeated. "But not eliminated."
 
@@ -106,7 +103,6 @@ Ananya thought about the question. There hadn't been a single moment of realizat
 Priya gathered her papers into the folder again, her hands not quite steady. "I need to understand something, Mom. I need to understand how someone who taught me to tell the truth could lie to herself for so long."
 
 
----
 
 "I need to understand it too," Ananya said. "I've been trying to understand it for years."
 
@@ -133,7 +129,6 @@ Ananya reached across the space between them, but Priya didn't take her hand.
 "Especially then."
 
 
----
 
 Priya opened her folder again. The pages inside were dense with annotation, her handwriting covering the margins. She had spent the summer building this case, assembling evidence with the thoroughness Ananya had tried to teach her. Now that thoroughness was being turned on its teacher.
 
@@ -164,13 +159,12 @@ Priya's pen hovered over her notebook. "That's what I can't understand. Five yea
 "I know. Looking back, I can't understand it either."
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 They ordered food neither of them wanted to eat. Indian takeout, a shared favorite, the containers cooling on the kitchen counter while they talked. The formality had broken down somewhat - Priya had set aside her folder, was listening now rather than interrogating - but the tension remained.
 
@@ -191,7 +185,6 @@ Priya curled her legs under her on the couch. She looked younger suddenly, more 
 Ananya thought back. There were so many meetings, so many decisions, most of them blurred together by time and by the protective forgetting that the mind performed on uncomfortable memories.
 
 
----
 
 "There was a meeting in 2032," she said. "September, I think. We were reviewing a new recommendation system that was designed to maximize engagement on the health content platform."
 
@@ -218,7 +211,6 @@ Priya's face shifted. "That's horrifying."
 Priya was quiet for a long moment. "How many people had panic attacks after using that platform? How many convinced themselves they were dying because an algorithm told them they might be?"
 
 
----
 
 "I don't know. The internal research suggested significant numbers, but the company never published it. That research is part of what leaked during the lawsuit."
 
@@ -245,7 +237,6 @@ Priya's eyes were wet. Ananya couldn't tell if it was anger or sadness or some c
 "Yes. Among other reasons. But yes."
 
 
----
 
 "I need to tell you something else," Ananya said. "About the moment I knew I should leave."
 
@@ -272,7 +263,6 @@ Priya stood up, walked to the window. The city was darkening outside, lights app
 "Neither do I. Not entirely. I think - I think it's easier than it sounds to know something and not act on it. I think most people spend most of their lives doing exactly that."
 
 
----
 
 "That's not comforting."
 
@@ -301,7 +291,6 @@ Priya crossed back to the couch but didn't sit. She stood over her mother, looki
 "I know. I don't either."
 
 
----
 
 "Do you regret it? All of it?"
 
@@ -330,7 +319,6 @@ Ananya rose, grateful for the ordinary task, the mundane motion of moving food f
 "I should have told you sooner. I should have told everyone sooner."
 
 
----
 
 They ate at the small kitchen table, the food lukewarm but adequate. The conversation paused while they chewed and swallowed, the ordinary rhythm of a meal providing relief from the intensity of what they had been discussing.
 
@@ -359,13 +347,12 @@ Ananya considered how to respond. She and Vikram had divorced partly over this d
 The microwave beeped. Neither of them had put anything else in it. A ghost in the machine, some timer from earlier in the day.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 They made tea. The ritual was familiar, automatic - water boiling, leaves steeping, the particular cups Ananya had brought from her grandmother's house decades ago. By now the apartment was dark except for the stove light and a single lamp, the city glittering beyond the windows.
 
@@ -394,7 +381,6 @@ Priya's brow furrowed. "That's a cop-out."
 "Neither do I. But they're the only truths I have."
 
 
----
 
 Priya set down her tea. She looked at her mother with an expression Ananya couldn't name - not forgiveness, not accusation, something else entirely.
 
@@ -429,7 +415,6 @@ Ananya felt something shift in her chest, a realignment she couldn't quite ident
 "I know."
 
 
----
 
 They sat in silence. The city hummed outside the windows, cars and voices and the distant rhythm of urban life. Inside the apartment, the quiet was total except for the refrigerator's occasional murmur.
 
@@ -460,7 +445,6 @@ Ananya felt tears moving down her face. She didn't wipe them away.
 "I'd like that. The calls."
 
 
----
 
 "Can I ask you one more thing?" Priya said.
 
@@ -483,7 +467,6 @@ Ananya looked at her daughter. Eighteen years old, about to begin a life that wo
 "I know. But I've already been ruined in the ways that matter most. My reputation for ethics is gone. My identity as the good one is gone. All I have left is the chance to tell the truth about what happened. It's not much, but it's something."
 
 
----
 
 Priya stood up, crossed the kitchen, and wrapped her arms around her mother. The embrace was fierce, sudden, unexpected after everything they had said.
 
@@ -514,7 +497,6 @@ Priya nodded, gathered her folder of research, and walked toward the guest room 
 "When I write about you for my college essay - and I will write about you eventually - I'm not going to make it simple. I'm not going to make you a villain or a hero. I'm going to write about someone who tried and failed and tried again. Is that okay?"
 
 
----
 
 "That's okay," Ananya said. "That's the truest version."
 
@@ -549,7 +531,6 @@ Ananya looked toward the guest room, toward the daughter who was trying to learn
 Ananya thanked her friend, hung up, and sat in the dark kitchen until sleep became possible. Somewhere beyond the windows, the city continued its million simultaneous lives. Somewhere down the hall, her daughter dreamed of futures Ananya couldn't predict. And somewhere inside herself, a decision had been made that would change everything that came after.
 
 
----
 
 
 

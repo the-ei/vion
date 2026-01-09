@@ -19,7 +19,6 @@ The word broke something in Jerome. He crossed the room in three strides and pul
 Denise joined the embrace, the three of them holding each other in the doorway, the apartment behind them and the broken world outside and none of it mattering because DeShawn was here.
 
 
----
 
 They moved to the living room. Denise made tea - or what passed for tea these days, some herbal mixture they had scavenged from their depleted kitchen. DeShawn sat on the couch, looking around the apartment as if seeing it for the first time.
 
@@ -40,7 +39,6 @@ Jerome felt the journalist in him stir, the instinct to probe, to question, to f
 "Later," Jerome said. "Tell me later. Right now, just... be here."
 
 
----
 
 DeShawn slept for fourteen hours. Jerome and Denise took turns checking on him, watching from the doorway of his childhood bedroom as he lay motionless on the narrow bed, his body finally allowed to rest.
 
@@ -61,7 +59,6 @@ Jerome did not say I told you so. He did not need to. The truth was visible in D
 "Isn't it?"
 
 
----
 
 The question hung in the air. Jerome watched his son wrestle with something invisible, something that had been building throughout the walk across states and was only now beginning to surface.
 
@@ -78,7 +75,6 @@ Instead, he felt nothing but grief. Not for himself, not for his journalism, but
 "I would rather have been wrong," Jerome said. "If I could choose, I would rather have been wrong about everything."
 
 
----
 
 They sat together in the living room, father and son, while evening settled over Baltimore. The power had returned to some parts of the city; Jerome could see lights in windows that had been dark for two weeks. The systems were coming back. The world was reassembling itself.
 
@@ -103,5 +99,4 @@ Jerome reached across and took his son's hand. The gesture felt strange - they h
 DeShawn squeezed his hand once, tight, and did not let go.
 
 
----
 

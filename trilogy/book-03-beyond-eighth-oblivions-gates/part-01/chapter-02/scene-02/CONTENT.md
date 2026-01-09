@@ -15,7 +15,6 @@ The podcast host appeared on screen at noon exactly - a younger man, early thirt
 "It's true." Timothy leaned forward, his enthusiasm obvious even through the screen. "I want to start at the beginning. When did you first realize that what was happening was bigger than anyone was reporting?"
 
 
----
 
 Jerome had answered this question a hundred times, had a polished version ready that hit the right beats and made him sound both humble and perceptive. But something about today - the morning with his mother, the question about happiness, the weight of accumulated doubt - made the polished version feel dishonest.
 
@@ -36,7 +35,6 @@ Timothy looked slightly startled, as if guests weren't supposed to turn the inte
 The question hung there, uncomfortable in its honesty.
 
 
----
 
 "The reforms," Timothy said, recovering. "The regulatory frameworks. The corporate restructuring. You're not suggesting that none of that happened."
 
@@ -57,7 +55,6 @@ Timothy was quiet for a moment, clearly wrestling with how to navigate a convers
 "By the mythology. By the stories we tell ourselves about how change happens. That truth matters. That power can be held accountable. That journalism serves democracy." Jerome heard himself saying things he rarely said out loud. "What if those are just stories we tell to make ourselves feel like the work means something?"
 
 
----
 
 The interview continued for another forty minutes, but Jerome could feel that the energy had shifted. Timothy kept trying to steer toward the triumphalist narrative - the awards, the recognition, the place Jerome had earned in journalism history - and Jerome kept deflecting toward the uncomfortable questions that the narrative couldn't accommodate.
 
@@ -88,7 +85,6 @@ Jerome looked at his wife. Thirty years of teaching high school history. Thirty 
 "You don't doubt what you do," he said.
 
 
----
 
 "I doubt it every day. Every period. Every lesson plan I've put together for thirty years." She reached across and took a piece of his sandwich, a casual intimacy. "But I keep doing it because the alternative is worse. Not teaching. Not trying. Just accepting that nothing matters and nothing changes. That's not a life. That's just waiting to die."
 
@@ -125,7 +121,6 @@ Denise kissed his forehead and took the empty plate. "I love you. Even when you'
 She went back upstairs, and Jerome sat alone with his doubt, waiting for evening, waiting for his son, waiting to see if he could keep the promise he'd just made.
 
 
----
 
 The afternoon passed in the scattered rhythm of semi-retirement. Jerome answered emails, declined two interview requests, read the news with the particular attention of someone who had once helped shape it. The world was churning forward as it always did - corporate announcements, political maneuvering, climate reports that got worse every quarter - and he felt his distance from it as both relief and loss.
 
@@ -148,7 +143,6 @@ That wasn't a book. That was a surrender.
 But what if the surrender was the truth? What if that was the story he actually needed to tell?
 
 
----
 
 He thought about the podcast interview, about the things he'd said that would probably make his colleagues uncomfortable. The crusading journalist admitting that he wasn't sure crusading worked. The truth-teller questioning whether truth had any power. It wasn't the narrative the profession wanted. It wasn't the legacy his awards suggested he should be building.
 
@@ -171,5 +165,4 @@ He closed his laptop and went upstairs to help Denise with dinner. DeShawn would
 Some things couldn't be written. They had to be lived through first.
 
 
----
 

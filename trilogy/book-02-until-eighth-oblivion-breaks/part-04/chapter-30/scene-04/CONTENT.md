@@ -15,7 +15,6 @@ The graphics were good. They were Lawrence's specialty, the visual language of a
 "We don't emphasize it. We don't deny it. We just don't lead with uncertainty. People don't tune in for uncertainty. They tune in for answers."
 
 
----
 
 Delphine looked at the presentation, at the careful packaging of catastrophe, and felt something turn in her stomach. It was good. It was exactly what would work. She had been in this industry long enough to recognize brilliance, and Lawrence was brilliant. His plan would capture attention, build audience, establish their brand as the voice of the crisis. When the systems came back online, when the world started recording and remembering again, everyone would know who had led them through the darkness.
 
@@ -34,7 +33,6 @@ Lawrence smiled, the smile of a man who had heard this objection before and had 
 Delphine thought about the whiteboard, about the narratives she had catalogued. Every one of those stories was true in some sense, or contained true elements. The conspiracy theories included real facts about government overreach. The foreign attack narratives drew on real vulnerabilities. Even the divine punishment stories reflected real unease about technology and its costs.
 
 
----
 
 "I've been doing this for fifteen years," Delphine said. "Telling stories. Making content. Capturing attention. And every year it's gotten a little harder to believe that what I do helps anyone."
 
@@ -55,7 +53,6 @@ It was a seductive argument. It was the argument Delphine had been making to her
 But standing here, now, with the world actually broken, the argument felt different. It felt like the logic that had led them here in the first place.
 
 
----
 
 "I need to think about it," Delphine said.
 
@@ -76,5 +73,4 @@ He was right about that, at least. She was in a business that rewarded attention
 He left her alone in the conference room, with the graphics on the wall and the timer counting down and the weight of a decision that would define whatever came next.
 
 
----
 

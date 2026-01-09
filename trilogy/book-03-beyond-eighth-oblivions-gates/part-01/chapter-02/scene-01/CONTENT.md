@@ -11,7 +11,6 @@ Grace met him at the door, already dressed for her nursing shift at Johns Hopkin
 "She's asking for Daddy again," Grace said. "Since five this morning."
 
 
----
 
 "I'll sit with her. You get ready for work."
 
@@ -36,7 +35,6 @@ Jerome sat down in the chair beside her bed, the same chair he'd sat in a thousa
 "That's nice." She patted his hand with her free one. "You're a nice young man."
 
 
----
 
 The morning routine was familiar in the way that all acts of care become familiar - medication at 7:30, the careful negotiation of pills and water, the checking of blood pressure and oxygen levels that the monitoring system could do automatically but that Jerome did by hand because his mother remembered what hands meant even when she didn't remember who was attached to them.
 
@@ -57,7 +55,6 @@ Now she didn't know his name. Now she lived in a world where his father was stil
 Love didn't require recognition. He had learned that.
 
 
----
 
 Grace came in at eight to say goodbye, bending to kiss their mother on the forehead.
 
@@ -86,7 +83,6 @@ The question caught him off guard. She was looking directly at him now, and some
 "That's all any of us can do." She nodded, satisfied. "Trying is enough. Don't let anyone tell you different."
 
 
----
 
 Then the clarity faded, as it always did, and she was looking at the window again, at the light coming through the glass, at something only she could see.
 
@@ -109,7 +105,6 @@ Jerome felt his throat tighten. "Thank you, Mama."
 "Harold will be home soon. You can stay for dinner if you like."
 
 
----
 
 He left at ten, when Mrs. Patterson arrived early and insisted she could handle things from here. The relief aide was a woman in her sixties, retired from school administration, who had known Evelyn through church and treated the caregiving work as a continuation of friendship rather than a job.
 
@@ -130,7 +125,6 @@ The corporations were still there, slightly reorganized. The politicians were st
 He wasn't sure he could do it honestly.
 
 
----
 
 Home was a row house in Roland Park that he and Denise had bought twenty-two years ago, when the neighborhood was still affordable and they were still young enough to believe that hard work would be rewarded. The house had appreciated in value faster than his salary, which was one of those economic jokes that stopped being funny once you understood what it meant.
 
@@ -155,5 +149,4 @@ Denise looked up then, her eyes meeting his with the particular intimacy of long
 She came around the island and kissed him, a brief touch that carried twenty-five years of practice. Then she went back to her grading, and Jerome went to make himself a sandwich, and the morning continued as mornings do, carrying them toward whatever was coming next.
 
 
----
 

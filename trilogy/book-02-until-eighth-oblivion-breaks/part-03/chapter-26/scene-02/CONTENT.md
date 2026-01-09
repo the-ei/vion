@@ -19,7 +19,6 @@ Victor appeared on screen. Calm. Confident. The Victor she had worked with for e
 She watched him lie with perfect composure.
 
 
----
 
 "These projections were never meant to be public," Victor was saying, "because they represent extreme scenarios. Our planning process involves modeling many possibilities, including worst-case scenarios we don't actually expect to materialize."
 
@@ -46,7 +45,6 @@ She set the phone face-down and returned to watching the screen where Victor Ree
 The lies rolled over her like waves, and she sat in the dark, drowning.
 
 
----
 
 Midnight came. No knock on the door.
 
@@ -69,7 +67,6 @@ Tomorrow she would go to work. She would sit in her office, attend meetings, do 
 It was all she could do.
 
 
----
 
 At 2 AM, she finally responded to Priya.
 
@@ -104,7 +101,6 @@ She didn't know. She couldn't know.
 She could only wait.
 
 
----
 
 Dawn came. Ananya hadn't slept.
 
@@ -137,5 +133,4 @@ The knock still hadn't come.
 But she was always listening for it.
 
 
----
 

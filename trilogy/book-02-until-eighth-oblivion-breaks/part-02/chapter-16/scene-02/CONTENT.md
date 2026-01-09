@@ -17,7 +17,6 @@ Denise and DeShawn were in the kitchen when he came down. They stopped talking a
 Jerome sat at the kitchen table, accepted the plate DeShawn brought him. The normalcy of the gesture - his son serving him food, his wife moving around the kitchen, the domestic rhythm that had been their life for seventeen years - felt both comforting and precarious.
 
 
----
 
 "We need to talk," DeShawn said. "All of us."
 
@@ -42,7 +41,6 @@ Jerome looked at Denise, who was watching from the counter. She nodded slightly,
 "Then figure it out." DeShawn's voice was firm in a way Jerome had never heard from him before. "Because you're not the only person who matters. And you're not the only person who needs you."
 
 
----
 
 The words landed differently coming from DeShawn than they had from Denise. His wife's criticism, however valid, could be dismissed as the familiar friction of a long marriage. But his son's - his son, who admired his work, who was interested in the same questions, who might have been Kevin Zhou if circumstances were different - his son's words cut through defenses Jerome hadn't known he was maintaining.
 
@@ -63,7 +61,6 @@ Jerome looked at the list. It was reasonable - more than reasonable, it was mode
 "I know. And I've broken them. But I'm hearing you now. Both of you."
 
 
----
 
 "There's one more thing," DeShawn said. "And this one's just from me."
 
@@ -84,7 +81,6 @@ DeShawn was quiet for a moment. "That's terrifying."
 "Yes. It is."
 
 
----
 
 "Then what's the point?" DeShawn asked. "If we can't know, if understanding isn't possible - why keep investigating?"
 
@@ -105,5 +101,4 @@ Denise reached across the table and took his hand. "Trying is enough. For now. W
 Jerome looked at his family - the wife who had loved him for twenty-three years and was asking for the minimum of reciprocity, the son who was growing up faster than he had noticed - and felt the weight of what he had almost lost.
 
 
----
 

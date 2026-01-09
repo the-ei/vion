@@ -19,7 +19,6 @@ But the panic did not come.
 Instead, there was silence. And then, through the silence, she heard something she did not expect: voices. Outside. Not screaming. Talking. And underneath the talking, laughter.
 
 
----
 
 Elena walked toward the clinic's front door. Each step felt deliberate, weighted, as if she were approaching something significant and did not yet know what.
 
@@ -38,7 +37,6 @@ For twelve days, the world had been collapsing. Hospitals closed, systems failed
 And now, outside her clinic, her neighbors were having a cookout.
 
 
----
 
 Daniel came to stand beside her. He was quiet for a moment, taking in the scene, and then he laughed. Not a bitter laugh, not a desperate laugh. Something lighter.
 
@@ -67,7 +65,6 @@ He was wrong about that - everything was still falling apart, still failing, sti
 She sat.
 
 
----
 
 The fire crackled. The guitar played. Children laughed. The sun was setting over Phoenix, painting the sky in colors that seemed almost obscene given everything that had happened.
 
@@ -86,5 +83,4 @@ These people had been strangers two weeks ago. Neighbors in the technical sense 
 Now they did. And something was forming from that dependence.
 
 
----
 

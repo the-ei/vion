@@ -11,7 +11,6 @@ The students ranged in age from twenty-two to thirty-five. Some were still in sc
 Every hand went up.
 
 
----
 
 Elena spent the next hour walking them through the unofficial guide to appealing denials that she had developed over fifteen years of practice. The phone numbers that actually worked. The magic words that triggered review. The documentation strategies that increased approval rates. The patient assistance programs that could substitute when insurance failed entirely.
 
@@ -24,7 +23,6 @@ Daniel brought in the iced tea, moving quietly around the room, offering glasses
 A young woman in the front row - Aaliyah, the nursing student from Elena's clinic - was nodding. They had talked about this before, that first day in the clinic when Elena had begun to see her new purpose clearly.
 
 
----
 
 They moved on to other topics. How to read a patient who was hiding symptoms out of shame or fear. How to find the charitable resources that existed but were never advertised. How to talk to doctors in a way that made them listen, really listen, to what nurses knew about patient care. The informal knowledge that lived in experienced nurses but rarely got transmitted, the wisdom that nursing schools couldn't teach because it came from years of improvised solutions in an inadequate system.
 
@@ -37,7 +35,6 @@ Sofia looked up from her book and watched her mother with an expression Elena co
 Elena overheard this and felt something warm spread through her chest. The exhaustion was still there - she had worked a full shift before this session began - but underneath it was purpose, the sense that what she was doing mattered beyond the immediate moment. She was passing something on. The knowledge would continue to exist after she was gone, carried by these people into their own careers, transmitted to their own students in time.
 
 
----
 
 The session wound down around ten. Students gathered their things, exchanged numbers, made plans to meet again. Aaliyah was the last to leave, pausing at the door to thank Elena again.
 
@@ -64,7 +61,6 @@ Sofia was clearing the folding chairs, stacking them with more efficiency than E
 "You are making it easier. I could see it on their faces."
 
 
----
 
 That night, after the children were in bed and Daniel was asleep beside her, Elena lay awake thinking about thresholds. Her grandmother's death had been one. The conversation in the break room had been another. The decision to teach, to pass on what she knew, had been a third. Each one had led to the next, a chain of gates through which she had walked without quite realizing she was walking.
 
@@ -77,5 +73,4 @@ That was her gate. That was her Eighth Oblivion. Not the erasure of the problem 
 She closed her eyes and slept, finally, the exhaustion claiming her. Tomorrow was another shift. But tomorrow also held the possibility of the next session, the next group, the continuing work of passing on what she knew.
 
 
----
 

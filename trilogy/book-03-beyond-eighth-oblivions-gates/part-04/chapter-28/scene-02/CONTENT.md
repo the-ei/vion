@@ -11,7 +11,6 @@ Sofia had stopped near the door, her arms crossed over her chest. She was lookin
 Come sit down, Elena said. You can hold her hand if you want to.
 
 
----
 
 Mateo approached the bed cautiously, as though abuela might wake suddenly and startle him. He reached out and touched her hand with one finger, then drew back, then reached out again and let his whole hand rest on hers.
 
@@ -34,7 +33,6 @@ But she's not dead yet, he said.
 No. Not yet. But soon.
 
 
----
 
 Sofia finally sat down, pulling a chair close to Elena's. Her composure was beginning to crack; Elena could see it in the trembling of her jaw, the way she kept blinking rapidly as though trying to clear something from her eyes.
 
@@ -55,7 +53,6 @@ Will you teach me? he asked.
 Elena nodded, not trusting her voice. The simplest promises felt enormous now, freighted with the weight of everything that was ending.
 
 
----
 
 Sofia was crying now, silently, tears running down her cheeks that she did not bother to wipe away. Elena reached over and took her daughter's hand, feeling the familiar fingers, the bitten nails Sofia could not stop chewing despite years of reminders.
 
@@ -76,7 +73,6 @@ She was stubborn, Sofia said.
 Those can be the same thing.
 
 
----
 
 The visit lasted an hour, perhaps longer. At some point a nurse came in to check the monitors, and Elena watched her children watch the nurse, their eyes tracking the efficient movements, the quick assessment, the small adjustments. They were learning, whether they knew it or not. Learning what care looked like, what attention to a dying body required.
 
@@ -95,5 +91,4 @@ But they had been there. They had seen her. They had said what they needed to sa
 And now she would go back, and she would keep the vigil, and she would wait for whatever came next.
 
 
----
 

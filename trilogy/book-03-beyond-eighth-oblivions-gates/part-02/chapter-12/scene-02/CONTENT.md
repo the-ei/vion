@@ -1,4 +1,4 @@
-The hearing room was designed to impress. Wood paneling the color of old money, flags standing sentinel behind the dais, the great seal of the United States dominating the wall like a promise no one could keep. Ruth had testified in rooms like this before, many times, always as expert witness or invited scholar. This was different. This was reckoning.
+The hearing room was designed to impress, to intimidate, to remind witnesses of powers larger than themselves. Wood paneling the color of old money, flags standing sentinel behind the dais, the great seal of the United States dominating the wall like a promise no one could keep. Ruth had testified in rooms like this before, many times, always as expert witness or invited scholar. This was different. This was reckoning.
 
 She took her seat at the witness table, a single microphone before her, a glass of water she would not drink. Behind her, the gallery murmured: journalists, staff, the curious public who had won the lottery for seats. Cameras lined the walls, their red recording lights small but persistent.
 
@@ -15,9 +15,8 @@ She raised her right hand. The oath was familiar, the words unchanged since the 
 The whole truth. She had never told the whole truth in a hearing room. No one did. That was about to change.
 
 
----
 
-The initial questions were softballs. Senator Williams, the ranking member, walked her through credentials: degrees, positions, publications, the architecture of an impressive career. Ruth answered in the language of institutional achievement, knowing it would not last.
+The initial questions were softballs, lobbed with the gentle arc of ritual. Senator Williams, the ranking member, walked her through credentials: degrees, positions, publications, the architecture of an impressive career. Ruth answered in the language of institutional achievement, knowing it would not last.
 
 "Your work on digital commerce regulation is considered foundational by scholars in this field," Williams said. "Can you describe the key protections established by the 2029 framework?"
 
@@ -36,7 +35,6 @@ Ruth met his eyes. He was performing for the cameras, she knew - his constituent
 "Do you believe - in your honest assessment, after decades of work in this field - that the legal frameworks you helped develop made any material difference in outcomes for ordinary Americans during the Eighth Oblivion?"
 
 
----
 
 The room waited. Senator Williams shifted in his seat, ready to object if Ruth needed rescue. Jennifer Park, visible behind the dais, looked like she was holding her breath.
 
@@ -50,7 +48,7 @@ She could not say them now.
 
 "The truth."
 
-The word fell into silence. Ruth felt something shift in her chest, a gate opening that had been closed for years.
+The word fell into silence like a stone into still water. Ruth felt something shift in her chest, a gate opening that had been closed for years, perhaps for decades.
 
 "The legal frameworks I helped develop were elegant. They were praised by scholars, upheld by courts, taught in law schools across the country. They were also fundamentally inadequate."
 
@@ -61,7 +59,6 @@ Senator Morrison's eyes widened slightly. This was not what he had expected. He 
 "They addressed a world that no longer existed by the time they were implemented. They assumed enforcement capacity that was systematically undermined. They imagined actors who would comply because compliance was reasonable, rather than actors who would circumvent because circumvention was profitable."
 
 
----
 
 "Are you saying the frameworks failed?"
 
@@ -73,12 +70,11 @@ The room had gone utterly silent. Ruth could hear the cameras' faint mechanical 
 
 "Judge Abramson-" Senator Williams began.
 
-"I'm not finished. This commission wants to know what went wrong. I can tell you what went wrong. We believed that proper procedures could constrain improper power. We believed that legal structures could substitute for political will. We believed that we were building walls when we were actually building decorations."
+"I'm not finished. This commission wants to know what went wrong. I can tell you what went wrong. We believed that proper procedures could constrain improper power. We believed that legal structures could substitute for political will. We believed that we were building walls when we were actually building decorations - beautiful decorations, elaborate decorations, but decorations nonetheless."
 
 The silence continued. Senator Morrison had leaned back in his chair, uncertain how to respond to a witness who was dismantling herself.
 
 
----
 
 "What would you have done differently?" The question came from Senator Chen, a younger member of the commission who had been silent until now. Her voice was genuinely curious rather than politically calculated.
 
@@ -94,10 +90,9 @@ She thought of Elena, the nurse practitioner she had met briefly at a conference
 
 "Is there anything that could have worked?" Senator Morrison asked, genuinely uncertain now, his political agenda momentarily suspended.
 
-"Direct intervention. Redistribution. The things we always say are impossible because they require power to constrain itself."
+"Direct intervention. Redistribution. Actual constraint of actual power. The things we always say are impossible because they require power to constrain itself."
 
 
----
 
 The session continued for another hour, but the essential exchange had happened. Ruth answered subsequent questions with the same directness, naming specific failures, specific moments when institutional response had proved inadequate. She could see Jennifer Park in her peripheral vision, taking notes, probably calculating damage control.
 
@@ -105,16 +100,15 @@ When the session concluded, Ruth walked past the cameras in a kind of daze. Repo
 
 Outside, Washington summer heat pressed against her like a judgment. She stood on the Russell Building steps, looking across Constitution Avenue at the Supreme Court where she had argued cases, at the Capitol dome that represented everything she had spent her life believing in.
 
-She did not feel relief. She did not feel vindication. She felt only the strange lightness of having told the truth and the heavy awareness that truth-telling changed nothing. The frameworks would remain insufficient. Power would continue to route around constraint. The people her testimony was meant to honor - the suffering she had named - would continue to suffer in ways law could not prevent.
+She did not feel relief. She did not feel vindication. She felt only the strange lightness of having told the truth and the heavy, contradictory awareness that truth-telling changed nothing. The frameworks would remain insufficient. Power would continue to route around constraint. The people her testimony was meant to honor - the suffering she had named - would continue to suffer in ways law could not prevent.
 
 But she had said it. For whatever that was worth, she had said it.
 
 Her phone buzzed again. David's name on the screen. She ignored it, walked to the corner, and hailed a cab back to Dupont Circle. She needed to be alone before she could face her children's reactions.
 
 
----
 
-In the cab, she watched the city pass. The monuments, the office buildings, the buses full of tourists pointing at symbols of democracy they believed meant what they were supposed to mean. Ruth had believed too, for forty years. Maybe she still believed, in the way you could believe in something while acknowledging it had failed.
+In the cab, she watched the city pass. The monuments, the office buildings, the buses full of tourists pointing at symbols of democracy they believed meant what they were supposed to mean. Ruth had believed too, for forty years, with the fervor of someone who had built her life around that belief. Maybe she still believed, in the way you could believe in something while acknowledging it had failed.
 
 Her phone buzzed again. Rebecca this time. Ruth watched the screen until it went dark.
 
@@ -129,5 +123,4 @@ She sat in Susan's chair and let herself feel what she felt.
 In a few hours, David and Rebecca would arrive, each with their own response to what she had done. The conversation would be difficult. The consequences would unfold over weeks and months. But for this moment, she allowed herself simply to exist: a woman who had told the truth and did not know what would come of it.
 
 
----
 

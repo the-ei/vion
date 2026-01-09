@@ -19,7 +19,6 @@ She set a plate on his desk—sandwich, chips, an apple. The care of a wife who 
 "Thank you," he said. He didn't touch the food.
 
 
----
 
 By eight o'clock, the story had mutated. Different outlets emphasized different angles. Tech blogs focused on the capability curves. Business pages worried about stock prices. Political sites mapped the implications onto existing battles—regulation versus innovation, workers versus markets.
 
@@ -42,7 +41,6 @@ The truth was out. The numbers were public. Anyone who wanted to know what Prome
 Truth, it turned out, was not enough.
 
 
----
 
 At ten o'clock, Prometheus released their response. A statement from Victor Reeves, carefully lawyered, dismissing the documents as "internal scenario planning taken out of context" and reaffirming the company's "commitment to responsible innovation."
 
@@ -67,7 +65,6 @@ She sat on the arm of his chair, put her hand on his shoulder. "The story is goo
 Denise was quiet for a moment. "I don't know. But it's what you have."
 
 
----
 
 The night went late. Jerome watched as the conversation shifted, fragmented, became noise. Politicians issued statements—concerned phrases, calls for investigation, the performance of response. None of them would do anything. He knew that. He had seen it before.
 
@@ -90,7 +87,6 @@ But he would wake up tomorrow and do it again. Write another story. Document ano
 It was all he knew how to do.
 
 
----
 
 He went to bed at two in the morning. Denise was already asleep, the rhythm of her breathing a comfort that didn't quite reach him.
 
@@ -117,13 +113,12 @@ The only thing he knew how to do.
 Write.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Ananya watched.
 
@@ -146,7 +141,6 @@ Victor appeared on screen. Calm. Confident. The Victor she had worked with for e
 She watched him lie with perfect composure.
 
 
----
 
 "These projections were never meant to be public," Victor was saying, "because they represent extreme scenarios. Our planning process involves modeling many possibilities, including worst-case scenarios we don't actually expect to materialize."
 
@@ -173,7 +167,6 @@ She set the phone face-down and returned to watching the screen where Victor Ree
 The lies rolled over her like waves, and she sat in the dark, drowning.
 
 
----
 
 Midnight came. No knock on the door.
 
@@ -196,7 +189,6 @@ Tomorrow she would go to work. She would sit in her office, attend meetings, do 
 It was all she could do.
 
 
----
 
 At 2 AM, she finally responded to Priya.
 
@@ -231,7 +223,6 @@ She didn't know. She couldn't know.
 She could only wait.
 
 
----
 
 Dawn came. Ananya hadn't slept.
 
@@ -264,13 +255,12 @@ The knock still hadn't come.
 But she was always listening for it.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The essay went live at noon Eastern, six hours after Jerome's story.
 
@@ -291,7 +281,6 @@ For forty years, she had hedged. Softened. Calibrated her words to maintain cred
 Still standing. Somehow lighter.
 
 
----
 
 By evening, the essay had gone viral—not in the explosive way of Jerome's investigation, but in the slower, more persistent way of ideas that catch fire among people who think for a living.
 
@@ -326,7 +315,6 @@ Ruth looked at her phone. No messages from her son. No calls. The silence was it
 "I know." Ruth sighed. "I hope he can understand eventually."
 
 
----
 
 The flowers arrived at 8 PM. A delivery person at her door with a bouquet of her favorites—peonies and roses, the same flowers Susan used to bring her after difficult days.
 
@@ -349,7 +337,6 @@ That had to be worth something.
 Didn't it?
 
 
----
 
 The next morning, the professional consequences began to arrive.
 
@@ -370,7 +357,6 @@ In the afternoon, she took a walk through Georgetown. The neighborhood was beaut
 The world continued. The sun still rose. The flowers still bloomed. And Ruth Abramson, former judge, former institutionalist, former believer—she continued too, somehow lighter than she had been in years.
 
 
----
 
 On the third day, David called.
 
@@ -409,13 +395,12 @@ The call ended. Ruth sat in the quiet of her apartment, holding the phone, feeli
 That was worth something too.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Yusuf heard about the story the way everyone heard about things now—fragments on his phone, overheard conversations, the ambient noise of information that was everywhere and nowhere at once.
 
@@ -444,7 +429,6 @@ The news continued somewhere else.
 Here, there was only this.
 
 
----
 
 The coalition meeting was on Tuesday night, three days after the story broke. Yusuf went, as he had promised Fatima, as he had committed to do.
 
@@ -469,7 +453,6 @@ Jake nodded. "The news cycle is designed to dissipate energy. By the time people
 "Exactly. So our job isn't to react to the news. Our job is to keep building. Keep organizing. Keep doing the slow work that doesn't make headlines but actually changes things."
 
 
----
 
 The meeting continued with the usual business. Mutual aid reports—who needed help, who could provide it. Pressure campaign updates—calls made, letters sent, the incremental work of making power notice. Planning for the rally at the state capitol, now three weeks away.
 
@@ -492,7 +475,6 @@ Yusuf walked through his neighborhood, watching the lights in windows, imagining
 The same things people had always done.
 
 
----
 
 He stopped at a corner, looked up at the skyline. The downtown towers glowed against the night sky, monuments to capital and ambition and the particular kind of power that shaped everything without being seen.
 
@@ -509,7 +491,6 @@ And maybe it did. Maybe somewhere, someone would read that story and do somethin
 But here, on this street, in this neighborhood, in this life—the truth had been known all along. The people Jerome was trying to reach had always known. The only ones who were surprised were the ones who had the luxury of not paying attention.
 
 
----
 
 Yusuf walked on, toward home. Toward his mother, who would come home from the hospital tomorrow. Toward his sister, who would start her Prometheus-funded program in the fall. Toward the life that continued regardless of what broke in the news.
 
@@ -536,7 +517,6 @@ Maybe that was the truth that mattered. Not what the powerful had hidden, but wh
 The world continued. Yusuf walked home.
 
 
----
 
 He reached his building as the night deepened. The apartment was dark—Amina at work, the space waiting for Halima's return. He climbed the stairs slowly, tired in a way that sleep wouldn't fix.
 
@@ -561,7 +541,6 @@ Still fighting. Still surviving. Still refusing to accept what they were suppose
 That was the only story that would save them.
 
 
----
 
 
 

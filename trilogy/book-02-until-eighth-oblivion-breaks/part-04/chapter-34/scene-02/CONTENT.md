@@ -11,7 +11,6 @@ The fire threw dancing shadows across the assembled faces. Elena watched them - 
 These were not organized people. There was no leadership structure, no chain of command, no formal process for decision-making. And yet decisions were being made. Resources were being allocated. Work was being planned and distributed.
 
 
----
 
 Mr. Ochoa sat down beside her, a plate of food in his hands. He ate with the focused attention of someone who had not always had enough to eat.
 
@@ -32,7 +31,6 @@ Elena thought about her own relationships with the people on her street. She kne
 "And then he moved here. Bought a house. Got a job. Stopped needing anyone." He paused. "Stopped being needed by anyone. I don't think he ever got over that."
 
 
----
 
 The guitar music had paused. The teenage boy - someone said his name was Jaylen, that he was Mrs. Patterson's grandson - was tuning his instrument, frowning at the strings as if they had personally betrayed him.
 
@@ -53,7 +51,6 @@ Mrs. Williams refilled her bowl without asking. "You need more than one serving.
 It was true. It was devastatingly, simply true.
 
 
----
 
 The hours passed. The fire burned down and was rebuilt, fresh wood added from someone's carefully hoarded supply. The children tired and were carried inside by parents who would return to the circle. The conversations ebbed and flowed, serious and trivial intermingled, plans made and discarded and made again.
 
@@ -74,7 +71,6 @@ Daniel appeared at her side, holding two cups of something that looked like tea 
 "Like what should have been here all along."
 
 
----
 
 Daniel put his arm around her. The gesture was simple, automatic, the kind of thing he had done a thousand times in their marriage. But tonight it felt different. Tonight, surrounded by strangers who were becoming neighbors, watching a community assemble itself from the wreckage of efficient isolation, the touch felt like an anchor.
 
@@ -103,5 +99,4 @@ Other things were being built.
 Both were true.
 
 
----
 

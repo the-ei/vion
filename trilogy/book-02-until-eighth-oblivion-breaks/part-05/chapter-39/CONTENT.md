@@ -7,7 +7,6 @@ The pines were dusted with snow. Flagstaff's elevation meant winter in ways that
 Daniel's sister lived in a modest house on the east side of town, a neighborhood of single-story homes with large yards and views of the peaks. Elena pulled into the driveway and turned off the engine and sat for a moment, her hands still on the wheel.
 
 
----
 
 The front door opened. She saw Daniel first, standing in the doorway, and then the blur of motion that was Mateo running across the yard, his small legs pumping, his voice calling Mommy Mommy Mommy in a continuous stream. He hit her before she was fully out of the car, wrapping himself around her legs with a force that nearly knocked her over, and then she was kneeling in the driveway holding him, his body warm against hers, his arms around her neck so tight she could barely breathe.
 
@@ -22,7 +21,6 @@ Over his head, she saw Sofia. Her daughter stood on the porch steps, half-hidden
 Sofia did not move. Daniel put his hand on her shoulder, gentle, and whispered something Elena could not hear. Still Sofia stood there, watching, and Elena understood that something had changed in her daughter during the weeks of separation, something that would not be undone by simply arriving.
 
 
----
 
 Daniel came down the steps with Sofia beside him, still holding her shoulder. He was thinner than Elena remembered, his face more angular, the bones showing through in ways that spoke of stress and sleeplessness and weeks of holding everything together alone. When he reached her, he wrapped his arms around both her and Mateo, and she smelled him, the familiar smell of him that she had been missing without knowing she was missing it.
 
@@ -43,7 +41,6 @@ Finally, Sofia spoke. "You were gone a long time."
 Sofia looked at her mother for a long moment, and Elena saw the accusation in her eyes, the child's pure logic that said: you were supposed to be here and you were not. And Elena had no defense, because the accusation was true. She had chosen to stay at the clinic. She had chosen the patients over her children. The choice had seemed necessary at the time, and now she was not sure what necessary meant anymore.
 
 
----
 
 "Let's go inside," Daniel said, his voice gentle. "It's cold out here."
 
@@ -64,13 +61,12 @@ Elena had no answer. Sofia was right. She could have left earlier, could have ha
 She held Mateo and looked at Sofia and felt the weight of the choices she had made, and she did not know how to carry it.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The children were asleep. It had taken hours to settle them, Mateo refusing to sleep anywhere but next to Elena, Sofia insisting on reading three extra books, both of them resisting the end of the day that would take their mother away, even if only into another room. But finally they slept, Mateo's small body curled against Elena's side, Sofia in the twin bed across the room, her face peaceful in a way it had not been when awake.
 
@@ -91,7 +87,6 @@ Elena sat beside him on the bed, close enough that their shoulders touched. She 
 "Sofia asked about you every hour. I'm not exaggerating. Every hour, sometimes more. 'When is Mommy coming? Is Mommy okay? Why doesn't Mommy call?' And I didn't know what to tell her. I didn't know if you were alive."
 
 
----
 
 His voice broke on the last word. Elena took his hand and held it, feeling the bones, the familiar architecture of his fingers.
 
@@ -114,7 +109,6 @@ He was crying now, the tears running down his face without sound. Elena wiped th
 Elena opened her mouth to tell him, and found that she could not find the beginning.
 
 
----
 
 "The clinic was. I don't know how to describe it." She tried to organize the chaos of memory into narrative. "There were so many patients. More than we could handle. People coming in with everything, diabetic emergencies and injuries and panic attacks and things we didn't have supplies for. And the power kept failing, and the generator kept almost dying, and I couldn't leave because if I left there wouldn't be enough people to."
 
@@ -133,7 +127,6 @@ She stopped. The words were insufficient. They described the facts but not the f
 She was crying now too, the tears she had been holding since the break ended finally finding release. Daniel pulled her close and she cried against his chest, her body shaking, the sobs coming from somewhere deep and uncontrollable.
 
 
----
 
 "I'm sorry," she said when she could speak. "I'm sorry, I'm sorry."
 
@@ -160,7 +153,6 @@ She had not thought about it. She had not thought about anything beyond getting 
 He kissed her forehead, the gentle kiss of long marriage, and she felt something in her chest release. Not resolution - there was no resolution - but the beginning of something. The acknowledgment that they had both survived, that they were both different now, that the marriage they had would have to find new shape to accommodate what they had become.
 
 
----
 
 "Let's sleep," she said. "I haven't really slept in I don't know how long."
 
@@ -179,13 +171,12 @@ The crisis had ended, officially. But something else had begun, something that d
 She fell asleep in her husband's arms, in a borrowed bed, in a house on a mountain, and for the first time in weeks, she did not dream of the clinic. She dreamed of nothing at all, which was its own kind of mercy.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The next afternoon, while Mateo napped and Daniel helped his sister with groceries, Elena sat with Sofia in the living room. The coffee table was covered with drawings, crayon and marker on printer paper, the output of weeks of a six-year-old trying to process what she did not have words for.
 
@@ -204,7 +195,6 @@ The second was different. The sky was red, scribbled over with dark crayon in la
 "I know. But I thought I could." She pointed to the shapes outside the house. "These are the people who couldn't find their homes. Daddy said some people had to leave and they didn't know where to go."
 
 
----
 
 Elena moved to the next drawing. Stick figures lying on the ground, their arms at strange angles, their faces empty circles. A larger figure standing over them, also a circle for a face, but with hands extended.
 
@@ -231,7 +221,6 @@ It was a figure in white, clearly meant to be a medical coat. The figure had lon
 "I know. But I thought there might be. I thought about blood a lot."
 
 
----
 
 Elena set the drawing down and looked at her daughter. Sofia was watching her with those older-than-six eyes, waiting to see what Elena would do, whether she would lie, whether she would offer the false comfort that adults always offered.
 
@@ -252,7 +241,6 @@ Sofia nodded as if this confirmed something she had already understood. "I thoug
 Elena felt tears starting again and tried to hold them back, not wanting to cry in front of Sofia, not wanting to burden her daughter with her own grief. But Sofia had already seen too much, had already understood too much. The pretense of adult strength seemed suddenly pointless.
 
 
----
 
 "Come here," Elena said, and held out her arms.
 
@@ -281,13 +269,12 @@ Elena held the drawing and felt her heart break and mend in the same moment, the
 "It's beautiful," she said. "It worked."
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 She could not sleep. The house was quiet, everyone else resting, but Elena's body would not surrender to stillness. At two in the morning she gave up, dressed quietly, and slipped out the back door into the Flagstaff night.
 
@@ -302,7 +289,6 @@ Mr. Gutierrez with his dehydration and his kind eyes. Mrs. Reyes with the diabet
 She had not saved all of them. She had not even saved most of them. She had done what she could with what she had, and what she had was never enough.
 
 
----
 
 She found herself at a 24-hour diner, its neon sign buzzing against the darkness. Through the window she could see a handful of patrons: a man in work clothes eating eggs, a young couple sharing a plate of fries, and in the corner booth, a woman crying.
 
@@ -317,7 +303,6 @@ The cold sharpened her thoughts, clarified them in ways that warmth never could.
 But they were not separate. They were connected.
 
 
----
 
 The elderly man who could not afford his medication. The woman detained for delivering insulin. The young woman who died because they did not have the right equipment. Each of them had arrived at the clinic already damaged by something larger than their individual circumstances, already harmed by systems that made health a commodity and care a scarcity.
 
@@ -332,7 +317,6 @@ She walked past more houses, more closed businesses, more evidence of a world tr
 Something was crystallizing. Not a plan, not a politics, but a clarity. She had seen what the system did when it was stressed. She had seen who it protected and who it abandoned. She could not unsee it.
 
 
----
 
 She thought about Sofia's drawings. The red sky. The stick figures lying down. The figure in the white coat spotted with blood. Her daughter had imagined Elena at the center of disaster, saving who could be saved, witnessing who could not be. And Sofia was right - that was where Elena had been, that was what she had done. But what had any of it changed?
 
@@ -351,13 +335,12 @@ She turned back toward the house. Dawn was approaching, the sky lightening in th
 She did not know what came next. But she knew she could not go back to what she had been doing before. The crisis had broken something in her, and in the breaking, something new had begun to form.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Elena came in through the back door just as dawn was breaking, expecting to slip into bed without waking anyone. But her grandmother was sitting at the kitchen table, a cup of tea in her hands, watching the door as if she had known exactly when Elena would return.
 
@@ -380,7 +363,6 @@ And Elena found herself talking, the words coming out in a rush that she could n
 Abuela listened without interrupting, her hands wrapped around her teacup, her face revealing nothing. When Elena finally ran out of words, they sat in silence for a long moment.
 
 
----
 
 "Let me tell you something," Abuela said finally. "When I came to this country, I was seventeen. Your grandfather and I crossed at night, through the desert, with nothing but the clothes we were wearing. We almost died twice. Once from thirst, once from men who would have hurt us if we had not hidden."
 
@@ -397,7 +379,6 @@ She set down her teacup and reached across the table to take Elena's hands.
 "I raised your mother. I taught her to see. She raised you. She taught you." Abuela squeezed Elena's hands. "Now you see. The question is not whether you should do something. The question is what."
 
 
----
 
 "But I don't know what. I'm a nurse, Abuela. I treat patients. That's what I know how to do."
 
@@ -416,7 +397,6 @@ Abuela released Elena's hands and picked up her teacup again, taking a sip of te
 "For fifteen years. You don't think I moved to Phoenix for the weather?" A small smile crossed Abuela's face. "I came to be near you. To make sure the fire didn't burn you up. And now I see: the fire is not burning you. It is changing you."
 
 
----
 
 The tears came then, fully and openly, not the exhausted leaking of the conversation with Daniel but something deeper, something that had been waiting years to be released. Elena wept for her mother, dead before Sofia was born. She wept for her grandmother, who had survived what no one should have to survive. She wept for her patients, the saved and the lost. She wept for her children, who had learned too early that the world was not safe. She wept for herself, for the person she had been and could no longer be.
 
@@ -435,7 +415,6 @@ They sat together in the kitchen as the sun rose fully, as the house began to st
 She still did not know what came next. But she knew she was ready to find out.
 
 
----
 
 
 

@@ -15,7 +15,6 @@ The phone buzzed. She answered.
 Ruth leaned back in her chair, switched into the mode she had cultivated over four decades of legal practice. Analysis. Assessment. The sorting of facts into actionable categories. "Go ahead."
 
 
----
 
 Jerome described what he had. Internal economic projections showing job displacement five to ten times higher than public statements. Safety testing reports with documented gaps that executives had acknowledged and then overridden. Capability assessments showing acceleration rates beyond anything disclosed to regulators or investors. Board presentations that laid out strategy in language that assumed disruption on a scale no one outside the company understood.
 
@@ -36,7 +35,6 @@ Ruth knew this game. She had watched it played countless times in her career—t
 "Maybe. The documents show a recommendation to delay deployment that was overruled by executives. But the recommendation was internal, non-binding."
 
 
----
 
 "Non-binding means no legal violation," Ruth said. "A company can ignore its own internal recommendations. That's business judgment."
 
@@ -55,7 +53,6 @@ Ruth sighed. "Same problem. They didn't lie—they obfuscated. There's a differe
 The silence that followed was heavy with implication. Jerome was beginning to understand what Ruth had known for years: the legal system wasn't failing to address this harm. The legal system was working exactly as designed—to protect the powerful from accountability while maintaining the appearance of accountability.
 
 
----
 
 "So what can be done?" Jerome asked. The question Ruth had been dreading.
 
@@ -76,7 +73,6 @@ Ruth looked around her office. The walls were lined with books—constitutional 
 "No. But it might shift the conversation. Make people understand that this isn't about innovation or progress—it's about choices. Choices being made without consent, without accountability, without regard for consequences."
 
 
----
 
 "You sound like you're writing something," Jerome said.
 
@@ -97,7 +93,6 @@ Jerome was quiet for a moment. "I understand."
 "Now I'm not sure the system is designed to do what I thought it was designed to do. Maybe it's working perfectly. Maybe this is exactly what it was built for—to make certain kinds of power possible while making certain kinds of resistance impossible."
 
 
----
 
 "That's a hard conclusion for someone who's spent their life inside those institutions," Jerome said.
 
@@ -126,7 +121,6 @@ Ruth nodded, though he couldn't see her. "I'll keep writing. If we're going to d
 The call ended. Ruth sat in the silence, holding the phone that wasn't connected to her name.
 
 
----
 
 She sat there for a long time, thinking. The legal analysis she had offered was accurate—she had been in this business too long to make mistakes about what the law could and couldn't do. But the conversation had moved her into territory she hadn't expected. The territory of action, of commitment, of putting her name and her reputation behind something that couldn't be defended on institutional grounds.
 
@@ -143,5 +137,4 @@ She turned back to her desk, opened her laptop, opened the document that was bec
 She began to write.
 
 
----
 

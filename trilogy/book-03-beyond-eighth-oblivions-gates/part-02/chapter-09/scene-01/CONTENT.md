@@ -13,7 +13,6 @@ She nodded.
 The door closed. She stood in her entryway holding the envelope, which was heavier than it should have been, perhaps fifty pages. Her name typed on the front. A return address in Oakland, a law firm she didn't recognize.
 
 
----
 
 She carried it to her desk, the small corner of the living room she had converted to an office when she moved here. The desk faced the window. On clear days she could see the water. Today she saw only the envelope, which she opened with the letter knife Priya had given her two Christmases ago, a small bronze thing shaped like a feather.
 
@@ -30,7 +29,6 @@ She knew this language. She had written versions of it herself, in memos that we
 *Defendant Ramaswamy, in her capacity as Chief Ethics Officer, received and reviewed internal reports documenting the harmful effects of these engagement optimization systems on user mental health, including increased rates of anxiety, depression, and compulsive usage patterns...*
 
 
----
 
 Her hands were steady. That surprised her. She had imagined this moment, or something like it, in the months after leaving. The investigations that never quite materialized. The congressional hearings that gathered testimony but led nowhere. She had waited for accountability to find her and when it didn't, she had begun to believe it never would.
 
@@ -47,7 +45,6 @@ Approved. The word sat on the page like a stone. She had approved, yes. After th
 The complaint did not mention the modifications. Did not mention the hundreds of hours she spent negotiating for changes that reduced harm by margins the plaintiffs would call meaningless but she had believed mattered.
 
 
----
 
 She reached page thirty before she had to stop.
 
@@ -74,7 +71,6 @@ A pause. Movement. A door closing, the background noise disappearing. "Tell me."
 "The ones I approved anyway."
 
 
----
 
 Silence on the line. Not judgment, Ananya knew. Delphine processing, the way she did with any complex problem, holding it from multiple angles before responding.
 
@@ -103,7 +99,6 @@ The question Delphine would ask. Direct, unsparing, but asked with love rather t
 "I don't know anymore. I thought so at the time."
 
 
----
 
 "Ananya." Delphine's voice was gentle. "Whatever this lawsuit becomes, whatever you decide to do about it, you need to talk to a lawyer before you talk to anyone else. Including me. Especially including the press if they come calling."
 
@@ -128,7 +123,6 @@ Ananya opened her eyes. The fog had thickened, blurring the houses across the st
 "Then maybe you start by just sitting with not knowing."
 
 
----
 
 After Delphine hung up, promising to come by that evening, Ananya returned to the complaint. She made herself read every page. The legal arguments, the damage claims, the individual stories that would haunt her regardless of how the case resolved. By the time she finished, the afternoon light had shifted, the sun breaking through the fog at last, throwing long shadows across her desk.
 
@@ -143,5 +137,4 @@ The woman with the golden retriever walked past again, heading the other directi
 Ananya watched them disappear around the corner and tried to remember the last time she had felt that light.
 
 
----
 

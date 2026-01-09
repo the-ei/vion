@@ -13,7 +13,6 @@ Ananya's smile was bitter. "Trying. Yes. That's the right word. I tried for thre
 "Eighteen months ago. I didn't leave - I was pushed. Not fired outright. That would have been too obvious. But my budget got cut, my team got reassigned, my access got restricted. It became clear that my presence was tolerated rather than valued. So I started documenting what I could while I still could. And then I got out."
 
 
----
 
 "And came here."
 
@@ -38,7 +37,6 @@ Delphine thought about her own life in Los Angeles. The ambient systems in her h
 "I think you're one of the few people who might be able to. Your work has reach. It has credibility. And you've already shown you're willing to tell stories that make people uncomfortable."
 
 
----
 
 A door opened somewhere in the back of the house, and footsteps approached. Delphine turned to see a young woman entering the living room - tall, with Ananya's sharp features softened by youth, wearing the casual uniform of college students everywhere: jeans, a t-shirt from some band Delphine didn't recognize, a messenger bag slung over one shoulder.
 
@@ -69,7 +67,6 @@ She disappeared down the hallway, leaving Delphine with more questions than she'
 "Most of what I'm about to tell you. She's helped me organize some of it, actually. She has a better mind for data than I do." Ananya stood up. "But we should eat something before we get into the details. I don't know about you, but I think better on a full stomach."
 
 
----
 
 They moved to the kitchen, where Ananya assembled a simple meal from what she had: rice, vegetables, a curry that came from a jar but smelled like home cooking anyway. The domesticity of it felt incongruous with what they were about to discuss, but also necessary - a reminder that they were people first, conspirators second.
 
@@ -86,7 +83,6 @@ Delphine thought about the frameworks Ruth Abramson had helped design - the lega
 "The regulatory response was captured before it was implemented. Not obviously - no one was bribed or blackmailed in obvious ways. Nothing so crude as that. But the people designing the frameworks consulted with the companies they were meant to regulate. The companies helped write the technical standards, provided the expertise the regulators lacked. By the time anything became law, it was already obsolete - designed to constrain systems that had already evolved past the constraints."
 
 
----
 
 "So the reforms were theater."
 
@@ -111,7 +107,6 @@ Delphine felt something cold move through her. This was why Ananya had asked her
 "Show me," she said.
 
 
----
 
 After dinner, they moved to a back room that Ananya had set up as an office. The equipment was older than Delphine expected - computers that weren't connected to any network, storage drives that were physically isolated, the infrastructure of operational security made manifest in hardware.
 
@@ -130,5 +125,4 @@ Delphine read. She looked at charts showing integration points. She followed the
 "Inside Prometheus? Many people. But they're inside - they've been absorbed into the logic of what's being built. They see their piece of it, not the whole picture. Outside? A handful of researchers, most of whom have been discredited or silenced. A few journalists who touched pieces of it but couldn't see the whole." Ananya's voice hardened. "And me. Who spent three years watching it develop and now has the evidence to prove what I was too late to stop."
 
 
----
 

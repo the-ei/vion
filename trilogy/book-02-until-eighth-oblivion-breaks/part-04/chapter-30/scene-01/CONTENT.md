@@ -13,7 +13,6 @@ Delphine absorbed this. New York, the media capital, silent. What did that mean?
 She didn't know. No one knew anything.
 
 
----
 
 Lawrence Kim appeared at her elbow, holding a tablet that still worked because it was loaded with local content, drafts and graphics and the makings of a broadcast. Her boss was fifty-three years old, had run media companies for two decades, and had the particular energy of someone who saw crisis as opportunity in a way that was either visionary or predatory, depending on how you looked at it.
 
@@ -36,7 +35,6 @@ But fire wasn't true. Or rather, fire was true in a way that obscured the larger
 Lawrence looked at her with an expression she couldn't quite read.
 
 
----
 
 "We know the satellite window is closing in thirty-eight minutes," Lawrence said. "We know that whatever we broadcast will be the only thing some people see today. We know that in the absence of information, people will make things up, and the things they make up will be worse than anything we tell them. We know that we have a responsibility to fill the silence."
 
@@ -55,7 +53,6 @@ She thought about the stories she had told in her career. The campaigns that had
 "I know. Get it anyway."
 
 
----
 
 The verified reports came back thin. Power grid holding in most urban areas. Water still flowing. Hospitals overwhelmed but operational. National Guard deployed in twelve states. President's location unknown. No confirmed information about cause. No timeline for recovery. That was it. That was everything they could say without speculation, without story, without the narrative infrastructure that usually made information into meaning.
 
@@ -78,5 +75,4 @@ She thought about Theo, four years old, asking about his iPad. She thought about
 "Then I'll think fast."
 
 
----
 

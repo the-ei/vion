@@ -9,7 +9,6 @@ But there were other stories too. The murals that had appeared on buildings duri
 Kevin walked and observed and tried not to think too much about what he was observing. The analytical habit was hard to break - the pattern-matching that had made him good at his old work still wanted to categorize everything, find the systems, predict the outcomes. But prediction was what had gotten him in trouble. Now he was trying to learn how to simply be present, without needing to know what came next.
 
 
----
 
 Chinatown appeared around him with its particular density - the grocery stores with their bins of produce spilling onto the sidewalk, the restaurants sending smells of cooking oil and ginger into the street, the pharmacies with their mysterious packages of herbs and remedies his grandmother would have known how to use. Kevin moved through it like a ghost of a different life, someone who looked like he belonged but didn't, not really.
 
@@ -24,7 +23,6 @@ He thought about calling her. It had been two weeks since their last conversatio
 At a bench by the lake, he found a quiet spot and dialed.
 
 
----
 
 His mother's face appeared on screen, pixelated at first, then resolving into clarity. She was sixty-two, her hair going gray in the way that his grandmother's had, her face carrying the particular weariness that came from watching the world become less predictable than she had been promised.
 
@@ -55,7 +53,6 @@ The question that sat at the center of every conversation. When will you come ho
 "I know. I know. We're patient." But her voice said otherwise. Her voice said that patience was what you practiced when you had no other choice.
 
 
----
 
 They talked for another ten minutes, filling the space with updates about relatives and weather and the small news of daily life. His mother told him about a cousin who had gotten engaged, about a friend's child who had been accepted to university, about the construction happening near their apartment. Kevin told her about his work without details, about Oakland without politics, about his health without the loneliness that shadowed everything.
 
@@ -72,7 +69,6 @@ But home was also the video calls that kept cutting out, the conversations that 
 He stood up and continued walking. The lake sparkled in the afternoon light, and somewhere a child laughed at something, and the world kept turning regardless of what he felt about any of it.
 
 
----
 
 The afternoon stretched toward evening as he completed his loop. Through downtown with its mix of renovation and decay, past the new construction that promised revitalization and the old buildings that refused to give way. The city was layered with its own history - the port town it had been, the industrial center it had become, the tech-adjacent afterthought it had evolved into during the boom years when San Francisco got too expensive and people started looking across the bay for something cheaper.
 
@@ -95,7 +91,6 @@ It was a thought. Not fully formed, but something.
 He walked home through the cooling evening, turning the idea over in his mind.
 
 
----
 
 Back at the apartment, he made dinner. Simple food - rice, vegetables, a piece of fish from the market down the street. The cooking calmed him, as it always did, the repetitive actions of chopping and stirring and tasting bringing him back to his body after too many hours in his head.
 
@@ -130,5 +125,4 @@ Jerome Washington. The journalist. DeShawn's father.
 Maybe there was something Kevin could do after all.
 
 
----
 

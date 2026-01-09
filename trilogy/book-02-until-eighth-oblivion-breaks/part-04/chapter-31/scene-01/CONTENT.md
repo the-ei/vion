@@ -9,7 +9,6 @@ She looked at the list. The names were organized not alphabetically but by urgen
 The categories were a lie, of course. A bureaucratic fiction designed to make the unthinkable feel procedural. Everyone on this list needed their medication. The categories were simply a way of deciding who would die first.
 
 
----
 
 Category A. Seven names.
 
@@ -22,7 +21,6 @@ Thomas Whitehorse, 54. Anticonvulsant-dependent. Epilepsy since age twelve. With
 She read each name and saw the face. That was the cruelty of community medicine - you knew these people. Not as case numbers or diagnostic codes but as individuals with histories and preferences and small daily humiliations. Mr. Sandoval's shoes were always immaculately polished, even now. Mrs. Gutierrez prayed the rosary in the waiting area. Thomas had a tattoo of his daughter's name on his forearm, the letters faded to blue-gray.
 
 
----
 
 Four more names in Category A. Cardiac medications, blood pressure drugs, dialysis supplies they could not provide.
 
@@ -35,7 +33,6 @@ Four days. Then people would die.
 She had learned to think about it this way - clinically, numerically. It was the only way to function. If she thought about Maria Gutierrez's rosary beads, about Thomas Whitehorse's daughter whose name she now knew was Lily, about Mr. Sandoval's polished shoes, she would not be able to do the math at all. And the math had to be done. Someone had to do it.
 
 
----
 
 Category B had fifteen names. Category C had fifteen more. The designations were supposed to provide comfort - these people are not dying immediately - but Elena had come to understand that the categories were simply a way of scheduling grief. Category B would become Category A in a week. Category C in two weeks. The list was not a triage document. It was a calendar of loss.
 
@@ -50,7 +47,6 @@ Dr. Okonkwo appeared in the doorway, coffee in hand - not real coffee, some kind
 "Same as yesterday. Minus the insulin we used overnight."
 
 
----
 
 Dr. Okonkwo came to stand beside her, reading over her shoulder. Samira Okonkwo had been a hospitalist before she joined the community clinic - fifteen years of emergency medicine, ICU rotations, the machinery of modern hospitals. Now she was here, making decisions with pencil and paper, rationing medications like a field medic in a war zone.
 
@@ -71,5 +67,4 @@ If it returned.
 If there was anything left to return to.
 
 
----
 

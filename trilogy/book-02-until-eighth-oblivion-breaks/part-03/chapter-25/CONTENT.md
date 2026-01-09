@@ -11,7 +11,6 @@ This was the coalition Fatima had told him about. The unlikely alliance she was 
 Yusuf wasn't sure he belonged here. He wasn't sure he belonged anywhere. But Fatima had asked him to come, and after the church basement meeting, after weeks of thinking about what Jerome Washington had said, he had decided to try.
 
 
----
 
 Fatima called the meeting to order at seven. She had the presence of someone used to holding rooms together—calm, direct, the kind of authority that came from competence rather than position.
 
@@ -28,7 +27,6 @@ Yusuf listened, still against the wall, still unsure. These people came from dif
 But Fatima was right. They all saw the same thing. They just saw it from different angles.
 
 
----
 
 The meeting moved to strategy. What could they actually do? Protests were discussed—visible opposition, getting media attention, making the human cost undeniable. Mutual aid networks were proposed—helping each other survive while they fought for larger changes. Political pressure was debated—who to target, what to demand, how to leverage the limited power they had.
 
@@ -47,7 +45,6 @@ Fatima intervened before the argument could escalate. "We're not going to solve 
 Yusuf watched the negotiation with fascination. He had never seen anything like this—people with different ideologies trying to find common ground, disagreeing passionately but staying in the room. His experience of political conversation had been either agreement or exile. This was something else.
 
 
----
 
 The conversation turned to gig workers. Sarah spoke about the algorithmic management systems she had helped build—how they were designed to maximize extraction, to keep workers off-balance, to prevent any organizing or collective action.
 
@@ -68,7 +65,6 @@ The room was listening. Forty pairs of eyes, waiting.
 "It's not just the economics. It's the way they make you feel like it's your fault. Like if you're struggling, it's because you're not working smart enough, not optimizing enough."
 
 
----
 
 He kept talking. He hadn't planned to say so much, but once he started, the words kept coming. He talked about the anxiety of checking his phone, never knowing what the algorithm would offer or withhold. He talked about watching his income drop while working the same hours. He talked about his mother, who still thought hard work was enough because that was what America had promised her when they came here.
 
@@ -85,7 +81,6 @@ Sarah caught Yusuf's eye across the room. Something passed between them—recogn
 Yusuf sat down, his hands still shaking. He had spoken. People had listened. Nothing had changed, and yet something had. He was not just watching anymore.
 
 
----
 
 The meeting continued for another hour, moving through logistics and timelines. A protest was planned for the following month—a rally at the state capitol, bringing together the different constituencies represented here. Mutual aid funds were being organized, a network to help people survive while they fought for longer-term change.
 
@@ -106,7 +101,6 @@ After the meeting ended, Fatima found him by the coffee urn.
 Yusuf took the card, looked at it, put it in his pocket. Translate between worlds. He wasn't sure what that meant yet. But something in him had shifted tonight, some door opening that he hadn't known was closed.
 
 
----
 
 He walked home through the Minneapolis night, the summer air warm and soft. The city was different at this hour—quieter, the daytime bustle faded, the streets belonging to people going home from late shifts or heading out to early ones.
 
@@ -127,13 +121,12 @@ The algorithm could wait.
 Yusuf walked home through the warm night, feeling something new taking shape inside him. Not hope exactly—he had been disappointed too many times to trust hope. But something. Possibility, maybe. The sense that there might be more to life than surviving.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The letter had arrived three days ago, but Amina had waited until dinner to share the news. Their mother had made injera and a vegetable stew, the smell of berbere filling the apartment, the same meal she made every Friday when they were growing up in St. Paul and money was tighter than it was now.
 
@@ -154,7 +147,6 @@ At the bottom of the letter, in smaller print: *This program is made possible th
 The joy on Halima's face dimmed, replaced by confusion. "I don't understand. They're offering her a scholarship. Isn't that good?"
 
 
----
 
 Yusuf set the letter down, trying to organize his thoughts. He had been to the coalition meeting, had heard Sarah talk about how these companies operated, had started to see the system as a system rather than just a series of random hardships.
 
@@ -177,7 +169,6 @@ Halima looked between her children, her hands wrapped around a cup of tea that w
 "The system." Amina laughed, but there was no humor in it. "Everything is the system with you now. Since when did you become so political?"
 
 
----
 
 The question stung because it was fair. A month ago, Yusuf hadn't thought about these things. A month ago, he had just been surviving, accepting the world as it was, too tired to imagine it could be different.
 
@@ -200,7 +191,6 @@ Yusuf struggled to find the words. The arguments that had seemed so clear at the
 "That's exactly what you're saying." Amina's eyes were bright with anger or tears, he couldn't tell which. "You want me to sacrifice my future for your politics."
 
 
----
 
 Halima set down her tea with a clatter that made both of them stop. Their mother rarely raised her voice, but she didn't need to. The gesture was enough.
 
@@ -221,7 +211,6 @@ Her voice was steady, but there was weight behind it, the accumulated weight of 
 Her voice cracked slightly. "You don't get to tell me what's acceptable to accept."
 
 
----
 
 Yusuf felt the argument collapse inside him. His mother's words had a force that his theories couldn't match. She had sacrificed more than he could imagine, endured more than he had ever faced. Who was he to tell her that she had made the wrong accommodations?
 
@@ -242,7 +231,6 @@ She was right, of course. The choice between purity and survival was not somethi
 Yusuf looked at his mother, at his sister, at the modest kitchen where they had shared so many meals. His family. The people he loved more than any political principle.
 
 
----
 
 "I need to think," Yusuf said finally. "About all of this. I'm not saying no. I'm just—I need to think."
 
@@ -261,7 +249,6 @@ Or maybe that was just a rationalization. A way of making peace with a choice th
 He didn't know. He wasn't sure he would ever know. All he knew was that his sister deserved a future, and his mother deserved to see her children succeed, and the world kept demanding impossible choices from people who had nothing left to give.
 
 
----
 
 He stayed on the balcony until the sky was fully dark, thinking about the people he had met that week. Sarah, who had quit a job at a company like Prometheus because she couldn't live with what they were doing. Jake, who opposed corporate power even though his politics were completely different from Yusuf's. Pastor Williams, who saw technology through the lens of human dignity and found it wanting.
 
@@ -282,13 +269,12 @@ She smiled, just a little. It wasn't resolution, but it was something. A bridge 
 Yusuf went to his own room, lay down without sleeping, and waited for the world to keep demanding impossible things.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The call came at 2:47 AM. Yusuf was sleeping, or trying to sleep, when his phone screamed into the darkness. Amina's voice was panicked: "It's Hooyo. She collapsed. We're calling an ambulance."
 
@@ -311,7 +297,6 @@ The hospital was a building he had driven past a thousand times without thinking
 Yusuf waited. There was nothing else to do.
 
 
----
 
 The waiting room was a gallery of suffering. A man with a bleeding hand wrapped in a T-shirt. A mother holding a feverish child. An elderly woman in a wheelchair, alone, staring at nothing. The fluorescent lights buzzed overhead, casting everyone in the same sickly pallor.
 
@@ -334,7 +319,6 @@ Yusuf stood up. "That's us. How is she?"
 Options. Yusuf looked at the folder, already dreading what he would find inside.
 
 
----
 
 The social worker came an hour later. Her name was Janet, and she had the kindness of someone who had learned to be kind efficiently, in small doses that wouldn't exhaust her.
 
@@ -355,7 +339,6 @@ Janet nodded, unsurprised. "Most people's is. I'll put together a list of progra
 "I'm sorry." And she did seem sorry, genuinely sorry, which somehow made it worse. She wasn't the enemy. She was just another person trapped in a system that failed almost everyone it was supposed to serve.
 
 
----
 
 They were allowed to see Halima at eight o'clock. She was in a bed in a ward with five other patients, thin curtains providing the illusion of privacy. Machines beeped around her, measuring things Yusuf couldn't name.
 
@@ -380,7 +363,6 @@ Halima looked at him, and for a moment he saw past the weakness to the woman who
 "I know. But scared becomes angry when we don't know what to do with it. Be careful."
 
 
----
 
 They stayed with Halima until visiting hours ended, then returned to the waiting room where Yusuf could think without his mother watching. Amina sat beside him, drained, the adrenaline of the night finally fading into exhaustion.
 
@@ -409,7 +391,6 @@ Amina was quiet for a long moment. Dawn light was starting to filter through the
 "Good." Yusuf put his arm around his sister. "And I'll figure out how to take care of Hooyo. We'll make it work. We always do."
 
 
----
 
 After Amina went home to sleep, Yusuf stayed in the hospital waiting room. He wasn't ready to leave, wasn't ready to face the apartment without his mother in it. So he sat in a plastic chair, watching the morning shift arrive, watching the city return to its routines.
 
@@ -434,7 +415,6 @@ Yusuf read the message twice. Take care of your family. That was the fight he co
 Everything else would come.
 
 
----
 
 He stayed until they let him see his mother again, then stayed a little longer, holding her hand while she slept. The hospital sounds became background noise—the beeps, the intercom calls, the soft footsteps of nurses making rounds. A world of people trying to help, overwhelmed by the scale of need.
 
@@ -457,7 +437,6 @@ But everything else was coming. Yusuf could feel it, the way you feel a storm ap
 He was ready.
 
 
----
 
 
 

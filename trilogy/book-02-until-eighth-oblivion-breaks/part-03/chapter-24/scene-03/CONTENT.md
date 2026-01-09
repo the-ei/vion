@@ -13,7 +13,6 @@ She paused, looking at the words on the screen. They were true—she had believe
 Outside her window, Washington was quiet, the Sunday afternoon peace of a city that would return to its business tomorrow. Ruth wrote on, the essay taking shape under her hands.
 
 
----
 
 The second section was about compromise. The cases she had won that turned out to change nothing. The regulations she had helped write that were immediately captured by the industries they were meant to regulate. The testimonies she had given that were praised and then ignored.
 
@@ -30,7 +29,6 @@ But Susan had always said: the truth costs something. If it doesn't cost anythin
 Ruth kept writing.
 
 
----
 
 The evening came and went. Ruth ate dinner at her desk—crackers and cheese, the meal of someone too absorbed to cook. The essay was pulling her forward, demanding to be written, the words coming faster than she could have imagined.
 
@@ -49,7 +47,6 @@ Writing about Susan was harder than writing about law. The grief was still fresh
 *I think we're approaching a moment of dissolution. I think the stories are failing.*
 
 
----
 
 By midnight, Ruth had written four thousand words. More than she had written in a single sitting in years. The essay was taking a shape she hadn't planned—not a legal analysis, not an academic argument, but something closer to confession. A reckoning with a life spent in service of beliefs that might have been wrong.
 
@@ -68,7 +65,6 @@ But access to what? Access to meetings where nothing happened. Access to hearing
 Susan would have laughed at the time Ruth had spent cultivating that kind of access. *What good is a seat at the table*, she would have said, *if the table is set for a meal you're not invited to eat?*
 
 
----
 
 At two in the morning, Ruth saved the draft and pushed back from her desk. Her eyes were tired, her back ached, her hands felt the particular numbness of too much typing. But something had shifted inside her—a release she hadn't expected.
 
@@ -85,7 +81,6 @@ But it might matter anyway. It might contribute something to the conversation—
 That was all she could offer. It would have to be enough.
 
 
----
 
 She went to bed but couldn't sleep. Her mind kept returning to the essay, to sentences she wanted to revise, arguments she wanted to sharpen. This was how she had always worked—the inability to let go of a piece until it was finished, the obsessive attention to language that Susan had both admired and found exhausting.
 
@@ -112,7 +107,6 @@ She typed back: *I'll be ready.*
 Then she opened her laptop and returned to the essay.
 
 
----
 
 The final section came quickly, as if it had been waiting. Ruth wrote about hope—not the optimistic hope she had carried for most of her career, the belief that systems would self-correct, but a different kind. The hope that came from action rather than faith.
 
@@ -131,5 +125,4 @@ Relief. The relief of finally telling the truth.
 Whatever came next, at least she had done that.
 
 
----
 

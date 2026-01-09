@@ -9,7 +9,6 @@ The meditation was still hard. His mind still wanted to plan, to optimize, to ru
 At six, he made breakfast. Eggs scrambled with vegetables, toast with avocado, coffee from the small pour-over setup he had become unreasonably attached to. The ritual of cooking grounded him in his body in ways that the digital work of the rest of his day couldn't.
 
 
----
 
 By seven, he was at his desk - a simple setup, one monitor, a mechanical keyboard he had splurged on because the tactile feedback pleased him. The project he was working on lived in several repositories, the code accumulated over eighteen months of careful building. Digital infrastructure for mutual aid networks: tools that helped communities share resources, coordinate assistance, build the kind of resilience that didn't depend on systems controlled by people who didn't care about them.
 
@@ -26,7 +25,6 @@ DeShawn.
 Exciting news - Prometheus wants to talk about acquiring us. This could be huge. Call me when you can?
 
 
----
 
 Kevin read the message twice, feeling something cold settle in his stomach.
 
@@ -43,7 +41,6 @@ Kevin saw something else. He saw the pattern. He saw his own trajectory, replaye
 He picked up his phone and called.
 
 
----
 
 DeShawn's face appeared on screen, glowing with excitement. Behind him, the cluttered background of what looked like a garage converted into an office - the aesthetic of scrappy startups that Kevin remembered from his own early days.
 
@@ -70,7 +67,6 @@ DeShawn's expression shifted slightly - not conviction, but maybe the beginning 
 "I think you should understand what you're walking into. Prometheus isn't interested in helping you build what you want to build. They're interested in acquiring what you've built and turning it into something that serves their interests."
 
 
----
 
 "Their interests include helping small businesses succeed. That's what our platform does. If they integrate it into their ecosystem, more businesses get access."
 
@@ -97,7 +93,6 @@ He had been wrong. That was what he was trying to tell DeShawn.
 But being wrong was something you had to learn yourself. No one else's learning could substitute.
 
 
----
 
 He went back to his code, but the focus was gone. The matching algorithm still needed work, but his mind kept drifting back to DeShawn, to Prometheus, to the choices he himself had made at that age and the consequences that had followed.
 
@@ -120,5 +115,4 @@ The matching algorithm. People who had things finding people who needed them. Sm
 It wasn't enough. But it was what he could do without becoming what he had fled from.
 
 
----
 

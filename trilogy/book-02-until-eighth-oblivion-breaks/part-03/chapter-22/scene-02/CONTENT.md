@@ -17,7 +17,6 @@ Maria had worked at the warehouse for four years. Good worker, never late, excee
 Jerome wrote in his notebook, asked follow-up questions, recorded the parts she agreed to have recorded. The story was familiar—he had heard versions of it in Baltimore, in Ohio, in Texas. The specifics changed but the structure was the same. Work harder. Get replaced anyway.
 
 
----
 
 The second interview was at noon, a man named David Kowalski who drove for Uber and Lyft and DoorDash and Instacart—whatever app was offering bonuses that week. They talked in his car, parked in a lot behind a strip mall, because this was where he spent most of his time now.
 
@@ -36,7 +35,6 @@ David laughed, but there was nothing funny in it. "What else can I do? I'm forty
 The interview lasted an hour. Jerome filled three pages of notes, recorded twenty minutes of tape. David's story would fit the narrative: the gig economy worker, symbol of precarity, a stand-in for millions. It felt useful and also felt like a reduction. The man was more than a symbol. The man was a life.
 
 
----
 
 The third interview was at four, a nurse named Sarah Okonkwo who worked at a regional hospital and had agreed to talk only on condition of anonymity. They met in a park, sitting on a bench far from anyone else, the paranoid choreography of a source who was risking something to speak.
 
@@ -53,7 +51,6 @@ Jerome photographed the screenshots, careful to capture only the schedule, nothi
 Sarah was quiet for a moment. "Because I don't know what else to do. I've complained through official channels. I've talked to my union. Nothing works. Maybe if it's public, if people see what's happening..." She trailed off. "Or maybe nothing will change and I'll get fired for talking to a journalist. I honestly don't know anymore."
 
 
----
 
 The church basement was exactly what Jerome expected: folding chairs, industrial carpet, a table with coffee and cookies, the universal aesthetic of community organizing. He arrived early, as Terrence had suggested, and found a seat in the back where he could observe without being too visible.
 
@@ -68,7 +65,6 @@ The meeting began with introductions. Not names, necessarily, but roles: warehou
 Jerome listened. That was his job, the part of journalism that still felt honest: the act of listening, of holding space for other people's truths. The rest—the shaping, the narrative, the reaching for impact—felt more complicated.
 
 
----
 
 Halfway through the meeting, Jerome noticed him. A young Somali-American man in the back row, on the opposite side of the room. He wasn't speaking, wasn't participating in the way others were. He sat with his arms folded, watching everything with an intensity that set him apart.
 
@@ -83,7 +79,6 @@ Jerome wrote in his notebook: *Young man in back. Somali? Early 20s. Different q
 He had developed this instinct over thirty years of reporting—the ability to recognize a good source, a compelling voice, a person whose story might illuminate something larger. The young man in the back had something. Jerome didn't know what yet. But he wanted to find out.
 
 
----
 
 After the meeting, people lingered. Jerome circulated carefully, introducing himself when invited, making clear he was there to listen, not to extract. Most people were guarded but not hostile. They had been warned about him, and he had been vouched for, and that seemed to be enough for now.
 
@@ -106,7 +101,6 @@ The young man stopped. Up close, he was striking: sharp-featured, intelligent ey
 Jerome nodded. "That's true. But I'd like to hear what you're paying attention to. If you're willing to talk."
 
 
----
 
 The young man studied him. Jerome could feel himself being assessed, measured against some standard he couldn't see.
 
@@ -129,7 +123,6 @@ The young man's expression shifted slightly—still skeptical, but curious. "Tha
 It was a good question. Jerome didn't have a good answer. "I'm still trying to figure that out. That's why I'm here."
 
 
----
 
 The young man was quiet for a long moment. Around them, the church basement was emptying out, the chairs being folded, the coffee being cleared. The rituals of community organizing, happening at the edges of their conversation.
 
@@ -152,5 +145,4 @@ But the encounter that stayed with him was the one that hadn't become an intervi
 But it did.
 
 
----
 

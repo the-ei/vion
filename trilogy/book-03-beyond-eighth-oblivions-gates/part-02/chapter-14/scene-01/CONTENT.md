@@ -21,7 +21,6 @@ Elena sat. Her heart was doing something complicated, some arrhythmic performanc
 Dr. Reyes turned the laptop toward her. Images appeared: her thyroid, gray and grainy. Numbers she could read as easily as she read patient charts.
 
 
----
 
 "It's Hashimoto's," Dr. Reyes said. "The antibody levels confirm autoimmune thyroiditis. Your thyroid is under attack from your immune system, as we suspected."
 
@@ -46,7 +45,6 @@ Elena wiped her face, forced herself to engage her clinical mind. "What's the tr
 "I know. We'll talk about how to make it practical. But the autoimmune component is definitely stress-exacerbated. Your body has been telling you something, and now it's shouting."
 
 
----
 
 They talked for another twenty minutes. Dr. Reyes walked her through the medication protocol, the lab schedule, the signs that would indicate the dose needed adjustment. Elena took notes, her handwriting shaky but legible, the familiar act of documenting treatment grounding her.
 
@@ -73,7 +71,6 @@ Daniel stood when he saw her. His face asked the question he was too afraid to v
 "Let's go to the car," she said. "I'll tell you there."
 
 
----
 
 The parking lot was hot, October in Phoenix still carrying summer's memory. They stood between their Honda and someone else's truck, the privacy of cars providing cover.
 
@@ -100,7 +97,6 @@ She leaned against the car, felt the sun-warmed metal through her scrubs. "I don
 "I know." He stepped closer, put his hands on her shoulders. "That's why you're going to have to learn."
 
 
----
 
 The drive home was quiet but not silent. Daniel asked questions about the treatment, the timeline, the specifics of what Elena would need. She answered in clinical terms that became personal as she spoke, the diagnosis shifting from abstract to real with each word.
 
@@ -125,7 +121,6 @@ And then she cried. Not the tears in Dr. Reyes's office, which had been relief m
 Daniel found her there, sat beside her, didn't speak. Just present. Just there.
 
 
----
 
 Later, when the crying had stopped and she felt hollowed out but somehow whole, she told Daniel she needed to call the clinic. She spoke to her director, explained the diagnosis, heard the concern and support in response. Yes, reduced hours would be possible. Yes, they would adjust schedules. Yes, she needed to take care of herself.
 
@@ -152,5 +147,4 @@ That night, with the children asleep and abuela settled in her room, Elena and D
 She couldn't promise. No one could promise anything about bodies and time. But she leaned into him, let him hold her, and said the only true thing available: "I'll try. I'll really try."
 
 
----
 

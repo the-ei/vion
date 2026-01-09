@@ -9,7 +9,6 @@ She had known this was coming. Abuela had been declining for months - the cane, 
 But knowing something is coming does not prepare you for its arrival.
 
 
----
 
 Elena let herself into the house with the key she had carried since childhood. The night nurse - Maria, who had been coming three nights a week for the past two months - was in the kitchen, her face arranged in the expression of professional compassion. She had called the medical examiner, she explained. They would come soon to make the official pronouncement. In the meantime, Elena could go in. Take whatever time she needed.
 
@@ -22,7 +21,6 @@ Elena sat in the chair beside the bed, the chair where she had sat for countless
 "I'm here, Abuelita," she said, though she knew her grandmother could not hear. "I'm here."
 
 
----
 
 Time moved strangely after that, the way it does in the presence of death. Elena called Daniel, who said he would wake their neighbor to watch the children and come immediately. She called her mother in Tucson - abuela's daughter, who had moved away years ago but came back for visits, who would now come back for something final. Her mother's voice broke on the phone. "I should have been there," she said. "I should have been there at the end." Elena told her what the nurse had said: peaceful, in her sleep, no distress. It was the truth. It did not help.
 
@@ -39,7 +37,6 @@ Elena leaned back against him, letting his presence anchor her. The sun would be
 From down the hall, she heard a door open. Small footsteps in the hallway. Sofia, awake.
 
 
----
 
 Sofia appeared in the doorway, nine years old and sleep-rumpled, her eyes taking in the scene with the particular intensity of children who understand that something has changed. She looked at her parents, at the bed where her great-grandmother lay, at the stillness that filled the room like water.
 
@@ -60,7 +57,6 @@ Sofia was quiet for a moment, processing. "She said she'd see her mother again."
 "She did. She talked about that a lot, near the end."
 
 
----
 
 "Then maybe that's where she is," Sofia said. "With her mother."
 
@@ -77,5 +73,4 @@ Elena looked at her grandmother's face one more time. The peace there was genuin
 She didn't know if her grandmother could hear. But she said it anyway. There would be time later for grief and tears, for the funeral and the wake and the long slow work of mourning. For now, there was only gratitude and the promise of returning light.
 
 
----
 

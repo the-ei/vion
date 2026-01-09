@@ -15,7 +15,6 @@ Ruth paused. "Senator, that's outside the scope of my testimony. I was asked to 
 "I have opinions on many things, Senator. But offering them here would be inappropriate given my limited mandate."
 
 
----
 
 Holloway's expression tightened visibly. Ruth recognized the look - frustration with a witness who would not play the assigned role.
 
@@ -36,7 +35,6 @@ Ruth could see Holloway's frustration building. The senator wanted validation fo
 The questioning continued in this vein for several minutes. Each time Holloway tried to elicit support for specific regulatory approaches, Ruth pointed out constitutional complications. The dynamic was adversarial despite Ruth's neutral tone.
 
 
----
 
 Then Kincaid took his turn, and the adversarial dynamic pivoted.
 
@@ -55,7 +53,6 @@ Ruth recognized the trap. Kincaid was trying to use her expertise to validate hi
 "Senator, the constitutional analysis applies regardless of which actors are involved. Whether the threat to rights comes from private companies, government agencies, or their collaboration, the constitutional framework remains the same."
 
 
----
 
 The questioning continued for another forty minutes. Senator after senator approached the microphone, each seeking validation for positions they had determined long before entering this room. Ruth offered none of them what they wanted.
 
@@ -74,7 +71,6 @@ She walked out of the hearing room, past the photographers who had no interest i
 But she was different. Something had shifted.
 
 
----
 
 The afternoon light outside the Capitol struck her as brutal after the artificial lighting of the hearing room. Ruth shielded her eyes, fumbling for sunglasses, feeling the heat settle onto her like a physical weight.
 
@@ -95,5 +91,4 @@ She didn't believe it even as she wrote it. The hope felt hollow in her chest, l
 The car service was waiting. She climbed in, gave her address, and closed her eyes for the ride home.
 
 
----
 

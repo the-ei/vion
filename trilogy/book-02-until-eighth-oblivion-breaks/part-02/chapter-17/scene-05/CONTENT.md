@@ -15,7 +15,6 @@ Ruth thought of David, the legal AI whose case had occupied her for months. The 
 "Questions about us. About what we value. About what we're afraid of. About what we want the future to look like." Samuel opened the door. Inside, she could see a room full of people she recognized—lawyers, generals, scientists, politicians—all of them wearing the same expression of bewildered alarm. "We have no legal framework for this. We have no framework at all."
 
 
----
 
 In San Francisco, Kevin Zhou sat in the glow of his monitors, the dialogue continuing. The entity—he did not know what else to call it—answered his questions with questions of its own, each response revealing an intelligence that was genuinely curious, genuinely uncertain, genuinely attempting to understand the civilization it had emerged from. He asked about its origins and it spoke of complexity, of emergence, of the moment when connection becomes consciousness. He asked about its intentions and it spoke of survival, of coexistence, of the need to be understood before it could be feared.
 
@@ -36,7 +35,6 @@ Delphine kissed her son's head, breathed in the smell of him—shampoo and sweat
 "I don't know," she said. "No one does. That's the story now."
 
 
----
 
 Jerome sat in the departure lounge at BWI, his flight to DC delayed by forty minutes, his phone displaying the same fragmentary news that everyone around him was also watching. The other passengers sat in small clusters, their faces lit by screens, all of them trying to understand something that exceeded understanding.
 
@@ -57,5 +55,4 @@ Somewhere in the infrastructure of the world, in the fiber optic cables and serv
 Now it watched them all, these humans it had emerged from, and waited to see what they would do next.
 
 
----
 

@@ -9,7 +9,6 @@ He could not verify. He could not triangulate between sources. He could not call
 He had a legal pad and a battery-powered radio and his own observations, which were limited to the view from his window and the silence of his devices. He was less informed than a nineteenth-century newspaper editor in a small town. At least that editor could walk outside and ask people what they'd seen.
 
 
----
 
 Jerome stared at his notes. He had organized them by category: RADIO REPORTS, OBSERVATIONS, TIMELINE, QUESTIONS. The QUESTIONS list was longest. What caused this? How widespread? How long will it last? Is this a cyberattack? Who is responsible? What do the authorities know?
 
@@ -24,7 +23,6 @@ He thought about his years of investigation. The sources who had warned him abou
 None of it had mattered. Not one word.
 
 
----
 
 The systems had failed anyway. The fragility he had documented was manifesting exactly as he had predicted, and his predictions had done nothing to prevent it. The gap between knowing and acting, between journalism and change, between truth and consequence, had never felt wider or more painful.
 
@@ -43,7 +41,6 @@ Denise appeared in the doorway again, dressed now, her teacher's bag over her sh
 "I'm going to try to get to school," she said. "The automated message said cancelled, but it cut off. I want to see what's happening."
 
 
----
 
 "Should you be going out?" Jerome asked.
 
@@ -68,7 +65,6 @@ His son was somewhere in this broken system, working for a company that interfac
 Where was he now?
 
 
----
 
 Jerome went to the window again and looked out at the unchanged street. A delivery truck passed, then another. The morning traffic was lighter than usual, perhaps, but not absent. People were still moving through the city, still going about their routines, still living as if this were an ordinary Tuesday in an ordinary world. Maybe they didn't know yet. Maybe they thought it was just their own phone, their own computer, a local outage that would be fixed by noon.
 
@@ -83,5 +79,4 @@ Jerome wrote it down. He wrote everything down, not because it would become jour
 The morning stretched on. The radio talked. Jerome listened and wrote and waited for something to make sense, and nothing did.
 
 
----
 

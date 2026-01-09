@@ -15,7 +15,6 @@ The connection established, and there was her mother's face, filling the screen 
 "Still? That show about the troubles. I don't understand why anyone would want to watch such a thing. We lived through it once. Why would we want to live through it again?"
 
 
----
 
 "It's fiction, Mama. It's based on events, but it's not -"
 
@@ -38,7 +37,6 @@ Five years since her father had died. A heart attack, sudden, while he was garde
 "I'll scan it. Send it to you." Another pause, the weight of accumulated history pressing through the connection. "Theo is well?"
 
 
----
 
 "He's wonderful. Growing so fast. He asked me a question this morning that -" Delphine hesitated, not sure how much she wanted to revisit this conversation with her mother, who had her own opinions about Delphine's career choices. "He wanted to know why my documentaries make people sad."
 
@@ -63,7 +61,6 @@ Delphine felt the familiar frustration rising and pushed it back down. "We're no
 "We never do. But I love you anyway."
 
 
----
 
 They talked for another twenty minutes - about Delphine's brother in Paris, about the gallery opening Nkechi had attended last week, about the peculiar ways that London had and hadn't changed since the Eighth Oblivion. Her mother spoke of it casually, as one might speak of a bad storm or a difficult election, something that had happened and then been processed and then become part of the landscape of the past.
 
@@ -82,7 +79,6 @@ But did showing change anything? Or did it just become another form of entertain
 The question had no answer. It never did.
 
 
----
 
 The notification came at 3:47, just as Delphine was starting dinner prep. Not from the school, not from Jessie, but from a contact she hadn't spoken to in months: Ananya Ramaswamy.
 
@@ -101,7 +97,6 @@ And Ananya, who had been inside it, who had seen whatever there was to see, who 
 Which, of course, they couldn't. That was one of the things everyone had learned and then carefully forgotten.
 
 
----
 
 She set down the lettuce. Read the message again. Tried to parse what Ananya might mean, what Prometheus might be planning, what could be urgent enough to warrant this kind of contact after months of silence.
 
@@ -122,7 +117,6 @@ Tucson. Arizona. The same desert landscape where Sofia was filming Maria and the
 Then she put down her phone and stood in her kitchen, feeling the new arrangement of her life beginning to shift.
 
 
----
 
 Theo came home at four-fifteen, bursting through the door with the particular energy of seven-year-olds released from institutional containment. Delphine caught him in her arms and held him, smelling playground dust and industrial soap, grounding herself in the reality of his body after the abstractions of the day.
 
@@ -151,7 +145,6 @@ Delphine considered the question, which was better than most adult questions abo
 Theo accepted this with the pragmatism of a child who had grown up understanding that adults had mysteries they couldn't always explain. He finished his apple, core and all, a habit Jessie had somehow instilled in him, and went to his room to play before dinner.
 
 
----
 
 Later, after dinner and homework and the bedtime negotiation that ended with three chapters of a book about a mouse who sailed across the ocean, Delphine stepped out onto the back porch. The Los Angeles night was warm and dry, the air quality acceptable according to the indicator on her phone, the sky a muddy orange from the city's light pollution filtering through the particulate.
 
@@ -174,5 +167,4 @@ After that, nothing was predictable.
 The roses rustled in a breeze she couldn't feel, and the city hummed around her, and somewhere inside the house her son was sleeping, dreaming of clouds eleven miles tall.
 
 
----
 

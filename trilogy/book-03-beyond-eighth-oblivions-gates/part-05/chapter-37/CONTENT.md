@@ -15,7 +15,6 @@ He moved to the bedside, taking her hand, the bones of it so delicate now, the s
 She considered this. Her eyes moved around the room, taking in the monitors, the IV pole, the window with its view of nothing. "I'm in the hospital," she said. It was not a question.
 
 
----
 
 "Hospice," Jerome said gently. "You've been here a little while."
 
@@ -36,7 +35,6 @@ Jerome felt his throat tighten. How do you explain a career to someone who is dy
 The question landed in his chest. Did you do right. Fifty-nine years of life, decades of journalism, investigations that had won awards and changed nothing, exposed corruption that continued, revealed truths that became footnotes.
 
 
----
 
 "I tried," he said. "I'm still trying."
 
@@ -63,7 +61,6 @@ And now she was here, in this bed, needing everything.
 She was quiet for a moment, her eyes still clear but her attention seeming to turn inward. Jerome watched her breathe, each breath a small effort now, the body working to continue.
 
 
----
 
 "I remember when you were born," she said. "The hospital was different then. I had to wait all day before anyone would see me. Your father was so angry. Wanted to fight everyone." She smiled at the memory. "But then you came, and he was so gentle. Held you like you might break. Like you were made of something precious."
 
@@ -82,7 +79,6 @@ This was the kind of thing she had said when he was young, the faith she had rai
 "And did they listen?"
 
 
----
 
 The question cut through everything. Did they listen. Jerome thought of investigations he had spent months pursuing, sources who had risked their careers and sometimes their safety to share information, articles that had been read and shared and discussed and then forgotten. He thought of the surveillance systems he had exposed that were still in operation, the algorithmic injustices he had documented that continued to harm people, the truth that had not set anyone free.
 
@@ -101,7 +97,6 @@ This was, Jerome realized, what she had taught him without ever putting it into 
 The monitors beeped their steady rhythms. Outside the window, the parking lot held its cars, the grass held its frost, the world continued in its indifference.
 
 
----
 
 Jerome sat holding his mother's hand as she drifted back into the fog, the lucidity receding like a tide. He did not know if she would return again, if there would be another window. The doctors had said these moments were unpredictable, could be singular or repeated, could mean the end was near or could precede weeks more of this twilight state.
 
@@ -120,13 +115,12 @@ And now she was here, at the end, and Jerome was here with her, and the truth he
 He stayed with her until the night shift arrived.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Denise arrived first, still in her teaching clothes, her coat pulled on over a cardigan, her bag heavy with ungraded papers she would not look at tonight. She came into the hospice room with the particular competence of someone who had done this before, who knew the geography of medical crisis, who could navigate the emotions of hospitals without losing herself.
 
@@ -151,7 +145,6 @@ They sat together in the quiet, watching his mother breathe. The monitors beeped
 Jerome's sister Patricia arrived next, still wearing her work lanyard, a social worker who had spent thirty years in the city's child welfare system. She was older than Jerome by two years, had stayed in Baltimore when he had left for DC and New York and wherever the stories took him, had been the one to find their mother an aide when the dementia began, had managed the long decline while he visited when he could.
 
 
----
 
 "Traffic on 95 was a nightmare," Patricia said, but she was already moving toward the bed, toward their mother, taking the thin hand in her own. "Hey, Mama. It's Trisha. I'm here."
 
@@ -170,7 +163,6 @@ Patricia looked at Jerome. "I heard she woke up. Talked to you."
 The tension in the room was old and familiar, the sibling friction of unequal burdens borne. Jerome had spent his career chasing stories across the country and the world while Patricia stayed rooted, grounded, present for their mother in ways he had not been. He had sent money and made visits and told himself that was enough, and perhaps it was enough, and perhaps it wasn't, and it was too late now to change any of it.
 
 
----
 
 DeShawn arrived last, just before nine, looking rumpled from the flight from San Francisco. He stood in the doorway for a moment, taking in the scene: his grandmother in the bed, his father and aunt on either side, his stepmother in the corner. Jerome saw him register the gravity of it, the imminence.
 
@@ -191,7 +183,6 @@ DeShawn shrugged. "Some things are more important than work."
 This was a barb, possibly, or possibly just a statement. Jerome had not always made that choice. Had missed recitals and games and birthdays, had been on assignment when Denise had needed him, had prioritized the story over the presence. DeShawn had grown up with that, had internalized it in ways Jerome couldn't fully see, had become someone who worked in tech with an intensity that might have been learned from watching his father.
 
 
----
 
 "How's work?" Jerome asked, because it was something to say, a bridge across the complicated space between them.
 
@@ -216,7 +207,6 @@ DeShawn was quiet for a moment. Then he nodded, once, and looked back at his gra
 The family sat together in the silence, watching her breathe.
 
 
----
 
 Later, when the hospice staff came to check vitals and adjust the morphine drip, the family moved to the small waiting area down the hall. Someone had brought coffee, Denise probably, and they sat in the uncomfortable chairs drinking it, the caffeine necessary but insufficient against the exhaustion.
 
@@ -237,13 +227,12 @@ She had believed in him when no one else would have. Had scraped together money 
 The coffee grew cold. The night deepened. The family waited.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The night took on the quality that only vigils have: suspended, stretched, both endless and too fast. They rotated between the bedside and the waiting room, two at a time keeping watch while the others tried to rest on couches never designed for sleeping. Jerome stayed mostly at the bed, unwilling to miss another window if one came.
 
@@ -266,7 +255,6 @@ Jerome looked at his mother's face, searching for the young woman he had known o
 "And your brother?" DeShawn asked. "The one who died?"
 
 
----
 
 Jerome was surprised DeShawn knew about Marcus Jr. - the brother named after their father, born between Patricia and Jerome, who had died at four from an illness no doctor could diagnose. He was a shadow in the family's history, rarely spoken of, the grief that had never fully healed.
 
@@ -289,7 +277,6 @@ Jerome looked at him. This was new. DeShawn had always seemed uninterested in Je
 "Is that what journalism is? Finding people who want to tell stories?"
 
 
----
 
 "Part of it. The other part is understanding what the stories mean. Connecting them to something larger. Making people see how the small thing connects to the big thing."
 
@@ -310,7 +297,6 @@ This was more honesty than DeShawn had offered in years. Jerome tried not to rea
 The conversation was interrupted by a change in his mother's breathing - a hitch, a pause, something that made both of them turn to look. But she settled again, the rhythm resumed, and they relaxed slightly.
 
 
----
 
 "She's still here," DeShawn said.
 
@@ -331,7 +317,6 @@ The word seemed impossible. His mother had been the fixed point, the constant, t
 He was still holding her hand. He made himself let go.
 
 
----
 
 Patricia was crying, the grief she had held back releasing now that there was nothing left to wait for. Denise moved to comfort her, the two women who had never been close finding something shared in this moment. DeShawn stood at the foot of the bed, his face still, his eyes wet.
 
@@ -344,13 +329,12 @@ DeShawn stayed close to Jerome without speaking. This was its own kind of commun
 The body was prepared for transport. The room was cleared. The window that looked onto nothing would look onto nothing for the next occupant, the next family, the next vigil. Jerome stood in the doorway for a moment, looking back at the bed where his mother had died, trying to fix it in his memory. Then he turned and walked into the hallway, into the morning, into the rest of his life.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Jerome walked out of the hospice building into Baltimore's winter morning. The air was sharp, cold in a way that felt clarifying after the overheated stillness of that room. He stood on the sidewalk and breathed it in, feeling his lungs expand, feeling his body confirm that it was still alive, still working, still breathing without effort.
 
@@ -365,7 +349,6 @@ Memory. That was what he had spent his career working with, in a way. Journalism
 And yet.
 
 
----
 
 She had asked him if he did right. She had asked him if they listened.
 
@@ -386,7 +369,6 @@ DeShawn came to stand beside him, looking out at the parking lot, at the city be
 "I think about it too. About the stories I told. Whether I saw clearly, whether I got it right."
 
 
----
 
 "You got closer than most people."
 
@@ -411,7 +393,6 @@ Jerome nodded. This was what his mother had tried to tell him, what she had know
 "She was. In ways I didn't understand until just now."
 
 
----
 
 They stood together in the cold, father and son, the distance between them narrower than it had been in years, perhaps ever. Jerome felt something shifting, some barrier dissolving. It wasn't that their disagreements had been resolved or their differences bridged. It was simpler than that: they were here, together, in the presence of loss. And presence was its own kind of bridge.
 
@@ -430,7 +411,6 @@ The door opened again. Denise and Patricia emerged, Patricia on her phone making
 "Let's go back to the house," Jerome said. "There's a lot to do."
 
 
----
 
 But he didn't move immediately. He stood for another moment in the cold Baltimore morning, looking at the city his mother had loved, the city she had come to at eighteen and never left. She had built her life here, had raised her family here, had kept faith in the face of difficulties that Jerome could barely imagine.
 
@@ -451,7 +431,6 @@ Jerome looked at his family - Denise, Patricia, DeShawn, gathered together in gr
 He turned and walked toward them, back into his life, carrying his mother with him.
 
 
----
 
 
 

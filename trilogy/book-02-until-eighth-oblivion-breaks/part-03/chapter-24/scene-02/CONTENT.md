@@ -17,7 +17,6 @@ They took a cab back to Georgetown, the summer morning already warm, the city fu
 Ruth nodded. It was what the documents described, the displacement Jerome had told her about. Now it had a face—the faces her daughter saw every day.
 
 
----
 
 They cooked lunch together in Ruth's kitchen, the way they had done since Rebecca was old enough to hold a knife. Chopping vegetables, seasoning chicken, the physical rhythm of preparing food. Susan had taught them both to cook, had insisted that feeding people was a form of love that didn't require words.
 
@@ -40,7 +39,6 @@ Rebecca was quiet, processing. Then she said: "Is this dangerous for you?"
 "I think I have to." Ruth returned to the vegetables, the familiar motion of the knife. "The people you're seeing in your office—the ones losing their jobs, losing their homes—they deserve someone telling the truth about what's happening to them. Even if it doesn't change anything."
 
 
----
 
 "I think Mom S would be proud of you," Rebecca said. She always called Susan "Mom S" and Ruth "Mom R"—the vocabulary of a two-mother household, the small accommodations that made family work.
 
@@ -63,7 +61,6 @@ After lunch, they walked through Georgetown, the tree-lined streets familiar fro
 They walked in silence for a while, mother and daughter sharing space, sharing history, sharing the particular comfort of people who know each other well enough not to need words.
 
 
----
 
 They were back at the apartment, drinking tea in the living room, when Ruth's phone rang. She saw the caller ID: David.
 
@@ -90,7 +87,6 @@ Ruth glanced at Rebecca, who was watching with concern. "I can't discuss my prof
 Ruth took a breath, kept her voice level. "I see consequences every day, David. I see them in the law I study and in the country I live in. The question is whose consequences matter."
 
 
----
 
 "The people at Prometheus matter," David said. "The shareholders matter. The economy matters. You can't just—"
 
@@ -119,7 +115,6 @@ Rebecca ended the call and handed the phone back to Ruth. Her hands were shaking
 "You have nothing to apologize for." Rebecca sat down heavily. "He's been like this for years. Ever since he went into finance. It's like he forgot who we are."
 
 
----
 
 Ruth sat beside her daughter, the evening light fading through the windows. The call with David had left something broken in the room, a rupture that couldn't be easily repaired.
 
@@ -144,7 +139,6 @@ They sat in silence for a while. Ruth thought about her children, the two differ
 The apartment settled into evening quiet. Rebecca would leave tomorrow, return to New York and her impossible caseload. But tonight, at least, Ruth was not alone.
 
 
----
 
 They made dinner together, simpler than lunch, neither of them feeling like elaborate cooking. Pasta, salad, a bottle of wine Rebecca had brought from New York. They ate at the small table in the kitchen, the way they had when Rebecca was young and Susan was alive and the family was still whole.
 
@@ -167,5 +161,4 @@ Ruth squeezed her daughter's hand, holding tight to the connection. Tomorrow Reb
 It was enough to keep going.
 
 
----
 

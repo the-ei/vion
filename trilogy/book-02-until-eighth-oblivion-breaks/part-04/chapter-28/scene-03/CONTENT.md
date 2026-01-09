@@ -19,7 +19,6 @@ She was right, of course. She was usually right about practical matters, the thi
 She paused, her hand on the pantry door. "Nothing?"
 
 
----
 
 "Nothing. Calls drop. Texts say delivered but I don't trust it."
 
@@ -50,7 +49,6 @@ Denise looked at him, really looked, and he saw the strain beneath her calm. She
 "Go now," she said. "I'll keep listening to the radio. If anything changes, I'll come get you."
 
 
----
 
 Jerome stood, feeling the ache in his back from sitting hunched over the radio all morning. He looked at the legal pad, at the pages of notes that meant nothing without a way to share them, without a platform to give them meaning.
 
@@ -71,7 +69,6 @@ It was the absolution he needed, and he resented needing it, resented her for gi
 He kissed her on the cheek and left the apartment, taking the stairs up three floors to Mrs. Patterson's door.
 
 
----
 
 The door was ajar, propped open with a book, a thick hardcover that looked like it might have been a Bible. Jerome knocked on the frame.
 
@@ -96,5 +93,4 @@ Mrs. Patterson nodded, unsurprised. She had lived through enough to know that un
 "Would you like some tea?" she asked. "The stove still works. Gas, you know. Old-fashioned."
 
 
----
 

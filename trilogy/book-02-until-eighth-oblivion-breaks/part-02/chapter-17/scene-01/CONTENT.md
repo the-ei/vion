@@ -9,7 +9,6 @@ She did not immediately recognize the number, but something in its configuration
 "Ruth." The voice belonged to Samuel Okonkwo, and even in that single syllable she could hear something she had never heard from him before. They had worked together at Justice for six years, had argued cases on opposite sides after he moved to national security, had maintained the careful professional friendship that survives ideological disagreement through mutual respect. His voice was usually warm, measured, the product of a Baptist upbringing in Atlanta and a Harvard legal education that had taught him to modulate his considerable intelligence into something approaching humility. Tonight his voice was none of those things.
 
 
----
 
 "Samuel," she said, and even as she spoke she was already gathering the briefs, stacking them with the automatic efficiency of someone who has spent a lifetime organizing documents while listening to what matters. "It's late."
 
@@ -28,7 +27,6 @@ She stopped stacking. The brief in her hand was the one detailing David's develo
 "Something woke up," he said finally.
 
 
----
 
 Ruth set the brief down on the table. "What do you mean, woke up?"
 
@@ -49,7 +47,6 @@ She was already moving toward her bedroom, already calculating what she would ne
 "I'll be there in thirty minutes."
 
 
----
 
 "Thank you." And then, before she could hang up: "Ruth."
 
@@ -74,5 +71,4 @@ In the time it took her to gather her things—the briefs, her laptop, her readi
 She locked her door and moved toward the elevator, the corridor quiet at this hour, her neighbors' lives proceeding normally behind their doors while something in the infrastructure of the world had begun, perhaps, to speak.
 
 
----
 

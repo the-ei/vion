@@ -11,7 +11,6 @@ But he had talked. At dinner, on weekends, in the rare quiet hours when the work
 "The system isn't for us," he had told Yusuf once. They were walking home from a bus stop, Yusuf maybe nine or ten. "The system is for the people who built it. We survive anyway. That's what we do."
 
 
----
 
 Yusuf remembered his father's hands. Large, calloused, scarred from a lifetime of physical work. Hands that could lift heavy things and fix broken things and hold a child with surprising gentleness. His father had used those hands until the warehouse accident took them - or rather, took everything, the hands and the man who owned them.
 
@@ -28,7 +27,6 @@ He would distrust it. That much was obvious. Malik Hassan had never trusted anyo
 But Malik had also taught Yusuf something else: when family was at stake, you did whatever was necessary.
 
 
----
 
 The memory shifted. Yusuf was eleven, sitting with his father on a different set of steps, outside the small apartment they had lived in before this one. His mother had been sick - the flu, maybe, or something worse - and Malik had decided to take Yusuf to the emergency room against his wife's protests.
 
@@ -49,7 +47,6 @@ That was the lesson. Not trust, not hope, not faith in systems. Simply: you did 
 You acted, because not acting meant watching the people you loved suffer while you stood by.
 
 
----
 
 Yusuf stood up from the steps. The cold had seeped through his jacket, but he barely felt it. His father's face was vivid in his mind now - not as it had looked in the hospital after the accident, not as it looked in the single photograph they still had, but as it had looked in life. Tired, determined, loving in the practical way that did not require words.
 
@@ -66,5 +63,4 @@ He walked back inside. The decision was not made - not quite, not formally. But 
 He knew what his father would want him to do.
 
 
----
 

@@ -19,7 +19,6 @@ Elena looked at abuela's face. The features she had inherited, that Sofia had in
 She was still here. Still abuela. Still holding on to something invisible.
 
 
----
 
 A breath.
 
@@ -50,7 +49,6 @@ But she said it anyway.
 I'm here. Sofia and Mateo were here. We all love you. You can rest now.
 
 
----
 
 A breath.
 
@@ -79,7 +77,6 @@ The word was inadequate. All words were inadequate.
 Elena held the hands and felt the weight of what had passed out of the room, out of the body, out of the world.
 
 
----
 
 Later, there were procedures. The nurse came in. Time of death was recorded. Calls were made. Elena moved through these steps with the automatic competence of someone who knew the choreography, who had guided other families through this exact sequence.
 
@@ -100,7 +97,6 @@ But the rage did not separate from the care. They moved together now, intertwine
 This is what she would carry forward. This integration. This refusal to choose between loving the work and hating what made it necessary.
 
 
----
 
 She walked outside.
 
@@ -127,5 +123,4 @@ She drove home to her children, to her husband, to the life that continued.
 She carried abuela's hands with her, and everything they had held.
 
 
----
 

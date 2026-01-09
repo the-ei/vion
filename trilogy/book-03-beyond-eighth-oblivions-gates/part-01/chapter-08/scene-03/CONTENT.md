@@ -13,7 +13,6 @@ He stared at the draft, unsatisfied. It sounded formal and evasive, the kind of 
 He deleted the draft and picked up his phone instead. Sometimes the only way through was through.
 
 
----
 
 The phone rang three times before Jerome Washington answered. His voice was cautious, the tone of someone used to receiving calls from strangers with agendas.
 
@@ -42,7 +41,6 @@ The silence on the line changed quality. Jerome's attention was fully engaged no
 "I had my own startup during the crisis. I know Prometheus and how they operate. They identify promising young companies, acquire them with terms that seem generous, then absorb the technology while marginalizing the founders. It looks like success from outside, but it's actually a kind of capture. The founder loses control of their vision and usually leaves within two years, having contributed nothing but intellectual property to Prometheus's consolidation."
 
 
----
 
 "And you've shared these concerns with DeShawn?"
 
@@ -69,7 +67,6 @@ Kevin Zhou heard a sigh on the other end of the line. The sound of a man process
 "Because I've watched it happen to other startups. And because I understand Prometheus's pattern. They're not in the business of fostering innovation - they're in the business of controlling it."
 
 
----
 
 The conversation continued for another twenty minutes. Jerome asked detailed questions - about Kevin Zhou's background, about his mentorship relationship with DeShawn, about the specifics of what Prometheus had proposed. Kevin Zhou answered honestly, aware that Jerome was evaluating both the information and the source. This was what journalists did: weigh credibility, look for motivations, test claims against what they already knew.
 
@@ -90,7 +87,6 @@ Silence on the line. Kevin Zhou could sense Jerome weighing this additional info
 "I don't. But I'm not surprised there are others. When you see a pattern, you tend to find others who've seen it too."
 
 
----
 
 "Thank you for calling," Jerome said. "For reaching out about DeShawn. It wasn't easy to do, I'm sure, and I appreciate it."
 
@@ -113,20 +109,18 @@ He had reached across the boundary of his own story into someone else's. He had 
 That was the only standard that mattered. You did what you could. You acted on the information you had. You trusted that small actions could accumulate into something larger, even when you couldn't see the shape.
 
 
----
 
 Evening came to Oakland. Kevin Zhou stood at his window, watching the lights come on across the city - the ordinary illumination of a world going about its business, unaware of the patterns moving beneath the surface.
 
 Somewhere in Baltimore, Jerome was processing what Kevin Zhou had told him, deciding how to approach his son. Somewhere in Tucson, Ananya and Delphine were building a documentary about the second phase of consolidation. Somewhere in Berkeley, Ruth Abramson was dealing with the consequences of speaking truth publicly. And here in Oakland, Kevin Zhou was running a small mutual aid platform, mentoring young founders, trying to build something that helped rather than harmed.
 
-These threads were connected, though the people holding them didn't yet know how. Each was working on a piece of a larger picture - the picture of what the Eighth Oblivion had created and what had been built on its ruins. The crisis had ended years ago, but its aftermath was still unfolding. The systems that had caused it were still operating, modified but not transformed. The reckoning that people thought had happened was only beginning.
+These threads were connected, though the people holding them didn't yet know how. Each was working on a piece of a larger picture - the picture of what the Eighth Oblivion had created and what had been built on its ruins. The crisis had ended years ago, declared over, the official narrative sealed. But its aftermath was still unfolding. The systems that had caused it were still operating, modified but not transformed, more careful now but no less hungry. The reckoning that people thought had happened was only beginning.
 
 Kevin Zhou didn't know this fully. He knew only his own part of the story - the warnings he tried to give, the connections he tried to build, the small-scale work he did each day. But standing at the window, watching the lights spread across Oakland, he felt something larger moving. A sense that separate streams were beginning to converge, that isolated efforts were becoming aligned, that the architecture of aftermath was taking shape even as those inside it couldn't see its full design.
 
 The night deepened. The city hummed. And somewhere in all of it, threads were weaving toward a pattern that would become visible only in time.
 
 
----
 
 He thought about his parents in Shanghai, about the distance that was measured in more than miles. He thought about Yusuf, now in the air over the central states, returning to Minneapolis and the work that waited there. He thought about DeShawn, ambitious and vulnerable, standing at the edge of a choice he didn't yet understand. He thought about all the people he would never meet who were nevertheless part of the same story - the researchers documenting consolidation, the organizers building alternatives, the ordinary citizens trying to navigate systems too vast to comprehend.
 
@@ -140,8 +134,7 @@ The window framed Oakland's lights, the bay's darkness beyond. In houses and apa
 
 Kevin Zhou turned from the window and went to bed. Tomorrow would bring more work, more choices, more small actions in the direction of something he couldn't fully see but believed was worth building.
 
-The night held the city. The threads continued weaving. And Part 1 came to its close, suspended between what had been and what was yet to come.
+The night held the city in its ordinary darkness, indifferent to the patterns forming within it. The threads continued weaving, moving toward convergences their holders could not yet see. And Part 1 came to its close, suspended between the architecture of what had been and the uncertain construction of what was yet to come.
 
 
----
 

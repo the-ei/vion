@@ -15,7 +15,6 @@ The fury. The sense of injustice that drove her. The radicalization, if that was
 Sofia had absorbed it. Had made meaning from it. Had decided it was something to be proud of.
 
 
----
 
 The presentations continued. Mateo's came midway through the third-graders' section, a simpler affair with his drawings and his straightforward narrative: we moved from Texas, Dad builds houses, Mom helps sick people, the end. He got polite applause and returned to his seat with the uncomplicated satisfaction of a child who had completed an assignment.
 
@@ -44,7 +43,6 @@ The question cut through Elena's composure. How did Sofia know? How did she unde
 "A little," Elena admitted. "But that's my fear, not yours. You told the truth. That's brave."
 
 
----
 
 They walked to the car together, the whole family, Mateo chattering about a friend's presentation that had included a magic trick. Daniel carried Sofia's poster board under his arm, the photographs of their family visible to anyone who passed. A few other parents nodded at Elena, their expressions carrying something new—recognition, perhaps, or solidarity, or just the acknowledgment that comes when someone has seen you more clearly than before.
 
@@ -69,7 +67,6 @@ Elena had said eighteen. That was what she had told Sofia, and it was what she h
 Sofia nodded, accepting this. She did not push for more, did not demand immediate access. She had patience, this child, a quality Elena sometimes lacked.
 
 
----
 
 They stopped for lunch at a diner near the house, the kind of place that served pancakes all day and put too much ice in the water. It was a family tradition after school events, a small celebration that required no planning or expense.
 
@@ -100,7 +97,6 @@ Sofia chewed her pancake slowly, considering.
 "A little. But I wanted to be honest. You always say to tell the truth, even when it's hard. And this is the truth about our family."
 
 
----
 
 Elena felt the weight of this. The truth about our family. The narrative that Sofia had constructed from years of observation, from overheard conversations, from the ambient texture of growing up in a household where injustice was a regular topic.
 
@@ -123,7 +119,6 @@ Elena had no answer. She had tried to shield her children from the weight of her
 Elena laughed—a surprised sound, half sob—at the clarity of her daughter's observation.
 
 
----
 
 "I do get tired," she admitted. "Sometimes I wonder if it's worth it. The fighting, I mean. Whether anything changes."
 
@@ -148,7 +143,6 @@ And maybe—this was the part Elena had not expected—maybe that was okay. Mayb
 Sofia had inherited the fight. She had made it hers.
 
 
----
 
 That night, after the children were in bed, Elena and Daniel sat on the porch of their inherited house. The Phoenix evening was cool enough to be bearable, the sky fading from orange to purple to the particular darkness that came from too many streetlights.
 
@@ -179,7 +173,6 @@ Elena nodded. This was the uncertainty of parenthood: every choice had consequen
 "No. But she watched you live it. That's how most transmission happens, I think. Not through lessons but through watching."
 
 
----
 
 The conversation drifted into comfortable silence. They had been married long enough to sit without speaking, to share space without the need to fill it. Elena thought about the letter she was still writing—the one to Sofia and Mateo, the one she had started in the weeks after her abuela's death, the one that kept growing as she found more to say.
 
@@ -206,5 +199,4 @@ But acceptance. Of who she was. Of what she had transmitted. Of the daughter who
 That was inheritance done right. Not control, but trust. Not repetition, but transformation.
 
 
----
 

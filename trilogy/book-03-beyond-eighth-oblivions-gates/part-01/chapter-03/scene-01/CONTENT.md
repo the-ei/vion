@@ -11,7 +11,6 @@ Nods around the table. They always did the reading - these were Berkeley Law stu
 The discussion that followed was sharp, well-researched, tactically precise. These students knew how to argue. They knew how to cite precedent and distinguish cases and build logical structures that could withstand scrutiny. What Ruth wasn't sure they knew was why any of it mattered.
 
 
----
 
 She listened as a student named Christopher argued that algorithmic systems should be held to a higher standard than human decision-makers, precisely because their opacity made them more dangerous. Another student, Fatima, countered that opacity was a red herring - the real issue was accountability, and you could have accountable systems without understanding their internal mechanisms. A third student, Daniel, split the difference with a procedural argument about how the burden of proof should shift when automated systems were involved.
 
@@ -28,7 +27,6 @@ Maya Singh - a second-year student with sharp eyes and a habit of asking questio
 "They adjusted," Ruth agreed. "To meet the letter of the requirements while continuing to do exactly what they had been doing before. The frameworks held. And they held nothing."
 
 
----
 
 The room had gone quiet in a different way now. Not the silence of students waiting for the next prompt, but the silence of people who sensed that something real was being said.
 
@@ -49,7 +47,6 @@ The question Ruth had been avoiding. The question she asked herself every semest
 "Does it? Or does it sound like being honest about the situation?"
 
 
----
 
 The seminar continued for another hour, but something had shifted. The students were still sharp, still tactical, but there was a different quality to their questions now - less about winning arguments and more about what the arguments were for. Ruth felt herself saying things she hadn't planned to say, departing from the syllabus in ways that made her uncomfortable even as they felt necessary.
 
@@ -74,7 +71,6 @@ Maya nodded slowly, absorbing this. "My father worked for one of the companies t
 "I think maybe theater has value. If you're watching carefully enough to see through it."
 
 
----
 
 After Maya left, Ruth sat alone in the emptied seminar room. The campus was visible through the windows, students crossing the grass in patterns that looked random but were probably algorithmic - the paths optimization of habit and convenience. Everything was algorithmic now. Everything was data.
 
@@ -97,7 +93,6 @@ Susan would have known what to say. Susan always knew.
 But Susan wasn't here, and Ruth had to find the words herself.
 
 
----
 
 The drive from campus to her house in the Berkeley hills took twenty minutes on a good day, winding up roads that offered views of the bay and the San Francisco skyline beyond. Ruth had lived in this house with Susan for eighteen years, had grieved in it for six, had found a way to continue that was neither happiness nor its opposite but something more like equilibrium.
 
@@ -118,5 +113,4 @@ Maybe it was time to stop being careful. Maybe the students deserved more than c
 She opened her notes for the lecture and began, for the first time, to consider what she actually wanted to say.
 
 
----
 

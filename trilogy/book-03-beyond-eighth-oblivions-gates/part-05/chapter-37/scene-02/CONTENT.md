@@ -21,7 +21,6 @@ They sat together in the quiet, watching his mother breathe. The monitors beeped
 Jerome's sister Patricia arrived next, still wearing her work lanyard, a social worker who had spent thirty years in the city's child welfare system. She was older than Jerome by two years, had stayed in Baltimore when he had left for DC and New York and wherever the stories took him, had been the one to find their mother an aide when the dementia began, had managed the long decline while he visited when he could.
 
 
----
 
 "Traffic on 95 was a nightmare," Patricia said, but she was already moving toward the bed, toward their mother, taking the thin hand in her own. "Hey, Mama. It's Trisha. I'm here."
 
@@ -40,7 +39,6 @@ Patricia looked at Jerome. "I heard she woke up. Talked to you."
 The tension in the room was old and familiar, the sibling friction of unequal burdens borne. Jerome had spent his career chasing stories across the country and the world while Patricia stayed rooted, grounded, present for their mother in ways he had not been. He had sent money and made visits and told himself that was enough, and perhaps it was enough, and perhaps it wasn't, and it was too late now to change any of it.
 
 
----
 
 DeShawn arrived last, just before nine, looking rumpled from the flight from San Francisco. He stood in the doorway for a moment, taking in the scene: his grandmother in the bed, his father and aunt on either side, his stepmother in the corner. Jerome saw him register the gravity of it, the imminence.
 
@@ -61,7 +59,6 @@ DeShawn shrugged. "Some things are more important than work."
 This was a barb, possibly, or possibly just a statement. Jerome had not always made that choice. Had missed recitals and games and birthdays, had been on assignment when Denise had needed him, had prioritized the story over the presence. DeShawn had grown up with that, had internalized it in ways Jerome couldn't fully see, had become someone who worked in tech with an intensity that might have been learned from watching his father.
 
 
----
 
 "How's work?" Jerome asked, because it was something to say, a bridge across the complicated space between them.
 
@@ -86,7 +83,6 @@ DeShawn was quiet for a moment. Then he nodded, once, and looked back at his gra
 The family sat together in the silence, watching her breathe.
 
 
----
 
 Later, when the hospice staff came to check vitals and adjust the morphine drip, the family moved to the small waiting area down the hall. Someone had brought coffee, Denise probably, and they sat in the uncomfortable chairs drinking it, the caffeine necessary but insufficient against the exhaustion.
 
@@ -107,5 +103,4 @@ She had believed in him when no one else would have. Had scraped together money 
 The coffee grew cold. The night deepened. The family waited.
 
 
----
 

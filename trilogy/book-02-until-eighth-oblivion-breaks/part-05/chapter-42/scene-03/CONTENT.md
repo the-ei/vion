@@ -11,7 +11,6 @@ There was Jamal, who had organized the food distribution during the worst of the
 Yusuf found himself nodding. A year ago he would have been uncomfortable with this kind of sentiment, would have dismissed it as naive or performative. Now he understood it differently. Not naive - earned. These people had proven their commitment through action, through long hours and hard work and the willingness to help strangers who became neighbors who became something like kin.
 
 
----
 
 Amina was across the room, talking animatedly to a group of people her own age. Yusuf watched his sister with something like wonder. Six months ago she had been withdrawn, anxious, her college dreams threatened by the same financial pressures that had nearly crushed their family. Now she was animated, gesturing broadly, her face lit up as she described something that made the others laugh.
 
@@ -42,7 +41,6 @@ Fatima studied his face with the particular attention of mothers everywhere. "Yo
 "Am I not allowed to smile?"
 
 
----
 
 "You're allowed to smile. I just haven't seen you do it in a while."
 
@@ -63,7 +61,6 @@ Yusuf let the music wash over him, listening the way he always listened: not jus
 But something was different now. He was not just receiving the music; he was thinking about what he would make. About the piece that was forming in his head, the structure that was emerging from months of fragments.
 
 
----
 
 He typed a reply to Kevin: "Happy New Year. Thinking about it too. Let's talk soon."
 
@@ -92,5 +89,4 @@ Around them, the community celebrated. The music started again, louder now, and 
 Not hope. That word was too simple. But possibility. The sense that the future was not determined, that it could be shaped by people working together.
 
 
----
 

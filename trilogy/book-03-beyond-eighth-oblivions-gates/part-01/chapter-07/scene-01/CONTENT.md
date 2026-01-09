@@ -11,7 +11,6 @@ The case they were briefing - Henderson v. Prometheus Technologies - had reached
 "We need to strengthen the nexus between regulatory intent and private remedy," Ruth said. "The legislative history is clear that Congress intended these frameworks to have teeth. The question is whether that intent creates enforceable rights or merely advisory language."
 
 
----
 
 They worked through the morning, refining arguments, identifying weaknesses, imagining the counter-positions that opposing counsel would deploy. The brief was due in two weeks, but Ruth wanted it perfect before submission - not just legally sound but persuasive, a document that forced the justices to confront what they were deciding.
 
@@ -30,7 +29,6 @@ Her phone vibrated. David. She let it go to voicemail, then felt immediately gui
 "Let's take fifteen," she said. "I need to make a call."
 
 
----
 
 She stepped into the hallway, leaning against the window that overlooked the campus. Students moved below, their concerns distant and specific: exams, relationships, the ordinary anxieties of young adulthood. Ruth remembered being that young, before the law had become her life, before Susan, before the decades of decisions that had accumulated into who she was now.
 
@@ -57,7 +55,6 @@ Ruth felt her jaw tighten. "Are you asking me to withdraw?"
 "From where I sit, the distinction is theoretical."
 
 
----
 
 Ruth looked out the window, watching a group of students cross the quad in animated discussion. She thought about Susan, about what she would have said to David's request. Susan had never accepted practical arguments for ethical retreat. She would have told David that if his career couldn't survive his mother's principles, perhaps his career needed examination.
 
@@ -82,7 +79,6 @@ She returned to her office, where her colleagues waited with expectant faces.
 "Family," Ruth confirmed. "Let's get back to work."
 
 
----
 
 The afternoon passed in concentrated legal labor. Ruth found herself working with renewed intensity, as if her argument with David had sharpened something inside her. The brief took shape - tighter, clearer, more assertive than before. She channeled her frustration into precision, her disappointment into advocacy.
 
@@ -103,7 +99,6 @@ Her colleagues departed, leaving Ruth alone in her office with the accumulated d
 She thought about what David had said. About consequences. About currency. He wasn't wrong that her choices affected him; that was the nature of family, the web of connection that meant no one acted entirely alone. But he was wrong to think that web should constrain her conscience. If anything, it was the reverse: the web was what made conscience matter. She acted for something larger than herself, which included her son even when he opposed her.
 
 
----
 
 She picked up the brief draft and read through it once more. The arguments were sound, the precedents well-marshaled, the narrative compelling. But reading it now, after the conversation with David, she noticed something she had missed before: a caution in the prose, a hedging of conclusions. The brief argued that the court could find for the plaintiffs within existing doctrine. But it stopped short of saying what Ruth actually believed - that the existing doctrine was inadequate, that the frameworks themselves had been designed to fail, that the whole apparatus of post-crisis reform was a kind of elaborate performance that allowed fundamental questions to go unasked.
 
@@ -120,5 +115,4 @@ This was not academic anymore. This was becoming something else entirely - somet
 But she was already paying costs. She might as well pay for something that mattered.
 
 
----
 

@@ -17,7 +17,6 @@ The phone buzzed again.
 His thumb hovered over the notification. Five hundred forty-seven. When his father was alive, they had talked about credit scores like abstract puzzles, numbers that mattered to a world neither of them fully inhabited, a game other people played. Now those numbers were the walls of Yusuf's cage, and the walls were closing in.
 
 
----
 
 Another buzz.
 
@@ -36,7 +35,6 @@ The poke bowl was ready. He drove it to a high-rise downtown, rode the elevator 
 Yusuf smiled the smile he had perfected. "Have a good evening."
 
 
----
 
 Back in the car, he checked the app. His rating had dropped. Four point two stars, down from four point five last week. The algorithm's punishment was already beginning, the invisible hand pressing him down into the lower tier where the good shifts went to others and the complaints accumulated.
 
@@ -49,7 +47,6 @@ Two paths Yusuf had not taken. But his own path didn't feel like escape. It felt
 He finished the shift at eight, pulled into a strip mall parking lot, and sat with the engine running. The math wasn't complicated. At his current rate, paying down the collection account would take a year. During that year, his credit would stay destroyed. Without credit, no apartment. Without an apartment, he would stay in his mother's place. At twenty-seven, still in the room where he had been a child.
 
 
----
 
 He scrolled through his contacts. Names of people who had drifted away, who had their own lives, their own problems. Numbers he had collected during the crisis years, connections that had mattered then and meant nothing now.
 
@@ -74,7 +71,6 @@ It rang twice.
 The question was so simple and so unanswerable that Yusuf almost laughed.
 
 
----
 
 "I've been better," he said. "I've been a lot better."
 
@@ -105,7 +101,6 @@ Yusuf leaned his head against the headrest and closed his eyes. The parking lot 
 "Because I've been thinking about that time a lot lately," Kevin said. "About what it meant. The things we learned, the skills we developed. Some of us got out in ways that were respectable. Some of us didn't. But we all came through something together."
 
 
----
 
 "You didn't need the skills I developed," Yusuf said. "Your skills were already worth something."
 
@@ -132,5 +127,4 @@ The man with the dog had disappeared. The parking lot was empty now, just Yusuf 
 He hung up and sat in the silence. The cascade hadn't stopped. But something else had begun, something he couldn't name yet, something that might or might not be hope.
 
 
----
 

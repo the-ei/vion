@@ -13,7 +13,6 @@ Yusuf thought about this. It matched something he had felt but not articulated: 
 "Because the safeguards slowed things down. Because they introduced friction. Because in a crisis, efficiency feels more important than ethics. So the privacy protections went away. The consent requirements went away. The human oversight went away. And suddenly our systems were doing things we had explicitly designed them not to do."
 
 
----
 
 "So the problem is the people, not the technology."
 
@@ -32,7 +31,6 @@ Yusuf took a sip of his coffee. It was cooling now, the heat of their conversati
 The waitress came by and refilled their coffee. Neither of them had ordered food. Neither of them had looked at the menus. The conversation had become its own sustenance.
 
 
----
 
 "So what are you saying?" Yusuf asked. "That we should go back to some kind of pre-technological state? Because that's not possible. You can't unring the bell."
 
@@ -47,7 +45,6 @@ Yusuf sat with this. The warmth of the diner wrapped around them, the condensati
 "During the crisis," he said slowly, "I felt something break. Not just the systems. Something in me. The way I understood the world. The way I understood my place in it. And for months afterward, I thought that breaking was the worst thing that had happened. The loss, the grief, the fear. But now. Now I wonder if what broke was something that needed to break. Something that was keeping me from seeing clearly."
 
 
----
 
 Kevin was watching him intently. "What did you see?"
 
@@ -68,7 +65,6 @@ The waitress refilled their cups again. Yusuf wondered how long they had been si
 "The people I worked with," Kevin said quietly, "most of them still think we can go back. Fix the bugs, patch the vulnerabilities, restore the old systems. They don't understand that the old systems were the vulnerability. That building something better means building something fundamentally different."
 
 
----
 
 "Do you think you can?"
 
@@ -91,5 +87,4 @@ Neither of them spoke for a long moment. The diner hummed around them - the clin
 Kevin smiled. It was the first real smile Yusuf had seen from him. "That's exactly what I've been trying to figure out."
 
 
----
 

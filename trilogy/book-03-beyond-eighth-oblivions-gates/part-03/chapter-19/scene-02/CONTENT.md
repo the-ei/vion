@@ -19,7 +19,6 @@ They walked together down the familiar hallway. Jerome noticed his son's reactio
 The words landed flat, professional. Somewhere between childhood and now, they had lost the ability to speak to each other without negotiation.
 
 
----
 
 In his mother's room: she was awake, sitting in her chair, the Pulitzer certificate in her hands. She looked up when they entered and smiled.
 
@@ -48,7 +47,6 @@ DeShawn glanced at Jerome. Something flickered in his expression.
 "He's done important work," DeShawn said carefully.
 
 
----
 
 "But you don't do the same kind of work."
 
@@ -75,7 +73,6 @@ Jerome's hands tightened on the arms of his chair. This was not the time. Not th
 His mother was watching them, her eyes moving from face to face like a spectator at a tennis match. She understood that something was happening, even if the specifics escaped her.
 
 
----
 
 "Exposure matters," Jerome said. "People can't fight what they don't know about."
 
@@ -104,7 +101,6 @@ Silence. His mother had picked up the Pulitzer certificate again and was studyin
 "You're both so angry," she said quietly.
 
 
----
 
 They both turned to look at her. Her eyes were clear, focused—one of her lucid moments arriving at exactly the worst time.
 
@@ -127,7 +123,6 @@ His mother set down the certificate and reached for both their hands—Jerome's 
 Then she closed her eyes, the effort of the moment having exhausted her, and within seconds she was asleep, still holding their hands, anchoring them to each other through her failing body.
 
 
----
 
 They stood there for a long moment, unwilling to break the connection.
 
@@ -164,7 +159,6 @@ Jerome nodded. "I'd like that."
 DeShawn leaned down and kissed his grandmother's forehead, then left, his expensive shoes silent on the institutional floor.
 
 
----
 
 Jerome stayed with his mother until the afternoon aide came to check vitals. She woke briefly, asked if DeShawn was still there, and seemed satisfied when Jerome told her he would be back tomorrow.
 
@@ -195,5 +189,4 @@ In the hallway, Denise took his arm.
 They walked out together, the familiar route through the facility, past the residents and the aides and the ordinary tragedy of aging. Tomorrow DeShawn would come back. Tonight they would have dinner. Something had shifted, though Jerome could not yet name what it was.
 
 
----
 

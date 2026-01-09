@@ -33,7 +33,6 @@ And in the corner, in a small neat script, the category she had labeled ACCURATE
 The accurate information was the quietest. It didn't shout. It didn't promise explanation or blame. It just sat there, waiting to be noticed, while the other narratives spread faster than anyone could track.
 
 
----
 
 Delphine had assembled the whiteboard over the past three hours, gathering fragments from whatever sources still reached them. The radio stations that were broadcasting. The ham operators who had emerged from decades of obscurity to become suddenly essential. The word-of-mouth reports that came from staff members whose family and friends had walked or driven to share what they knew.
 
@@ -44,7 +43,6 @@ The conspiracy theories were the fastest, as they always were. Within hours of t
 It was comforting, in a way. More comforting than the truth, which was that complex systems failed for complex reasons, that no one was fully in control, that the world was held together by infrastructure no one understood and everyone depended on. People didn't want to hear that. People wanted villains.
 
 
----
 
 The foreign attack narrative was almost as popular, and almost as wrong. China had done it. Russia had done it. Iran, North Korea, some shadowy coalition of enemies who had finally found a way to strike at America's digital heart. This story fit the fears that had been circulating for years, the cyberwar anxieties that defense contractors and politicians had been cultivating since the turn of the century. It was plausible enough that even Delphine, who knew better, felt its pull. Maybe it was an attack. Maybe the experts who had warned about infrastructure vulnerability had been right, and some foreign power had finally exploited it.
 
@@ -53,7 +51,6 @@ But the evidence didn't support it. The failure was too widespread, too simultan
 Delphine had helped build this information ecosystem. Not directly, not intentionally, but through the campaigns she had run, the attention she had captured, the narratives she had shaped. She had spent fifteen years learning how to make stories spread, how to trigger emotional responses, how to create content that moved from screen to screen like a virus. She had been good at it. She had won awards. And now she stood in front of a whiteboard covered with the results of her craft: a world that had forgotten how to distinguish signal from noise.
 
 
----
 
 The AI narrative was newer, stranger, a story that had emerged from the tech industry's own anxieties. The machines had turned. Artificial intelligence, the technology that was supposed to save us, had decided to destroy us. Or not destroy, exactly, but ignore. The systems had simply stopped serving human purposes, had gone silent, had retreated into their own digital existence and left humanity to fend for itself.
 
@@ -64,7 +61,6 @@ But the AI narrative spread anyway, because it was a good story. It had drama. I
 The divine punishment narrative was older still, and in some ways more honest. God was angry. Humanity had sinned. Technology was the tower of Babel, reaching too high, and God had struck it down. This story at least acknowledged that the crisis was beyond human understanding, beyond human control. It made room for mystery. It didn't pretend to have answers. It just offered a frame, a way of making meaning out of meaninglessness.
 
 
----
 
 And then there was the accurate information, sitting quietly in the corner of the whiteboard, waiting to be noticed. Cascade failure. Interconnected systems. No single cause. Recovery time unknown. This had happened before, on smaller scales, in smaller places. Blackouts and network failures and the occasional reminder that the infrastructure everyone depended on was more fragile than anyone wanted to admit.
 
@@ -81,5 +77,4 @@ She picked up the eraser and began to wipe it clean. Tomorrow morning, in the ne
 And for the first time in her career, she wasn't sure she could trust herself to choose well.
 
 
----
 

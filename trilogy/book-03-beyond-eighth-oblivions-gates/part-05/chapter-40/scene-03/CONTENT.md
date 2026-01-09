@@ -9,7 +9,6 @@ Yusuf found his mother's face in the crowd. She was watching intently, her expre
 The song ended. Applause.
 
 
----
 
 The second song was faster, angrier, the frustration of years condensed into three minutes of sound. Yusuf felt it move through him - the rage at what the platforms had done to him, the recognition that the platforms were just the latest face of something older, the exploitation that had killed his father and would continue killing unless something changed.
 
@@ -22,7 +21,6 @@ He thought about what each song had meant when he wrote it. "Night Shift" came f
 The songs moved through him now, one after another, the setlist he had arranged to tell a story: from precarity through anger through something approaching hope. The audience moved with him, their bodies responding to rhythms, their faces visible in the stage light.
 
 
----
 
 At some point - he couldn't say when - the self-consciousness fell away. There was no more Yusuf-watching-himself-perform, no more anxiety about how it was being received. There was only the music, the sound, the flow of expression through his body into the room.
 
@@ -37,7 +35,6 @@ The song ended. The applause swelled. Yusuf leaned into the microphone.
 "This next one is for my mother," he said. "Who taught me what survival really means."
 
 
----
 
 He had written the song years ago, in a moment of clarity about what his mother had sacrificed. It wasn't a sentimental song - he didn't do sentimental - but it was honest about the weight she had carried, the meals she had skipped so her children could eat, the nights she had worked so they could stay in school. The song was called "What I Owe," and he had never played it live before, had saved it for a moment that mattered.
 
@@ -54,7 +51,6 @@ Yusuf let the last chord ring out and fade. The silence that followed was its ow
 Then the room erupted, the crowd rising to their feet, the sound of their appreciation washing over the stage. Yusuf stood in the light and let it wash over him, this recognition he had earned through all the years of trying.
 
 
----
 
 The rest of the set passed in a kind of flow state, each song arriving when it needed to, the band locked in together, the audience responsive and present. By the time they reached the final song, the room had become a single organism, breathing together, moving together, transformed by the shared experience of live music.
 
@@ -71,7 +67,6 @@ This was what survival had been for. Not the acclaim, though that was gratifying
 He bowed. The lights came down. The performance was over.
 
 
----
 
 Backstage, the band embraced in the particular way of musicians after a good show, the relief and joy and exhaustion mingled together. Someone handed Yusuf water, and he drank it in gulps, his throat raw from singing, his body beginning to register the effort the performance had required.
 
@@ -96,5 +91,4 @@ Yusuf handed his guitar to Leo for safekeeping and walked toward the green room,
 His mother was waiting. That was the only thing that mattered.
 
 
----
 

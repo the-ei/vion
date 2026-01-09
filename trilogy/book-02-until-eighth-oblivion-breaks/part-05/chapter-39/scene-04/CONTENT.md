@@ -11,7 +11,6 @@ Mr. Gutierrez with his dehydration and his kind eyes. Mrs. Reyes with the diabet
 She had not saved all of them. She had not even saved most of them. She had done what she could with what she had, and what she had was never enough.
 
 
----
 
 She found herself at a 24-hour diner, its neon sign buzzing against the darkness. Through the window she could see a handful of patrons: a man in work clothes eating eggs, a young couple sharing a plate of fries, and in the corner booth, a woman crying.
 
@@ -26,7 +25,6 @@ The cold sharpened her thoughts, clarified them in ways that warmth never could.
 But they were not separate. They were connected.
 
 
----
 
 The elderly man who could not afford his medication. The woman detained for delivering insulin. The young woman who died because they did not have the right equipment. Each of them had arrived at the clinic already damaged by something larger than their individual circumstances, already harmed by systems that made health a commodity and care a scarcity.
 
@@ -41,7 +39,6 @@ She walked past more houses, more closed businesses, more evidence of a world tr
 Something was crystallizing. Not a plan, not a politics, but a clarity. She had seen what the system did when it was stressed. She had seen who it protected and who it abandoned. She could not unsee it.
 
 
----
 
 She thought about Sofia's drawings. The red sky. The stick figures lying down. The figure in the white coat spotted with blood. Her daughter had imagined Elena at the center of disaster, saving who could be saved, witnessing who could not be. And Sofia was right - that was where Elena had been, that was what she had done. But what had any of it changed?
 
@@ -60,5 +57,4 @@ She turned back toward the house. Dawn was approaching, the sky lightening in th
 She did not know what came next. But she knew she could not go back to what she had been doing before. The crisis had broken something in her, and in the breaking, something new had begun to form.
 
 
----
 

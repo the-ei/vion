@@ -9,7 +9,6 @@ The problem was that she didn't have any.
 Her notes were spread across the hotel desk in the particular disorder she had developed over forty years of legal work: legal frameworks, international comparisons, regulatory proposals that had been floated and shelved and floated again. She had been preparing for this testimony for two weeks, consulting with experts, reviewing the literature, trying to find in the law some tool adequate to the moment. And the conclusion she kept reaching was the one she couldn't say in a Senate hearing: the law was too slow, and the technology was too fast, and the gap between them was where everything was falling through.
 
 
----
 
 Her phone rang. Jennifer Martinez, her aide for this trip, calling from two floors down.
 
@@ -34,7 +33,6 @@ A pause on the line. Jennifer was young—early thirties—and still believed in
 After she hung up, Ruth returned to the window. The light was fading over the capital, the monuments lit up in the distance, the architecture of democracy glowing in the dusk like a postcard from another century. She had believed in these institutions once. She had dedicated her life to them—had risen before dawn for decades to serve them, had missed Rebecca's school plays and David's baseball games in their name. Now she wasn't sure what they were for anymore.
 
 
----
 
 The phone rang again. This time it was David, her son, calling from Manhattan where he worked in finance.
 
@@ -71,7 +69,6 @@ Ruth closed her eyes. He wasn't wrong. Their conversations had become predictabl
 "Is there a difference, from where you sit?"
 
 
----
 
 She didn't answer immediately. The question was fair, even if his asking it felt unfair. Ruth had spent decades arguing for the law's ability to shape technology, to channel innovation toward public good. But the gap between that belief and reality had grown impossible to ignore. Technology moved too fast. Power accumulated too quickly. The tools of democratic governance—hearings, legislation, oversight—operated on a timeline that was now measured in years while the things they were supposed to govern changed in weeks or days.
 
@@ -102,7 +99,6 @@ After David hung up, she sat on the edge of the hotel bed—it was too firm, the
 Susan had considered the question seriously, as she considered everything seriously—the furrow between her brows that Ruth had loved from the first time she saw it. "It matters until it doesn't," she had said. "And then you find something else."
 
 
----
 
 Ruth returned to her notes. She had to deliver something tomorrow; she couldn't simply stand before the committee and say that the law was inadequate and she had no answers. That wasn't how these things worked. That wasn't what they were paying for.
 
@@ -125,7 +121,6 @@ Susan would have said she was being defeatist. Susan would have said that doing 
 She made herself coffee from the hotel room's inadequate machine. The taste was bitter and thin, but it was late and she needed to stay awake. Tomorrow she would perform. Tonight she had to prepare.
 
 
----
 
 At 9 PM, Jennifer knocked on her door with a tablet full of last-minute briefing materials. Ruth invited her in, and they worked together at the desk, reviewing the profiles of the committee members, anticipating questions, preparing responses.
 
@@ -154,13 +149,12 @@ Jennifer absorbed this, her expression shifting from hope to something more comp
 "No. It isn't." Ruth turned back to the briefing materials. "But it's honest. And honesty is all I have to offer at this point."
 
 
----
 
 After Jennifer left, Ruth stayed up for another hour, reading through the Prometheus announcement again, the technical documentation, the analysis pieces that had proliferated in the month since ATLAS-7 had been revealed. She was trying to understand something she could feel but couldn't quite articulate—the shape of a change so large that even her decades of experience provided no frame for it.
 
 Recursive self-improvement. A system that could make itself smarter. She understood the concept intellectually, but understanding didn't translate into knowing what to do about it. What legislation could address something that might evolve faster than the legislative process? What oversight could keep pace with something that might soon outpace human oversight itself?
 
-She thought about the people she would be testifying for—not the senators, but the public beyond them, the millions of Americans who were just beginning to understand what was happening. They deserved more than the performance of concern. They deserved actual protection. But the law she had spent her life serving was revealing itself as a tool from another era, adequate for problems that moved at human speeds, useless for problems that didn't.
+She thought about the people she would be testifying for—not the senators, who already had their positions and their donors and their talking points, but the public beyond them, the millions of Americans who were just beginning to understand what was happening, who were scrolling past headlines about AI between headlines about weather and celebrity divorces. They deserved more than the performance of concern. They deserved actual protection. But the law she had spent her life serving was revealing itself as a tool from another era, adequate for problems that moved at human speeds, useless for problems that didn't.
 
 The view from her window showed the Capitol dome, lit up against the night sky. Tomorrow she would sit in one of its hearing rooms and do her best. She would perform the ritual of democratic oversight, knowing it was a ritual more than an action. She would answer questions carefully and leave knowing that the answers barely mattered.
 
@@ -169,5 +163,4 @@ Susan's voice echoed in her memory: *It matters until it doesn't. And then you f
 Maybe, Ruth thought, it was time to start looking for something else.
 
 
----
 

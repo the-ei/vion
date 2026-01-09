@@ -15,7 +15,6 @@ Kevin Zhou considered how to answer. The late-night conversation with Blackwell 
 "He said the human species doesn't deserve to survive."
 
 
----
 
 Jerome stopped walking. They were in the middle of a crosswalk, the signal about to change, but he stood still as if frozen by what Kevin Zhou had said.
 
@@ -38,7 +37,6 @@ They reached the other side of the street. Jerome's face had taken on a differen
 "I don't know. I've tried. The arguments I can make are all based on human values - and if you don't share those values, the arguments don't land."
 
 
----
 
 They walked in silence for a while, processing. The streets of North Beach passed around them - the cafes, the bookstores, the particular texture of a neighborhood that had somehow retained identity despite the pressures surrounding it.
 
@@ -57,7 +55,6 @@ Jerome looked out at the Bay, visible between buildings as they approached the w
 "That's the crux," Kevin Zhou said. "For the accelerationists, attachment to individual human lives is the error that needs to be overcome. For the rest of us, it's the foundation that makes meaning possible."
 
 
----
 
 "Which brings us back to where we started," Jerome said. "Competing frameworks, no way to choose between them, and the stakes are literally everything."
 
@@ -76,5 +73,4 @@ They had reached the Embarcadero, the Bay spreading out before them. The ferries
 "Because I don't know how to stop. Because the alternative is letting others do it without me. Because maybe, just maybe, I can influence the direction." He paused. "And because I'm curious. About what happens next. About what we're becoming. Even if becoming something else means ending what we are."
 
 
----
 

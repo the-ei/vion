@@ -15,7 +15,6 @@ Elena nodded. She did not move from the doorway.
 "Ma'am? Can we come inside?"
 
 
----
 
 She stepped aside. Not welcoming, not obstructing. Simply allowing.
 
@@ -40,7 +39,6 @@ She thought about the network that had formed. The decisions made by consensus a
 "We've been managing distribution ourselves," she said.
 
 
----
 
 The official looked up from his tablet. "Excuse me?"
 
@@ -65,7 +63,6 @@ The official was silent.
 "We did that before," Elena said. "It didn't work."
 
 
----
 
 She walked outside to where the community had gathered. Daniel found her in the crowd, his hand finding hers.
 
@@ -90,5 +87,4 @@ Elena stood at the intersection and watched both operate. She did not know which
 The break was ending. Something else was beginning.
 
 
----
 

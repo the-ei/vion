@@ -11,7 +11,6 @@ He could say yes. Accept the acquisition, take the money, watch his creation bec
 Or he could say no. Fight the pressure, weather the consequences, try to maintain independence against a system that had proven capable of destroying independent alternatives. It would be hard, possibly impossible. But it would be his choice, made according to his values, whatever the outcome.
 
 
----
 
 Jerome had talked about faith - the faith that truth-telling mattered even when you couldn't see how. Kevin Zhou recognized the same structure in his own situation. Did independence matter even when it might be impossible? Did building something worth having justify the sacrifice of actually having it?
 
@@ -26,7 +25,6 @@ The ferry horn sounded, distant and mournful. Kevin Zhou watched the boat move a
 He pulled out his phone and looked at the messages again. His board chair wanting to discuss. His investor wanting to talk numbers. Prometheus wanting to arrange a conversation. And the unsigned message, offering options he supposedly didn't know about.
 
 
----
 
 He responded to the unsigned message first: "Who are you and what options are you talking about?"
 
@@ -47,5 +45,4 @@ Somewhere, Jerome Washington was probably writing about their conversation. Some
 He got up from the bench and began walking home. Tomorrow the real decisions would have to be made. Tonight, uncertainty would have to be enough.
 
 
----
 

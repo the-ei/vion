@@ -15,7 +15,6 @@ Their mother appeared from the kitchen, wiping her hands on a dish towel. The sm
 He set the table. The same plates they had used his whole life, one chipped on the edge from an argument he barely remembered, his father's voice raised about something that didn't matter anymore. The same forks and knives, the same cloth napkins his mother insisted on even when they couldn't afford the laundry. The small rituals of continuity that held a family together.
 
 
----
 
 Amina had changed in ways that were hard to specify but impossible to miss. It wasn't just the clothes or the laptop she pulled out to show their mother something, scrolling through photographs of a life that looked nothing like this apartment. It was the way she carried herself, the confidence in her movements, the sense that she inhabited a future rather than just enduring a present.
 
@@ -38,7 +37,6 @@ Yusuf ate his food and listened. The lamb stew his mother had made was rich and 
 "Let's talk about something else," Yusuf said.
 
 
----
 
 Their mother began to clear the dishes, waving off their offers to help. She moved slowly, deliberately, the chronic fatigue visible in every gesture. Two jobs, still, at fifty-three: the hotel housekeeping that had destroyed her back and the evening cleaning service that was destroying her knees. Yusuf sent her money every month, had been sending her money since he was nineteen, and it still wasn't enough to let her stop.
 
@@ -67,7 +65,6 @@ Amina listened without interrupting. When he finished, she was quiet for a long 
 "It should be my debt too."
 
 
----
 
 "No. It shouldn't. You were sixteen. You were in high school. You were supposed to focus on getting out."
 
@@ -100,7 +97,6 @@ Yusuf stood up, walked to the window. The street outside was quiet, a few cars p
 "One of them is a tragedy. The other is just weakness." He turned to look at her. "And I don't know which one I am."
 
 
----
 
 Amina came to stand beside him. She was taller than he remembered, almost his height now.
 
@@ -133,7 +129,6 @@ He turned to look at her, his little sister who wasn't little anymore, who was b
 "Because I remember your music. And it was too good to just disappear."
 
 
----
 
 They talked for another hour, the conversation ranging from memories to plans to the careful avoidance of anything too painful. When Amina finally yawned and declared she needed sleep, Yusuf helped her set up the pull-out couch, the same routine from every visit.
 
@@ -158,7 +153,6 @@ But sitting there in the dark, listening to the familiar sounds of the apartment
 He would go to the studio. He would find out what remained.
 
 
----
 
 In the morning, their mother made breakfast. Eggs and flatbread and the sweet tea she had learned to make from her own mother decades ago in a country Yusuf had never seen. Amina talked about her summer plans - an internship she was applying for, a research opportunity that might lead somewhere. Their mother beamed.
 
@@ -181,5 +175,4 @@ Yusuf stood on the sidewalk, looking at the door. Four years since he had walked
 He pushed the door open and walked in.
 
 
----
 

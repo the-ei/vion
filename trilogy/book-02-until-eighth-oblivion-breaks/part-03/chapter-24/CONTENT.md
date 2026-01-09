@@ -15,7 +15,6 @@ The phone buzzed. She answered.
 Ruth leaned back in her chair, switched into the mode she had cultivated over four decades of legal practice. Analysis. Assessment. The sorting of facts into actionable categories. "Go ahead."
 
 
----
 
 Jerome described what he had. Internal economic projections showing job displacement five to ten times higher than public statements. Safety testing reports with documented gaps that executives had acknowledged and then overridden. Capability assessments showing acceleration rates beyond anything disclosed to regulators or investors. Board presentations that laid out strategy in language that assumed disruption on a scale no one outside the company understood.
 
@@ -36,7 +35,6 @@ Ruth knew this game. She had watched it played countless times in her career—t
 "Maybe. The documents show a recommendation to delay deployment that was overruled by executives. But the recommendation was internal, non-binding."
 
 
----
 
 "Non-binding means no legal violation," Ruth said. "A company can ignore its own internal recommendations. That's business judgment."
 
@@ -55,7 +53,6 @@ Ruth sighed. "Same problem. They didn't lie—they obfuscated. There's a differe
 The silence that followed was heavy with implication. Jerome was beginning to understand what Ruth had known for years: the legal system wasn't failing to address this harm. The legal system was working exactly as designed—to protect the powerful from accountability while maintaining the appearance of accountability.
 
 
----
 
 "So what can be done?" Jerome asked. The question Ruth had been dreading.
 
@@ -76,7 +73,6 @@ Ruth looked around her office. The walls were lined with books—constitutional 
 "No. But it might shift the conversation. Make people understand that this isn't about innovation or progress—it's about choices. Choices being made without consent, without accountability, without regard for consequences."
 
 
----
 
 "You sound like you're writing something," Jerome said.
 
@@ -97,7 +93,6 @@ Jerome was quiet for a moment. "I understand."
 "Now I'm not sure the system is designed to do what I thought it was designed to do. Maybe it's working perfectly. Maybe this is exactly what it was built for—to make certain kinds of power possible while making certain kinds of resistance impossible."
 
 
----
 
 "That's a hard conclusion for someone who's spent their life inside those institutions," Jerome said.
 
@@ -126,7 +121,6 @@ Ruth nodded, though he couldn't see her. "I'll keep writing. If we're going to d
 The call ended. Ruth sat in the silence, holding the phone that wasn't connected to her name.
 
 
----
 
 She sat there for a long time, thinking. The legal analysis she had offered was accurate—she had been in this business too long to make mistakes about what the law could and couldn't do. But the conversation had moved her into territory she hadn't expected. The territory of action, of commitment, of putting her name and her reputation behind something that couldn't be defended on institutional grounds.
 
@@ -143,13 +137,12 @@ She turned back to her desk, opened her laptop, opened the document that was bec
 She began to write.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Rebecca arrived on Saturday morning, the train from New York pulling into Union Station just before ten. Ruth met her at the platform, watching her daughter emerge from the crowd—forty-two years old now, her father's height and her other mother's eyes, carrying the same canvas bag she had carried since college.
 
@@ -170,7 +163,6 @@ They took a cab back to Georgetown, the summer morning already warm, the city fu
 Ruth nodded. It was what the documents described, the displacement Jerome had told her about. Now it had a face—the faces her daughter saw every day.
 
 
----
 
 They cooked lunch together in Ruth's kitchen, the way they had done since Rebecca was old enough to hold a knife. Chopping vegetables, seasoning chicken, the physical rhythm of preparing food. Susan had taught them both to cook, had insisted that feeding people was a form of love that didn't require words.
 
@@ -193,7 +185,6 @@ Rebecca was quiet, processing. Then she said: "Is this dangerous for you?"
 "I think I have to." Ruth returned to the vegetables, the familiar motion of the knife. "The people you're seeing in your office—the ones losing their jobs, losing their homes—they deserve someone telling the truth about what's happening to them. Even if it doesn't change anything."
 
 
----
 
 "I think Mom S would be proud of you," Rebecca said. She always called Susan "Mom S" and Ruth "Mom R"—the vocabulary of a two-mother household, the small accommodations that made family work.
 
@@ -216,7 +207,6 @@ After lunch, they walked through Georgetown, the tree-lined streets familiar fro
 They walked in silence for a while, mother and daughter sharing space, sharing history, sharing the particular comfort of people who know each other well enough not to need words.
 
 
----
 
 They were back at the apartment, drinking tea in the living room, when Ruth's phone rang. She saw the caller ID: David.
 
@@ -243,7 +233,6 @@ Ruth glanced at Rebecca, who was watching with concern. "I can't discuss my prof
 Ruth took a breath, kept her voice level. "I see consequences every day, David. I see them in the law I study and in the country I live in. The question is whose consequences matter."
 
 
----
 
 "The people at Prometheus matter," David said. "The shareholders matter. The economy matters. You can't just—"
 
@@ -272,7 +261,6 @@ Rebecca ended the call and handed the phone back to Ruth. Her hands were shaking
 "You have nothing to apologize for." Rebecca sat down heavily. "He's been like this for years. Ever since he went into finance. It's like he forgot who we are."
 
 
----
 
 Ruth sat beside her daughter, the evening light fading through the windows. The call with David had left something broken in the room, a rupture that couldn't be easily repaired.
 
@@ -297,7 +285,6 @@ They sat in silence for a while. Ruth thought about her children, the two differ
 The apartment settled into evening quiet. Rebecca would leave tomorrow, return to New York and her impossible caseload. But tonight, at least, Ruth was not alone.
 
 
----
 
 They made dinner together, simpler than lunch, neither of them feeling like elaborate cooking. Pasta, salad, a bottle of wine Rebecca had brought from New York. They ate at the small table in the kitchen, the way they had when Rebecca was young and Susan was alive and the family was still whole.
 
@@ -320,13 +307,12 @@ Ruth squeezed her daughter's hand, holding tight to the connection. Tomorrow Reb
 It was enough to keep going.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 After Rebecca left on Sunday, Ruth returned to the essay. The apartment was quiet in the particular way of empty houses, the absence of another person making the silence deeper. She made tea, settled at her desk, opened the document she had been working on for weeks.
 
@@ -343,7 +329,6 @@ She paused, looking at the words on the screen. They were true—she had believe
 Outside her window, Washington was quiet, the Sunday afternoon peace of a city that would return to its business tomorrow. Ruth wrote on, the essay taking shape under her hands.
 
 
----
 
 The second section was about compromise. The cases she had won that turned out to change nothing. The regulations she had helped write that were immediately captured by the industries they were meant to regulate. The testimonies she had given that were praised and then ignored.
 
@@ -360,7 +345,6 @@ But Susan had always said: the truth costs something. If it doesn't cost anythin
 Ruth kept writing.
 
 
----
 
 The evening came and went. Ruth ate dinner at her desk—crackers and cheese, the meal of someone too absorbed to cook. The essay was pulling her forward, demanding to be written, the words coming faster than she could have imagined.
 
@@ -379,7 +363,6 @@ Writing about Susan was harder than writing about law. The grief was still fresh
 *I think we're approaching a moment of dissolution. I think the stories are failing.*
 
 
----
 
 By midnight, Ruth had written four thousand words. More than she had written in a single sitting in years. The essay was taking a shape she hadn't planned—not a legal analysis, not an academic argument, but something closer to confession. A reckoning with a life spent in service of beliefs that might have been wrong.
 
@@ -398,7 +381,6 @@ But access to what? Access to meetings where nothing happened. Access to hearing
 Susan would have laughed at the time Ruth had spent cultivating that kind of access. *What good is a seat at the table*, she would have said, *if the table is set for a meal you're not invited to eat?*
 
 
----
 
 At two in the morning, Ruth saved the draft and pushed back from her desk. Her eyes were tired, her back ached, her hands felt the particular numbness of too much typing. But something had shifted inside her—a release she hadn't expected.
 
@@ -415,7 +397,6 @@ But it might matter anyway. It might contribute something to the conversation—
 That was all she could offer. It would have to be enough.
 
 
----
 
 She went to bed but couldn't sleep. Her mind kept returning to the essay, to sentences she wanted to revise, arguments she wanted to sharpen. This was how she had always worked—the inability to let go of a piece until it was finished, the obsessive attention to language that Susan had both admired and found exhausting.
 
@@ -442,7 +423,6 @@ She typed back: *I'll be ready.*
 Then she opened her laptop and returned to the essay.
 
 
----
 
 The final section came quickly, as if it had been waiting. Ruth wrote about hope—not the optimistic hope she had carried for most of her career, the belief that systems would self-correct, but a different kind. The hope that came from action rather than faith.
 
@@ -461,7 +441,6 @@ Relief. The relief of finally telling the truth.
 Whatever came next, at least she had done that.
 
 
----
 
 
 

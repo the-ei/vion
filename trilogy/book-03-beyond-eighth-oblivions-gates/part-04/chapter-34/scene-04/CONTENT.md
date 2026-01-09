@@ -11,7 +11,6 @@ The urge to pull the release was immediate and overwhelming.
 He didn't pull it. He sat with the exposure, letting himself be seen, letting Yusuf's warmth wash against his coldness. And something strange began to happen. The loneliness didn't disappear, but it changed. It became shareable. It became something that could be held by others.
 
 
----
 
 The other participants arrived in his awareness one by one.
 
@@ -24,7 +23,6 @@ Margaret was caution layered over genuine care. She had armored herself with ske
 Sandra was fire. Controlled fire, directed fire, but fire nonetheless - the burning of someone who had spent her life fighting for justice and was tired and angry and unwilling to stop. Her skepticism of Kevin Zhou was palpable through the interface, a texture like sandpaper. But so was her hope, the part of her that wanted to believe that something good could come from this technology even if experience suggested otherwise.
 
 
----
 
 Fifteen minutes into the session, Kevin Zhou understood something he had never understood before.
 
@@ -39,7 +37,6 @@ He felt the tears now, streaming down his face, the physical manifestation of so
 He was not alone. He had never been alone. The isolation had been real, but it had also been a misunderstanding.
 
 
----
 
 The session deepened.
 
@@ -52,7 +49,6 @@ Yusuf must have felt the thought, or the feeling underneath it, because his pres
 The interface had succeeded. The technology worked. But the success felt less like an achievement and more like a discovery. He had not invented connection; he had just found a new way to recognize it.
 
 
----
 
 At the forty-five minute mark, Sandra's skepticism shifted.
 
@@ -67,7 +63,6 @@ She was fighting for justice. He was building technology. These had seemed like 
 He felt her acknowledge this. Not in words, not in thought, just in the texture of her presence: a softening, an opening, a willingness to consider that maybe, this time, a tech person was actually trying to help.
 
 
----
 
 The session moved through phases that Kevin Zhou had not anticipated.
 
@@ -84,7 +79,6 @@ When Kevin Zhou felt the peak begin to pass, felt the intensity start to fade in
 He had built a bridge. And for the first time in his life, he had walked it himself.
 
 
----
 
 The session wound down slowly, over the course of the final thirty minutes. The presences faded gradually, like musical instruments dropping out one by one at the end of a symphony. Kevin Zhou felt the others pulling back into themselves, not disconnecting but returning to their own boundaries, the interface easing its transmission as the session approached its programmed end.
 
@@ -101,5 +95,4 @@ And Yusuf was smiling. Not a big smile, just a small one, the smile of someone w
 "Well," Yusuf said. "That was something."
 
 
----
 

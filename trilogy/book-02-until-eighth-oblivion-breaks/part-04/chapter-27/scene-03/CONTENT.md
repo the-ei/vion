@@ -23,7 +23,6 @@ Nothing.
 Three hours away, Daniel was at a construction site in Mesa, building something that would probably outlast whatever was happening to the systems that connected them. He had no idea she was trying to reach him. He had no way of knowing anything was wrong.
 
 
----
 
 Rosario had set up a kind of triage system at the front desk, sorting patients by urgency based on their descriptions: chest pain goes first, difficulty breathing goes first, everything else waits. It was the kind of improvised protocol they had drilled for during disaster preparedness exercises, never quite believing they would need it, the drills always feeling slightly absurd, slightly theatrical. Now Rosario implemented it with the calm efficiency of someone who had been waiting her whole life for exactly this moment, her whole body focused and still.
 
@@ -42,7 +41,6 @@ Elena thought about her children at school, about Abuela alone in the house with
 But Elena did not go. There were patients in the exam rooms, patients in the waiting room, patients who had come here because they had nowhere else to go. She could not leave them.
 
 
----
 
 She called home again. The silence on the line was worse than a busy signal, worse than an error message. Silence meant the call had gone somewhere and found nothing. Silence meant the systems that were supposed to route her voice from this phone to that one had failed at some point along the invisible chain, and there was no way to know where or why or whether her voice had traveled ten feet or ten miles before vanishing into the void.
 
@@ -57,7 +55,6 @@ She picked up the next chart. Paper chart. Handwritten. A man with chest tightne
 This was real. This was in front of her. This she could do something about. This was medicine.
 
 
----
 
 The man's name was Robert Okonkwo, no relation to Dr. Okonkwo, and he was sixty-one years old with a history of cardiac problems that he could only partially remember, the details scattered across medical records he had never thought to memorize. He had been having chest pains since the night before, had planned to go to the hospital this morning, but when he arrived at the emergency room the line had stretched out the door and down the block and no one seemed to know what was happening.
 
@@ -78,7 +75,6 @@ Elena looked at him, at his gray face and labored breathing, and felt the full w
 "Wait here," she said. "I'll be right back."
 
 
----
 
 She found Rosario at the front desk, fielding questions from patients who wanted to know what was happening, when the systems would be back up, whether they should stay or go home, questions for which there were no answers.
 
@@ -103,5 +99,4 @@ A murmur of something that might have been relief. A few nods. The man in the co
 She called the next name on the list and tried not to think about her phone, silent in her pocket, connecting to nothing.
 
 
----
 

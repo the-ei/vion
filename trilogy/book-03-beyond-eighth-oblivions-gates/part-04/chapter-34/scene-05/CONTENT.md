@@ -13,7 +13,6 @@ Sandra spoke last among the participants. She addressed Kevin Zhou directly, her
 She nodded, something like respect in her expression, and left with Margaret. Paula followed, exchanging contact information with DeShawn, the professionals finding each other. The loft emptied until only Kevin Zhou and Yusuf remained.
 
 
----
 
 The interface equipment sat silent in its stations, the headbands resting on the chairs like abandoned instruments after a concert. Kevin Zhou walked among them, checking connections out of habit, not because anything needed to be fixed. The session had worked. The technology had done what it was supposed to do. And he was different now, in a way that no amount of checking could undo.
 
@@ -34,7 +33,6 @@ Yusuf was quiet for a moment. "That's the most human thing I've ever heard you s
 "Yeah. Well. The interface makes you say human things."
 
 
----
 
 They sat together on the worn couch in the corner of the loft, two friends who had just shared something impossible. The city lights were beginning to emerge through the windows as the afternoon faded. Kevin Zhou felt exhausted and awake at the same time, the paradox of having been emotionally exposed while also feeling, for the first time in memory, fully present.
 
@@ -53,7 +51,6 @@ Kevin Zhou considered the question. It was the question he had been avoiding for
 "I think," he said slowly, "you build in the safeguards you can. You make the choices you can control. And then you let go. Not of responsibility - I'll always be responsible for what I create. But of the illusion of control."
 
 
----
 
 "That sounds like wisdom," Yusuf said.
 
@@ -74,7 +71,6 @@ Kevin Zhou thought about his father, who had never understood why his brilliant 
 And he thought about Yusuf, sitting beside him, the improbable friend who had somehow become the person he trusted most in the world.
 
 
----
 
 "I should probably find somewhere to sleep," Yusuf said eventually. "My flight back is tomorrow afternoon."
 
@@ -103,5 +99,4 @@ He had built a bridge. He had crossed it. Tomorrow he would figure out what to d
 But tonight, for the first time in as long as he could remember, he was not alone.
 
 
----
 

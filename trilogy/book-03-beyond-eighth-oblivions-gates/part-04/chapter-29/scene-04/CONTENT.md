@@ -15,7 +15,6 @@ Yusuf remembered the encounter dimly. A community meeting about the technology's
 Now Kevin Zhou was sending him a message. At one in the morning. About something Yusuf could not begin to guess.
 
 
----
 
 He opened the email.
 
@@ -32,7 +31,6 @@ The message continued for several more paragraphs, growing more technical and th
 I found your SoundCloud. I hope that's not strange. I was thinking about your voice, about what you said at that forum, and I searched for you and found the music.
 
 
----
 
 Yusuf read this part several times, trying to parse what it meant.
 
@@ -53,7 +51,6 @@ The message ended with contact information and a signature that read simply: Kev
 Yusuf sat in his car, in the cold, two messages on his phone that had arrived from different worlds and seemed somehow connected.
 
 
----
 
 He thought about the community forum in 2038. He had spoken without preparation, without notes, just stood up when they opened the floor and said what he had been thinking for months. How the delivery apps tracked his every movement. How the rating systems turned customers into managers who could punish him without explanation. How the technology that promised flexibility had created a new kind of control, invisible and total.
 
@@ -68,7 +65,6 @@ Now, years later, here was Kevin Zhou again, reaching out about voice and music 
 The skepticism that Yusuf carried like armor wanted to dismiss this as another tech fantasy, another promise that would fail to materialize. But something in the message's awkwardness felt genuine. The uncertainty, the apologies, the acknowledgment that this might not make sense.
 
 
----
 
 Two messages. Two invitations. Two doors that had appeared in a wall he had thought was solid.
 
@@ -85,5 +81,4 @@ He would answer both. He would say yes to the conversation, yes to the explorati
 But first, there was something else he needed to do. Something that could not wait until morning.
 
 
----
 

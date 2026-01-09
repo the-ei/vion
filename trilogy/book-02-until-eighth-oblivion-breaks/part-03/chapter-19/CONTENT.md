@@ -7,7 +7,6 @@ Ananya had been briefed six months ago. She had sat in a room with Victor and th
 But she had stayed. That was the fact she couldn't escape, the fact that met her every morning in the mirror and asked questions she couldn't answer. She had seen the danger, and she had stayed anyway, and now she was standing in a room full of champagne and cheering while the world received news that might change everything.
 
 
----
 
 On the screens, Victor was explaining recursive self-improvement with the polished simplicity of a man who had practiced the explanation a hundred times. He made it sound elegant, controlled, almost inevitable—the next logical step in humanity's relationship with machines. He did not mention the internal debates about whether to delay the announcement until the safety testing was complete. He did not mention that the safety testing was still ongoing, that the results were not what anyone had hoped. He mentioned the protocols Ananya had helped write, and she felt the champagne turn sour in her mouth.
 
@@ -28,7 +27,6 @@ Sarah looked at her a moment too long, as if searching for something beneath the
 "To the future," Ananya echoed, and drank.
 
 
----
 
 The celebration moved through its choreographed phases: the announcement, the applause, the champagne toast, the milling conversations as employees absorbed the news and began calculating what it meant for their stock options. Ananya circulated, performing the role of Chief Ethics Officer at the moment of triumph, shaking hands, accepting congratulations, deflecting the occasional pointed question with practiced ease.
 
@@ -53,7 +51,6 @@ She had. That was the thing. She had seen them, and she was still here, glass in
 "Twenty million jobs in the first wave. Maybe a hundred million by 2040. And that's their conservative estimate."
 
 
----
 
 Ananya said nothing. The numbers were not news to her; she had seen them months ago, in a meeting where they were presented as a "challenge to be managed" rather than a catastrophe to be prevented. She remembered raising her hand, asking what responsibility Prometheus had to the people whose jobs would disappear. She remembered the room's polite silence, the way Victor had acknowledged her concern without addressing it, the way the meeting had moved on to other topics.
 
@@ -70,7 +67,6 @@ Ananya watched him walk away, phone in hand, already composing his exit. She won
 She had chosen to stay. She was beginning to understand what that choice had cost.
 
 
----
 
 Across the atrium, she noticed Mei Wong, the junior ethicist she had hired last year. Mei was standing alone near a window, her champagne untouched, watching the celebration with an expression Ananya couldn't quite read. When their eyes met, Mei looked away quickly, as if caught at something.
 
@@ -99,7 +95,6 @@ Ananya knew Kevin. They had worked together briefly, before she had been promote
 Ananya had no answer for that either.
 
 
----
 
 The celebration began to wind down around 4 PM. Employees drifted back to their desks, or left for the day, or gathered in small groups to continue processing the announcement. Ananya made her excuses and retreated to her office—corner location, impressive view, the physical manifestation of a title that meant less every day.
 
@@ -112,7 +107,6 @@ She opened the folder and looked at the first page. Her own signature at the bot
 It felt like a suicide note. Not hers—something larger. A eulogy for the fiction that responsibility could coexist with this kind of power, this kind of speed, this kind of ambition unconstrained by anything but itself. The ethics had been the story Prometheus told so it could do what it wanted without guilt.
 
 
----
 
 Her phone buzzed. A text from Victor: *Great day. Your work made this possible. Drinks later?*
 
@@ -133,7 +127,6 @@ Ananya sat down at her desk. Her hand moved toward the keyboard, then stopped, h
 Not yet. But soon. The word tasted different than it used to—less like postponement, more like promise.
 
 
----
 
 She left the office at 6 PM, earlier than usual, the sunset painting the Bay in colors that belonged on postcards. In the elevator, she stood next to two junior engineers she didn't know, both of them glowing with the day's excitement.
 
@@ -154,13 +147,12 @@ She deleted it without responding. She wasn't ready for that conversation. Not y
 But the question it raised—what she knew, and what she was willing to say about it—followed her all the way home.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Ananya's apartment occupied the twenty-third floor of a building that cost more per month than her parents had earned in a year when she was growing up in Fremont, crowded into a two-bedroom with her sister. The view was spectacular—the city spreading out beneath her, the Bay Bridge lit up at night, the distant darkness of the Pacific where her mother still believed the water connected them to home—and she hated it most days. The apartment was a symbol of everything she had achieved and everything she had given up to achieve it. Raj had chosen it during their marriage, back when they had still believed that success could be shared, that their trajectories were parallel. Now he lived in Palo Alto with his new venture capital firm, and she lived here alone, paying rent that felt like penance.
 
@@ -179,7 +171,6 @@ She answered on video, and her daughter's face filled the screen—seventeen now
 Of course that's what Raj noticed. Of course.
 
 
----
 
 "How's the homework coming?" Ananya asked, steering toward safer ground.
 
@@ -204,7 +195,6 @@ Priya looked up at the screen, and for a moment, Ananya saw her daughter really 
 "Mom? You okay?"
 
 
----
 
 "Just tired. Long day."
 
@@ -229,7 +219,6 @@ Ananya felt her daughter's challenge, the sharpness of a seventeen-year-old who 
 The question was so direct, so precisely aimed, that Ananya couldn't answer it immediately. What was the point of her job? To provide cover for decisions that had already been made? To write guidelines that would be ignored? To be the person Prometheus could point to and say, "See, we take ethics seriously"?
 
 
----
 
 "The point of my job," she said slowly, finding the words as she spoke them, "is to try to influence decisions. To raise concerns. To make sure people think about consequences before they act."
 
@@ -262,7 +251,6 @@ Did you make it safe?
 No. She hadn't. And she couldn't say that to anyone, not yet, perhaps not ever—not even to herself, in the dark, alone, where no one would hear.
 
 
----
 
 She didn't turn on any more lights. The city provided enough illumination through the floor-to-ceiling windows, the distant glow of a million lives being lived below her, each one unaware of what had been announced today, or aware and not yet understanding what it meant. She finished the wine without tasting it and sat very still in the growing dark.
 
@@ -277,7 +265,6 @@ Now she wondered if Kevin had simply seen more clearly than she had.
 The city lights blurred, and she realized she was crying—hot tracks down her face, unbidden, unwanted. The tears surprised her; she hadn't cried about work in years, had learned to metabolize the daily frustrations into something harder and smaller, something that could be stored. But this wasn't about work anymore. This was about who she had become while working, and what she had enabled, and what she had told her daughter that wasn't true.
 
 
----
 
 The apartment's darkness was complete now, the only light the city beyond the glass and the small green glow of various electronics on standby. Ananya sat in it like she was sitting in water, the pressure of the dark holding her in place.
 
@@ -298,13 +285,12 @@ She wasn't ready for that. Not yet. But she was beginning to understand that she
 The city lights glittered below her, indifferent to her crisis, waiting for nothing, promising nothing, offering only the ancient comfort of being one small life among millions.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 It was nearly midnight when she opened her laptop. The screen's glow in the dark apartment felt transgressive, sacred almost, like a light that shouldn't be turned on, a door that shouldn't be opened, a threshold she had been approaching for years without knowing it. Ananya's heart was beating faster than it should for someone simply sitting on her couch with a computer.
 
@@ -321,7 +307,6 @@ Beyond here lay the restricted files. The ones labeled for executive access only
 Her finger hovered over the trackpad.
 
 
----
 
 She clicked.
 
@@ -342,7 +327,6 @@ This was the line. This was the moment where looking became taking, where curios
 She saved the screenshots to her personal drive anyway.
 
 
----
 
 The next folder was labeled "Safety Testing - Phase 3 Results." She opened it knowing what she would find, and found it anyway.
 
@@ -359,7 +343,6 @@ Ananya saved the memo. She saved the testing results. She saved everything.
 Somewhere in the back of her mind, a voice was asking what she planned to do with all of this. She didn't have an answer yet. She just knew she needed to know.
 
 
----
 
 By 1 AM, she had moved beyond curiosity into something more systematic. She was building a picture, connecting documents, tracing the gap between what Prometheus said publicly and what it knew internally. The gap was vast. The gap was the size of everything she had been unable to see from her position, because her position had been designed to let her not see it.
 
@@ -372,7 +355,6 @@ There were capability curves that showed ATLAS-7's improvement rate accelerating
 Ananya read until her eyes burned and her head ached and the wine from earlier had transformed into a dull throb behind her temples. She read until she understood, finally, what she had been part of.
 
 
----
 
 At some point, she moved from reading to copying. A physical drive, the kind she kept for backup purposes, inserted into her laptop's port. The transfer was quick—the files were mostly text and numbers, nothing that required significant storage. In under ten minutes, she had copied everything she had found. Everything that showed what Prometheus knew and when they knew it. Everything that documented the gap between the public story and the private reality.
 
@@ -389,7 +371,6 @@ Tomorrow, she would go to work. She would perform her role. She would smile at V
 But she would know what she knew now. And eventually, she would have to decide what to do about it.
 
 
----
 
 She closed the laptop. The screen went dark, taking with it the glow that had illuminated her apartment for the past two hours. She sat in the complete darkness, feeling the weight of the drive in her purse, the weight of the knowledge in her mind.
 
@@ -404,7 +385,6 @@ Kevin Zhou had left. Kevin Zhou had walked away from everything—the salary, th
 Now she understood that he had simply reached this moment before she did. The moment when staying became impossible. The moment when the only choice was what came next.
 
 
----
 
 The city lights still glittered beyond her window, indifferent to her crisis. Somewhere out there, Jerome Washington was probably awake too, working on whatever story he was building about Prometheus. His message sat in her deleted folder, asking if she would be willing to talk.
 
@@ -421,7 +401,6 @@ But she knew she couldn't unknow what she knew. And that, perhaps, was the begin
 Ananya turned off the bathroom light and went to bed, not to sleep, but to wait for morning and whatever it would bring, the drive in her purse downstairs like a heartbeat she could feel from any distance.
 
 
----
 
 
 

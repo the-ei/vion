@@ -13,7 +13,6 @@ The relief hit him like a physical blow. His knees weakened; he caught himself o
 He had made the right choice. Or rather, the choice he had made had not been punished. He was not sure if those were the same thing.
 
 
----
 
 Habiba's eyes opened.
 
@@ -40,7 +39,6 @@ Yusuf looked at his sister, still asleep in the chair. "She did everything."
 "Yes. Maybe both."
 
 
----
 
 The enclave was still vivid in his memory. Sixty miles northwest of Minneapolis, hidden in a wooded area that gave no sign from the road, accessible only if you knew where to look.
 
@@ -55,7 +53,6 @@ And so they had helped. Reluctantly, with conditions, with the clear implication
 But they had also shown him something. The enclave was not a charity; it was a lifeboat. Built by people who had seen the storm coming and had chosen to save themselves.
 
 
----
 
 The knowledge was bitter. He had saved his mother with help from people who had let the world burn while protecting their own comfort. Tech executives, investors, the same class of people who had built the fragile systems that failed - they had known. They had known enough to build bunkers, to stockpile supplies, to create redundant communications when the public infrastructure had none.
 
@@ -82,7 +79,6 @@ Habiba was quiet for a moment. Then she said: "I thought I was going to die. For
 "No. Because you came back. Because you found help." She looked at him with clear eyes. "You saved my life, Yusuf. Whatever else is true, that's true too."
 
 
----
 
 Amina stirred in the chair, her eyes opening slowly. For a moment she seemed disoriented, caught between sleep and waking. Then she saw Yusuf, and her face transformed.
 
@@ -117,5 +113,4 @@ He thought about the enclave. About the people who had prepared. About the knowl
 But his mother was alive, and his sister was safe, and they were together. For now, that was enough.
 
 
----
 

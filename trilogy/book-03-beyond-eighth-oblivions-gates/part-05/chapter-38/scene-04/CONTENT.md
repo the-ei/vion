@@ -6,7 +6,7 @@ Home, finally. Theo asleep upstairs, the house quiet around them. Delphine and J
 
 "That's the frustrating thing about art. The meaning comes later."
 
-Delphine looked at her wife - this woman she had been with for sixteen years, had raised a child with, had built a life alongside while both of them pursued careers that demanded total absorption. Jessie understood the rhythms of creative work, the cycles of making and showing and recovering. She had been through enough premieres and pilot pickups and cancellations to know the particular exhaustion of exposure.
+Delphine looked at her wife - this woman she had been with for sixteen years, had raised a child with, had built a life alongside while both pursued careers that demanded total absorption. Jessie understood the rhythms of creative work, the cycles of making and showing and recovering. She had been through enough premieres and pilot pickups and cancellations to know the particular exhaustion of exposure.
 
 "I don't think I want to do this again," Delphine said.
 
@@ -19,11 +19,10 @@ Jessie was quiet for a moment. "Do what again?"
 "I've been circling it. The documentary was - I don't know, maybe it was a goodbye? Making something that critiques the thing I've been doing for twenty years. Making something that refuses to be what I usually make."
 
 
----
 
 Jessie turned to face her fully. "What would you do instead?"
 
-This was the question Delphine had been avoiding, the void that opened when she imagined stepping away from what she knew. She had been making things since she was a teenager, had built her identity around the practice of creation, around the role of someone who shaped narratives for others to receive. Without that, who was she?
+This was the question Delphine had been avoiding, the void that opened whenever she imagined stepping away from what she knew. She had been making things since she was a teenager, had built her identity around the practice of creation, around the role of someone who shaped narratives for others to receive. Without that, who was she?
 
 "I don't know. That's the terrifying part. I don't know who I am if I'm not making things for an audience."
 
@@ -42,11 +41,10 @@ Delphine stood up, restless, and walked to the window. Their street was quiet, p
 "But this one - I made this one to say something about the whole enterprise. About what it means to make narratives in an attention economy that uses narrative to manipulate. If I really believe what I put in that film, I should - I don't know. Stop? Or at least stop contributing to the thing I critiqued?"
 
 
----
 
 Jessie joined her at the window. "You're talking about integrity. About making your life match your ideas."
 
-"Am I? Maybe. Or maybe I'm just scared. Scared that the industry I've worked in is harmful and I've been part of the harm. Scared that stepping away means admitting I was wrong all along."
+"Am I? Maybe. Or maybe I'm just frightened. Scared that the industry I've worked in is harmful and I've been part of the harm. Scared that stepping away means admitting I was wrong all along."
 
 "Those aren't mutually exclusive."
 
@@ -65,9 +63,8 @@ Jessie nodded slowly. "That's a big decision. Financially, professionally."
 "That's the part I don't know."
 
 
----
 
-They stood together in the window, looking out at the night, the conversation pausing in a way that felt natural rather than incomplete. This was what sixteen years of marriage gave you: the ability to be in silence together, to process alongside each other without needing to fill every space with words.
+They stood together in the window, looking out at the night, the conversation pausing in a way that felt natural rather than incomplete. This was what sixteen years of marriage gave you: the ability to be silent together, to process alongside each other without needing to fill every space with words.
 
 "Whatever you decide," Jessie said eventually, "I'm with you. If you want to keep making documentaries, I'll support that. If you want to step back and figure out who you are without an audience, I'll support that too."
 
@@ -88,9 +85,8 @@ Delphine moved back to the couch, sat down, picked up her phone. Her social medi
 "All of them. Walking away from the public self. Making my life smaller on purpose."
 
 
----
 
-Jessie sat down beside her. "That's a big step. Once it's gone, it's gone."
+Jessie sat down beside her. "That's a big step. Once gone, it's gone."
 
 "That's what I want. To be gone from this. To not exist as a public person anymore."
 
@@ -113,9 +109,8 @@ Jessie took her hand. "I'll be watching. And Theo. That's enough of an audience.
 "That's exactly the right amount."
 
 
----
 
-The night deepened around them. Somewhere in the house, Theo turned over in his sleep, the sound carrying through the quiet. This child they had made together, now becoming his own person, would grow up in a world shaped by the things Delphine had spent her career critiquing. She could not protect him from it. She could only show him what it looked like from the outside, what it meant to question the systems that surrounded him.
+The night deepened around them. Somewhere in the house, Theo turned in his sleep, the sound carrying through the quiet. This child they had made together, now becoming his own person, would grow up in a world shaped by the things Delphine had spent her career critiquing. She could not protect him from it. She could only show him what it looked like from the outside, what it meant to question the systems that surrounded him.
 
 Delphine set the phone down, screen dark, the profiles still there but no longer calling to her. Tomorrow or the next day she would delete them. She would become smaller, less visible, harder to find. The documentary would have its life without her constant tending, would make its way through the world on its own terms.
 
@@ -136,5 +131,4 @@ This was its own kind of creation. This choosing to stop.
 This was its own kind of art.
 
 
----
 

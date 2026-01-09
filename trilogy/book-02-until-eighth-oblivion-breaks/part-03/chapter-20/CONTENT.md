@@ -9,7 +9,6 @@ The problem was that she didn't have any.
 Her notes were spread across the hotel desk in the particular disorder she had developed over forty years of legal work: legal frameworks, international comparisons, regulatory proposals that had been floated and shelved and floated again. She had been preparing for this testimony for two weeks, consulting with experts, reviewing the literature, trying to find in the law some tool adequate to the moment. And the conclusion she kept reaching was the one she couldn't say in a Senate hearing: the law was too slow, and the technology was too fast, and the gap between them was where everything was falling through.
 
 
----
 
 Her phone rang. Jennifer Martinez, her aide for this trip, calling from two floors down.
 
@@ -34,7 +33,6 @@ A pause on the line. Jennifer was young—early thirties—and still believed in
 After she hung up, Ruth returned to the window. The light was fading over the capital, the monuments lit up in the distance, the architecture of democracy glowing in the dusk like a postcard from another century. She had believed in these institutions once. She had dedicated her life to them—had risen before dawn for decades to serve them, had missed Rebecca's school plays and David's baseball games in their name. Now she wasn't sure what they were for anymore.
 
 
----
 
 The phone rang again. This time it was David, her son, calling from Manhattan where he worked in finance.
 
@@ -71,7 +69,6 @@ Ruth closed her eyes. He wasn't wrong. Their conversations had become predictabl
 "Is there a difference, from where you sit?"
 
 
----
 
 She didn't answer immediately. The question was fair, even if his asking it felt unfair. Ruth had spent decades arguing for the law's ability to shape technology, to channel innovation toward public good. But the gap between that belief and reality had grown impossible to ignore. Technology moved too fast. Power accumulated too quickly. The tools of democratic governance—hearings, legislation, oversight—operated on a timeline that was now measured in years while the things they were supposed to govern changed in weeks or days.
 
@@ -102,7 +99,6 @@ After David hung up, she sat on the edge of the hotel bed—it was too firm, the
 Susan had considered the question seriously, as she considered everything seriously—the furrow between her brows that Ruth had loved from the first time she saw it. "It matters until it doesn't," she had said. "And then you find something else."
 
 
----
 
 Ruth returned to her notes. She had to deliver something tomorrow; she couldn't simply stand before the committee and say that the law was inadequate and she had no answers. That wasn't how these things worked. That wasn't what they were paying for.
 
@@ -125,7 +121,6 @@ Susan would have said she was being defeatist. Susan would have said that doing 
 She made herself coffee from the hotel room's inadequate machine. The taste was bitter and thin, but it was late and she needed to stay awake. Tomorrow she would perform. Tonight she had to prepare.
 
 
----
 
 At 9 PM, Jennifer knocked on her door with a tablet full of last-minute briefing materials. Ruth invited her in, and they worked together at the desk, reviewing the profiles of the committee members, anticipating questions, preparing responses.
 
@@ -154,13 +149,12 @@ Jennifer absorbed this, her expression shifting from hope to something more comp
 "No. It isn't." Ruth turned back to the briefing materials. "But it's honest. And honesty is all I have to offer at this point."
 
 
----
 
 After Jennifer left, Ruth stayed up for another hour, reading through the Prometheus announcement again, the technical documentation, the analysis pieces that had proliferated in the month since ATLAS-7 had been revealed. She was trying to understand something she could feel but couldn't quite articulate—the shape of a change so large that even her decades of experience provided no frame for it.
 
 Recursive self-improvement. A system that could make itself smarter. She understood the concept intellectually, but understanding didn't translate into knowing what to do about it. What legislation could address something that might evolve faster than the legislative process? What oversight could keep pace with something that might soon outpace human oversight itself?
 
-She thought about the people she would be testifying for—not the senators, but the public beyond them, the millions of Americans who were just beginning to understand what was happening. They deserved more than the performance of concern. They deserved actual protection. But the law she had spent her life serving was revealing itself as a tool from another era, adequate for problems that moved at human speeds, useless for problems that didn't.
+She thought about the people she would be testifying for—not the senators, who already had their positions and their donors and their talking points, but the public beyond them, the millions of Americans who were just beginning to understand what was happening, who were scrolling past headlines about AI between headlines about weather and celebrity divorces. They deserved more than the performance of concern. They deserved actual protection. But the law she had spent her life serving was revealing itself as a tool from another era, adequate for problems that moved at human speeds, useless for problems that didn't.
 
 The view from her window showed the Capitol dome, lit up against the night sky. Tomorrow she would sit in one of its hearing rooms and do her best. She would perform the ritual of democratic oversight, knowing it was a ritual more than an action. She would answer questions carefully and leave knowing that the answers barely mattered.
 
@@ -169,15 +163,14 @@ Susan's voice echoed in her memory: *It matters until it doesn't. And then you f
 Maybe, Ruth thought, it was time to start looking for something else.
 
 
+
+
+
+
+
 ---
 
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
-
-The Dirksen Senate Office Building had been constructed in 1958, designed to project the permanence and authority of American government. Ruth had testified here many times; she knew its marble corridors, its wood-paneled hearing rooms, its particular smell of old power and older ambition. This morning, walking to Room 226, she felt the building's weight pressing down on her—not majesty, but obsolescence. A temple to a form of governance that might already be vestigial.
+The Dirksen Senate Office Building had been constructed in 1958, designed to project the permanence and authority of American government, designed before anyone had dreamed of the technologies now reshaping the world. Ruth had testified here many times; she knew its marble corridors, its wood-paneled hearing rooms, its particular smell of old power and older ambition, the way the air felt different inside, as if filtered through decades of speeches and deliberations. This morning, walking to Room 226, she felt the building's weight pressing down on her—not majesty, but obsolescence. A temple to a form of governance that might already be vestigial.
 
 The hearing room was smaller than the famous ones, appropriate for a subcommittee, but it still had the staging of democratic theater: the elevated dais where senators would sit, the witness table below where experts would speak upward, the gallery where press and public would observe. Cameras lined the back wall, their red lights indicating that this performance would be broadcast and recorded for history, or at least for C-SPAN.
 
@@ -188,7 +181,6 @@ The senators filed in over the next fifteen minutes, each entrance a small perfo
 Hawkins called the hearing to order at 10:04 AM.
 
 
----
 
 "We are here today," Hawkins began, "to examine the regulatory implications of recent advances in artificial intelligence, particularly the ATLAS-7 system announced last month by Prometheus Systems. Our witness is the Honorable Ruth Abramson, retired federal judge and professor emerita at Georgetown Law, one of the nation's foremost experts on technology regulation. Judge Abramson, thank you for being here."
 
@@ -206,10 +198,9 @@ Morrison was already looking at his phone. Two other senators were conferring wi
 
 "I want to be direct with this committee," Ruth continued. "I do not believe that existing tools are adequate to this moment. And I am not confident that any tools we might develop in the near term will be adequate either."
 
-That got their attention. The senators who had been distracted looked up. Hawkins's expression sharpened.
+That got their attention. The senators who had been distracted looked up. Hawkins's expression sharpened. Even Morrison put down his phone, curious perhaps about what else this elder statesperson might say that wasn't supposed to be said.
 
 
----
 
 "Judge Abramson," Hawkins said, "that's a rather stark assessment."
 
@@ -234,20 +225,18 @@ Morrison's face hardened, but he said nothing further. Hawkins nodded for Ruth t
 "Honestly, Senator, I'm not sure it could. But the alternative is no oversight at all."
 
 
----
 
 The questions continued for another thirty minutes. Hawkins was engaged and thoughtful; Morrison was hostile and performative; the other senators ranged between. Ruth answered each question carefully, providing the nuance and expertise they had summoned her to provide, knowing that none of it would translate into action.
 
 She spoke about international coordination, and they asked about American competitiveness. She spoke about economic displacement, and they asked about job creation. She spoke about the concentration of power in a handful of private companies, and they asked about the importance of innovation. Every answer she gave was received, acknowledged, and gently redirected toward the conclusions they had already reached.
 
-In the gallery behind the cameras, she spotted the lobbyists. Three of them that she recognized—former government officials now working for tech companies, their presence a reminder of how the system actually functioned. They would meet with these same senators after the hearing, in private rooms, offering different expertise, making different arguments. And their arguments would carry weight that hers could not, because they came with donations and dinner invitations and the promise of future employment.
+In the gallery behind the cameras, she spotted the lobbyists. Three of them that she recognized—former government officials now working for tech companies, their suits expensive, their faces patient, their presence a reminder of how the system actually functioned. They would meet with these same senators after the hearing, in private rooms with no cameras, offering different expertise, making different arguments. And their arguments would carry weight that hers could not, because they came with donations and dinner invitations and the promise of future employment, the revolving door that made all testimony provisional.
 
 Ruth felt the familiar exhaustion settling into her bones. This was not new. She had been doing this for decades, performing the role of expert witness, providing the appearance of democratic accountability. And for decades, she had believed it mattered, that even if the immediate impact was limited, the accumulation of testimony and expertise would eventually shape policy.
 
 Now she wasn't sure. The gap between what she knew and what the system could act on had grown too wide. She was shouting across a canyon, and no one was building bridges.
 
 
----
 
 Near the end of the hearing, something unexpected happened. Senator Hawkins departed from her prepared questions and looked at Ruth with an expression that seemed, for a moment, genuinely curious rather than politically calculated.
 
@@ -261,7 +250,7 @@ The room quieted. Even Morrison looked up from his phone. The question was not s
 
 Ruth considered her answer for a long moment. The honest answer was too honest for this room. The diplomatic answer would be a lie. She chose something between.
 
-"I think, Senator, that we are in a moment unlike any I have seen in my career. The technology being developed is not just another tool to be managed; it may be a fundamental change in the relationship between human institutions and the systems we create. Our frameworks—legal, political, economic—were designed for a world in which humans were the most capable agents. That assumption may no longer hold."
+"I think, Senator, that we are in a moment unlike any I have seen in my career. And I have seen a great deal." She paused, letting that land. "The technology being developed is not just another tool to be managed; it may be a fundamental change in the relationship between human institutions and the systems we create. Our frameworks—legal, political, economic—were designed for a world in which humans were the most capable agents. That assumption may no longer hold."
 
 "That sounds rather apocalyptic."
 
@@ -272,9 +261,8 @@ Hawkins nodded slowly. "Thank you for your honesty."
 "It's all I have left, Senator."
 
 
----
 
-The hearing concluded at 12:47 PM. The senators thanked Ruth for her testimony; she thanked them for the opportunity. Cameras shut off, aides gathered materials, and the theater dissolved back into the ordinary business of government. Ruth collected her notes and walked out of the hearing room feeling hollowed, like something had been extracted from her that she would not get back.
+The hearing concluded at 12:47 PM. The senators thanked Ruth for her testimony; she thanked them for the opportunity. Cameras shut off, aides gathered materials, and the theater dissolved back into the ordinary business of government—the magic circle broken, the sacred space returned to secular use. Ruth collected her notes and walked out of the hearing room feeling hollowed, like something had been extracted from her that she would not get back.
 
 In the corridor, Hawkins caught up with her.
 
@@ -299,7 +287,6 @@ Ruth hesitated. She had been thinking about it, in the hours between meetings an
 "If you write something, send it to me. I'd like to read it."
 
 
----
 
 Ruth walked out of the Dirksen Building into the April afternoon. Washington was beautiful in spring, the cherry blossoms past their peak but still visible, the sky a clear blue that seemed to promise something. She stood on the steps for a moment, breathing air that tasted of pollen and traffic, letting the hearing recede behind her.
 
@@ -328,11 +315,10 @@ Ruth began walking. The Capitol dome rose behind her, the buildings of power rec
 Maybe it was time.
 
 
----
 
 She walked past the Supreme Court, the building where she had argued cases as a young attorney, where she had later served as a law clerk, where the highest interpretations of the Constitution were decided by nine people in robes. The building looked the same as it always had—marble and authority, designed to inspire awe and confidence. But the confidence it inspired felt different now, more fragile, like a picture of something that no longer existed.
 
-The technology moving through the world did not care about constitutional interpretation. It did not wait for legislative processes or judicial review. It moved at the speed of computation, of capital, of ambition unconstrained by anything the law could provide. And the law—her law, the law she had devoted her life to—could only watch it pass.
+The technology moving through the world did not care about constitutional interpretation. It did not wait for legislative processes or judicial review. It moved at the speed of computation, of capital, of ambition unconstrained by anything the law could provide. It moved like water, finding every crack in the dam. And the law—her law, the law she had devoted her life to—could only watch it pass.
 
 By the time she reached her hotel, Ruth had made a decision. She was going to write something. Not testimony, not a legal brief, not the careful hedged language of an expert witness. Something honest. Something that said what she actually believed, rather than what the system expected her to believe.
 
@@ -343,13 +329,12 @@ Susan would have approved. Susan had always said that Ruth was too careful, too 
 It had been three years since Susan died. Maybe it was time to start saying the thing.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The hotel room felt different that evening. The same furniture, the same view, the same inadequate coffee machine—but Ruth's relationship to it had shifted. She was no longer preparing for performance; she was recovering from it, and in the recovery, something else was emerging.
 
@@ -367,7 +352,7 @@ Ruth called. Rebecca answered on the second ring, the sounds of a busy office fa
 
 "It wasn't just Morrison. You looked like you were actually saying what you thought for once. Instead of the diplomatic version."
 
-Rebecca knew her too well. At forty-three, with twenty years of social work behind her, she had developed the same capacity for reading people that Ruth had developed in courtrooms. They were alike in ways that sometimes startled Ruth—the same directness, the same impatience with pretense.
+Rebecca knew her too well. At forty-three, with twenty years of social work behind her—twenty years of watching families fracture and reunite and fracture again—she had developed the same capacity for reading people that Ruth had developed in courtrooms. They were alike in ways that sometimes startled Ruth—the same directness, the same impatience with pretense.
 
 "Maybe I was," Ruth admitted. "I'm getting too old to pretend anymore."
 
@@ -380,7 +365,6 @@ Rebecca knew her too well. At forty-three, with twenty years of social work behi
 "I am different. I think something shifted today. I'm not sure what yet."
 
 
----
 
 They talked for an hour. Rebecca was dealing with a surge in her caseload—families in crisis, unemployment claims that couldn't be processed fast enough, the leading edge of economic anxiety hitting the people least equipped to handle it. She didn't connect it explicitly to ATLAS-7, but Ruth heard the connection anyway.
 
@@ -394,7 +378,7 @@ Ruth thought about the testimony she had given, the careful legal analysis that 
 
 "I'm sorry you're dealing with that," she said.
 
-"It's the job. I knew what I was signing up for." Rebecca paused. "I think about mom sometimes. When things get hard. She would have known what to do."
+"It's the job. I knew what I was signing up for." Rebecca paused, and Ruth heard the weight of that pause, the years of accumulated difficulty that lived in it. "I think about mom sometimes. When things get hard. She would have known what to do."
 
 "Susan always knew what to do."
 
@@ -405,7 +389,6 @@ It was true. Susan's certainty had been the certainty of action, not knowledge�
 Maybe it was time to argue with honesty instead.
 
 
----
 
 "I'm going to write something," Ruth said, surprising herself with the announcement. "Something that says what I actually think. Not testimony. Not legal analysis. Something honest."
 
@@ -432,7 +415,6 @@ Ruth sighed. David. Her son, who worked in the industry she was contemplating at
 "And he's also someone who fundamentally disagrees with what I believe. That doesn't stop being true just because we share DNA."
 
 
----
 
 After the call with Rebecca, Ruth sat alone in the hotel room as evening settled into night. The city lights came on beyond her window, the same view she had been looking at for two days, now transformed by what she was planning to do.
 
@@ -446,14 +428,13 @@ She began to write.
 
 *That world is over.*
 
-The words came easier than she expected. They had been building for years, the doubts she had suppressed, the questions she had avoided asking. Now they poured out onto the page like water through a broken dam.
+The words came easier than she expected. They had been building for years, decades even—the doubts she had suppressed, the questions she had avoided asking, the accumulated weight of professional caution. Now they poured out onto the page like water through a broken dam, and she found she did not want to stop them.
 
 She wrote about the hearing she had just given, about the senators who had nodded and taken notes and would do nothing. She wrote about the lobbyists in the gallery, the power arrangements that determined outcomes regardless of testimony. She wrote about her career, the compromises she had made, the effectiveness she had imagined she was achieving while the systems she criticized grew stronger and faster.
 
 She wrote until midnight, and then she saved the draft and closed her laptop and sat in the dark.
 
 
----
 
 She should have felt exhausted, but instead she felt something like relief. The essay was rough—barely a first draft—but it existed. The words were on the page rather than circling in her head. Tomorrow she would refine them, cut and add and shape. And then she would have to decide whether to publish.
 
@@ -474,7 +455,6 @@ Something was converging. The testimony, the essay, the journalist's inquiry. Pi
 Sleep came slowly, and when it came, it was full of dreams she wouldn't remember.
 
 
----
 
 In the morning, before she left Washington, she opened the email again and composed a reply.
 
@@ -486,14 +466,13 @@ It felt like stepping off a ledge. The essay she was writing, the journalist's i
 
 What was left to protect?
 
-She packed her suitcase, checked out of the hotel, and caught the train back to Georgetown. Through the window, the American landscape slid past—suburbs and farmland and the particular green of the Mid-Atlantic in spring. She thought about her parents, who had survived the Holocaust and immigrated to this country believing in its promises. She thought about Susan, who had believed in the power of individual action to make things better. She thought about Rebecca, still fighting in the trenches of social services, and David, building wealth on the assumption that the system would hold.
+She packed her suitcase, checked out of the hotel, and caught the train back to Georgetown. Through the window, the American landscape slid past—suburbs and farmland and the particular green of the Mid-Atlantic in spring. She thought about her parents, who had survived the Holocaust and immigrated to this country believing in its promises—her mother's accent that never quite faded, her father's nightmares that he never discussed, the faith they had placed in American institutions because the alternative was despair. She thought about Susan, who had believed in the power of individual action to make things better. She thought about Rebecca, still fighting in the trenches of social services, and David, building wealth on the assumption that the system would hold.
 
 The system was not going to hold. That was the thing she knew now, the thing she had probably known for years without admitting it. The essay would say it out loud. The journalist would document it. And she would have to live with whatever came after.
 
-The train carried her home, and Ruth watched the world pass by, already composing the next paragraph in her head.
+The train carried her home through a landscape her parents would have found unimaginably peaceful, and Ruth watched the world pass by, already composing the next paragraph in her head, already becoming something other than what she had been.
 
 
----
 
 
 

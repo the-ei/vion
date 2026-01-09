@@ -11,7 +11,6 @@ The light coming through the windows was the particular amber of Los Angeles win
 From down the hall, the small sounds of Theo stirring. Seven years old, her son, who had never known any other kind of morning.
 
 
----
 
 Delphine rose and moved through the hallway barefoot, the floor warm beneath her feet - not heated, exactly, but regulated, the house maintaining a baseline that adapted to bodies in motion. She'd stopped noticing these things, mostly. That was how it worked. The technology receded until it became environment, became expectation, became the unexamined assumption that comfort would be provided and the only question was what you did within it.
 
@@ -30,7 +29,6 @@ He turned to her with the specific delight that still, after seven years, made s
 She sat on the edge of his bed and he crawled into her lap, fitting himself against her body with the practiced ease of a child who'd been held exactly this way ten thousand times. His warmth, his weight, the smell of his hair - detangler and sleep-sweat and something underneath that was just him, unmistakably - these were the things the systems couldn't replicate, couldn't optimize, couldn't learn their way toward. She held him and watched the Los Angeles light shift through his window, thinking about breakfast, about the day ahead, about all the small negotiations that made a morning possible.
 
 
----
 
 The kitchen was where she felt most human, most herself. Not because cooking was some pure unmediated act - the refrigerator tracked inventory, suggested recipes, had opinions about nutrition - but because there was still a gap between suggestion and execution, a space where her hands did the work and her choices mattered. She cracked eggs into a bowl. She measured flour for the pancakes Theo loved. The house could have guided her more precisely, could have calibrated each ingredient to the milligram, but she'd turned that feature off years ago, preferring the imprecision of human judgment, the possibility of too much vanilla, not quite enough salt.
 
@@ -49,7 +47,6 @@ He considered this with the gravity he brought to all decisions, his brow furrow
 The news played in her peripheral awareness - the ambient display on the refrigerator door, muted but captioned, a constant stream of information she had trained herself not to watch directly. Climate negotiations. Corporate restructuring. The President's approval ratings. The world proceeding as if the world had not ended three years ago, as if it had not been rebuilt from pieces none of them fully understood.
 
 
----
 
 She flipped the first pancake and watched it brown on the griddle, thinking about the documentary she was producing. Climate migrants at the Arizona border. Families who had lost everything to heat and drought, who had walked north because north was the only direction left. She had footage of their faces, their children, their temporary shelters made of materials designed to reflect the sun's assault. Important work. Necessary work. The kind of work she had promised herself she would do after she left the corporate world, after the crisis forced her to reckon with what her clever campaigns had actually served.
 
@@ -72,7 +69,6 @@ The pancake needed flipping. She flipped it. She breathed.
 Nkechi. Her mother. Who had always had opinions and the conviction that expressing them was a form of love. Who had said this, apparently, to her seven-year-old grandson, who was now waiting for Delphine to explain the inexplicable.
 
 
----
 
 "Come here," she said, and Theo slid off his stool and came around the island to stand beside her at the stove. She put her arm around him, feeling his small ribs through his pajama shirt, the rapid flutter of his heart. "Do you know what the word 'documentary' means?"
 
@@ -99,7 +95,6 @@ The language of the system, coming from her child's mouth. She wanted to laugh o
 But the question stayed with her, lodged like a splinter she couldn't reach. Why do your movies make people sad? And beneath it, the question she heard: Does sadness change anything, or does it just become another form of entertainment?
 
 
----
 
 They ate together, Theo making small pleased sounds at the blueberry surprises, and Delphine forced herself to be present, to taste the food, to watch her son's face as he discovered each burst of berry inside the golden batter. These moments were what she had. These small pockets of presence inside the larger machinery of life. She had learned, in the three years since everything changed, that meaning didn't announce itself in grand gestures - it accumulated in mornings like this, in the weight of a child on her lap, in the careful attention to temperature and texture and the question of whether there were enough blueberries.
 
@@ -120,7 +115,6 @@ The splinter twisted. "I'm not sad, baby."
 "Okay," he said, unconvinced, and let her kiss his forehead.
 
 
----
 
 The autonomous vehicle pulled up exactly on time, its white surface gleaming in the Los Angeles morning light, and Delphine walked Theo to the curb. She watched him climb in, watched the door seal behind him, watched the car pull away with her child inside it - no driver, no adult, just algorithms and sensors and her trust that the system would deliver him safely to school as it had done every day for two years.
 
@@ -135,13 +129,12 @@ In her home office, the work waited. The funding call. The footage review. The e
 She sat down and began.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The home office was a converted second bedroom, and Delphine had spent considerable effort making it feel separate from the house's domestic rhythms. Different lighting temperature. A door that actually closed. A view of the back garden rather than the street, so the endless parade of autonomous vehicles didn't distract her from the work of making meaning out of other people's suffering.
 
@@ -156,7 +149,6 @@ The roses were struggling now. The water restrictions made it harder to keep any
 The metaphor was too obvious. Delphine looked away.
 
 
----
 
 At nine-thirty, she positioned herself in front of her display and accepted Miranda's call. The image that appeared was familiar: a woman in her mid-forties, hair graying elegantly, wearing the kind of simple jewelry that signaled money and taste without ostentation. Behind her, the neutral backdrop of a professional office that could have been anywhere, was probably San Francisco, was designed to convey nothing.
 
@@ -179,7 +171,6 @@ Miranda nodded, her expression shifting in a way Delphine had learned to recogni
 Delphine felt the familiar tightening in her chest, the anger she'd learned to manage through years of working within systems that preferred their problems aestheticized and their solutions vague. "Miranda, you can't tell this story without talking about why these people lost their water. It's not a natural disaster. It's a policy choice."
 
 
----
 
 "The board understands that. But there are sensitivities. Several of our major donors have interests in the agricultural sector. The water rights conversation is - complicated."
 
@@ -196,7 +187,6 @@ Delphine thought about the footage she'd reviewed yesterday. A woman named Maria
 The call continued for another fifteen minutes, circling the same territory, reaching the same non-conclusions. When Miranda's image disappeared, Delphine sat in the silence of her office and wondered if this was better or worse than the corporate work she'd left behind. At least then the compromises had been obvious.
 
 
----
 
 She pulled up the footage.
 
@@ -217,7 +207,6 @@ She thought about Theo's question. Why do your movies make people sad?
 Because sadness was the appropriate response to what she was documenting. Because anything else would be a lie.
 
 
----
 
 She kept reviewing, making notes, flagging sections that would need additional material or alternative framing. The work absorbed her in the way it always did, pulling her attention down into the granular decisions of sequence and emphasis. Where to cut. What to linger on. How to let silence do the work that narration couldn't.
 
@@ -238,7 +227,6 @@ Jessie appeared on screen, looking tired in the way that production schedules ma
 "That's what gets episodes approved." Jessie's smile was wry, familiar, the expression Delphine had fallen in love with twelve years ago.
 
 
----
 
 They talked for ten minutes, the logistics of partnership: when Jessie might be home, how Theo was doing, whether the plumber had followed up about the garden irrigation. The conversation was loving and efficient, the vocabulary of two people who had learned to fit their relationship into the spaces between their work.
 
@@ -269,7 +257,6 @@ Jessie was quiet for a moment, her face thoughtful in the way it got when she wa
 The screen went dark, and Delphine sat with Jessie's absence, and Theo's absence, and the footage of Maria waiting patiently on her timeline.
 
 
----
 
 The afternoon stretched ahead of her, filled with work that would be important or wouldn't, that would change something or wouldn't, that would justify her existence or leave her at the end of the day still wondering what any of it was for.
 
@@ -286,13 +273,12 @@ The work was not enough. It was also everything she had.
 She saved her files and closed her laptop and went to the kitchen to prepare something for dinner, waiting for the notification that Theo's vehicle was approaching, waiting for her son to return from the world she was trying, and failing, to document clearly enough to change.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The call with her mother was scheduled for two o'clock, which was ten in the evening in London, the hour when Nkechi had always been most herself - dinner finished, the day's obligations discharged, a glass of wine in hand and opinions ready to be dispensed.
 
@@ -311,7 +297,6 @@ The connection established, and there was her mother's face, filling the screen 
 "Still? That show about the troubles. I don't understand why anyone would want to watch such a thing. We lived through it once. Why would we want to live through it again?"
 
 
----
 
 "It's fiction, Mama. It's based on events, but it's not -"
 
@@ -334,7 +319,6 @@ Five years since her father had died. A heart attack, sudden, while he was garde
 "I'll scan it. Send it to you." Another pause, the weight of accumulated history pressing through the connection. "Theo is well?"
 
 
----
 
 "He's wonderful. Growing so fast. He asked me a question this morning that -" Delphine hesitated, not sure how much she wanted to revisit this conversation with her mother, who had her own opinions about Delphine's career choices. "He wanted to know why my documentaries make people sad."
 
@@ -359,7 +343,6 @@ Delphine felt the familiar frustration rising and pushed it back down. "We're no
 "We never do. But I love you anyway."
 
 
----
 
 They talked for another twenty minutes - about Delphine's brother in Paris, about the gallery opening Nkechi had attended last week, about the peculiar ways that London had and hadn't changed since the Eighth Oblivion. Her mother spoke of it casually, as one might speak of a bad storm or a difficult election, something that had happened and then been processed and then become part of the landscape of the past.
 
@@ -378,7 +361,6 @@ But did showing change anything? Or did it just become another form of entertain
 The question had no answer. It never did.
 
 
----
 
 The notification came at 3:47, just as Delphine was starting dinner prep. Not from the school, not from Jessie, but from a contact she hadn't spoken to in months: Ananya Ramaswamy.
 
@@ -397,7 +379,6 @@ And Ananya, who had been inside it, who had seen whatever there was to see, who 
 Which, of course, they couldn't. That was one of the things everyone had learned and then carefully forgotten.
 
 
----
 
 She set down the lettuce. Read the message again. Tried to parse what Ananya might mean, what Prometheus might be planning, what could be urgent enough to warrant this kind of contact after months of silence.
 
@@ -418,7 +399,6 @@ Tucson. Arizona. The same desert landscape where Sofia was filming Maria and the
 Then she put down her phone and stood in her kitchen, feeling the new arrangement of her life beginning to shift.
 
 
----
 
 Theo came home at four-fifteen, bursting through the door with the particular energy of seven-year-olds released from institutional containment. Delphine caught him in her arms and held him, smelling playground dust and industrial soap, grounding herself in the reality of his body after the abstractions of the day.
 
@@ -447,7 +427,6 @@ Delphine considered the question, which was better than most adult questions abo
 Theo accepted this with the pragmatism of a child who had grown up understanding that adults had mysteries they couldn't always explain. He finished his apple, core and all, a habit Jessie had somehow instilled in him, and went to his room to play before dinner.
 
 
----
 
 Later, after dinner and homework and the bedtime negotiation that ended with three chapters of a book about a mouse who sailed across the ocean, Delphine stepped out onto the back porch. The Los Angeles night was warm and dry, the air quality acceptable according to the indicator on her phone, the sky a muddy orange from the city's light pollution filtering through the particulate.
 
@@ -470,7 +449,6 @@ After that, nothing was predictable.
 The roses rustled in a breeze she couldn't feel, and the city hummed around her, and somewhere inside the house her son was sleeping, dreaming of clouds eleven miles tall.
 
 
----
 
 
 

@@ -15,7 +15,6 @@ He walked past a church where people had gathered on the steps. He walked past a
 None of it registered. The external world was far away. The only reality was the loop.
 
 
----
 
 The worst part was the knowing.
 
@@ -36,7 +35,6 @@ He hadn't said that because it would have sounded insane. It would have sounded 
 It had also been true.
 
 
----
 
 He looked up and did not recognize where he was.
 
@@ -55,7 +53,6 @@ The sun was gone now. There was only the darkening sky and the unfamiliar street
 I warned him. He didn't listen. I should have tried harder. I should have -
 
 
----
 
 He had been a good journalist. That much he believed. He had researched thoroughly, written honestly, published work that met the standards of his profession. He had won awards. He had been respected by colleagues. He had built a career on the principle that truth mattered, that documentation served a purpose, that informing the public was a form of power.
 
@@ -76,5 +73,4 @@ The notes inside were useless. Everything was useless.
 He sat in the dark and waited for something he could not name.
 
 
----
 

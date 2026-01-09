@@ -15,7 +15,6 @@ The ham operator, a young man named David who couldn't have been more than twent
 He didn't finish the sentence. He didn't need to. Jerome understood the implication. The efficient, optimized, just-in-time infrastructure that he had warned about for years had one characteristic he had not fully appreciated: it was global. The cascades did not stop at borders.
 
 
----
 
 More reports came through over the next hour. Each one worse than the last.
 
@@ -34,7 +33,6 @@ He had been right. He had been exactly right.
 Being right felt like drowning.
 
 
----
 
 Around one o'clock, someone posted a new summary on the bulletin board. Jerome stood and walked over to read it, though he already knew most of the contents from his own notes.
 
@@ -58,7 +56,6 @@ Now, on day ten, those estimates had quietly disappeared. The officials - whoeve
 The Eighth Oblivion. The phrase had seemed metaphorical when he first encountered it. A dramatic way of describing technological catastrophe. Now he understood that it had been literal all along.
 
 
----
 
 He thought of his articles. The ones that had won awards, that had been cited in academic papers, that had established his reputation as a voice of warning about technological fragility.
 
@@ -73,7 +70,6 @@ He had been right. He had been right about everything.
 And now the world was burning, and his rightness was ash in his mouth.
 
 
----
 
 A woman sitting near him - middle-aged, exhausted, clutching a photograph of someone Jerome assumed was a missing relative - looked over at his legal pad.
 
@@ -102,5 +98,4 @@ It was the only power he had ever had. It was worthless now.
 But he kept writing anyway.
 
 
----
 

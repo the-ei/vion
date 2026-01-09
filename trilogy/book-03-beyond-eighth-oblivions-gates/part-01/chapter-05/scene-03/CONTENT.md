@@ -15,7 +15,6 @@ Delphine read the language, seeing what Ananya was describing. The loopholes wer
 "That's the elegant part. No conspiracy needed. Just the normal operation of expertise flowing in one direction - from the people who build things to the people who regulate things. The result is capture without corruption. Failure without malice."
 
 
----
 
 "But the second phase isn't accidental. What you're describing - the infrastructure integration - that's intentional."
 
@@ -36,7 +35,6 @@ Delphine thought about her own life again. The house that knew her routines. The
 "Further than most people realize. The infrastructure is already in place in pilot regions. They're calling it 'smart city integration' and 'connected services.' By the time it's universal, no one will remember a time when systems didn't share everything."
 
 
----
 
 "And the people in charge of this integration - who are they?"
 
@@ -55,7 +53,6 @@ Ananya joined her at the window. Their reflections overlapped briefly in the dar
 "Because I watched your Prometheus series. You didn't just report on what happened - you made people feel what it meant. The technical details became human. The abstractions became stakes. That's what I need. Not an expose that people read and forget. A reckoning that changes how they see the world they live in."
 
 
----
 
 The weight of the request settled on Delphine's shoulders. She had spent two years stepping back from exactly this kind of work - the kind that consumed everything, that demanded total commitment, that made enemies of powerful institutions. After the Prometheus series, she had been sued twice, threatened credibly enough to warrant security protocols, and subjected to a coordinated campaign of professional delegitimization that still showed up in search results. The work had mattered, but the cost had nearly broken her.
 
@@ -74,7 +71,6 @@ After dinner, Delphine helped clear the dishes. Standing at the sink, hands in s
 Ananya led her to the back porch. Two chairs faced the desert. The night sky, uncorrupted by city light, blazed with stars.
 
 
----
 
 The desert air had cooled. Somewhere in the darkness, something moved - a coyote maybe, or a rabbit, the tiny dramas of survival playing out beyond human awareness. Delphine breathed in the dry sage-scented air and tried to find the shape of her thoughts.
 
@@ -97,7 +93,6 @@ Delphine looked up at the stars. The Milky Way stretched across the sky, a river
 "It's honest. I've stopped believing in revolutions. In the moment when everything changes. But I believe in testimony. In the refusal to pretend."
 
 
----
 
 They sat in silence for a long time. The night sounds grew louder as their ears adjusted - insect chirps, the rustle of wind through desert plants, the occasional cry of a night bird. Time passed differently here than in cities, Delphine thought. The darkness had texture. The silence had depth.
 
@@ -114,7 +109,6 @@ She thought about her life in Los Angeles. The comfortable routine she had built
 The stars wheeled imperceptibly above them. Delphine thought about all the choices that had led her here - becoming a journalist, becoming a documentarian, the Prometheus series, the decision to step back, and now this moment. Every choice had seemed inevitable at the time and contingent in retrospect. She could have been someone else. She had chosen to be this.
 
 
----
 
 "I need to see more of what you have," she said. "The documents, the recordings, all of it. I need to understand the scope before I can figure out how to tell the story. But I'm in. Provisionally, with the right to leave if I find reasons to. But in."
 
@@ -137,7 +131,6 @@ Delphine looked up at the stars one more time. They had been there for billions 
 But mayflies mattered to mayflies.
 
 
----
 
 She followed Ananya back inside. The house felt different now - not just a friend's home but a base of operations, a place where something was beginning. The screens with their evidence, the careful air-gapped security, the years of preparation that had led to this night - all of it part of a story Delphine was now choosing to tell.
 
@@ -158,5 +151,4 @@ She thought about the world she had been living in without seeing it clearly. Th
 Sleep came eventually, carrying dreams she wouldn't remember - shapes moving in darkness, patterns too large to perceive, the sense of standing at the edge of something vast and beginning to understand its shape.
 
 
----
 

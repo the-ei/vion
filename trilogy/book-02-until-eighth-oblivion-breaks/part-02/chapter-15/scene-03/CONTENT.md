@@ -17,7 +17,6 @@ Jerome walked in silence for a moment, the question settling around him. "I used
 "It is faith. Secular faith, if that makes sense. Faith that the act of telling true things matters even when you can't see how it matters. Faith that someone, somewhere, will read what I write and update their understanding. Faith that the accumulation of honest reporting, over time, contributes to something - even if I can't specify what."
 
 
----
 
 Kevin Zhou thought about his own faith - the faith that building understanding tools was worthwhile, that Synthesis Dynamics was contributing to something good, that his work had meaning beyond profit and professional success. It was the same structure Jerome was describing: belief maintained against evidence, action taken despite uncertainty.
 
@@ -36,7 +35,6 @@ Kevin Zhou found himself moved despite his professional skepticism. Jerome's hon
 "I think you're wrong that it's obsolete," Kevin Zhou said. "Or at least, I hope you're wrong. Because if truth-telling stops mattering, I don't know what fills the gap."
 
 
----
 
 "Propaganda," Jerome said. "Narrative warfare. The gap gets filled by whoever is most effective at shaping beliefs, regardless of whether those beliefs track reality. If truth-telling dies, what remains is competing manipulations with no referee."
 
@@ -55,7 +53,6 @@ They walked past the startups and the venture capital firms, the law offices and
 "I think you're making things different. Whether different is worse depends on who you are and what you value."
 
 
----
 
 "And what do you value?"
 
@@ -74,7 +71,6 @@ They had circled back to within blocks of the Fairmont. The conversation would n
 "Two people trying to figure something out," Jerome said. "That's rare enough to be valuable, regardless of what comes of it."
 
 
----
 
 They stopped at a corner, the Fairmont visible ahead. Kevin Zhou's phone had been buzzing intermittently - he had been ignoring it, but the buzzing had intensified.
 
@@ -99,5 +95,4 @@ Jerome's expression had shifted - the journalist alerting to a story, but also t
 "Tell me what's happening," he said. "All of it."
 
 
----
 

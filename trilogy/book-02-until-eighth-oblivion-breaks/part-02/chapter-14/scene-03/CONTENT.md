@@ -19,7 +19,6 @@ Jerome nodded slowly. "You're making a documentary about not-knowing."
 "I've thought about that."
 
 
----
 
 "And you're doing it anyway."
 
@@ -40,7 +39,6 @@ The conversation that followed lasted three hours. Jerome walked Delphine throug
 "You don't. You just reach a point where the cost of waiting exceeds the benefit of knowing more. And then you publish and hope you weren't wrong about anything important."
 
 
----
 
 "The documents you received from Crane," Delphine said. "Can you share them with me? For the documentary?"
 
@@ -61,7 +59,6 @@ Jerome paused again, longer this time. "I think he's asking real questions that 
 "That's what I want the documentary to show. Not which interpretation is right, but why we can't determine which is right."
 
 
----
 
 "Then you're going to make a lot of people uncomfortable," Jerome said. "People want closure. They want to know that someone - experts, institutions, someone they trust - has figured out the truth. Telling them that no one has figured it out, and that maybe no one can, is deeply unsatisfying."
 
@@ -82,7 +79,6 @@ Jerome gathered his thoughts. "I believe that something unprecedented happened. 
 "I would do exactly what you're planning to do. Present the perspectives, show the gaps, let the audience understand why understanding is difficult. And accept that some people will call me a coward for not choosing a side."
 
 
----
 
 "Neutral isn't real," Delphine said. "You said that earlier. If neutral isn't real, how do I make something that isn't neutral but also isn't choosing sides?"
 
@@ -103,5 +99,4 @@ As Delphine walked back to her hotel, she thought about faith and fairness and t
 She was going to try anyway.
 
 
----
 

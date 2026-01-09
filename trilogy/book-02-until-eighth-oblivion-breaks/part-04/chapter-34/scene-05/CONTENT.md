@@ -13,7 +13,6 @@ Not a perfect way. Not a utopia. Just proof that people could organize themselve
 The anger and the proof together were a kind of fuel. A direction. A purpose.
 
 
----
 
 Daniel appeared at her side. He did not speak at first, just stood with her, looking at the stars.
 
@@ -42,7 +41,6 @@ The question cut to the heart of it. The systems were returning. The corporation
 "I don't know yet. But I know what I'm fighting for now. That's more than I had two weeks ago."
 
 
----
 
 She turned and walked back toward the fire.
 
@@ -71,5 +69,4 @@ The crisis was ending.
 Her work was just beginning.
 
 
----
 

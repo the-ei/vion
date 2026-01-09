@@ -17,7 +17,6 @@ The waitress came over - young, tired, probably working here between shifts at s
 Yusuf almost smiled. "Coffee. Black. Two of them."
 
 
----
 
 The coffee came in ceramic mugs, chipped at the handles. Kevin wrapped his hands around his like he was cold, though the shop was warm enough. Outside, the November sky had that particular Minnesota gray that would last until April, the kind of gray that seeped into your bones.
 
@@ -36,7 +35,6 @@ Yusuf couldn't argue with that. The gig workers he knew - the ones who were stil
 "We're building workforce management tools. For companies that use gig labor." Kevin held up his hand before Yusuf could respond. "I know how that sounds. I know it sounds like I'm on the other side."
 
 
----
 
 "You are on the other side."
 
@@ -55,7 +53,6 @@ Kevin pulled out a folder - actual paper, which seemed like an affectation until
 "The job is called Experience Impact Analyst. It's a real title, not something I made up. You'd be embedded in the development process. Every feature we build, you'd evaluate for its effect on the people doing the actual work. Not after deployment. During design."
 
 
----
 
 "How much?"
 
@@ -74,7 +71,6 @@ Which was exactly why he didn't trust it.
 Kevin leaned forward. "You think I don't know what that's worth? You think there's a single person in my company who understands what you understand?"
 
 
----
 
 The waitress passed by, refilling their coffees without asking. Yusuf nodded his thanks. She was already moving to the next table.
 
@@ -97,7 +93,6 @@ Yusuf thought about the delivery notification he'd silenced. About the thousands
 The word contract hung in the air between them.
 
 
----
 
 "I need time," Yusuf said finally.
 
@@ -118,7 +113,6 @@ Kevin was quiet for a long moment. When he spoke, his voice was different. Strip
 "Maybe. But it's what I've got."
 
 
----
 
 They shook hands in the parking lot, the Minnesota wind cutting through both of them. Kevin's rental car was parked next to Yusuf's - the aging Honda that had carried him through seven years of deliveries, the odometer creeping toward numbers that manufacturers never expected their vehicles to reach.
 
@@ -137,5 +131,4 @@ That night, lying in his childhood bedroom, he stared at the ceiling and thought
 He had one week to decide.
 
 
----
 

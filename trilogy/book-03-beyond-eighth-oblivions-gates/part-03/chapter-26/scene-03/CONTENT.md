@@ -13,7 +13,6 @@ I'm writing this in December 2040. You're eight years old. You probably don't re
 You won't be like your sister. That's not bad or good, just true. You take in the world differently. You need different things. This letter is trying to give you what you need, even though I'm not sure what that is yet.
 
 
----
 
 She wrote about his laugh—how it sounded like his grandfather's, how it filled rooms, how she hoped he never learned to suppress it. She wrote about his body in motion, the way he threw himself at the world without hesitation, the bruises and scrapes that testified to his engagement with physical reality.
 
@@ -28,7 +27,6 @@ My generation failed you in some ways. We knew what was coming and didn't do eno
 But I'm also proud of you—the you that doesn't exist yet—because I believe you'll be the generation that figures it out. You and Sofia and all the children I see at your school. You'll inherit our failures and make something different.
 
 
----
 
 The clock said 1:17 AM. Elena had been writing for two hours, and the letter to Mateo was approaching completion. But there was one more thing she needed to say—something unexpected, something that had been forming in her mind for days without finding words.
 
@@ -45,7 +43,6 @@ You'll have to sort through what I give you. Keep what works. Let go of what doe
 I'm writing these letters because I love you and I want to give you something. But the best gift might be permission: permission to take what's useful and leave the rest.
 
 
----
 
 She closed the letter with love and signed her name. Then she added, like her abuela had:
 
@@ -64,7 +61,6 @@ The letters were time capsules. Attempts at voices from the past speaking to the
 But they would exist. They would be there.
 
 
----
 
 Elena moved through the quiet house, past the children's rooms where they slept unknowing, to the closet where the cedar chest sat. The chest had belonged to her abuela, had crossed the border with her decades ago, had held her most precious things until they were distributed to her grandchildren after her death.
 
@@ -79,7 +75,6 @@ Either way, they would be found eventually. The letters would emerge from the da
 She closed the lid and stood in the dark closet, one hand resting on the wood her abuela had touched decades ago. Things inside things. Letters inside chests inside closets inside houses inside lives inside time.
 
 
----
 
 She returned to bed, slipping beneath the covers without waking Daniel. He breathed steadily beside her, the rhythm of a man who slept easily, who did not carry the same insomnias she did.
 
@@ -96,7 +91,6 @@ But it existed. It would survive her, or survive the version of her that wrote i
 That was all inheritance ever was. An offering. A hope. A gift that might be accepted or refused.
 
 
----
 
 Elena closed her eyes. The exhaustion was deep now, the kind that came from emotional labor more than physical work. She had spent weeks writing these letters, and now they were done. Not perfect, but done.
 
@@ -113,5 +107,4 @@ This too was inheritance. The partnership they had built, the model they provide
 Elena let sleep come at last. The letters were written. The words were given. Whatever came next was out of her hands.
 
 
----
 

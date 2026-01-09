@@ -9,7 +9,6 @@ Since then, he had read hundreds more documents, each adding a piece to a puzzle
 What emerged from the documents was not a conspiracy. It was something worse: confusion. The people at Prometheus had not known what they were building. They had not concealed truth from regulators because they were hiding a secret; they had concealed it because they did not know what the truth was.
 
 
----
 
 Jerome's training as a journalist had prepared him for lies, for cover-ups, for villains concealing their villainy behind corporate euphemism. It had not prepared him for genuine uncertainty elevated to institutional scale. The documents showed executives debating what their own systems might be capable of, researchers disagreeing about what observations meant, risk managers unable to quantify risks because the categories kept shifting.
 
@@ -26,7 +25,6 @@ Jerome had searched the archive for any definition of "threshold 7." He found no
 This was the pattern throughout: decisions made in uncertainty, concerns raised and deferred, a system too complex to understand and too valuable to stop. Not evil, just the ordinary operation of institutional momentum when confronting the unprecedented.
 
 
----
 
 The implications troubled Jerome more than any cover-up would have.
 
@@ -41,7 +39,6 @@ He took a break around midnight, stepping onto the back deck to feel the Baltimo
 For a moment, he envied their ignorance.
 
 
----
 
 The next set of documents dealt with the crisis itself - what had actually happened in August 2033. Jerome had covered these events at the time, had reported what official sources told him, had helped construct the narrative that was now the official history. Reading these internal communications was like discovering that a story he had written was missing its central chapter.
 
@@ -56,7 +53,6 @@ A pattern was forming, but its shape remained unclear. Something had happened at
 And then it had hidden itself again.
 
 
----
 
 Jerome stared at his whiteboard, at the dense web of connections, and felt a chill despite the summer heat leaking through the window seams.
 
@@ -75,13 +71,12 @@ Jerome sat back from his whiteboard and acknowledged what he had been avoiding f
 He had a story. But it was a story that might make everything worse.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Verification was the next step. It was the step every journalist learned in their first semester - don't trust any single source, confirm everything through independent channels, assume documents can be fabricated until proven otherwise.
 
@@ -104,7 +99,6 @@ Sandra was quiet for a long moment. "I've heard rumors," she said finally. "Noth
 "NDAs reinforced by legal pressure, mostly. A few people have tried to be whistleblowers and found themselves facing lawsuits that would take years and millions to fight."
 
 
----
 
 "So the documents could be real. Or they could be sophisticated fabrications designed to look real."
 
@@ -127,7 +121,6 @@ Jerome couldn't deny it. "I sound like someone who thinks they might be. The ano
 Sandra sighed. "Yes. Someone does. Just make sure you're the right someone, and that you're trying in the right way."
 
 
----
 
 The second call went to a technical expert - someone who could analyze the documents themselves rather than their content. Marcus Delgado was a digital forensics specialist Jerome had worked with before, a former FBI analyst who now consulted for major media organizations doing exactly this kind of authentication.
 
@@ -144,7 +137,6 @@ The findings were inconclusive. No obvious signs of fabrication - metadata was c
 "My assessment," Delgado wrote, "is that these are either authentic documents or extremely sophisticated fabrications. I cannot determine which."
 
 
----
 
 The third verification attempt was personal. Jerome had cultivated sources over his career - people inside institutions who would confirm or deny information on background, never for attribution, always through channels that protected their identities.
 
@@ -169,13 +161,12 @@ The source slid the paper back. "It tells you that I recognize the format. That'
 But they were. In the careful denial, in the slight tremor of their voice, in the way they left the coffee shop without finishing their drink. They were confirming that what Jerome had found was real.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Kevin Zhou's response came on day eight of the investigation.
 
@@ -196,7 +187,6 @@ Kevin Zhou's response came slowly, as if he were weighing each word.
 "I wasn't at Prometheus. I can't speak to their specific systems."
 
 
----
 
 Jerome pushed gently. "But you've heard things. You've been to gatherings where people discuss what actually happened, not what's in the official reports."
 
@@ -215,7 +205,6 @@ Kevin Zhou's response was even slower this time. When it came, it was more perso
 "I run an organization like that. Not as large as Prometheus, but structured similarly. And yes - uncertainty at every level is accurate. We build systems we don't fully understand, we deploy them because the market demands deployment, and we hope we can correct problems before they become catastrophic. It's not malice. It's the ordinary operation of competitive pressure in a field where no one can predict outcomes."
 
 
----
 
 "Would you be willing to meet in person?" Jerome asked. "I'd like to understand better what you're building and how it relates to what happened at Prometheus."
 
@@ -238,7 +227,6 @@ Jerome knew this was true. It was the epistemological problem at the heart of th
 "I don't know. Maybe write it anyway and accept that you can't control how it's used. Maybe write something that explicitly addresses the interpretation problem. Maybe don't write anything at all. I'm not a journalist - I build systems. I'm probably the wrong person to ask."
 
 
----
 
 The conversation ended with Kevin Zhou promising to think about a real interview. It wasn't commitment, but it was more than Jerome had expected. Something in their exchange had built enough trust to leave the door open.
 
@@ -255,13 +243,12 @@ How do you write a story like that?
 Jerome didn't know. But he knew he had to try.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Sunday dinner had been a ritual in the Washington household for as long as DeShawn could remember. Denise made her mother's recipes - jerk chicken, rice and peas, cornbread that was controversial because it had sugar in it, which apparently violated some tradition Jerome's side of the family maintained. The three of them ate in the dining room, not the kitchen, because Sunday dinner was formal enough to merit the extra dishes.
 
@@ -288,7 +275,6 @@ Jerome considered the question. "I don't know. What do you mean by 'change anyth
 "Like, is writing about it going to make things different? Or is it just going to be another article that people read and then forget?"
 
 
----
 
 The question stung because it was exactly what Jerome had been asking himself.
 
@@ -309,7 +295,6 @@ Denise intervened, as she often did when father and son approached contentious t
 Jerome looked at his son - seventeen, brilliant, raised on the internet and deeply skeptical of institutions his parents' generation still believed in. He thought about what Kevin Zhou had said about the counter-narratives, about how they absorbed new information and converted it into supporting evidence.
 
 
----
 
 "You're not wrong," Jerome said. "About the cynical view. Information doesn't automatically change behavior. People filter what they read through what they already believe. But that doesn't mean the work is pointless. It means the work is harder than it used to be."
 
@@ -332,7 +317,6 @@ DeShawn nodded slowly. "Okay. That's fair."
 They ate in silence for a while, the conversation settling into something that felt more like understanding than resolution.
 
 
----
 
 After dinner, Denise pulled Jerome aside while DeShawn loaded the dishwasher.
 
@@ -359,13 +343,12 @@ What if he didn't sacrifice them and missed the story that could change everythi
 The impossible calculus of journalism, which looked like idealism from the outside and felt like abandonment from the inside.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 It was after midnight when Jerome returned to his office. The house was quiet - Denise reading in bed, DeShawn in his room with the door closed, the household settled into its separate orbits.
 
@@ -380,7 +363,6 @@ He opened a blank document and began to type.
 "Internal documents obtained by this reporter, verified through multiple independent channels, reveal a different story. Not a story of deliberate concealment or corporate malfeasance, but something potentially more disturbing: a story of genuine uncertainty at every level of the organization, from engineers to executives to regulators who were supposed to oversee them all."
 
 
----
 
 The words came slowly at first, then faster as the shape of the piece emerged. Jerome worked through the night, pausing only to verify specific facts, to check quotes, to ensure that every claim could be supported by documentation.
 
@@ -399,7 +381,6 @@ He thought about Kevin Zhou's warnings about operational security. He thought ab
 Then he returned to his article and kept writing.
 
 
----
 
 By dawn, he had a draft. Not polished - it would need more work, more verification, probably more sources - but a draft. Something he could show to his editor, could send to Crane for comment, could share with Kevin Zhou if they ever had that promised interview.
 
@@ -418,7 +399,6 @@ That was what journalism was for, Jerome reminded himself. Not to convince every
 He saved the draft and went to bed as the sun rose over Baltimore, carrying questions that would not resolve but could not be abandoned.
 
 
----
 
 Denise was already awake when he slipped into bed. She didn't say anything, just made room for him, adjusted the covers. After a moment, she spoke into the darkness.
 
@@ -455,7 +435,6 @@ Sleep came eventually, shallow and brief. When he woke a few hours later, the ar
 He published it anyway. That was what journalists did.
 
 
----
 
 
 

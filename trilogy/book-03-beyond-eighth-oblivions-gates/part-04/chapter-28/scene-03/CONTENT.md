@@ -11,7 +11,6 @@ You're the granddaughter? she asked.
 Elena nodded.
 
 
----
 
 The nurse paused, looking at her more carefully.
 
@@ -36,7 +35,6 @@ Twenty years later, the system was worse in some ways, better in others, and mos
 But tonight, sitting beside her grandmother's bed, she wondered if that was enough. If survival was the same as meaning. If the doors she had built led anywhere worth going.
 
 
----
 
 Around two in the morning, she walked to the break room to get coffee. The hospice was small, only twelve rooms, and the night staff was correspondingly minimal: one nurse, one aide, a security guard who sat at the front desk and monitored the cameras.
 
@@ -65,7 +63,6 @@ You've been here a while? she asked.
 Three years. Before that I was at St. Joseph's.
 
 
----
 
 They talked for a few minutes, the easy shop talk of people who understood one another's work. Thomas told her about a patient who had died last week, a man in his fifties who had fought cancer for three years before deciding to stop treatment. How he had arranged his own goodbye party, inviting everyone he loved, playing music and telling stories until he was too tired to continue. It's better when they get to choose, Thomas said. When they're not surprised by it.
 
@@ -82,7 +79,6 @@ She smiled tiredly. He says that every night.
 Elena watched them, these two night shift workers holding the line while the rest of the world slept. They were exhausted, underpaid, working jobs that most people would never think about until they found themselves in a room like the one Elena had just left. And they were still here. Still showing up. Still providing care that the system made difficult to provide.
 
 
----
 
 She returned to abuela's room with her bitter coffee and sat in the chair, watching the numbers on the monitors, listening to the breathing that continued its slow march toward silence.
 
@@ -97,5 +93,4 @@ Abuela's hands lay still on the sheet. Elena reached out and held them, feeling 
 I understand now, she said quietly, to abuela or to herself, she was not sure which. I think I finally understand.
 
 
----
 

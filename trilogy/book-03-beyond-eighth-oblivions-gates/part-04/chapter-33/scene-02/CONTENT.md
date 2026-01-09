@@ -13,7 +13,6 @@ Renata looked at it and smiled. "That's from your friend Kevin. He sent it speci
 Kevin. The connection that had started when they were both struggling, when Yusuf was delivering packages to Kevin's building and Kevin was... whatever Kevin was doing then, the tech work that Yusuf had never fully understood. They had recognized something in each other. Now Kevin's technology was here, part of this.
 
 
----
 
 The interface glowed quietly, processing his voice through whatever algorithm Kevin had designed. Yusuf didn't understand the technology - he barely understood how a regular microphone worked - but he understood the intention. Kevin had made something to help voices be heard more fully, to capture what usually got lost in transmission. It was the opposite of what most tech seemed to do, which was flatten and compress and reduce. This was about preservation.
 
@@ -30,7 +29,6 @@ Yusuf's throat tightened. The sound check had been relatively safe, just technic
 No rush. But also no escape. He was here now, in the booth, with the microphone and the headphones and the professionals waiting behind the glass. He had to do something with this chance or he would never forgive himself.
 
 
----
 
 He had brought charts, lyrics he had written and rewritten over the years. They were in a folder in his guitar case, handwritten on notebook paper, the physical record of his attempts to say what he meant. Renata had asked him to leave the guitar in the control room for now; they would add instrumentation later, but first they wanted just his voice.
 
@@ -47,7 +45,6 @@ Don't worry about getting it perfect. Yusuf had spent his whole life worrying ab
 He looked at the lyrics in his hand and tried to remember that he wasn't trying to be perfect. He was trying to be true.
 
 
----
 
 The first attempt was a disaster. He started too high, realized it immediately, tried to adjust mid-phrase, lost the melody entirely. His voice cracked on a note he had hit perfectly a thousand times in his car. Through the window he could see Terrell making notes, Renata nodding, their faces betraying nothing.
 
@@ -68,7 +65,6 @@ Partners. The microphone and the song. The technology and the human. Kevin's int
 But maybe the capture was always part of the art. Maybe transmission was its own kind of creation.
 
 
----
 
 He tried the song again. This time he didn't try to be perfect. He let his voice do what it wanted, following the melody where it led, trusting the years of practice he hadn't known were practice. The verse came out differently than he had planned - a note bent where it should have been straight, a pause where there shouldn't have been one - but it felt true. It felt like him.
 
@@ -85,5 +81,4 @@ The sound check was over. The recording was about to begin.
 "No," Yusuf said. "But let's do it anyway."
 
 
----
 

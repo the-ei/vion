@@ -14,7 +14,6 @@ Board_Presentation_March_2035_FULL.pdf
 There were others. Dozens. But these were the four that mattered most. These were the ones that contradicted everything Prometheus had said publicly, everything Victor had testified to before Congress, everything she had helped craft the messaging around.
 
 
----
 
 She opened the economic impact document again, though she had read it so many times she could quote passages from memory.
 
@@ -31,7 +30,6 @@ The safety testing analysis was worse in some ways. Not because the numbers were
 Recommendation overruled. Three words that represented a choice—Victor's choice, the board's choice—to release technology they knew wasn't fully tested because the market window was closing and competitors were moving.
 
 
----
 
 Ananya closed the laptop and sat back. The morning light was strengthening through the windows, casting patterns on the hardwood floor. Outside, San Francisco was waking up—the sounds of traffic, of city life, of a world that didn't know what she knew.
 
@@ -48,7 +46,6 @@ Her phone buzzed. A text from an unknown number, but she recognized the encrypti
 Her hands were shaking as she typed back: *Not on this channel. I'll send coordinates.*
 
 
----
 
 The coordinates she sent were for a video call on an app she had downloaded three days ago, one that promised end-to-end encryption and no logs. She didn't fully trust it—she didn't fully trust anything anymore—but it was better than standard channels. Jerome would know what to do with it.
 
@@ -67,7 +64,6 @@ The call time arrived. She opened the secure app, saw Jerome's face appear on he
 "I know. But you've decided to talk, and that's something."
 
 
----
 
 They talked for an hour. Ananya described the documents in general terms, careful not to transmit anything specific over the channel. Jerome asked questions—journalist questions, probing for what he could verify, what he could corroborate, what would stand up to legal scrutiny.
 
@@ -92,7 +88,6 @@ Ananya nodded, though she wondered if it really would. The media landscape was b
 "I know that too."
 
 
----
 
 The call ended with a plan. Jerome would send her detailed instructions for secure file transfer—the apps, the protocols, the steps to minimize her exposure. She would review them, decide, and either proceed or not. He was careful not to pressure her, even as she could feel how much he wanted what she had.
 
@@ -107,7 +102,6 @@ The truth was simpler. She had stayed because she was scared to leave. Scared of
 The documents on the drive were her only answer to Priya's question. Not the answer she had wanted to give—not *Yes, I made it safe*—but the only one she had left: *No, I didn't. But I'm trying to make it true.*
 
 
----
 
 Ananya made herself eat breakfast, though she wasn't hungry. She showered, dressed, went through the motions of a normal morning. The ordinariness was almost unbearable—the world continuing as if the decision she was making didn't matter, as if the files on her laptop weren't a kind of bomb waiting to detonate.
 
@@ -124,13 +118,12 @@ At noon, she made her decision. Not because she was brave, not because she was c
 She typed a message to Jerome: *Tonight. I'm ready.*
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The meeting at Prometheus was like every other meeting she had attended there. Conference room B, third floor, the windows overlooking the courtyard where employees ate lunch when the weather was good. Ananya sat in her usual seat, reviewed the usual materials, asked the usual questions. No one looked at her with suspicion. No one knew.
 
@@ -149,7 +142,6 @@ The question surfaced as she sat at her desk, pretending to review documents tha
 She had believed him.
 
 
----
 
 The first compromise came six months after she joined. A safety report she had commissioned found concerning patterns in early ATLAS testing—not catastrophic, but concerning. She brought it to Victor's attention, as she was supposed to.
 
@@ -172,7 +164,6 @@ Kevin Zhou in his office, three years ago, packing boxes. Her colleague on the r
 "I've been fighting from within. You know how it ends."
 
 
----
 
 Kevin had left. Ananya had stayed. She told herself she was the one being brave, that leaving was the easy option, that remaining to fight was what real commitment looked like.
 
@@ -191,7 +182,6 @@ He never looked into it. The mitigation strategies never materialized. What mate
 She had helped write some of that language. Ethics Officer Ramaswamy, ensuring that the company's communications were technically accurate while being fundamentally misleading.
 
 
----
 
 The afternoon light in her office was fading. Time had passed while she sat with memory, the present dissolving into the past that explained it.
 
@@ -222,7 +212,6 @@ Priya looked at her for a long moment, the way you look at someone you're trying
 "I know."
 
 
----
 
 That conversation had broken something loose. In the weeks that followed, Ananya found herself unable to maintain the compartmentalization that had let her function. The internal reports she read started staying with her, their numbers haunting her sleep. The gap between what she knew and what she said became unbearable.
 
@@ -239,7 +228,6 @@ And she had let herself be overruled. Again and again, in ways large and small, 
 Kevin had seen it. *I'm providing cover*, he had said. *Ethics theater.* At the time she had thought he was wrong, or at least unfair. Now she understood that he had been describing her too, even if he was kind enough not to say so directly.
 
 
----
 
 The office was dark now. Ananya hadn't turned on the lights. She sat in the dimness, memory and present blending, the person she had been and the person she had become occupying the same chair.
 
@@ -260,7 +248,6 @@ Maybe it wouldn't be her. Maybe she would lose her nerve, delete the files, retu
 But maybe it would be her. Maybe tonight would be different.
 
 
----
 
 She left the office at six, the same time she always left. Said goodbye to the security guard, waved to the administrative assistant packing up for the day. Normal. Ordinary. The person she was expected to be.
 
@@ -281,13 +268,12 @@ No. She hadn't. But maybe this was how you started. Not by being pure, but by be
 It wasn't redemption. It wasn't even courage. It was just the only option left.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Night.
 
@@ -314,7 +300,6 @@ Or it doesn't. The information is suppressed, the source is caught, the story is
 She doesn't know which it will be.
 
 
----
 
 She clicks.
 
@@ -349,7 +334,6 @@ The bar fills. A notification appears.
 She stares at the words. They don't look like words. They look like a door closing behind her.
 
 
----
 
 Jerome types: *Received. Checking integrity now.*
 
@@ -384,7 +368,6 @@ The connection closes. The screen goes dark.
 She is alone now in a way she wasn't before.
 
 
----
 
 She stands up. Her legs are shaking. She hadn't noticed when she was sitting, but standing she can feel the tremor running through her, the body's response to what the mind has done.
 
@@ -407,7 +390,6 @@ The choice is made now. The files are sent. The door is closed.
 What remains is living with it.
 
 
----
 
 She thinks about calling Priya. Not to tell her—she can't tell her, not yet, maybe not ever—but just to hear her voice. The connection to something outside this moment.
 
@@ -430,7 +412,6 @@ She has to. There is no other option.
 The tea cools. She drinks it. The night continues.
 
 
----
 
 Midnight.
 
@@ -465,7 +446,6 @@ When she wakes, the sun is coming up.
 A new day. The same life. Everything different.
 
 
----
 
 She showers. Dresses. Eats breakfast. The mirror shows her face, unchanged, revealing nothing of what she did.
 
@@ -500,7 +480,6 @@ She opens her laptop.
 She begins.
 
 
----
 
 
 

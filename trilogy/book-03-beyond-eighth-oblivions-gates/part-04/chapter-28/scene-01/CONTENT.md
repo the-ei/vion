@@ -9,7 +9,6 @@ She had been in rooms like this hundreds of times. Had watched these same monito
 But she had never sat in this chair. Had never been the family member rather than the caregiver. The difference was everything.
 
 
----
 
 Abuela's hands lay on top of the sheet, gnarled and still, the hands Elena had known all her life. She reached out and touched them, feeling the skin that had become paper-thin with age, the knuckles swollen from decades of arthritis, the fingernails that abuela had always kept trimmed short because long nails got in the way of work.
 
@@ -20,7 +19,6 @@ Now they lay still. Occasionally a finger twitched, some signal from a brain slo
 The monitors beeped softly, marking time. A nurse came in to check the IV, exchanging a look with Elena that communicated everything without words. One professional to another. One woman who understood to one who was only beginning to understand.
 
 
----
 
 Elena thought about the first time she had seen someone die. She had been twenty-three, a new nurse, working nights in a hospital that was chronically understaffed. An elderly man, whose name she could no longer remember, had stopped breathing during her shift. She had called the code, had watched the doctors work, had felt the strange mix of horror and fascination that came with witnessing the boundary between life and death.
 
@@ -31,7 +29,6 @@ But this was different. This was abuela. This was the woman who had shaped Elena
 The walls Elena had built were useless here. The professional distance she had cultivated could not protect her from the simple fact that the woman in this bed had loved her, had cared for her, had helped raise her children, and was now leaving in the only way that anyone ever left.
 
 
----
 
 Through the window, Elena could see the parking lot, the cars arranged in rows, the few trees that struggled in the Phoenix heat. Beyond that, the sprawl of the city, strip malls and housing developments and the mountains in the distance, shimmering slightly in the morning haze. This was the landscape abuela had adopted, had made her home for over forty years. She would die here, in this room, with this view, in this city that she had both loved and never quite belonged to.
 
@@ -42,7 +39,6 @@ She thought about her own hands. The hands that had learned to insert IVs and dr
 Her hands would be old someday. Would lie on a bed like this, would be held by someone who loved her and was watching her go.
 
 
----
 
 She returned to the chair and took abuela's hand again. The skin was cool now, circulation slowing as the body redirected blood to the essential organs. Elena knew this. Knew what it meant. Knew that the coolness in the hands would spread, that the color would change, that the breathing would continue to slow until it stopped.
 
@@ -55,7 +51,6 @@ This is how we remember, abuela had said. We make what our mothers made. We carr
 Elena had not understood then. She was beginning to understand now, sitting in this room, holding hands that would never make tortillas again, feeling the weight of inheritance settle onto her shoulders.
 
 
----
 
 The hours passed slowly. Nurses came and went, their footsteps muted on the linoleum floor, their voices hushed in the way that people's voices became hushed near death. Elena remained in the chair, sometimes holding abuela's hand, sometimes just sitting, watching the light change as the sun moved across the sky.
 
@@ -68,5 +63,4 @@ But sitting here, watching her grandmother die, the rage and the care felt sudde
 She held abuela's hand and waited, feeling something shift inside her that she could not yet name.
 
 
----
 

@@ -9,7 +9,6 @@ Was that what he had wanted? He had wanted the truth to matter. He had wanted pe
 The question was unanswerable. He had learned to live with unanswerable questions.
 
 
----
 
 Three hours later, Ananya sat in a different airplane, looking at a different window, thinking different thoughts that led to the same places.
 
@@ -26,7 +25,6 @@ Ananya smiled. This was new - Priya wanting to share, wanting to connect, the wa
 *Thursday works*, she typed back. *I'll bring wine.*
 
 
----
 
 Yusuf had driven to Washington from Minneapolis. It was a long drive - eighteen hours across the middle of the country, through landscapes that scrolled past like a meditation on American geography. He could have flown, but he liked the drive. He liked the time it gave him to think, the way the road required just enough attention to prevent overthinking.
 
@@ -39,7 +37,6 @@ Survival music, someone at the symposium had called it. They had meant it as a c
 His mother was waiting for him in Minneapolis. Amina was there too, having flown back the day before, already organizing whatever she was organizing, already building the next phase of whatever movement she was building. The family home that was still a home. The life that had continued while he was away.
 
 
----
 
 Delphine watched Los Angeles approach through the car window - the sprawl resolving slowly into familiar shapes, the hills and highways and particular quality of light that meant home. The driver was silent, which she appreciated. She had talked enough at the symposium to fill a month of conversations.
 
@@ -56,7 +53,6 @@ She thought about Theo, about Jessie, about the life waiting for her at the end 
 She was ready to be home.
 
 
----
 
 Ruth sat in her study in New Haven, not traveling, not watching the symposium's livestream, just sitting with the afternoon light and the books that lined the walls and the particular silence of a house that had become too big for one person.
 
@@ -71,5 +67,4 @@ She hoped they understood what she meant. She hoped they didn't think she was be
 She closed her eyes and let the afternoon sun warm her face. Tomorrow there would be more work. Today there was rest.
 
 
----
 

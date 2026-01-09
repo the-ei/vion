@@ -9,7 +9,6 @@ Priya was somewhere in the building, probably finding coffee, giving Ananya spac
 A knock at the door. Delphine entered, looking elegant in the particular way that Delphine always looked elegant, as if she had solved some equation of appearance that the rest of the world was still working on.
 
 
----
 
 "How are you feeling?" Delphine asked.
 
@@ -34,7 +33,6 @@ Delphine grimaced. "I hate that. 'Definitive.' As if anything could be definitiv
 "Of course they will. That's what panels are for."
 
 
----
 
 Priya appeared in the doorway, holding two cups of coffee. She handed one to Ananya and kept the other.
 
@@ -61,7 +59,6 @@ Ananya looked at her daughter. This was exactly what she had told Priya in Chenn
 "When did you get so wise?"
 
 
----
 
 "I've been watching you my whole life," Priya said. "I learned a few things."
 
@@ -80,7 +77,6 @@ The stage manager knocked. "Five minutes, Ms. Ramaswamy."
 Ananya stood, smoothing her clothes, gathering herself for the performance of expertise that the panel would require. But underneath the performance, she knew she would try to be honest, would try to resist the historicization that wanted to turn her into a character in a story with a clear ending.
 
 
----
 
 "Wish me luck," Ananya said.
 
@@ -107,5 +103,4 @@ The moderator began her introduction. The lights came up. The audience listened.
 This was what it meant to be historicized: to speak about your own life as if it were already past, while knowing it continued.
 
 
----
 

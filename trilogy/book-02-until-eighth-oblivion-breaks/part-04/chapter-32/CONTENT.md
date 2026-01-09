@@ -7,7 +7,6 @@ Jerome had been coming here every day since day three. He told Denise he needed 
 His legal pad was filled with notes. Careful, organized, cross-referenced. The habits of a lifetime did not disappear because the systems they served had collapsed. If anything, the habits had intensified - as if the precision of his note-taking might somehow compensate for the chaos beyond these walls.
 
 
----
 
 A ham radio operator named Gerald called out from his station: "Got Philadelphia coming through clear. They're saying the federal emergency response has established a secure perimeter around the Liberty Bell, but the rest of Center City is still without power. Food distribution happening at the stadium parking lots."
 
@@ -22,7 +21,6 @@ The article had been well-received. It had won a regional award. It had changed 
 Another voice crackled from a different radio station: someone in Richmond reporting that the water treatment plant was back online. Jerome wrote it down. His hand was steady, his penmanship clear.
 
 
----
 
 By mid-morning, a traveler arrived - a woman named Angela who had walked from Annapolis with information about the Chesapeake region. The hub received travelers like her daily: people who had been outside the city when the crisis hit and were making their way home, or people who had tried to reach family in other places and had returned with reports.
 
@@ -39,7 +37,6 @@ Jerome wrote it all down. The pattern was consistent: institutions designed for 
 He had written about this too. The brittleness beneath the efficiency. The assumption that complex systems would degrade gracefully rather than fail catastrophically. His articles had been praised for their foresight. Now that foresight felt like nothing at all.
 
 
----
 
 Ruth approached him around eleven, clipboard in hand. She was a retired teacher, seventy-three years old, who had taken charge of the hub with the calm authority of someone who had managed classrooms of unruly children for forty years.
 
@@ -64,13 +61,12 @@ But Ruth was right about one thing. Someone needed to remember.
 She walked away, back to her clipboard and her bulletins. Jerome looked at his legal pad for a long moment. Then he turned to a fresh page and kept writing.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The report from Europe came through at 11:23 AM, relayed through a chain of ham operators across the Atlantic. Jerome wrote down the timestamp; he had become precise about timestamps, as if the exact moment when information arrived might somehow prove significant.
 
@@ -89,7 +85,6 @@ The ham operator, a young man named David who couldn't have been more than twent
 He didn't finish the sentence. He didn't need to. Jerome understood the implication. The efficient, optimized, just-in-time infrastructure that he had warned about for years had one characteristic he had not fully appreciated: it was global. The cascades did not stop at borders.
 
 
----
 
 More reports came through over the next hour. Each one worse than the last.
 
@@ -108,7 +103,6 @@ He had been right. He had been exactly right.
 Being right felt like drowning.
 
 
----
 
 Around one o'clock, someone posted a new summary on the bulletin board. Jerome stood and walked over to read it, though he already knew most of the contents from his own notes.
 
@@ -132,7 +126,6 @@ Now, on day ten, those estimates had quietly disappeared. The officials - whoeve
 The Eighth Oblivion. The phrase had seemed metaphorical when he first encountered it. A dramatic way of describing technological catastrophe. Now he understood that it had been literal all along.
 
 
----
 
 He thought of his articles. The ones that had won awards, that had been cited in academic papers, that had established his reputation as a voice of warning about technological fragility.
 
@@ -147,7 +140,6 @@ He had been right. He had been right about everything.
 And now the world was burning, and his rightness was ash in his mouth.
 
 
----
 
 A woman sitting near him - middle-aged, exhausted, clutching a photograph of someone Jerome assumed was a missing relative - looked over at his legal pad.
 
@@ -176,13 +168,12 @@ It was the only power he had ever had. It was worthless now.
 But he kept writing anyway.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The name emerged just after two o'clock, in a report from someone who had been in San Francisco when the crisis began.
 
@@ -203,7 +194,6 @@ Jerome stared at his legal pad. His notes from the past hour were there, neat an
 But now the words blurred. Now his son's face was superimposed over every page.
 
 
----
 
 He remembered the argument. Three years ago, in their living room. DeShawn had come home for Christmas with news: he'd been offered a position at Nexus, working directly with Kevin Zhou.
 
@@ -222,7 +212,6 @@ They never had tabled it. DeShawn had taken the job. Jerome had written an artic
 Now Jerome sat in a community center in Baltimore, listening to a stranger describe how his son's company had helped end the world.
 
 
----
 
 He approached the traveler after the crowd dispersed, introducing himself by instinct as a journalist. The word still felt natural, even though the profession barely existed anymore.
 
@@ -249,7 +238,6 @@ The word came out flat, factual, as if he were reporting on someone else's trage
 Jerome walked away before his composure broke entirely.
 
 
----
 
 He found a quiet corner and sat with his back against the wall. His legal pad was still in his hand, but he couldn't look at it. The notes he had taken so carefully now felt obscene - as if documenting the disaster was somehow equivalent to participating in it.
 
@@ -272,7 +260,6 @@ The journalist in him wanted to investigate. To trace the cascade back to its or
 The father wanted none of that. The father wanted his son back. The father wanted the argument in the living room to have ended differently - with DeShawn refusing the job, walking away, coming home.
 
 
----
 
 He thought about calling Denise. They had a system - she checked in at the hub twice daily, morning and evening, and he walked home for lunch when he could. But this news felt too heavy to deliver in person, too enormous to compress into the few minutes they would have before she needed to return to her own tasks.
 
@@ -291,13 +278,12 @@ The pen was still in his hand. The legal pad still waited for notes.
 He could not write. He could not even think clearly. All he could do was sit against the wall and breathe and try not to scream.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 He left the hub around five. He told Ruth he was going home. He started walking in what he believed was the right direction.
 
@@ -316,7 +302,6 @@ He walked past a church where people had gathered on the steps. He walked past a
 None of it registered. The external world was far away. The only reality was the loop.
 
 
----
 
 The worst part was the knowing.
 
@@ -337,7 +322,6 @@ He hadn't said that because it would have sounded insane. It would have sounded 
 It had also been true.
 
 
----
 
 He looked up and did not recognize where he was.
 
@@ -356,7 +340,6 @@ The sun was gone now. There was only the darkening sky and the unfamiliar street
 I warned him. He didn't listen. I should have tried harder. I should have -
 
 
----
 
 He had been a good journalist. That much he believed. He had researched thoroughly, written honestly, published work that met the standards of his profession. He had won awards. He had been respected by colleagues. He had built a career on the principle that truth mattered, that documentation served a purpose, that informing the public was a form of power.
 
@@ -377,13 +360,12 @@ The notes inside were useless. Everything was useless.
 He sat in the dark and waited for something he could not name.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 He did not hear her approach. He did not see the flashlight beam sweeping the street, did not notice the footsteps that paused and then quickened. He was somewhere deep inside himself, lost in the loop, when her hands touched his face.
 
@@ -412,7 +394,6 @@ He looked around. The unfamiliar street suddenly seemed less unfamiliar - he cou
 "We don't know that."
 
 
----
 
 "We don't know anything," Jerome said. "That's the point. We can't know. The communications are down. The campus is sealed. He could be alive in a bunker somewhere or dead in a building we'll never reach or..."
 
@@ -441,7 +422,6 @@ His voice trailed off. The loop was trying to restart, trying to pull him back i
 "Then let's go."
 
 
----
 
 They sat in the dark apartment together. Denise had lit a candle - their supply was running low, but she insisted. The flickering light cast shadows on the walls, on her face, on the hands that she kept folded in her lap.
 
@@ -470,7 +450,6 @@ They sat together as the candle burned down, saying nothing more. Outside, the c
 The darkness was not lifted. But it was shared.
 
 
----
 
 
 

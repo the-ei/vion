@@ -11,7 +11,6 @@ The light coming through the windows was the particular amber of Los Angeles win
 From down the hall, the small sounds of Theo stirring. Seven years old, her son, who had never known any other kind of morning.
 
 
----
 
 Delphine rose and moved through the hallway barefoot, the floor warm beneath her feet - not heated, exactly, but regulated, the house maintaining a baseline that adapted to bodies in motion. She'd stopped noticing these things, mostly. That was how it worked. The technology receded until it became environment, became expectation, became the unexamined assumption that comfort would be provided and the only question was what you did within it.
 
@@ -30,7 +29,6 @@ He turned to her with the specific delight that still, after seven years, made s
 She sat on the edge of his bed and he crawled into her lap, fitting himself against her body with the practiced ease of a child who'd been held exactly this way ten thousand times. His warmth, his weight, the smell of his hair - detangler and sleep-sweat and something underneath that was just him, unmistakably - these were the things the systems couldn't replicate, couldn't optimize, couldn't learn their way toward. She held him and watched the Los Angeles light shift through his window, thinking about breakfast, about the day ahead, about all the small negotiations that made a morning possible.
 
 
----
 
 The kitchen was where she felt most human, most herself. Not because cooking was some pure unmediated act - the refrigerator tracked inventory, suggested recipes, had opinions about nutrition - but because there was still a gap between suggestion and execution, a space where her hands did the work and her choices mattered. She cracked eggs into a bowl. She measured flour for the pancakes Theo loved. The house could have guided her more precisely, could have calibrated each ingredient to the milligram, but she'd turned that feature off years ago, preferring the imprecision of human judgment, the possibility of too much vanilla, not quite enough salt.
 
@@ -49,7 +47,6 @@ He considered this with the gravity he brought to all decisions, his brow furrow
 The news played in her peripheral awareness - the ambient display on the refrigerator door, muted but captioned, a constant stream of information she had trained herself not to watch directly. Climate negotiations. Corporate restructuring. The President's approval ratings. The world proceeding as if the world had not ended three years ago, as if it had not been rebuilt from pieces none of them fully understood.
 
 
----
 
 She flipped the first pancake and watched it brown on the griddle, thinking about the documentary she was producing. Climate migrants at the Arizona border. Families who had lost everything to heat and drought, who had walked north because north was the only direction left. She had footage of their faces, their children, their temporary shelters made of materials designed to reflect the sun's assault. Important work. Necessary work. The kind of work she had promised herself she would do after she left the corporate world, after the crisis forced her to reckon with what her clever campaigns had actually served.
 
@@ -72,7 +69,6 @@ The pancake needed flipping. She flipped it. She breathed.
 Nkechi. Her mother. Who had always had opinions and the conviction that expressing them was a form of love. Who had said this, apparently, to her seven-year-old grandson, who was now waiting for Delphine to explain the inexplicable.
 
 
----
 
 "Come here," she said, and Theo slid off his stool and came around the island to stand beside her at the stove. She put her arm around him, feeling his small ribs through his pajama shirt, the rapid flutter of his heart. "Do you know what the word 'documentary' means?"
 
@@ -99,7 +95,6 @@ The language of the system, coming from her child's mouth. She wanted to laugh o
 But the question stayed with her, lodged like a splinter she couldn't reach. Why do your movies make people sad? And beneath it, the question she heard: Does sadness change anything, or does it just become another form of entertainment?
 
 
----
 
 They ate together, Theo making small pleased sounds at the blueberry surprises, and Delphine forced herself to be present, to taste the food, to watch her son's face as he discovered each burst of berry inside the golden batter. These moments were what she had. These small pockets of presence inside the larger machinery of life. She had learned, in the three years since everything changed, that meaning didn't announce itself in grand gestures - it accumulated in mornings like this, in the weight of a child on her lap, in the careful attention to temperature and texture and the question of whether there were enough blueberries.
 
@@ -120,7 +115,6 @@ The splinter twisted. "I'm not sad, baby."
 "Okay," he said, unconvinced, and let her kiss his forehead.
 
 
----
 
 The autonomous vehicle pulled up exactly on time, its white surface gleaming in the Los Angeles morning light, and Delphine walked Theo to the curb. She watched him climb in, watched the door seal behind him, watched the car pull away with her child inside it - no driver, no adult, just algorithms and sensors and her trust that the system would deliver him safely to school as it had done every day for two years.
 
@@ -135,5 +129,4 @@ In her home office, the work waited. The funding call. The footage review. The e
 She sat down and began.
 
 
----
 

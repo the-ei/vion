@@ -11,7 +11,6 @@ Delphine had made a documentary about the solar buildout, three years ago. One o
 Everything she touched seemed to work this way. Stories that mattered, that changed nothing.
 
 
----
 
 Past Blythe, the road climbed through the Cactus Plain and into Arizona proper. The border was marked by a sign, a formality that concealed deeper divisions - water rights, electoral politics, the different ways that states had responded to the crisis and its aftermath. California and Arizona had been fighting over the Colorado River for longer than Delphine had been alive. The fight had only intensified as the river shrank and the demands on it grew.
 
@@ -26,7 +25,6 @@ She typed a reply: I miss you too, baby. Complete dissolution sounds both gross 
 Then she got back in the car and kept driving.
 
 
----
 
 The heat outside Phoenix was brutal even in late winter, the dashboard displaying an external temperature of 94 degrees that would have been shocking twenty years ago but was now simply Wednesday in Arizona. The climate-controlled interior of the car made it feel abstract, like watching a nature documentary about somewhere else, but Delphine knew from her research how real it was. People died from heat exposure in Phoenix now, hundreds of them every year, the numbers climbing steadily as the city became less livable for anyone who couldn't afford to stay indoors.
 
@@ -41,7 +39,6 @@ Was Delphine any different? She wanted to believe she was - that her work had mo
 She turned off the audio and drove in silence for a while, watching the desert pass.
 
 
----
 
 The approach to Tucson brought a change in the landscape - mountains rising in the distance, saguaro cacti standing like sentinels along the road, the particular texture of the Sonoran Desert that was different from the Mojave she had driven through earlier. Tucson had always been different from Phoenix: smaller, more academic, more conscious of its relationship to the desert rather than its denial of it.
 
@@ -60,7 +57,6 @@ The questions multiplied as Tucson grew closer, as the desert city emerged from 
 But she had driven all this way. She was going to hear whatever Ananya had to say.
 
 
----
 
 Ananya's message had included an address - a house in the south side of Tucson, a neighborhood that Google's mapping system described as "transitional," which Delphine understood to mean poor and getting gentrified. She navigated the car through streets that showed the particular texture of climate migration: older houses being renovated, newer construction going up in lots that had been empty, a mix of longtime residents and newcomers who had fled the coast or the drying agricultural regions.
 
@@ -83,7 +79,6 @@ They looked at each other for a moment, two women on either side of a threshold,
 "Come in," Ananya said. "We have a lot to talk about."
 
 
----
 
 Delphine crossed the threshold and stepped into Ananya's world.
 
@@ -110,13 +105,12 @@ Delphine felt the familiar sharpening of attention that came when a story became
 Ananya took a breath. "The second phase. What happened after the crisis. What's still happening, right now, while everyone thinks it's over."
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Before getting to the urgent matter, they caught up. It was a strange kind of small talk - two women who barely knew each other personally, who had only met through the networks of professional obligation that had connected them during the crisis, now sitting in a living room in Tucson trying to remember how to be human with each other before becoming co-conspirators.
 
@@ -133,7 +127,6 @@ Ananya's smile was bitter. "Trying. Yes. That's the right word. I tried for thre
 "Eighteen months ago. I didn't leave - I was pushed. Not fired outright. That would have been too obvious. But my budget got cut, my team got reassigned, my access got restricted. It became clear that my presence was tolerated rather than valued. So I started documenting what I could while I still could. And then I got out."
 
 
----
 
 "And came here."
 
@@ -158,7 +151,6 @@ Delphine thought about her own life in Los Angeles. The ambient systems in her h
 "I think you're one of the few people who might be able to. Your work has reach. It has credibility. And you've already shown you're willing to tell stories that make people uncomfortable."
 
 
----
 
 A door opened somewhere in the back of the house, and footsteps approached. Delphine turned to see a young woman entering the living room - tall, with Ananya's sharp features softened by youth, wearing the casual uniform of college students everywhere: jeans, a t-shirt from some band Delphine didn't recognize, a messenger bag slung over one shoulder.
 
@@ -189,7 +181,6 @@ She disappeared down the hallway, leaving Delphine with more questions than she'
 "Most of what I'm about to tell you. She's helped me organize some of it, actually. She has a better mind for data than I do." Ananya stood up. "But we should eat something before we get into the details. I don't know about you, but I think better on a full stomach."
 
 
----
 
 They moved to the kitchen, where Ananya assembled a simple meal from what she had: rice, vegetables, a curry that came from a jar but smelled like home cooking anyway. The domesticity of it felt incongruous with what they were about to discuss, but also necessary - a reminder that they were people first, conspirators second.
 
@@ -206,7 +197,6 @@ Delphine thought about the frameworks Ruth Abramson had helped design - the lega
 "The regulatory response was captured before it was implemented. Not obviously - no one was bribed or blackmailed in obvious ways. Nothing so crude as that. But the people designing the frameworks consulted with the companies they were meant to regulate. The companies helped write the technical standards, provided the expertise the regulators lacked. By the time anything became law, it was already obsolete - designed to constrain systems that had already evolved past the constraints."
 
 
----
 
 "So the reforms were theater."
 
@@ -231,7 +221,6 @@ Delphine felt something cold move through her. This was why Ananya had asked her
 "Show me," she said.
 
 
----
 
 After dinner, they moved to a back room that Ananya had set up as an office. The equipment was older than Delphine expected - computers that weren't connected to any network, storage drives that were physically isolated, the infrastructure of operational security made manifest in hardware.
 
@@ -250,13 +239,12 @@ Delphine read. She looked at charts showing integration points. She followed the
 "Inside Prometheus? Many people. But they're inside - they've been absorbed into the logic of what's being built. They see their piece of it, not the whole picture. Outside? A handful of researchers, most of whom have been discredited or silenced. A few journalists who touched pieces of it but couldn't see the whole." Ananya's voice hardened. "And me. Who spent three years watching it develop and now has the evidence to prove what I was too late to stop."
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The evening deepened around them as Ananya continued her explanation. Outside, the Tucson sky shifted from gold to orange to the particular purple that came before desert darkness. Inside, the air-gapped screen glowed with evidence of something Delphine was still trying to comprehend.
 
@@ -275,7 +263,6 @@ Delphine read the language, seeing what Ananya was describing. The loopholes wer
 "That's the elegant part. No conspiracy needed. Just the normal operation of expertise flowing in one direction - from the people who build things to the people who regulate things. The result is capture without corruption. Failure without malice."
 
 
----
 
 "But the second phase isn't accidental. What you're describing - the infrastructure integration - that's intentional."
 
@@ -296,7 +283,6 @@ Delphine thought about her own life again. The house that knew her routines. The
 "Further than most people realize. The infrastructure is already in place in pilot regions. They're calling it 'smart city integration' and 'connected services.' By the time it's universal, no one will remember a time when systems didn't share everything."
 
 
----
 
 "And the people in charge of this integration - who are they?"
 
@@ -315,7 +301,6 @@ Ananya joined her at the window. Their reflections overlapped briefly in the dar
 "Because I watched your Prometheus series. You didn't just report on what happened - you made people feel what it meant. The technical details became human. The abstractions became stakes. That's what I need. Not an expose that people read and forget. A reckoning that changes how they see the world they live in."
 
 
----
 
 The weight of the request settled on Delphine's shoulders. She had spent two years stepping back from exactly this kind of work - the kind that consumed everything, that demanded total commitment, that made enemies of powerful institutions. After the Prometheus series, she had been sued twice, threatened credibly enough to warrant security protocols, and subjected to a coordinated campaign of professional delegitimization that still showed up in search results. The work had mattered, but the cost had nearly broken her.
 
@@ -334,7 +319,6 @@ After dinner, Delphine helped clear the dishes. Standing at the sink, hands in s
 Ananya led her to the back porch. Two chairs faced the desert. The night sky, uncorrupted by city light, blazed with stars.
 
 
----
 
 The desert air had cooled. Somewhere in the darkness, something moved - a coyote maybe, or a rabbit, the tiny dramas of survival playing out beyond human awareness. Delphine breathed in the dry sage-scented air and tried to find the shape of her thoughts.
 
@@ -357,7 +341,6 @@ Delphine looked up at the stars. The Milky Way stretched across the sky, a river
 "It's honest. I've stopped believing in revolutions. In the moment when everything changes. But I believe in testimony. In the refusal to pretend."
 
 
----
 
 They sat in silence for a long time. The night sounds grew louder as their ears adjusted - insect chirps, the rustle of wind through desert plants, the occasional cry of a night bird. Time passed differently here than in cities, Delphine thought. The darkness had texture. The silence had depth.
 
@@ -374,7 +357,6 @@ She thought about her life in Los Angeles. The comfortable routine she had built
 The stars wheeled imperceptibly above them. Delphine thought about all the choices that had led her here - becoming a journalist, becoming a documentarian, the Prometheus series, the decision to step back, and now this moment. Every choice had seemed inevitable at the time and contingent in retrospect. She could have been someone else. She had chosen to be this.
 
 
----
 
 "I need to see more of what you have," she said. "The documents, the recordings, all of it. I need to understand the scope before I can figure out how to tell the story. But I'm in. Provisionally, with the right to leave if I find reasons to. But in."
 
@@ -397,7 +379,6 @@ Delphine looked up at the stars one more time. They had been there for billions 
 But mayflies mattered to mayflies.
 
 
----
 
 She followed Ananya back inside. The house felt different now - not just a friend's home but a base of operations, a place where something was beginning. The screens with their evidence, the careful air-gapped security, the years of preparation that had led to this night - all of it part of a story Delphine was now choosing to tell.
 
@@ -418,7 +399,6 @@ She thought about the world she had been living in without seeing it clearly. Th
 Sleep came eventually, carrying dreams she wouldn't remember - shapes moving in darkness, patterns too large to perceive, the sense of standing at the edge of something vast and beginning to understand its shape.
 
 
----
 
 
 

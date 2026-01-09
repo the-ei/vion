@@ -22,7 +22,6 @@ He slid the paper across the table. She read it, her eyes moving quickly, then s
 "Oh my god." Her hand went to her mouth. "Oh my god."
 
 
----
 
 "This is everything," Amina said. "This is—Yusuf, do you understand what this means?"
 
@@ -45,7 +44,6 @@ But there was something else. Something he couldn't articulate to Amina, who had
 "I need to see Mom," he said. "Before I decide anything."
 
 
----
 
 His mother's apartment was six blocks from his own, in a building that had been moderately maintained when she moved in and had deteriorated steadily since. The hallway smelled of cooking from three different apartments, the light fixture on her floor had been broken for months, and the elevator worked only intermittently.
 
@@ -68,7 +66,6 @@ His mother stopped with the kettle in her hand. She looked at him, and her face 
 She set down the kettle. Then she began to cry.
 
 
----
 
 The tears were not sad. Yusuf knew sad tears, knew the tears his mother had cried when his father died, when the bills came, when Amina almost had to drop out of college. These were something else. Hope, maybe. Fear. The weight of years releasing through her eyes.
 
@@ -95,7 +92,6 @@ But he didn't. That was the thing he couldn't say, not to her, not here. Somethi
 She wiped her eyes and turned to the kettle, accepting the deflection. Yusuf sat at her small table and let the familiar ritual settle over him.
 
 
----
 
 Later that night, in his own apartment, Yusuf found the box. He had not looked inside it for years, but he knew where it was—in the back of his closet, behind old shoes and equipment from gigs he no longer worked.
 
@@ -112,7 +108,6 @@ Yusuf looked at the job applications and then at his own offer letter. The numbe
 Two generations of the same aspiration, finally answered.
 
 
----
 
 He should have felt triumph. Vindication. The completion of something his father had started and never finished.
 
@@ -131,7 +126,6 @@ He would be out. That was what Darius would say—Darius, who had been organizin
 The thought kept him awake long after he should have slept.
 
 
----
 
 Before sleep came, Yusuf thought about his music. The songs he had been making for years—about gig work and algorithmic management, about hustling between apps and measuring worth in ratings. The music was good. People had told him so. But it was also material—drawn from the life he lived, the precarity that shaped his days.
 
@@ -150,5 +144,4 @@ The offer letter waited on his desk, its deadline ten days away. His father's ap
 Somewhere between the two, Yusuf would have to find his answer.
 
 
----
 

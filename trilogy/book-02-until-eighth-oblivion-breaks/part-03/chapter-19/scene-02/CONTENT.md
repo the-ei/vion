@@ -15,7 +15,6 @@ She answered on video, and her daughter's face filled the screen—seventeen now
 Of course that's what Raj noticed. Of course.
 
 
----
 
 "How's the homework coming?" Ananya asked, steering toward safer ground.
 
@@ -40,7 +39,6 @@ Priya looked up at the screen, and for a moment, Ananya saw her daughter really 
 "Mom? You okay?"
 
 
----
 
 "Just tired. Long day."
 
@@ -65,7 +63,6 @@ Ananya felt her daughter's challenge, the sharpness of a seventeen-year-old who 
 The question was so direct, so precisely aimed, that Ananya couldn't answer it immediately. What was the point of her job? To provide cover for decisions that had already been made? To write guidelines that would be ignored? To be the person Prometheus could point to and say, "See, we take ethics seriously"?
 
 
----
 
 "The point of my job," she said slowly, finding the words as she spoke them, "is to try to influence decisions. To raise concerns. To make sure people think about consequences before they act."
 
@@ -98,7 +95,6 @@ Did you make it safe?
 No. She hadn't. And she couldn't say that to anyone, not yet, perhaps not ever—not even to herself, in the dark, alone, where no one would hear.
 
 
----
 
 She didn't turn on any more lights. The city provided enough illumination through the floor-to-ceiling windows, the distant glow of a million lives being lived below her, each one unaware of what had been announced today, or aware and not yet understanding what it meant. She finished the wine without tasting it and sat very still in the growing dark.
 
@@ -113,7 +109,6 @@ Now she wondered if Kevin had simply seen more clearly than she had.
 The city lights blurred, and she realized she was crying—hot tracks down her face, unbidden, unwanted. The tears surprised her; she hadn't cried about work in years, had learned to metabolize the daily frustrations into something harder and smaller, something that could be stored. But this wasn't about work anymore. This was about who she had become while working, and what she had enabled, and what she had told her daughter that wasn't true.
 
 
----
 
 The apartment's darkness was complete now, the only light the city beyond the glass and the small green glow of various electronics on standby. Ananya sat in it like she was sitting in water, the pressure of the dark holding her in place.
 
@@ -134,5 +129,4 @@ She wasn't ready for that. Not yet. But she was beginning to understand that she
 The city lights glittered below her, indifferent to her crisis, waiting for nothing, promising nothing, offering only the ancient comfort of being one small life among millions.
 
 
----
 

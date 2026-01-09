@@ -9,7 +9,6 @@ Third: Paula Andersen, a therapist who specialized in trauma and had spent years
 Then Yusuf.
 
 
----
 
 Yusuf walked through the door looking like he had stepped onto an alien planet. He was wearing the same clothes he always wore - thrift store flannel, worn jeans, the boots that had carried him through years of gig work. The tech loft with its brushed steel and acoustic panels and expensive equipment was as far from his world as anything could be. But he was here anyway, because Kevin Zhou had asked him, because the friendship between them somehow persisted despite having no obvious foundation.
 
@@ -32,7 +31,6 @@ Yusuf nodded slowly. He had heard Kevin Zhou explain the interface before, had u
 They stood together for a moment, two improbable friends, the MIT prodigy and the gig worker musician, united by nothing except a shared sense of being outsiders to their own lives. Then Kevin Zhou turned to greet the final participant, and the gathering was complete.
 
 
----
 
 The last participant was Sandra Reyes, a community organizer from Oakland who had spent her career fighting against the displacement caused by tech money. She was fifty, Latina, with a directness that Kevin Zhou found both intimidating and refreshing. He had invited her specifically because she was skeptical of everything he represented, because if the interface could work across that divide, it could work anywhere.
 
@@ -47,7 +45,6 @@ The group milled around the loft, awkward in the way that strangers are before a
 DeShawn was explaining something technical to Margaret. Paula was asking Sandra about her organizing work. And Yusuf stood by the window, looking out at San Francisco, apart from the group the way he was apart from most groups, the outsider who somehow kept showing up anyway.
 
 
----
 
 Kevin Zhou watched them all and felt his familiar displacement. He had invited these people. He had designed this experience. He was the host, the architect, the brain behind everything about to happen. And yet he felt less present in the room than any of them, hovering at the edges of his own event, unable to simply be with the others.
 
@@ -66,5 +63,4 @@ He thought of his father, always disappointed in his social failures. He thought
 Then he began to explain.
 
 
----
 

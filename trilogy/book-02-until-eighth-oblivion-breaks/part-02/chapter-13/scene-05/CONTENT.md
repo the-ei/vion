@@ -23,7 +23,6 @@ The boarding announcement echoed through the station. Ruth released her son and 
 "The law wasn't built for this. And neither were we." He smiled, repeating her words back to her. "I'll try to remember that. When it feels like I should have been able to do better - I'll try to remember that we're all just doing what we can."
 
 
----
 
 Ruth nodded, unable to speak. She walked to the train, found her seat, watched through the window as New York receded into the distance. The Hudson appeared on her left, sunlight sparkling on its surface, the same water that had flowed past these banks for millions of years and would continue flowing long after every problem she was contemplating had ceased to matter.
 
@@ -36,7 +35,6 @@ David was being prosecuted as if the old categories still applied. As if he, per
 The law would try him anyway. Because that's what law did - it applied old categories to new situations and hoped the judgment was close enough to justice.
 
 
----
 
 Union Station appeared as the sun was setting, the dome golden in the evening light. Ruth gathered her things and prepared to return to her apartment, to her empty rooms, to the solitude that had become her constant companion since Susan's death.
 
@@ -55,7 +53,6 @@ She took a taxi home, poured herself a glass of Susan's scotch, and sat in the d
 Sleep came late and offered no rest.
 
 
----
 
 The next morning, Ruth woke to more alerts. Jerome Washington had published something - a piece about Prometheus that was already generating commentary from every corner of the internet. She found the article and read it slowly, noting the careful construction, the hedged claims, the professional uncertainty that nevertheless conveyed that something significant was being concealed.
 
@@ -70,5 +67,4 @@ Her son was caught in that space. So was she.
 So, perhaps, was everyone.
 
 
----
 

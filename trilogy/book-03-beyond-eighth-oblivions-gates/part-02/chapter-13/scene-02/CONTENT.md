@@ -17,7 +17,6 @@ Priya curled her legs under her on the couch. She looked younger suddenly, more 
 Ananya thought back. There were so many meetings, so many decisions, most of them blurred together by time and by the protective forgetting that the mind performed on uncomfortable memories.
 
 
----
 
 "There was a meeting in 2032," she said. "September, I think. We were reviewing a new recommendation system that was designed to maximize engagement on the health content platform."
 
@@ -44,7 +43,6 @@ Priya's face shifted. "That's horrifying."
 Priya was quiet for a long moment. "How many people had panic attacks after using that platform? How many convinced themselves they were dying because an algorithm told them they might be?"
 
 
----
 
 "I don't know. The internal research suggested significant numbers, but the company never published it. That research is part of what leaked during the lawsuit."
 
@@ -71,7 +69,6 @@ Priya's eyes were wet. Ananya couldn't tell if it was anger or sadness or some c
 "Yes. Among other reasons. But yes."
 
 
----
 
 "I need to tell you something else," Ananya said. "About the moment I knew I should leave."
 
@@ -98,7 +95,6 @@ Priya stood up, walked to the window. The city was darkening outside, lights app
 "Neither do I. Not entirely. I think - I think it's easier than it sounds to know something and not act on it. I think most people spend most of their lives doing exactly that."
 
 
----
 
 "That's not comforting."
 
@@ -127,7 +123,6 @@ Priya crossed back to the couch but didn't sit. She stood over her mother, looki
 "I know. I don't either."
 
 
----
 
 "Do you regret it? All of it?"
 
@@ -156,7 +151,6 @@ Ananya rose, grateful for the ordinary task, the mundane motion of moving food f
 "I should have told you sooner. I should have told everyone sooner."
 
 
----
 
 They ate at the small kitchen table, the food lukewarm but adequate. The conversation paused while they chewed and swallowed, the ordinary rhythm of a meal providing relief from the intensity of what they had been discussing.
 
@@ -185,5 +179,4 @@ Ananya considered how to respond. She and Vikram had divorced partly over this d
 The microwave beeped. Neither of them had put anything else in it. A ghost in the machine, some timer from earlier in the day.
 
 
----
 

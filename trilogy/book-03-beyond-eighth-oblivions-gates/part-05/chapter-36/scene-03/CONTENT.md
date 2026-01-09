@@ -9,7 +9,6 @@ The house smelled like incense and marigolds and grief. Under those scents, some
 Priya had gone to the room they were sharing, tired from travel and emotion. Ananya was tired too, but the tiredness had passed through exhaustion into something beyond, a wired alertness that would not let her rest. She found herself in what had been her childhood bedroom, now converted to a guest room, and sat on the edge of the bed that was not her childhood bed, looking at walls that had been repainted, at furniture that had been replaced.
 
 
----
 
 Her phone buzzed. A message from Delphine.
 
@@ -30,7 +29,6 @@ Ananya set the phone down and opened the closet. Her mother had kept things. Tha
 She pulled out a box at random. Inside: Ananya's school notebooks from fifth standard. Mathematics. English. Tamil. The pages yellowed, the ink faded, but legible still. Her childhood handwriting, practicing cursive, solving equations, writing short essays about the monsoon.
 
 
----
 
 She had written an essay about what she wanted to be when she grew up. She found it in the English notebook, dated 1984, when she would have been ten years old. "I want to be a scientist," she had written. "I want to discover things that nobody has discovered before. I want to help people with my discoveries."
 
@@ -45,7 +43,6 @@ And none of it had brought her back here until her mother was dead.
 There was another box. Photographs. She opened it and found herself looking at her own face at various ages, at her mother's face young and then middle-aged, at family gatherings and temple festivals and ordinary moments someone had thought worth preserving.
 
 
----
 
 There she was with Priya as an infant, visiting Chennai when Priya was only months old. That trip felt distant, almost mythical now - the journey with a baby, her mother's joy at holding her grandchild, the promises Ananya had made about returning often, visiting regularly, maintaining the connection across the ocean.
 
@@ -70,7 +67,6 @@ Ananya stared at the words. Of course her mother had loved her. That was never i
 Her father appeared in the doorway. She hadn't heard him approach.
 
 
----
 
 "You found the boxes," he said.
 
@@ -93,5 +89,4 @@ Here. The word hung between them. The life that had been here, in Chennai, in th
 Her father closed his eyes. "Stay as long as you can," he said. "Then go back to your life. She would have wanted you to continue."
 
 
----
 

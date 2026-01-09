@@ -9,7 +9,6 @@ The meditation was still hard. His mind still wanted to plan, to optimize, to ru
 At six, he made breakfast. Eggs scrambled with vegetables, toast with avocado, coffee from the small pour-over setup he had become unreasonably attached to. The ritual of cooking grounded him in his body in ways that the digital work of the rest of his day couldn't.
 
 
----
 
 By seven, he was at his desk - a simple setup, one monitor, a mechanical keyboard he had splurged on because the tactile feedback pleased him. The project he was working on lived in several repositories, the code accumulated over eighteen months of careful building. Digital infrastructure for mutual aid networks: tools that helped communities share resources, coordinate assistance, build the kind of resilience that didn't depend on systems controlled by people who didn't care about them.
 
@@ -26,7 +25,6 @@ DeShawn.
 Exciting news - Prometheus wants to talk about acquiring us. This could be huge. Call me when you can?
 
 
----
 
 Kevin read the message twice, feeling something cold settle in his stomach.
 
@@ -43,7 +41,6 @@ Kevin saw something else. He saw the pattern. He saw his own trajectory, replaye
 He picked up his phone and called.
 
 
----
 
 DeShawn's face appeared on screen, glowing with excitement. Behind him, the cluttered background of what looked like a garage converted into an office - the aesthetic of scrappy startups that Kevin remembered from his own early days.
 
@@ -70,7 +67,6 @@ DeShawn's expression shifted slightly - not conviction, but maybe the beginning 
 "I think you should understand what you're walking into. Prometheus isn't interested in helping you build what you want to build. They're interested in acquiring what you've built and turning it into something that serves their interests."
 
 
----
 
 "Their interests include helping small businesses succeed. That's what our platform does. If they integrate it into their ecosystem, more businesses get access."
 
@@ -97,7 +93,6 @@ He had been wrong. That was what he was trying to tell DeShawn.
 But being wrong was something you had to learn yourself. No one else's learning could substitute.
 
 
----
 
 He went back to his code, but the focus was gone. The matching algorithm still needed work, but his mind kept drifting back to DeShawn, to Prometheus, to the choices he himself had made at that age and the consequences that had followed.
 
@@ -120,13 +115,12 @@ The matching algorithm. People who had things finding people who needed them. Sm
 It wasn't enough. But it was what he could do without becoming what he had fled from.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The walk started at one, after lunch and a brief call with one of his teammates about a bug that had shown up in the testing environment. He took the route he had come to think of as his thinking loop - down from Temescal toward Lake Merritt, through the Chinatown streets where the signs were in languages his parents spoke and he had never fully learned, then around the lake itself, watching the other walkers and joggers and the occasional person who seemed to have nowhere particular to go.
 
@@ -139,7 +133,6 @@ But there were other stories too. The murals that had appeared on buildings duri
 Kevin walked and observed and tried not to think too much about what he was observing. The analytical habit was hard to break - the pattern-matching that had made him good at his old work still wanted to categorize everything, find the systems, predict the outcomes. But prediction was what had gotten him in trouble. Now he was trying to learn how to simply be present, without needing to know what came next.
 
 
----
 
 Chinatown appeared around him with its particular density - the grocery stores with their bins of produce spilling onto the sidewalk, the restaurants sending smells of cooking oil and ginger into the street, the pharmacies with their mysterious packages of herbs and remedies his grandmother would have known how to use. Kevin moved through it like a ghost of a different life, someone who looked like he belonged but didn't, not really.
 
@@ -154,7 +147,6 @@ He thought about calling her. It had been two weeks since their last conversatio
 At a bench by the lake, he found a quiet spot and dialed.
 
 
----
 
 His mother's face appeared on screen, pixelated at first, then resolving into clarity. She was sixty-two, her hair going gray in the way that his grandmother's had, her face carrying the particular weariness that came from watching the world become less predictable than she had been promised.
 
@@ -185,7 +177,6 @@ The question that sat at the center of every conversation. When will you come ho
 "I know. I know. We're patient." But her voice said otherwise. Her voice said that patience was what you practiced when you had no other choice.
 
 
----
 
 They talked for another ten minutes, filling the space with updates about relatives and weather and the small news of daily life. His mother told him about a cousin who had gotten engaged, about a friend's child who had been accepted to university, about the construction happening near their apartment. Kevin told her about his work without details, about Oakland without politics, about his health without the loneliness that shadowed everything.
 
@@ -202,7 +193,6 @@ But home was also the video calls that kept cutting out, the conversations that 
 He stood up and continued walking. The lake sparkled in the afternoon light, and somewhere a child laughed at something, and the world kept turning regardless of what he felt about any of it.
 
 
----
 
 The afternoon stretched toward evening as he completed his loop. Through downtown with its mix of renovation and decay, past the new construction that promised revitalization and the old buildings that refused to give way. The city was layered with its own history - the port town it had been, the industrial center it had become, the tech-adjacent afterthought it had evolved into during the boom years when San Francisco got too expensive and people started looking across the bay for something cheaper.
 
@@ -225,7 +215,6 @@ It was a thought. Not fully formed, but something.
 He walked home through the cooling evening, turning the idea over in his mind.
 
 
----
 
 Back at the apartment, he made dinner. Simple food - rice, vegetables, a piece of fish from the market down the street. The cooking calmed him, as it always did, the repetitive actions of chopping and stirring and tasting bringing him back to his body after too many hours in his head.
 
@@ -260,13 +249,12 @@ Jerome Washington. The journalist. DeShawn's father.
 Maybe there was something Kevin could do after all.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The video call with DeShawn that evening had a different quality than the morning's conversation. Something in the younger man's voice had shifted - not convinced, exactly, but less certain than he had been. Kevin hoped that was good sign. He feared it might be irritation.
 
@@ -291,7 +279,6 @@ DeShawn was quiet for a moment, his face doing that processing thing Kevin had l
 "Tell me about your company," DeShawn said finally. "What actually happened?"
 
 
----
 
 Kevin had told the story before, in fragments, but never the whole thing. Something about DeShawn's question - the genuine curiosity in it, the willingness to hear something that might complicate his certainty - made Kevin want to tell it properly.
 
@@ -314,7 +301,6 @@ DeShawn's expression had changed. Not convinced, but not dismissive either. "You
 "I didn't know enough to ask the right questions. And by the time I understood what was happening, I was so deep inside the system that leaving felt like failure."
 
 
----
 
 "But you did leave."
 
@@ -343,7 +329,6 @@ Kevin understood both sides of that dynamic. The father who saw patterns from ex
 "Is that what he's saying? Or is he saying be careful?"
 
 
----
 
 DeShawn didn't answer. The question hung between them, complicated by whatever history Kevin couldn't see.
 
@@ -374,7 +359,6 @@ But hope wasn't certainty. And the pattern was strong.
 After the call ended, Kevin sat in his apartment and looked at the Oakland lights through his window. The city was beautiful at night, in its rough way - the harbor lights reflecting off the water, the hills rising dark against the sky, the ordinary accumulation of a million small lives being lived.
 
 
----
 
 He thought about the conversation. About what DeShawn had said regarding his father - the impossible-to-please father, the gap between them that felt like disapproval but might be something else.
 
@@ -401,7 +385,6 @@ Mr. Washington, my name is Kevin. I'm a former tech founder who has been informa
 He read it three times, then hit send before he could change his mind.
 
 
----
 
 Then he stood at the window and watched the lights and waited to see if anything would come of it.
 
@@ -422,7 +405,6 @@ Was that hope or hubris? He couldn't always tell the difference.
 He finished his tea and went back to his desk. The code was still there, patient and impersonal, waiting for his attention. He opened the file and began working again, letting the logic of the system carry him away from questions he couldn't answer.
 
 
----
 
 At eleven, he closed his laptop and prepared for bed. The day had been long - the morning's coding interrupted by DeShawn's news, the afternoon's walk through Oakland with its complicated thoughts about distance and belonging, the evening's conversations that might or might not have changed anything.
 
@@ -447,7 +429,6 @@ Tomorrow would be different. Tomorrow Yusuf would be here.
 Tomorrow would bring new threads to follow, new questions to carry, new attempts to do whatever small good remained possible in a world that kept finding ways to absorb good intentions into larger designs.
 
 
----
 
 
 

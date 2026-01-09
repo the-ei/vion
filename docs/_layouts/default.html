@@ -6,8 +6,60 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <title>{{ page.title | default: site.title }}</title>
+    <style>
+      /* Dynamic TOC styles */
+      #toc-toggle {
+        position: fixed;
+        left: 10px;
+        top: 100px;
+        z-index: 1000;
+        background: #333;
+        color: #fff;
+        border: none;
+        padding: 8px 12px;
+        cursor: pointer;
+        border-radius: 4px;
+        font-size: 14px;
+        opacity: 0.7;
+        transition: opacity 0.2s;
+      }
+      #toc-toggle:hover { opacity: 1; }
+      #toc-panel {
+        position: fixed;
+        left: 0;
+        top: 0;
+        width: 280px;
+        height: 100vh;
+        background: #f8f8f8;
+        border-right: 1px solid #ddd;
+        overflow-y: auto;
+        padding: 20px;
+        transform: translateX(-100%);
+        transition: transform 0.3s ease;
+        z-index: 999;
+        font-size: 13px;
+      }
+      #toc-panel.open { transform: translateX(0); }
+      #toc-panel h3 { margin-top: 0; font-size: 14px; color: #666; }
+      #toc-panel ul { list-style: none; padding-left: 0; margin: 0; }
+      #toc-panel li { margin: 4px 0; }
+      #toc-panel a { color: #333; text-decoration: none; }
+      #toc-panel a:hover { color: #0066cc; }
+      #toc-panel a.active { font-weight: bold; color: #0066cc; }
+      .toc-part { font-weight: bold; margin-top: 12px; }
+      .toc-chapter { padding-left: 12px; }
+      @media (max-width: 768px) {
+        #toc-toggle { left: 5px; top: 60px; padding: 6px 10px; }
+        #toc-panel { width: 240px; }
+      }
+    </style>
   </head>
   <body>
+    <button id="toc-toggle" style="display:none;">Contents</button>
+    <nav id="toc-panel">
+      <h3>Table of Contents</h3>
+      <div id="toc-content"></div>
+    </nav>
     <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | relative_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
@@ -20,5 +72,49 @@
         <p><em>The Eighth Oblivion Trilogy</em></p>
       </footer>
     </div>
+    <script>
+      // Build TOC from headings
+      document.addEventListener('DOMContentLoaded', function() {
+        const headings = document.querySelectorAll('h1, h2');
+        const tocContent = document.getElementById('toc-content');
+        const tocToggle = document.getElementById('toc-toggle');
+        const tocPanel = document.getElementById('toc-panel');
+
+        if (headings.length > 3) {
+          tocToggle.style.display = 'block';
+          let html = '<ul>';
+          headings.forEach((h, i) => {
+            if (!h.id) h.id = 'heading-' + i;
+            const text = h.textContent.substring(0, 40) + (h.textContent.length > 40 ? '...' : '');
+            const cls = h.tagName === 'H1' ? 'toc-part' : 'toc-chapter';
+            html += '<li class="' + cls + '"><a href="#' + h.id + '">' + text + '</a></li>';
+          });
+          html += '</ul>';
+          tocContent.innerHTML = html;
+        }
+
+        tocToggle.addEventListener('click', function() {
+          tocPanel.classList.toggle('open');
+        });
+
+        // Close TOC when clicking a link
+        tocPanel.querySelectorAll('a').forEach(a => {
+          a.addEventListener('click', () => tocPanel.classList.remove('open'));
+        });
+
+        // Highlight current section
+        const observer = new IntersectionObserver(entries => {
+          entries.forEach(entry => {
+            if (entry.isIntersecting) {
+              document.querySelectorAll('#toc-panel a').forEach(a => a.classList.remove('active'));
+              const link = document.querySelector('#toc-panel a[href="#' + entry.target.id + '"]');
+              if (link) link.classList.add('active');
+            }
+          });
+        }, { threshold: 0.5 });
+
+        headings.forEach(h => observer.observe(h));
+      });
+    </script>
   </body>
 </html>

@@ -11,7 +11,6 @@ She had left India at twenty-two. That was twenty-five years ago. A quarter cent
 And now she was a daughter whose mother had died.
 
 
----
 
 They moved through customs, Ananya's American passport examined with the particular scrutiny that marked her as one who had left, who had chosen elsewhere, who was now returning for reasons the officer didn't need to know. Priya's passport got a different look entirely - the officer glanced at the San Francisco birthplace, the face that was half her father's Irish features and half Ananya's own, and something shifted in his expression. The diaspora's child. The generation that didn't know what they had lost because they had never held it.
 
@@ -26,7 +25,6 @@ They emerged into the main hall and the wall of sound hit them. Tamil everywhere
 Ananya's uncle Venkat stood at the center, thinner than she remembered, his hair gone entirely white. Beside him, a woman she gradually recognized as her cousin Lakshmi, no longer the teenager of Ananya's memory but a middle-aged woman with reading glasses pushed up on her head. And others, faces she would have to sort through, identities she would have to reconstruct from the wreckage of years.
 
 
----
 
 They converged on her with grief and welcome intermingled, the two emotions impossible to separate. Uncle Venkat embraced her with surprising strength, and she felt his body shudder with weeping he was trying to suppress. Her mother's youngest brother. The baby of that generation, now an old man.
 
@@ -41,7 +39,6 @@ The drive through Chennai completed what the airport had begun. The city overwhe
 Priya sat silent beside her in the car, watching through the window, trying to take it in.
 
 
----
 
 "This is where you grew up?" Priya asked finally, her voice carefully neutral.
 
@@ -58,7 +55,6 @@ The thought arrived like a blade.
 Her mother had lived in that house for forty-seven years. Had come there as a young bride, had raised Ananya and her brother there, had grown old there while Ananya grew old elsewhere. And now her mother was dead, and the house would be full of her absence, and Ananya would have to walk into that absence and somehow find the woman who knew how to grieve.
 
 
----
 
 The car stopped. The house looked smaller than she remembered, but every house does, seen through adult eyes. The gate was new, metal instead of the wooden one she had known, but the bougainvillea climbing the wall was the same, or its descendant, the same impossible magenta flowers cascading over the compound wall. Someone had painted the house more recently - cream now instead of the yellow she remembered - but the proportions, the windows, the front porch where she had sat with her mother shelling peas, all of that remained.
 
@@ -75,13 +71,12 @@ Her mother's body. The distinction mattered and didn't matter.
 Ananya stood at the threshold, Priya's hand still in hers, and let the fact of it enter her. Whatever she had braced for, it was not this. It was never this.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The cremation ground lay at the edge of the city, where Chennai dissolved into something less defined. They arrived in a convoy of white cars - Ananya, Priya, her father, her brother Suresh who had flown in from Bangalore, the aunts and uncles and cousins who would witness this ending. The morning was already hot, the sun insistent through a haze that might have been humidity or pollution or simply the atmosphere of grief.
 
@@ -94,7 +89,6 @@ She understood now even less than she had then. The words were sounds, were rhyt
 Her father walked ahead, bent in a way she had never seen him, his spine curved under a weight that had nothing to do with the body. He was eighty-one years old and he had just lost the woman he had been married to for fifty-three years. Ananya watched him move toward the building where his wife's body would become ash, and she saw in his posture something she recognized: the particular devastation of the one who remains.
 
 
----
 
 Priya stayed close to Ananya as they entered the building, navigating between clusters of mourners, finding their place in the geography of grief that the priest directed. There was a room where the body was placed, and chairs arranged in rows, and a window through which the flames would be visible when the time came. Everything was organized, procedural, designed to contain the chaos of death within manageable boundaries.
 
@@ -111,7 +105,6 @@ There was Lakshmi, her cousin, leading her forward.
 The eldest daughter. A category Ananya had not thought about in years. There had only been her and Suresh. She had been the eldest and the only daughter, a position that carried weight she had escaped by leaving.
 
 
----
 
 She stood where Lakshmi placed her, near the body, near the platform that would slide into the chamber. The priest pressed a small vessel of water into her hands, and she poured it where he indicated, feeling the gesture's meaning without knowing its name. Her mother's face was visible still, arranged in the calm that death provides, the features settling into something peaceful or simply still.
 
@@ -124,7 +117,6 @@ Those hands were still now. Everything was still.
 The chanting continued, rose toward something, and Ananya felt the moment approaching. The platform would move. The doors would close. The fire would do its work. Her mother would become ash and memory and the particular shape of absence that would walk beside Ananya for the rest of her life.
 
 
----
 
 Priya was crying. Ananya heard it before she saw it - the small sounds of her daughter's grief, expressed in a way Ananya's own body refused to allow. Priya had met her grandmother only through screens, had known her through the mediated reality of video calls and photographs and stories Ananya told. And yet she wept, and the weeping was real, was for something real.
 
@@ -145,7 +137,6 @@ Fire.
 Ash.
 
 
----
 
 Time passed strangely. Ananya stood and then sat and then stood again. Relatives spoke to her, and she responded, though she could not afterward recall what was said. The cremation took hours - this she had not known, had not thought about, the duration of fire. They waited in that building while the transformation completed itself, while her mother's body became reduced to what fire could not consume.
 
@@ -162,7 +153,6 @@ Ananya's throat closed.
 "She wanted to visit you," the aunt continued. "Every year she said next year. Next year we'll go to San Francisco, see Ananya, see Priya." The aunt looked toward where Priya sat. "She had your school photographs on her wall. Did you know that?"
 
 
----
 
 Ananya had not known that. She had not known so many things. The shape of her mother's daily life, the texture of it, the small decisions and moments and accumulations that had made up the decades since Ananya had left this city - all of it was opaque to her. She had received the highlights through phone calls and video calls, had constructed an idea of her mother's life from fragments and updates, but the actual texture of it, the quotidian truth of how her mother had lived, had been invisible to her.
 
@@ -177,13 +167,12 @@ They walked out of the crematorium into Chennai's hot afternoon, and the city wa
 Ananya stood in the sunlight and felt the weight of it: her mother was gone, and she had come back too late, and this was how it was.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The house was full of people and then, eventually, it wasn't. Ananya watched the relatives disperse through the evening, the neighbors returning to their homes, the cousins heading back to their own lives in Bangalore and Hyderabad and Mumbai. The rituals of the day had been observed. The condolences had been offered. What remained was the family itself, contracted now to its essential core: Ananya, Priya, her father, her brother who would fly back tomorrow.
 
@@ -196,7 +185,6 @@ The house smelled like incense and marigolds and grief. Under those scents, some
 Priya had gone to the room they were sharing, tired from travel and emotion. Ananya was tired too, but the tiredness had passed through exhaustion into something beyond, a wired alertness that would not let her rest. She found herself in what had been her childhood bedroom, now converted to a guest room, and sat on the edge of the bed that was not her childhood bed, looking at walls that had been repainted, at furniture that had been replaced.
 
 
----
 
 Her phone buzzed. A message from Delphine.
 
@@ -217,7 +205,6 @@ Ananya set the phone down and opened the closet. Her mother had kept things. Tha
 She pulled out a box at random. Inside: Ananya's school notebooks from fifth standard. Mathematics. English. Tamil. The pages yellowed, the ink faded, but legible still. Her childhood handwriting, practicing cursive, solving equations, writing short essays about the monsoon.
 
 
----
 
 She had written an essay about what she wanted to be when she grew up. She found it in the English notebook, dated 1984, when she would have been ten years old. "I want to be a scientist," she had written. "I want to discover things that nobody has discovered before. I want to help people with my discoveries."
 
@@ -232,7 +219,6 @@ And none of it had brought her back here until her mother was dead.
 There was another box. Photographs. She opened it and found herself looking at her own face at various ages, at her mother's face young and then middle-aged, at family gatherings and temple festivals and ordinary moments someone had thought worth preserving.
 
 
----
 
 There she was with Priya as an infant, visiting Chennai when Priya was only months old. That trip felt distant, almost mythical now - the journey with a baby, her mother's joy at holding her grandchild, the promises Ananya had made about returning often, visiting regularly, maintaining the connection across the ocean.
 
@@ -257,7 +243,6 @@ Ananya stared at the words. Of course her mother had loved her. That was never i
 Her father appeared in the doorway. She hadn't heard him approach.
 
 
----
 
 "You found the boxes," he said.
 
@@ -280,13 +265,12 @@ Here. The word hung between them. The life that had been here, in Chennai, in th
 Her father closed his eyes. "Stay as long as you can," he said. "Then go back to your life. She would have wanted you to continue."
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The morning of departure arrived with the particular cruelty of all departures: the sun still rising, the world still continuing, even though everything had changed. Ananya woke to the sound of her father moving through the house, his footsteps careful and slow, the rhythm of a man relearning his own home now that he was alone in it.
 
@@ -305,7 +289,6 @@ They went to the small garden behind the house, where Ananya's mother had grown 
 "I have questions," Priya said. "About why you left. What you were leaving. Who you were before you became my mother."
 
 
----
 
 Ananya looked at her daughter - this person she had made, had raised, had watched become someone separate and distinct. Priya was twenty-three now, older than Ananya had been when she left Chennai, old enough to understand that parents had been people before they were parents.
 
@@ -320,7 +303,6 @@ And in exchange, she had gained - what? A career. A different kind of belonging,
 "I was ambitious," Ananya said at last. "That's the simplest answer. I wanted things this place couldn't give me. I wanted to work in technology, in a way that wasn't possible here, not then. I wanted to be part of building something new."
 
 
----
 
 "And did you get what you wanted?"
 
@@ -341,7 +323,6 @@ Ananya looked at her daughter. "Have I been hard?"
 "You've been - careful. Whenever I mention wanting to work in the industry, you get this expression. Like you're trying not to say something."
 
 
----
 
 "I want you to have your own path," Ananya said carefully. "Not my path. Not the path I walked through and came out the other side with questions."
 
@@ -362,7 +343,6 @@ Priya reached over and took her mother's hand. The gesture was natural, easy in 
 Ananya looked at her daughter with something like wonder. This was exactly right. She was still in the middle of the question. She had been in the middle of it for decades and might remain there for the rest of her life.
 
 
----
 
 "And your grandfather?" Priya asked. "What happens to him?"
 
@@ -385,7 +365,6 @@ The gate opened. The car had arrived.
 Ananya stood, ready to walk through another departure, carrying Chennai inside her alongside all the other places she had been and left and carried.
 
 
----
 
 
 

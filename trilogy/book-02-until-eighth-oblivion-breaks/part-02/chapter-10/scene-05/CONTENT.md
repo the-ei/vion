@@ -13,7 +13,6 @@ And it had mattered not at all.
 The news anchor was explaining the political implications of the hearing. Democrats would use the testimony to push for aggressive regulation. Republicans would use it to argue for investigation of government overreach. Neither side had engaged with the actual substance of what anyone had said.
 
 
----
 
 The Eighth Oblivion - she had not used that term in her testimony, had carefully employed the official euphemisms throughout - was becoming what she had feared it would become. Not a crisis to be understood but a Rorschach test. Everyone saw what they already believed. The actual events, whatever they had been, were receding behind the interpretations.
 
@@ -28,7 +27,6 @@ The scotch was half-gone now. Ruth poured another measure, knowing she would reg
 Susan would have known what to say. Susan had always known how to pull Ruth back from the edge of despair, how to remind her that individual actions mattered even when systems seemed overwhelming. "You do what you can," Susan used to say. "You don't control outcomes. You control whether you tried."
 
 
----
 
 But Susan was gone. Ruth was alone with her thoughts and her scotch and the television's endless loop of political performance.
 
@@ -49,5 +47,4 @@ But what if the rules no longer held? What if the frameworks had broken?
 She fell asleep in the chair, as she sometimes did on nights like this one. The glass tipped but did not fall, resting against the armrest at an angle that seemed to defy gravity.
 
 
----
 

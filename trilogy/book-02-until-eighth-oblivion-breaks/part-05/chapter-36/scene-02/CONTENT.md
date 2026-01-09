@@ -15,7 +15,6 @@ Elena tried Daniel again. The call dropped before it could even connect. She sta
 "My mother in Tempe. My brother says she's fine but I haven't heard her voice." Dr. Reyes picked at a tear in the vinyl chair. "It's the not hearing that's the worst part."
 
 
----
 
 A text arrived from a number Elena did not recognize, and for one frozen moment she thought it might be Daniel calling from someone else's phone, but it was a message from the county emergency services, an automated broadcast: SITUATION STABILIZED. SHELTER-IN-PLACE ORDER LIFTED. RETURN TO NORMAL OPERATIONS WHEN SAFE. The message had been sent four hours ago, languishing in some digital queue before reaching her. Normal operations. Elena read the words several times, trying to find meaning in them, trying to remember what normal operations had felt like, whether she had ever performed them or only imagined that she had.
 
@@ -28,7 +27,6 @@ Three days ago they had been safe. Three days was a long time.
 She tried calling back. The circuits were still busy.
 
 
----
 
 The man with the infected laceration was named Rodriguez, and he wanted to talk. He sat on the examination table while Elena cleaned his wound and he talked about what he had seen: the power going out, the fires on the horizon, the neighbors who had left and the neighbors who had stayed, the way the silence had been the worst part, the silence when all the humming machines stopped and you could hear exactly how alone you were.
 
@@ -55,7 +53,6 @@ The woman looked up. Her face was tear-streaked but composed, the crying apparen
 "No. I don't think so." The woman looked back at her hands. "I just didn't know where else to go."
 
 
----
 
 Elena sat down beside her. This was not protocol, not procedure, not the efficient deployment of medical resources, but she sat anyway, in the plastic chair beside this woman whose name she did not know, in the waiting room that smelled of disinfectant and fear.
 
@@ -80,5 +77,4 @@ She did not leave a message. What would she say? I'm alive. Are you alive? The q
 She hung up and went to find the next patient.
 
 
----
 

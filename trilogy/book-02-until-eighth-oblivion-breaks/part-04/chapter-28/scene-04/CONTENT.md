@@ -9,7 +9,6 @@ And then DeShawn had taken the job. A startup in the Bay Area, one of Kevin Zhou
 Jerome had written about Kevin Zhou twice. Both pieces had been critical. Both pieces had been accurate. Both pieces had been ignored by the people with power to change anything. And both pieces had meant that his son now worked for someone Jerome had publicly called a danger to democratic society.
 
 
----
 
 He tried calling again. The phone rang once, a thin distant sound, then silence. Not even a recording, not even an error message. Just silence.
 
@@ -26,7 +25,6 @@ Jerome didn't know. He couldn't know. The silence between them was absolute.
 He remembered teaching DeShawn to ride a bicycle, the way the boy had fallen and gotten up, fallen and gotten up, his knees bloody and his face determined, refusing to quit until he could circle the block without wobbling. He remembered driving DeShawn to college, the twelve hours of highway and awkward silence, the hug in the dormitory parking lot that had lasted longer than either of them expected, that had said everything words could not.
 
 
----
 
 He remembered the argument at Thanksgiving two years ago, the one that had almost ended in DeShawn leaving early. Jerome had made a comment about Kevin Zhou, something about the surveillance implications of predictive infrastructure, and DeShawn had exploded. "You criticize everything," he had said. "You see risk in everything. You don't understand that some of us are actually trying to build things instead of just tearing them down."
 
@@ -43,7 +41,6 @@ Denise had intervened then, had steered the conversation elsewhere, had smoothed
 Now Jerome sat with his silent phone and wondered if that argument would be the last real conversation he ever had with his son. The thought was unbearable, so unbearable that he could hold it only for seconds before his mind flinched away from it. He pushed it away. DeShawn was fine. DeShawn was a grown man who could take care of himself. The networks were down, not the world. The networks were down, not the world. He repeated it like a prayer he didn't believe.
 
 
----
 
 But the networks were the world now. That was the whole point, the thing Jerome had been trying to say for years, the truth DeShawn had never been willing to hear because hearing it would have meant questioning everything he'd chosen. The infrastructure was not separate from life. It was life. It was how people communicated, worked, bought food, received medical care, navigated from place to place. It was the nervous system of civilization, and when it failed, everything failed with it.
 
@@ -60,5 +57,4 @@ He thought about calling DeShawn again. He thought about trying different number
 "I didn't ask if you were hungry. Come have some lunch."
 
 
----
 

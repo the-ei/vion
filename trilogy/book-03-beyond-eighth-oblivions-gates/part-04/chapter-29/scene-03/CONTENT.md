@@ -15,7 +15,6 @@ Yusuf. Is everything okay?
 Everything's fine, Mama. I just wanted to see you.
 
 
----
 
 She did not question this. Did not ask why he had come at midnight, why he was still in his work clothes, why his hands were shaking slightly as he sat down across from her. She simply rose, slowly, the movement careful against the pain in her hips, and began to make tea.
 
@@ -30,7 +29,6 @@ The tea was ready. She set a cup in front of him and sat down again, wrapping he
 Now, she said. What is it?
 
 
----
 
 He did not know how to answer. Did not know how to explain the email, the offer, the fear that had brought him here instead of home.
 
@@ -49,7 +47,6 @@ Of course, she said. He sang all the time.
 I remember, Yusuf said. A little. I remember the sound of it, even if I don't remember the words.
 
 
----
 
 They sat with that memory between them, the ghost of a man who had been dead for twenty-one years. Yusuf had been twelve when the accident happened, old enough to remember and young enough that the memories had blurred, becoming impressions rather than scenes.
 
@@ -66,7 +63,6 @@ But his father had sung. Had carried music in his throat across oceans and borde
 I wish he could have heard you, Halima said quietly. He would have been proud.
 
 
----
 
 Yusuf looked at his mother, at her face in the dim kitchen light, at the lines that years of work and harder grief had etched into her skin. She knew about his music. Had always known, in the way that mothers know things their children think they are hiding. She had never pushed, never asked to hear, had simply let him carry it privately until he was ready.
 
@@ -89,5 +85,4 @@ She reached across the table and took his hand. Her fingers were swollen, warm f
 You know, she said. You have always known.
 
 
----
 

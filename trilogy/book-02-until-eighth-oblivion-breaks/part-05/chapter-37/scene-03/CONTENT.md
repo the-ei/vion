@@ -11,7 +11,6 @@ A murmur of agreement rippled through the room. Yusuf watched the faces around h
 She outlined a structure: neighborhood pods, resource sharing, communication networks, skill banks. It was ambitious and probably impossible and everyone in the room seemed to know this and not care, seemed to understand that impossibility was no longer a reason not to try.
 
 
----
 
 "Who's going to fund this?" A man near the front, skeptical but not hostile.
 
@@ -32,7 +31,6 @@ A younger woman spoke up, Latina, maybe late twenties, her voice impatient with 
 The woman raised her hand. "I'm Jasmine. I'll do it. But I need help. I'm not a medical professional."
 
 
----
 
 "My wife's a nurse," someone offered. "She's been wanting to do something like this since before the crisis."
 
@@ -57,7 +55,6 @@ Denise looked at him, assessed him in a single glance. "Name?"
 "Omar's vouched for you. Welcome to the transportation committee."
 
 
----
 
 The meeting lasted another hour. By the end, there were committees forming, contact lists circulating, a group chat being assembled on phones still unreliable, connections still fragile. It was messy and incomplete and would probably fall apart within weeks, but for now it was alive, pulsing with the particular energy of people who had decided to try something even knowing it might fail, perhaps especially knowing it might fail.
 
@@ -84,5 +81,4 @@ The mention of his father hit him unexpectedly, a sharp pain in the center of hi
 He walked home through the snow, the cold air clearing his head, the meeting's energy still humming in his veins.
 
 
----
 

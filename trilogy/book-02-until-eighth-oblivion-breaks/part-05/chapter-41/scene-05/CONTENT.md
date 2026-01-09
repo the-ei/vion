@@ -19,7 +19,6 @@ Daniel was quiet for a moment, navigating around a slow-moving truck. Then: "Wha
 The question hung in the air between them. Elena had been thinking about it since the meeting ended, since she got in the car, since she walked out of the clinic for the last time. What did she want to do?
 
 
----
 
 "I want to work on healthcare from outside the system," she said. "Help build alternatives. Use my skills without being complicit in harm."
 
@@ -48,7 +47,6 @@ Elena squeezed his hand. "That sounds like hope."
 She recognized her own words from months ago, echoed back to her. Something in her chest eased.
 
 
----
 
 The sun was setting by the time they reached the mountains. The sky turned orange and pink and purple, a gradual spectacular change that Elena had seen a thousand times and still found beautiful. The pines darkened into silhouettes against the fading light. The air coming through the cracked window was cooler now, mountain air, the smell of resin and cold rock.
 
@@ -61,7 +59,6 @@ Mateo would have questions. He always had questions. He would want to know the s
 Sofia would understand in a different way. She was older, more attuned to the emotional undercurrents of adult decisions. She had seen her mother crying in the bathroom during the worst of it. She had heard the arguments through the walls. She would know that this change meant something had healed, or started to heal.
 
 
----
 
 They came down the mountain into Flagstaff as the last light faded from the sky. The town looked smaller than Phoenix, quieter, more manageable. Daniel's mother's house was on the north side, a modest place with a covered porch where Elena had sat many evenings watching the children play in the yard.
 
@@ -80,5 +77,4 @@ She held them both, one in each arm, breathing in the smell of their hair and fe
 For the first time since the crisis began, that felt like enough.
 
 
----
 

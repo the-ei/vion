@@ -11,7 +11,6 @@ Darnell helped him carry them down the hallway, past the television room where t
 His mother's door was open. She was sitting in her chair by the window, dressed in the blue sweater he had sent last Christmas, her white hair pulled back from her face in a braid that the morning aide must have done.
 
 
----
 
 She looked up when he entered, and her face did the thing it sometimes did: a flicker of recognition, or almost-recognition, the sense of something familiar without the name attached.
 
@@ -32,7 +31,6 @@ Jerome opened the first box. On top: a framed photograph from 1987, the year he 
 She took the frame in her hands, studying it with the concentration of someone trying to solve a puzzle. Her fingers trembled slightly—they always did now—but her grip was still strong.
 
 
----
 
 "That's Jerome," she said suddenly, clarity arriving like a break in clouds. "That's my boy."
 
@@ -57,7 +55,6 @@ He laughed, surprising himself. Even now, even here, she was telling him to take
 "I'll try," he said. "Let me show you some other things."
 
 
----
 
 He took out clippings, yellowed and fragile, from the stories that had made his career. The investigation into the housing authority that led to criminal charges against three officials. The series on payday lending that prompted legislative hearings, though no legislation followed. The Pulitzer, finally, for the work on financial networks that exposed the mechanisms by which money moved from the pockets of the poor to the accounts of the wealthy.
 
@@ -78,7 +75,6 @@ The question landed like a stone in still water. Did it help. Did it change thin
 She was there again, fully present, his mother as he remembered her: the voice that had shaped his understanding of work and purpose and patience. He wanted to hold this moment, to record it somehow, to preserve it against the fog that would return.
 
 
----
 
 "I brought the Pulitzer," Jerome said. He had not planned to show her this—had thought it might seem like boasting—but now he wanted her to see it, wanted this version of her to hold evidence that her son's life had amounted to something recognized by the wider world.
 
@@ -101,7 +97,6 @@ Jerome had not known this. His father had died when Jerome was fifteen, long bef
 "He wanted to write books. Novels. But then the war came and he went away and when he came back he was different. He said the words had left him."
 
 
----
 
 "I didn't know that," Jerome said.
 
@@ -122,7 +117,6 @@ Denise rose and stood beside Jerome, her hand finding his shoulder. This was the
 "Have I told you I love you? Because I do. Even when I don't know your name. The feeling doesn't forget, even when the words do."
 
 
----
 
 The afternoon wore on. Jerome showed her more clippings, more photographs, more evidence of a life spent chasing truth. Sometimes she engaged, asking questions, making observations. Other times she stared out the window and did not respond, lost in whatever interior landscape the disease had made of her mind.
 
@@ -151,7 +145,6 @@ In the hallway, Denise took his hand.
 They walked out together, carrying the boxes, carrying the weight of what had been shown and not understood, what had been said and what had been lost to the water running out.
 
 
----
 
 The drive back to the hotel was quiet. Jerome watched Baltimore pass outside the window—neighborhoods he had grown up in, some gentrified beyond recognition, others still bearing marks of the disinvestment his own articles had documented decades ago. The city had changed and not changed, the same fundamental structures operating beneath new facades, wealth flowing upward as it always flowed while communities at the bottom held on as best they could.
 
@@ -172,5 +165,4 @@ Denise let the silence hold for a moment, the way she did when she understood th
 Jerome nodded, watching the city roll by, holding in his hands boxes full of his life's work and the new absence of information that had always been there, unknown until now.
 
 
----
 

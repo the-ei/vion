@@ -17,7 +17,6 @@ Rebecca was quiet for a moment. "You want my perspective on David?"
 "Okay." Her daughter's voice shifted, becoming the professional tone she used with difficult clients. "Here's what I think. David made choices. Not dramatic evil choices, but the ordinary choices that people in finance make every day - to prioritize profit over scrutiny, to not ask questions that might have inconvenient answers, to participate in systems that generate harm while maintaining personal deniability."
 
 
----
 
 "You think he's guilty."
 
@@ -32,7 +31,6 @@ Ruth felt the truth of this even as it hurt. "So you think he should be punished
 "I think someone should be punished, because what happened at Prometheus and what enabled it shouldn't go without consequences. I don't know if David is the right someone. I don't think there is a right someone - the harm was distributed across so many actors that isolating individual guilt is probably impossible. But the alternative is no accountability at all, and that's worse."
 
 
----
 
 "Even if the person being punished isn't the person most responsible?"
 
@@ -55,5 +53,4 @@ Ruth leaned back in the hotel chair, feeling the weight of her daughter's argume
 They said goodbye, and Ruth sat in the silence of the hotel room, her daughter's words settling around her like ash.
 
 
----
 

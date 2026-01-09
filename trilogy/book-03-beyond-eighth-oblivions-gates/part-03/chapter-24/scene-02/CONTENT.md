@@ -17,7 +17,6 @@ She could. That was the problem. She could say so much more that it would fill t
 David wrote this down. Delphine wondered what category he would file it under: artist's regret, or something else.
 
 
----
 
 A young woman in the middle row raised her hand. Her name tag said MARISOL.
 
@@ -40,7 +39,6 @@ The question was sharp. Marisol had earned the right to ask it through three wee
 "I don't know," Delphine said honestly. "I kept it because it was beautiful. And because they wanted me to remove it. Maybe that's the same thing as critique. Maybe it's not."
 
 
----
 
 Professor Reyes stepped forward, not interrupting but reframing. "This is something we've discussed in class—the question of whether crisis-era content makers performed complicity as critique. Many of you made work during that period that was funded by institutions you had reservations about. The interesting question is whether the critique was conscious or emergent."
 
@@ -57,7 +55,6 @@ Delphine felt the framework settling over her work like a net. Academic language
 The students were writing. Delphine was being theorized in real time, her memories of exhaustion and negotiation transformed into academic categories. It was uncomfortable. It was also, she had to admit, clarifying.
 
 
----
 
 Another student raised his hand. "What happened to Tomás? The driver in the film?"
 
@@ -82,7 +79,6 @@ The student—his name tag said JAYLEN—was not accusing her of anything. He wa
 There was no good answer. Jaylen seemed to understand that.
 
 
----
 
 The questions continued. They asked about the production process, the budget, the timeline. They asked about her other work and how this film fit into her broader career. They asked about crisis-era content in general: what survived, what disappeared, why some things were remembered and others forgotten.
 
@@ -103,7 +99,6 @@ She was not sure this was true. She was not sure it wasn't.
 "I don't know. Witness, maybe. Being present to what's happening, even if you can't stop it."
 
 
----
 
 Professor Reyes intervened gently. "I think what Delphine is pointing toward is something we've discussed in class—the question of documentary ethics beyond impact. The assumption that art should change things may be a particular historical assumption, not a universal truth."
 
@@ -124,7 +119,6 @@ Delphine almost laughed. "I didn't know I would have a career to define. I was j
 "And now it's in the archive."
 
 
----
 
 The session ended. Students gathered their things, some approaching to shake Delphine's hand and thank her. Professor Reyes stood by the door, managing the exit, steering students toward their next obligations. The screening room emptied gradually, leaving Delphine alone with the blank screen and the lingering sense of having been seen.
 
@@ -143,5 +137,4 @@ Delphine was exhausted. She was also not ready to be alone with what had happene
 "Dinner would be fine."
 
 
----
 

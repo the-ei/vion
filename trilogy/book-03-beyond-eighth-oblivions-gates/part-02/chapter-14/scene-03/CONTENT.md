@@ -15,7 +15,6 @@ Elena adjusted her pace, though it was already slow. The medication made her tir
 Elena didn't argue. Her grandmother saw things that were true whether or not Elena was ready to admit them.
 
 
----
 
 They passed the Nguyen family's house, where the grandmother sat on the porch as she did every afternoon, her hands busy with something Elena couldn't see from this distance. The woman raised a hand in greeting. Elena's abuela raised hers in return. Two old women acknowledging each other across the distance of different languages, different histories, the same bone-deep knowledge of what bodies require.
 
@@ -34,7 +33,6 @@ Elena sat. The metal was warm from the sun, and she could feel it through her je
 "When I was young," her grandmother said, "my body was my servant. I told it what to do and it obeyed. I worked in the fields alongside your grandfather before we came north. I carried water. I carried children. I carried everything."
 
 
----
 
 Her grandmother's hands rested on the top of her cane, fingers wrapped around the wood that Elena's father had carved for her three winters ago. The joints were swollen now, the skin mapped with veins that stood out like rivers seen from space.
 
@@ -53,7 +51,6 @@ Elena felt her throat tighten. "I was taking care of everyone."
 "Everyone except yourself. And the self includes the body. They are not separate, however much we pretend."
 
 
----
 
 The mockingbird had stopped singing. In the silence, Elena could hear the distant sound of traffic on the freeway, the constant hum that had been the background noise of her childhood. She had stopped noticing it decades ago. Now it came back to her, a reminder that the world continued whether or not she was paying attention.
 
@@ -70,7 +67,6 @@ Tears were coming now. Elena tried to blink them back, a reflex built over years
 So Elena let them come. The tears she had been holding since the waiting room, since the diagnosis, since long before that. Tears for the years of exhaustion she had reframed as dedication. Tears for the body she had treated as an instrument instead of a home.
 
 
----
 
 Her grandmother held her while she wept, one arm around her shoulders, the other hand still gripping the cane for balance. They must have looked strange to anyone passing - two women on a bus bench, one ancient and one crying, the late afternoon light turning everything gold.
 
@@ -89,7 +85,6 @@ Elena wiped her eyes with the back of her hand, a gesture from childhood. Her gr
 They sat in the cooling air, watching the shadows lengthen. The Nguyen grandmother had gone inside. The mockingbird had returned to a different tree, running through its repertoire again.
 
 
----
 
 "We should go back," Elena said finally. "The kids will wonder where we are."
 
@@ -114,7 +109,6 @@ It would have been easy to lie, to reassemble the composure that had slipped awa
 Sofia processed this. Then she sat down on the bench, wedging herself between Elena and her great-grandmother, and took both their hands.
 
 
----
 
 Three generations of women on a bus bench that no bus would ever visit. The light had turned amber now, the sun dropping toward the horizon, the air carrying the first suggestion of evening cool. Elena felt her grandmother's hand in one of hers, her daughter's in the other, and something shifted in her chest.
 
@@ -139,5 +133,4 @@ They walked home slowly, the three of them, at the pace of the oldest and the yo
 That night, after the children were in bed, Elena sat in her own bed with a notebook - old-fashioned paper, because screens felt wrong for this - and began to write a letter to her body. She felt foolish at first. But she kept writing anyway, because her grandmother had told her to, and her grandmother had never been wrong about the things that mattered.
 
 
----
 

@@ -9,7 +9,6 @@ But he wasn't here for the scenery. He was here because three months after the A
 His editor wanted a story. Jerome wanted the truth. Sometimes those were the same thing.
 
 
----
 
 The hotel was a Best Western near the convention center, seventy-nine dollars a night, continental breakfast included. Jerome checked in, dropped his bag in the room, and immediately headed out to meet his first contact.
 
@@ -28,7 +27,6 @@ They met at a coffee shop in a neighborhood that showed its economic stress in t
 "There's always a story that needs telling. The question is whether anyone will listen when you tell it."
 
 
----
 
 They talked for an hour. Terrence explained the local landscape: the gig workers who had no benefits and no protection, the warehouse employees being replaced by robots and algorithms, the small business owners watching their markets evaporate as tech giants entered every sector. The same story Jerome had heard in other cities, but with local variations, local faces, local specifics.
 
@@ -51,7 +49,6 @@ Terrence looked at him for a long moment, assessing. Then he seemed to reach som
 "Good. I'll send you the address."
 
 
----
 
 That afternoon, Jerome drove around Minneapolis, getting a feel for the city's geography. He took notes on neighborhoods, on the physical markers of economic distress and resilience. Here was a block of boarded-up businesses; there was a community center with a line out the door. Here were the new luxury apartments rising near downtown; there were the older buildings where people actually lived.
 
@@ -76,7 +73,6 @@ He paid for his gas and got back in the car, the afternoon light starting to fad
 Tonight he would eat room service and review his notes and try not to think too hard about whether any of it mattered.
 
 
----
 
 Back at the hotel, he spread his materials across the bed: printouts of economic data, background on local companies and organizations, a list of potential interviews Terrence had provided. He was looking for the shape of the story, the thread that would connect individual experiences to larger patterns.
 
@@ -89,7 +85,6 @@ Jerome organized his notes into categories: Economic Impact, Personal Stories, S
 He made himself a coffee from the hotel room's single-serving machine and sat at the desk, staring at his laptop. The cursor blinked in an empty document, waiting for words he wasn't sure he had.
 
 
----
 
 The question that kept circling in his mind was the one Terrence had raised: What was different this time? Why should anyone expect his article to change anything when so many articles before it had changed nothing?
 
@@ -106,13 +101,12 @@ It was more than he had gotten before. Jerome allowed himself a moment of hope, 
 That would have to be enough.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The first interview was at eight in the morning, a woman named Maria Delgado who had worked at the Amazon fulfillment center in Shakopee until three weeks ago. They met at a McDonald's near her apartment because she had kids at home and nowhere else to talk. She ordered coffee and nothing else; Jerome insisted on buying her breakfast.
 
@@ -133,7 +127,6 @@ Maria had worked at the warehouse for four years. Good worker, never late, excee
 Jerome wrote in his notebook, asked follow-up questions, recorded the parts she agreed to have recorded. The story was familiar—he had heard versions of it in Baltimore, in Ohio, in Texas. The specifics changed but the structure was the same. Work harder. Get replaced anyway.
 
 
----
 
 The second interview was at noon, a man named David Kowalski who drove for Uber and Lyft and DoorDash and Instacart—whatever app was offering bonuses that week. They talked in his car, parked in a lot behind a strip mall, because this was where he spent most of his time now.
 
@@ -152,7 +145,6 @@ David laughed, but there was nothing funny in it. "What else can I do? I'm forty
 The interview lasted an hour. Jerome filled three pages of notes, recorded twenty minutes of tape. David's story would fit the narrative: the gig economy worker, symbol of precarity, a stand-in for millions. It felt useful and also felt like a reduction. The man was more than a symbol. The man was a life.
 
 
----
 
 The third interview was at four, a nurse named Sarah Okonkwo who worked at a regional hospital and had agreed to talk only on condition of anonymity. They met in a park, sitting on a bench far from anyone else, the paranoid choreography of a source who was risking something to speak.
 
@@ -169,7 +161,6 @@ Jerome photographed the screenshots, careful to capture only the schedule, nothi
 Sarah was quiet for a moment. "Because I don't know what else to do. I've complained through official channels. I've talked to my union. Nothing works. Maybe if it's public, if people see what's happening..." She trailed off. "Or maybe nothing will change and I'll get fired for talking to a journalist. I honestly don't know anymore."
 
 
----
 
 The church basement was exactly what Jerome expected: folding chairs, industrial carpet, a table with coffee and cookies, the universal aesthetic of community organizing. He arrived early, as Terrence had suggested, and found a seat in the back where he could observe without being too visible.
 
@@ -184,7 +175,6 @@ The meeting began with introductions. Not names, necessarily, but roles: warehou
 Jerome listened. That was his job, the part of journalism that still felt honest: the act of listening, of holding space for other people's truths. The rest—the shaping, the narrative, the reaching for impact—felt more complicated.
 
 
----
 
 Halfway through the meeting, Jerome noticed him. A young Somali-American man in the back row, on the opposite side of the room. He wasn't speaking, wasn't participating in the way others were. He sat with his arms folded, watching everything with an intensity that set him apart.
 
@@ -199,7 +189,6 @@ Jerome wrote in his notebook: *Young man in back. Somali? Early 20s. Different q
 He had developed this instinct over thirty years of reporting—the ability to recognize a good source, a compelling voice, a person whose story might illuminate something larger. The young man in the back had something. Jerome didn't know what yet. But he wanted to find out.
 
 
----
 
 After the meeting, people lingered. Jerome circulated carefully, introducing himself when invited, making clear he was there to listen, not to extract. Most people were guarded but not hostile. They had been warned about him, and he had been vouched for, and that seemed to be enough for now.
 
@@ -222,7 +211,6 @@ The young man stopped. Up close, he was striking: sharp-featured, intelligent ey
 Jerome nodded. "That's true. But I'd like to hear what you're paying attention to. If you're willing to talk."
 
 
----
 
 The young man studied him. Jerome could feel himself being assessed, measured against some standard he couldn't see.
 
@@ -245,7 +233,6 @@ The young man's expression shifted slightly—still skeptical, but curious. "Tha
 It was a good question. Jerome didn't have a good answer. "I'm still trying to figure that out. That's why I'm here."
 
 
----
 
 The young man was quiet for a long moment. Around them, the church basement was emptying out, the chairs being folded, the coffee being cleared. The rituals of community organizing, happening at the edges of their conversation.
 
@@ -268,13 +255,12 @@ But the encounter that stayed with him was the one that hadn't become an intervi
 But it did.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The hotel room had the anonymous comfort of all hotel rooms: the polyester bedspread, the bolted-down furniture, the prints on the wall that weren't art but simulations of art. Jerome sat at the desk with his laptop open, his recorder beside him, his notebook filled with the day's observations.
 
@@ -295,7 +281,6 @@ His phone buzzed. Denise. He picked up.
 "Cold. Struggling. Beautiful, in parts."
 
 
----
 
 "Are you taking care of yourself?" Denise asked. The question had layers—she knew him too well, knew how he got when a story consumed him.
 
@@ -326,7 +311,6 @@ What she thought was that he was chasing something he would never catch. That th
 She wasn't wrong. But he couldn't stop.
 
 
----
 
 They talked for another twenty minutes, about small things mostly. The garden, their daughter, a neighbor's new dog. The infrastructure of a shared life, the ongoing project of being married to someone for three decades. By the time they hung up, Jerome felt both better and worse—connected to home, but aware of the distance he had put between himself and it.
 
@@ -343,7 +327,6 @@ Jerome typed: *In Minneapolis covering the ground effects. Would be good to talk
 He stared at the message for a long moment, then sent it. The story he was writing about workers was important, but the story Ananya might have was the one that could connect everything.
 
 
----
 
 Midnight came and went. Jerome was still working, the story spreading across his screen in fragments and outlines. He had stopped playing the recordings—the voices were in his head now, recurring like music.
 
@@ -362,7 +345,6 @@ He didn't have answers. He kept writing anyway. The story about Minneapolis work
 He wasn't sure he believed it.
 
 
----
 
 At one in the morning, his laptop chimed. A message in the encrypted app.
 
@@ -387,7 +369,6 @@ Or it might just be another story that everyone read and nobody acted on. He had
 But he kept working. What else was there to do?
 
 
----
 
 The hotel room felt smaller now, the walls pressing in. Jerome stood up, stretched, walked to the window. Outside, the parking lot glowed under sodium lights. A few cars, a few people moving between buildings, the late-night life of a city that didn't stop for darkness.
 
@@ -404,7 +385,6 @@ Jerome returned to his desk, opened a new document, and started writing. Not the
 A story about systems and the people ground down by them. A story about power and resistance. A story about witness, even when witness felt inadequate.
 
 
----
 
 At two in the morning, Jerome finally closed his laptop. He was tired in a way that sleep might not fix—the tiredness of carrying too many stories, too many doubts, too many questions that didn't have answers.
 
@@ -427,7 +407,6 @@ Because witness was all he had.
 He fell asleep with the question still circling, unanswered, persistent. By morning, it would be time to move again.
 
 
----
 
 
 

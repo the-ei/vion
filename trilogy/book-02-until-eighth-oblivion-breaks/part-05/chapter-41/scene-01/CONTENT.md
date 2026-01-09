@@ -15,7 +15,6 @@ She thought about Rosa. The patient who had come in with symptoms that should ha
 The answer was: everything. The system could have done everything differently. But the letter was not the place for that answer.
 
 
----
 
 She typed: I want to express my deepest gratitude for the opportunities I have had at the clinic and for your support throughout my time there. The team you have built is exceptional, and I have learned enormously from my colleagues.
 
@@ -30,7 +29,6 @@ There it was. The manifesto hidden in professional language. She wondered if Dr.
 Now Elena knew. Or at least she knew what not to do anymore.
 
 
----
 
 The door opened and Daniel came in with coffee and pastries from the bakery down the street. He set them on the table beside her laptop and looked at the screen.
 
@@ -53,7 +51,6 @@ The patients. Maria with her diabetes that could never quite be controlled becau
 She would not be there for them anymore. Someone else would be. Someone who would do their best within constraints that made their best never quite enough.
 
 
----
 
 She typed: With sincere appreciation and best wishes for the clinic's continued service to our community.
 
@@ -72,5 +69,4 @@ She was still a nurse. She would always be a nurse. But she would not be the sys
 She picked up her coffee and drank it. The pastry was flaky and sweet, some kind of almond filling. Outside the window, Phoenix continued its usual morning: cars passing, people walking, the city that had been her home for years doing what cities do. She watched it and felt the strange clarity that comes when a long-delayed decision is finally made. The world looked sharper now. The future looked like something that could be shaped.
 
 
----
 

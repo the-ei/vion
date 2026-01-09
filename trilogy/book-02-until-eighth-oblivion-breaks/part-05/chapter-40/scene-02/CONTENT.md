@@ -19,7 +19,6 @@ Kevin nodded slowly, processing this. "I don't think anyone's ever explained it 
 The admission was stark, undisguised. Yusuf had assumed Kevin's isolation was chosen, the busy solitude of someone important with better things to do. But Kevin's face said something else: that the isolation was its own kind of cage, that he genuinely did not know how to be in a home with people.
 
 
----
 
 Amina returned with a laptop, apparently having decided that her brief absence was enough rest for Kevin.
 
@@ -42,7 +41,6 @@ Kevin took a sambusa and bit into it, and something in his face changed. Yusuf r
 "Thank you. I make them every Friday. Yusuf's father loved them."
 
 
----
 
 The mention of his father caught Yusuf off guard. His mother rarely spoke of him directly, especially to strangers. But she was looking at Kevin with an expression Yusuf could not quite read: assessment, yes, but also something softer.
 
@@ -71,7 +69,6 @@ Fatima studied him for a long moment. Then she nodded, apparently satisfied with
 Amina was eating sambusa and reviewing her neural network questions, apparently unbothered by the adult conversation happening around her.
 
 
----
 
 "Can I ask you something else?" she said to Kevin between bites.
 
@@ -98,5 +95,4 @@ Yusuf found an extra hat in the closet, one of his father's old ones that no one
 The door closed behind them. The sun was setting, and the temperature was dropping, and somewhere in Yusuf's mind was the beginning of a conversation that would change both of them.
 
 
----
 

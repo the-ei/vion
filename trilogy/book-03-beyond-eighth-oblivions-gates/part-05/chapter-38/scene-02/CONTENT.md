@@ -19,7 +19,6 @@ They stood together for a moment, two women in their forties who had found each 
 "I'm here. That's something." Ananya touched Delphine's arm. "Tonight is about you. We can talk about me later."
 
 
----
 
 The lights flashed, signaling that the screening would begin in fifteen minutes. People began moving toward the theater. Delphine watched them go, these strangers who would sit in the dark and watch what she had made, who would form opinions, who would judge.
 
@@ -40,7 +39,6 @@ She had wanted to begin with disorientation. She had wanted the audience to feel
 But now, watching, she wondered if she had gone too far. If the disorientation would alienate rather than illuminate.
 
 
----
 
 The faces around her were unreadable in the dark. Some watched with apparent attention, others shifted in their seats. Theo sat between her and Jessie, his twelve-year-old face serious, trying to understand.
 
@@ -55,7 +53,6 @@ Another section: data visualizations that she had commissioned from an artist, a
 She watched Ananya watching the screen. Her friend's face was intent, serious, moved. Something in Delphine relaxed slightly.
 
 
----
 
 The middle section of the film was its most difficult, the part she had struggled with most. Interviews with people who had built the systems, the engineers and executives who had made choices that affected millions without fully understanding the consequences. She had tried to present them without judgment, to let their words reveal their own contradictions, their own blind spots. But in the editing, she had made choices about what to include and what to cut, and those choices were a kind of judgment, however she tried to avoid it.
 
@@ -72,7 +69,6 @@ In that darkness, she heard someone crying. She heard someone coughing. She hear
 Then the lights came up.
 
 
----
 
 Applause. Not the polite applause of obligation but something more substantial, sustained. Delphine sat frozen in her seat, not processing the sound, until Jessie touched her arm.
 
@@ -91,7 +87,6 @@ Theo pulled at her sleeve. "Mom? I didn't understand all of it. But I felt somet
 "Yes," Delphine said, and the word was both answer and revelation. "That's exactly what I wanted."
 
 
----
 
 She moved toward the aisle, toward the exit, toward whatever questions waited for her. The audience was dispersing into conversations, clusters of people processing what they had seen. She overheard fragments: "I didn't expect—" and "The ending was—" and "Did you notice when—"
 
@@ -116,5 +111,4 @@ Delphine felt tears threatening and pushed them back. Not here, not now, in fron
 They moved together toward the reception, Ananya's hand on Delphine's back, the friendship visible to anyone watching.
 
 
----
 

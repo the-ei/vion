@@ -13,7 +13,6 @@ His voice filled the room, and then his guitar, the progression he would open wi
 This was real. After years of driving for rideshare apps, of delivering food in the rain, of practicing in his apartment at hours that annoyed the neighbors - after all of that, this was actually happening. People had bought tickets. People were coming to hear him play.
 
 
----
 
 He remembered the years of the algorithm. The app on his phone that told him where to go, how fast to get there, how much he would earn if he drove through surge pricing. The rating system that held his livelihood hostage to the moods of strangers. The sense of being optimized, managed, reduced to a set of metrics that someone in a distant office analyzed for efficiency.
 
@@ -30,7 +29,6 @@ He played the opening riff of one of those early songs now, hearing how it had e
 Yusuf nodded. That was right. The song had been angry when he wrote it, the anger of someone ground down by a system that didn't care about him. But years had passed, and he had survived, and the anger had transformed into something else. Not acceptance, exactly. But something with more space in it.
 
 
----
 
 The doors would open in three hours. In that time, he would run through the set twice more, eat something even though he wasn't hungry, sit in the green room trying not to think too much about what was coming. His mother would arrive an hour before the show, helped by Amina, taking her seat near the front where she could see without having to stand for long.
 
@@ -47,7 +45,6 @@ Kai was looking at him with concern. Yusuf realized he had stopped playing, was 
 "Save the thinking for after the show. Right now, let's run through 'Night Shift' one more time."
 
 
----
 
 They ran through the song, the one about working overnight deliveries during a blizzard, about the particular loneliness of driving through empty streets at 3 AM, about the way the cold became a companion when you had no other. The music had grown since he first recorded a rough version on his phone; now it had drums and bass and the subtle texture of Leo's keys, the community of sound that had developed over months of rehearsing together.
 
@@ -60,7 +57,6 @@ The venue staff were beginning their preparations: setting up the bar, testing t
 But it was happening to him. The name on the marquee outside was his name. The music that would fill this room tonight was music he had written. Whatever came next, this was real, this was happening, this was the gate he had been approaching without knowing it for years.
 
 
----
 
 They finished the soundcheck at five. Two hours until doors, three until showtime. The band dispersed to eat and rest. Yusuf stayed on stage for a moment longer, looking out at the empty venue, the rows of seats that would soon hold people who had chosen to be here, to listen, to receive what he had to offer.
 
@@ -75,13 +71,12 @@ Three hours. Then the lights would go up, and the music would begin, and he woul
 He waited.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 From the wings, Yusuf watched his mother arrive. Amina guided her through the crowd that was beginning to fill the venue, found the seats they had reserved near the front, helped her settle with the careful attention of a daughter who had learned to be caregiver.
 
@@ -94,7 +89,6 @@ His father would have been here too, if life had been different. Yusuf was twelv
 Those hands had been crushed by machinery, had stopped functioning, had carried Yusuf's father into a death that was ruled accidental, that was compensated minimally, that had left the family in the precarious position from which they had never fully recovered.
 
 
----
 
 Yusuf touched his phone. A text had arrived while he was watching.
 
@@ -117,7 +111,6 @@ Amina was walking toward the backstage entrance, having settled their mother. Sh
 "What? She's proud. Let her be proud."
 
 
----
 
 Amina was twenty-five now, the political voice of her generation, the organizer who channeled her anger into action. She had chosen a different path than Yusuf: not art but activism, not expression but organizing. Their father's death had shaped them both, but in different directions. Yusuf had retreated into music; Amina had advanced into the systems that killed their father, determined to change them.
 
@@ -138,7 +131,6 @@ Amina looked at him. This was a question they had both asked, separately and tog
 Yusuf nodded. This was what they had both learned: you couldn't redeem tragedy, couldn't make it worthwhile, couldn't find meaning that justified the loss. You could only take what remained and do something with it. He had made music. Amina had made organizing. Their mother had made survival.
 
 
----
 
 "You're going to be great," Amina said. "I know that's what people say, but I mean it. I've heard you practice. I've seen you struggle. You've earned this."
 
@@ -163,7 +155,6 @@ He took a breath. He held it. He let it go.
 "Okay," he said to no one in particular. "Let's do this."
 
 
----
 
 The house lights dimmed. The crowd hushed, that particular silence that precedes live music, the collective intake of breath. Yusuf stood at the edge of the stage, guitar in hand, waiting for the cue.
 
@@ -184,13 +175,12 @@ He adjusted the microphone. He settled the guitar against his body. He looked ou
 And he began to play.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The first notes rang out into the room, and something shifted. The anxiety that had been building for hours didn't disappear, but it transformed - became energy, became focus, became the particular fuel that performance required. Yusuf's fingers found the chords they had found a thousand times in practice, but now the chords were amplified, now they filled a space, now they were received by ears that weren't his own.
 
@@ -203,7 +193,6 @@ Yusuf found his mother's face in the crowd. She was watching intently, her expre
 The song ended. Applause.
 
 
----
 
 The second song was faster, angrier, the frustration of years condensed into three minutes of sound. Yusuf felt it move through him - the rage at what the platforms had done to him, the recognition that the platforms were just the latest face of something older, the exploitation that had killed his father and would continue killing unless something changed.
 
@@ -216,7 +205,6 @@ He thought about what each song had meant when he wrote it. "Night Shift" came f
 The songs moved through him now, one after another, the setlist he had arranged to tell a story: from precarity through anger through something approaching hope. The audience moved with him, their bodies responding to rhythms, their faces visible in the stage light.
 
 
----
 
 At some point - he couldn't say when - the self-consciousness fell away. There was no more Yusuf-watching-himself-perform, no more anxiety about how it was being received. There was only the music, the sound, the flow of expression through his body into the room.
 
@@ -231,7 +219,6 @@ The song ended. The applause swelled. Yusuf leaned into the microphone.
 "This next one is for my mother," he said. "Who taught me what survival really means."
 
 
----
 
 He had written the song years ago, in a moment of clarity about what his mother had sacrificed. It wasn't a sentimental song - he didn't do sentimental - but it was honest about the weight she had carried, the meals she had skipped so her children could eat, the nights she had worked so they could stay in school. The song was called "What I Owe," and he had never played it live before, had saved it for a moment that mattered.
 
@@ -248,7 +235,6 @@ Yusuf let the last chord ring out and fade. The silence that followed was its ow
 Then the room erupted, the crowd rising to their feet, the sound of their appreciation washing over the stage. Yusuf stood in the light and let it wash over him, this recognition he had earned through all the years of trying.
 
 
----
 
 The rest of the set passed in a kind of flow state, each song arriving when it needed to, the band locked in together, the audience responsive and present. By the time they reached the final song, the room had become a single organism, breathing together, moving together, transformed by the shared experience of live music.
 
@@ -265,7 +251,6 @@ This was what survival had been for. Not the acclaim, though that was gratifying
 He bowed. The lights came down. The performance was over.
 
 
----
 
 Backstage, the band embraced in the particular way of musicians after a good show, the relief and joy and exhaustion mingled together. Someone handed Yusuf water, and he drank it in gulps, his throat raw from singing, his body beginning to register the effort the performance had required.
 
@@ -290,13 +275,12 @@ Yusuf handed his guitar to Leo for safekeeping and walked toward the green room,
 His mother was waiting. That was the only thing that mattered.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 His mother rose when he entered the green room, her movements slow but her face radiant with something Yusuf had never seen before. She opened her arms and he went into them, folding himself down to fit against her diminished frame, becoming her child again in that embrace.
 
@@ -315,7 +299,6 @@ The mention of his father broke something open. Yusuf hadn't cried on stage, had
 "He's here," his mother said. "He's always here. In your music. In you."
 
 
----
 
 Amina joined them now, completing the family triangle. The three of them stood together in the worn green room, amid the detritus of countless performances, and held each other.
 
@@ -344,7 +327,6 @@ Amina saw him texting and raised an eyebrow. "The tech billionaire?"
 "Strange times we've lived through."
 
 
----
 
 The stage manager knocked. "Sorry to interrupt, but there are some people who really want to meet you. Label folks. Press. The usual post-show crowd."
 
@@ -371,7 +353,6 @@ He hugged her again, breathing in the familiar scent of her, the particular comb
 Amina guided her toward the exit, toward the car that would take her home. Yusuf watched them go, this woman who had given him everything and this sister who fought for everyone, until the door closed and they were gone.
 
 
----
 
 The industry conversations went as such conversations go: expressions of enthusiasm, exchanges of contact information, vague references to opportunities that might or might not materialize. Yusuf moved through them with a part of himself held back, participating in the networking while remaining skeptical of its promises.
 
@@ -386,7 +367,6 @@ But for tonight, it had been his room. His stage. His moment.
 He played a few chords, quietly, not for anyone else. The guitar responded to his touch as it always did, the old friend who had been with him through everything. He had bought it used, years ago, with money saved from gig work, had carried it through apartments and couches and the chaos of survival.
 
 
----
 
 What did success mean, when you had never expected to survive?
 
@@ -409,7 +389,6 @@ The music was his. Whatever happened next, that could never be taken away.
 He played one more chord, let it ring, let it fade, and finally stood to go home.
 
 
----
 
 
 

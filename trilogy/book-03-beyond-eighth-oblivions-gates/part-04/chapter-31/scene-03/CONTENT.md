@@ -15,7 +15,6 @@ Ananya nodded. She had watched Delphine's work over the years, had recognized he
 And I provided ethical cover, Ananya said. I was the person they could point to and say: see, we take this seriously, we have an ethics officer, we think about these things. My presence allowed them to keep doing what they were doing while claiming they were being responsible.
 
 
----
 
 They were different kinds of complicity, Delphine said. You were inside the machine. I was outside, translating it for public consumption. But we both helped it work.
 
@@ -32,7 +31,6 @@ Ananya recognized the self-examination, the painful clarity that came from looki
 I told myself I was making a difference from inside, she said. That my presence was slowing things down, that without me it would have been worse. And maybe some of that was true. But mostly I think I was just making the machine run more smoothly.
 
 
----
 
 The light through the windows had faded to deep blue, the Los Angeles evening settling over the hills. Neither of them moved to turn on lamps, content to sit in the growing darkness, two women examining the wreckage of their professional lives.
 
@@ -49,7 +47,6 @@ Ananya nodded. She had her own moments like that, accumulated over years, the we
 For me it was slower. A thousand small compromises that I told myself were strategic. And then one morning I woke up and realized I didn't recognize myself anymore.
 
 
----
 
 What they had made, together. The question that neither of them could fully answer.
 
@@ -68,7 +65,6 @@ I don't think so. I think we slowed it down a little. I think we created a recor
 Maybe. Ananya's voice was uncertain. Or maybe we're just telling ourselves stories again.
 
 
----
 
 The honesty between them felt like relief. After years of careful positioning, of professional distance, of conversations that skated over the surface, this directness was almost intoxicating.
 
@@ -95,7 +91,6 @@ Ananya considered the question, let it settle into her.
 Partly. Maybe mostly. I came because you asked, and because the documentary matters. But underneath that, I think I came because I need to say something true before I can say it to her.
 
 
----
 
 Delphine reached over and touched Ananya's hand, a brief contact that carried the weight of everything they had shared.
 
@@ -118,5 +113,4 @@ Maybe it's not too late, she said. For me and Priya.
 It's not, Delphine said. It's never too late. It's just harder, the longer you wait.
 
 
----
 

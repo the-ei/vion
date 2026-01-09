@@ -15,7 +15,6 @@ Neither of them spoke for several minutes. The silence was not comfortable exact
 Kevin looked out the window. Yusuf watched him look, waiting for the judgment he expected: the assessment of the modest neighborhoods, the used cars, the working-class landscape of this part of the city. But Kevin's face showed only curiosity, the genuine attention of someone seeing something new.
 
 
----
 
 "What music is this?" Kevin asked.
 
@@ -42,7 +41,6 @@ Kevin was quiet for a moment. "Expensive. Strange. Everyone there is building so
 They drove through the neighborhood where Yusuf's family lived. He found himself pointing things out without planning to: the grocery store where his mother shopped, the community center where the mutual aid network met, the corner where he had once gotten his car stuck in a snowbank and three strangers had helped him push it out.
 
 
----
 
 "Why are you showing me this?" Kevin asked.
 
@@ -73,7 +71,6 @@ They got out of the car. Kevin's inadequate jacket was immediately defeated by t
 The door opened and warmth rushed out to meet them.
 
 
----
 
 Fatima stood in the doorway, having heard the car pull up. Her eyes moved from Yusuf to Kevin and back again, the rapid assessment of a mother who has learned to read situations quickly.
 
@@ -102,5 +99,4 @@ Amina appeared from her room, flashcards still in her hand, her expression immed
 Kevin laughed, the second genuine expression Yusuf had seen from him. "Your CS teacher isn't wrong."
 
 
----
 

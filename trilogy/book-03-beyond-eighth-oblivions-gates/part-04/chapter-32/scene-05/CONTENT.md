@@ -15,7 +15,6 @@ The question seemed to startle her. Students weren't usually asked what they not
 "Everyone's tired," she finally said. "The patients, the staff, everyone. But people keep going. I don't know how."
 
 
----
 
 Elena smiled, the first real smile of the day. "That's the right observation. Most students notice the medical stuff first. You noticed the human stuff."
 
@@ -34,7 +33,6 @@ Aaliyah nodded, writing something in her notebook. Elena wondered what she was w
 "Come on," she said, standing. "I've got two more patients and then I'm done. You can watch if you want."
 
 
----
 
 The last two patients were unremarkable, in the way that nothing in a community health clinic is actually unremarkable. A man in his forties with back pain that was probably work-related but couldn't be filed as workers' comp because he was classified as an independent contractor. A teenage girl with menstrual cramps that were severe enough to interfere with school, her mother hovering anxiously, both of them embarrassed to be there.
 
@@ -53,7 +51,6 @@ After the last patient left, Elena walked Aaliyah to the lobby where her ride wa
 Elena paused. "Maybe it shouldn't be."
 
 
----
 
 After Aaliyah left, Elena sat in her car without starting it. The parking lot was nearly empty, the evening staff arrived, the day staff gone home. She should be driving, should be collecting the kids from Mrs. Delgado, should be making dinner and supervising homework and doing the thousand small tasks that made up a life. But she needed a moment first.
 
@@ -74,7 +71,6 @@ She began to type.
 The list kept going. Once she started she couldn't stop. Every workaround she knew, every trick she had learned, every invisible skill that experienced nurses carried and new nurses had to figure out alone. She typed until her thumbs ached, the parking lot darkening around her, the phone screen glowing in the dusk.
 
 
----
 
 This was the beginning. She could feel it.
 
@@ -93,7 +89,6 @@ She started the car and pulled out of the parking lot, the air conditioning slow
 The decision was made. Tomorrow the work would begin.
 
 
----
 
 The streets of Phoenix at evening were familiar ground, the route she had driven thousands of times. Left on McDowell, right on 24th Street, the pattern so ingrained she could do it without thinking. But she was thinking tonight. She was thinking about her grandmother, who had worked in factories and cleaned houses and never once had access to the kind of care she deserved. She was thinking about Graciela and Jaylen and Harold and all the others, the faces of a system that didn't work. She was thinking about Aaliyah with her notebook, at the beginning of a journey that would either break her or transform her.
 
@@ -106,5 +101,4 @@ It was a small hope. But small hopes were what she had left, and she had decided
 She got out of the car and walked toward the light.
 
 
----
 

@@ -11,7 +11,6 @@ She had left India at twenty-two. That was twenty-five years ago. A quarter cent
 And now she was a daughter whose mother had died.
 
 
----
 
 They moved through customs, Ananya's American passport examined with the particular scrutiny that marked her as one who had left, who had chosen elsewhere, who was now returning for reasons the officer didn't need to know. Priya's passport got a different look entirely - the officer glanced at the San Francisco birthplace, the face that was half her father's Irish features and half Ananya's own, and something shifted in his expression. The diaspora's child. The generation that didn't know what they had lost because they had never held it.
 
@@ -26,7 +25,6 @@ They emerged into the main hall and the wall of sound hit them. Tamil everywhere
 Ananya's uncle Venkat stood at the center, thinner than she remembered, his hair gone entirely white. Beside him, a woman she gradually recognized as her cousin Lakshmi, no longer the teenager of Ananya's memory but a middle-aged woman with reading glasses pushed up on her head. And others, faces she would have to sort through, identities she would have to reconstruct from the wreckage of years.
 
 
----
 
 They converged on her with grief and welcome intermingled, the two emotions impossible to separate. Uncle Venkat embraced her with surprising strength, and she felt his body shudder with weeping he was trying to suppress. Her mother's youngest brother. The baby of that generation, now an old man.
 
@@ -41,7 +39,6 @@ The drive through Chennai completed what the airport had begun. The city overwhe
 Priya sat silent beside her in the car, watching through the window, trying to take it in.
 
 
----
 
 "This is where you grew up?" Priya asked finally, her voice carefully neutral.
 
@@ -58,7 +55,6 @@ The thought arrived like a blade.
 Her mother had lived in that house for forty-seven years. Had come there as a young bride, had raised Ananya and her brother there, had grown old there while Ananya grew old elsewhere. And now her mother was dead, and the house would be full of her absence, and Ananya would have to walk into that absence and somehow find the woman who knew how to grieve.
 
 
----
 
 The car stopped. The house looked smaller than she remembered, but every house does, seen through adult eyes. The gate was new, metal instead of the wooden one she had known, but the bougainvillea climbing the wall was the same, or its descendant, the same impossible magenta flowers cascading over the compound wall. Someone had painted the house more recently - cream now instead of the yellow she remembered - but the proportions, the windows, the front porch where she had sat with her mother shelling peas, all of that remained.
 
@@ -75,5 +71,4 @@ Her mother's body. The distinction mattered and didn't matter.
 Ananya stood at the threshold, Priya's hand still in hers, and let the fact of it enter her. Whatever she had braced for, it was not this. It was never this.
 
 
----
 

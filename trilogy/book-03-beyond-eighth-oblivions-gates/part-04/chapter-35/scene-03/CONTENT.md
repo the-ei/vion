@@ -15,7 +15,6 @@ Their mother emerged from the kitchen with the tea tray, setting it down on the 
 "Your sister is right," Halima said. "Play it. I want to hear."
 
 
----
 
 Yusuf connected his phone to the small Bluetooth speaker that sat on the shelf next to old family photos. His father was in one of them, smiling at the camera, young and alive, unaware of what was coming. Yusuf looked at the photo and then looked away. The first song was about him. The first song was always going to be about him.
 
@@ -30,7 +29,6 @@ The song talked about night shifts and warehouses, about bodies that broke under
 When the song ended, the silence was complete.
 
 
----
 
 Halima reached for her tea, her hand trembling slightly, and took a sip. Then she set the cup down and looked at her son.
 
@@ -51,7 +49,6 @@ Yusuf didn't trust his voice to respond. He just nodded, accepting the words, le
 The EP was out. Barely anyone would hear it, in the great scale of streaming platforms where millions of songs competed for attention. But these people were hearing it. His mother. His sister. The people who mattered.
 
 
----
 
 They listened to all six songs, the full EP playing through while the tea grew cold. By the end, all three of them were crying in different ways - Halima quietly, Amina with occasional sniffs, Yusuf with tears he kept wiping away as if embarrassed by them. The music filled the space and then left it, the silence after the final note stretching out until it became its own kind of presence.
 
@@ -68,7 +65,6 @@ Yusuf thought about the question. He had spent years avoiding it, afraid that th
 Halima reached over and touched his face, the gesture she had used when he was a child, her palm against his cheek. "You're real," she said. "You've always been real. But now more people can know it."
 
 
----
 
 Later, after Amina had left and Halima had gone to bed, Yusuf sat alone in the living room with the lights off. The Minneapolis night was quiet outside, the neighborhood settling into sleep. He looked at the photo of his father on the shelf, the young man who had never imagined his death, who had worked and sung and loved his family without knowing how little time remained.
 
@@ -83,5 +79,4 @@ And tomorrow, or the day after, he would go back to driving for apps, delivering
 That was enough. For now, that was enough.
 
 
----
 

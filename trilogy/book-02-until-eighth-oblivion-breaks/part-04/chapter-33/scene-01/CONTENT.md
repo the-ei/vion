@@ -9,7 +9,6 @@ The symptoms had been appearing one by one, like items checked off a list. Fatig
 Without dialysis, the progression was inevitable. The toxins would continue to accumulate until her heart stopped or her brain failed or one of a dozen other mechanisms of death activated. It was not a question of if but when. The body had a timeline, and they were somewhere on it, moving toward the end.
 
 
----
 
 Habiba stirred. Her eyes opened, unfocused at first, then finding his face.
 
@@ -32,7 +31,6 @@ He counted another breath. Eleven seconds between exhale and inhale.
 The number should have been eight or nine. The body was slowing down.
 
 
----
 
 He remembered her before the kidney disease. Before the divorce, before his father's death, before everything started breaking. She had worked two jobs then, too - cleaning offices in the morning, restaurant shifts at night - but there had been an energy to her that the illness had slowly drained. She had sung while cooking, Somali songs her mother had taught her, songs Yusuf had pretended to ignore as a teenager but had secretly memorized.
 
@@ -49,7 +47,6 @@ His music was in the other room, the guitar silent in its case. He had not playe
 That world was gone. This one had only bodies and breath and the inexorable math of decline.
 
 
----
 
 At seven o'clock, Amina appeared in the doorway. Her hair was tangled, her eyes shadowed. She had slept perhaps four hours.
 
@@ -78,5 +75,4 @@ But Habiba might not have a week. And the food didn't matter if there was no way
 He made breakfast anyway. It was the only thing he could do.
 
 
----
 

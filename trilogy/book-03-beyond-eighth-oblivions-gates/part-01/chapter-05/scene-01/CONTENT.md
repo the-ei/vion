@@ -11,7 +11,6 @@ Delphine had made a documentary about the solar buildout, three years ago. One o
 Everything she touched seemed to work this way. Stories that mattered, that changed nothing.
 
 
----
 
 Past Blythe, the road climbed through the Cactus Plain and into Arizona proper. The border was marked by a sign, a formality that concealed deeper divisions - water rights, electoral politics, the different ways that states had responded to the crisis and its aftermath. California and Arizona had been fighting over the Colorado River for longer than Delphine had been alive. The fight had only intensified as the river shrank and the demands on it grew.
 
@@ -26,7 +25,6 @@ She typed a reply: I miss you too, baby. Complete dissolution sounds both gross 
 Then she got back in the car and kept driving.
 
 
----
 
 The heat outside Phoenix was brutal even in late winter, the dashboard displaying an external temperature of 94 degrees that would have been shocking twenty years ago but was now simply Wednesday in Arizona. The climate-controlled interior of the car made it feel abstract, like watching a nature documentary about somewhere else, but Delphine knew from her research how real it was. People died from heat exposure in Phoenix now, hundreds of them every year, the numbers climbing steadily as the city became less livable for anyone who couldn't afford to stay indoors.
 
@@ -41,7 +39,6 @@ Was Delphine any different? She wanted to believe she was - that her work had mo
 She turned off the audio and drove in silence for a while, watching the desert pass.
 
 
----
 
 The approach to Tucson brought a change in the landscape - mountains rising in the distance, saguaro cacti standing like sentinels along the road, the particular texture of the Sonoran Desert that was different from the Mojave she had driven through earlier. Tucson had always been different from Phoenix: smaller, more academic, more conscious of its relationship to the desert rather than its denial of it.
 
@@ -60,7 +57,6 @@ The questions multiplied as Tucson grew closer, as the desert city emerged from 
 But she had driven all this way. She was going to hear whatever Ananya had to say.
 
 
----
 
 Ananya's message had included an address - a house in the south side of Tucson, a neighborhood that Google's mapping system described as "transitional," which Delphine understood to mean poor and getting gentrified. She navigated the car through streets that showed the particular texture of climate migration: older houses being renovated, newer construction going up in lots that had been empty, a mix of longtime residents and newcomers who had fled the coast or the drying agricultural regions.
 
@@ -83,7 +79,6 @@ They looked at each other for a moment, two women on either side of a threshold,
 "Come in," Ananya said. "We have a lot to talk about."
 
 
----
 
 Delphine crossed the threshold and stepped into Ananya's world.
 
@@ -110,5 +105,4 @@ Delphine felt the familiar sharpening of attention that came when a story became
 Ananya took a breath. "The second phase. What happened after the crisis. What's still happening, right now, while everyone thinks it's over."
 
 
----
 

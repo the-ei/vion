@@ -17,7 +17,6 @@ The fifth: *I'm back in San Francisco now. Everything here is pretending to be n
 The sixth: *My parents are in China and I can't reach them. The calls won't go through. I don't know why I'm telling you this. I guess because you're the only person I've told anything real to in a long time.*
 
 
----
 
 The seventh, sent that morning: *I understand if you don't want to talk. I wouldn't want to talk to me either. But if you do. I'm here. I just want you to know that.*
 
@@ -38,7 +37,6 @@ The memory was vivid, carved into him: Kevin's expression when Yusuf had touched
 Delete. Too personal. Too honest.
 
 
----
 
 He set the phone down and looked at the ceiling. Outside, the snow continued falling, the window a rectangle of gray-white light, the world beyond it muffled and transformed. What did you say to someone like Kevin Zhou? What was the protocol for cross-class crisis bonding? He did not know. There was no app for this, no algorithm to optimize the connection between two people who should never have met.
 
@@ -55,7 +53,6 @@ He looked at the words. They were true. They were also insufficient. They said n
 He did not send the message. He did not delete it either. He left it sitting in the draft field, cursor blinking, and put the phone face-down on the bed.
 
 
----
 
 Tomorrow. He would figure out what to say tomorrow. Or the day after. Kevin had waited five days; Yusuf could take his time.
 
@@ -72,5 +69,4 @@ Not yet.
 But maybe soon.
 
 
----
 

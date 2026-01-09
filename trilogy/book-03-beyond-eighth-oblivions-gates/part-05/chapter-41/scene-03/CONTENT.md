@@ -15,7 +15,6 @@ Ananya found her near the wine table.
 "It's strange. I spent twenty years being the person who made things, who had opinions, who participated. Now I'm just - watching. Trying to see without needing to shape."
 
 
----
 
 "Is it better? Worse? The same?"
 
@@ -36,7 +35,6 @@ Delphine felt the satisfaction of having reached someone specific, someone who h
 "It did more than connect. It validated something he had been trying to say in his music for years. That the experience mattered, that it was worth documenting, that someone saw it."
 
 
----
 
 Ananya was watching this exchange with interest. "You're an organizer?" she asked Amina. "I've seen your name in some of the labor advocacy work."
 
@@ -61,7 +59,6 @@ Delphine felt the weight of the compliment and the burden it carried. She had ma
 "It is. I needed to step back. To figure out who I am when I'm not making things for audiences."
 
 
----
 
 Amina nodded slowly. "I understand that. In organizing, there's always pressure to do more, to be more visible, to lead. Sometimes you have to step back just to hear yourself think."
 
@@ -80,7 +77,6 @@ Delphine thought about her documentary in this light. She had tried to make some
 "Your brother's music," Delphine said to Amina. "Is he still writing about the precarity years?"
 
 
----
 
 "Some of it. The new songs are different, though. He's writing about survival now, about what comes after. About having made it through and not knowing what that means."
 
@@ -101,7 +97,6 @@ She moved away into the crowd, young and fierce and carrying the future with her
 Ananya considered. "It has to be. We don't get to know how the story ends. We just get to add our chapter and hope someone reads it."
 
 
----
 
 The reception was winding down, people drifting toward dinner plans and panel preparation for the next day's sessions. Delphine stayed a moment longer, watching the room empty, thinking about what had happened here.
 
@@ -120,5 +115,4 @@ Delphine took a last sip of her wine and set down the glass. The reception was o
 Tonight, she would go back to her hotel room and call her family. That was enough.
 
 
----
 

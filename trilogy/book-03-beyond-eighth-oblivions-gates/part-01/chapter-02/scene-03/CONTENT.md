@@ -19,7 +19,6 @@ They sat down to eat. Denise had made roast chicken with vegetables, the meal sh
 "I know it sounds like a lot. But the runway we need to reach profitability -" DeShawn stopped himself, perhaps hearing how he sounded. "It's going well. I'm working hard. The team is great."
 
 
----
 
 "Tell us what the company actually does," Denise said. "You've explained it before, but I still don't fully understand."
 
@@ -42,7 +41,6 @@ Jerome looked at his son across the table - the challenge in DeShawn's eyes, the
 "I'm not against technology. I'm against the way technology gets captured by the same interests it's supposed to disrupt."
 
 
----
 
 "So you think that's what I'm doing? Getting captured?"
 
@@ -67,7 +65,6 @@ The directness of it caught Jerome off guard. DeShawn had named the thing he'd b
 "Maybe. I hope so."
 
 
----
 
 DeShawn set down his fork. His face had closed, the openness of his arrival replaced by something harder. "You know what the difference is between us, Dad? You document problems. You write about how things are broken. You win awards for describing the disaster. But you don't build anything. You don't create solutions. You just point at what's wrong and expect other people to fix it."
 
@@ -90,7 +87,6 @@ The words landed with the particular force of truth spoken by someone who had th
 "I think I'm trying. I think I'm in a position to help small businesses survive, to give people tools they couldn't afford otherwise, to democratize access to technology that's been hoarded by the big players. That's something. That's more than writing about problems from a distance."
 
 
----
 
 Denise stood up and started clearing plates, the motion breaking the tension slightly. Neither Jerome nor DeShawn moved to help - they were still locked in their confrontation, the meal forgotten.
 
@@ -121,7 +117,6 @@ It was the same thing Denise had said earlier. Maybe that was how his family saw
 "I love you too," Jerome said. "That's why I worry."
 
 
----
 
 DeShawn left at eight-thirty, earlier than planned but not angry - just young, busy, moving toward the next thing the way young people did. He hugged his mother, shook his father's hand, promised to come back soon. The same ritual, the same words, the same distance that was always there now.
 
@@ -150,7 +145,6 @@ Jerome dried a plate, set it in the rack, picked up another. "What if he's right
 "Everything is similar to everything if you look at it a certain way. That doesn't make the similarities the most important thing."
 
 
----
 
 They finished cleaning and Denise went upstairs to grade papers, kissing him goodnight with the ease of long habit. Jerome stood in the kitchen for a moment, listening to the silence of the house, thinking about his son disappearing into the night to build things Jerome didn't understand and couldn't stop.
 
@@ -175,7 +169,6 @@ Then he went upstairs to bed, where Denise was already sleeping, and he lay in t
 Some things couldn't be resolved. They could only be lived with.
 
 
----
 
 Tomorrow there would be another morning at Grace's house, another hour or two with his mother who might or might not know him. There would be email and phone calls and the accumulated demands of a public life he had built and now inhabited like a borrowed house. There would be the question of what to write, what to do with the years he had left, what legacy he could build that wasn't just documentation of things he'd been unable to stop.
 
@@ -196,5 +189,4 @@ That was what he knew how to do. Show up. Pay attention. Bear witness.
 Maybe that would have to be enough.
 
 
----
 

@@ -1,6 +1,6 @@
 Ruth walked Yale's campus in the evening light, alone for the first time since morning. The lecture was over, the reception had wound down, her children had departed for their hotels with promises to have breakfast together before flying home. What remained was this: the campus at dusk, the place where her career had begun, the paths she had walked fifty years ago as a student believing everything was possible.
 
-The spring air was mild, cool enough to require a light jacket but not cold enough to hurry her steps. She walked slowly, partly because her hips demanded it and partly because she wanted to notice everything, to be present to this ending that was also a beginning.
+The spring air was mild, cool enough to require a jacket but not cold enough to hurry her steps. She walked slowly, partly because her hips demanded it and partly because she wanted to notice everything, to be present to this ending that was also a beginning.
 
 The law school buildings had changed since her time. The library had been expanded, new halls built, the architecture modernized in ways that proclaimed progress while honoring tradition. But beneath the changes, something remained: the idea that mattered, the belief that collective rules could constrain private power, that justice was worth pursuing even when it seemed impossible.
 
@@ -9,9 +9,8 @@ She had spent her life in service to that idea. Had she served it well?
 There was no way to know. The accounting she had given in the lecture was partial, incomplete, as all such accountings must be. She had tried to be honest about the failures without being paralyzed by them, about the successes without claiming too much. But the true measure of her work would be visible only in the decades to come, in how the students and clerks she had taught carried forward what she had given them.
 
 
----
 
-She found a bench near the old library, a spot she remembered from her student days. The bench was probably different now, replaced at some point over the decades, but the location was the same - a quiet corner where she had sat with casebooks, trying to make sense of a profession she was just beginning to understand.
+She found a bench near the old library, a spot she remembered from student days. The bench was probably different now, replaced at some point over the decades, but the location was the same - a quiet corner where she had sat with casebooks, trying to make sense of a profession she was just beginning to understand.
 
 Susan would have liked this bench. She would have sat beside Ruth and offered her perspective on the evening's events, would have said something sharp and true that cut through Ruth's tendency toward self-criticism.
 
@@ -28,20 +27,18 @@ The evening deepened around her. Students walked past in clusters, heading to li
 That was the comfort and the terror of mortality: it continued.
 
 
----
 
 The law as gate - this was the image that had come to her during the lecture, though she hadn't used it explicitly. The law was a gate between the possible and the actual, between what power wanted to do and what it was permitted to do. She had spent her career tending that gate, trying to keep it strong enough to hold, adjustable enough to adapt. And now she was passing through it herself, from the side of the actors to the side of the observers, from the living practice to the historical record.
 
 What did she want to leave behind? Not rulings or opinions, though those existed and would be cited or overturned as the law evolved. Not the technical innovations in doctrine she had contributed, though some of them still held. What she wanted to leave behind was simpler: the conviction that trying mattered. The belief that institutions, however flawed, were worth maintaining and improving. The practice of showing up, day after day, to the difficult work of making power accountable.
 
-Had she passed that on? To her clerks, perhaps. To some of the students in the audience today, maybe. To David, no - he had made his peace with systems she questioned. To Rebecca, possibly - her daughter's idealism sometimes seemed like a more radical version of Ruth's own commitments.
+Had she passed that on? To her clerks, perhaps. To some students in today's audience, maybe. To David, no - he had made his peace with systems she questioned. To Rebecca, possibly - her daughter's idealism sometimes seemed like a more radical version of Ruth's own commitments.
 
 It didn't matter, finally, whether she had succeeded. What mattered was that she had tried. That was what her lecture had said, and that was what she believed, and that was what she wanted carved on whatever memorial marker might one day bear her name: She tried.
 
 
----
 
-The air was growing cooler. Ruth pulled her jacket tighter and considered returning to the hotel, to the comfortable room she didn't need, to the evening ahead. She would call David and Rebecca, would hear their assessments of the lecture, would sleep in a strange bed and wake to a morning of farewells.
+The air was growing cooler. Ruth pulled her jacket tighter and considered returning to the hotel, to the comfortable room she didn't need, to the evening ahead. She would call David and Rebecca, would hear their thoughts on the lecture, would sleep in a strange bed and wake to a morning of farewells.
 
 But for now, she wanted to sit a while longer on this bench, in this place where everything had begun, and feel the particular peace of completion.
 
@@ -56,9 +53,8 @@ Susan would have said she was being too modest. Would have said that the lecture
 *Because I watched you do it. For forty years, I watched you try. And trying, over that long, adds up to something. Even when you can't measure it.*
 
 
----
 
-Ruth stood, feeling her body protest the transition from sitting to standing, the small accommodations age required. She looked once more at the campus that had shaped her, at the buildings and paths and people that continued without her, and she felt something that might have been gratitude.
+Ruth stood, feeling her body protest the transition, the small accommodations age required. She looked once more at the campus that had shaped her, at the buildings and paths and people that continued without her, and she felt something that might have been gratitude.
 
 She had been lucky. Lucky to do work that mattered, to love and be loved, to raise children who had become adults she respected, to live long enough to see some of her efforts bear fruit and others fail. The failures were real, but so were the successes, and the balance between them was something she no longer needed to calculate. It was simply her life, the only life she had been given, lived as well as she could manage.
 
@@ -71,5 +67,4 @@ She did not look back. There was nothing to look back at. There was only the for
 She had given what she had. The rest was beyond her reach.
 
 
----
 

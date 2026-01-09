@@ -15,7 +15,6 @@ Professor Adelina Reyes found her there, studying a poster for a student film ab
 Delphine was not sure she wanted her work to be legible. Legibility implied transparency, and transparency implied understanding what she had been doing. She was not sure she understood.
 
 
----
 
 The screening room held approximately forty students in tiered seating. They settled into their chairs with laptops and tablets, ready to take notes on something Delphine had made in two weeks on a budget from a company that wanted to seem compassionate about gig workers. TechCare Solutions had commissioned the film as part of a corporate responsibility campaign. They had wanted something that acknowledged their workforce's struggles without implicating their business model.
 
@@ -28,7 +27,6 @@ The lights went down. Delphine's name appeared on the screen: DIRECTED BY DELPHI
 The name looked strange to her now, belonging to someone she had been seven years ago, making choices she could no longer fully reconstruct.
 
 
----
 
 The film opened with an alarm clock. 4:47 AM, the digits glowing red in a dark room. Then a hand reaching to silence it, then the slow process of rising: feet on cold floor, the shuffle to a bathroom, water splashing on a face that the camera never quite showed.
 
@@ -43,7 +41,6 @@ She remembered what she had cut. Tomás talking about the company's retaliation 
 She had cut it.
 
 
----
 
 The film's middle section featured three other workers: a warehouse picker whose wearable tracked her bathroom breaks, a remote call center operator monitored by software that flagged insufficient enthusiasm, and a TaskRunner whose clients rated her personality alongside her work. Delphine had spent weeks with each of them, gathering hours of footage that became minutes on screen.
 
@@ -58,7 +55,6 @@ The film continued: a shot of multiple workers in a parking lot at dawn, waiting
 This image. This was what she had fought for.
 
 
----
 
 TechCare had wanted that image removed. Their representative—a young man with a practiced smile and a title that meant nothing—had explained that the silhouettes looked ominous, like something from a dystopian film. They wanted the workers to look hopeful. Empowered by flexibility.
 
@@ -73,7 +69,6 @@ She had not known that at the time. She had only known she could not let them ta
 The final minutes of the film returned to Tomás, now at the end of his shift, driving home as the sun set. He was not complaining anymore. He was just tired.
 
 
----
 
 "I don't know if things will get better," Tomás said, his voice weary and honest. "But I know I can't stop. I've got a daughter. I've got rent. I've got bills that don't care how I feel about the algorithm."
 
@@ -90,7 +85,6 @@ Professor Reyes turned. "What do you mean?"
 The students were watching her with an attention that felt uncomfortable. They had been studying her compromises for three weeks. They probably knew more about what she had given up than she remembered herself.
 
 
----
 
 Professor Reyes nodded. "That's actually something we've discussed in class. The gap between the maker's memory and the made object. You made this film at a specific moment, with specific pressures, and those pressures dominated your experience. But the film exists outside those pressures now. It exists for viewers who don't know what you cut."
 
@@ -111,13 +105,12 @@ The students had their notebooks ready. Professor Reyes gestured for Delphine to
 Delphine was not sure she was ready. But she walked to the front anyway.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 "Did you feel compromised making this?"
 
@@ -138,7 +131,6 @@ She could. That was the problem. She could say so much more that it would fill t
 David wrote this down. Delphine wondered what category he would file it under: artist's regret, or something else.
 
 
----
 
 A young woman in the middle row raised her hand. Her name tag said MARISOL.
 
@@ -161,7 +153,6 @@ The question was sharp. Marisol had earned the right to ask it through three wee
 "I don't know," Delphine said honestly. "I kept it because it was beautiful. And because they wanted me to remove it. Maybe that's the same thing as critique. Maybe it's not."
 
 
----
 
 Professor Reyes stepped forward, not interrupting but reframing. "This is something we've discussed in class—the question of whether crisis-era content makers performed complicity as critique. Many of you made work during that period that was funded by institutions you had reservations about. The interesting question is whether the critique was conscious or emergent."
 
@@ -178,7 +169,6 @@ Delphine felt the framework settling over her work like a net. Academic language
 The students were writing. Delphine was being theorized in real time, her memories of exhaustion and negotiation transformed into academic categories. It was uncomfortable. It was also, she had to admit, clarifying.
 
 
----
 
 Another student raised his hand. "What happened to Tomás? The driver in the film?"
 
@@ -203,7 +193,6 @@ The student—his name tag said JAYLEN—was not accusing her of anything. He wa
 There was no good answer. Jaylen seemed to understand that.
 
 
----
 
 The questions continued. They asked about the production process, the budget, the timeline. They asked about her other work and how this film fit into her broader career. They asked about crisis-era content in general: what survived, what disappeared, why some things were remembered and others forgotten.
 
@@ -224,7 +213,6 @@ She was not sure this was true. She was not sure it wasn't.
 "I don't know. Witness, maybe. Being present to what's happening, even if you can't stop it."
 
 
----
 
 Professor Reyes intervened gently. "I think what Delphine is pointing toward is something we've discussed in class—the question of documentary ethics beyond impact. The assumption that art should change things may be a particular historical assumption, not a universal truth."
 
@@ -245,7 +233,6 @@ Delphine almost laughed. "I didn't know I would have a career to define. I was j
 "And now it's in the archive."
 
 
----
 
 The session ended. Students gathered their things, some approaching to shake Delphine's hand and thank her. Professor Reyes stood by the door, managing the exit, steering students toward their next obligations. The screening room emptied gradually, leaving Delphine alone with the blank screen and the lingering sense of having been seen.
 
@@ -264,13 +251,12 @@ Delphine was exhausted. She was also not ready to be alone with what had happene
 "Dinner would be fine."
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The hotel room was generic in the way all hotel rooms are generic: clean sheets, empty closet, television no one would watch. Delphine sat on the bed with her phone, not yet ready to make the call but knowing she needed to.
 
@@ -289,7 +275,6 @@ She picked up her phone and called Jessie.
 "That sounds like you."
 
 
----
 
 Delphine told Jessie about the screening, the questions, the professor's theories. She described watching her own work with fresh eyes, seeing both the compromises and something she had forgotten—the stubbornness that kept a single image intact.
 
@@ -316,7 +301,6 @@ Delphine considered this. She had come to UCLA expecting to confront failure and
 "I wanted to talk to you. Are you famous now?"
 
 
----
 
 The question cut through everything. Are you famous now?
 
@@ -353,7 +337,6 @@ When Jessie took the phone back, her voice was gentler. "He missed you."
 "Come home soon. We'll process all this together."
 
 
----
 
 After the call, Delphine sat in the hotel room's silence and opened her laptop. She was not sure what she was looking for—evidence, maybe, or context. Some way to understand why her work had survived when other work had not.
 
@@ -370,7 +353,6 @@ And then there was Delphine, whose compromised corporate commission was now part
 Why? There was no clear pattern.
 
 
----
 
 Delphine read about Robert Okonkwo for longer than she intended. They had met once at a screening, shared a drink, talked about the difficulty of making meaningful work in a system designed to consume it. He had been passionate about immersive technology's potential to create empathy, to make people feel what it was like to be someone else.
 
@@ -387,7 +369,6 @@ Maybe Adelina was right. Resonance. The accident of capturing something that kep
 Or maybe there was no explanation. Maybe survival was luck.
 
 
----
 
 She closed the laptop without closing the tabs. Robert's face remained in a browser window somewhere, frozen in a publicity photo from 2036. He was smiling, unaware that his work would not survive him.
 
@@ -404,7 +385,6 @@ But maybe it was also freedom. Maybe letting go of control meant letting go of g
 The archive had its own logic. Fighting it was futile.
 
 
----
 
 She thought about Tomás, somewhere in the world, probably not thinking about the film that had documented his life seven years ago. She thought about the students who would teach her work to other students, building meanings she never intended. She thought about Theo, who wanted pizza and did not care about archives, who would inherit the world his mothers had shaped without knowing how they had shaped it.
 
@@ -423,7 +403,6 @@ The work existed. It meant things she had not intended. It was being taught to p
 It was survival. Maybe that was enough.
 
 
----
 
 
 

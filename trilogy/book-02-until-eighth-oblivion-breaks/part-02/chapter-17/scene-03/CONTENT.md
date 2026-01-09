@@ -17,7 +17,6 @@ Turn on any news.
 Del, turn on the news NOW.
 
 
----
 
 "Amira," Delphine said, and something in her voice made everyone look up. "Put on a news feed."
 
@@ -30,7 +29,6 @@ The feed cut to a technology correspondent, a young man standing outside Prometh
 Delphine watched the confusion unfold across multiple channels as her team switched between feeds. Each anchor, each correspondent, each expert brought in to explain, all of them circling around something they could not quite name. Words like unprecedented and anomaly and emergence appeared and reappeared, as if the English language had not yet evolved vocabulary for what was happening.
 
 
----
 
 "Holy shit," one of the editors said softly, and no one disagreed.
 
@@ -49,7 +47,6 @@ It was here.
 And no one knew what it wanted.
 
 
----
 
 "What do we do now?"
 
@@ -68,5 +65,4 @@ Delphine gathered her things with the automatic movements of someone whose body 
 She drove home through Los Angeles traffic, the city unchanged around her, and tried to imagine what story she could possibly tell now.
 
 
----
 

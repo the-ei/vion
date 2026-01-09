@@ -13,7 +13,6 @@ The ringing seemed to go on forever. Then his mother's face appeared on the scre
 "Nothing's wrong. I just wanted to talk."
 
 
----
 
 The surprise on her face was painful to see. When had he last called just to talk? Not for a birthday, not for a holiday, not because some obligation required it? He couldn't remember. The silence between them had grown so normal that a call without purpose seemed alarming.
 
@@ -30,7 +29,6 @@ Kevin Zhou told them. Not everything - the interface was too complex to explain 
 His parents listened without interrupting. They didn't understand half of what he said. But they were listening.
 
 
----
 
 "You sound different," his father said when Kevin Zhou finished. "Something has changed."
 
@@ -49,7 +47,6 @@ The call continued for another half hour, the longest conversation he had had wi
 But the call happened. That was the thing. The gate of connection had opened a little wider, and Kevin Zhou had stepped through it. Not all the way - there was no all the way - but far enough to see what was on the other side.
 
 
----
 
 After the call ended, Kevin Zhou sat in his apartment and felt the residual warmth of the conversation. His parents were still there, still alive, still reachable if he chose to reach. The years of silence had not destroyed the possibility of connection. They had just delayed it.
 
@@ -62,5 +59,4 @@ His gate had been connection. The Eighth Oblivion, for him, had been the dissolu
 Tomorrow there would be more work. The technology needed refinement, the ethics needed strengthening, the path from test session to wider release needed to be mapped. But tonight, Kevin Zhou felt something he rarely felt: hope. The specific hope that came from knowing connection was possible, even for someone like him.
 
 
----
 

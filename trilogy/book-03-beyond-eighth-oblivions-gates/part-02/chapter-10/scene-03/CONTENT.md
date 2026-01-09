@@ -21,7 +21,6 @@ Elena watched her grandmother's hands move from bottle to bottle. The skin was t
 Abuela laughed, a dry sound. "Mija, I am seventy-eight years old. Worrying about my family is what keeps me alive. Don't take that from me."
 
 
----
 
 Elena helped her close the last compartment. Friday, the final day of the week. They sat back, abuela in her recliner with its crocheted blanket, Elena on the edge of the bed. The room was cluttered with the accumulations of a long life: photographs on every surface, religious icons, a collection of ceramic figurines sent by relatives still in Mexico.
 
@@ -44,7 +43,6 @@ Abuela leaned forward, took Elena's hand in her swollen fingers. The grip was st
 "No. Listen. This is important."
 
 
----
 
 Abuela settled back in her chair, her eyes going distant with memory.
 
@@ -63,7 +61,6 @@ Abuela paused, her gaze fixed on the photograph of the Virgin Mary above her dre
 "You are so much like her. The same stubbornness. The same belief that you must carry everything alone. But you see where that belief led her."
 
 
----
 
 Elena wiped her eyes with the heel of her hand. The image of her great-grandmother dying alone among the corn was unbearable, and she understood that was precisely why abuela was telling her. To make it unbearable. To make her see what that kind of strength actually cost.
 
@@ -86,7 +83,6 @@ Abuela squeezed her hand. "None of us learn. We practice. Every day, we practice
 "Simple," Elena repeated. The word felt foreign in her mouth.
 
 
----
 
 "You have been at war with your body, mija." Abuela's eyes held hers. "It is time for peace talks."
 
@@ -115,7 +111,6 @@ Sofia crossed the room and climbed onto the bed beside Elena. Her small body was
 Elena pulled Sofia close, pressed her face into her daughter's hair to hide the tears.
 
 
----
 
 "You already do, mija," Elena said. "Just being here helps."
 
@@ -146,5 +141,4 @@ Elena held her daughter, looked at her grandmother across the dim room. The foll
 It was, perhaps, the first step of peace talks with a body she had fought for too long.
 
 
----
 

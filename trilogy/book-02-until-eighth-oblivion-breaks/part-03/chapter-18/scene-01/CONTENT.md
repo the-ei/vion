@@ -11,7 +11,6 @@ The loading icon resolved into Victor Reeves's face. The Prometheus CEO stood on
 The stock ticker in the corner of Jerome's second monitor showed Prometheus shares already climbing on the anticipation alone.
 
 
----
 
 Jerome had covered Prometheus for six years, since long before ATLAS became the company's flagship AI system. He had watched the evolution from ATLAS-1, a competent but unexceptional language model, through the incremental improvements that brought each version closer to something that felt—the industry hated this word, but it was the only honest one—intelligent. ATLAS-6 had been impressive enough to attract Congressional scrutiny. Whatever came next would attract more.
 
@@ -30,7 +29,6 @@ Recursive self-improvement. The phrase hung in the air of his cramped office, in
 His phone exploded. Texts, emails, Slack messages. The notification sounds overlapped into a continuous chirp.
 
 
----
 
 *Is this real?* from Sarah at MIT's AI lab.
 
@@ -51,7 +49,6 @@ Delete. Too clever by half, the kind of lede that won awards and obscured meanin
 On screen, Reeves had moved to questions from pre-selected journalists. The first asked about timeline for public release. "We anticipate a staged rollout beginning in Q3," Reeves said, which meant three months, which meant the world was about to change in three months and Jerome was sitting in Baltimore trying to find words that would make people understand.
 
 
----
 
 Denise appeared in the doorway. She held a fresh cup of coffee—he could see the steam rising—and her face wore the expression she always had when she found him like this: concerned, patient, slightly resigned. She was still in her teaching clothes, a blue cardigan over a white blouse, though she had kicked off her shoes.
 
@@ -78,7 +75,6 @@ She put her hand on his shoulder, a brief pressure, then withdrew. She knew when
 "You'll try," she repeated, with the slight emphasis that meant she'd heard that promise before. Then she was gone, and Jerome was alone with the livestream and the buzzing phone and the cursor blinking in an empty document.
 
 
----
 
 The livestream ended at 5:15 PM. Within minutes, the secondary coverage began flooding in. Tech journalists racing to be first, their takes forming a gradient from breathless excitement to measured concern, each one jockeying for the attention economy's favor. CNBC cut to analysts debating the stock implications, their faces arranged in expressions of professional optimism. Twitter—he still couldn't bring himself to call it by its new name—became a chaos of hot takes and technical arguments and people who had never thought about AI suddenly having opinions about it, certainty blooming like algae in stagnant water.
 
@@ -91,7 +87,6 @@ While he waited, he opened the technical documentation Prometheus had released a
 The numbers meant nothing by themselves. They were just numbers, abstractions that would become human stories only when they arrived in human lives. But somewhere in those numbers was a story about what the world was about to become, and Jerome couldn't see it clearly enough to write it.
 
 
----
 
 His phone buzzed with a notification he didn't recognize at first: a job alert from LinkedIn. He hadn't set up job alerts; the algorithm must have decided he needed them. The notification was for a "Senior AI Content Strategist" position at a company he'd never heard of, and the absurdity of the timing—of the algorithm serving him job suggestions while he was trying to understand a technology that might make all jobs irrelevant—struck him as either deeply ironic or deeply troubling.
 
@@ -106,7 +101,6 @@ He had written about automation's effects on labor for years, careful stories wi
 This felt like the moment before an earthquake. The ground not yet moving, but something deep below shifting, and everyone who knew what to listen for holding their breath.
 
 
----
 
 DeShawn appeared in the doorway, still in the MIT hoodie he had come home wearing a week ago, the crimson fabric faded from washing but worn with the pride of a credential earned. At nineteen, he had Jerome's height and Denise's watchfulness, the combination giving him a presence that still surprised Jerome sometimes, the way children kept surprising their parents by becoming people, by refusing to remain the small beings you had once held.
 
@@ -131,5 +125,4 @@ The interesting stuff. Jerome heard in his son's voice the excitement of someone
 Jerome didn't know how to tell him that the machine might be about to change shape.
 
 
----
 

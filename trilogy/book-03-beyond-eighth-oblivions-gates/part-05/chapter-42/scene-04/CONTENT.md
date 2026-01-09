@@ -11,7 +11,6 @@ It was true. His son knew where to find him now, knew how to reach him, and some
 You didn't solve everything. You just found ways to continue.
 
 
----
 
 In San Francisco, Ananya stood at her window, watching the city lights come on. The apartment was quiet, but it was a different quiet than the silence she remembered from ten years ago, the empty house too large for one person, the absence of James, the weeks without Priya that had felt like small bereavements.
 
@@ -28,7 +27,6 @@ Her phone buzzed. A text from Delphine: *Arrived safely. Missing you already. Ju
 *June works*, she typed back. *I'll be there.*
 
 
----
 
 Delphine lay in bed next to Jessie, their bodies not quite touching, the particular intimacy of shared sleep after twenty years. Theo was in his room, probably not sleeping yet, probably on his phone the way twelve-year-olds were always on their phones, being shaped by algorithms Delphine had once documented and now simply lived alongside.
 
@@ -47,7 +45,6 @@ Delphine lay in the dark and thought about the documentary she had made, the one
 That was how it worked. You made something and released it, and then it belonged to everyone, and what they made of it was theirs.
 
 
----
 
 Ruth felt them. All of them, out there in their separate lives, the people she had known and taught and argued with and loved in her particular careful way. The symposium had ended, and they were scattered now across the country, returning to the worlds they had built, the work that was waiting.
 
@@ -62,7 +59,6 @@ The evening light came through her window, the particular New Haven twilight she
 Tomorrow there would be more. There was always more.
 
 
----
 
 Yusuf picked up his guitar. The new song was still unfinished, the melody clear but the words not quite right, circling the thing he wanted to say without landing on it. He played through the progression slowly, listening, letting the notes find their own way to meaning.
 
@@ -75,7 +71,6 @@ He played the song through once, then again, then a third time. Each pass was sl
 Outside his window, Minneapolis was settling into night. The city where he had grown up, where he had almost failed, where he had somehow continued. The city that was home not because it was perfect but because he had learned to live here, had learned the streets and the weather and the particular way the light fell on certain buildings at certain times of day.
 
 
----
 
 He set down the guitar and went to the window. The sky was dark now, the stars invisible behind the city's light, but he knew they were there - had always been there, would be there long after everyone he knew was gone, indifferent to the small struggles and small victories of human lives.
 
@@ -98,5 +93,4 @@ And Yusuf, at his window in Minneapolis, watched the night settle over the city,
 The gate was open. The world continued. There was more to do.
 
 
----
 

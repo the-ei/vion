@@ -7,7 +7,6 @@ The first patient on her rotation was Graciela Montoya, fifty-four years old, di
 In the exam room, Elena went through the vitals. Blood pressure elevated. Weight up since the last visit, though Graciela swore she was trying. Blood sugar, when they tested it, was at 287, nearly double what it should be. Elena made notes in the chart while Graciela explained what had happened since her last visit, the story unfolding in fragments, shame mixed with frustration mixed with exhaustion.
 
 
----
 
 Her employer had cut her hours. This was the central fact around which everything else rotated. Graciela cleaned offices for a janitorial company, had done so for eight years, and when the company discovered that anyone working thirty or more hours qualified for their health insurance plan, they restructured the schedules. Now Graciela worked twenty-eight hours a week across three different sites, earning less money and qualifying for nothing. She had applied for Medicaid and been denied. Something about the formula, the way her income and her household size and the state's eligibility rules combined into a verdict that she fell through the cracks.
 
@@ -18,7 +17,6 @@ Elena listened to all of this while checking Graciela's feet for wounds that wou
 What was different today was that Elena felt both the rage and the care simultaneously, like two hands working together instead of one tied behind her back. She saw Graciela and she saw the machinery that had ground Graciela down, and she did not have to choose between tending the wound and naming the weapon.
 
 
----
 
 She called in one of the clinic's social workers to sit with Graciela, to find some program or workaround that might help. There were pharmaceutical company assistance programs, charity care options, byzantine pathways through the system that sometimes led somewhere. The social worker would try. Whether it would work was another question.
 
@@ -29,7 +27,6 @@ She asked questions. The grandmother answered. They lived near the highway, one 
 Elena listened to his lungs, the crackling sound that shouldn't be there, the airways constricted by inflammation from breathing what no child should have to breathe. She could treat the symptoms. She could renew the prescription, refer him to a pulmonologist if the clinic could get him an appointment, give the grandmother the best advice about minimizing exposure. What she could not do was move them away from the highway, clean the air, undo the decades of policy that had located polluting infrastructure in poor neighborhoods.
 
 
----
 
 She had a colleague, years ago, who had burned out on exactly this feeling. He was a good nurse, maybe the best she had worked with, and he had cared so deeply about the environmental factors driving disease that he couldn't do the job anymore. He went to work for an advocacy organization instead, left the bedside to fight the upstream causes. Elena had understood why. Some days she envied him. But she had stayed at the bedside, kept treating the symptoms, kept showing up even though the wounds she dressed would be reopened by the world outside the clinic walls.
 
@@ -40,7 +37,6 @@ She wrote the prescription, explained the renewal to the grandmother, made a not
 The morning continued. Patient after patient, need after need, the clinic churning through bodies like a machine that never quite kept up with the demand.
 
 
----
 
 At eleven-thirty she saw Harold Patterson, a man she had been treating for two years, ever since he retired from the trucking company where he had driven for thirty-one years. Seventy-two years old, diabetic like Graciela, also dealing with the early stages of congestive heart failure. He came in every month for monitoring, a model patient in terms of compliance, doing everything right. The problem was that doing everything right still cost more than he could afford.
 
@@ -51,7 +47,6 @@ She checked his vitals, listened to his heart, the murmur more pronounced than i
 Elena made notes. Adjusted one prescription to try to reduce costs. Looked up yet another patient assistance program that might help. Harold thanked her, as he always did, as if she had done something beyond the minimum. She watched him walk out and felt the weight of all the patients she couldn't save.
 
 
----
 
 By noon she had seen twelve patients. Twelve stories of systems failing, of bodies breaking under pressures that were not natural, of care patched together from inadequate resources. She had done what she could for each one, which was something, which was not nothing, which was also not enough.
 
@@ -64,7 +59,6 @@ The change terrified her and also felt like coming home.
 Her pager buzzed. Another patient waiting. She dried her hands, checked her face in the mirror one more time, and went back to work. There was nothing else to do. The patients kept coming. The need never stopped. And she had chosen to be here, in this clinic, on the front lines of failure, because someone had to be and because she still believed it mattered.
 
 
----
 
 The afternoon patients blurred together, more variations on the morning's themes. A teenager with a wound that had gotten infected because he waited too long to come in, embarrassed about how he'd gotten it. A pregnant woman who should have been seeing an obstetrician but couldn't get an appointment until her third trimester. An elderly woman whose dementia was progressing while her daughter, the caregiver, showed all the signs of burning out herself.
 
@@ -77,5 +71,4 @@ Elena thought about her abuela in the hospice room, the careful climate control 
 The rage flared and she let it. The care flowed and she let that too. Both at once. Both necessary.
 
 
----
 

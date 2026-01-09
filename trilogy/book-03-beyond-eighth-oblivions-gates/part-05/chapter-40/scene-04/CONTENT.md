@@ -15,7 +15,6 @@ The mention of his father broke something open. Yusuf hadn't cried on stage, had
 "He's here," his mother said. "He's always here. In your music. In you."
 
 
----
 
 Amina joined them now, completing the family triangle. The three of them stood together in the worn green room, amid the detritus of countless performances, and held each other.
 
@@ -44,7 +43,6 @@ Amina saw him texting and raised an eyebrow. "The tech billionaire?"
 "Strange times we've lived through."
 
 
----
 
 The stage manager knocked. "Sorry to interrupt, but there are some people who really want to meet you. Label folks. Press. The usual post-show crowd."
 
@@ -71,7 +69,6 @@ He hugged her again, breathing in the familiar scent of her, the particular comb
 Amina guided her toward the exit, toward the car that would take her home. Yusuf watched them go, this woman who had given him everything and this sister who fought for everyone, until the door closed and they were gone.
 
 
----
 
 The industry conversations went as such conversations go: expressions of enthusiasm, exchanges of contact information, vague references to opportunities that might or might not materialize. Yusuf moved through them with a part of himself held back, participating in the networking while remaining skeptical of its promises.
 
@@ -86,7 +83,6 @@ But for tonight, it had been his room. His stage. His moment.
 He played a few chords, quietly, not for anyone else. The guitar responded to his touch as it always did, the old friend who had been with him through everything. He had bought it used, years ago, with money saved from gig work, had carried it through apartments and couches and the chaos of survival.
 
 
----
 
 What did success mean, when you had never expected to survive?
 
@@ -109,5 +105,4 @@ The music was his. Whatever happened next, that could never be taken away.
 He played one more chord, let it ring, let it fade, and finally stood to go home.
 
 
----
 

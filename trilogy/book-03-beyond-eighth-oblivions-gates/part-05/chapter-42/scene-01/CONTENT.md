@@ -23,7 +23,6 @@ Now Ananya watched the lobby and waited, not for anything specific, just for the
 "Something like that."
 
 
----
 
 They stood together, old friends who had first met as source and journalist, then become allies, then become something harder to name. The decade had changed them both in ways that were still becoming visible.
 
@@ -50,7 +49,6 @@ Ananya smiled. It was an old reference between them, from a conversation years a
 "God, I hope not. I hope the next time I see you it's somewhere that doesn't require name tags."
 
 
----
 
 Delphine was in the coffee shop adjacent to the lobby, her bags already gathered at her feet, her attention on her phone. She looked up when Ananya approached and smiled - that particular Delphine smile that managed to be both warm and wry at the same time.
 
@@ -81,7 +79,6 @@ Ananya considered the question. She had asked it of herself so many times, in so
 "Is it? It feels more like realism to me. We can't change the past. We can only try to understand it well enough to navigate the present."
 
 
----
 
 Delphine's phone buzzed. She glanced at it, smiled.
 
@@ -116,7 +113,6 @@ They crossed the lobby together, two women in their late forties who had spent a
 "I'll ask her."
 
 
----
 
 A black car pulled up, and Delphine loaded her bags into the trunk. She turned back to Ananya for a final moment - not quite an embrace, not quite a wave, something in between that acknowledged how inadequate gestures were and made one anyway.
 
@@ -139,5 +135,4 @@ Her phone buzzed. A text from Priya: *Landed safely. Call tonight?*
 *Yes*, Ananya typed back. *I'd like that.*
 
 
----
 

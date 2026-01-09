@@ -13,7 +13,6 @@ She stopped reading. The words "reasonable people" sat in her mind like an accus
 Outside, a siren wailed, the sound rising and then fading as an ambulance passed somewhere below, and Ananya thought about all the emergencies she had never witnessed, all the harm she had never seen directly, the distance her position at Prometheus had maintained between her and the consequences of the systems she had approved.
 
 
----
 
 She read on.
 
@@ -28,7 +27,6 @@ She remembered the first time she and Delphine had spoken honestly with each oth
 That was the moment the alliance had begun. Not collaboration, exactly, and not friendship in any simple sense. Something closer to recognition. Two women who had spent their careers trying to shape narratives around technology, one from outside and one from within, discovering they had arrived at the same questions by different routes.
 
 
----
 
 The message continued.
 
@@ -43,7 +41,6 @@ What did you tell yourself. She had told herself many things. That her presence 
 Until now. Until the flinch had become unavoidable.
 
 
----
 
 She set the phone down and walked to the window again, her arms crossed, watching the city below.
 
@@ -62,7 +59,6 @@ What do you wish you had done differently.
 Everything, she thought. Nothing. The question itself was a trap, because the answer required imagining a version of herself who did not exist, who had never existed, who might have made different choices if she had been someone other than who she was.
 
 
----
 
 The final paragraph of Delphine's message waited for her.
 
@@ -83,5 +79,4 @@ She picked up the phone again and read the message one more time, from beginning
 Then she began to compose a reply.
 
 
----
 

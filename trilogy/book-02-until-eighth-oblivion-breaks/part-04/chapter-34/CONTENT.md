@@ -19,7 +19,6 @@ But the panic did not come.
 Instead, there was silence. And then, through the silence, she heard something she did not expect: voices. Outside. Not screaming. Talking. And underneath the talking, laughter.
 
 
----
 
 Elena walked toward the clinic's front door. Each step felt deliberate, weighted, as if she were approaching something significant and did not yet know what.
 
@@ -38,7 +37,6 @@ For twelve days, the world had been collapsing. Hospitals closed, systems failed
 And now, outside her clinic, her neighbors were having a cookout.
 
 
----
 
 Daniel came to stand beside her. He was quiet for a moment, taking in the scene, and then he laughed. Not a bitter laugh, not a desperate laugh. Something lighter.
 
@@ -67,7 +65,6 @@ He was wrong about that - everything was still falling apart, still failing, sti
 She sat.
 
 
----
 
 The fire crackled. The guitar played. Children laughed. The sun was setting over Phoenix, painting the sky in colors that seemed almost obscene given everything that had happened.
 
@@ -86,13 +83,12 @@ These people had been strangers two weeks ago. Neighbors in the technical sense 
 Now they did. And something was forming from that dependence.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The soup was bean and vegetable, seasoned with something Mrs. Williams called "emergency spices" - the collection of half-used bottles she had cleaned out of her cabinet when the crisis began, reasoning that if food was going to be uncertain, it might as well taste good.
 
@@ -107,7 +103,6 @@ The fire threw dancing shadows across the assembled faces. Elena watched them - 
 These were not organized people. There was no leadership structure, no chain of command, no formal process for decision-making. And yet decisions were being made. Resources were being allocated. Work was being planned and distributed.
 
 
----
 
 Mr. Ochoa sat down beside her, a plate of food in his hands. He ate with the focused attention of someone who had not always had enough to eat.
 
@@ -128,7 +123,6 @@ Elena thought about her own relationships with the people on her street. She kne
 "And then he moved here. Bought a house. Got a job. Stopped needing anyone." He paused. "Stopped being needed by anyone. I don't think he ever got over that."
 
 
----
 
 The guitar music had paused. The teenage boy - someone said his name was Jaylen, that he was Mrs. Patterson's grandson - was tuning his instrument, frowning at the strings as if they had personally betrayed him.
 
@@ -149,7 +143,6 @@ Mrs. Williams refilled her bowl without asking. "You need more than one serving.
 It was true. It was devastatingly, simply true.
 
 
----
 
 The hours passed. The fire burned down and was rebuilt, fresh wood added from someone's carefully hoarded supply. The children tired and were carried inside by parents who would return to the circle. The conversations ebbed and flowed, serious and trivial intermingled, plans made and discarded and made again.
 
@@ -170,7 +163,6 @@ Daniel appeared at her side, holding two cups of something that looked like tea 
 "Like what should have been here all along."
 
 
----
 
 Daniel put his arm around her. The gesture was simple, automatic, the kind of thing he had done a thousand times in their marriage. But tonight it felt different. Tonight, surrounded by strangers who were becoming neighbors, watching a community assemble itself from the wreckage of efficient isolation, the touch felt like an anchor.
 
@@ -199,13 +191,12 @@ Other things were being built.
 Both were true.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The network had rules. Unwritten rules, evolved over twelve days of necessity, but rules nonetheless.
 
@@ -224,7 +215,6 @@ It was messy. Elena could see that. The systems they were using were inefficient
 But properly organized institutions had failed. And this messy, inefficient, human thing was still working.
 
 
----
 
 Daniel introduced her to the man he had been talking to earlier: Ray, a former electrician who had been working on solar panel maintenance when the crisis hit. Ray knew which houses in the neighborhood had solar installations, knew how to repair them, knew how to rig battery storage from salvaged car batteries.
 
@@ -245,7 +235,6 @@ Elena listened as they talked through the technical requirements. She understood
 Ray was quiet for a moment. "That's the question, isn't it. Do we go back to being strangers who buy power from a company? Or do we keep this?"
 
 
----
 
 The food distribution conversation was happening near the fire, louder than the others. Elena drifted toward it and found herself in the middle of a debate.
 
@@ -270,7 +259,6 @@ The circle went quiet. The first woman frowned, considering. Mrs. Williams nodde
 The decision was made. No vote, no formal process. Just consensus emerging from argument.
 
 
----
 
 Elena found Dr. Okonkwo near the edge of the gathering, watching the debates with an expression Elena recognized: the professional assessment of someone trying to understand a system.
 
@@ -299,7 +287,6 @@ Dr. Okonkwo was quiet for a moment. "You weren't as alone as you think. I was th
 "Something old, maybe. Something we forgot how to do."
 
 
----
 
 The network continued to operate around them. Skills were being catalogued: who knew carpentry, plumbing, electrical work, nursing, teaching, childcare. Resources were being inventoried: who had solar panels, who had wells, who had gardens, who had tools. Plans were being made: how to secure water if the city supply failed completely, how to handle medical emergencies, how to protect against whatever threats might emerge.
 
@@ -318,13 +305,12 @@ This was something smaller but perhaps more durable: the recognition that even i
 It wasn't enough. But it was something. And something was more than she had expected to find.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Near midnight, someone brought out a radio.
 
@@ -353,7 +339,6 @@ Relief should have been there. Help was coming. The crisis was ending. The syste
 But relief was not what she felt.
 
 
----
 
 "Grid restoration," Mr. Ochoa said. "They're bringing back the power."
 
@@ -380,7 +365,6 @@ Daniel found Elena in the crowd and took her hand. "What are you thinking?"
 "Then why does it feel like that's what's coming?"
 
 
----
 
 Tony found another signal, clearer this time. A different voice, maybe a different station.
 
@@ -401,7 +385,6 @@ Elena did not feel reassured. She felt something harder, colder: the certainty t
 The fire burned. The radio crackled. The night continued, and somewhere in the darkness, the old world was reassembling itself.
 
 
----
 
 The gathering began to disperse as the hour grew late. People drifted back to their homes, carrying the news of restoration with them, spreading it to those who had not been at the fire. By morning, everyone would know: the crisis was ending.
 
@@ -424,13 +407,12 @@ The question was direct, honest, impossible to evade. Elena thought about the cl
 She didn't know if it was true. But she wanted it to be.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Elena walked to the edge of the parking lot, away from the dying fire. The night was cool, the stars visible in a way they never were when the city lights were on. She stood alone for a moment, her arms crossed, looking at nothing in particular.
 
@@ -447,7 +429,6 @@ Not a perfect way. Not a utopia. Just proof that people could organize themselve
 The anger and the proof together were a kind of fuel. A direction. A purpose.
 
 
----
 
 Daniel appeared at her side. He did not speak at first, just stood with her, looking at the stars.
 
@@ -476,7 +457,6 @@ The question cut to the heart of it. The systems were returning. The corporation
 "I don't know yet. But I know what I'm fighting for now. That's more than I had two weeks ago."
 
 
----
 
 She turned and walked back toward the fire.
 
@@ -505,7 +485,6 @@ The crisis was ending.
 Her work was just beginning.
 
 
----
 
 
 

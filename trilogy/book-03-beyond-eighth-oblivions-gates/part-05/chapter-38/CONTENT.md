@@ -13,7 +13,6 @@ She texted back: *Thank you. I'll call after.*
 Then she lay in bed a moment longer, letting the fear wash through her.
 
 
----
 
 This film was different from everything she had made before. Not commercial, not explanatory, not designed to satisfy the attention economy she had spent her career feeding. It was fragmentary, difficult, beautiful in ways that might not be recognized. She had made choices that any sensible producer would have vetoed: no through-line, no clear protagonist, no resolution. Just voices, images, the texture of a decade of transformation captured without being explained.
 
@@ -38,7 +37,6 @@ Theo looked up. "Is tonight the movie thing?"
 Delphine sat down across from him, this child she and Jessie had made together, now on the threshold of adolescence, his own opinions forming. "I don't know. Maybe not. It's not really about understanding. It's about - feeling something. Seeing something differently."
 
 
----
 
 "That sounds confusing," Theo said, but not unkindly. He was used to his mother's work, used to the long hours in the edit bay, the interviews that came and went, the absorption that creative work required. He had grown up in the margins of it, and he had learned to navigate those margins with grace.
 
@@ -59,7 +57,6 @@ She looked up from her phone. Jessie was watching her.
 "You're going to be okay," Jessie said. "Whatever happens tonight. The work is done. The film exists. Nothing anyone says can change what you made."
 
 
----
 
 This was true. The film existed. Two years of labor crystallized into ninety minutes that would be projected tonight onto a screen for strangers to watch. Whatever Delphine had meant by it, whatever she had tried to say about the decade they had all lived through, was now fixed, permanent, separate from her intentions.
 
@@ -78,13 +75,12 @@ The day stretched ahead. The premiere at seven. She had hours to fill.
 She opened her laptop and began writing the remarks she would give afterward, then deleted them. Some things could not be planned.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The theater was in Silver Lake, a restored art-deco building that had become a venue for independent film. Delphine arrived with Jessie and Theo an hour early, needing time to adjust to the space, to see the screen where her work would be projected, to check the sound levels one more time even though everything had already been checked.
 
@@ -107,7 +103,6 @@ They stood together for a moment, two women in their forties who had found each 
 "I'm here. That's something." Ananya touched Delphine's arm. "Tonight is about you. We can talk about me later."
 
 
----
 
 The lights flashed, signaling that the screening would begin in fifteen minutes. People began moving toward the theater. Delphine watched them go, these strangers who would sit in the dark and watch what she had made, who would form opinions, who would judge.
 
@@ -128,7 +123,6 @@ She had wanted to begin with disorientation. She had wanted the audience to feel
 But now, watching, she wondered if she had gone too far. If the disorientation would alienate rather than illuminate.
 
 
----
 
 The faces around her were unreadable in the dark. Some watched with apparent attention, others shifted in their seats. Theo sat between her and Jessie, his twelve-year-old face serious, trying to understand.
 
@@ -143,7 +137,6 @@ Another section: data visualizations that she had commissioned from an artist, a
 She watched Ananya watching the screen. Her friend's face was intent, serious, moved. Something in Delphine relaxed slightly.
 
 
----
 
 The middle section of the film was its most difficult, the part she had struggled with most. Interviews with people who had built the systems, the engineers and executives who had made choices that affected millions without fully understanding the consequences. She had tried to present them without judgment, to let their words reveal their own contradictions, their own blind spots. But in the editing, she had made choices about what to include and what to cut, and those choices were a kind of judgment, however she tried to avoid it.
 
@@ -160,7 +153,6 @@ In that darkness, she heard someone crying. She heard someone coughing. She hear
 Then the lights came up.
 
 
----
 
 Applause. Not the polite applause of obligation but something more substantial, sustained. Delphine sat frozen in her seat, not processing the sound, until Jessie touched her arm.
 
@@ -179,7 +171,6 @@ Theo pulled at her sleeve. "Mom? I didn't understand all of it. But I felt somet
 "Yes," Delphine said, and the word was both answer and revelation. "That's exactly what I wanted."
 
 
----
 
 She moved toward the aisle, toward the exit, toward whatever questions waited for her. The audience was dispersing into conversations, clusters of people processing what they had seen. She overheard fragments: "I didn't expect—" and "The ending was—" and "Did you notice when—"
 
@@ -204,13 +195,12 @@ Delphine felt tears threatening and pushed them back. Not here, not now, in fron
 They moved together toward the reception, Ananya's hand on Delphine's back, the friendship visible to anyone watching.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The reception was in a gallery space adjacent to the theater, white walls hung with art Delphine had no attention to look at. Wine circulated, small bites on trays, the industry performance of post-screening socializing. People approached her in waves, and she responded with the part of herself that knew how to do this, the professional mask she had worn for twenty years.
 
@@ -233,7 +223,6 @@ Jessie intercepted her between conversations. "How are you holding up?"
 Jessie looked at her with the particular expression of a spouse who knows too much. "You spent two years making something that questions everything you've done for a living. That's personal."
 
 
----
 
 The executive from the film found her near the wine table. His name was Jonathan something, she remembered - a vice president at one of the major platforms, someone she had interviewed two years ago in a sterile office building, someone whose words she had cut and arranged to make a point about complicity.
 
@@ -260,7 +249,6 @@ He was quiet for a moment. Around them, the reception continued its murmur, peop
 This surprised her. She had expected defensiveness, not reflection.
 
 
----
 
 "You're still there?" she asked. "At the company?"
 
@@ -283,11 +271,10 @@ Ananya appeared at her elbow. "What was that about?"
 "I'm not sure. Either he's angry or he's actually listening. Maybe both."
 
 
----
 
 "Both is probably accurate." Ananya took a glass of wine from a passing tray. "How are you feeling about the response so far?"
 
-"Confused. People seem to like it, but I can't tell if they understood what I was trying to do. Or if what I was trying to do is even possible."
+"Confused. People seem to like it, but I can't tell if they understood what I was trying to do. Or if what I was trying to do is even achievable."
 
 "What were you trying to do?"
 
@@ -308,7 +295,6 @@ Delphine laughed, the tension breaking slightly. "Soon. I have to talk to a few 
 Jessie intercepted him, steering him toward the food table with promises of more interesting conversations, though what conversations might interest a twelve-year-old at a documentary premiere reception Delphine could not imagine.
 
 
----
 
 The reception was thinning. People were drifting toward exits, toward their cars, toward the rest of their evenings. Delphine had done the performance, had talked to the people who needed talking to, had heard enough praise and enough criticism to know that the film would have a life, would be discussed, would matter to someone even if she couldn't yet see who.
 
@@ -333,13 +319,12 @@ Delphine felt the tears she had been holding back threatening again. She blinked
 "You'll figure it out. You always do."
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Home, finally. Theo asleep upstairs, the house quiet around them. Delphine and Jessie sat on the couch in the living room, not touching, each processing the evening in their own way. The premiere was over. The film was out in the world. What came next was the question Delphine had been avoiding.
 
@@ -349,7 +334,7 @@ Home, finally. Theo asleep upstairs, the house quiet around them. Delphine and J
 
 "That's the frustrating thing about art. The meaning comes later."
 
-Delphine looked at her wife - this woman she had been with for sixteen years, had raised a child with, had built a life alongside while both of them pursued careers that demanded total absorption. Jessie understood the rhythms of creative work, the cycles of making and showing and recovering. She had been through enough premieres and pilot pickups and cancellations to know the particular exhaustion of exposure.
+Delphine looked at her wife - this woman she had been with for sixteen years, had raised a child with, had built a life alongside while both pursued careers that demanded total absorption. Jessie understood the rhythms of creative work, the cycles of making and showing and recovering. She had been through enough premieres and pilot pickups and cancellations to know the particular exhaustion of exposure.
 
 "I don't think I want to do this again," Delphine said.
 
@@ -362,11 +347,10 @@ Jessie was quiet for a moment. "Do what again?"
 "I've been circling it. The documentary was - I don't know, maybe it was a goodbye? Making something that critiques the thing I've been doing for twenty years. Making something that refuses to be what I usually make."
 
 
----
 
 Jessie turned to face her fully. "What would you do instead?"
 
-This was the question Delphine had been avoiding, the void that opened when she imagined stepping away from what she knew. She had been making things since she was a teenager, had built her identity around the practice of creation, around the role of someone who shaped narratives for others to receive. Without that, who was she?
+This was the question Delphine had been avoiding, the void that opened whenever she imagined stepping away from what she knew. She had been making things since she was a teenager, had built her identity around the practice of creation, around the role of someone who shaped narratives for others to receive. Without that, who was she?
 
 "I don't know. That's the terrifying part. I don't know who I am if I'm not making things for an audience."
 
@@ -385,11 +369,10 @@ Delphine stood up, restless, and walked to the window. Their street was quiet, p
 "But this one - I made this one to say something about the whole enterprise. About what it means to make narratives in an attention economy that uses narrative to manipulate. If I really believe what I put in that film, I should - I don't know. Stop? Or at least stop contributing to the thing I critiqued?"
 
 
----
 
 Jessie joined her at the window. "You're talking about integrity. About making your life match your ideas."
 
-"Am I? Maybe. Or maybe I'm just scared. Scared that the industry I've worked in is harmful and I've been part of the harm. Scared that stepping away means admitting I was wrong all along."
+"Am I? Maybe. Or maybe I'm just frightened. Scared that the industry I've worked in is harmful and I've been part of the harm. Scared that stepping away means admitting I was wrong all along."
 
 "Those aren't mutually exclusive."
 
@@ -408,9 +391,8 @@ Jessie nodded slowly. "That's a big decision. Financially, professionally."
 "That's the part I don't know."
 
 
----
 
-They stood together in the window, looking out at the night, the conversation pausing in a way that felt natural rather than incomplete. This was what sixteen years of marriage gave you: the ability to be in silence together, to process alongside each other without needing to fill every space with words.
+They stood together in the window, looking out at the night, the conversation pausing in a way that felt natural rather than incomplete. This was what sixteen years of marriage gave you: the ability to be silent together, to process alongside each other without needing to fill every space with words.
 
 "Whatever you decide," Jessie said eventually, "I'm with you. If you want to keep making documentaries, I'll support that. If you want to step back and figure out who you are without an audience, I'll support that too."
 
@@ -431,9 +413,8 @@ Delphine moved back to the couch, sat down, picked up her phone. Her social medi
 "All of them. Walking away from the public self. Making my life smaller on purpose."
 
 
----
 
-Jessie sat down beside her. "That's a big step. Once it's gone, it's gone."
+Jessie sat down beside her. "That's a big step. Once gone, it's gone."
 
 "That's what I want. To be gone from this. To not exist as a public person anymore."
 
@@ -456,9 +437,8 @@ Jessie took her hand. "I'll be watching. And Theo. That's enough of an audience.
 "That's exactly the right amount."
 
 
----
 
-The night deepened around them. Somewhere in the house, Theo turned over in his sleep, the sound carrying through the quiet. This child they had made together, now becoming his own person, would grow up in a world shaped by the things Delphine had spent her career critiquing. She could not protect him from it. She could only show him what it looked like from the outside, what it meant to question the systems that surrounded him.
+The night deepened around them. Somewhere in the house, Theo turned in his sleep, the sound carrying through the quiet. This child they had made together, now becoming his own person, would grow up in a world shaped by the things Delphine had spent her career critiquing. She could not protect him from it. She could only show him what it looked like from the outside, what it meant to question the systems that surrounded him.
 
 Delphine set the phone down, screen dark, the profiles still there but no longer calling to her. Tomorrow or the next day she would delete them. She would become smaller, less visible, harder to find. The documentary would have its life without her constant tending, would make its way through the world on its own terms.
 
@@ -479,7 +459,6 @@ This was its own kind of creation. This choosing to stop.
 This was its own kind of art.
 
 
----
 
 
 

@@ -7,7 +7,6 @@ The sheets were cool against her skin. She had kicked off the blanket sometime i
 On her nightstand, her phone glowed faintly. Delphine's message. She had read it three times before attempting sleep, and it had followed her into dreams she could not quite remember, something about standing in front of a door that would not open, or a door that had already opened without her noticing.
 
 
----
 
 She did not reach for the phone. Not yet. There was a ritual to mornings like this, a sequence of small actions she had developed over years, and she would not break it even now, even with the message waiting, its words already seared into her memory.
 
@@ -18,7 +17,6 @@ She sat up slowly, feeling the familiar complaint of her lower back, the stiffne
 The apartment was hers, had been hers for six years now, since the divorce was finalized and she had taken her share of their accumulated life and found this place, smaller than the house in Palo Alto but adequate, even elegant in its proportions. Two bedrooms, one of which she used as an office, a living room with a view of the city, a kitchen where she prepared meals for one with the precision of someone who had learned to extract satisfaction from solitude.
 
 
----
 
 She stood and walked to the bathroom, not turning on the light, navigating by memory and the faint glow from the window. The cold water on her face was a shock she welcomed, a small violence that scoured the residue of sleep away. She looked at herself in the mirror, her face emerging from the darkness as her eyes adjusted, and she saw the woman she had become: gray threading through black hair she no longer bothered to dye, lines around her eyes and mouth that she had stopped noticing years ago, the particular set of her jaw that Priya had inherited, along with her impatience and her tendency to speak before thinking.
 
@@ -27,7 +25,6 @@ In the kitchen, she began the ritual of coffee. Beans from a roaster in the Miss
 The apartment was full of objects that had accumulated meaning through years of this life. On the counter, a ceramic bowl Priya had made in high school, glazed an uneven blue that had seemed like failure to Priya and like beauty to Ananya. On the wall, a photograph from an ethics conference in Geneva, 2034, where she had given a keynote about algorithmic accountability that had been cited hundreds of times and had changed, as far as she could tell, nothing.
 
 
----
 
 She poured the coffee into a mug bearing the logo of a company that no longer existed, acquired by Prometheus three years ago and dissolved into its larger apparatus. The mug had been a gift from the CEO of that company, a woman named Sarah who had believed Ananya's promises about ethical integration, about how the acquisition would preserve the values they had built. Sarah had left six months after the deal closed. The mug remained.
 
@@ -38,7 +35,6 @@ She had been part of building this. That was the fact she returned to every morn
 The coffee was too hot. She sipped it anyway, feeling the slight burn on her tongue, a sensation that anchored her in the present moment.
 
 
----
 
 On the bookshelf near the window, a row of awards she had stopped displaying but could not bring herself to discard. Plaques from ethics organizations, a crystal obelisk from a technology conference, certificates in frames that had accumulated dust until she moved them here, to this shelf where they faced the wall, their inscriptions hidden. She had earned each one by doing work that she had believed in, or told herself she believed in, or told herself that believing in was less important than the work itself.
 
@@ -49,7 +45,6 @@ The light was strengthening now, the gray giving way to the first hints of gold 
 She thought about the day ahead. The meeting with Delphine, if she decided to go. The decision she had not yet made but which felt already made, as though her body knew something her mind was still refusing to acknowledge.
 
 
----
 
 She moved through the apartment, touching things. The habit had developed in recent months, a need to confirm the reality of objects, to feel their weight and texture beneath her fingers. The back of a chair, smooth wood worn by years of contact. The edge of her desk, where a stack of papers waited, reports she was supposed to review, analyses she was supposed to approve. The frame of a photograph, Priya at eighteen, graduating from high school, her smile uncertain in a way that Ananya had not understood then and understood too well now.
 
@@ -60,7 +55,6 @@ What they did not discuss: what Prometheus had done. What Ananya had enabled. Wh
 The sun was rising now, light flooding the apartment, transforming the shadows into something sharper, more defined. Ananya finished her coffee and set the mug down on the counter, next to the ceramic bowl her daughter had made, and she stood there for a moment, her hand on the cool surface of the counter, feeling the solidity of the world beneath her fingers.
 
 
----
 
 The morning felt different from other mornings. She could not say why, could not identify any specific change in the light or the silence or the arrangement of objects, but something had shifted, some quality of the air or of her own perception that made everything seem slightly heightened, slightly more present than usual. It was the message, she knew. Delphine's words sitting in her phone like a weight that distorted the space around it.
 
@@ -73,13 +67,12 @@ These were the questions that had drawn them together, that had turned professio
 The phone waited on the nightstand. The morning waited around her. The threshold waited to be crossed.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 She picked up the phone.
 
@@ -96,7 +89,6 @@ She stopped reading. The words "reasonable people" sat in her mind like an accus
 Outside, a siren wailed, the sound rising and then fading as an ambulance passed somewhere below, and Ananya thought about all the emergencies she had never witnessed, all the harm she had never seen directly, the distance her position at Prometheus had maintained between her and the consequences of the systems she had approved.
 
 
----
 
 She read on.
 
@@ -111,7 +103,6 @@ She remembered the first time she and Delphine had spoken honestly with each oth
 That was the moment the alliance had begun. Not collaboration, exactly, and not friendship in any simple sense. Something closer to recognition. Two women who had spent their careers trying to shape narratives around technology, one from outside and one from within, discovering they had arrived at the same questions by different routes.
 
 
----
 
 The message continued.
 
@@ -126,7 +117,6 @@ What did you tell yourself. She had told herself many things. That her presence 
 Until now. Until the flinch had become unavoidable.
 
 
----
 
 She set the phone down and walked to the window again, her arms crossed, watching the city below.
 
@@ -145,7 +135,6 @@ What do you wish you had done differently.
 Everything, she thought. Nothing. The question itself was a trap, because the answer required imagining a version of herself who did not exist, who had never existed, who might have made different choices if she had been someone other than who she was.
 
 
----
 
 The final paragraph of Delphine's message waited for her.
 
@@ -166,13 +155,12 @@ She picked up the phone again and read the message one more time, from beginning
 Then she began to compose a reply.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Before she could finish the reply, she stopped. Her thumb hovered over the screen, paralyzed by a thought that had surfaced without warning.
 
@@ -185,7 +173,6 @@ Ananya set the phone down again and sat on the couch, her hands in her lap, star
 Their last conversation had been two weeks ago. A Sunday afternoon, Ananya's time, Sunday evening in Washington where Priya lived now, both of them performing the ritual of weekly contact that had replaced the easier communication of Priya's childhood. The conversation had lasted twenty minutes, maybe twenty-five, and had covered: Priya's new apartment, which had better light than the old one; a restaurant Ananya had tried in the Mission, nothing special but decent; the weather, which was cold in Washington and mild in San Francisco; a piece of legislation Priya was working on, described in terms so general that Ananya understood nothing about it except that it mattered to her daughter.
 
 
----
 
 What they had not discussed: Prometheus. The Eighth Oblivion. The years of crisis that had shaped the world Priya now worked to repair. The role Ananya had played in creating the conditions Priya spent her days trying to address.
 
@@ -196,7 +183,6 @@ Ananya had answered with the careful language she had developed for such occasio
 Priya had listened. Had nodded. Had asked follow-up questions that revealed she was genuinely trying to understand. And then, gradually, she had stopped asking. Not in anger, not in judgment, but in something that felt to Ananya like exhaustion, or perhaps protection. As though Priya had decided that the truth, whatever it was, would cost more than she was willing to pay.
 
 
----
 
 Ananya remembered a moment from that last phone call, a pause in the conversation when the silence stretched slightly too long, and she had felt the presence of everything they were not saying pressing against the words they were saying, a weight both of them carried without acknowledging.
 
@@ -211,7 +197,6 @@ What would Priya want to hear? That was the question Ananya could not answer. If
 Ananya did not know her daughter well enough anymore to predict her response. That was the painful truth she had been avoiding, the price of the careful distance they had maintained. Somewhere in the years of silence and surface conversation, she had lost access to Priya's interior life, had stopped being able to guess what her daughter was thinking or feeling. They loved each other, she was certain of that. But love without understanding was a precarious thing, easily disrupted by revelations that the other person was not who you thought they were.
 
 
----
 
 She thought about calling Priya now. Picking up the phone, not to reply to Delphine but to dial her daughter's number, to say: there's something I need to tell you, something I should have told you years ago. She imagined Priya's voice on the other end, wary and patient, the tone she used when she sensed that a difficult conversation was coming. She imagined trying to explain, trying to find words for the accumulated weight of a decade of choices.
 
@@ -224,7 +209,6 @@ How do you tell your daughter that you spent a decade providing cover for harm y
 How do you explain that staying felt like the only option, and leaving felt like surrender, and now you cannot tell which choice would have been right because both of them led here, to this morning, to this message, to this silence that has grown between you like a wall neither of you knows how to climb?
 
 
----
 
 Ananya stood and walked to the bookshelf where she kept photographs. Priya as a baby, held in Vikram's arms, both of them laughing at something outside the frame. Priya at five, at ten, at fifteen. Priya at her college graduation, standing between her parents who had already begun the slow process of separation, smiling for the camera while the family unraveled around her.
 
@@ -241,13 +225,12 @@ Ananya did not know. But she knew, standing in her apartment in the morning ligh
 And that whatever she decided, she could not decide without thinking about Priya.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 She went to her closet.
 
@@ -262,7 +245,6 @@ This was the face she would bring to Delphine. The face she had built through ye
 She did not look away.
 
 
----
 
 The apartment waited around her as she gathered what she would need. Phone, wallet, keys. A notebook she had carried for years, filled with notes from meetings she no longer remembered, questions she had never resolved. She put it in her bag without knowing why, a talisman from a life that was about to change.
 
@@ -277,7 +259,6 @@ I'm coming. I'll drive down today.
 She sent it before she could reconsider, and then she stood for a moment holding the phone, feeling the weight of the words she had released into the world.
 
 
----
 
 At the door of her apartment, she paused.
 
@@ -296,7 +277,6 @@ She was standing at a threshold now. Had been standing at it for years, perhaps,
 To cross or not to cross. To speak or to remain silent. To become someone who told the truth about her life, or to remain someone who had told the truth only in fragments, only in carefully controlled contexts, only in ways that left intact the careful architecture of her professional identity.
 
 
----
 
 She stepped through the door.
 
@@ -317,7 +297,6 @@ But this journey was hers. This threshold was hers to cross.
 She pulled out of the garage and into the morning light, and San Francisco receded behind her as she drove toward whatever came next.
 
 
----
 
 
 

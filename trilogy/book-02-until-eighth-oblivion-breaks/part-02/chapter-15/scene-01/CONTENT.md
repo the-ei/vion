@@ -19,7 +19,6 @@ They sat. A server appeared, took orders - coffee for Jerome, tea for Kevin Zhou
 "You seemed like you were actually trying to understand something, rather than just produce content."
 
 
----
 
 Jerome's smile was slight but genuine. "That's a generous interpretation. I am trying to understand something - but I'm also trying to produce content. The question is whether the content can serve the understanding rather than replacing it."
 
@@ -42,7 +41,6 @@ Kevin Zhou considered this. He had never been offered such terms by a journalist
 "Okay," he said. "Let's try it."
 
 
----
 
 They talked for nearly an hour without Jerome taking a single note. This was, Kevin Zhou realized, the journalist's technique - establish trust, demonstrate presence, let the conversation flow naturally before asking for anything specific. It was effective precisely because it didn't feel like technique.
 
@@ -59,7 +57,6 @@ Then they moved to the retreat Kevin Zhou had attended. He found himself describ
 "It is. I build systems for a living. Systems require models, and models require assumptions about how things work. Not-knowing is professionally debilitating."
 
 
----
 
 "But you're still building."
 
@@ -80,7 +77,6 @@ Jerome took a sip of his coffee, buying a moment. "I think something happened th
 "It does. Maybe we're both right. Or maybe we're both avoiding commitment because commitment feels dangerous."
 
 
----
 
 The conversation shifted then, becoming more personal. Jerome talked about his son DeShawn, who was Kevin Zhou's age roughly, who worked in tech, who represented a generation that had grown up with these systems and understood them differently than Jerome did.
 
@@ -101,5 +97,4 @@ Jerome's expression shifted, becoming more personal. "You remind me of DeShawn. 
 "Thank you. I think."
 
 
----
 

@@ -15,7 +15,6 @@ He moved to the bedside, taking her hand, the bones of it so delicate now, the s
 She considered this. Her eyes moved around the room, taking in the monitors, the IV pole, the window with its view of nothing. "I'm in the hospital," she said. It was not a question.
 
 
----
 
 "Hospice," Jerome said gently. "You've been here a little while."
 
@@ -36,7 +35,6 @@ Jerome felt his throat tighten. How do you explain a career to someone who is dy
 The question landed in his chest. Did you do right. Fifty-nine years of life, decades of journalism, investigations that had won awards and changed nothing, exposed corruption that continued, revealed truths that became footnotes.
 
 
----
 
 "I tried," he said. "I'm still trying."
 
@@ -63,7 +61,6 @@ And now she was here, in this bed, needing everything.
 She was quiet for a moment, her eyes still clear but her attention seeming to turn inward. Jerome watched her breathe, each breath a small effort now, the body working to continue.
 
 
----
 
 "I remember when you were born," she said. "The hospital was different then. I had to wait all day before anyone would see me. Your father was so angry. Wanted to fight everyone." She smiled at the memory. "But then you came, and he was so gentle. Held you like you might break. Like you were made of something precious."
 
@@ -82,7 +79,6 @@ This was the kind of thing she had said when he was young, the faith she had rai
 "And did they listen?"
 
 
----
 
 The question cut through everything. Did they listen. Jerome thought of investigations he had spent months pursuing, sources who had risked their careers and sometimes their safety to share information, articles that had been read and shared and discussed and then forgotten. He thought of the surveillance systems he had exposed that were still in operation, the algorithmic injustices he had documented that continued to harm people, the truth that had not set anyone free.
 
@@ -101,7 +97,6 @@ This was, Jerome realized, what she had taught him without ever putting it into 
 The monitors beeped their steady rhythms. Outside the window, the parking lot held its cars, the grass held its frost, the world continued in its indifference.
 
 
----
 
 Jerome sat holding his mother's hand as she drifted back into the fog, the lucidity receding like a tide. He did not know if she would return again, if there would be another window. The doctors had said these moments were unpredictable, could be singular or repeated, could mean the end was near or could precede weeks more of this twilight state.
 
@@ -120,5 +115,4 @@ And now she was here, at the end, and Jerome was here with her, and the truth he
 He stayed with her until the night shift arrived.
 
 
----
 

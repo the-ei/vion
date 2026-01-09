@@ -9,7 +9,6 @@ He read until the words blurred. The technical concepts were at the edge of his 
 Somewhere around 1 AM, he made himself another pot of coffee. The machine hummed in the dark kitchen while he stood waiting, listening to the silence of the sleeping house, the refrigerator's low drone, the settling of old wood, the distant hush of traffic that never quite stopped even in the small hours.
 
 
----
 
 His phone buzzed with a text from a number he didn't recognize. The message was brief: *This is real. Worse than they're saying. Be careful.*
 
@@ -32,7 +31,6 @@ But Jerome couldn't sleep. The coffee was churning in his stomach, acid and caff
 He was supposed to be one of the people who told them. That was his job. But tonight, he felt as lost as anyone else.
 
 
----
 
 At 2:15 AM, he texted Dr. Vasquez: *I read everything. I have questions.*
 
@@ -61,7 +59,6 @@ A pause on the line. Jerome could hear her breathing, the faint sound of whateve
 Jerome wrote that down: *Ahead of its own guardrails*. It sounded like a headline, or an epitaph.
 
 
----
 
 After Dr. Vasquez hung up, Jerome tried to reach two other sources. One was a former Prometheus engineer who had left the company three years ago, citing "philosophical differences" that Jerome had always suspected meant more than he would say. The message went unanswered. The other was a tech journalist he trusted, someone who covered the AI beat from the inside and might have heard things through channels he didn't have access to.
 
@@ -78,7 +75,6 @@ The journalist responded at 2:45: *Yeah, I've been hearing stuff too. Can't veri
 Jerome stared at the words on his screen, the cursor blinking like a heartbeat, measuring time he didn't have. It was the question that had been circling in his mind all night, the question he hadn't been able to articulate: What was journalism for, in the face of something like this? He had spent his career believing that truth mattered, that exposing wrongdoing could change outcomes, that the public, properly informed, would make better choices. But the public was not a unified thing, and the choices were not theirs to make. The decisions being made in San Francisco boardrooms would shape the world regardless of what anyone wrote about them. The machine would build itself whether or not anyone was watching.
 
 
----
 
 By 3:30, the coffee had turned sour in his stomach, curdling into something that felt like dread, and his eyes burned with the particular fatigue of too much screen time. He stood, stretched vertebrae that cracked like accusations, walked to the window. The street outside was empty, the houses of his neighbors dark. Baltimore slept while the world rearranged itself.
 
@@ -93,7 +89,6 @@ And yet even as he thought this, he could hear his son's voice in his head: *You
 He wanted to believe that. He just couldn't find evidence for it.
 
 
----
 
 At 4:12 AM, he began outlining the story he actually wanted to write. Not the reaction piece he had filed, with its careful balance and its editor-approved hedging. A real investigation. Sources inside Prometheus. Documents they didn't want public. The gap between what they were saying and what they knew. The economic projections that would make clear how many lives were about to change.
 
@@ -110,7 +105,6 @@ On impulse, he drafted a message: *Dr. Ramaswamy—This is Jerome Washington. We
 He didn't send it. Not yet. But he saved it in drafts, a seed planted for later.
 
 
----
 
 Dawn came slowly, the gray light of March seeping through the blinds like something reluctant to arrive, like the day itself knew what it was bringing and hesitated at the threshold. Jerome watched it from his desk chair, his body aching from the night's long stillness, his mind still racing even as exhaustion pulled at its edges.
 
@@ -125,5 +119,4 @@ He would try to connect it for them. That was all he could do. That was what jou
 Jerome saved his notes, closed his laptop, and went to watch the sunrise from the kitchen window, the last quiet moment before the world started moving again, before the phones woke up and the screens demanded attention and the curve continued its climb toward whatever waited at the top.
 
 
----
 

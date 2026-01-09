@@ -11,7 +11,6 @@ Elena thought about the question. She thought about her rotations during nursing
 "We go back to fundamentals," she said. "Physical exam. History-taking. Triage based on presentation. We treat what we can treat with what we have. We stabilize what we can't treat and try to get them somewhere that can."
 
 
----
 
 Dr. Okonkwo nodded slowly. "When I trained in Lagos, we had a saying. 'The stethoscope never crashes.' It was a joke then. A bitter joke, a way of making ourselves feel better about working with limited resources while the rich countries had everything." She stood up, straightening her white coat with a gesture that seemed almost ceremonial. "It doesn't feel like a joke now."
 
@@ -24,7 +23,6 @@ They called a brief staff meeting in the break room. Five people: Elena, Dr. Oko
 "We give them samples if we have samples. We write prescriptions by hand and tell them to try different pharmacies. Some of them must be operating on paper backup by now." Dr. Okonkwo looked around the room. "I know this isn't what any of you trained for. I know it feels inadequate. It is inadequate. But people need help, and we're the help they have. So we do what we can."
 
 
----
 
 Elena returned to the waiting room and began calling names. The line had grown while they were meeting, stretching out the front door now, snaking into the parking lot, people standing in the March sun with varying degrees of patience and fear. She moved through them systematically, taking each one back to an exam room, listening to their stories, examining their bodies, documenting everything on paper forms that would have to be transcribed into the system later, if the system ever came back.
 
@@ -39,7 +37,6 @@ A child with an ear infection, diagnosed by the angry red eardrum visible throug
 An elderly woman with congestive heart failure, her legs swollen, her breathing labored. Elena adjusted her diuretic dose and told her daughter to bring her back if the swelling got worse.
 
 
----
 
 At 11:30, Rosario returned. She looked shaken in a way Elena had never seen her, her face pale despite the heat, her hands not quite steady as she set down her keys.
 
@@ -66,7 +63,6 @@ She tried Daniel's number again. Nothing. She tried home. Nothing. The silence w
 "There were thirty people waiting at the hospital. The world is not going to end if you take thirty minutes to check on your kids."
 
 
----
 
 Elena stood at the front desk, looking at the line of patients, feeling the weight of her phone in her pocket, and made her decision.
 
@@ -85,7 +81,6 @@ She called the next name on the list. A young man with a sprained ankle. She exa
 The line did not get shorter.
 
 
----
 
 At noon, Elena stood by the window in the break room, looking out at the parking lot, at the line of people still waiting, at the ordinary Tuesday that had become something else entirely, something that had no name yet. The generator hummed in the basement, steady and reliable, keeping the lights on and the refrigerators cold. Without it, they would have lost the vaccines, the medications that needed to be kept cold, the basic infrastructure that made even this reduced version of medicine possible.
 
@@ -100,5 +95,4 @@ The line outside stretched down the block. The generator hummed. The phone in he
 Elena put the phone away and went back to work.
 
 
----
 

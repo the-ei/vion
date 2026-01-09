@@ -1,6 +1,6 @@
 He opened the video app.
 
-His parents' contact sat at the top of his favorites, where it had been since he bought the phone, where it would remain even though he had not called in weeks. Months, maybe. He had lost track.
+His parents' contact sat at the top of his favorites, where it had lived since he bought the phone, where it would remain even though he had not called in weeks. Months, perhaps. He had lost track.
 
 The screen showed their names in both English and Chinese. Their photograph, taken at some holiday gathering years ago, smiled at him from the small circle.
 
@@ -11,7 +11,6 @@ He should call them.
 The thought arrived and then receded, as it did every time he looked at this screen. He should call them, and he did not call them, and the gap between should and did grew wider with each passing week.
 
 
----
 
 The political tensions made it complicated. Not impossible, but complicated. The firewalls and monitoring, the sense that any conversation might be observed, the topics they had learned to avoid.
 
@@ -26,7 +25,6 @@ He did not know how to explain this to them. Did not know how to bridge the gap 
 They had wanted success for him. He had achieved it. And now the success was a wall between them, because how could he tell them that the success felt empty, that the money meant nothing, that the life they had sacrificed to give him was not the life he actually wanted?
 
 
----
 
 His thumb hovered over the call button.
 
@@ -40,14 +38,13 @@ Have you met anyone? No.
 
 When are you coming home? I don't know.
 
-The conversation would follow its familiar pattern, questions and deflections, concern and reassurance, the dance of a family that loved each other across a distance too vast to cross with words.
+The conversation would follow its familiar pattern, questions and deflections, concern and reassurance, the choreography of a family that loved one another across a distance too vast to cross with words.
 
 He thought about what he would say if he told them the truth. The loneliness that had calcified into something permanent. The isolation he had cultivated because connection felt impossible. The work that consumed him because without the work there was nothing, no reason to get up, no structure to hang a life on.
 
 They would not understand. Or they would understand too well, and their understanding would be worse than their confusion, because it would mean admitting that the son they had raised to succeed had succeeded at everything except being happy.
 
 
----
 
 He closed the app.
 
@@ -70,5 +67,4 @@ The call would happen eventually. Or it would not happen, and eventually there w
 The thought sat in his chest like a stone, and he worked through the morning, trying not to feel it.
 
 
----
 

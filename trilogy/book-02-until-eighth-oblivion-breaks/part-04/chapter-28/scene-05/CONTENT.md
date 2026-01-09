@@ -19,7 +19,6 @@ He sat down in the chair across from her, the same chair he had occupied that mo
 "More of the same. Outages. Confusion. No one knows much."
 
 
----
 
 "That's how it was in '68," she said. "The riots. Nobody knew anything. The radio would say one thing and you'd look out the window and see something different. Gerald used to say the news was always twelve hours behind reality."
 
@@ -40,7 +39,6 @@ Jerome opened the closet and found the tanks, neatly arranged on a small rack. T
 "We'll figure it out together. And if the power does go out, I'll come up right away. I promise."
 
 
----
 
 She looked at him with an expression he couldn't quite read. Gratitude, maybe. Or something deeper, some recognition of the connection that forms between strangers when the world forces them to stop being strangers, when the systems that keep people apart stop functioning and leave only the humans behind.
 
@@ -59,7 +57,6 @@ Jerome thought about his legal pad downstairs, the notes that would never become
 It should have felt like a comedown, a diminishment, a surrender. A journalist who had won a Pulitzer, reduced to checking on neighbors and carrying sandwiches, learning how oxygen tanks worked. But it didn't feel that way. It felt, for the first time since the morning, like something he could actually do, like something that might actually matter to someone, somewhere, today.
 
 
----
 
 By evening, the radio had begun to repeat itself, the loop of uncertainty tightening. The same announcements, the same fragments, the same unhelpful advice, as if the announcers had run out of new ways to say they didn't know anything. Jerome sat in his own apartment, the legal pad on the table in front of him, and made a decision.
 
@@ -90,5 +87,4 @@ She put down her book and looked at him with something that might have been reli
 The darkness was coming now, the March evening settling over Baltimore like a hand pressing down. Jerome sat next to his wife on the couch and listened to the quiet of a city that had stopped talking to itself, a city that had fallen silent for the first time in living memory, a city that was, perhaps, learning to listen again.
 
 
----
 

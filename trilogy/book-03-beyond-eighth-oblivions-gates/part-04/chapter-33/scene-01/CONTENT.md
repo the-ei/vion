@@ -7,7 +7,6 @@ A warehouse. He kept getting caught on that word. His father had died in a wareh
 Now he was about to walk into another warehouse. The coincidence felt less like coincidence and more like something he couldn't name. Not fate, he didn't believe in that. But some kind of rhyme, some echo demanding to be heard.
 
 
----
 
 He got out of the car. Spring in Minneapolis was cold by the standards of elsewhere, but after the winter he had endured, forty degrees felt almost warm. The sky was the pale gray that passed for blue in the upper midwest, a feeble sun doing its best through the clouds. He crossed the street with his guitar case in one hand, the other shoved in his jacket pocket, and stood before the door.
 
@@ -20,7 +19,6 @@ The lobby was simple: exposed brick, a few chairs, a reception desk where no one
 A door opened and a woman emerged, mid-forties, Black, with graying locs and the kind of calm presence that suggested she had seen nervous musicians before. "Yusuf? I'm Renata. The producer. Come on back."
 
 
----
 
 The studio unfolded before him like a map of possibilities. Control room with its mixing board and monitors, the engineer already seated there, adjusting something. Through the window, the tracking room where instruments lived - drums set up, amps waiting, the space where sound was made. And beyond that, visible through another window, the vocal booth. A small room with a microphone on a stand, a pair of headphones hanging, a stool. The place where he would either sing or fail to.
 
@@ -35,7 +33,6 @@ Two hundred albums. Yusuf's hands were still shaking. He set down his guitar cas
 "Something there" was as much praise as Yusuf could absorb. He nodded, not trusting his voice to speak.
 
 
----
 
 Renata showed him around. The kitchen where they could make coffee and heat up food. The lounge with its worn couch where musicians took breaks. The bathroom. The emergency exits. The warehouse had been converted thoughtfully, the industrial bones visible beneath the acoustic treatment, the history of the building preserved even as its purpose had changed.
 
@@ -56,7 +53,6 @@ Renata nodded, something like respect in her eyes. "That's the job. Being here a
 She led him toward the vocal booth, and Yusuf followed, feeling the weight of the warehouse around him like a question he didn't yet know how to answer.
 
 
----
 
 The vocal booth was smaller than it looked through the window. Yusuf stepped inside and immediately felt enclosed, protected, as if the acoustic panels were holding space for him. The microphone was a Neumann, Terrell had said, the name meaning nothing to Yusuf except that it was expensive, serious, the kind of equipment that professionals used. It hung before him like an invitation.
 
@@ -75,5 +71,4 @@ Yusuf looked at the microphone. This was the moment his father would never have.
 Through the window, Terrell gave a thumbs up. The levels were good. The session could begin.
 
 
----
 

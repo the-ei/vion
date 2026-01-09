@@ -17,7 +17,6 @@ Elena sat beside him on the bed, close enough that their shoulders touched. She 
 "Sofia asked about you every hour. I'm not exaggerating. Every hour, sometimes more. 'When is Mommy coming? Is Mommy okay? Why doesn't Mommy call?' And I didn't know what to tell her. I didn't know if you were alive."
 
 
----
 
 His voice broke on the last word. Elena took his hand and held it, feeling the bones, the familiar architecture of his fingers.
 
@@ -40,7 +39,6 @@ He was crying now, the tears running down his face without sound. Elena wiped th
 Elena opened her mouth to tell him, and found that she could not find the beginning.
 
 
----
 
 "The clinic was. I don't know how to describe it." She tried to organize the chaos of memory into narrative. "There were so many patients. More than we could handle. People coming in with everything, diabetic emergencies and injuries and panic attacks and things we didn't have supplies for. And the power kept failing, and the generator kept almost dying, and I couldn't leave because if I left there wouldn't be enough people to."
 
@@ -59,7 +57,6 @@ She stopped. The words were insufficient. They described the facts but not the f
 She was crying now too, the tears she had been holding since the break ended finally finding release. Daniel pulled her close and she cried against his chest, her body shaking, the sobs coming from somewhere deep and uncontrollable.
 
 
----
 
 "I'm sorry," she said when she could speak. "I'm sorry, I'm sorry."
 
@@ -86,7 +83,6 @@ She had not thought about it. She had not thought about anything beyond getting 
 He kissed her forehead, the gentle kiss of long marriage, and she felt something in her chest release. Not resolution - there was no resolution - but the beginning of something. The acknowledgment that they had both survived, that they were both different now, that the marriage they had would have to find new shape to accommodate what they had become.
 
 
----
 
 "Let's sleep," she said. "I haven't really slept in I don't know how long."
 
@@ -105,5 +101,4 @@ The crisis had ended, officially. But something else had begun, something that d
 She fell asleep in her husband's arms, in a borrowed bed, in a house on a mountain, and for the first time in weeks, she did not dream of the clinic. She dreamed of nothing at all, which was its own kind of mercy.
 
 
----
 

@@ -19,7 +19,6 @@ Kevin stopped walking. The corner looked like any other corner: a streetlight, a
 "I didn't know him," Yusuf continued. "But I think about him. There are probably corners like this all over the city now. All over everywhere. Places where people died because the systems failed."
 
 
----
 
 "The systems I helped build," Kevin said. It was not a question.
 
@@ -40,7 +39,6 @@ The question surprised Yusuf. No one had asked him that. Everyone wanted to know
 "Before the crisis, yeah. The apps, the ratings, the way every ride and every delivery was tracked and optimized and scored. I was already living in a system that didn't care if I lived or died, as long as I kept delivering packages on time. The crisis just made it visible for everyone else."
 
 
----
 
 Kevin was quiet for a long moment. The cold had gotten into him; Yusuf could see him shaking, though he was trying to hide it.
 
@@ -65,7 +63,6 @@ Yusuf looked at him. "You talk about it like it's something you study. For us it
 They stood in front of the community center, two men in the cold, the building dark behind them. Yusuf could feel something shifting in the conversation, some barrier lowering. Kevin was not defending his world anymore. He was trying to see Yusuf's.
 
 
----
 
 "Why did you really come here?" Yusuf asked. "Not the official reason. The real one."
 
@@ -90,7 +87,6 @@ Yusuf started walking again, away from the community center, toward the commerci
 "We can talk there. I think I understand what you're trying to figure out. I've been thinking about it too."
 
 
----
 
 "What have you been thinking?" Kevin asked.
 
@@ -111,5 +107,4 @@ Kevin was doing the same. His face was red from the cold, his borrowed hat pushe
 Kevin took a sip of his coffee and began to talk. And Yusuf listened. And somewhere in the listening, the conversation that would change them both began to take shape.
 
 
----
 

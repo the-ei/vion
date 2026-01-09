@@ -17,7 +17,6 @@ The server came, and they ordered without looking at menus - food that would sit
 Ananya had been thinking about this for three days. She had made lists, created spreadsheets, done the kind of analysis that her training had prepared her for. But saying it out loud was different. Saying it out loud made it real.
 
 
----
 
 "If I cooperate," Ananya began, "I provide internal documentation. Emails where I raised concerns. Meeting notes where those concerns were dismissed. The ethics assessments I signed off on, with my annotations showing I knew the safeguards were inadequate."
 
@@ -40,7 +39,6 @@ Delphine nodded, taking this in. Her hands were wrapped around her wine glass, t
 "That's the hardest part. I've been paying for her school. If I can't work, I can't pay. She'd have to take loans. Or transfer somewhere cheaper."
 
 
----
 
 The food arrived - empanadas, ceviche, dishes they both knew and neither particularly wanted. The server refilled their wine glasses and retreated with the experienced discretion of someone who recognized a serious conversation.
 
@@ -59,7 +57,6 @@ Delphine was quiet for a moment, her fingers tracing the rim of her glass.
 "I need to tell you something," she said finally. "About what I've been wrestling with. It's not the same as what you're facing, but it's the same shape."
 
 
----
 
 Delphine had spent fifteen years in media production before the crisis changed everything. She had made content for networks, for streaming platforms, for brands that wanted their messaging to feel organic. She had been good at it - good enough that her name opened doors, good enough that people trusted her taste.
 
@@ -74,7 +71,6 @@ Ananya had heard pieces of this before, but never laid out so starkly.
 "Nothing public. I couldn't - I'd be destroying my own career for something that wasn't even illegal. But I started donating. Significantly. To media literacy organizations, to deradicalization programs, to the groups trying to repair what people like me broke." Delphine looked directly at Ananya. "It's not enough. It will never be enough. But it's what I could do without losing everything."
 
 
----
 
 "Your situation is different," Delphine continued. "You have a chance to do something that would actually matter. That would actually change how these companies operate. Ruth Abramson's testimony was important, but she was on the outside. You were inside. You know things that could break this case open."
 
@@ -91,7 +87,6 @@ Ananya felt the truth of it settle in her chest. The escape routes she had been 
 "The question," Delphine said, "is whether you can live without doing it."
 
 
----
 
 They finished dinner, or what passed for finishing - plates with food still on them, wine glasses emptied and refilled. Delphine paid without discussion, and they walked out into the December night.
 
@@ -112,7 +107,6 @@ They walked in silence for a block, past murals and closed storefronts and the p
 "I think I already know what I'm going to do," Ananya said finally. "I've known since I met Damon and Lisa. I've just been trying to find a way not to do it."
 
 
----
 
 Delphine stopped walking and turned to face her. The streetlight caught her face, the particular way her features held both warmth and intelligence, the friend who had seen Ananya through the worst years of her life.
 
@@ -131,5 +125,4 @@ Ananya took a car home. The city passed outside the windows, its lights blurring
 She knew what she was going to do. She had always known. The only question now was finding the courage to do it.
 
 
----
 

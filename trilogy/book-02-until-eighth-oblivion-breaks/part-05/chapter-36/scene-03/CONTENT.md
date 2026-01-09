@@ -13,7 +13,6 @@ She blinked. The fluorescent lights were on. The room was bright. Mr. Gutierrez 
 "That's nice," Elena heard herself say. Her hands adjusted the drip rate. Her hands were competent. Her hands had not stopped being competent even when the rest of her had stopped being anything at all.
 
 
----
 
 *The generator stuttered. This was the second night, or the third. The stutter lasted four seconds, which was long enough for Elena to think: this is it, this is how we lose them, all of them, the ones on ventilators, the ones whose medications required refrigeration, the ones for whom the fragile technological membrane between living and dying was about to dissolve.*
 
@@ -30,7 +29,6 @@ Mr. Gutierrez was telling her about his wife. His wife had died three years ago.
 "That's lovely," Elena said. She checked his blood pressure. It was stabilizing. The saline was doing its work. Some things still worked. Some interventions still intervened.
 
 
----
 
 *The woman with the head wound. Middle of the night, second or third, time had collapsed into itself. She came in carried by two men Elena didn't know, neighbors maybe, strangers helping strangers because there was no one else. The wound was deep. Elena could see the white gleam of bone through the blood, and she had worked by flashlight because the generator was prioritizing the ICU, had stitched by flashlight while the woman screamed and screamed and then stopped screaming, which was worse.*
 
@@ -51,7 +49,6 @@ The pattern of the curtain around Mr. Gutierrez's bed was blue flowers on a whit
 She did not believe him. She smiled anyway, because the smile was a kind of medicine too, and he deserved whatever medicine she could offer.
 
 
----
 
 *Dr. Okonkwo's voice over the emergency radio, calm even when calm was impossible:* We're losing the south wing. Redirect all resources. *And she had redirected, had moved through the chaos with a purpose that felt like walking through water, every step an effort, every step a choice not to stop.*
 
@@ -68,7 +65,6 @@ Elena stood beside his bed and breathed.
 She looked at the morning glories on the curtain and waited for her mind to quiet. It did not quiet. She kept breathing anyway.
 
 
----
 
 *The water, someone screamed. Don't drink the water.*
 
@@ -93,5 +89,4 @@ Elena walked out of the treatment bay and stood in the hallway and pressed her p
 Then she put her hands down and looked at her phone. Still no signal. Still no news. She walked toward the next patient.
 
 
----
 

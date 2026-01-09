@@ -5,7 +5,6 @@ She rose without turning on the lamp, navigating by memory through the familiar 
 The hallway was silent as she passed the children's rooms. Sofia's door was closed, as it always was now that she was fifteen and insisted on privacy with the ferocity of someone constructing a self, and Elena resisted the urge to open it and check on her daughter the way she had when Sofia was small.
 
 
----
 
 Mateo's door was ajar, and through the gap she could see the shape of him beneath his blankets, twelve years old and still sleeping with the stuffed elephant he had received on his first birthday, though he would have been mortified if anyone at school knew. She did not go in. The floorboards in his room creaked, and he was a light sleeper, and she had learned years ago that the best gift she could give her children on these early mornings was the gift of not waking them.
 
@@ -14,7 +13,6 @@ At the end of the hall, the door to Abuela's room stood open. Elena paused at th
 The kitchen was dark and cool, the tile floor cold against her bare feet. She started the coffee maker, the same machine they had owned for twelve years, its plastic housing yellowed and one of the buttons cracked, but still functional, still producing the same adequate coffee it had always produced, reliable in its mediocrity.
 
 
----
 
 While she waited for the coffee to brew, Elena stood at the kitchen window and watched the darkness outside. Their neighborhood was quiet at this hour, the streets empty except for the occasional sweep of headlights from someone else starting an early shift. The houses across the street were all dark, their occupants still sleeping, and Elena felt the peculiar solitude of being awake when the world was not, the sense of existing in a pocket of time that belonged only to her. She had come to cherish these mornings, these forty-five minutes before the rest of the household stirred, when she could drink her coffee in silence and read the news on her phone or simply sit with her own thoughts, uninterrupted by the needs of her children or her mother-in-law or her patients, the only portion of the day that belonged entirely to her.
 
@@ -23,7 +21,6 @@ The coffee maker beeped. She poured herself a cup, black, no sugar, the way she 
 She checked her phone. No messages, which was good. Messages at this hour usually meant something had gone wrong at the clinic or with one of Abuela's medical alerts. She scrolled through the news, the same stories she had read the night before, the same conflicts and controversies and small disasters that populated the endless stream of information.
 
 
----
 
 At 5:30, she rinsed her cup in the sink and gathered her things: her badge, her stethoscope, the insulated lunch bag she packed each night with the same rotation of salads and leftovers. She wrote a note on the whiteboard by the refrigerator, as she did every morning: "Left at 5:35. Call if you need anything. Abuela's glucose was 112 at 4:50. Love, E." The note was for Daniel, who would wake at six and take over the morning routine, getting the children ready for school and checking on his mother before leaving for his own job at the construction site in Mesa, three hours away if traffic was bad.
 
@@ -32,7 +29,6 @@ The drive to the clinic took twenty-two minutes at this hour, before the traffic
 The clinic parking lot was mostly empty when she arrived. Rosario's car was already there, as it always was, the old Honda Civic with the peeling bumper sticker that said "Nurses Call the Shots." Elena pulled into her usual spot, the one three spaces from the door, and sat for a moment before going in.
 
 
----
 
 Inside, the clinic held the particular stillness of early morning, the fluorescent lights not yet fully warmed, casting their bluish pallor over the empty chairs, the air conditioning humming its constant mechanical hum. Rosario was at the front desk, a cup of coffee in one hand and the day's schedule printed out in front of her, the way she liked to review it before the first patients arrived. She looked up when Elena came in, her face creasing into the smile that had greeted Elena every morning for the past five years.
 
@@ -47,13 +43,12 @@ Elena went to the break room and hung up her jacket, then checked the schedule o
 She poured herself another cup of coffee from the break room pot and stood by the window, watching the sun clear the mountains to the east, the last traces of color fading from the sky as the day began in earnest. In forty-five minutes, the first patient would arrive, and the machinery of the clinic would start to turn, the familiar rhythm of vital signs and patient histories and treatment plans that structured her days. For now, though, the world was quiet, and the coffee was hot, and everything was exactly as it should be, as it had always been, as it would always be.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Mrs. Gutierrez was sitting in the waiting room when Elena came out to call her name, a small woman in her sixties with silver hair pulled back in a neat bun and the patient expression of someone who had spent a lifetime waiting in places like this. Elena escorted her to Exam Room 2, the one with the window that looked out on the parking lot, and went through the familiar routine of vital signs: blood pressure first, 138 over 82, slightly elevated but not alarmingly so; then pulse, 76, steady and strong; then temperature, 98.4, normal. Mrs. Gutierrez answered Elena's questions about her diet and exercise with the same gentle evasions she always used, admitting to "occasional" sweets that Elena suspected were more than occasional, describing walks around the block that may or may not have actually occurred.
 
@@ -68,7 +63,6 @@ She tried again. The same message appeared.
 She rebooted the computer, a process that took three full minutes while the old machine ground through its startup sequence. Mrs. Gutierrez sat patiently, her hands folded in her lap, her eyes following Elena's movements with mild curiosity.
 
 
----
 
 When the computer came back up, Elena tried again to access the EHR system. The same gray screen. The same error message. She picked up the phone on the desk and dialed the IT support line, a number she had memorized long ago. The line rang four times, then five, then an automated voice informed her that all technicians were currently assisting other callers and her estimated wait time was thirty-seven minutes.
 
@@ -85,7 +79,6 @@ She went to the supply cabinet in the hallway, the one that held the emergency f
 She documented the vital signs she had already taken, then began the diabetes management questionnaire from memory, writing in a neat hand that she had developed specifically for chart documentation. When was your last A1C? What was the result? Have you had any episodes of low blood sugar? Any numbness or tingling in your feet?
 
 
----
 
 By the time Elena finished with Mrs. Gutierrez, the waiting room had acquired three new patients, all of them looking slightly unsettled in a way that went beyond the ordinary anxiety of a clinic visit. Rosario caught Elena's eye as she escorted Mrs. Gutierrez to the door.
 
@@ -108,7 +101,6 @@ In Exam Room 1, Elena took Mrs. Prescott's blood pressure: 162 over 98. Dangerou
 "Lisinopril. Twenty milligrams."
 
 
----
 
 Elena documented the information by hand, then went to find Dr. Okonkwo. The supervising physician was in her office, frowning at her computer screen, which displayed the same gray error message Elena had seen earlier.
 
@@ -135,7 +127,6 @@ Elena nodded and went to the supply room, where they kept a small stock of medic
 "Thank you," Mrs. Prescott said. "I've never seen anything like this. My rideshare app died on the way here, too. The driver's phone just froze. He had to pull over and restart it three times."
 
 
----
 
 By 9:00, Elena had seen four patients, all of them documented by hand, all of them with stories. An elderly man whose ATM had rejected his card three times before the screen went dark entirely. A young mother whose grocery store checkout had frozen mid-transaction, her groceries still sitting in bags at the register. A teenager dropped off by her father, who said the traffic lights on 7th Avenue were all blinking yellow, the signals not cycling properly, cars edging through intersections like they had forgotten the rules.
 
@@ -160,13 +151,12 @@ The message showed SENDING for a long moment, then DELIVERED. But somehow she di
 Outside, the sky was bright now, the full blazing light of a March morning in Phoenix, and through the clinic windows Elena could see cars passing on the street, people going about their ordinary Tuesday as if nothing were wrong, as if the world were still the world it had been. But something was wrong. She could feel it in the weight of her phone in her pocket, in the hum of the backup generator that had kicked on without anyone noticing, in the growing line of patients with their accumulating stories of small failures.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The waiting room filled.
 
@@ -193,7 +183,6 @@ Nothing.
 Three hours away, Daniel was at a construction site in Mesa, building something that would probably outlast whatever was happening to the systems that connected them. He had no idea she was trying to reach him. He had no way of knowing anything was wrong.
 
 
----
 
 Rosario had set up a kind of triage system at the front desk, sorting patients by urgency based on their descriptions: chest pain goes first, difficulty breathing goes first, everything else waits. It was the kind of improvised protocol they had drilled for during disaster preparedness exercises, never quite believing they would need it, the drills always feeling slightly absurd, slightly theatrical. Now Rosario implemented it with the calm efficiency of someone who had been waiting her whole life for exactly this moment, her whole body focused and still.
 
@@ -212,7 +201,6 @@ Elena thought about her children at school, about Abuela alone in the house with
 But Elena did not go. There were patients in the exam rooms, patients in the waiting room, patients who had come here because they had nowhere else to go. She could not leave them.
 
 
----
 
 She called home again. The silence on the line was worse than a busy signal, worse than an error message. Silence meant the call had gone somewhere and found nothing. Silence meant the systems that were supposed to route her voice from this phone to that one had failed at some point along the invisible chain, and there was no way to know where or why or whether her voice had traveled ten feet or ten miles before vanishing into the void.
 
@@ -227,7 +215,6 @@ She picked up the next chart. Paper chart. Handwritten. A man with chest tightne
 This was real. This was in front of her. This she could do something about. This was medicine.
 
 
----
 
 The man's name was Robert Okonkwo, no relation to Dr. Okonkwo, and he was sixty-one years old with a history of cardiac problems that he could only partially remember, the details scattered across medical records he had never thought to memorize. He had been having chest pains since the night before, had planned to go to the hospital this morning, but when he arrived at the emergency room the line had stretched out the door and down the block and no one seemed to know what was happening.
 
@@ -248,7 +235,6 @@ Elena looked at him, at his gray face and labored breathing, and felt the full w
 "Wait here," she said. "I'll be right back."
 
 
----
 
 She found Rosario at the front desk, fielding questions from patients who wanted to know what was happening, when the systems would be back up, whether they should stay or go home, questions for which there were no answers.
 
@@ -273,13 +259,12 @@ A murmur of something that might have been relief. A few nods. The man in the co
 She called the next name on the list and tried not to think about her phone, silent in her pocket, connecting to nothing.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 By eleven o'clock, Dr. Okonkwo had given up trying to reach anyone at the hospital, the health department, or the regional emergency coordinator. She sat in her office with the door open, staring at a phone that connected to nothing, a computer that displayed nothing, a silence where the institutional support structure used to be.
 
@@ -294,7 +279,6 @@ Elena thought about the question. She thought about her rotations during nursing
 "We go back to fundamentals," she said. "Physical exam. History-taking. Triage based on presentation. We treat what we can treat with what we have. We stabilize what we can't treat and try to get them somewhere that can."
 
 
----
 
 Dr. Okonkwo nodded slowly. "When I trained in Lagos, we had a saying. 'The stethoscope never crashes.' It was a joke then. A bitter joke, a way of making ourselves feel better about working with limited resources while the rich countries had everything." She stood up, straightening her white coat with a gesture that seemed almost ceremonial. "It doesn't feel like a joke now."
 
@@ -307,7 +291,6 @@ They called a brief staff meeting in the break room. Five people: Elena, Dr. Oko
 "We give them samples if we have samples. We write prescriptions by hand and tell them to try different pharmacies. Some of them must be operating on paper backup by now." Dr. Okonkwo looked around the room. "I know this isn't what any of you trained for. I know it feels inadequate. It is inadequate. But people need help, and we're the help they have. So we do what we can."
 
 
----
 
 Elena returned to the waiting room and began calling names. The line had grown while they were meeting, stretching out the front door now, snaking into the parking lot, people standing in the March sun with varying degrees of patience and fear. She moved through them systematically, taking each one back to an exam room, listening to their stories, examining their bodies, documenting everything on paper forms that would have to be transcribed into the system later, if the system ever came back.
 
@@ -322,7 +305,6 @@ A child with an ear infection, diagnosed by the angry red eardrum visible throug
 An elderly woman with congestive heart failure, her legs swollen, her breathing labored. Elena adjusted her diuretic dose and told her daughter to bring her back if the swelling got worse.
 
 
----
 
 At 11:30, Rosario returned. She looked shaken in a way Elena had never seen her, her face pale despite the heat, her hands not quite steady as she set down her keys.
 
@@ -349,7 +331,6 @@ She tried Daniel's number again. Nothing. She tried home. Nothing. The silence w
 "There were thirty people waiting at the hospital. The world is not going to end if you take thirty minutes to check on your kids."
 
 
----
 
 Elena stood at the front desk, looking at the line of patients, feeling the weight of her phone in her pocket, and made her decision.
 
@@ -368,7 +349,6 @@ She called the next name on the list. A young man with a sprained ankle. She exa
 The line did not get shorter.
 
 
----
 
 At noon, Elena stood by the window in the break room, looking out at the parking lot, at the line of people still waiting, at the ordinary Tuesday that had become something else entirely, something that had no name yet. The generator hummed in the basement, steady and reliable, keeping the lights on and the refrigerators cold. Without it, they would have lost the vaccines, the medications that needed to be kept cold, the basic infrastructure that made even this reduced version of medicine possible.
 
@@ -383,7 +363,6 @@ The line outside stretched down the block. The generator hummed. The phone in he
 Elena put the phone away and went back to work.
 
 
----
 
 
 

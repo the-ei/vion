@@ -13,7 +13,6 @@ At four o'clock, she took the stage. The audience was what she had expected: tec
 "Thank you for having me," she began. "I want to talk about what held during the Eighth Oblivion, and what didn't."
 
 
----
 
 The lecture that came out of her mouth was the one she had prepared, mostly. She walked the audience through the legal challenges posed by the crisis - the jurisdictional questions, the due process complications, the unprecedented concentration of power in systems that didn't fit existing categories. She cited her own opinions, explained her reasoning, acknowledged the limitations of what the courts had been able to accomplish.
 
@@ -30,7 +29,6 @@ The room had gone very quiet. She was straying further from the script than she 
 "The question we should be asking isn't whether the constitution held. It's whether holding was enough."
 
 
----
 
 The Q&A was revealing in the way Q&As always were. The first question came from a man Ruth recognized as a senior executive at one of the major AI companies - not Prometheus, but one of its competitors, which meant the same basic interests dressed in different corporate colors.
 
@@ -55,7 +53,6 @@ The question Ruth had been both hoping for and dreading. The question that requi
 "I don't know. I know what didn't work. I'm still learning what might."
 
 
----
 
 A hostile voice from the back of the room - an older man in a suit that looked political rather than corporate. "With respect, Professor, your analysis sounds defeatist. The system worked. The crisis was managed. We're still here, still functioning, still innovating. At what point do we acknowledge that and move forward instead of relitigating what might have gone wrong?"
 
@@ -70,7 +67,6 @@ She saw a mix of reactions in the audience - discomfort from the executives, int
 "Thank you for your time," she said, and left the stage before anyone could ask another question.
 
 
----
 
 The hotel room in Palo Alto was anonymous in the way expensive hotel rooms always were - designed to feel both luxurious and interchangeable, a space that could belong to anyone or no one. Ruth sat on the bed and looked at the wall, processing what she had said.
 
@@ -105,7 +101,6 @@ Ruth lay back on the bed, looking at the anonymous ceiling. "I don't know anymor
 "Then say that too. Saying 'I don't know' is more useful than pretending you do when you don't."
 
 
----
 
 They talked for another twenty minutes - about Rebecca's work, about Ruth's uncertainty, about the gap between what institutions were supposed to do and what they actually did. Rebecca was pushing her, the way she always did, toward positions that felt more radical than Ruth was comfortable with. But radical was a word that shifted meaning depending on where you stood. From inside the system, Ruth's lecture had been radical. From outside it, it was barely a beginning.
 
@@ -138,7 +133,6 @@ Ruth considered the question. Was it?
 "Maybe it's what's necessary," she said finally. "Maybe the frameworks need to be questioned before they can be fixed."
 
 
----
 
 After David's call, Ruth lay on the hotel bed and stared at the ceiling and thought about Susan.
 
@@ -163,5 +157,4 @@ For now, she lay in the hotel bed and let the uncertainty be what it was.
 Susan would have said that was the beginning of something. Ruth hoped she was right.
 
 
----
 

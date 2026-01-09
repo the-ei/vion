@@ -14,7 +14,6 @@ Board_Presentation_March_2035_FULL.pdf
 There were others. Dozens. But these were the four that mattered most. These were the ones that contradicted everything Prometheus had said publicly, everything Victor had testified to before Congress, everything she had helped craft the messaging around.
 
 
----
 
 She opened the economic impact document again, though she had read it so many times she could quote passages from memory.
 
@@ -31,7 +30,6 @@ The safety testing analysis was worse in some ways. Not because the numbers were
 Recommendation overruled. Three words that represented a choice—Victor's choice, the board's choice—to release technology they knew wasn't fully tested because the market window was closing and competitors were moving.
 
 
----
 
 Ananya closed the laptop and sat back. The morning light was strengthening through the windows, casting patterns on the hardwood floor. Outside, San Francisco was waking up—the sounds of traffic, of city life, of a world that didn't know what she knew.
 
@@ -48,7 +46,6 @@ Her phone buzzed. A text from an unknown number, but she recognized the encrypti
 Her hands were shaking as she typed back: *Not on this channel. I'll send coordinates.*
 
 
----
 
 The coordinates she sent were for a video call on an app she had downloaded three days ago, one that promised end-to-end encryption and no logs. She didn't fully trust it—she didn't fully trust anything anymore—but it was better than standard channels. Jerome would know what to do with it.
 
@@ -67,7 +64,6 @@ The call time arrived. She opened the secure app, saw Jerome's face appear on he
 "I know. But you've decided to talk, and that's something."
 
 
----
 
 They talked for an hour. Ananya described the documents in general terms, careful not to transmit anything specific over the channel. Jerome asked questions—journalist questions, probing for what he could verify, what he could corroborate, what would stand up to legal scrutiny.
 
@@ -92,7 +88,6 @@ Ananya nodded, though she wondered if it really would. The media landscape was b
 "I know that too."
 
 
----
 
 The call ended with a plan. Jerome would send her detailed instructions for secure file transfer—the apps, the protocols, the steps to minimize her exposure. She would review them, decide, and either proceed or not. He was careful not to pressure her, even as she could feel how much he wanted what she had.
 
@@ -107,7 +102,6 @@ The truth was simpler. She had stayed because she was scared to leave. Scared of
 The documents on the drive were her only answer to Priya's question. Not the answer she had wanted to give—not *Yes, I made it safe*—but the only one she had left: *No, I didn't. But I'm trying to make it true.*
 
 
----
 
 Ananya made herself eat breakfast, though she wasn't hungry. She showered, dressed, went through the motions of a normal morning. The ordinariness was almost unbearable—the world continuing as if the decision she was making didn't matter, as if the files on her laptop weren't a kind of bomb waiting to detonate.
 
@@ -124,5 +118,4 @@ At noon, she made her decision. Not because she was brave, not because she was c
 She typed a message to Jerome: *Tonight. I'm ready.*
 
 
----
 

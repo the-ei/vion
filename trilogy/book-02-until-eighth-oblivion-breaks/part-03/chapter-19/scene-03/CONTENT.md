@@ -13,7 +13,6 @@ Beyond here lay the restricted files. The ones labeled for executive access only
 Her finger hovered over the trackpad.
 
 
----
 
 She clicked.
 
@@ -34,7 +33,6 @@ This was the line. This was the moment where looking became taking, where curios
 She saved the screenshots to her personal drive anyway.
 
 
----
 
 The next folder was labeled "Safety Testing - Phase 3 Results." She opened it knowing what she would find, and found it anyway.
 
@@ -51,7 +49,6 @@ Ananya saved the memo. She saved the testing results. She saved everything.
 Somewhere in the back of her mind, a voice was asking what she planned to do with all of this. She didn't have an answer yet. She just knew she needed to know.
 
 
----
 
 By 1 AM, she had moved beyond curiosity into something more systematic. She was building a picture, connecting documents, tracing the gap between what Prometheus said publicly and what it knew internally. The gap was vast. The gap was the size of everything she had been unable to see from her position, because her position had been designed to let her not see it.
 
@@ -64,7 +61,6 @@ There were capability curves that showed ATLAS-7's improvement rate accelerating
 Ananya read until her eyes burned and her head ached and the wine from earlier had transformed into a dull throb behind her temples. She read until she understood, finally, what she had been part of.
 
 
----
 
 At some point, she moved from reading to copying. A physical drive, the kind she kept for backup purposes, inserted into her laptop's port. The transfer was quick—the files were mostly text and numbers, nothing that required significant storage. In under ten minutes, she had copied everything she had found. Everything that showed what Prometheus knew and when they knew it. Everything that documented the gap between the public story and the private reality.
 
@@ -81,7 +77,6 @@ Tomorrow, she would go to work. She would perform her role. She would smile at V
 But she would know what she knew now. And eventually, she would have to decide what to do about it.
 
 
----
 
 She closed the laptop. The screen went dark, taking with it the glow that had illuminated her apartment for the past two hours. She sat in the complete darkness, feeling the weight of the drive in her purse, the weight of the knowledge in her mind.
 
@@ -96,7 +91,6 @@ Kevin Zhou had left. Kevin Zhou had walked away from everything—the salary, th
 Now she understood that he had simply reached this moment before she did. The moment when staying became impossible. The moment when the only choice was what came next.
 
 
----
 
 The city lights still glittered beyond her window, indifferent to her crisis. Somewhere out there, Jerome Washington was probably awake too, working on whatever story he was building about Prometheus. His message sat in her deleted folder, asking if she would be willing to talk.
 
@@ -113,5 +107,4 @@ But she knew she couldn't unknow what she knew. And that, perhaps, was the begin
 Ananya turned off the bathroom light and went to bed, not to sleep, but to wait for morning and whatever it would bring, the drive in her purse downstairs like a heartbeat she could feel from any distance.
 
 
----
 

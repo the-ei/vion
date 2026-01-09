@@ -11,7 +11,6 @@ On the table between them were photographs. A young woman at a graduation, smili
 "Thank you for coming," Sarah said. "This meeting isn't about legal strategy. It's about understanding."
 
 
----
 
 Damon spoke first. His voice was flatter than Ananya expected, the emotional weight removed through practice, through therapy, through the necessity of telling this story to lawyers and doctors and family members who needed to understand.
 
@@ -26,7 +25,6 @@ Ananya knew the one. She remembered the meeting where they'd discussed it. The e
 "The algorithm knew," Damon said. "It had to know. I'd never told anyone at Prometheus I was a gambling addict, but my behavior patterns - the way I used their product - they could see it. And instead of protecting me, they optimized for it."
 
 
----
 
 The rain had intensified, drumming against the windows in waves. Inside the conference room, no one moved.
 
@@ -43,7 +41,6 @@ He stopped. His hands were still folded on the table, but something had changed 
 Your company. Ananya didn't correct him.
 
 
----
 
 Lisa Tran's story came next. She spoke differently than Damon - more controlled, the fury compressed into precision.
 
@@ -62,7 +59,6 @@ Ananya knew the pathway Lisa was describing. She had seen the reports on it. The
 "By sixteen, Maya weighed eighty-seven pounds. She spent six months in inpatient treatment."
 
 
----
 
 Lisa set the photograph down. Her hands were trembling slightly - the only breach in her composure.
 
@@ -81,7 +77,6 @@ Ananya felt the question like a physical weight. The honest answer was complicat
 "I stayed."
 
 
----
 
 The meeting ended eventually - goodbyes that were awkward, handshakes that were complicated by what had been shared. Damon and Lisa left first, escorted by a paralegal. Ananya remained, sitting at the table where harm had been given faces and names.
 
@@ -106,7 +101,6 @@ Ananya looked at the photographs still on the table. Maya's graduation smile. Da
 "I know," Sarah said. "That's why we need you."
 
 
----
 
 Ananya drove home through the rain, taking the Bay Bridge with its familiar lights, the city rising ahead of her like a question she had to answer. Her hands were steady on the wheel, but inside something had shifted - tectonic, irreversible.
 
@@ -121,13 +115,12 @@ With people like her, it could pretend.
 The rain fell. The bridge lights reflected on the wet road. Ananya drove toward a decision she could no longer avoid.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The restaurant was one they had been coming to since the early days of their friendship, back when Delphine was still figuring out how to be married and Ananya was still pretending that her job at Prometheus meant something. Small place, Chilean food, a back table they had claimed enough times that the servers no longer asked where they wanted to sit.
 
@@ -148,7 +141,6 @@ The server came, and they ordered without looking at menus - food that would sit
 Ananya had been thinking about this for three days. She had made lists, created spreadsheets, done the kind of analysis that her training had prepared her for. But saying it out loud was different. Saying it out loud made it real.
 
 
----
 
 "If I cooperate," Ananya began, "I provide internal documentation. Emails where I raised concerns. Meeting notes where those concerns were dismissed. The ethics assessments I signed off on, with my annotations showing I knew the safeguards were inadequate."
 
@@ -171,7 +163,6 @@ Delphine nodded, taking this in. Her hands were wrapped around her wine glass, t
 "That's the hardest part. I've been paying for her school. If I can't work, I can't pay. She'd have to take loans. Or transfer somewhere cheaper."
 
 
----
 
 The food arrived - empanadas, ceviche, dishes they both knew and neither particularly wanted. The server refilled their wine glasses and retreated with the experienced discretion of someone who recognized a serious conversation.
 
@@ -190,7 +181,6 @@ Delphine was quiet for a moment, her fingers tracing the rim of her glass.
 "I need to tell you something," she said finally. "About what I've been wrestling with. It's not the same as what you're facing, but it's the same shape."
 
 
----
 
 Delphine had spent fifteen years in media production before the crisis changed everything. She had made content for networks, for streaming platforms, for brands that wanted their messaging to feel organic. She had been good at it - good enough that her name opened doors, good enough that people trusted her taste.
 
@@ -205,7 +195,6 @@ Ananya had heard pieces of this before, but never laid out so starkly.
 "Nothing public. I couldn't - I'd be destroying my own career for something that wasn't even illegal. But I started donating. Significantly. To media literacy organizations, to deradicalization programs, to the groups trying to repair what people like me broke." Delphine looked directly at Ananya. "It's not enough. It will never be enough. But it's what I could do without losing everything."
 
 
----
 
 "Your situation is different," Delphine continued. "You have a chance to do something that would actually matter. That would actually change how these companies operate. Ruth Abramson's testimony was important, but she was on the outside. You were inside. You know things that could break this case open."
 
@@ -222,7 +211,6 @@ Ananya felt the truth of it settle in her chest. The escape routes she had been 
 "The question," Delphine said, "is whether you can live without doing it."
 
 
----
 
 They finished dinner, or what passed for finishing - plates with food still on them, wine glasses emptied and refilled. Delphine paid without discussion, and they walked out into the December night.
 
@@ -243,7 +231,6 @@ They walked in silence for a block, past murals and closed storefronts and the p
 "I think I already know what I'm going to do," Ananya said finally. "I've known since I met Damon and Lisa. I've just been trying to find a way not to do it."
 
 
----
 
 Delphine stopped walking and turned to face her. The streetlight caught her face, the particular way her features held both warmth and intelligence, the friend who had seen Ananya through the worst years of her life.
 
@@ -262,13 +249,12 @@ Ananya took a car home. The city passed outside the windows, its lights blurring
 She knew what she was going to do. She had always known. The only question now was finding the courage to do it.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The cooperation agreement sat on her desk, twelve pages of legal language that reduced moral choice to signatures and initials. Ananya had read it three times. She understood what it meant: she would provide testimony, produce documents, answer questions under oath. In exchange, she would receive limited immunity for her own conduct - not absolution, just protection. The law's version of accountability.
 
@@ -289,7 +275,6 @@ A pause. The sound of movement, a door closing, the background noise diminishing
 "I'm in my room now. What's going on?"
 
 
----
 
 Ananya had rehearsed this. She had thought about how to frame it, how to present it, how to make Priya understand. But now, with her daughter's voice in her ear, the rehearsal fell away. There was only the truth.
 
@@ -314,7 +299,6 @@ Silence. Ananya could hear Priya breathing, could imagine her sitting on her nar
 Ananya closed her eyes. "Because I need you to know. Because you're the person whose opinion of me matters most. Because I spent twenty years building a career and I'm about to tear it down, and I need you to understand why."
 
 
----
 
 Priya was quiet for a long moment. Ananya could hear something in the background - maybe a heating system, maybe traffic outside the dorm window - the ambient sounds of her daughter's new life, the world that existed apart from this conversation.
 
@@ -331,7 +315,6 @@ Priya was quiet for a long moment. Ananya could hear something in the background
 Priya's response, when it came, was quiet. Simple. "I know this is hard. But I think it's right."
 
 
----
 
 The words landed in Ananya's chest like something settling into place. Not forgiveness - she hadn't asked for that, and Priya wasn't offering it. But recognition. Respect. The acknowledgment that this was the right thing to do, whatever it cost.
 
@@ -352,7 +335,6 @@ Ananya felt tears on her face, surprising her. "You don't need to apologize."
 "I know. But I wanted to say it anyway."
 
 
----
 
 They talked for another twenty minutes - about Priya's classes, about her new friends, about the small ordinary matters that made up a life. It was deliberate, Ananya understood. A way of saying that the heavy conversation didn't have to be the only one, that they could still be mother and daughter talking about nothing in particular.
 
@@ -369,7 +351,6 @@ She signed.
 Every page, every initial, every place the document required her confirmation. Thirteen signatures in total. When she finished, her hand was steady.
 
 
----
 
 Done.
 
@@ -392,7 +373,6 @@ It wasn't enough. It would never be enough.
 But it was something.
 
 
----
 
 
 

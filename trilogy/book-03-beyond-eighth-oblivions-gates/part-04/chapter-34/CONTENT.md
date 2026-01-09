@@ -11,7 +11,6 @@ The word felt dangerous. Kevin Zhou had spent his entire life observing rather t
 Today that would change.
 
 
----
 
 The loft occupied the top floor of a converted factory in the Mission, the kind of space that tech money had colonized decades ago. Kevin Zhou had bought it with Prometheus money, back when Prometheus was still something he could be proud of, before the company's surveillance apparatus had revealed itself in the hearings, before Ananya Ramaswamy's testimony had shown him what he had helped build. Now the space served a different purpose: not extraction but connection, not surveillance but shared awareness.
 
@@ -24,7 +23,6 @@ And he would be inside it.
 Kevin Zhou sat down in one of the stations, not activating anything, just feeling what it would be like. The headband was light on his temples. The chair was ergonomic, designed for extended sessions. Through the windows he could see San Francisco morning, the fog burning off, the city waking up. An ordinary day for everyone else. A threshold for him.
 
 
----
 
 The fear was not that the technology would fail. He had tested that exhaustively. The fear was that it would succeed.
 
@@ -39,7 +37,6 @@ Now he would find out.
 He stood up from the station and walked to the window. San Francisco was fully awake now, the morning commute beginning, the city's rhythms asserting themselves. Somewhere out there, Yusuf was on his way. They had stayed in touch since Minneapolis, the unlikely friendship that had somehow survived its improbable beginning. Yusuf would be here today. Yusuf would feel whatever Kevin Zhou felt through the interface. The thought was both comforting and terrifying.
 
 
----
 
 He thought about Ananya. She was not coming today - they were still not on speaking terms in the normal way, their relationship mediated through lawyers and ethics boards - but her influence was everywhere in this room. The consent protocols he had built into the interface, the data privacy guarantees, the ability to withdraw at any moment: all of these came from her testimony, her questions, her insistence that technology should serve rather than extract.
 
@@ -52,7 +49,6 @@ He checked the time. Two hours until the participants arrived. He made coffee in
 Kevin Zhou drank his coffee and watched the city through the window and tried to imagine what it would feel like to be known. Not analyzed. Not evaluated. Not valued for his utility. Just known, the way humans were supposed to know each other, the way that had always eluded him.
 
 
----
 
 The last two hours before the test were the longest of his life.
 
@@ -71,13 +67,12 @@ He took a breath. The preparation was over. The test was about to begin.
 He went to the door to let her in, his hand steady on the handle, his heart anything but steady. This was it. The threshold. The moment when the builder would finally inhabit what he had built.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The participants gathered over the next forty minutes, arriving singly and in pairs, filling the loft with the particular energy of people about to do something unprecedented. Kevin Zhou greeted each of them at the door, his social manner as stilted as it had always been, the gap between his technical fluency and his interpersonal awkwardness sharp but familiar.
 
@@ -90,7 +85,6 @@ Third: Paula Andersen, a therapist who specialized in trauma and had spent years
 Then Yusuf.
 
 
----
 
 Yusuf walked through the door looking like he had stepped onto an alien planet. He was wearing the same clothes he always wore - thrift store flannel, worn jeans, the boots that had carried him through years of gig work. The tech loft with its brushed steel and acoustic panels and expensive equipment was as far from his world as anything could be. But he was here anyway, because Kevin Zhou had asked him, because the friendship between them somehow persisted despite having no obvious foundation.
 
@@ -113,7 +107,6 @@ Yusuf nodded slowly. He had heard Kevin Zhou explain the interface before, had u
 They stood together for a moment, two improbable friends, the MIT prodigy and the gig worker musician, united by nothing except a shared sense of being outsiders to their own lives. Then Kevin Zhou turned to greet the final participant, and the gathering was complete.
 
 
----
 
 The last participant was Sandra Reyes, a community organizer from Oakland who had spent her career fighting against the displacement caused by tech money. She was fifty, Latina, with a directness that Kevin Zhou found both intimidating and refreshing. He had invited her specifically because she was skeptical of everything he represented, because if the interface could work across that divide, it could work anywhere.
 
@@ -128,7 +121,6 @@ The group milled around the loft, awkward in the way that strangers are before a
 DeShawn was explaining something technical to Margaret. Paula was asking Sandra about her organizing work. And Yusuf stood by the window, looking out at San Francisco, apart from the group the way he was apart from most groups, the outsider who somehow kept showing up anyway.
 
 
----
 
 Kevin Zhou watched them all and felt his familiar displacement. He had invited these people. He had designed this experience. He was the host, the architect, the brain behind everything about to happen. And yet he felt less present in the room than any of them, hovering at the edges of his own event, unable to simply be with the others.
 
@@ -147,13 +139,12 @@ He thought of his father, always disappointed in his social failures. He thought
 Then he began to explain.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Kevin Zhou stood before the group and felt the familiar shift that happened when he talked about his work. The social awkwardness that plagued his ordinary interactions disappeared, replaced by something like clarity. He knew this material. He had lived inside it for years. The interface was the one thing in his life that he understood completely.
 
@@ -168,7 +159,6 @@ He pulled up a diagram on the screen behind him, the brain regions that the sens
 "That's what we're about to find out. The preliminary tests suggest it varies between people. But the common descriptions include warmth, pressure, color. Embodied metaphors for inner states."
 
 
----
 
 Margaret raised a hand, the tech ethicist's concern visible in her face. "You said preliminary tests. How many people have used this before us?"
 
@@ -191,7 +181,6 @@ The room was quiet for a moment. Kevin Zhou saw them processing this, the implic
 "Let me explain the safeguards," he said, and he felt Ananya's influence flowing through the words. "At any moment, you can withdraw. The headband has a release mechanism that you control. Pull here" - he demonstrated on one of the sensors - "and you're immediately disconnected. Your participation is continuous consent. Every second you stay in the session is a choice."
 
 
----
 
 "And the data?" DeShawn asked, even though he already knew. He had helped design this part. He was asking for the others.
 
@@ -212,7 +201,6 @@ When the questions finally wound down, he looked at the group: six people in six
 Silence. Then Yusuf spoke: "Let's do it."
 
 
----
 
 Kevin Zhou helped each participant adjust their headband. The sensors needed to sit precisely on the temples, the contact firm but not uncomfortable, the connection to the processing system verified by a small green light. He moved around the curve of stations, checking each one, his hands steady even though his heart was racing.
 
@@ -233,13 +221,12 @@ The interface was ready. The participants were ready.
 Only Kevin Zhou was not ready. But he pressed the button to begin anyway.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The interface activated with no fanfare. No dramatic sound, no flash of light, nothing to mark the transition. One moment Kevin Zhou was alone inside his own experience. The next moment, he was not.
 
@@ -254,7 +241,6 @@ The urge to pull the release was immediate and overwhelming.
 He didn't pull it. He sat with the exposure, letting himself be seen, letting Yusuf's warmth wash against his coldness. And something strange began to happen. The loneliness didn't disappear, but it changed. It became shareable. It became something that could be held by others.
 
 
----
 
 The other participants arrived in his awareness one by one.
 
@@ -267,7 +253,6 @@ Margaret was caution layered over genuine care. She had armored herself with ske
 Sandra was fire. Controlled fire, directed fire, but fire nonetheless - the burning of someone who had spent her life fighting for justice and was tired and angry and unwilling to stop. Her skepticism of Kevin Zhou was palpable through the interface, a texture like sandpaper. But so was her hope, the part of her that wanted to believe that something good could come from this technology even if experience suggested otherwise.
 
 
----
 
 Fifteen minutes into the session, Kevin Zhou understood something he had never understood before.
 
@@ -282,7 +267,6 @@ He felt the tears now, streaming down his face, the physical manifestation of so
 He was not alone. He had never been alone. The isolation had been real, but it had also been a misunderstanding.
 
 
----
 
 The session deepened.
 
@@ -295,7 +279,6 @@ Yusuf must have felt the thought, or the feeling underneath it, because his pres
 The interface had succeeded. The technology worked. But the success felt less like an achievement and more like a discovery. He had not invented connection; he had just found a new way to recognize it.
 
 
----
 
 At the forty-five minute mark, Sandra's skepticism shifted.
 
@@ -310,7 +293,6 @@ She was fighting for justice. He was building technology. These had seemed like 
 He felt her acknowledge this. Not in words, not in thought, just in the texture of her presence: a softening, an opening, a willingness to consider that maybe, this time, a tech person was actually trying to help.
 
 
----
 
 The session moved through phases that Kevin Zhou had not anticipated.
 
@@ -327,7 +309,6 @@ When Kevin Zhou felt the peak begin to pass, felt the intensity start to fade in
 He had built a bridge. And for the first time in his life, he had walked it himself.
 
 
----
 
 The session wound down slowly, over the course of the final thirty minutes. The presences faded gradually, like musical instruments dropping out one by one at the end of a symphony. Kevin Zhou felt the others pulling back into themselves, not disconnecting but returning to their own boundaries, the interface easing its transmission as the session approached its programmed end.
 
@@ -344,13 +325,12 @@ And Yusuf was smiling. Not a big smile, just a small one, the smile of someone w
 "Well," Yusuf said. "That was something."
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The debrief lasted an hour and felt both essential and inadequate. Words, it turned out, were a poor substitute for what they had just experienced. They tried anyway.
 
@@ -367,7 +347,6 @@ Sandra spoke last among the participants. She addressed Kevin Zhou directly, her
 She nodded, something like respect in her expression, and left with Margaret. Paula followed, exchanging contact information with DeShawn, the professionals finding each other. The loft emptied until only Kevin Zhou and Yusuf remained.
 
 
----
 
 The interface equipment sat silent in its stations, the headbands resting on the chairs like abandoned instruments after a concert. Kevin Zhou walked among them, checking connections out of habit, not because anything needed to be fixed. The session had worked. The technology had done what it was supposed to do. And he was different now, in a way that no amount of checking could undo.
 
@@ -388,7 +367,6 @@ Yusuf was quiet for a moment. "That's the most human thing I've ever heard you s
 "Yeah. Well. The interface makes you say human things."
 
 
----
 
 They sat together on the worn couch in the corner of the loft, two friends who had just shared something impossible. The city lights were beginning to emerge through the windows as the afternoon faded. Kevin Zhou felt exhausted and awake at the same time, the paradox of having been emotionally exposed while also feeling, for the first time in memory, fully present.
 
@@ -407,7 +385,6 @@ Kevin Zhou considered the question. It was the question he had been avoiding for
 "I think," he said slowly, "you build in the safeguards you can. You make the choices you can control. And then you let go. Not of responsibility - I'll always be responsible for what I create. But of the illusion of control."
 
 
----
 
 "That sounds like wisdom," Yusuf said.
 
@@ -428,7 +405,6 @@ Kevin Zhou thought about his father, who had never understood why his brilliant 
 And he thought about Yusuf, sitting beside him, the improbable friend who had somehow become the person he trusted most in the world.
 
 
----
 
 "I should probably find somewhere to sleep," Yusuf said eventually. "My flight back is tomorrow afternoon."
 
@@ -457,7 +433,6 @@ He had built a bridge. He had crossed it. Tomorrow he would figure out what to d
 But tonight, for the first time in as long as he could remember, he was not alone.
 
 
----
 
 
 

@@ -19,7 +19,6 @@ Ruth. Sixty-eight years old. The nurse-turned-activist who had spent her life fi
 Ruth kept a list. Of course she did. The woman who had spent her life building networks would have a list of who to call if something happened.
 
 
----
 
 In Phoenix, Elena got the news through the network that Ruth had built. A text from Lorena, who had heard from someone who had heard from Rachel. Then a call from another nurse she had met at a conference where Ruth had spoken. The news traveled the way news travels among people who work in healthcare - quickly, through informal channels, each person passing it to the next.
 
@@ -32,7 +31,6 @@ And now Ruth was in an ICU in Chicago, her body failing in the way that bodies f
 Elena thought about calling Daniel, about going home, about finding someone to hold. Instead she stood in the heat and let herself feel the weight of it: another loss approaching, another absence in the making. Ruth was not dead yet. But the stroke had made the ending visible, had brought the gate into view.
 
 
----
 
 In Minneapolis, Yusuf heard from Kevin Zhou, who heard from Ananya, who had heard from Rachel. The chain of connection that linked them all - improbable, accidental, forged through the strange coincidences of the trilogy's unfolding events - now carried grief in addition to its usual transmissions.
 
@@ -49,7 +47,6 @@ Kevin's response was brief: *She did. She does.*
 The present tense. Ruth was still alive. The gate was approaching but not yet crossed. There was still time for something - what, Yusuf didn't know. But there was still time.
 
 
----
 
 In San Francisco, Kevin Zhou received the news from Ananya and sat with it in the loft where the interface test had happened. The equipment was still there, the stations waiting for the next session, the technology ready to help people understand each other. But Ruth, who had spent her life building human networks without technology, was in a hospital bed in Chicago, her networks carrying news of her condition across the country.
 
@@ -62,7 +59,6 @@ Kevin Zhou looked at his silent interface equipment and understood something abo
 The technology and the humanity needed each other. Both were necessary. Neither was sufficient alone.
 
 
----
 
 The day ended with the news still settling, the weight of it distributed across four cities, four people, four lives that had been changed by the thresholds they had crossed.
 
@@ -75,7 +71,6 @@ Yusuf in Minneapolis, lying awake in his mother's spare room, thinking about his
 Kevin Zhou in San Francisco, alone in his apartment but not feeling alone in the way he used to. The interface had shown him that isolation was a choice. The news about Ruth had shown him that connection was precious precisely because it was temporary. Everyone approached their own gate eventually. What mattered was who walked beside you on the way.
 
 
----
 
 Part 4 closed with the news of Ruth's stroke still fresh, the outcome still uncertain, the characters bound by their shared care for someone who had touched all their lives in different ways.
 
@@ -90,5 +85,4 @@ Part 5 would bring the gates into view. Part 5 would show what lay beyond them. 
 Different gates. Same destination. The human condition, unchanged by technology or wisdom, persistent and precious and brief.
 
 
----
 

@@ -17,7 +17,6 @@ His phone buzzed. Denise. He picked up.
 "Cold. Struggling. Beautiful, in parts."
 
 
----
 
 "Are you taking care of yourself?" Denise asked. The question had layers—she knew him too well, knew how he got when a story consumed him.
 
@@ -48,7 +47,6 @@ What she thought was that he was chasing something he would never catch. That th
 She wasn't wrong. But he couldn't stop.
 
 
----
 
 They talked for another twenty minutes, about small things mostly. The garden, their daughter, a neighbor's new dog. The infrastructure of a shared life, the ongoing project of being married to someone for three decades. By the time they hung up, Jerome felt both better and worse—connected to home, but aware of the distance he had put between himself and it.
 
@@ -65,7 +63,6 @@ Jerome typed: *In Minneapolis covering the ground effects. Would be good to talk
 He stared at the message for a long moment, then sent it. The story he was writing about workers was important, but the story Ananya might have was the one that could connect everything.
 
 
----
 
 Midnight came and went. Jerome was still working, the story spreading across his screen in fragments and outlines. He had stopped playing the recordings—the voices were in his head now, recurring like music.
 
@@ -84,7 +81,6 @@ He didn't have answers. He kept writing anyway. The story about Minneapolis work
 He wasn't sure he believed it.
 
 
----
 
 At one in the morning, his laptop chimed. A message in the encrypted app.
 
@@ -109,7 +105,6 @@ Or it might just be another story that everyone read and nobody acted on. He had
 But he kept working. What else was there to do?
 
 
----
 
 The hotel room felt smaller now, the walls pressing in. Jerome stood up, stretched, walked to the window. Outside, the parking lot glowed under sodium lights. A few cars, a few people moving between buildings, the late-night life of a city that didn't stop for darkness.
 
@@ -126,7 +121,6 @@ Jerome returned to his desk, opened a new document, and started writing. Not the
 A story about systems and the people ground down by them. A story about power and resistance. A story about witness, even when witness felt inadequate.
 
 
----
 
 At two in the morning, Jerome finally closed his laptop. He was tired in a way that sleep might not fix—the tiredness of carrying too many stories, too many doubts, too many questions that didn't have answers.
 
@@ -149,5 +143,4 @@ Because witness was all he had.
 He fell asleep with the question still circling, unanswered, persistent. By morning, it would be time to move again.
 
 
----
 

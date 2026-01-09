@@ -9,7 +9,6 @@ She understood now even less than she had then. The words were sounds, were rhyt
 Her father walked ahead, bent in a way she had never seen him, his spine curved under a weight that had nothing to do with the body. He was eighty-one years old and he had just lost the woman he had been married to for fifty-three years. Ananya watched him move toward the building where his wife's body would become ash, and she saw in his posture something she recognized: the particular devastation of the one who remains.
 
 
----
 
 Priya stayed close to Ananya as they entered the building, navigating between clusters of mourners, finding their place in the geography of grief that the priest directed. There was a room where the body was placed, and chairs arranged in rows, and a window through which the flames would be visible when the time came. Everything was organized, procedural, designed to contain the chaos of death within manageable boundaries.
 
@@ -26,7 +25,6 @@ There was Lakshmi, her cousin, leading her forward.
 The eldest daughter. A category Ananya had not thought about in years. There had only been her and Suresh. She had been the eldest and the only daughter, a position that carried weight she had escaped by leaving.
 
 
----
 
 She stood where Lakshmi placed her, near the body, near the platform that would slide into the chamber. The priest pressed a small vessel of water into her hands, and she poured it where he indicated, feeling the gesture's meaning without knowing its name. Her mother's face was visible still, arranged in the calm that death provides, the features settling into something peaceful or simply still.
 
@@ -39,7 +37,6 @@ Those hands were still now. Everything was still.
 The chanting continued, rose toward something, and Ananya felt the moment approaching. The platform would move. The doors would close. The fire would do its work. Her mother would become ash and memory and the particular shape of absence that would walk beside Ananya for the rest of her life.
 
 
----
 
 Priya was crying. Ananya heard it before she saw it - the small sounds of her daughter's grief, expressed in a way Ananya's own body refused to allow. Priya had met her grandmother only through screens, had known her through the mediated reality of video calls and photographs and stories Ananya told. And yet she wept, and the weeping was real, was for something real.
 
@@ -60,7 +57,6 @@ Fire.
 Ash.
 
 
----
 
 Time passed strangely. Ananya stood and then sat and then stood again. Relatives spoke to her, and she responded, though she could not afterward recall what was said. The cremation took hours - this she had not known, had not thought about, the duration of fire. They waited in that building while the transformation completed itself, while her mother's body became reduced to what fire could not consume.
 
@@ -77,7 +73,6 @@ Ananya's throat closed.
 "She wanted to visit you," the aunt continued. "Every year she said next year. Next year we'll go to San Francisco, see Ananya, see Priya." The aunt looked toward where Priya sat. "She had your school photographs on her wall. Did you know that?"
 
 
----
 
 Ananya had not known that. She had not known so many things. The shape of her mother's daily life, the texture of it, the small decisions and moments and accumulations that had made up the decades since Ananya had left this city - all of it was opaque to her. She had received the highlights through phone calls and video calls, had constructed an idea of her mother's life from fragments and updates, but the actual texture of it, the quotidian truth of how her mother had lived, had been invisible to her.
 
@@ -92,5 +87,4 @@ They walked out of the crematorium into Chennai's hot afternoon, and the city wa
 Ananya stood in the sunlight and felt the weight of it: her mother was gone, and she had come back too late, and this was how it was.
 
 
----
 

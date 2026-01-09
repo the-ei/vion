@@ -17,7 +17,6 @@ You want me to explain the why from inside the system.
 I want you to help people understand that it wasn't evil. That's the hardest part to convey. If it was just evil people doing evil things, we could prosecute them and be done. But it wasn't that. It was something more complicated.
 
 
----
 
 Ananya took the tablet, scrolling through the outline herself. The structure was clear, the questions precise. This was not the work of a few months; this was the culmination of a career's worth of thinking about how to tell stories that mattered.
 
@@ -36,7 +35,6 @@ What protections can you offer? What say do I have in how I'm portrayed?
 You can review the sections that include you before release. You can request changes, and I'll make any that are reasonable. But I won't let you soften the critique just to protect yourself. That's not what this is for.
 
 
----
 
 Fair enough, Ananya said.
 
@@ -55,7 +53,6 @@ When do you want to start?
 Whenever you're ready. We can schedule the first interview for tomorrow, or you can take time to prepare, or you can go back to San Francisco and think about it and let me know.
 
 
----
 
 Tomorrow, Ananya said, surprising herself with the certainty in her voice. Let's start tomorrow. Before I lose my nerve.
 
@@ -78,5 +75,4 @@ Tomorrow she would begin the interviews. Tomorrow she would start saying things 
 But tonight, she would eat pasta and drink wine and exist in a space where she was not a title or a controversy but just a person, tired and uncertain and beginning to glimpse what honesty might make possible.
 
 
----
 

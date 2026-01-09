@@ -25,7 +25,6 @@ She laughed, and the sound felt good - the release of something she hadn't known
 "The same. Which is good news, at this point. Stable means alive."
 
 
----
 
 "And Denise?"
 
@@ -54,7 +53,6 @@ The carousel beeped in the background. "That's my bag. I should go. But Elena - 
 "Anytime. Go home to Denise. Try to get the cheese right."
 
 
----
 
 Ananya's flight landed at SFO as the sun was setting, painting the bay gold and rose. She moved through the terminal on autopilot - familiar gates, familiar crowds, the particular geography of her home airport after fifteen years of regular travel. The carousel delivered her bag. The parking shuttle took her to her car. The freeway carried her north toward her apartment in the city.
 
@@ -73,7 +71,6 @@ She typed back: *Home. Safe. Talk tomorrow.*
 The word still surprised her sometimes. Mom. After all the years of distance, of Priya calling her "Mother" or "Ananya" or nothing at all.
 
 
----
 
 Delphine walked through the front door and into the particular chaos of her Los Angeles home - Theo's backpack on the floor, Jessie's coffee cup still on the counter, the evidence of a day lived without her.
 
@@ -102,7 +99,6 @@ They kissed, and Theo made the obligatory disgusted noise that twelve-year-olds 
 "Later. Right now I just want to be here."
 
 
----
 
 Yusuf pulled into the driveway as the Minneapolis sky was darkening from blue to black. The house was lit from within, warm yellow light in the windows, the particular glow of home at the end of a long journey.
 
@@ -135,7 +131,6 @@ He set down the bags and thought about it. "I don't know. Maybe. The new songs a
 "Continuing," Amina said. "The word is continuing."
 
 
----
 
 He liked that. Continuing. It was what he had been doing for years without having the word for it - not just surviving, which implied something was still trying to kill you, but continuing, which implied the threat had passed and you were living in what came after.
 
@@ -156,5 +151,4 @@ Music was waiting. New songs, unfinished, calling to be completed. Tomorrow he w
 Tonight, he was home.
 
 
----
 

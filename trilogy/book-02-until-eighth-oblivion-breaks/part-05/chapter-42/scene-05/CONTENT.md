@@ -13,7 +13,6 @@ Two sentences. Such small things. But Kevin found himself returning to them, rea
 The city spread out beneath his window, its lights blinking like synapses firing in a vast nervous system. San Francisco had been wounded by the crisis - buildings still bore the scars, neighborhoods were still rebuilding, the homelessness that had already been a crisis before the crisis was now catastrophic. But the city was alive. It continued.
 
 
----
 
 Kevin watched the midnight fireworks from his window. The bursts of color reflected off the glass of the downtown towers, multiplied and refracted until the whole skyline seemed to be celebrating. He could hear cheering from somewhere nearby, the distant sound of horns and noisemakers.
 
@@ -30,7 +29,6 @@ He could not undo what he had helped build. But he could build something differe
 The fireworks reached their crescendo, a final burst of color that lit the whole bay. Then silence, gradual and profound, as the smoke cleared and the year was officially over.
 
 
----
 
 Kevin saved his notes and closed the laptop. The screen went dark, leaving him with only the city's ambient glow. He sat in his chair by the window and looked out at San Francisco and thought about thresholds.
 
@@ -51,7 +49,6 @@ The send button glowed blue. He pressed it and watched the message disappear int
 Outside, the new year was beginning. Inside, Kevin sat in the quiet and let himself imagine what he might build.
 
 
----
 
 The solitude that had defined so much of his life felt different now. Not the emptiness of a person who had cut himself off from others, but the stillness of a person who had found connection and could now be alone without being lonely.
 
@@ -68,5 +65,4 @@ The city lights blinked through his window. The last fireworks had faded. The ne
 Kevin sat in the darkness and let the possibility settle into his bones. Tomorrow he would start. Tonight he would rest in the knowledge that the threshold had been crossed.
 
 
----
 

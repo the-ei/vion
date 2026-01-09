@@ -23,7 +23,6 @@ Jerome considered the question. "I don't know. What do you mean by 'change anyth
 "Like, is writing about it going to make things different? Or is it just going to be another article that people read and then forget?"
 
 
----
 
 The question stung because it was exactly what Jerome had been asking himself.
 
@@ -44,7 +43,6 @@ Denise intervened, as she often did when father and son approached contentious t
 Jerome looked at his son - seventeen, brilliant, raised on the internet and deeply skeptical of institutions his parents' generation still believed in. He thought about what Kevin Zhou had said about the counter-narratives, about how they absorbed new information and converted it into supporting evidence.
 
 
----
 
 "You're not wrong," Jerome said. "About the cynical view. Information doesn't automatically change behavior. People filter what they read through what they already believe. But that doesn't mean the work is pointless. It means the work is harder than it used to be."
 
@@ -67,7 +65,6 @@ DeShawn nodded slowly. "Okay. That's fair."
 They ate in silence for a while, the conversation settling into something that felt more like understanding than resolution.
 
 
----
 
 After dinner, Denise pulled Jerome aside while DeShawn loaded the dishwasher.
 
@@ -94,5 +91,4 @@ What if he didn't sacrifice them and missed the story that could change everythi
 The impossible calculus of journalism, which looked like idealism from the outside and felt like abandonment from the inside.
 
 
----
 

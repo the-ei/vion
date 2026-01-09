@@ -15,7 +15,6 @@ The second was different. The sky was red, scribbled over with dark crayon in la
 "I know. But I thought I could." She pointed to the shapes outside the house. "These are the people who couldn't find their homes. Daddy said some people had to leave and they didn't know where to go."
 
 
----
 
 Elena moved to the next drawing. Stick figures lying on the ground, their arms at strange angles, their faces empty circles. A larger figure standing over them, also a circle for a face, but with hands extended.
 
@@ -42,7 +41,6 @@ It was a figure in white, clearly meant to be a medical coat. The figure had lon
 "I know. But I thought there might be. I thought about blood a lot."
 
 
----
 
 Elena set the drawing down and looked at her daughter. Sofia was watching her with those older-than-six eyes, waiting to see what Elena would do, whether she would lie, whether she would offer the false comfort that adults always offered.
 
@@ -63,7 +61,6 @@ Sofia nodded as if this confirmed something she had already understood. "I thoug
 Elena felt tears starting again and tried to hold them back, not wanting to cry in front of Sofia, not wanting to burden her daughter with her own grief. But Sofia had already seen too much, had already understood too much. The pretense of adult strength seemed suddenly pointless.
 
 
----
 
 "Come here," Elena said, and held out her arms.
 
@@ -92,5 +89,4 @@ Elena held the drawing and felt her heart break and mend in the same moment, the
 "It's beautiful," she said. "It worked."
 
 
----
 

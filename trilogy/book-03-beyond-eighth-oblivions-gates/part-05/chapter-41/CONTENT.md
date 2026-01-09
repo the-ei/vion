@@ -9,7 +9,6 @@ Priya was somewhere in the building, probably finding coffee, giving Ananya spac
 A knock at the door. Delphine entered, looking elegant in the particular way that Delphine always looked elegant, as if she had solved some equation of appearance that the rest of the world was still working on.
 
 
----
 
 "How are you feeling?" Delphine asked.
 
@@ -34,7 +33,6 @@ Delphine grimaced. "I hate that. 'Definitive.' As if anything could be definitiv
 "Of course they will. That's what panels are for."
 
 
----
 
 Priya appeared in the doorway, holding two cups of coffee. She handed one to Ananya and kept the other.
 
@@ -61,7 +59,6 @@ Ananya looked at her daughter. This was exactly what she had told Priya in Chenn
 "When did you get so wise?"
 
 
----
 
 "I've been watching you my whole life," Priya said. "I learned a few things."
 
@@ -80,7 +77,6 @@ The stage manager knocked. "Five minutes, Ms. Ramaswamy."
 Ananya stood, smoothing her clothes, gathering herself for the performance of expertise that the panel would require. But underneath the performance, she knew she would try to be honest, would try to resist the historicization that wanted to turn her into a character in a story with a clear ending.
 
 
----
 
 "Wish me luck," Ananya said.
 
@@ -107,13 +103,12 @@ The moderator began her introduction. The lights came up. The audience listened.
 This was what it meant to be historicized: to speak about your own life as if it were already past, while knowing it continued.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Jerome sat in the audience with his notebook open, the habit of decades unbroken even now. He was here as a journalist, technically - commissioned to write about the symposium for a magazine that still published long-form pieces - but also as a witness, as someone whose work was being cited on the panels, as a person who had lived through what the academics were now analyzing.
 
@@ -126,7 +121,6 @@ Jerome's notebook contained fragments: questions the panelists weren't asking, c
 The moderator asked Ananya about the Prometheus years. "You were inside one of the major companies. Can you tell us what ethical oversight looked like from the inside?"
 
 
----
 
 Ananya's answer was careful, nuanced, exactly what Jerome would have expected. She described the gap between stated values and operational realities, the way ethics teams became cover for decisions that had already been made, the frustration of trying to change systems from within when the systems were designed to resist change.
 
@@ -149,7 +143,6 @@ He considered this. He had always been a reporter, not a historian - interested 
 The panel continued. Another speaker - the former regulator - was describing the policy responses to the platform crises, the legislation that had passed and the legislation that hadn't, the compromises that had been necessary and the compromises that had been too much.
 
 
----
 
 Jerome knew the inside story of that legislation. He had been there when the deals were cut, had talked to the staffers who had written the bills, had watched as industry money shaped the outcomes. The public version, the one being discussed on this panel, was cleaner than what had actually happened. Legislation was like sausage, and journalism was like the person who had to watch it being made.
 
@@ -162,7 +155,6 @@ The panel was winding down. The moderator asked each panelist for a final though
 Ananya spoke last: "We keep looking for the lesson, the takeaway, the thing we learned from the decade that will prevent the next crisis. But I'm not sure there is a simple lesson. What happened was the result of many choices by many people, shaped by incentives and structures that are still in place. The lesson, if there is one, is that we have to keep paying attention, keep questioning, keep trying to understand. The Eighth Oblivion didn't end. It became the world we live in."
 
 
----
 
 The audience applauded. The panel ended. People began to stand, to stretch, to migrate toward the coffee service that was set up in the hallway outside.
 
@@ -181,7 +173,6 @@ He closed his notebook and stood. Across the room, he could see Ananya talking w
 Jerome walked toward Ananya. They had known each other for years, had trusted each other, had become something like friends even as the journalist-source relationship had ended.
 
 
----
 
 "Good panel," he said when he reached her.
 
@@ -212,13 +203,12 @@ The symposium would continue. More panels, more discussions, more academic analy
 The truth mattered. It would have to be enough.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The reception was in a high-ceilinged room adjacent to the main conference hall, the kind of space designed for exactly this purpose: drinks, small plates, the circulation of bodies and ideas that was the real work of academic conferences. Delphine moved through it as an observer now, no longer the participant she would have been a year ago, before the documentary, before the decision to step back.
 
@@ -237,7 +227,6 @@ Ananya found her near the wine table.
 "It's strange. I spent twenty years being the person who made things, who had opinions, who participated. Now I'm just - watching. Trying to see without needing to shape."
 
 
----
 
 "Is it better? Worse? The same?"
 
@@ -258,7 +247,6 @@ Delphine felt the satisfaction of having reached someone specific, someone who h
 "It did more than connect. It validated something he had been trying to say in his music for years. That the experience mattered, that it was worth documenting, that someone saw it."
 
 
----
 
 Ananya was watching this exchange with interest. "You're an organizer?" she asked Amina. "I've seen your name in some of the labor advocacy work."
 
@@ -283,7 +271,6 @@ Delphine felt the weight of the compliment and the burden it carried. She had ma
 "It is. I needed to step back. To figure out who I am when I'm not making things for audiences."
 
 
----
 
 Amina nodded slowly. "I understand that. In organizing, there's always pressure to do more, to be more visible, to lead. Sometimes you have to step back just to hear yourself think."
 
@@ -302,7 +289,6 @@ Delphine thought about her documentary in this light. She had tried to make some
 "Your brother's music," Delphine said to Amina. "Is he still writing about the precarity years?"
 
 
----
 
 "Some of it. The new songs are different, though. He's writing about survival now, about what comes after. About having made it through and not knowing what that means."
 
@@ -323,7 +309,6 @@ She moved away into the crowd, young and fierce and carrying the future with her
 Ananya considered. "It has to be. We don't get to know how the story ends. We just get to add our chapter and hope someone reads it."
 
 
----
 
 The reception was winding down, people drifting toward dinner plans and panel preparation for the next day's sessions. Delphine stayed a moment longer, watching the room empty, thinking about what had happened here.
 
@@ -342,13 +327,12 @@ Delphine took a last sip of her wine and set down the glass. The reception was o
 Tonight, she would go back to her hotel room and call her family. That was enough.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The room held them all now, these people who had lived through the decade and were beginning to understand that they would spend the rest of their lives trying to understand it. Ananya saw Jerome across the reception space, his notebook closed for once, talking with a young academic who was probably explaining his own work to him. She saw Delphine near the windows, caught in golden late-afternoon light, her wine glass half-full and forgotten in her hand as she listened to something Amina was saying.
 
@@ -365,7 +349,6 @@ Delphine appeared at her elbow, having crossed the room in that invisible way sh
 "Ruth sent a message," Delphine said. "For the closing session tomorrow. They're going to read it aloud."
 
 
----
 
 "Ruth," Ananya repeated, and the name carried weight - the elder who had believed in institutions even as institutions failed, who had spent a career building frameworks that would outlast her, who was too frail now to travel but whose voice still mattered. "What does it say?"
 
@@ -392,7 +375,6 @@ Ananya considered the question. Somewhere in the room, Priya laughed at somethin
 "Enough for what? Enough to redeem a career built on extraction? No. Enough to be worth doing? Probably. We don't get to know if anything is enough until after we're gone."
 
 
----
 
 Jerome found them near the end of the reception, the room thinning as people drifted toward dinner plans and evening obligations. He looked tired in the way that journalists always looked tired at the end of conferences - too many conversations, too much information to process, the constant work of paying attention.
 
@@ -421,7 +403,6 @@ The three of them stood together, old friends who had become allies who had beco
 "I don't know anymore. I can't tell the difference."
 
 
----
 
 Someone at the front of the room was asking for attention. The conference organizer, a young professor from Georgetown who had written her dissertation on the Eighth Oblivion's regulatory failures, was holding a tablet, preparing to read something.
 
@@ -438,7 +419,6 @@ Ananya felt Delphine's hand brush against hers - a touch of acknowledgment, of s
 "'I spent my career believing in institutions. I still believe in them, but differently now. Institutions are gates. They can be doors that let people through or walls that keep people out. The question isn't whether to have gates but who holds the keys and whether the locks can be changed. The work of my generation was building gates. The work of your generation is deciding what to do with them.'"
 
 
----
 
 The organizer paused, then continued: "'I won't be there to see what you decide. That's not self-pity - it's just mortality, which has its own wisdom if you let it. You don't get to see how the story ends. You just get to live your chapter as honestly as you can and trust that someone will read it.
 
@@ -463,7 +443,6 @@ Ananya wiped her eyes, considered. The room was coming back to itself, the sympo
 The reception was over. Time to disperse.
 
 
----
 
 
 

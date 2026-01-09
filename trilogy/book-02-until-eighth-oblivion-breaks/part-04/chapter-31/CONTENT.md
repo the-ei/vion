@@ -9,7 +9,6 @@ She looked at the list. The names were organized not alphabetically but by urgen
 The categories were a lie, of course. A bureaucratic fiction designed to make the unthinkable feel procedural. Everyone on this list needed their medication. The categories were simply a way of deciding who would die first.
 
 
----
 
 Category A. Seven names.
 
@@ -22,7 +21,6 @@ Thomas Whitehorse, 54. Anticonvulsant-dependent. Epilepsy since age twelve. With
 She read each name and saw the face. That was the cruelty of community medicine - you knew these people. Not as case numbers or diagnostic codes but as individuals with histories and preferences and small daily humiliations. Mr. Sandoval's shoes were always immaculately polished, even now. Mrs. Gutierrez prayed the rosary in the waiting area. Thomas had a tattoo of his daughter's name on his forearm, the letters faded to blue-gray.
 
 
----
 
 Four more names in Category A. Cardiac medications, blood pressure drugs, dialysis supplies they could not provide.
 
@@ -35,7 +33,6 @@ Four days. Then people would die.
 She had learned to think about it this way - clinically, numerically. It was the only way to function. If she thought about Maria Gutierrez's rosary beads, about Thomas Whitehorse's daughter whose name she now knew was Lily, about Mr. Sandoval's polished shoes, she would not be able to do the math at all. And the math had to be done. Someone had to do it.
 
 
----
 
 Category B had fifteen names. Category C had fifteen more. The designations were supposed to provide comfort - these people are not dying immediately - but Elena had come to understand that the categories were simply a way of scheduling grief. Category B would become Category A in a week. Category C in two weeks. The list was not a triage document. It was a calendar of loss.
 
@@ -50,7 +47,6 @@ Dr. Okonkwo appeared in the doorway, coffee in hand - not real coffee, some kind
 "Same as yesterday. Minus the insulin we used overnight."
 
 
----
 
 Dr. Okonkwo came to stand beside her, reading over her shoulder. Samira Okonkwo had been a hospitalist before she joined the community clinic - fifteen years of emergency medicine, ICU rotations, the machinery of modern hospitals. Now she was here, making decisions with pencil and paper, rationing medications like a field medic in a war zone.
 
@@ -71,13 +67,12 @@ If it returned.
 If there was anything left to return to.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 She was changing the dressing on a child's infected scrape - a boy, maybe eight, who had fallen from a tree while his mother was distracted by something more urgent - when she looked up and saw him in the doorway.
 
@@ -96,7 +91,6 @@ Daniel opened his arms.
 She fit against him the way she always had, her head against his shoulder, her hands finding the familiar terrain of his back. But he was different now - leaner, harder, his body stripped down to essential components. He smelled of sweat and dust and something chemical she could not identify, and beneath it, faintly, the soap they kept at home. As if he had showered before leaving, nine days ago, and that soap was still clinging to whatever remained of the man she had married.
 
 
----
 
 "The children," she said into his shoulder.
 
@@ -121,7 +115,6 @@ He nodded, kissed her forehead, and walked past her into the clinic. She watched
 Now there were thirty-seven names on a list, and Daniel was home, and somehow both of those things were true in the same moment.
 
 
----
 
 In fragments, over the next hour, she learned what had happened.
 
@@ -148,13 +141,12 @@ She crossed to him and took his hand. His palm was blistered, the skin raw. He h
 He did not answer. But he squeezed her hand once, tight, and that was enough.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 By noon, Maria Gutierrez had stopped being able to keep water down.
 
@@ -179,7 +171,6 @@ Elena had contacted no one. The phones had not worked in eight days. Antonio Gut
 "He's thinking of you," Elena said. It was not quite a lie.
 
 
----
 
 Mrs. Gutierrez had been Elena's patient for six years. She came in every month, regular as clockwork, to have her blood sugar checked and her prescriptions renewed. She always brought something - tamales at Christmas, empanadas for Easter, flowers from her garden in the summer. She spoke about her late husband, Eduardo, who had died ten years before of the same disease that was killing her now, though he at least had died in a hospital bed with morphine for the pain.
 
@@ -196,7 +187,6 @@ The afternoon sun slanted through the clinic windows, falling across the cot in 
 None of it mattered. Not to this room. Not to this moment.
 
 
----
 
 At two o'clock, Mrs. Gutierrez began talking about her grandchildren.
 
@@ -215,7 +205,6 @@ Elena said nothing. There was nothing to say. Sofia and Gabriel were in Tucson w
 "That I loved them. That I thought about them every day. That the garden - " She stopped, coughed weakly. "That the garden was for them. Everything I grew was for them. Even when they weren't here. I grew things because I wanted them to know that growing things was possible. That you could put a seed in the ground and something beautiful would come up."
 
 
----
 
 The hours passed. Elena did not leave.
 
@@ -234,7 +223,6 @@ Elena thought of the triage list in her pocket. Mrs. Gutierrez's name was on it,
 This was what triage meant. Not a medical procedure. A verdict.
 
 
----
 
 At 4:47 in the afternoon, Maria Gutierrez died.
 
@@ -255,13 +243,12 @@ Then she walked out of the room.
 Something was hardening inside her. Something cold and clear. She did not know yet what it would become. But she knew, standing in the hallway of her clinic with the sounds of crisis all around her, that she would not forget this afternoon. She would not forgive it.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The man's name was Jerome Wallace, and he had walked eight miles to deliver the news.
 
@@ -280,7 +267,6 @@ Elena stood very still. She could feel Daniel beside her, could feel the tension
 "Gone. Their security left on day three when they stopped getting paid. The police came by once, put up some tape, and never came back." He looked at Elena with eyes that had seen the same things she had seen. "The supplies are just sitting there. Behind a door that doesn't even lock anymore. And people are dying."
 
 
----
 
 Elena thought of Mrs. Gutierrez.
 
@@ -305,7 +291,6 @@ She had not said she was going. She had not made the decision, not consciously. 
 Jerome smiled without humor. "The company stole it first. They stole it from everyone who needed it."
 
 
----
 
 The group assembled in less than an hour.
 
@@ -320,7 +305,6 @@ The streets of Phoenix were strange in the dusk. Some neighborhoods seemed almos
 The city had not collapsed. It had fractured, each fragment finding its own way to survive.
 
 
----
 
 They reached the warehouse complex just after eight.
 
@@ -339,13 +323,12 @@ He did not hesitate. He began loading containers into the cart Jerome had found,
 They were stealing. She knew that. But the word had lost its meaning somewhere in the past hour, somewhere between Mrs. Gutierrez's last breath and this moment in a warehouse full of life that had been abandoned to die.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 They returned to the clinic at ten.
 
@@ -364,7 +347,6 @@ Thomas Whitehorse received his anticonvulsants at midnight. Mrs. Patterson, whos
 The clinic hummed with activity. Word had spread - volunteers arrived, patients who had given up hope returned. By two in the morning, every cot was occupied and the waiting area was full.
 
 
----
 
 Elena worked until she could no longer see straight.
 
@@ -401,7 +383,6 @@ She turned to look at him. His face was tired, his eyes shadowed. He had walked 
 "Because you're my wife. Because you were right. Because someone had to."
 
 
----
 
 He led her to the break room, the small space with its plastic chairs and ancient coffee maker. Elena sat down. Her body was exhausted, every muscle aching, but her mind would not quiet.
 
@@ -426,7 +407,6 @@ Elena looked at her husband. At the man who had walked forty miles, who had help
 "No. We're not."
 
 
----
 
 Elena looked at her hands.
 
@@ -453,7 +433,6 @@ She was something else now. Something that had no name yet.
 Something that would not forget.
 
 
----
 
 
 

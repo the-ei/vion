@@ -19,7 +19,6 @@ And Elena found herself talking, the words coming out in a rush that she could n
 Abuela listened without interrupting, her hands wrapped around her teacup, her face revealing nothing. When Elena finally ran out of words, they sat in silence for a long moment.
 
 
----
 
 "Let me tell you something," Abuela said finally. "When I came to this country, I was seventeen. Your grandfather and I crossed at night, through the desert, with nothing but the clothes we were wearing. We almost died twice. Once from thirst, once from men who would have hurt us if we had not hidden."
 
@@ -36,7 +35,6 @@ She set down her teacup and reached across the table to take Elena's hands.
 "I raised your mother. I taught her to see. She raised you. She taught you." Abuela squeezed Elena's hands. "Now you see. The question is not whether you should do something. The question is what."
 
 
----
 
 "But I don't know what. I'm a nurse, Abuela. I treat patients. That's what I know how to do."
 
@@ -55,7 +53,6 @@ Abuela released Elena's hands and picked up her teacup again, taking a sip of te
 "For fifteen years. You don't think I moved to Phoenix for the weather?" A small smile crossed Abuela's face. "I came to be near you. To make sure the fire didn't burn you up. And now I see: the fire is not burning you. It is changing you."
 
 
----
 
 The tears came then, fully and openly, not the exhausted leaking of the conversation with Daniel but something deeper, something that had been waiting years to be released. Elena wept for her mother, dead before Sofia was born. She wept for her grandmother, who had survived what no one should have to survive. She wept for her patients, the saved and the lost. She wept for her children, who had learned too early that the world was not safe. She wept for herself, for the person she had been and could no longer be.
 
@@ -74,5 +71,4 @@ They sat together in the kitchen as the sun rose fully, as the house began to st
 She still did not know what came next. But she knew she was ready to find out.
 
 
----
 

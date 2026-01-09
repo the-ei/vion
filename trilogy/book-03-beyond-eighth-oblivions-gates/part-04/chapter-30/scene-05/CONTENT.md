@@ -2,7 +2,7 @@ Back in his apartment, Kevin Zhou sat at his desk and opened a blank message.
 
 The cursor blinked on the empty screen, waiting for him to begin.
 
-He had been thinking about Yusuf Hassan for weeks now, ever since he had found the SoundCloud page, had listened to the recordings that had been uploaded without fanfare or marketing, just raw sound files that someone had made in private and released into the void.
+He had been thinking about Yusuf Hassan for weeks now, ever since he had found the SoundCloud page, had listened to recordings uploaded without fanfare or marketing, just raw sound files that someone had made in private and released into the void.
 
 The voice had caught him immediately. Not polished, not produced, but real in a way that most music was not real. There was experience in that voice, lived experience that had accumulated into something worth transmitting.
 
@@ -13,7 +13,6 @@ But how to ask? How to explain what he wanted to someone who had every reason to
 Kevin Zhou began to type, deleted what he had written, began again.
 
 
----
 
 The drafts accumulated.
 
@@ -25,7 +24,7 @@ Too technical: The interface utilizes neural mapping to create shared awareness 
 
 Too personal: I heard your music and felt something I haven't felt in years.
 
-Each version felt wrong, either too distant or too close, either hiding what he actually wanted to say or revealing too much. The challenge of honest communication, which he had avoided for so long that he no longer knew how to attempt it.
+Each version felt wrong, either too distant or too close, either obscuring what he actually wanted to say or revealing too much. The challenge of honest communication, which he had avoided for so long that he no longer knew how to attempt it.
 
 He thought about what DeShawn had said. The interface won't matter if you're still building it from the same place.
 
@@ -34,7 +33,6 @@ The same place. The isolation, the distance, the refusal to be known. If he wrot
 What would it look like to write from a different place? To be honest not just about what he wanted but about why he wanted it, about who he was, about the loneliness that had led him to search for a stranger's voice in the first place?
 
 
----
 
 He deleted all the drafts and started over.
 
@@ -53,7 +51,6 @@ The facts. Neutral ground before the risk of vulnerability.
 He kept writing. Let the words come without editing them, without trying to make them better or safer or more professional. Let them be awkward, because he was awkward. Let them be uncertain, because he was uncertain. Let them reveal that he did not know how to do this, because he did not know how to do this, and pretending otherwise would be another form of the same dishonesty that had shaped his whole career.
 
 
----
 
 I've been working on something new. Something different. An interface that's designed to bridge rather than extract.
 
@@ -68,7 +65,6 @@ But I've been thinking about voice lately. About how technology could carry what
 This was the heart of it. The interface was about voice in both senses: literal sound and metaphorical expression. The thing that got transmitted when someone really communicated, the thing that his systems had never been able to capture because they had not been designed to capture it, only to predict and monetize.
 
 
----
 
 I found your SoundCloud. I hope that's not strange.
 
@@ -80,10 +76,9 @@ The explanation sounded right, or right enough. It was not the whole truth, whic
 
 I don't know what I'm asking for exactly. Maybe just a conversation.
 
-The honest admission of not knowing. The invitation without demand. The small reaching out that might be rejected, that probably would be rejected, that was terrifying precisely because the rejection would confirm what he already feared: that connection was impossible for someone who had built so many walls.
+The honest admission of not knowing. The invitation without demand. The small reaching out that might be rejected, that would probably be rejected, that was terrifying precisely because the rejection would confirm what he already feared: that connection was impossible for someone who had built so many walls.
 
 
----
 
 He read the message one more time. It was awkward, uncertain, nothing like the polished communications he had sent throughout his career. It revealed too much about who he was and not enough about what he wanted. It was the kind of message that would be easy to ignore, easy to dismiss, easy to file away as just another tech person with delusions of importance.
 
@@ -102,5 +97,4 @@ The message disappeared into the network, traveling toward Minneapolis, toward a
 Kevin Zhou sat in his apartment and waited, alone as he had always been, but for the first time in years, alone and hoping.
 
 
----
 

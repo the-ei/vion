@@ -39,7 +39,6 @@ A long pause. His father had never been good with words, had communicated throug
 "I will. You too."
 
 
----
 
 The call lasted three minutes before the connection died. Kevin said "Hello? Hello?" into the sudden silence, then lowered the phone and stared at its dark screen.
 
@@ -56,7 +55,6 @@ The crisis had broken that logic. The call had cracked something else. He was cr
 The city lights blurred through his tears. The apartment was silent except for his breathing. He was alone, but his parents' voices echoed in his head, proof that alone did not mean forgotten.
 
 
----
 
 When the tears stopped, he sat in the quiet and breathed. The city continued its slow pulse beyond the window. The Eighth Oblivion had come and gone, or was still coming, or had come differently than anyone expected. The world that had seemed so solid a year ago had revealed its fragility, its violence, its terrible and beautiful capacity for transformation.
 
@@ -73,5 +71,4 @@ Kevin rose from his chair and went to the window. The first minutes of the new y
 He was ready. He was ready to find out what came next.
 
 
----
 

@@ -13,7 +13,6 @@ She spotted him before he spotted her. Her son at thirty-eight: the same face sh
 They walked toward the Upper East Side, the summer heat softened by the buildings' shadows.
 
 
----
 
 David's apartment occupied the top floor of a prewar building on East 86th Street. Ruth remembered when he had bought it - the pride in his voice, the sense of arrival after years of climbing. Now the apartment felt like evidence of a life that might soon be taken away.
 
@@ -36,7 +35,6 @@ David sat heavily on the leather couch that Ruth remembered picking out with him
 "Prometheus. And everything that came after."
 
 
----
 
 Ruth listened as David explained the firm's relationship to the crisis. Wellington Partners had handled several transactions in the months before - routine financial services for entities that turned out to be connected, through multiple intermediate steps, to the systems that had failed. The connections were real but distant: their clients' clients' clients had invested in infrastructure that was later implicated.
 
@@ -57,7 +55,6 @@ David nodded. "Senator Kincaid mentioned us by name on the floor. Called us 'fin
 "And once you're useful to someone's story, the truth stops mattering."
 
 
----
 
 Ruth studied her son's face, trying to see past the stress and fear to the truth beneath. She had raised this man, had watched him grow from infant to toddler to difficult teenager to successful adult. She knew his tells, his weaknesses, his capacity for self-deception.
 
@@ -78,5 +75,4 @@ The silence stretched long enough to become its own answer.
 Ruth felt something shift in her understanding. Not of the case - she had already suspected as much - but of her son. Of the choices he had made. Of the system she had spent her career trying to regulate.
 
 
----
 

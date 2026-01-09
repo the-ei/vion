@@ -19,7 +19,6 @@ Yusuf mounted his bicycle. The seat was too low, the handlebars crooked, but it 
 They started pedaling. The bicycle was harder to ride than Yusuf remembered - it had been years since he had been on one - but the muscle memory returned quickly. Push, glide, push, glide. The rhythm of movement.
 
 
----
 
 They rode through neighborhoods Yusuf had never visited, past houses with windows boarded and lawns untended, past shopping centers with empty parking lots, past schools that had been closed since day one. The crisis was visible everywhere, but it was also strangely invisible - no fires, no bodies, no dramatic destruction. Just absence. The systems had failed quietly, and the world they left behind was a world of emptiness.
 
@@ -42,7 +41,6 @@ Yusuf's legs ached. His back ached. Everything ached.
 But he did not stop.
 
 
----
 
 He thought of Amina sitting beside their mother. He thought of the breathing he had counted that morning, the rhythm that was slowing day by day. He thought of the dialysis machine that might or might not exist at the end of this road, operated by people who might or might not help them.
 
@@ -67,7 +65,6 @@ They found a barn set back from the road, its doors hanging open, its contents l
 Nathaniel was quiet for a long moment. "I helped build the systems that failed. I knew they were fragile, and I built them anyway, because that was my job. Now people are dying because of things I helped create. Your mother might die because of things I helped create."
 
 
----
 
 "So this is guilt."
 
@@ -94,5 +91,4 @@ He was his father's son.
 He always came back for family.
 
 
----
 

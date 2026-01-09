@@ -11,7 +11,6 @@ Elena was in the living room, talking to an older woman who might have been her 
 "Of course I came."
 
 
----
 
 They had met through Delphine, at a dinner party in the early fall when both of them had been in the middle of their reckonings. Ananya facing the lawsuit, Elena facing her diagnosis. They had recognized something in each other - the look of women who were being forced to account for their lives, to examine what they had built and whether it could hold. Since then, they had talked on the phone, shared articles, become the kind of friends that crisis creates: not close in the ordinary sense, but connected by something deeper.
 
@@ -24,7 +23,6 @@ Elena introduced her to the older woman - her mother, just in from Tucson. The m
 The evening unfolded in the particular rhythm of wakes: food being eaten, stories being told, tears and laughter mixed in ways that would have seemed wrong if death weren't the context. An uncle told a story about abuela's cooking that made everyone laugh. A cousin shared a memory of receiving advice before her wedding. The deceased was being assembled from fragments, made present through the words of those who had known her.
 
 
----
 
 Elena's daughter Sofia watched Ananya from across the room with the particular attention of children who noticed everything. Nine years old, with her mother's dark eyes and something else - an alertness, a quality of observation that reminded Ananya of Priya at that age. After a while, Sofia approached.
 
@@ -47,7 +45,6 @@ Elena's son Mateo was six, younger, protected by adults from the full weight of 
 Daniel - Elena's husband - worked the room with quiet competence, making sure people had drinks, directing parking, handling the logistics that death required. A solid man, visibly devoted, the kind of partner who stepped up when needed.
 
 
----
 
 Later, when the crowd had thinned and the evening had deepened into the winter solstice night, Elena found Ananya in the kitchen and gestured toward the patio door.
 
@@ -72,7 +69,6 @@ Ananya thought about the motion to compel, the angry emails from former colleagu
 "Keep going. After the reckoning. After you've made your choice and it costs you everything and you have to live with the consequences."
 
 
----
 
 Ananya was quiet for a long moment. The honest answer was that she didn't know. Every morning she woke up and found a way through the day, and sometimes the days added up to something that felt like a life, and sometimes they didn't.
 
@@ -91,7 +87,6 @@ They sat in the darkness, two women who had made hard choices and were living wi
 But dawn would come. It always did. The solstice promised that - the return of light, however slow.
 
 
----
 
 They went back inside eventually, rejoining the family, the work of mourning not finished but continuing in the way that work continues when you have no choice but to keep going. Elena hugged her children. Ananya helped in the kitchen, washing dishes, putting away food - the small tasks that guests did when they wanted to be useful without intruding.
 
@@ -104,5 +99,4 @@ The reckoning wasn't complete. Not for any of them. Yusuf was starting a new job
 None of it was resolved. But all of it was sufficient to proceed. The longest night of the year was ending. They would see what the returning light would bring.
 
 
----
 

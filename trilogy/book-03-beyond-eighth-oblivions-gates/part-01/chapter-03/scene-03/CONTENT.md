@@ -25,7 +25,6 @@ Benjamin smiled slightly, acknowledging the game. "My people. The company. We sp
 "Is there a difference?"
 
 
----
 
 "There's always a difference. Working means functioning as designed. Accomplishing means achieving the purpose. A machine can work perfectly and still not accomplish what you built it for."
 
@@ -56,7 +55,6 @@ Ruth considered this. Did she disapprove? The Benjamin she had mentored had been
 "That's the argument everyone makes. The good people who stay inside to moderate the worst impulses. How's that working out?"
 
 
----
 
 Benjamin was quiet for a moment, his face doing something complicated that Ruth couldn't quite read. When he spoke, his voice was lower, more honest than his professional polish usually allowed.
 
@@ -79,7 +77,6 @@ Ruth felt the weight of the question. Benjamin was her creation, in some sense -
 "I don't know. That's what scares me."
 
 
----
 
 The food arrived, giving them both something to do with their hands, something to look at besides each other. Ruth found she wasn't hungry, but she ate anyway, the habits of politeness too ingrained to ignore.
 
@@ -106,7 +103,6 @@ Ruth felt something tighten in her chest. This was the regulatory fight she had 
 "The eternal reality. I'm asking you, Ruth - when this case lands, whose side are you on?"
 
 
----
 
 The question hung between them, heavy with implication. Ruth understood what Benjamin was really asking: would she use her credibility, her reputation as the architect of the post-crisis frameworks, to support the plaintiffs who were challenging them? Or would she stay neutral, let the legal process play out without her influence?
 
@@ -131,7 +127,6 @@ She had helped make him. That was the truth she couldn't escape. Her teaching, h
 "So I can prepare myself. For being on the opposite side from someone I still respect."
 
 
----
 
 They finished dinner in a different register - lighter, more personal, catching up on the years since they had last really talked. Benjamin told her about his partner, about the condo they had bought in the city, about the dog that was supposedly his partner's but had become more attached to him. Ruth told him about teaching, about the students who reminded her of his younger self, about the ways Berkeley had changed since he had been there.
 
@@ -156,7 +151,6 @@ Benjamin kissed her cheek again, a gesture that felt more genuine this time. "Ta
 She watched him walk to his car - the expensive sedan, the driver waiting, the whole apparatus of his success. Then she got into her own car and started the drive back across the Bay Bridge, alone with her thoughts and the fog and the lights of the city receding behind her.
 
 
----
 
 Home was dark when she arrived. The house that had been Susan's too, that held the accumulated weight of their shared life, that Ruth still couldn't bring herself to leave. She went to her study and sat at the desk and looked at Susan's picture in the low light.
 
@@ -183,5 +177,4 @@ But she already knew, in the way you know things before you're ready to know the
 It was the direction Susan would have pushed her toward, all along.
 
 
----
 

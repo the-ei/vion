@@ -17,7 +17,6 @@ Their father had been dead for twenty years. But in their mother's mind, he was 
 "Jerome." Linda paused. "I need you to understand something. This isn't a visit you're fitting into your schedule. This is your mother, who is losing herself. She's been asking for you. On her good days, she remembers you and wonders why you never visit. On her bad days, she thinks you're still a child and worries about why you're not home from school yet."
 
 
----
 
 The words hit Jerome with physical force. He had been so consumed by stories about systems and institutions and the future of humanity that he had neglected the most fundamental system of all - his own family, shrinking while he looked elsewhere.
 
@@ -36,7 +35,6 @@ Jerome couldn't tell her those things because he hadn't done them. He had sent m
 "I've heard that before. From you, from our brother before he moved to Seattle and disappeared. Everyone promises to do better, and I'm still the one who shows up."
 
 
----
 
 "Tell me what you need," Jerome said. "Specifically. Not just anger - I deserve the anger - but tell me what I can actually do."
 
@@ -59,7 +57,6 @@ They talked for another ten minutes, arranging logistics - when he would arrive,
 When Jerome hung up, he stood in the hallway for a long moment. His mother's face flickered in his memory - not as she was now, diminished and confused, but as she had been when he was a child, when she had been the center of his world.
 
 
----
 
 DeShawn appeared in the hallway, the college essay forgotten. "Everything okay?"
 
@@ -86,5 +83,4 @@ The question caught Jerome off guard. "Maybe. It happens to a lot of people. The
 "Then we should make the most of the time when you're still you." DeShawn's voice was steady, but Jerome could hear the fear beneath it. "That's what I think about, when I watch Grandma. How important it is to have the conversations now, while they're still possible."
 
 
----
 

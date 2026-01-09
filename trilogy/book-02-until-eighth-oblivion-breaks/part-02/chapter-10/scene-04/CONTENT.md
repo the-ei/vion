@@ -19,7 +19,6 @@ Ruth closed her eyes. "Which senator?"
 Of course it was Kincaid. His manufactured-crisis narrative required villains, and David's firm was apparently convenient.
 
 
----
 
 "David, listen to me carefully. Being named in a senator's opening statement is not the same as being charged with anything. Kincaid is playing to his base. He needs villains for his narrative, and financial firms are easy targets. It doesn't necessarily mean the investigation has changed."
 
@@ -40,7 +39,6 @@ Ruth felt the familiar helplessness descending over her. She was an expert in co
 David's silence on the other end of the line was eloquent with frustration.
 
 
----
 
 "Mom," he said finally, "I need you to come up here. Not as a lawyer - you've been clear you can't advise me legally. But as... I don't know. As my mother. Amanda's barely speaking to me. The partners are circling like sharks. I'm not sleeping. I need someone in my corner who isn't calculating their exposure."
 
@@ -59,7 +57,6 @@ She thought about what Kincaid had said, his manufactured-crisis narrative. It w
 Her son might not be innocent. But he also might not be guilty in any meaningful sense.
 
 
----
 
 The law, she had always believed, existed to make exactly these distinctions. To separate criminal intent from negligence, willful wrongdoing from systemic participation. Courts existed to adjudicate competing claims with evidence and argument, to reach verdicts that approximated justice.
 
@@ -76,5 +73,4 @@ She had always prided herself on clear thinking. On seeing through rhetoric to s
 But clarity required something to be clear about. And the more she looked at the world since the crisis, the less she could find solid ground.
 
 
----
 

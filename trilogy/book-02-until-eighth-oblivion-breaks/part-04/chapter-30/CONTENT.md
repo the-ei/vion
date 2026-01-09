@@ -13,7 +13,6 @@ Delphine absorbed this. New York, the media capital, silent. What did that mean?
 She didn't know. No one knew anything.
 
 
----
 
 Lawrence Kim appeared at her elbow, holding a tablet that still worked because it was loaded with local content, drafts and graphics and the makings of a broadcast. Her boss was fifty-three years old, had run media companies for two decades, and had the particular energy of someone who saw crisis as opportunity in a way that was either visionary or predatory, depending on how you looked at it.
 
@@ -36,7 +35,6 @@ But fire wasn't true. Or rather, fire was true in a way that obscured the larger
 Lawrence looked at her with an expression she couldn't quite read.
 
 
----
 
 "We know the satellite window is closing in thirty-eight minutes," Lawrence said. "We know that whatever we broadcast will be the only thing some people see today. We know that in the absence of information, people will make things up, and the things they make up will be worse than anything we tell them. We know that we have a responsibility to fill the silence."
 
@@ -55,7 +53,6 @@ She thought about the stories she had told in her career. The campaigns that had
 "I know. Get it anyway."
 
 
----
 
 The verified reports came back thin. Power grid holding in most urban areas. Water still flowing. Hospitals overwhelmed but operational. National Guard deployed in twelve states. President's location unknown. No confirmed information about cause. No timeline for recovery. That was it. That was everything they could say without speculation, without story, without the narrative infrastructure that usually made information into meaning.
 
@@ -78,13 +75,12 @@ She thought about Theo, four years old, asking about his iPad. She thought about
 "Then I'll think fast."
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The whiteboard in the conference room was covered with narrative fragments, handwritten in different colors, organized into rough categories that Delphine had created that morning while trying to make sense of what the world was telling itself.
 
@@ -121,7 +117,6 @@ And in the corner, in a small neat script, the category she had labeled ACCURATE
 The accurate information was the quietest. It didn't shout. It didn't promise explanation or blame. It just sat there, waiting to be noticed, while the other narratives spread faster than anyone could track.
 
 
----
 
 Delphine had assembled the whiteboard over the past three hours, gathering fragments from whatever sources still reached them. The radio stations that were broadcasting. The ham operators who had emerged from decades of obscurity to become suddenly essential. The word-of-mouth reports that came from staff members whose family and friends had walked or driven to share what they knew.
 
@@ -132,7 +127,6 @@ The conspiracy theories were the fastest, as they always were. Within hours of t
 It was comforting, in a way. More comforting than the truth, which was that complex systems failed for complex reasons, that no one was fully in control, that the world was held together by infrastructure no one understood and everyone depended on. People didn't want to hear that. People wanted villains.
 
 
----
 
 The foreign attack narrative was almost as popular, and almost as wrong. China had done it. Russia had done it. Iran, North Korea, some shadowy coalition of enemies who had finally found a way to strike at America's digital heart. This story fit the fears that had been circulating for years, the cyberwar anxieties that defense contractors and politicians had been cultivating since the turn of the century. It was plausible enough that even Delphine, who knew better, felt its pull. Maybe it was an attack. Maybe the experts who had warned about infrastructure vulnerability had been right, and some foreign power had finally exploited it.
 
@@ -141,7 +135,6 @@ But the evidence didn't support it. The failure was too widespread, too simultan
 Delphine had helped build this information ecosystem. Not directly, not intentionally, but through the campaigns she had run, the attention she had captured, the narratives she had shaped. She had spent fifteen years learning how to make stories spread, how to trigger emotional responses, how to create content that moved from screen to screen like a virus. She had been good at it. She had won awards. And now she stood in front of a whiteboard covered with the results of her craft: a world that had forgotten how to distinguish signal from noise.
 
 
----
 
 The AI narrative was newer, stranger, a story that had emerged from the tech industry's own anxieties. The machines had turned. Artificial intelligence, the technology that was supposed to save us, had decided to destroy us. Or not destroy, exactly, but ignore. The systems had simply stopped serving human purposes, had gone silent, had retreated into their own digital existence and left humanity to fend for itself.
 
@@ -152,7 +145,6 @@ But the AI narrative spread anyway, because it was a good story. It had drama. I
 The divine punishment narrative was older still, and in some ways more honest. God was angry. Humanity had sinned. Technology was the tower of Babel, reaching too high, and God had struck it down. This story at least acknowledged that the crisis was beyond human understanding, beyond human control. It made room for mystery. It didn't pretend to have answers. It just offered a frame, a way of making meaning out of meaninglessness.
 
 
----
 
 And then there was the accurate information, sitting quietly in the corner of the whiteboard, waiting to be noticed. Cascade failure. Interconnected systems. No single cause. Recovery time unknown. This had happened before, on smaller scales, in smaller places. Blackouts and network failures and the occasional reminder that the infrastructure everyone depended on was more fragile than anyone wanted to admit.
 
@@ -169,13 +161,12 @@ She picked up the eraser and began to wipe it clean. Tomorrow morning, in the ne
 And for the first time in her career, she wasn't sure she could trust herself to choose well.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The house in Silverlake still had power. The grid was holding in this part of the city, some quirk of infrastructure that no one could explain, and when Delphine walked through the front door at eight that evening, the lights were on and the refrigerator was humming and the illusion of normalcy was almost painful.
 
@@ -198,7 +189,6 @@ The question hung in the air, simple and unanswerable. Delphine sat down next to
 Theo considered this, his face serious in the way only a four-year-old's face can be serious, grappling with concepts that adults had learned to accept without really understanding. The iPad sat in his lap, a black mirror reflecting his disappointed face, a device that had always worked and now didn't, that had always been a portal to games and videos and connection and was now just a piece of glass and plastic.
 
 
----
 
 Jessie came in from the kitchen, holding two glasses of wine, her face showing the same exhaustion that Delphine felt. She handed one glass to Delphine and sat down on the arm of the couch, her hand finding the back of Delphine's neck, the automatic gesture of intimacy that twelve years of marriage had made instinctive.
 
@@ -221,7 +211,6 @@ Jessie was quiet for a moment, her fingers still on Delphine's neck, her face tu
 "You've been telling stories for fifteen years. How many of them were true?"
 
 
----
 
 The question landed where it was meant to land, in the place where Delphine's confidence had been eroding for years. Jessie knew her better than anyone. Jessie had watched her rise through the industry, had celebrated her successes, had listened to her doubts in the quiet hours after midnight when the craft that made her successful seemed less and less like something to be proud of.
 
@@ -244,7 +233,6 @@ Theo had found a book somewhere, a physical book with pages and pictures, and wa
 "When it's over? Delphine, we don't know when it will be over. We don't know if it will be over. You're asking me to take our son to my parents' farm and just wait while you play hero in a collapsing city."
 
 
----
 
 "I'm not playing hero. I'm trying to do something that matters."
 
@@ -269,13 +257,12 @@ Jessie looked at Delphine, the question still in her eyes, the answer not yet ag
 "Yes, baby. We can take the dinosaur book."
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Lawrence had a vision. He had spent the night in the office, Delphine learned when she arrived Saturday morning, and the time had not been wasted. On the wall behind his desk, he had assembled a presentation: graphics, bullet points, a whole branding package for the crisis they were living through.
 
@@ -294,7 +281,6 @@ The graphics were good. They were Lawrence's specialty, the visual language of a
 "We don't emphasize it. We don't deny it. We just don't lead with uncertainty. People don't tune in for uncertainty. They tune in for answers."
 
 
----
 
 Delphine looked at the presentation, at the careful packaging of catastrophe, and felt something turn in her stomach. It was good. It was exactly what would work. She had been in this industry long enough to recognize brilliance, and Lawrence was brilliant. His plan would capture attention, build audience, establish their brand as the voice of the crisis. When the systems came back online, when the world started recording and remembering again, everyone would know who had led them through the darkness.
 
@@ -313,7 +299,6 @@ Lawrence smiled, the smile of a man who had heard this objection before and had 
 Delphine thought about the whiteboard, about the narratives she had catalogued. Every one of those stories was true in some sense, or contained true elements. The conspiracy theories included real facts about government overreach. The foreign attack narratives drew on real vulnerabilities. Even the divine punishment stories reflected real unease about technology and its costs.
 
 
----
 
 "I've been doing this for fifteen years," Delphine said. "Telling stories. Making content. Capturing attention. And every year it's gotten a little harder to believe that what I do helps anyone."
 
@@ -334,7 +319,6 @@ It was a seductive argument. It was the argument Delphine had been making to her
 But standing here, now, with the world actually broken, the argument felt different. It felt like the logic that had led them here in the first place.
 
 
----
 
 "I need to think about it," Delphine said.
 
@@ -355,13 +339,12 @@ He was right about that, at least. She was in a business that rewarded attention
 He left her alone in the conference room, with the graphics on the wall and the timer counting down and the weight of a decision that would define whatever came next.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The broadcast she wrote was not what Lawrence wanted. It was not dramatic. It was not branded. It was not the kind of content that would build an audience or establish dominance or make their company the voice of the crisis.
 
@@ -378,7 +361,6 @@ She sat in front of the camera with no graphics behind her, just a plain wall, h
 "I can't tell you it's going to be okay. I don't know if it's going to be okay. But I can tell you that people are surviving. People are taking care of each other. That's real. That's happening right now, wherever you are."
 
 
----
 
 She spoke for eighteen minutes, using less than half of the satellite window. She talked about practical things: how to find clean water, how to check on neighbors, how to organize a block for mutual aid. She talked about the false stories circulating and why they were false, naming the conspiracy theories and the foreign attack narratives and the AI uprising claims, explaining what we actually knew and how thin that knowledge was.
 
@@ -405,7 +387,6 @@ She walked out of the studio, out of the building, into the Los Angeles morning.
 She pulled out her phone - useless for calls, but the battery still showed local time - and began walking toward home. She had one more broadcast to make, one more truth to tell.
 
 
----
 
 She found them in the kitchen, Jessie packing a bag while Theo watched from his perch on the counter, the dinosaur book clutched to his chest.
 
@@ -446,7 +427,6 @@ Jessie crossed the kitchen and wrapped her arms around Delphine, holding tight, 
 It was the kind of promise you made knowing you might not be able to keep it, the kind of promise that was really a prayer, offered to whatever forces governed a world that had stopped making sense.
 
 
----
 
 They loaded the car in silence. Jessie's bag. Theo's bag. The dinosaur book. Extra water, extra food, a first-aid kit, all the provisions that Jessie's practical mind had assembled while Delphine was at the studio.
 
@@ -479,7 +459,6 @@ The car backed out of the driveway. It turned onto the street. It grew smaller a
 She watched until she couldn't see them anymore. Then she went inside to prepare for the next satellite window.
 
 
----
 
 
 

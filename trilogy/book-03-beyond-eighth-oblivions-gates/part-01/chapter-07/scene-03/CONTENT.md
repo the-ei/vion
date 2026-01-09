@@ -9,7 +9,6 @@ The post-crisis frameworks had been presented as reform. They were called the re
 She typed: The PCAIGA was passed in the aftermath of crisis, when public demand for accountability was at its height. Congress acted with apparent urgency, legislators speaking of never again and restoration of trust. But the law that emerged was already compromised - shaped by the very interests it was meant to constrain, written in language that left fundamental questions of liability and enforcement to future interpretation by courts that might or might not prove sympathetic.
 
 
----
 
 She continued, the argument building. The enforcement agencies were underfunded and captured. The liability shields protected companies while exposing individuals. The transparency requirements were satisfied by disclosures no one read. The whole apparatus looked like regulation from outside but functioned as permission from within.
 
@@ -34,7 +33,6 @@ Rebecca was quiet for a moment. Then: "Finally."
 "Mom, I've been waiting for years for you to say this out loud. Every time we talked about the frameworks, I could hear you holding back - saying what the evidence showed while not saying what it meant. Now you're saying what it means."
 
 
----
 
 "It means I'll have enemies. Real ones, with resources."
 
@@ -61,7 +59,6 @@ Ruth smiled despite herself. This was her daughter - fierce, certain, willing to
 "Good. Send me the link when it goes live. I want to share it."
 
 
----
 
 After Rebecca, she made herself call David. The conversation was shorter and colder.
 
@@ -92,7 +89,6 @@ She looked at Susan's photograph. "He'll come around eventually. Won't he?"
 The photograph offered no reassurance.
 
 
----
 
 The op-ed went through two rounds of edits with the Atlantic's staff. They pushed her to sharpen certain arguments, soften others. Ruth accepted some suggestions and resisted others, aware that every word would be parsed by people looking for weaknesses. By Sunday, the piece was final.
 
@@ -111,7 +107,6 @@ She poured a glass and raised it to the empty room. "To saying things out loud. 
 The wine was excellent. She drank slowly, waiting for the world to respond.
 
 
----
 
 The response began before she finished her first glass. Her phone buzzed with texts from colleagues who had seen the piece shared online. Some were supportive: "Finally someone said it." "Brave and necessary." "Welcome to the fight." Others were more cautious: "This will make waves." "Hope you're ready for the pushback." "Call me when you can."
 
@@ -134,5 +129,4 @@ Somewhere, she knew, others were doing similar work - documenting what had been 
 Now she waited to see what came next.
 
 
----
 

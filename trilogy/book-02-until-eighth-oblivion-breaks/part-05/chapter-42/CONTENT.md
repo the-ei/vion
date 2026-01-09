@@ -19,7 +19,6 @@ Abuela sat in her chair by the window, watching it all with the particular atten
 Sofia beamed. Elena added the glasses and tried not to think too much about what this night meant.
 
 
----
 
 But she thought about it anyway. The last day of the year that had changed everything. A year ago she had been in Phoenix, working at the clinic, believing she knew what her life was. The crisis had not yet come. The illusions had not yet broken. She had been a different person then, or perhaps the same person with a different understanding of herself.
 
@@ -38,7 +37,6 @@ Elena showed Sofia how to fold them, the simple triangle fold that was good enou
 Outside, the winter light was fading. Flagstaff's altitude meant early darkness this time of year, the sun dropping behind the mountains while the afternoon still felt young. Elena could see the first stars appearing through the window, the clear sky that made this place so different from Phoenix.
 
 
----
 
 Daniel appeared in the doorway, wiping his hands on a towel. He had taken off his usual flannel and was wearing a button-down shirt, the small formality that marked this as an occasion.
 
@@ -67,13 +65,12 @@ Daniel nodded. He understood. He was doing his own version of the same thing, st
 The table was set. The food was cooking. The children were making noise and the old woman was watching and the year was ending.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The television counted down in the corner of the living room, muted. They did not need the sound; the numbers descending were enough. Sixty seconds. Fifty-nine. The ball in Times Square that Elena had never seen in person but had watched drop every year since childhood, a ritual so deeply ingrained it felt like biological compulsion.
 
@@ -94,7 +91,6 @@ Elena looked at her husband in the moment before the moment, the final second of
 One.
 
 
----
 
 The ball dropped. The confetti exploded on the silent screen. In living rooms across America, people were cheering and kissing and making promises they might or might not keep. Here, in this small rented house in Flagstaff, Elena and Daniel touched their glasses together and drank.
 
@@ -115,7 +111,6 @@ Daniel was waiting in the hallway when she came out. They stood together in the 
 "No resolutions. Just. Recognitions."
 
 
----
 
 "What do you recognize?"
 
@@ -142,7 +137,6 @@ Not empty. Not at peace, exactly. But quiet, the way the surface of water become
 The threshold was behind her. The new year was beginning.
 
 
----
 
 Daniel had gone to bed. The house was silent except for the small sounds houses make when they are settling into night: the creak of wood contracting in the cold, the hum of the refrigerator, the distant whisper of wind against the windows.
 
@@ -159,13 +153,12 @@ The tea cooled in her hands. The stars turned imperceptibly in their ancient pat
 She was where she was supposed to be. She was ready for whatever came next.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The community center was warm with bodies and noise and the particular energy of people who had survived something together and were now celebrating that survival. Yusuf moved through the crowd with a plate of food he had assembled from the potluck tables, nodding at faces he recognized, stopping to exchange brief words with people who had once been strangers and were now something closer to family.
 
@@ -180,7 +173,6 @@ There was Jamal, who had organized the food distribution during the worst of the
 Yusuf found himself nodding. A year ago he would have been uncomfortable with this kind of sentiment, would have dismissed it as naive or performative. Now he understood it differently. Not naive - earned. These people had proven their commitment through action, through long hours and hard work and the willingness to help strangers who became neighbors who became something like kin.
 
 
----
 
 Amina was across the room, talking animatedly to a group of people her own age. Yusuf watched his sister with something like wonder. Six months ago she had been withdrawn, anxious, her college dreams threatened by the same financial pressures that had nearly crushed their family. Now she was animated, gesturing broadly, her face lit up as she described something that made the others laugh.
 
@@ -211,7 +203,6 @@ Fatima studied his face with the particular attention of mothers everywhere. "Yo
 "Am I not allowed to smile?"
 
 
----
 
 "You're allowed to smile. I just haven't seen you do it in a while."
 
@@ -232,7 +223,6 @@ Yusuf let the music wash over him, listening the way he always listened: not jus
 But something was different now. He was not just receiving the music; he was thinking about what he would make. About the piece that was forming in his head, the structure that was emerging from months of fragments.
 
 
----
 
 He typed a reply to Kevin: "Happy New Year. Thinking about it too. Let's talk soon."
 
@@ -261,13 +251,12 @@ Around them, the community celebrated. The music started again, louder now, and 
 Not hope. That word was too simple. But possibility. The sense that the future was not determined, that it could be shaped by people working together.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Someone had brought a keyboard. Not a good one - a cheap Casio with sticky keys and a tinny sound - but it was there in the corner of the community center, set up with a small amp for whoever wanted to play background music.
 
@@ -282,7 +271,6 @@ People began to notice. A few turned toward the sound, curious. Someone shushed 
 Yusuf kept playing. The melody expanded, developed, found variations he had not planned but that felt inevitable. His anger was in there - it would always be in his music, the fury at systems that crushed people like his family - but something else was there too. Not the opposite of anger. A complement to it. The recognition that anger alone was not enough, that it needed to be channeled into building rather than just breaking.
 
 
----
 
 He played for an hour. Maybe longer - time became elastic, stretched by the music, contracted by focus. The crowd grew and shrank as people came to listen and then drifted away to other conversations. But some stayed, held by whatever was coming through the cheap speakers of that terrible Casio.
 
@@ -295,7 +283,6 @@ The music shifted into a new section, something quieter and more reflective. Yus
 He let that thought guide his fingers. The melody that emerged was not happy - happiness was too simple for what he was feeling - but it was alive. It breathed. It moved forward even when it looked back.
 
 
----
 
 When he finally stopped, the silence that followed was its own kind of music. Then applause, genuine and warm, the sound of people who had been moved and wanted him to know it.
 
@@ -324,13 +311,12 @@ She hugged him then, her skinny arms wrapped tight around his middle. Over her h
 A year ago he had been paralyzed, unable to create, trapped in fragments that refused to become whole. Tonight he had played for an hour straight, had found structure where there had been only chaos, had made something that moved other people. The music had come back. Not the same music he used to make, but something different. Something that included everything he had lost and everything he had found.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Kevin's apartment was quiet. Outside, San Francisco was celebrating - he could hear fireworks in the distance, the faint sounds of parties in neighboring buildings - but inside, the only light came from his laptop screen and the glow of the city through the windows.
 
@@ -347,7 +333,6 @@ Two sentences. Such small things. But Kevin found himself returning to them, rea
 The city spread out beneath his window, its lights blinking like synapses firing in a vast nervous system. San Francisco had been wounded by the crisis - buildings still bore the scars, neighborhoods were still rebuilding, the homelessness that had already been a crisis before the crisis was now catastrophic. But the city was alive. It continued.
 
 
----
 
 Kevin watched the midnight fireworks from his window. The bursts of color reflected off the glass of the downtown towers, multiplied and refracted until the whole skyline seemed to be celebrating. He could hear cheering from somewhere nearby, the distant sound of horns and noisemakers.
 
@@ -364,7 +349,6 @@ He could not undo what he had helped build. But he could build something differe
 The fireworks reached their crescendo, a final burst of color that lit the whole bay. Then silence, gradual and profound, as the smoke cleared and the year was officially over.
 
 
----
 
 Kevin saved his notes and closed the laptop. The screen went dark, leaving him with only the city's ambient glow. He sat in his chair by the window and looked out at San Francisco and thought about thresholds.
 
@@ -385,7 +369,6 @@ The send button glowed blue. He pressed it and watched the message disappear int
 Outside, the new year was beginning. Inside, Kevin sat in the quiet and let himself imagine what he might build.
 
 
----
 
 The solitude that had defined so much of his life felt different now. Not the emptiness of a person who had cut himself off from others, but the stillness of a person who had found connection and could now be alone without being lonely.
 
@@ -402,13 +385,12 @@ The city lights blinked through his window. The last fireworks had faded. The ne
 Kevin sat in the darkness and let the possibility settle into his bones. Tomorrow he would start. Tonight he would rest in the knowledge that the threshold had been crossed.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The phone rang just after midnight. Kevin almost did not answer - he did not recognize the number, a long string of digits that marked it as international - but something made him pick up.
 
@@ -451,7 +433,6 @@ A long pause. His father had never been good with words, had communicated throug
 "I will. You too."
 
 
----
 
 The call lasted three minutes before the connection died. Kevin said "Hello? Hello?" into the sudden silence, then lowered the phone and stared at its dark screen.
 
@@ -468,7 +449,6 @@ The crisis had broken that logic. The call had cracked something else. He was cr
 The city lights blurred through his tears. The apartment was silent except for his breathing. He was alone, but his parents' voices echoed in his head, proof that alone did not mean forgotten.
 
 
----
 
 When the tears stopped, he sat in the quiet and breathed. The city continued its slow pulse beyond the window. The Eighth Oblivion had come and gone, or was still coming, or had come differently than anyone expected. The world that had seemed so solid a year ago had revealed its fragility, its violence, its terrible and beautiful capacity for transformation.
 
@@ -485,7 +465,6 @@ Kevin rose from his chair and went to the window. The first minutes of the new y
 He was ready. He was ready to find out what came next.
 
 
----
 
 
 

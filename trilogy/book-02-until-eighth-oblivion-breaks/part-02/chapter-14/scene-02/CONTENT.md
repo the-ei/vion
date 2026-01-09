@@ -9,7 +9,6 @@ She read the academic papers next. Economists analyzing financial flows, compute
 Then the counter-narratives. The Church of the Threshold's interpretation - the Eighth Oblivion as spiritual transition being resisted. The political framings - manufactured crisis, corporate malfeasance, regulatory failure. The accelerationist arguments that appeared in tech forums and private Discords. Each claimed to explain what the others could not.
 
 
----
 
 By the end of the week, Delphine had filled a whiteboard with frameworks, a notebook with questions, and her mind with competing interpretations that refused to synthesize.
 
@@ -26,7 +25,6 @@ The technological interpretations: Accelerationist - this is the beginning of so
 None of these interpretations was obviously wrong. Each could point to evidence supporting its claims. Each had sophisticated proponents who had thought deeply about the questions. And they were mutually incompatible.
 
 
----
 
 Delphine sat with the whiteboard for hours, trying to find a perspective that could encompass the others. This was her job - to take complexity and make it comprehensible, to find the story that contained all the stories, to create a frame capacious enough to hold contradictions without collapsing.
 
@@ -51,7 +49,6 @@ Delphine considered this. "I've made documentaries about complicated subjects be
 "I don't know. It might be honest, or it might be lazy. I can't tell the difference from here."
 
 
----
 
 Jessie looked at the whiteboard, tracing the lines with her eyes. "What does your gut tell you?"
 
@@ -76,7 +73,6 @@ Delphine felt the weight of this truth. She had built her career on the illusion
 Jessie made it sound simple. It would not be simple. But it was a direction, and direction was what Delphine needed.
 
 
----
 
 She accepted the commission the next day, with conditions. She would make a documentary about the competing interpretations without endorsing any of them. She would let subjects speak for themselves, would present evidence fairly, would refuse to construct a false consensus. If the platform wanted a definitive explanation, they would have to find another filmmaker.
 
@@ -97,5 +93,4 @@ A documentary about not-knowing. She had no idea how to make it.
 She started making it anyway.
 
 
----
 

@@ -19,7 +19,6 @@ Yusuf did not have an answer. The truth was that growth was uncertain, that the 
 "No? Then what are you doing?"
 
 
----
 
 "Taking care of my family." Yusuf kept his voice level. "The same thing everyone here wants to do."
 
@@ -46,7 +45,6 @@ He thought about how few of the people in this room would ever get a job offer l
 "I don't know," he said finally. "Better for someone. Maybe that's all anyone can do."
 
 
----
 
 After the meeting, Darius caught him in the parking lot. The streetlights cast orange shadows, and their breath was visible in the October air.
 
@@ -73,7 +71,6 @@ They stood beside Yusuf's car—a 2032 Civic he had bought used three years ago,
 Yusuf did not have an answer.
 
 
----
 
 "My father worked gig before gig was a word," Darius said. "Day labor. Standing outside Home Depot waiting for someone to pick him up. No app, just bodies and hope."
 
@@ -98,7 +95,6 @@ And it was also true that his mother needed him to have health insurance. That A
 Darius nodded slowly. "That's honest at least."
 
 
----
 
 They stood in the parking lot for another ten minutes, not arguing anymore, just talking. Darius had stories—people he had organized with over the years who had gotten out, who had kept fighting for a while and then faded, whose lives improved while the movement lost their energy.
 
@@ -123,7 +119,6 @@ But Amina had escaped through academia, a path that carried different assumption
 "Then you've got time. Just—think about what you're choosing. Not just what you're choosing FOR, but what you're choosing AWAY FROM."
 
 
----
 
 Yusuf drove home through neighborhoods he had delivered to, streets he knew by their difficulty of access and their tipping patterns. This corner was good for food delivery; that block always wanted packages left in secure locations. The landscape was mapped in his mind not by landmarks but by labor.
 
@@ -144,7 +139,6 @@ Was that betrayal? Or was it completion?
 He did not know. Darius did not know. Nobody knew.
 
 
----
 
 At home, Yusuf sat with his guitar for the first time in weeks. The music did not come easily—it rarely did these days—but he found a chord progression and hung on to it, letting his fingers work through shapes while his mind worked through problems.
 
@@ -163,5 +157,4 @@ The chord progression resolved into something almost like a melody. Yusuf follow
 Maybe that was enough for now.
 
 
----
 

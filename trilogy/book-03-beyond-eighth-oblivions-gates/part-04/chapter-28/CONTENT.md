@@ -9,7 +9,6 @@ She had been in rooms like this hundreds of times. Had watched these same monito
 But she had never sat in this chair. Had never been the family member rather than the caregiver. The difference was everything.
 
 
----
 
 Abuela's hands lay on top of the sheet, gnarled and still, the hands Elena had known all her life. She reached out and touched them, feeling the skin that had become paper-thin with age, the knuckles swollen from decades of arthritis, the fingernails that abuela had always kept trimmed short because long nails got in the way of work.
 
@@ -20,7 +19,6 @@ Now they lay still. Occasionally a finger twitched, some signal from a brain slo
 The monitors beeped softly, marking time. A nurse came in to check the IV, exchanging a look with Elena that communicated everything without words. One professional to another. One woman who understood to one who was only beginning to understand.
 
 
----
 
 Elena thought about the first time she had seen someone die. She had been twenty-three, a new nurse, working nights in a hospital that was chronically understaffed. An elderly man, whose name she could no longer remember, had stopped breathing during her shift. She had called the code, had watched the doctors work, had felt the strange mix of horror and fascination that came with witnessing the boundary between life and death.
 
@@ -31,7 +29,6 @@ But this was different. This was abuela. This was the woman who had shaped Elena
 The walls Elena had built were useless here. The professional distance she had cultivated could not protect her from the simple fact that the woman in this bed had loved her, had cared for her, had helped raise her children, and was now leaving in the only way that anyone ever left.
 
 
----
 
 Through the window, Elena could see the parking lot, the cars arranged in rows, the few trees that struggled in the Phoenix heat. Beyond that, the sprawl of the city, strip malls and housing developments and the mountains in the distance, shimmering slightly in the morning haze. This was the landscape abuela had adopted, had made her home for over forty years. She would die here, in this room, with this view, in this city that she had both loved and never quite belonged to.
 
@@ -42,7 +39,6 @@ She thought about her own hands. The hands that had learned to insert IVs and dr
 Her hands would be old someday. Would lie on a bed like this, would be held by someone who loved her and was watching her go.
 
 
----
 
 She returned to the chair and took abuela's hand again. The skin was cool now, circulation slowing as the body redirected blood to the essential organs. Elena knew this. Knew what it meant. Knew that the coolness in the hands would spread, that the color would change, that the breathing would continue to slow until it stopped.
 
@@ -55,7 +51,6 @@ This is how we remember, abuela had said. We make what our mothers made. We carr
 Elena had not understood then. She was beginning to understand now, sitting in this room, holding hands that would never make tortillas again, feeling the weight of inheritance settle onto her shoulders.
 
 
----
 
 The hours passed slowly. Nurses came and went, their footsteps muted on the linoleum floor, their voices hushed in the way that people's voices became hushed near death. Elena remained in the chair, sometimes holding abuela's hand, sometimes just sitting, watching the light change as the sun moved across the sky.
 
@@ -68,13 +63,12 @@ But sitting here, watching her grandmother die, the rage and the care felt sudde
 She held abuela's hand and waited, feeling something shift inside her that she could not yet name.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The children arrived in the afternoon. Sofia came through the door first, fourteen years old and striving to look older, her face arranged in an expression of practiced composure that Elena recognized as borrowed from somewhere, television or the internet or the careful observation of adults managing difficult situations.
 
@@ -89,7 +83,6 @@ Sofia had stopped near the door, her arms crossed over her chest. She was lookin
 Come sit down, Elena said. You can hold her hand if you want to.
 
 
----
 
 Mateo approached the bed cautiously, as though abuela might wake suddenly and startle him. He reached out and touched her hand with one finger, then drew back, then reached out again and let his whole hand rest on hers.
 
@@ -112,7 +105,6 @@ But she's not dead yet, he said.
 No. Not yet. But soon.
 
 
----
 
 Sofia finally sat down, pulling a chair close to Elena's. Her composure was beginning to crack; Elena could see it in the trembling of her jaw, the way she kept blinking rapidly as though trying to clear something from her eyes.
 
@@ -133,7 +125,6 @@ Will you teach me? he asked.
 Elena nodded, not trusting her voice. The simplest promises felt enormous now, freighted with the weight of everything that was ending.
 
 
----
 
 Sofia was crying now, silently, tears running down her cheeks that she did not bother to wipe away. Elena reached over and took her daughter's hand, feeling the familiar fingers, the bitten nails Sofia could not stop chewing despite years of reminders.
 
@@ -154,7 +145,6 @@ She was stubborn, Sofia said.
 Those can be the same thing.
 
 
----
 
 The visit lasted an hour, perhaps longer. At some point a nurse came in to check the monitors, and Elena watched her children watch the nurse, their eyes tracking the efficient movements, the quick assessment, the small adjustments. They were learning, whether they knew it or not. Learning what care looked like, what attention to a dying body required.
 
@@ -173,13 +163,12 @@ But they had been there. They had seen her. They had said what they needed to sa
 And now she would go back, and she would keep the vigil, and she would wait for whatever came next.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 She returned to the hospice that night, unable to stay home, unable to sleep in her own bed while abuela lay in this room. Daniel had the children; he understood without her having to explain. He had always understood the things she could not say, which was part of why she had married him and part of why she loved him still, despite everything the years had worn away.
 
@@ -194,7 +183,6 @@ You're the granddaughter? she asked.
 Elena nodded.
 
 
----
 
 The nurse paused, looking at her more carefully.
 
@@ -219,7 +207,6 @@ Twenty years later, the system was worse in some ways, better in others, and mos
 But tonight, sitting beside her grandmother's bed, she wondered if that was enough. If survival was the same as meaning. If the doors she had built led anywhere worth going.
 
 
----
 
 Around two in the morning, she walked to the break room to get coffee. The hospice was small, only twelve rooms, and the night staff was correspondingly minimal: one nurse, one aide, a security guard who sat at the front desk and monitored the cameras.
 
@@ -248,7 +235,6 @@ You've been here a while? she asked.
 Three years. Before that I was at St. Joseph's.
 
 
----
 
 They talked for a few minutes, the easy shop talk of people who understood one another's work. Thomas told her about a patient who had died last week, a man in his fifties who had fought cancer for three years before deciding to stop treatment. How he had arranged his own goodbye party, inviting everyone he loved, playing music and telling stories until he was too tired to continue. It's better when they get to choose, Thomas said. When they're not surprised by it.
 
@@ -265,7 +251,6 @@ She smiled tiredly. He says that every night.
 Elena watched them, these two night shift workers holding the line while the rest of the world slept. They were exhausted, underpaid, working jobs that most people would never think about until they found themselves in a room like the one Elena had just left. And they were still here. Still showing up. Still providing care that the system made difficult to provide.
 
 
----
 
 She returned to abuela's room with her bitter coffee and sat in the chair, watching the numbers on the monitors, listening to the breathing that continued its slow march toward silence.
 
@@ -280,13 +265,12 @@ Abuela's hands lay still on the sheet. Elena reached out and held them, feeling 
 I understand now, she said quietly, to abuela or to herself, she was not sure which. I think I finally understand.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Dawn.
 
@@ -309,7 +293,6 @@ Elena looked at abuela's face. The features she had inherited, that Sofia had in
 She was still here. Still abuela. Still holding on to something invisible.
 
 
----
 
 A breath.
 
@@ -340,7 +323,6 @@ But she said it anyway.
 I'm here. Sofia and Mateo were here. We all love you. You can rest now.
 
 
----
 
 A breath.
 
@@ -369,7 +351,6 @@ The word was inadequate. All words were inadequate.
 Elena held the hands and felt the weight of what had passed out of the room, out of the body, out of the world.
 
 
----
 
 Later, there were procedures. The nurse came in. Time of death was recorded. Calls were made. Elena moved through these steps with the automatic competence of someone who knew the choreography, who had guided other families through this exact sequence.
 
@@ -390,7 +371,6 @@ But the rage did not separate from the care. They moved together now, intertwine
 This is what she would carry forward. This integration. This refusal to choose between loving the work and hating what made it necessary.
 
 
----
 
 She walked outside.
 
@@ -417,7 +397,6 @@ She drove home to her children, to her husband, to the life that continued.
 She carried abuela's hands with her, and everything they had held.
 
 
----
 
 
 

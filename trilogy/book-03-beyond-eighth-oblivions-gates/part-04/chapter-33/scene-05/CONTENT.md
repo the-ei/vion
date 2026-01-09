@@ -13,7 +13,6 @@ The song he called "Night Work" came together like that. He had the verses but t
 "One more time," Yusuf said. "I want to get it while I can still feel it."
 
 
----
 
 The zone - that was what Renata called it, the state where self-consciousness dissolved and music moved through you rather than from you. Yusuf had experienced it before, rarely, in his car late at night when the city was asleep and he was alone with his voice. But he had never experienced it like this, sustained, witnessed, captured by equipment that would preserve it for anyone to hear.
 
@@ -30,7 +29,6 @@ A single. The word felt surreal. Yusuf was a gig worker who hummed in his car. H
 Kevin's interface glowed blue in the rack. Yusuf wondered if Kevin knew what was happening, if some notification had reached him in whatever room he occupied, tracking the transmission of music he had helped to make possible.
 
 
----
 
 They worked until two in the morning. By the end, Yusuf had usable takes of six songs - not the whole EP they had planned, but more than he had expected. His voice was almost gone, reduced to a whisper, but the whisper was satisfied. He had done something real.
 
@@ -47,7 +45,6 @@ Terrell shut down the equipment piece by piece. Kevin's interface powered off, i
 "I will." He didn't know if it was true. He felt too alive to rest.
 
 
----
 
 The parking lot was empty except for his borrowed car and Renata's pickup truck. Minneapolis in the small hours of a spring night, the air cold and clean, the city quiet in the way that cities only get when most of their people are sleeping. Yusuf stood by his car and looked at the warehouse one more time.
 
@@ -58,7 +55,6 @@ The songs he had recorded were about his father and also about himself. They wer
 He got in the car and sat for a moment, not starting the engine. Through the windshield he could see the warehouse, the windows dark now, the music he had made inside it waiting for its next stage. He thought about calling Kevin, about texting Amina, about all the connections that had led to this night. But the moment felt too full for communication. He just wanted to be here, in the parking lot, in the aftermath, letting what had happened settle into him.
 
 
----
 
 He started the car.
 
@@ -73,5 +69,4 @@ He got out of the car and walked toward his apartment. His neighbors' windows we
 The threshold had been crossed. He was on the other side.
 
 
----
 

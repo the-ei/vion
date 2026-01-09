@@ -11,7 +11,6 @@ The loading icon resolved into Victor Reeves's face. The Prometheus CEO stood on
 The stock ticker in the corner of Jerome's second monitor showed Prometheus shares already climbing on the anticipation alone.
 
 
----
 
 Jerome had covered Prometheus for six years, since long before ATLAS became the company's flagship AI system. He had watched the evolution from ATLAS-1, a competent but unexceptional language model, through the incremental improvements that brought each version closer to something that felt—the industry hated this word, but it was the only honest one—intelligent. ATLAS-6 had been impressive enough to attract Congressional scrutiny. Whatever came next would attract more.
 
@@ -30,7 +29,6 @@ Recursive self-improvement. The phrase hung in the air of his cramped office, in
 His phone exploded. Texts, emails, Slack messages. The notification sounds overlapped into a continuous chirp.
 
 
----
 
 *Is this real?* from Sarah at MIT's AI lab.
 
@@ -51,7 +49,6 @@ Delete. Too clever by half, the kind of lede that won awards and obscured meanin
 On screen, Reeves had moved to questions from pre-selected journalists. The first asked about timeline for public release. "We anticipate a staged rollout beginning in Q3," Reeves said, which meant three months, which meant the world was about to change in three months and Jerome was sitting in Baltimore trying to find words that would make people understand.
 
 
----
 
 Denise appeared in the doorway. She held a fresh cup of coffee—he could see the steam rising—and her face wore the expression she always had when she found him like this: concerned, patient, slightly resigned. She was still in her teaching clothes, a blue cardigan over a white blouse, though she had kicked off her shoes.
 
@@ -78,7 +75,6 @@ She put her hand on his shoulder, a brief pressure, then withdrew. She knew when
 "You'll try," she repeated, with the slight emphasis that meant she'd heard that promise before. Then she was gone, and Jerome was alone with the livestream and the buzzing phone and the cursor blinking in an empty document.
 
 
----
 
 The livestream ended at 5:15 PM. Within minutes, the secondary coverage began flooding in. Tech journalists racing to be first, their takes forming a gradient from breathless excitement to measured concern, each one jockeying for the attention economy's favor. CNBC cut to analysts debating the stock implications, their faces arranged in expressions of professional optimism. Twitter—he still couldn't bring himself to call it by its new name—became a chaos of hot takes and technical arguments and people who had never thought about AI suddenly having opinions about it, certainty blooming like algae in stagnant water.
 
@@ -91,7 +87,6 @@ While he waited, he opened the technical documentation Prometheus had released a
 The numbers meant nothing by themselves. They were just numbers, abstractions that would become human stories only when they arrived in human lives. But somewhere in those numbers was a story about what the world was about to become, and Jerome couldn't see it clearly enough to write it.
 
 
----
 
 His phone buzzed with a notification he didn't recognize at first: a job alert from LinkedIn. He hadn't set up job alerts; the algorithm must have decided he needed them. The notification was for a "Senior AI Content Strategist" position at a company he'd never heard of, and the absurdity of the timing—of the algorithm serving him job suggestions while he was trying to understand a technology that might make all jobs irrelevant—struck him as either deeply ironic or deeply troubling.
 
@@ -106,7 +101,6 @@ He had written about automation's effects on labor for years, careful stories wi
 This felt like the moment before an earthquake. The ground not yet moving, but something deep below shifting, and everyone who knew what to listen for holding their breath.
 
 
----
 
 DeShawn appeared in the doorway, still in the MIT hoodie he had come home wearing a week ago, the crimson fabric faded from washing but worn with the pride of a credential earned. At nineteen, he had Jerome's height and Denise's watchfulness, the combination giving him a presence that still surprised Jerome sometimes, the way children kept surprising their parents by becoming people, by refusing to remain the small beings you had once held.
 
@@ -131,13 +125,12 @@ The interesting stuff. Jerome heard in his son's voice the excitement of someone
 Jerome didn't know how to tell him that the machine might be about to change shape.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Dinner was Denise's jollof rice, a recipe she had learned from her Ghanaian college roommate and perfected over decades until it had become the dish she made when she wanted the family to sit down together and actually talk. The tomato-red rice filled the kitchen with its smell—peppers and onions and something deeper, something that said home in a language older than words—and Jerome forced himself to set his phone face-down on the counter and join his wife and son at the table.
 
@@ -162,7 +155,6 @@ They ate in a silence that lasted perhaps two minutes before DeShawn broke it.
 DeShawn paused, a forkful of rice halfway to his mouth. The kitchen light caught his face, and for a moment Jerome saw the child he had been, the one who used to ask why the sky was blue and whether fish had feelings. "That's the interesting question, isn't it?"
 
 
----
 
 Jerome watched his son's face as he spoke, the animation in it, the certainty. DeShawn saw ATLAS-7 the way he had once seen the first iPhone, the first social media platforms, the first wave of apps that had restructured adolescent social life: as a wave to ride, not a current to fear. He had grown up swimming in these waters. He didn't remember a world before them.
 
@@ -185,7 +177,6 @@ Jerome took a breath. The rice on his plate had stopped steaming. He had not wan
 "Like who benefits. Like who gets hurt."
 
 
----
 
 DeShawn set his fork down. "You think I haven't thought about that? You think we don't talk about ethics in our classes? There's a whole field of AI safety. People are working on this. The Prometheus safety protocols—"
 
@@ -204,7 +195,6 @@ DeShawn picked up his fork again, poked at his rice without eating. "You always 
 Jerome felt something tighten in his chest, a familiar constriction that came whenever the gap between his knowledge and his family's experience became visible. The words "you're fine" bounced around in his head, colliding with everything he knew about the gig workers he had interviewed, the warehouse employees, the drivers being surveilled and optimized out of existence. Fine for whom? Fine by what measure? And how long would fine last, when the curve kept climbing?
 
 
----
 
 "Denise," Jerome said, looking for an ally, or at least a mediator.
 
@@ -231,7 +221,6 @@ The name landed in the room like something dropped.
 Jerome felt Denise's hand on his knee under the table, a gentle pressure that said: don't. Not now. Not like this.
 
 
----
 
 "You applied to Prometheus," he said, trying to keep his voice neutral. "The company I've been investigating for two years."
 
@@ -254,7 +243,6 @@ DeShawn stood. "For the record, I know the industry isn't perfect. I'm not naive
 Jerome nodded, not because he agreed, but because he didn't trust himself to speak. His son believed he could enter the machine and emerge unchanged. Jerome had spent his career documenting what the machine did to people who believed that.
 
 
----
 
 After DeShawn left to help Denise with the dishes, Jerome sat alone at the table for a long moment. The evening light was fading through the windows, turning the familiar room into something shadowed and strange, the furniture becoming silhouettes, the walls receding into uncertainty. He could hear water running in the kitchen, the clatter of plates, the murmur of conversation between his wife and son that he couldn't quite make out—their voices harmonizing in a way that excluded him, two people who understood each other in registers he couldn't access.
 
@@ -275,7 +263,6 @@ He stood, stretched muscles that had been tense for hours, and walked to the kit
 Denise didn't turn around. "I know."
 
 
----
 
 He went back to his office and closed the door. The laptop screen had gone dark; he touched the trackpad and it woke to the document he had been trying to write, the cursor still blinking at the end of a sentence he had started and abandoned.
 
@@ -292,13 +279,12 @@ Outside his window, the evening had become night. Somewhere in the house, Denise
 Jerome kept writing. It was the only thing he knew how to do.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 At 11:47 PM, Jerome finished his reaction piece and sent it to his editor. At 11:52, she acknowledged receipt. At 11:58, she called to suggest revisions, and they argued for twenty minutes about whether his framing was too pessimistic, until they compromised on language that was, Jerome thought, still true but no longer sharp enough to cut.
 
@@ -311,7 +297,6 @@ He read until the words blurred. The technical concepts were at the edge of his 
 Somewhere around 1 AM, he made himself another pot of coffee. The machine hummed in the dark kitchen while he stood waiting, listening to the silence of the sleeping house, the refrigerator's low drone, the settling of old wood, the distant hush of traffic that never quite stopped even in the small hours.
 
 
----
 
 His phone buzzed with a text from a number he didn't recognize. The message was brief: *This is real. Worse than they're saying. Be careful.*
 
@@ -334,7 +319,6 @@ But Jerome couldn't sleep. The coffee was churning in his stomach, acid and caff
 He was supposed to be one of the people who told them. That was his job. But tonight, he felt as lost as anyone else.
 
 
----
 
 At 2:15 AM, he texted Dr. Vasquez: *I read everything. I have questions.*
 
@@ -363,7 +347,6 @@ A pause on the line. Jerome could hear her breathing, the faint sound of whateve
 Jerome wrote that down: *Ahead of its own guardrails*. It sounded like a headline, or an epitaph.
 
 
----
 
 After Dr. Vasquez hung up, Jerome tried to reach two other sources. One was a former Prometheus engineer who had left the company three years ago, citing "philosophical differences" that Jerome had always suspected meant more than he would say. The message went unanswered. The other was a tech journalist he trusted, someone who covered the AI beat from the inside and might have heard things through channels he didn't have access to.
 
@@ -380,7 +363,6 @@ The journalist responded at 2:45: *Yeah, I've been hearing stuff too. Can't veri
 Jerome stared at the words on his screen, the cursor blinking like a heartbeat, measuring time he didn't have. It was the question that had been circling in his mind all night, the question he hadn't been able to articulate: What was journalism for, in the face of something like this? He had spent his career believing that truth mattered, that exposing wrongdoing could change outcomes, that the public, properly informed, would make better choices. But the public was not a unified thing, and the choices were not theirs to make. The decisions being made in San Francisco boardrooms would shape the world regardless of what anyone wrote about them. The machine would build itself whether or not anyone was watching.
 
 
----
 
 By 3:30, the coffee had turned sour in his stomach, curdling into something that felt like dread, and his eyes burned with the particular fatigue of too much screen time. He stood, stretched vertebrae that cracked like accusations, walked to the window. The street outside was empty, the houses of his neighbors dark. Baltimore slept while the world rearranged itself.
 
@@ -395,7 +377,6 @@ And yet even as he thought this, he could hear his son's voice in his head: *You
 He wanted to believe that. He just couldn't find evidence for it.
 
 
----
 
 At 4:12 AM, he began outlining the story he actually wanted to write. Not the reaction piece he had filed, with its careful balance and its editor-approved hedging. A real investigation. Sources inside Prometheus. Documents they didn't want public. The gap between what they were saying and what they knew. The economic projections that would make clear how many lives were about to change.
 
@@ -412,7 +393,6 @@ On impulse, he drafted a message: *Dr. Ramaswamy—This is Jerome Washington. We
 He didn't send it. Not yet. But he saved it in drafts, a seed planted for later.
 
 
----
 
 Dawn came slowly, the gray light of March seeping through the blinds like something reluctant to arrive, like the day itself knew what it was bringing and hesitated at the threshold. Jerome watched it from his desk chair, his body aching from the night's long stillness, his mind still racing even as exhaustion pulled at its edges.
 
@@ -427,7 +407,6 @@ He would try to connect it for them. That was all he could do. That was what jou
 Jerome saved his notes, closed his laptop, and went to watch the sunrise from the kitchen window, the last quiet moment before the world started moving again, before the phones woke up and the screens demanded attention and the curve continued its climb toward whatever waited at the top.
 
 
----
 
 
 

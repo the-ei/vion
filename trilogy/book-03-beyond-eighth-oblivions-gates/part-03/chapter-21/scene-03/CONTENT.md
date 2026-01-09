@@ -11,7 +11,6 @@ The applause was warm, welcoming, the sound of people who knew at least the outl
 The lights were bright. The faces were shadows. Somewhere out there was Amina with her phone ready to record. Somewhere was Mr. Tadesse, the man who had known his father as a colleague. Somewhere were people from the organizing community, from the gig work years, strangers who had come for the opening and knew nothing of what he was about to give them.
 
 
----
 
 He positioned himself at the microphone, adjusted the strap, took a breath that shuddered in his chest.
 
@@ -36,7 +35,6 @@ His voice was not beautiful. He had never claimed it was. But it carried the wei
 The audience was silent. Not the restless silence of boredom but the held-breath silence of attention, of people receiving something that asked to be received fully.
 
 
----
 
 The song ended. The applause came, stronger than politeness, genuine in a way that made Yusuf's eyes sting.
 
@@ -61,7 +59,6 @@ The second song ended. More applause. A few people standing now, the response bu
 The third song was quieter, a meditation on inheritance, on what passes from parent to child, on the question of whether patterns can be broken or only transformed.
 
 
----
 
 *My father wanted to build things*
 *structures that would last*
@@ -87,7 +84,6 @@ He looked out at the audience, at the faces he could not quite distinguish in th
 His hands found a different position on the guitar, a chord progression he had worked out in the sleepless nights of the past week. The melody was simpler than the others, almost hymn-like, designed to carry words that he had struggled to find.
 
 
----
 
 *I came back to the place*
 *where you stopped being alive*
@@ -119,7 +115,6 @@ The final chord hung in the air, sustained by the room's acoustics, fading slowl
 Yusuf stood with the guitar against his body, trembling.
 
 
----
 
 He had done it. After fifteen years of holding the songs inside, of telling himself the time wasn't right, of constructing elaborate justifications for silence, he had stood on the stage where his father died and he had sung.
 
@@ -144,7 +139,6 @@ Mr. Tadesse found him there.
 "Your father would have been proud," the old man said. "I know I keep saying that. But it's true. You did what he couldn't do. You gave voice to what he kept silent."
 
 
----
 
 "Thank you for being here," Yusuf said. "For telling me about him. The version I didn't know."
 
@@ -167,5 +161,4 @@ He had carried his father's death for fifteen years. He had made songs of it and
 That was transmission. That was inheritance transformed. It was not the same as healing, but it was a start.
 
 
----
 

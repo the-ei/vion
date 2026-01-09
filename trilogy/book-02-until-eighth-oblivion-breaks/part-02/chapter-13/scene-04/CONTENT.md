@@ -19,7 +19,6 @@ It was the question Ruth had been dreading. She had opinions, but opinions from 
 "No. It's an acknowledgment that I can't give you an answer. This is your life, David. Your choices. I can advise, but I can't decide."
 
 
----
 
 David was quiet for a long moment. When he spoke, his voice was small, younger than his years.
 
@@ -44,7 +43,6 @@ He wiped his eyes with the back of his hand, the gesture of a child despite the 
 They sat together in the morning light, mother and son, neither able to give the other what they most needed, both trying anyway.
 
 
----
 
 Ruth's train was at eleven. David insisted on walking her to Penn Station, despite her protests that he should stay and rest. "I've been resting for weeks," he said. "It's not helping."
 
@@ -61,5 +59,4 @@ Ruth thought about her own experience of not-knowing. The hearing where she had 
 "No. But it's true. And sometimes truth is all we have."
 
 
----
 

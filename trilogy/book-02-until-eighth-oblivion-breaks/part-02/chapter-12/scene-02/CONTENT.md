@@ -19,7 +19,6 @@ Sandra was quiet for a long moment. "I've heard rumors," she said finally. "Noth
 "NDAs reinforced by legal pressure, mostly. A few people have tried to be whistleblowers and found themselves facing lawsuits that would take years and millions to fight."
 
 
----
 
 "So the documents could be real. Or they could be sophisticated fabrications designed to look real."
 
@@ -42,7 +41,6 @@ Jerome couldn't deny it. "I sound like someone who thinks they might be. The ano
 Sandra sighed. "Yes. Someone does. Just make sure you're the right someone, and that you're trying in the right way."
 
 
----
 
 The second call went to a technical expert - someone who could analyze the documents themselves rather than their content. Marcus Delgado was a digital forensics specialist Jerome had worked with before, a former FBI analyst who now consulted for major media organizations doing exactly this kind of authentication.
 
@@ -59,7 +57,6 @@ The findings were inconclusive. No obvious signs of fabrication - metadata was c
 "My assessment," Delgado wrote, "is that these are either authentic documents or extremely sophisticated fabrications. I cannot determine which."
 
 
----
 
 The third verification attempt was personal. Jerome had cultivated sources over his career - people inside institutions who would confirm or deny information on background, never for attribution, always through channels that protected their identities.
 
@@ -84,5 +81,4 @@ The source slid the paper back. "It tells you that I recognize the format. That'
 But they were. In the careful denial, in the slight tremor of their voice, in the way they left the coffee shop without finishing their drink. They were confirming that what Jerome had found was real.
 
 
----
 

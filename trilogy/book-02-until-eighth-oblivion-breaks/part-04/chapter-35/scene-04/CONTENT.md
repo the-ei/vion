@@ -15,7 +15,6 @@ Jessie approached more slowly, her face showing the exhaustion of the drive, of 
 They stood in the driveway, the three of them, holding each other while the late afternoon sun warmed their backs.
 
 
----
 
 Inside, the house looked different. Delphine saw it through Jessie's eyes: the equipment she had set up for broadcasting, the notes covering every surface, the remnants of two weeks of working alone while the world collapsed outside.
 
@@ -38,7 +37,6 @@ Jessie sat down beside Theo, one hand resting on his sleeping form. "That's a bi
 "It's the only project that matters."
 
 
----
 
 Jessie was quiet for a moment, processing. Then she said: "What happened to the work you were doing before? The podcast, the analysis pieces. Lawrence Kim and the corporate access."
 
@@ -59,7 +57,6 @@ Theo stirred in his sleep, murmuring something inaudible. Jessie stroked his hai
 Delphine smiled - the first real smile in sixteen days. "I'm going to do it anyway."
 
 
----
 
 Evening came, and the three of them ate dinner together for the first time in two weeks. The food was simple - whatever Delphine had managed to preserve or acquire during the crisis - but it felt like a feast. Theo talked nonstop between bites, telling stories about Oregon, about Jessie's parents, about the garden where he had played while the world collapsed.
 
@@ -80,5 +77,4 @@ But Delphine carried something new inside her now: a purpose that had not existe
 The crisis was over. Her work was just beginning.
 
 
----
 

@@ -19,7 +19,6 @@ The question hung in the air, simple and unanswerable. Delphine sat down next to
 Theo considered this, his face serious in the way only a four-year-old's face can be serious, grappling with concepts that adults had learned to accept without really understanding. The iPad sat in his lap, a black mirror reflecting his disappointed face, a device that had always worked and now didn't, that had always been a portal to games and videos and connection and was now just a piece of glass and plastic.
 
 
----
 
 Jessie came in from the kitchen, holding two glasses of wine, her face showing the same exhaustion that Delphine felt. She handed one glass to Delphine and sat down on the arm of the couch, her hand finding the back of Delphine's neck, the automatic gesture of intimacy that twelve years of marriage had made instinctive.
 
@@ -42,7 +41,6 @@ Jessie was quiet for a moment, her fingers still on Delphine's neck, her face tu
 "You've been telling stories for fifteen years. How many of them were true?"
 
 
----
 
 The question landed where it was meant to land, in the place where Delphine's confidence had been eroding for years. Jessie knew her better than anyone. Jessie had watched her rise through the industry, had celebrated her successes, had listened to her doubts in the quiet hours after midnight when the craft that made her successful seemed less and less like something to be proud of.
 
@@ -65,7 +63,6 @@ Theo had found a book somewhere, a physical book with pages and pictures, and wa
 "When it's over? Delphine, we don't know when it will be over. We don't know if it will be over. You're asking me to take our son to my parents' farm and just wait while you play hero in a collapsing city."
 
 
----
 
 "I'm not playing hero. I'm trying to do something that matters."
 
@@ -90,5 +87,4 @@ Jessie looked at Delphine, the question still in her eyes, the answer not yet ag
 "Yes, baby. We can take the dinosaur book."
 
 
----
 

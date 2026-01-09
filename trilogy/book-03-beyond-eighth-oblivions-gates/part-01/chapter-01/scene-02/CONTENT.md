@@ -11,7 +11,6 @@ The roses were struggling now. The water restrictions made it harder to keep any
 The metaphor was too obvious. Delphine looked away.
 
 
----
 
 At nine-thirty, she positioned herself in front of her display and accepted Miranda's call. The image that appeared was familiar: a woman in her mid-forties, hair graying elegantly, wearing the kind of simple jewelry that signaled money and taste without ostentation. Behind her, the neutral backdrop of a professional office that could have been anywhere, was probably San Francisco, was designed to convey nothing.
 
@@ -34,7 +33,6 @@ Miranda nodded, her expression shifting in a way Delphine had learned to recogni
 Delphine felt the familiar tightening in her chest, the anger she'd learned to manage through years of working within systems that preferred their problems aestheticized and their solutions vague. "Miranda, you can't tell this story without talking about why these people lost their water. It's not a natural disaster. It's a policy choice."
 
 
----
 
 "The board understands that. But there are sensitivities. Several of our major donors have interests in the agricultural sector. The water rights conversation is - complicated."
 
@@ -51,7 +49,6 @@ Delphine thought about the footage she'd reviewed yesterday. A woman named Maria
 The call continued for another fifteen minutes, circling the same territory, reaching the same non-conclusions. When Miranda's image disappeared, Delphine sat in the silence of her office and wondered if this was better or worse than the corporate work she'd left behind. At least then the compromises had been obvious.
 
 
----
 
 She pulled up the footage.
 
@@ -72,7 +69,6 @@ She thought about Theo's question. Why do your movies make people sad?
 Because sadness was the appropriate response to what she was documenting. Because anything else would be a lie.
 
 
----
 
 She kept reviewing, making notes, flagging sections that would need additional material or alternative framing. The work absorbed her in the way it always did, pulling her attention down into the granular decisions of sequence and emphasis. Where to cut. What to linger on. How to let silence do the work that narration couldn't.
 
@@ -93,7 +89,6 @@ Jessie appeared on screen, looking tired in the way that production schedules ma
 "That's what gets episodes approved." Jessie's smile was wry, familiar, the expression Delphine had fallen in love with twelve years ago.
 
 
----
 
 They talked for ten minutes, the logistics of partnership: when Jessie might be home, how Theo was doing, whether the plumber had followed up about the garden irrigation. The conversation was loving and efficient, the vocabulary of two people who had learned to fit their relationship into the spaces between their work.
 
@@ -124,7 +119,6 @@ Jessie was quiet for a moment, her face thoughtful in the way it got when she wa
 The screen went dark, and Delphine sat with Jessie's absence, and Theo's absence, and the footage of Maria waiting patiently on her timeline.
 
 
----
 
 The afternoon stretched ahead of her, filled with work that would be important or wouldn't, that would change something or wouldn't, that would justify her existence or leave her at the end of the day still wondering what any of it was for.
 
@@ -141,5 +135,4 @@ The work was not enough. It was also everything she had.
 She saved her files and closed her laptop and went to the kitchen to prepare something for dinner, waiting for the notification that Theo's vehicle was approaching, waiting for her son to return from the world she was trying, and failing, to document clearly enough to change.
 
 
----
 

@@ -1,4 +1,4 @@
-The Dirksen Senate Office Building had been constructed in 1958, designed to project the permanence and authority of American government. Ruth had testified here many times; she knew its marble corridors, its wood-paneled hearing rooms, its particular smell of old power and older ambition. This morning, walking to Room 226, she felt the building's weight pressing down on her—not majesty, but obsolescence. A temple to a form of governance that might already be vestigial.
+The Dirksen Senate Office Building had been constructed in 1958, designed to project the permanence and authority of American government, designed before anyone had dreamed of the technologies now reshaping the world. Ruth had testified here many times; she knew its marble corridors, its wood-paneled hearing rooms, its particular smell of old power and older ambition, the way the air felt different inside, as if filtered through decades of speeches and deliberations. This morning, walking to Room 226, she felt the building's weight pressing down on her—not majesty, but obsolescence. A temple to a form of governance that might already be vestigial.
 
 The hearing room was smaller than the famous ones, appropriate for a subcommittee, but it still had the staging of democratic theater: the elevated dais where senators would sit, the witness table below where experts would speak upward, the gallery where press and public would observe. Cameras lined the back wall, their red lights indicating that this performance would be broadcast and recorded for history, or at least for C-SPAN.
 
@@ -9,7 +9,6 @@ The senators filed in over the next fifteen minutes, each entrance a small perfo
 Hawkins called the hearing to order at 10:04 AM.
 
 
----
 
 "We are here today," Hawkins began, "to examine the regulatory implications of recent advances in artificial intelligence, particularly the ATLAS-7 system announced last month by Prometheus Systems. Our witness is the Honorable Ruth Abramson, retired federal judge and professor emerita at Georgetown Law, one of the nation's foremost experts on technology regulation. Judge Abramson, thank you for being here."
 
@@ -27,10 +26,9 @@ Morrison was already looking at his phone. Two other senators were conferring wi
 
 "I want to be direct with this committee," Ruth continued. "I do not believe that existing tools are adequate to this moment. And I am not confident that any tools we might develop in the near term will be adequate either."
 
-That got their attention. The senators who had been distracted looked up. Hawkins's expression sharpened.
+That got their attention. The senators who had been distracted looked up. Hawkins's expression sharpened. Even Morrison put down his phone, curious perhaps about what else this elder statesperson might say that wasn't supposed to be said.
 
 
----
 
 "Judge Abramson," Hawkins said, "that's a rather stark assessment."
 
@@ -55,20 +53,18 @@ Morrison's face hardened, but he said nothing further. Hawkins nodded for Ruth t
 "Honestly, Senator, I'm not sure it could. But the alternative is no oversight at all."
 
 
----
 
 The questions continued for another thirty minutes. Hawkins was engaged and thoughtful; Morrison was hostile and performative; the other senators ranged between. Ruth answered each question carefully, providing the nuance and expertise they had summoned her to provide, knowing that none of it would translate into action.
 
 She spoke about international coordination, and they asked about American competitiveness. She spoke about economic displacement, and they asked about job creation. She spoke about the concentration of power in a handful of private companies, and they asked about the importance of innovation. Every answer she gave was received, acknowledged, and gently redirected toward the conclusions they had already reached.
 
-In the gallery behind the cameras, she spotted the lobbyists. Three of them that she recognized—former government officials now working for tech companies, their presence a reminder of how the system actually functioned. They would meet with these same senators after the hearing, in private rooms, offering different expertise, making different arguments. And their arguments would carry weight that hers could not, because they came with donations and dinner invitations and the promise of future employment.
+In the gallery behind the cameras, she spotted the lobbyists. Three of them that she recognized—former government officials now working for tech companies, their suits expensive, their faces patient, their presence a reminder of how the system actually functioned. They would meet with these same senators after the hearing, in private rooms with no cameras, offering different expertise, making different arguments. And their arguments would carry weight that hers could not, because they came with donations and dinner invitations and the promise of future employment, the revolving door that made all testimony provisional.
 
 Ruth felt the familiar exhaustion settling into her bones. This was not new. She had been doing this for decades, performing the role of expert witness, providing the appearance of democratic accountability. And for decades, she had believed it mattered, that even if the immediate impact was limited, the accumulation of testimony and expertise would eventually shape policy.
 
 Now she wasn't sure. The gap between what she knew and what the system could act on had grown too wide. She was shouting across a canyon, and no one was building bridges.
 
 
----
 
 Near the end of the hearing, something unexpected happened. Senator Hawkins departed from her prepared questions and looked at Ruth with an expression that seemed, for a moment, genuinely curious rather than politically calculated.
 
@@ -82,7 +78,7 @@ The room quieted. Even Morrison looked up from his phone. The question was not s
 
 Ruth considered her answer for a long moment. The honest answer was too honest for this room. The diplomatic answer would be a lie. She chose something between.
 
-"I think, Senator, that we are in a moment unlike any I have seen in my career. The technology being developed is not just another tool to be managed; it may be a fundamental change in the relationship between human institutions and the systems we create. Our frameworks—legal, political, economic—were designed for a world in which humans were the most capable agents. That assumption may no longer hold."
+"I think, Senator, that we are in a moment unlike any I have seen in my career. And I have seen a great deal." She paused, letting that land. "The technology being developed is not just another tool to be managed; it may be a fundamental change in the relationship between human institutions and the systems we create. Our frameworks—legal, political, economic—were designed for a world in which humans were the most capable agents. That assumption may no longer hold."
 
 "That sounds rather apocalyptic."
 
@@ -93,9 +89,8 @@ Hawkins nodded slowly. "Thank you for your honesty."
 "It's all I have left, Senator."
 
 
----
 
-The hearing concluded at 12:47 PM. The senators thanked Ruth for her testimony; she thanked them for the opportunity. Cameras shut off, aides gathered materials, and the theater dissolved back into the ordinary business of government. Ruth collected her notes and walked out of the hearing room feeling hollowed, like something had been extracted from her that she would not get back.
+The hearing concluded at 12:47 PM. The senators thanked Ruth for her testimony; she thanked them for the opportunity. Cameras shut off, aides gathered materials, and the theater dissolved back into the ordinary business of government—the magic circle broken, the sacred space returned to secular use. Ruth collected her notes and walked out of the hearing room feeling hollowed, like something had been extracted from her that she would not get back.
 
 In the corridor, Hawkins caught up with her.
 
@@ -120,7 +115,6 @@ Ruth hesitated. She had been thinking about it, in the hours between meetings an
 "If you write something, send it to me. I'd like to read it."
 
 
----
 
 Ruth walked out of the Dirksen Building into the April afternoon. Washington was beautiful in spring, the cherry blossoms past their peak but still visible, the sky a clear blue that seemed to promise something. She stood on the steps for a moment, breathing air that tasted of pollen and traffic, letting the hearing recede behind her.
 
@@ -149,11 +143,10 @@ Ruth began walking. The Capitol dome rose behind her, the buildings of power rec
 Maybe it was time.
 
 
----
 
 She walked past the Supreme Court, the building where she had argued cases as a young attorney, where she had later served as a law clerk, where the highest interpretations of the Constitution were decided by nine people in robes. The building looked the same as it always had—marble and authority, designed to inspire awe and confidence. But the confidence it inspired felt different now, more fragile, like a picture of something that no longer existed.
 
-The technology moving through the world did not care about constitutional interpretation. It did not wait for legislative processes or judicial review. It moved at the speed of computation, of capital, of ambition unconstrained by anything the law could provide. And the law—her law, the law she had devoted her life to—could only watch it pass.
+The technology moving through the world did not care about constitutional interpretation. It did not wait for legislative processes or judicial review. It moved at the speed of computation, of capital, of ambition unconstrained by anything the law could provide. It moved like water, finding every crack in the dam. And the law—her law, the law she had devoted her life to—could only watch it pass.
 
 By the time she reached her hotel, Ruth had made a decision. She was going to write something. Not testimony, not a legal brief, not the careful hedged language of an expert witness. Something honest. Something that said what she actually believed, rather than what the system expected her to believe.
 
@@ -164,5 +157,4 @@ Susan would have approved. Susan had always said that Ruth was too careful, too 
 It had been three years since Susan died. Maybe it was time to start saying the thing.
 
 
----
 

@@ -11,7 +11,6 @@ She parked on the street and sat for a moment, her hands on the steering wheel, 
 This was the threshold. Not the door of the house, but this moment, this choice to get out of the car and walk toward whatever waited for her on the other side.
 
 
----
 
 She got out of the car.
 
@@ -26,7 +25,6 @@ Ananya thought about her own apartment in San Francisco. The awards turned to fa
 She rang the doorbell.
 
 
----
 
 Delphine opened the door.
 
@@ -51,7 +49,6 @@ She's nervous about me?
 We all are, a little. This is a big deal, what we're doing.
 
 
----
 
 Jessie appeared in the doorway, wiping her hands on a towel. She was younger than Ananya had expected, or maybe just looked younger, with the kind of easy warmth that some people carried without effort.
 
@@ -72,7 +69,6 @@ This is where it happens, Delphine said. The documentary, the research, all of i
 Ananya looked around, taking in the evidence of years of investigation into the story she had helped to create.
 
 
----
 
 A face appeared in the doorway, young and curious. Theo, thirteen years old, watching the visitor with the frank assessment that teenagers brought to any disruption of their routine.
 
@@ -95,13 +91,12 @@ Show me what you have, she said. Show me what we're working with.
 Delphine nodded and moved toward the screens, and the afternoon began in earnest.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The screens came to life with footage from another era.
 
@@ -124,7 +119,6 @@ The question hung in the air between them, weighted with all the conversations t
 I believed some of it, Ananya said slowly. I believed that the process existed, that reviews were being conducted. What I didn't understand, or didn't let myself understand, was how little the process actually changed.
 
 
----
 
 Delphine advanced through the footage, showing other clips from the Prometheus years. Internal meetings where Ananya's face appeared in the background, present but not central. Press conferences where executives spoke and Ananya stood to the side, available to answer questions about ethics that were rarely asked.
 
@@ -141,7 +135,6 @@ Delphine clicked through the files, showing the organization.
 I've been building this archive for six years. Since before I knew I was building it for anything. I just knew that someone needed to preserve what was happening, because the companies would never preserve it themselves.
 
 
----
 
 Ananya sat down in the chair Delphine offered, her eyes fixed on the screens, feeling the weight of history pressing in around her.
 
@@ -160,7 +153,6 @@ Because I was lying?
 Because you weren't lying, but you also weren't telling the whole truth. You were in an impossible position, and the footage shows exactly how impossible it was.
 
 
----
 
 They watched more footage. Hours of it, or what felt like hours. The past appearing on screens in fragments, a story that Ananya had lived now presented back to her as evidence, as documentation, as the raw material of history.
 
@@ -175,7 +167,6 @@ It's complicated.
 It's very complicated. That's what I'm trying to capture. The narratives we've told about the Eighth Oblivion are too simple. The evil corporation, the corrupt executives, the innocent public. But that's not what the record shows. The record shows a system, and systems don't have villains the way stories need villains.
 
 
----
 
 Ananya looked at the screens, now dark, the parade of images and documents temporarily silenced.
 
@@ -196,7 +187,6 @@ And you think that will help?
 I think it's necessary. I think without the inside perspective, the documentary becomes just another piece about tech malfeasance, and people will watch it and nod along and learn nothing.
 
 
----
 
 The light in the room had shifted while they watched the footage, the afternoon moving toward evening. Through the window, Ananya could see the Los Angeles hills, the houses scattered across the slopes, the lives being lived behind walls she would never see through.
 
@@ -217,13 +207,12 @@ I know, Delphine said. That's why this has to be an honest accounting, not a hit
 Ananya turned back from the window. Then let's talk about what that actually means.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 They moved to the living room as evening fell. Jessie had made dinner and tactfully withdrawn with Theo to another part of the house, giving them space for the conversation that needed to happen.
 
@@ -242,7 +231,6 @@ Ananya nodded. She had watched Delphine's work over the years, had recognized he
 And I provided ethical cover, Ananya said. I was the person they could point to and say: see, we take this seriously, we have an ethics officer, we think about these things. My presence allowed them to keep doing what they were doing while claiming they were being responsible.
 
 
----
 
 They were different kinds of complicity, Delphine said. You were inside the machine. I was outside, translating it for public consumption. But we both helped it work.
 
@@ -259,7 +247,6 @@ Ananya recognized the self-examination, the painful clarity that came from looki
 I told myself I was making a difference from inside, she said. That my presence was slowing things down, that without me it would have been worse. And maybe some of that was true. But mostly I think I was just making the machine run more smoothly.
 
 
----
 
 The light through the windows had faded to deep blue, the Los Angeles evening settling over the hills. Neither of them moved to turn on lamps, content to sit in the growing darkness, two women examining the wreckage of their professional lives.
 
@@ -276,7 +263,6 @@ Ananya nodded. She had her own moments like that, accumulated over years, the we
 For me it was slower. A thousand small compromises that I told myself were strategic. And then one morning I woke up and realized I didn't recognize myself anymore.
 
 
----
 
 What they had made, together. The question that neither of them could fully answer.
 
@@ -295,7 +281,6 @@ I don't think so. I think we slowed it down a little. I think we created a recor
 Maybe. Ananya's voice was uncertain. Or maybe we're just telling ourselves stories again.
 
 
----
 
 The honesty between them felt like relief. After years of careful positioning, of professional distance, of conversations that skated over the surface, this directness was almost intoxicating.
 
@@ -322,7 +307,6 @@ Ananya considered the question, let it settle into her.
 Partly. Maybe mostly. I came because you asked, and because the documentary matters. But underneath that, I think I came because I need to say something true before I can say it to her.
 
 
----
 
 Delphine reached over and touched Ananya's hand, a brief contact that carried the weight of everything they had shared.
 
@@ -345,13 +329,12 @@ Maybe it's not too late, she said. For me and Priya.
 It's not, Delphine said. It's never too late. It's just harder, the longer you wait.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Someone turned on a lamp. The sudden light made them both blink, and Ananya realized how long they had been sitting in the dark, how far the conversation had traveled.
 
@@ -372,7 +355,6 @@ You want me to explain the why from inside the system.
 I want you to help people understand that it wasn't evil. That's the hardest part to convey. If it was just evil people doing evil things, we could prosecute them and be done. But it wasn't that. It was something more complicated.
 
 
----
 
 Ananya took the tablet, scrolling through the outline herself. The structure was clear, the questions precise. This was not the work of a few months; this was the culmination of a career's worth of thinking about how to tell stories that mattered.
 
@@ -391,7 +373,6 @@ What protections can you offer? What say do I have in how I'm portrayed?
 You can review the sections that include you before release. You can request changes, and I'll make any that are reasonable. But I won't let you soften the critique just to protect yourself. That's not what this is for.
 
 
----
 
 Fair enough, Ananya said.
 
@@ -410,7 +391,6 @@ When do you want to start?
 Whenever you're ready. We can schedule the first interview for tomorrow, or you can take time to prepare, or you can go back to San Francisco and think about it and let me know.
 
 
----
 
 Tomorrow, Ananya said, surprising herself with the certainty in her voice. Let's start tomorrow. Before I lose my nerve.
 
@@ -433,13 +413,12 @@ Tomorrow she would begin the interviews. Tomorrow she would start saying things 
 But tonight, she would eat pasta and drink wine and exist in a space where she was not a title or a controversy but just a person, tired and uncertain and beginning to glimpse what honesty might make possible.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The night had deepened by the time Ananya stood in the entryway, preparing to leave for the guest room.
 
@@ -466,7 +445,6 @@ But you're going to try.
 Yes. I'm going to try.
 
 
----
 
 The threshold was here, Ananya realized. Not the documentary, not the public confession, but this: the commitment to speak to her daughter before speaking to anyone else.
 
@@ -487,7 +465,6 @@ Ananya smiled slightly. You sound like a therapist.
 Occupational hazard. Years of interviewing people about their difficult decisions.
 
 
----
 
 They stood in the hallway for a moment longer, two women who had become allies through their shared recognition of complicity, who had found in each other a permission to be honest that neither could have found alone.
 
@@ -508,7 +485,6 @@ The house was quiet. The Los Angeles hills were dark outside the window. Somewhe
 The threshold was crossed. Not fully, not yet, but crossed enough that Ananya could feel the change in herself, the weight shifting from fear toward something else.
 
 
----
 
 She went into the guest room and closed the door behind her.
 
@@ -537,7 +513,6 @@ But she had committed. She had said yes.
 And somewhere, in the silence between mother and daughter, something had begun to shift.
 
 
----
 
 
 

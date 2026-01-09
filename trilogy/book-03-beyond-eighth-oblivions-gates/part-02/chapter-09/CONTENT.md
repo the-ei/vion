@@ -13,7 +13,6 @@ She nodded.
 The door closed. She stood in her entryway holding the envelope, which was heavier than it should have been, perhaps fifty pages. Her name typed on the front. A return address in Oakland, a law firm she didn't recognize.
 
 
----
 
 She carried it to her desk, the small corner of the living room she had converted to an office when she moved here. The desk faced the window. On clear days she could see the water. Today she saw only the envelope, which she opened with the letter knife Priya had given her two Christmases ago, a small bronze thing shaped like a feather.
 
@@ -30,7 +29,6 @@ She knew this language. She had written versions of it herself, in memos that we
 *Defendant Ramaswamy, in her capacity as Chief Ethics Officer, received and reviewed internal reports documenting the harmful effects of these engagement optimization systems on user mental health, including increased rates of anxiety, depression, and compulsive usage patterns...*
 
 
----
 
 Her hands were steady. That surprised her. She had imagined this moment, or something like it, in the months after leaving. The investigations that never quite materialized. The congressional hearings that gathered testimony but led nowhere. She had waited for accountability to find her and when it didn't, she had begun to believe it never would.
 
@@ -47,7 +45,6 @@ Approved. The word sat on the page like a stone. She had approved, yes. After th
 The complaint did not mention the modifications. Did not mention the hundreds of hours she spent negotiating for changes that reduced harm by margins the plaintiffs would call meaningless but she had believed mattered.
 
 
----
 
 She reached page thirty before she had to stop.
 
@@ -74,7 +71,6 @@ A pause. Movement. A door closing, the background noise disappearing. "Tell me."
 "The ones I approved anyway."
 
 
----
 
 Silence on the line. Not judgment, Ananya knew. Delphine processing, the way she did with any complex problem, holding it from multiple angles before responding.
 
@@ -103,7 +99,6 @@ The question Delphine would ask. Direct, unsparing, but asked with love rather t
 "I don't know anymore. I thought so at the time."
 
 
----
 
 "Ananya." Delphine's voice was gentle. "Whatever this lawsuit becomes, whatever you decide to do about it, you need to talk to a lawyer before you talk to anyone else. Including me. Especially including the press if they come calling."
 
@@ -128,7 +123,6 @@ Ananya opened her eyes. The fog had thickened, blurring the houses across the st
 "Then maybe you start by just sitting with not knowing."
 
 
----
 
 After Delphine hung up, promising to come by that evening, Ananya returned to the complaint. She made herself read every page. The legal arguments, the damage claims, the individual stories that would haunt her regardless of how the case resolved. By the time she finished, the afternoon light had shifted, the sun breaking through the fog at last, throwing long shadows across her desk.
 
@@ -143,13 +137,12 @@ The woman with the golden retriever walked past again, heading the other directi
 Ananya watched them disappear around the corner and tried to remember the last time she had felt that light.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 That evening, after Delphine left and the apartment grew quiet, Ananya opened her laptop and navigated to the folder she had not touched in eighteen months. Prometheus Archives. Twelve hundred files spanning eight years. Memos, meeting notes, presentation slides, emails she had forwarded to her personal account when she still believed documentation might matter.
 
@@ -164,7 +157,6 @@ Instead she searched for the date from the complaint. March 14, 2029. The memo t
 The conference room had been called Horizon. Glass walls, eleventh floor, a view of the South Bay that on clear days extended to San Jose. That morning the fog had pressed against the windows like something wanting in. Eight people around the table, most of them engineers, two product managers, herself. David Park presiding from the head of the table, his coffee cup bearing the Prometheus logo, a stylized flame that she had always found vaguely menacing in its implications.
 
 
----
 
 "Walk us through the findings," David had said. Not a question, not quite a command. The particular tone he used when he already knew what you were going to say and was calculating how to neutralize it.
 
@@ -181,7 +173,6 @@ A few nods around the table. David's expression unchanged.
 "All self-reported metrics are subjective. That doesn't make them meaningless."
 
 
----
 
 She clicked to the next document: *2029-03-14_Meeting_Notes_HORIZON.docx*. Her own notes, typed during the meeting, time-stamped. She had been meticulous about recording what was said, who said it, what decisions were made. A paper trail.
 
@@ -198,7 +189,6 @@ She remembered the silence that followed. The quality of it. Not shock, not oppo
 In the present, sitting in her dim apartment, Ananya scrolled to the next page of her notes. The conversation that followed, the one that should have told her everything she needed to know about what her role actually was.
 
 
----
 
 D. Park, 9:55 AM: "These are thoughtful recommendations. Really thoughtful. This is exactly the kind of rigorous analysis we brought you on to do."
 
@@ -217,7 +207,6 @@ The meeting ended. Everyone left. She stayed behind, gathering her materials, lo
 In the present, Ananya closed the meeting notes and opened the next file in her search: *2029-06-01_Q2_Ethics_Review_Follow-up.docx*. The quarterly review she had requested. It had taken her three weeks to get it scheduled. The recommendations had been formally acknowledged and informally ignored.
 
 
----
 
 She jumped ahead. 2031. The board presentation.
 
@@ -234,7 +223,6 @@ She clicked through slides showing survey data on consumer trust, regulatory dev
 The board had praised her presentation. Called it forward-thinking. Asked thoughtful questions about implementation timelines and budget implications. Then they had tabled the recommendations pending further analysis and moved on to the next agenda item, which was executive compensation.
 
 
----
 
 2033. The performance review that changed everything.
 
@@ -257,7 +245,6 @@ David leaned forward. Advocate. "Ananya, I think what Robert is saying is that y
 Integration. The word that meant dissolution. She had heard it before, in other contexts, always with the same outcome. Making ethics everyone's job was how you made it no one's job.
 
 
----
 
 In the present, Ananya searched for one more file. She knew it existed because she had written it at two in the morning, alone in her office, after a product launch she should not have approved.
 
@@ -280,7 +267,6 @@ The file opened. Her own words from three years ago:
 She closed the laptop. Outside her window, the city lights had come on, the fog reflecting them into a general glow. She had stayed another year after writing that. Another year of approvals, of compromises, of telling herself the stories that had brought her here, to this apartment, to this lawsuit, to this reckoning she could no longer avoid.
 
 
----
 
 The files contained everything the plaintiffs' lawyers would need to prove their case. Documented knowledge of harm. Continued approvals despite that knowledge. The internal struggle, the compromises, the gradual normalization of what should have been intolerable.
 
@@ -293,13 +279,12 @@ None of this resolved into a clean verdict. None of this told her what to do now
 She looked at the envelope on her desk, the complaint she would have to answer. Somewhere in these files was the evidence that would decide the legal question. The moral question, she was beginning to understand, would never be decided at all.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Three days later, Priya arrived with her overnight bag slung over one shoulder and her laptop clutched to her chest like armor. She had Ananya's eyes but Vikram's bone structure, the combination producing a face that could shift from open to guarded in the space of a single breath.
 
@@ -326,7 +311,6 @@ Priya's expression flickered. "Dad's values are pretty obvious. Make money, inve
 "Is it wrong?"
 
 
----
 
 Ananya did not answer. The marriage had ended in part because she could not reconcile her ethics work with Vikram's enthusiastic funding of companies whose business models depended on the same dynamics she was supposed to be constraining. They had learned not to discuss work. The silence had expanded until it filled the whole house.
 
@@ -349,7 +333,6 @@ Priya's fingers hovered over the keyboard. "Okay. Basic question first. Why did 
 "I studied philosophy in college," Ananya began. "I was interested in questions about what we owe each other, how to make decisions that affect other people. When I moved into tech, I saw that those questions were everywhere, but nobody was asking them."
 
 
----
 
 "So you became the person who asked them."
 
@@ -382,7 +365,6 @@ Priya looked up from her laptop. Her eyes, Ananya's own eyes staring back at her
 "Then what was the point?"
 
 
----
 
 Ananya moved to the couch. After a moment, Priya followed, leaving her laptop on the table. The dinner dishes sat abandoned, sauce congealing.
 
@@ -413,7 +395,6 @@ The question from the college essay prompt, transformed into something that cut.
 "I know. I don't have a better one."
 
 
----
 
 Priya stood, walked to the window, stood where Ananya had stood three days ago watching the fog roll in. Her back was straight, her shoulders held with a tension that seemed to come from somewhere deep in her chest.
 
@@ -448,7 +429,6 @@ Priya wiped her face with her sleeve. A gesture from childhood, the five-year-ol
 "I don't know yet. I have to talk to lawyers."
 
 
----
 
 Priya came back to the couch. Sat down, but farther away than before, at the far end where the arm curved. The distance between them measured in cushions, in years, in the accumulated weight of stories Ananya had told about her work that were now revealed as incomplete.
 
@@ -475,7 +455,6 @@ Priya was quiet for a long time. Outside, a siren wailed past, fading into the n
 "I understand."
 
 
----
 
 "But maybe that's what I should write about." Priya pulled her knees up to her chest. "Not about someone who has good values. About learning that the people you admire are more complicated than you thought. About how values don't protect you from failing."
 
@@ -502,7 +481,6 @@ Ananya thought of the files on her laptop, the archived evidence of a decade's w
 "Then we better get started."
 
 
----
 
 
 

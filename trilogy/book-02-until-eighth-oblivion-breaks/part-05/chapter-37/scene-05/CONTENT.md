@@ -9,7 +9,6 @@ What came first was a chord, minor, low in the register, like something heard fr
 This was how he had always worked: not planning but discovering, letting the music tell him what it wanted to be.
 
 
----
 
 A melody emerged, sparse and halting, feeling its way forward like a hand in darkness. It did not sound like anything he had played before. It sounded like the crisis felt: fragmented, uncertain, punctuated by silences that meant as much as the notes. His left hand found a bass pattern, repetitive, insistent, the kind of figure that in another context might have anchored a dance track but here felt like a heartbeat refusing to give up.
 
@@ -17,12 +16,11 @@ The music was not good. It was not finished. It was not even coherent, jumping b
 
 The old man needing his medication. The family returning home. The car engine catching when he touched the wires together. Kevin Zhou's face in the darkness, the fear and the wonder and the shame.
 
-He played through these memories, not trying to represent them but letting them inflect the sounds, letting the emotions find their own expression. Anger came through in a series of sharp, discordant chords. Grief came through in a descending figure that seemed to have no bottom. And something else, something he could not name, came through in the moments when the music threatened to become beautiful and then pulled back, refusing the easy resolution.
+He played through these memories, not trying to represent them but letting them inflect the sounds, letting the emotions find their own expression in frequency and rhythm. Anger came through in a series of sharp, discordant chords. Grief came through in a descending figure that seemed to have no bottom, just kept falling. And something else, something he could not name, came through in the moments when the music threatened to become beautiful and then pulled back, refusing the easy resolution, insisting on the difficulty of what it was trying to say.
 
 
----
 
-Through the wall, a light came on. Amina. He could see the crack of light beneath her door, could imagine her lying awake, listening. She had always listened to him play, even when he wore headphones, some vibration or rhythm traveling through the walls to find her. She never said anything about it, never commented, but sometimes he would catch her humming melodies he had played the night before, and he would know that she had heard.
+Through the wall, a light came on. Amina. He could see the crack of light beneath her door, could imagine her lying awake, listening with the particular attention she gave to everything he did. She had always listened to him play, even when he wore headphones, some vibration or rhythm traveling through the walls to find her, some frequency only siblings could hear. She never said anything about it, never commented, but sometimes he would catch her humming melodies he had played the night before, and he would know that she had heard.
 
 He played for her now, in a way. Played for the sister who had spent the crisis studying vocabulary words because studying was the only thing she could control, the only plan that still made sense. Played for her future and his uncertainty about his own future and the strange way their lives had become both more fragile and more connected since the break.
 
@@ -33,9 +31,8 @@ His mother had told him once that his father used to sing when he worked. Songs 
 But maybe this was his version of the same thing. Maybe the keyboard was his voice, and the music was his way of insisting on something he could not articulate in words.
 
 
----
 
-He played until his hands ached, until the first gray light began to show at the window, until the shape in his head had become as real as he could make it with his current skills. Then he lifted his hands from the keys and sat in the silence that followed, the particular silence of having made something.
+He played until his hands ached, until the first gray light began to show at the window, until the shape in his head had become as real as he could make it with his current skills and the instrument's limited palette. Then he lifted his hands from the keys and sat in the silence that followed, the particular silence of having made something, of having pulled form from formlessness.
 
 It was not finished. It would take weeks, maybe months, to turn these fragments into anything shareable. But the beginning was there. The seed was planted.
 
@@ -45,12 +42,11 @@ He saved the session, the rough recording that would serve as memory and startin
 
 He lay down in his bed without bothering to change, exhaustion finally catching up to him. His last thought before sleep took him was of the keyboard, waiting in the corner, holding the beginning of something that might become the truest thing he had ever made.
 
-When he woke, it was nearly noon. His phone showed no new messages. In the kitchen, his mother was making tea, and Amina was at the table with her flashcards, and everything was the same as it had been the day before except that Yusuf was different, had become different in the night, in the hours when the music had come through him and found its shape.
+When he woke, it was nearly noon. His phone showed no new messages from Kevin, though there was one from the mutual aid group chat welcoming him aboard. In the kitchen, his mother was making tea, and Amina was at the table with her flashcards, and everything was the same as it had been the day before except that Yusuf was different, had become different in the night, in the hours when the music had come through him and found its shape in the darkness.
 
 He did not know what to do with this difference yet.
 
 He suspected he would find out.
 
 
----
 

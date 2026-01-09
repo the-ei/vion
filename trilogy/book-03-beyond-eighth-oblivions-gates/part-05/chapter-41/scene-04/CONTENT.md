@@ -13,7 +13,6 @@ Delphine appeared at her elbow, having crossed the room in that invisible way sh
 "Ruth sent a message," Delphine said. "For the closing session tomorrow. They're going to read it aloud."
 
 
----
 
 "Ruth," Ananya repeated, and the name carried weight - the elder who had believed in institutions even as institutions failed, who had spent a career building frameworks that would outlast her, who was too frail now to travel but whose voice still mattered. "What does it say?"
 
@@ -40,7 +39,6 @@ Ananya considered the question. Somewhere in the room, Priya laughed at somethin
 "Enough for what? Enough to redeem a career built on extraction? No. Enough to be worth doing? Probably. We don't get to know if anything is enough until after we're gone."
 
 
----
 
 Jerome found them near the end of the reception, the room thinning as people drifted toward dinner plans and evening obligations. He looked tired in the way that journalists always looked tired at the end of conferences - too many conversations, too much information to process, the constant work of paying attention.
 
@@ -69,7 +67,6 @@ The three of them stood together, old friends who had become allies who had beco
 "I don't know anymore. I can't tell the difference."
 
 
----
 
 Someone at the front of the room was asking for attention. The conference organizer, a young professor from Georgetown who had written her dissertation on the Eighth Oblivion's regulatory failures, was holding a tablet, preparing to read something.
 
@@ -86,7 +83,6 @@ Ananya felt Delphine's hand brush against hers - a touch of acknowledgment, of s
 "'I spent my career believing in institutions. I still believe in them, but differently now. Institutions are gates. They can be doors that let people through or walls that keep people out. The question isn't whether to have gates but who holds the keys and whether the locks can be changed. The work of my generation was building gates. The work of your generation is deciding what to do with them.'"
 
 
----
 
 The organizer paused, then continued: "'I won't be there to see what you decide. That's not self-pity - it's just mortality, which has its own wisdom if you let it. You don't get to see how the story ends. You just get to live your chapter as honestly as you can and trust that someone will read it.
 
@@ -111,5 +107,4 @@ Ananya wiped her eyes, considered. The room was coming back to itself, the sympo
 The reception was over. Time to disperse.
 
 
----
 

@@ -21,7 +21,6 @@ Jessie set down her script. "You're worried."
 "Same thing, from a certain angle."
 
 
----
 
 They talked for an hour, as they did when one or both of them was processing something difficult. Jessie's project had its own complications - network notes, creative compromises, the perpetual tension between vision and commerce. They traded frustrations like currency, each validating the other's struggles.
 
@@ -42,7 +41,6 @@ Delphine looked at her wife with renewed appreciation. "When did you become a ph
 "I've been married to you for twelve years. Some of it sinks in."
 
 
----
 
 The question Jessie had asked earlier returned: what did Delphine actually believe? Stripped of professional distance, of filmmaker's craft, of the carefully maintained uncertainty that let her avoid commitment - what did she think had happened?
 
@@ -63,7 +61,6 @@ Delphine considered this. It was closer to what she needed - not neutrality, not
 "Then work with it. And stop worrying about whether you're the right person. You're the person doing it. That's enough."
 
 
----
 
 Later, after Jessie had gone to bed, Delphine sat in her office and drafted the treatment. Not the final version - that would come after more research, more interviews, more understanding of the shape the material wanted to take. But an initial structure, a way of organizing what she was beginning to see.
 
@@ -78,5 +75,4 @@ It was a strange kind of documentary. Delphine wasn't sure it would work. But it
 She saved the draft and went to bed, dreaming of whiteboards and competing colors and a story that refused to become just one thing.
 
 
----
 

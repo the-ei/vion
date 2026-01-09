@@ -7,7 +7,6 @@ Not all of it - there was no "all of it," the truth was a living thing that kept
 Priya had listened. That was the thing Ananya kept returning to, lying in her bed in the early morning light. Her daughter had listened without interrupting, without defending, without the immediate judgment that Ananya had feared for years. The silence had been its own kind of verdict, not condemnation but consideration. Priya was thinking about what she had heard. The understanding was beginning, not complete.
 
 
----
 
 She got up and made coffee, the ritual automatic, her body moving through the motions while her mind stayed with the aftermath. The kitchen held the evidence of a life that continued despite everything: the fruit in the bowl, the dishes in the drying rack, the plants on the windowsill that she watered every morning. Ordinary life persisting. The world did not stop for private revelations.
 
@@ -18,7 +17,6 @@ Not unimportant. The documentary would reach people that Priya's understanding c
 She had crossed that threshold. She had walked through the gate of honesty. And what she found on the other side was not absolution or rejection but something more difficult: an ongoing process. The conversation with Priya was not complete; it was beginning. They would be talking about this for years. The truth, once spoken, continued to unfold.
 
 
----
 
 She walked through her apartment and noticed the objects differently. The ethics awards on the shelf, the certificates of recognition - they looked smaller now, less like achievements and more like attempts at repair. The books on her shelves about technology and privacy and surveillance, the intellectual armor she had built after the hearing, seemed suddenly fragile. All of it had been in service of this moment: being able to tell her daughter what she had done and hoping to survive the telling.
 
@@ -31,7 +29,6 @@ She texted back to Delphine: *Next week works. Send me the details.*
 The documentary was the public version of what she had already done in private. Easier, in some ways. The cameras would not cry. The interviewers would not have to revise their understanding of their entire childhood. But it was necessary work, and she would do it.
 
 
----
 
 The Eighth Oblivion. She thought about the phrase that had haunted this year, the technological threshold that everyone kept predicting and no one quite understood. For her, the oblivion had been something more personal: the obliteration of the division between her private guilt and her public work. The two had fused now. She could not separate what she had done from who she was becoming. The testimony and the motherhood, the ethics work and the family reckoning, were all part of the same motion.
 
@@ -42,7 +39,6 @@ Ananya had not had a good answer. She had said something about protection, about
 She had not lost her daughter. The relationship was changed, still changing, but not destroyed. Priya was still here. The gate had not led to exile.
 
 
----
 
 Ananya finished her coffee and looked out the window at the city waking up. San Francisco, the city that had made her and broken her and remade her, the geography of her complicity and her redemption. Somewhere out there, Delphine was preparing the documentary that would tell the story to the world. Somewhere out there, Kevin Zhou was building the interface that tried to do what Prometheus had failed to do. Somewhere out there, Priya was sleeping or waking or thinking about what her mother had told her.
 
@@ -55,5 +51,4 @@ She had passed through her gate. The Eighth Oblivion, for her, had been the eras
 She began to prepare for the day.
 
 
----
 

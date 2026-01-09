@@ -25,7 +25,6 @@ He wanted to continue anyway, to give her every piece of information that might 
 The logic was clean, irrefutable, cruel. He hated it. He hated that his little sister had learned to think this way.
 
 
----
 
 "Come here," he said.
 
@@ -52,7 +51,6 @@ She pulled away enough to look at his face. Her eyes were wet, but she was not c
 She didn't. He could hear it in her voice. But she was agreeing to pretend, for both their sakes, and he loved her for it.
 
 
----
 
 Habiba woke while they were still standing together. Her eyes found them, and something like a smile crossed her face.
 
@@ -83,7 +81,6 @@ He stayed with her for a few more minutes, holding her hand, saying nothing. The
 Then he stood, and went to pack.
 
 
----
 
 The packing took less time than he expected. There was so little to bring. A change of clothes, a water bottle, the remaining energy bars from their emergency supplies. The map, folded carefully into his pocket. A photograph of his family - mother, sister, himself - that he slipped into his jacket.
 
@@ -104,5 +101,4 @@ He hugged her one more time. He kissed his mother's forehead. He memorized the r
 Then he walked to the door, where Nathaniel was waiting.
 
 
----
 

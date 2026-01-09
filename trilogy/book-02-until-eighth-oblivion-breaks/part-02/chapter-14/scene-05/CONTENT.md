@@ -19,7 +19,6 @@ There it was.
 This was reasonable. It was also a change that would subtly reshape the documentary's argument, prioritizing drama over epistemology. Delphine considered how to respond.
 
 
----
 
 "I can work with that," she said. "But I want to be clear about what it means. If we start with drama, viewers will have emotional investment before they have intellectual context. They'll be primed to respond to the interpretations based on how the crisis made them feel rather than how the evidence makes them think."
 
@@ -38,7 +37,6 @@ They negotiated for another hour, finding compromises that Delphine could live w
 "Then we're good. Let's make something that matters."
 
 
----
 
 After the call ended, Delphine sat with the feeling of something beginning. She had accepted the commission, shaped the treatment, negotiated the terms, acquired the resources. Now she would have to actually make the thing - transform her uncertainty about uncertainty into a viewing experience that could convey what she meant.
 
@@ -59,5 +57,4 @@ The documentary about not-knowing had begun.
 It was already teaching her things she didn't know.
 
 
----
 

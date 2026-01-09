@@ -11,7 +11,6 @@ He played something. Then something else. Fragments that didn't connect yet, ide
 Jamal used to sit in on these sessions. Before.
 
 
----
 
 The thought came with a chord change - minor, unexpected, his fingers finding grief before his mind named it. Jamal would have had an opinion about the offer. Jamal, who had died during the crisis, who had been driving when he should have been resting, who had taken a corner too fast because the algorithm said he had seventeen minutes to make a delivery that required twenty.
 
@@ -28,7 +27,6 @@ The recording light came on. Marcus had started capturing without asking, the wa
 Not a song. Not yet. But something.
 
 
----
 
 The session lasted ninety minutes. When Yusuf finally stopped, his hands ached in the way they only did when he'd been playing real music instead of just noodling. Through the glass, Marcus gave him a thumbs up and started saving the files.
 
@@ -57,7 +55,6 @@ Marcus nodded like that explained everything. "The good ones usually are. The ea
 He left Yusuf alone to pack up, retreating to the control room to finish the export. Through the window, Yusuf could see him working - careful hands, the same hands that had built half this equipment from salvage, the same persistence that had kept a recording studio alive in a neighborhood that had been gentrified around it.
 
 
----
 
 In the parking lot, the November air hit Yusuf like a correction. He got in his car but didn't start it. The phone was in his hand - the lockbox gave it back automatically when you left - and the notifications were already scrolling. Two delivery offers, a message from his mother asking when he'd be home, a news alert about something he didn't care about.
 
@@ -82,7 +79,6 @@ A pause. "Okay. I'm listening."
 "I want it clearer. I want language that says I can stop deployment, not just raise concerns."
 
 
----
 
 Kevin was quiet for a moment. Yusuf could hear traffic in the background - wherever Kevin was, it wasn't an office.
 
@@ -113,7 +109,6 @@ Kevin laughed, a sound of genuine surprise. "You've thought about this."
 The negotiation continued - smaller points, things Yusuf hadn't fully formed until he started naming them. Kevin pushed back on some, accepted others, and gradually they found the outline of an agreement. Not perfect. Not everything Yusuf wanted. But enough.
 
 
----
 
 "One more thing," Yusuf said. "My analysis - when I identify impacts - I want it visible to the workers affected. Not just internal reports that disappear into a drive somewhere. Published. On the platform. So people know what we're doing to them."
 
@@ -136,7 +131,6 @@ The car had gotten cold. Yusuf's breath was visible now, little clouds that disa
 "I'll be there."
 
 
----
 
 His mother was in the kitchen when he got home, doing what she always did at this hour: preparing tomorrow's food, stretching what they had into what they needed. The apartment smelled like spices and onions, the particular fragrance of their family history.
 
@@ -161,5 +155,4 @@ Not the crying of grief, which he had seen. Not the crying of frustration, which
 They stood there in the kitchen, holding each other, while the onions softened in the pan and the night settled over Minneapolis and Yusuf understood, finally, what his acceptance meant to someone other than himself.
 
 
----
 

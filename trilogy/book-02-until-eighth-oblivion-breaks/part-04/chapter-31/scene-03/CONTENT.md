@@ -21,7 +21,6 @@ Elena had contacted no one. The phones had not worked in eight days. Antonio Gut
 "He's thinking of you," Elena said. It was not quite a lie.
 
 
----
 
 Mrs. Gutierrez had been Elena's patient for six years. She came in every month, regular as clockwork, to have her blood sugar checked and her prescriptions renewed. She always brought something - tamales at Christmas, empanadas for Easter, flowers from her garden in the summer. She spoke about her late husband, Eduardo, who had died ten years before of the same disease that was killing her now, though he at least had died in a hospital bed with morphine for the pain.
 
@@ -38,7 +37,6 @@ The afternoon sun slanted through the clinic windows, falling across the cot in 
 None of it mattered. Not to this room. Not to this moment.
 
 
----
 
 At two o'clock, Mrs. Gutierrez began talking about her grandchildren.
 
@@ -57,7 +55,6 @@ Elena said nothing. There was nothing to say. Sofia and Gabriel were in Tucson w
 "That I loved them. That I thought about them every day. That the garden - " She stopped, coughed weakly. "That the garden was for them. Everything I grew was for them. Even when they weren't here. I grew things because I wanted them to know that growing things was possible. That you could put a seed in the ground and something beautiful would come up."
 
 
----
 
 The hours passed. Elena did not leave.
 
@@ -76,7 +73,6 @@ Elena thought of the triage list in her pocket. Mrs. Gutierrez's name was on it,
 This was what triage meant. Not a medical procedure. A verdict.
 
 
----
 
 At 4:47 in the afternoon, Maria Gutierrez died.
 
@@ -97,5 +93,4 @@ Then she walked out of the room.
 Something was hardening inside her. Something cold and clear. She did not know yet what it would become. But she knew, standing in the hallway of her clinic with the sounds of crisis all around her, that she would not forget this afternoon. She would not forgive it.
 
 
----
 

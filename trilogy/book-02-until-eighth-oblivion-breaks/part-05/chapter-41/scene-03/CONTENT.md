@@ -17,7 +17,6 @@ Yolanda at the front desk looked up when Elena walked in. Her face went through 
 The break room smelled like burned coffee, the way it always did. Someone had left a half-eaten pastry on the counter. The refrigerator hummed its familiar mechanical song. Elena sat in her usual chair and waited.
 
 
----
 
 Dr. Okonkwo found her there. She closed the break room door behind her and sat down across from Elena, her face arranged in the careful neutrality of someone expecting difficult news.
 
@@ -42,7 +41,6 @@ Dr. Okonkwo was quiet for a long moment. Outside, Elena could hear the sounds of
 "I don't know yet. Something outside the system. Something that addresses causes instead of symptoms."
 
 
----
 
 Word spread quickly. By the time Elena left Dr. Okonkwo's office, the clinic's small staff had gathered to say goodbye. Some of them hugged her with genuine warmth. Others maintained professional distance, uncertain how to respond to a departure that felt like defection. A few avoided her eyes entirely.
 
@@ -67,7 +65,6 @@ It was Dr. Reyes who pulled her aside as she was leaving. The young physician ha
 "Then survive until you are. And don't let the system convince you that what you're doing is enough. It's not. It can never be enough."
 
 
----
 
 The door was just a door. Elena had walked through it thousands of times over the years, barely noticing the feel of the handle, the weight of the frame, the way the light changed as she passed from inside to outside. Now she stood with her hand on the glass, looking at the parking lot beyond, at the life that continued there regardless of what happened inside this building.
 
@@ -82,5 +79,4 @@ She did not look back. She did not allow herself the melodrama of a final glance
 The car was where she had left it, in the spot that was no longer her spot. She got in, started the engine, and pulled out of the parking lot. As she drove away, the clinic receded in her rearview mirror until it was just another building in a city full of buildings. Then she turned a corner and it was gone.
 
 
----
 

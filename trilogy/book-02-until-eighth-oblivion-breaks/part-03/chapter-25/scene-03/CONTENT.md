@@ -19,7 +19,6 @@ The hospital was a building he had driven past a thousand times without thinking
 Yusuf waited. There was nothing else to do.
 
 
----
 
 The waiting room was a gallery of suffering. A man with a bleeding hand wrapped in a T-shirt. A mother holding a feverish child. An elderly woman in a wheelchair, alone, staring at nothing. The fluorescent lights buzzed overhead, casting everyone in the same sickly pallor.
 
@@ -42,7 +41,6 @@ Yusuf stood up. "That's us. How is she?"
 Options. Yusuf looked at the folder, already dreading what he would find inside.
 
 
----
 
 The social worker came an hour later. Her name was Janet, and she had the kindness of someone who had learned to be kind efficiently, in small doses that wouldn't exhaust her.
 
@@ -63,7 +61,6 @@ Janet nodded, unsurprised. "Most people's is. I'll put together a list of progra
 "I'm sorry." And she did seem sorry, genuinely sorry, which somehow made it worse. She wasn't the enemy. She was just another person trapped in a system that failed almost everyone it was supposed to serve.
 
 
----
 
 They were allowed to see Halima at eight o'clock. She was in a bed in a ward with five other patients, thin curtains providing the illusion of privacy. Machines beeped around her, measuring things Yusuf couldn't name.
 
@@ -88,7 +85,6 @@ Halima looked at him, and for a moment he saw past the weakness to the woman who
 "I know. But scared becomes angry when we don't know what to do with it. Be careful."
 
 
----
 
 They stayed with Halima until visiting hours ended, then returned to the waiting room where Yusuf could think without his mother watching. Amina sat beside him, drained, the adrenaline of the night finally fading into exhaustion.
 
@@ -117,7 +113,6 @@ Amina was quiet for a long moment. Dawn light was starting to filter through the
 "Good." Yusuf put his arm around his sister. "And I'll figure out how to take care of Hooyo. We'll make it work. We always do."
 
 
----
 
 After Amina went home to sleep, Yusuf stayed in the hospital waiting room. He wasn't ready to leave, wasn't ready to face the apartment without his mother in it. So he sat in a plastic chair, watching the morning shift arrive, watching the city return to its routines.
 
@@ -142,7 +137,6 @@ Yusuf read the message twice. Take care of your family. That was the fight he co
 Everything else would come.
 
 
----
 
 He stayed until they let him see his mother again, then stayed a little longer, holding her hand while she slept. The hospital sounds became background noise—the beeps, the intercom calls, the soft footsteps of nurses making rounds. A world of people trying to help, overwhelmed by the scale of need.
 
@@ -165,5 +159,4 @@ But everything else was coming. Yusuf could feel it, the way you feel a storm ap
 He was ready.
 
 
----
 

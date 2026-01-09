@@ -11,7 +11,6 @@ Nods around the table. They always did the reading - these were Berkeley Law stu
 The discussion that followed was sharp, well-researched, tactically precise. These students knew how to argue. They knew how to cite precedent and distinguish cases and build logical structures that could withstand scrutiny. What Ruth wasn't sure they knew was why any of it mattered.
 
 
----
 
 She listened as a student named Christopher argued that algorithmic systems should be held to a higher standard than human decision-makers, precisely because their opacity made them more dangerous. Another student, Fatima, countered that opacity was a red herring - the real issue was accountability, and you could have accountable systems without understanding their internal mechanisms. A third student, Daniel, split the difference with a procedural argument about how the burden of proof should shift when automated systems were involved.
 
@@ -28,7 +27,6 @@ Maya Singh - a second-year student with sharp eyes and a habit of asking questio
 "They adjusted," Ruth agreed. "To meet the letter of the requirements while continuing to do exactly what they had been doing before. The frameworks held. And they held nothing."
 
 
----
 
 The room had gone quiet in a different way now. Not the silence of students waiting for the next prompt, but the silence of people who sensed that something real was being said.
 
@@ -49,7 +47,6 @@ The question Ruth had been avoiding. The question she asked herself every semest
 "Does it? Or does it sound like being honest about the situation?"
 
 
----
 
 The seminar continued for another hour, but something had shifted. The students were still sharp, still tactical, but there was a different quality to their questions now - less about winning arguments and more about what the arguments were for. Ruth felt herself saying things she hadn't planned to say, departing from the syllabus in ways that made her uncomfortable even as they felt necessary.
 
@@ -74,7 +71,6 @@ Maya nodded slowly, absorbing this. "My father worked for one of the companies t
 "I think maybe theater has value. If you're watching carefully enough to see through it."
 
 
----
 
 After Maya left, Ruth sat alone in the emptied seminar room. The campus was visible through the windows, students crossing the grass in patterns that looked random but were probably algorithmic - the paths optimization of habit and convenience. Everything was algorithmic now. Everything was data.
 
@@ -97,7 +93,6 @@ Susan would have known what to say. Susan always knew.
 But Susan wasn't here, and Ruth had to find the words herself.
 
 
----
 
 The drive from campus to her house in the Berkeley hills took twenty minutes on a good day, winding up roads that offered views of the bay and the San Francisco skyline beyond. Ruth had lived in this house with Susan for eighteen years, had grieved in it for six, had found a way to continue that was neither happiness nor its opposite but something more like equilibrium.
 
@@ -118,13 +113,12 @@ Maybe it was time to stop being careful. Maybe the students deserved more than c
 She opened her notes for the lecture and began, for the first time, to consider what she actually wanted to say.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The Stanford campus was designed to intimidate. Ruth had lectured here before, had walked these paths designed by Stanford himself to evoke European grandeur transplanted to California sunshine, but the effect never entirely wore off. The sandstone arches, the red-tiled roofs, the quad that stretched toward horizons of accumulated prestige - it was architecture as argument, a physical assertion that the people educated here were destined to lead.
 
@@ -141,7 +135,6 @@ At four o'clock, she took the stage. The audience was what she had expected: tec
 "Thank you for having me," she began. "I want to talk about what held during the Eighth Oblivion, and what didn't."
 
 
----
 
 The lecture that came out of her mouth was the one she had prepared, mostly. She walked the audience through the legal challenges posed by the crisis - the jurisdictional questions, the due process complications, the unprecedented concentration of power in systems that didn't fit existing categories. She cited her own opinions, explained her reasoning, acknowledged the limitations of what the courts had been able to accomplish.
 
@@ -158,7 +151,6 @@ The room had gone very quiet. She was straying further from the script than she 
 "The question we should be asking isn't whether the constitution held. It's whether holding was enough."
 
 
----
 
 The Q&A was revealing in the way Q&As always were. The first question came from a man Ruth recognized as a senior executive at one of the major AI companies - not Prometheus, but one of its competitors, which meant the same basic interests dressed in different corporate colors.
 
@@ -183,7 +175,6 @@ The question Ruth had been both hoping for and dreading. The question that requi
 "I don't know. I know what didn't work. I'm still learning what might."
 
 
----
 
 A hostile voice from the back of the room - an older man in a suit that looked political rather than corporate. "With respect, Professor, your analysis sounds defeatist. The system worked. The crisis was managed. We're still here, still functioning, still innovating. At what point do we acknowledge that and move forward instead of relitigating what might have gone wrong?"
 
@@ -198,7 +189,6 @@ She saw a mix of reactions in the audience - discomfort from the executives, int
 "Thank you for your time," she said, and left the stage before anyone could ask another question.
 
 
----
 
 The hotel room in Palo Alto was anonymous in the way expensive hotel rooms always were - designed to feel both luxurious and interchangeable, a space that could belong to anyone or no one. Ruth sat on the bed and looked at the wall, processing what she had said.
 
@@ -233,7 +223,6 @@ Ruth lay back on the bed, looking at the anonymous ceiling. "I don't know anymor
 "Then say that too. Saying 'I don't know' is more useful than pretending you do when you don't."
 
 
----
 
 They talked for another twenty minutes - about Rebecca's work, about Ruth's uncertainty, about the gap between what institutions were supposed to do and what they actually did. Rebecca was pushing her, the way she always did, toward positions that felt more radical than Ruth was comfortable with. But radical was a word that shifted meaning depending on where you stood. From inside the system, Ruth's lecture had been radical. From outside it, it was barely a beginning.
 
@@ -266,7 +255,6 @@ Ruth considered the question. Was it?
 "Maybe it's what's necessary," she said finally. "Maybe the frameworks need to be questioned before they can be fixed."
 
 
----
 
 After David's call, Ruth lay on the hotel bed and stared at the ceiling and thought about Susan.
 
@@ -291,13 +279,12 @@ For now, she lay in the hotel bed and let the uncertainty be what it was.
 Susan would have said that was the beginning of something. Ruth hoped she was right.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The restaurant Benjamin had chosen was in the Financial District, the kind of place where executives took clients they wanted to impress - understated elegance, prices that didn't appear on the menu, servers who moved like ghosts through the careful lighting. Ruth had let him pick because she didn't know San Francisco the way she once had, and because something about meeting him on his territory felt appropriate for the conversation they were about to have.
 
@@ -326,7 +313,6 @@ Benjamin smiled slightly, acknowledging the game. "My people. The company. We sp
 "Is there a difference?"
 
 
----
 
 "There's always a difference. Working means functioning as designed. Accomplishing means achieving the purpose. A machine can work perfectly and still not accomplish what you built it for."
 
@@ -357,7 +343,6 @@ Ruth considered this. Did she disapprove? The Benjamin she had mentored had been
 "That's the argument everyone makes. The good people who stay inside to moderate the worst impulses. How's that working out?"
 
 
----
 
 Benjamin was quiet for a moment, his face doing something complicated that Ruth couldn't quite read. When he spoke, his voice was lower, more honest than his professional polish usually allowed.
 
@@ -380,7 +365,6 @@ Ruth felt the weight of the question. Benjamin was her creation, in some sense -
 "I don't know. That's what scares me."
 
 
----
 
 The food arrived, giving them both something to do with their hands, something to look at besides each other. Ruth found she wasn't hungry, but she ate anyway, the habits of politeness too ingrained to ignore.
 
@@ -407,7 +391,6 @@ Ruth felt something tighten in her chest. This was the regulatory fight she had 
 "The eternal reality. I'm asking you, Ruth - when this case lands, whose side are you on?"
 
 
----
 
 The question hung between them, heavy with implication. Ruth understood what Benjamin was really asking: would she use her credibility, her reputation as the architect of the post-crisis frameworks, to support the plaintiffs who were challenging them? Or would she stay neutral, let the legal process play out without her influence?
 
@@ -432,7 +415,6 @@ She had helped make him. That was the truth she couldn't escape. Her teaching, h
 "So I can prepare myself. For being on the opposite side from someone I still respect."
 
 
----
 
 They finished dinner in a different register - lighter, more personal, catching up on the years since they had last really talked. Benjamin told her about his partner, about the condo they had bought in the city, about the dog that was supposedly his partner's but had become more attached to him. Ruth told him about teaching, about the students who reminded her of his younger self, about the ways Berkeley had changed since he had been there.
 
@@ -457,7 +439,6 @@ Benjamin kissed her cheek again, a gesture that felt more genuine this time. "Ta
 She watched him walk to his car - the expensive sedan, the driver waiting, the whole apparatus of his success. Then she got into her own car and started the drive back across the Bay Bridge, alone with her thoughts and the fog and the lights of the city receding behind her.
 
 
----
 
 Home was dark when she arrived. The house that had been Susan's too, that held the accumulated weight of their shared life, that Ruth still couldn't bring herself to leave. She went to her study and sat at the desk and looked at Susan's picture in the low light.
 
@@ -484,7 +465,6 @@ But she already knew, in the way you know things before you're ready to know the
 It was the direction Susan would have pushed her toward, all along.
 
 
----
 
 
 

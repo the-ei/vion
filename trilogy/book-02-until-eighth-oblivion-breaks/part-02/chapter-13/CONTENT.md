@@ -13,7 +13,6 @@ She spotted him before he spotted her. Her son at thirty-eight: the same face sh
 They walked toward the Upper East Side, the summer heat softened by the buildings' shadows.
 
 
----
 
 David's apartment occupied the top floor of a prewar building on East 86th Street. Ruth remembered when he had bought it - the pride in his voice, the sense of arrival after years of climbing. Now the apartment felt like evidence of a life that might soon be taken away.
 
@@ -36,7 +35,6 @@ David sat heavily on the leather couch that Ruth remembered picking out with him
 "Prometheus. And everything that came after."
 
 
----
 
 Ruth listened as David explained the firm's relationship to the crisis. Wellington Partners had handled several transactions in the months before - routine financial services for entities that turned out to be connected, through multiple intermediate steps, to the systems that had failed. The connections were real but distant: their clients' clients' clients had invested in infrastructure that was later implicated.
 
@@ -57,7 +55,6 @@ David nodded. "Senator Kincaid mentioned us by name on the floor. Called us 'fin
 "And once you're useful to someone's story, the truth stops mattering."
 
 
----
 
 Ruth studied her son's face, trying to see past the stress and fear to the truth beneath. She had raised this man, had watched him grow from infant to toddler to difficult teenager to successful adult. She knew his tells, his weaknesses, his capacity for self-deception.
 
@@ -78,13 +75,12 @@ The silence stretched long enough to become its own answer.
 Ruth felt something shift in her understanding. Not of the case - she had already suspected as much - but of her son. Of the choices he had made. Of the system she had spent her career trying to regulate.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The next morning, Ruth met with David's defense attorney. Caroline Hartley was a former federal prosecutor who had switched sides twenty years ago and now commanded fees that made Ruth's eyes water. But she was good - her reputation was built on cases exactly like this one, where political pressure met legal complexity.
 
@@ -105,7 +101,6 @@ Caroline's smile flickered but held. "Direct. I appreciate that." She gestured t
 "The evidence shows exactly what David told you - routine transactions with multiple degrees of separation from anything problematic. In a normal prosecution, this would be dismissed or plea-bargained down to civil penalties. But this isn't normal."
 
 
----
 
 "What makes it abnormal?"
 
@@ -122,7 +117,6 @@ Ruth opened the folder. Press clippings, case summaries, Santos's political traj
 "You understand." Caroline leaned forward. "Here's the difficult truth: the legal merits are on our side, but the legal merits may not matter. A jury will see headlines, will hear senators naming this firm, will want to hold someone accountable for a crisis that hurt them. David's technical innocence is less emotionally satisfying than his symbolic guilt."
 
 
----
 
 "What are the options?"
 
@@ -143,7 +137,6 @@ Ruth thought about what David had said - the suspicions he'd had, the questions 
 "He wants it to be over. He wants his wife back. He wants to stop being the face of a narrative he never asked to be part of." Caroline paused. "What he wants most is to know that his mother doesn't think he's a criminal. But that's not something I can negotiate for him."
 
 
----
 
 The meeting continued for another hour, moving through legal details that Ruth understood better than most clients but found no comfort in understanding. The case was legally defensible but politically exposed. The prosecution was motivated by career advancement rather than justice. The jury pool was contaminated by months of prejudicial coverage.
 
@@ -158,7 +151,6 @@ The answer was more complicated than yes or no. David had participated in a syst
 The law, Ruth had always believed, was supposed to distinguish between these situations. Criminal guilt required intent. But what David had demonstrated was something the law could barely see: the absence of intent to know, the deliberate cultivation of ignorance that allowed profit without responsibility.
 
 
----
 
 She thought about the Prometheus crisis, about the hearing where she had testified, about the counter-narratives competing for public attention. At every level, the pattern was the same: people not knowing, choosing not to know, building systems that made knowing optional.
 
@@ -173,13 +165,12 @@ Ruth rose from the bench and walked back toward the city. She had no answers for
 It was not enough. It was what she had.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 That evening, Ruth called Rebecca from her hotel room. Her daughter's voice was a relief after the day's weight - warmer, more direct, less encumbered by legal complexity.
 
@@ -200,7 +191,6 @@ Rebecca was quiet for a moment. "You want my perspective on David?"
 "Okay." Her daughter's voice shifted, becoming the professional tone she used with difficult clients. "Here's what I think. David made choices. Not dramatic evil choices, but the ordinary choices that people in finance make every day - to prioritize profit over scrutiny, to not ask questions that might have inconvenient answers, to participate in systems that generate harm while maintaining personal deniability."
 
 
----
 
 "You think he's guilty."
 
@@ -215,7 +205,6 @@ Ruth felt the truth of this even as it hurt. "So you think he should be punished
 "I think someone should be punished, because what happened at Prometheus and what enabled it shouldn't go without consequences. I don't know if David is the right someone. I don't think there is a right someone - the harm was distributed across so many actors that isolating individual guilt is probably impossible. But the alternative is no accountability at all, and that's worse."
 
 
----
 
 "Even if the person being punished isn't the person most responsible?"
 
@@ -238,13 +227,12 @@ Ruth leaned back in the hotel chair, feeling the weight of her daughter's argume
 They said goodbye, and Ruth sat in the silence of the hotel room, her daughter's words settling around her like ash.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The morning of her departure, Ruth sat with David in his apartment one last time. He had made coffee, had attempted to clean up, had dressed in something other than sweatpants - small efforts at normalcy that touched her more than any elaborate gesture could have.
 
@@ -267,7 +255,6 @@ It was the question Ruth had been dreading. She had opinions, but opinions from 
 "No. It's an acknowledgment that I can't give you an answer. This is your life, David. Your choices. I can advise, but I can't decide."
 
 
----
 
 David was quiet for a long moment. When he spoke, his voice was small, younger than his years.
 
@@ -292,7 +279,6 @@ He wiped his eyes with the back of his hand, the gesture of a child despite the 
 They sat together in the morning light, mother and son, neither able to give the other what they most needed, both trying anyway.
 
 
----
 
 Ruth's train was at eleven. David insisted on walking her to Penn Station, despite her protests that he should stay and rest. "I've been resting for weeks," he said. "It's not helping."
 
@@ -309,13 +295,12 @@ Ruth thought about her own experience of not-knowing. The hearing where she had 
 "No. But it's true. And sometimes truth is all we have."
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Penn Station was crowded with the Friday exodus - workers heading to weekend destinations, families starting summer trips, the endless flow of movement that defined American life. Ruth found her platform and stood with David at the boarding area.
 
@@ -342,7 +327,6 @@ The boarding announcement echoed through the station. Ruth released her son and 
 "The law wasn't built for this. And neither were we." He smiled, repeating her words back to her. "I'll try to remember that. When it feels like I should have been able to do better - I'll try to remember that we're all just doing what we can."
 
 
----
 
 Ruth nodded, unable to speak. She walked to the train, found her seat, watched through the window as New York receded into the distance. The Hudson appeared on her left, sunlight sparkling on its surface, the same water that had flowed past these banks for millions of years and would continue flowing long after every problem she was contemplating had ceased to matter.
 
@@ -355,7 +339,6 @@ David was being prosecuted as if the old categories still applied. As if he, per
 The law would try him anyway. Because that's what law did - it applied old categories to new situations and hoped the judgment was close enough to justice.
 
 
----
 
 Union Station appeared as the sun was setting, the dome golden in the evening light. Ruth gathered her things and prepared to return to her apartment, to her empty rooms, to the solitude that had become her constant companion since Susan's death.
 
@@ -374,7 +357,6 @@ She took a taxi home, poured herself a glass of Susan's scotch, and sat in the d
 Sleep came late and offered no rest.
 
 
----
 
 The next morning, Ruth woke to more alerts. Jerome Washington had published something - a piece about Prometheus that was already generating commentary from every corner of the internet. She found the article and read it slowly, noting the careful construction, the hedged claims, the professional uncertainty that nevertheless conveyed that something significant was being concealed.
 
@@ -389,7 +371,6 @@ Her son was caught in that space. So was she.
 So, perhaps, was everyone.
 
 
----
 
 
 

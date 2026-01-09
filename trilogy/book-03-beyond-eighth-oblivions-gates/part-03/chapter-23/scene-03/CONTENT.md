@@ -15,7 +15,6 @@ DeShawn smiled. "Some do. The ones who realize that accountability is a competit
 Market. The word still carried its old associations for Jerome: commodification, instrumentalization, the reduction of values to profit motives. But he was trying to hear it differently now.
 
 
----
 
 "I didn't come to tech because I wanted to get rich," DeShawn said. "I know that's what you thought. What Mom thought too, maybe."
 
@@ -36,7 +35,6 @@ It was a fine distinction. Jerome appreciated it anyway.
 Jerome laughed. "That's exactly what I said about writing."
 
 
----
 
 The conference noise had faded. Most attendees had moved to evening receptions, networking events, dinners where deals would be proposed. Jerome and DeShawn stayed in their corner, two men discovering that the argument they had been having for years might have been a different conversation underneath.
 
@@ -55,7 +53,6 @@ Jerome heard the formulation as a clarification, not a repudiation. Two approach
 Jerome could not answer immediately. The question was genuine.
 
 
----
 
 "Maybe it's not different," Jerome finally said. "Maybe I wanted it to be different because then I could say you'd abandoned what mattered."
 
@@ -78,7 +75,6 @@ DeShawn nodded. There was something gentle in his expression—not pity, but rec
 "I'm trying."
 
 
----
 
 They parted in the lobby, DeShawn heading to a dinner with investors, Jerome to his hotel room and the phone call to Denise he had been composing in his head all afternoon. The hug was brief but real—not performative, not obligatory, but the gesture of two people who had found unexpected common ground.
 
@@ -99,7 +95,6 @@ It was a different theory of change. Jerome was not sure it was better. But he w
 Maybe that was progress.
 
 
----
 
 The hotel room was generic and comfortable, the kind of space that exists to be forgotten. Jerome sat on the bed with his phone, gathering himself before the call. Denise would want to know everything, and he was not sure he understood what had happened well enough to explain it.
 
@@ -122,7 +117,6 @@ Jerome relayed it: the map and the territory, the acknowledgment of influence, t
 "That's what children do, Jerome. If we're lucky." He heard her moving around their kitchen in Baltimore, the familiar sounds of home. "You gave him values. He found his own way to express them. That's not betrayal. That's inheritance working the way it's supposed to."
 
 
----
 
 Jerome lay back on the hotel bed, phone pressed to his ear. Outside, Austin continued: the tech world and its conferences, the next generation building things Jerome could not fully understand. Inside, he was trying to integrate what he had learned.
 
@@ -147,5 +141,4 @@ Jerome closed his eyes. The room was quiet, the air-conditioned hum a white nois
 Inheritance, continuing in shapes the previous generation could not predict.
 
 
----
 

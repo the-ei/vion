@@ -9,7 +9,6 @@ The symptoms had been appearing one by one, like items checked off a list. Fatig
 Without dialysis, the progression was inevitable. The toxins would continue to accumulate until her heart stopped or her brain failed or one of a dozen other mechanisms of death activated. It was not a question of if but when. The body had a timeline, and they were somewhere on it, moving toward the end.
 
 
----
 
 Habiba stirred. Her eyes opened, unfocused at first, then finding his face.
 
@@ -32,7 +31,6 @@ He counted another breath. Eleven seconds between exhale and inhale.
 The number should have been eight or nine. The body was slowing down.
 
 
----
 
 He remembered her before the kidney disease. Before the divorce, before his father's death, before everything started breaking. She had worked two jobs then, too - cleaning offices in the morning, restaurant shifts at night - but there had been an energy to her that the illness had slowly drained. She had sung while cooking, Somali songs her mother had taught her, songs Yusuf had pretended to ignore as a teenager but had secretly memorized.
 
@@ -49,7 +47,6 @@ His music was in the other room, the guitar silent in its case. He had not playe
 That world was gone. This one had only bodies and breath and the inexorable math of decline.
 
 
----
 
 At seven o'clock, Amina appeared in the doorway. Her hair was tangled, her eyes shadowed. She had slept perhaps four hours.
 
@@ -78,13 +75,12 @@ But Habiba might not have a week. And the food didn't matter if there was no way
 He made breakfast anyway. It was the only thing he could do.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Nathaniel arrived at eight, carrying a backpack and a piece of paper folded into a careful square. He looked different from when Yusuf had first found him - less polished, more worn, his expensive outdoor jacket dirty and his beard growing in patchy and uneven.
 
@@ -107,7 +103,6 @@ Yusuf looked at the map. The route wound through suburbs and farmland, avoiding 
 Nathaniel's jaw tightened. "No. I wasn't important enough."
 
 
----
 
 The class dynamics of the revelation settled over the kitchen like a second layer of air. Yusuf's mother was dying because the systems had failed. The people who built those systems had built themselves escape routes. And Nathaniel, who had been part of that world, was now sitting in Yusuf's kitchen offering access to resources that had never been meant for people like Yusuf's family.
 
@@ -134,7 +129,6 @@ Yusuf studied the map. Sixty miles. On foot, with bicycles if they could find th
 "Because I know some of them. Because I can trade information. Because..." Nathaniel stopped. "Because I'm hoping that not all of them are monsters."
 
 
----
 
 Amina spoke from the doorway. "How do you know the map is accurate? That the facility is even real?"
 
@@ -155,7 +149,6 @@ Yusuf traced the route on the map with his finger. Through the suburbs of Plymou
 The silence was the answer. Two to three days. Habiba might not have two to three days. The math was brutal and obvious: if Yusuf left, he might return to find her dead. If he stayed, he would watch her die.
 
 
----
 
 "There's something else," Nathaniel said. "Even if we get there, even if they let us in, even if they have dialysis equipment - we'd need to bring your mother. Or stay long enough for them to give us what she needs to survive the trip."
 
@@ -182,7 +175,6 @@ Yusuf looked at the map. The route, the distance, the uncertainty at the end.
 "I know." He folded the map carefully. "There isn't much time to take."
 
 
----
 
 Nathaniel left to gather what supplies he could for the journey. Yusuf remained at the kitchen table, the map still in his hands, his sister still watching from the doorway.
 
@@ -213,13 +205,12 @@ He wanted to argue with her calm acceptance. He wanted her to protest, to cry, t
 She was right. He hated that she was right.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Yusuf stepped outside to think. The March air was cold, not quite freezing but carrying the edge of winter that Minneapolis couldn't seem to shake even as spring approached. He sat on the concrete steps of their building, the same steps where he had sat a thousand times before, and tried to make his mind work.
 
@@ -234,7 +225,6 @@ But he had talked. At dinner, on weekends, in the rare quiet hours when the work
 "The system isn't for us," he had told Yusuf once. They were walking home from a bus stop, Yusuf maybe nine or ten. "The system is for the people who built it. We survive anyway. That's what we do."
 
 
----
 
 Yusuf remembered his father's hands. Large, calloused, scarred from a lifetime of physical work. Hands that could lift heavy things and fix broken things and hold a child with surprising gentleness. His father had used those hands until the warehouse accident took them - or rather, took everything, the hands and the man who owned them.
 
@@ -251,7 +241,6 @@ He would distrust it. That much was obvious. Malik Hassan had never trusted anyo
 But Malik had also taught Yusuf something else: when family was at stake, you did whatever was necessary.
 
 
----
 
 The memory shifted. Yusuf was eleven, sitting with his father on a different set of steps, outside the small apartment they had lived in before this one. His mother had been sick - the flu, maybe, or something worse - and Malik had decided to take Yusuf to the emergency room against his wife's protests.
 
@@ -272,7 +261,6 @@ That was the lesson. Not trust, not hope, not faith in systems. Simply: you did 
 You acted, because not acting meant watching the people you loved suffer while you stood by.
 
 
----
 
 Yusuf stood up from the steps. The cold had seeped through his jacket, but he barely felt it. His father's face was vivid in his mind now - not as it had looked in the hospital after the accident, not as it looked in the single photograph they still had, but as it had looked in life. Tired, determined, loving in the practical way that did not require words.
 
@@ -289,13 +277,12 @@ He walked back inside. The decision was not made - not quite, not formally. But 
 He knew what his father would want him to do.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 He found Amina in their mother's room, sitting in the same chair where he had spent the morning. Habiba was asleep, her breathing still slow, still steady, still wrong. Amina looked up when he entered.
 
@@ -324,7 +311,6 @@ He wanted to continue anyway, to give her every piece of information that might 
 The logic was clean, irrefutable, cruel. He hated it. He hated that his little sister had learned to think this way.
 
 
----
 
 "Come here," he said.
 
@@ -351,7 +337,6 @@ She pulled away enough to look at his face. Her eyes were wet, but she was not c
 She didn't. He could hear it in her voice. But she was agreeing to pretend, for both their sakes, and he loved her for it.
 
 
----
 
 Habiba woke while they were still standing together. Her eyes found them, and something like a smile crossed her face.
 
@@ -382,7 +367,6 @@ He stayed with her for a few more minutes, holding her hand, saying nothing. The
 Then he stood, and went to pack.
 
 
----
 
 The packing took less time than he expected. There was so little to bring. A change of clothes, a water bottle, the remaining energy bars from their emergency supplies. The map, folded carefully into his pocket. A photograph of his family - mother, sister, himself - that he slipped into his jacket.
 
@@ -403,13 +387,12 @@ He hugged her one more time. He kissed his mother's forehead. He memorized the r
 Then he walked to the door, where Nathaniel was waiting.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Yusuf did not look back.
 
@@ -432,7 +415,6 @@ Yusuf mounted his bicycle. The seat was too low, the handlebars crooked, but it 
 They started pedaling. The bicycle was harder to ride than Yusuf remembered - it had been years since he had been on one - but the muscle memory returned quickly. Push, glide, push, glide. The rhythm of movement.
 
 
----
 
 They rode through neighborhoods Yusuf had never visited, past houses with windows boarded and lawns untended, past shopping centers with empty parking lots, past schools that had been closed since day one. The crisis was visible everywhere, but it was also strangely invisible - no fires, no bodies, no dramatic destruction. Just absence. The systems had failed quietly, and the world they left behind was a world of emptiness.
 
@@ -455,7 +437,6 @@ Yusuf's legs ached. His back ached. Everything ached.
 But he did not stop.
 
 
----
 
 He thought of Amina sitting beside their mother. He thought of the breathing he had counted that morning, the rhythm that was slowing day by day. He thought of the dialysis machine that might or might not exist at the end of this road, operated by people who might or might not help them.
 
@@ -480,7 +461,6 @@ They found a barn set back from the road, its doors hanging open, its contents l
 Nathaniel was quiet for a long moment. "I helped build the systems that failed. I knew they were fragile, and I built them anyway, because that was my job. Now people are dying because of things I helped create. Your mother might die because of things I helped create."
 
 
----
 
 "So this is guilt."
 
@@ -507,7 +487,6 @@ He was his father's son.
 He always came back for family.
 
 
----
 
 
 

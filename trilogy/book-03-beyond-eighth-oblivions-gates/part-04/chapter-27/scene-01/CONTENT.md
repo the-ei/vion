@@ -7,7 +7,6 @@ The sheets were cool against her skin. She had kicked off the blanket sometime i
 On her nightstand, her phone glowed faintly. Delphine's message. She had read it three times before attempting sleep, and it had followed her into dreams she could not quite remember, something about standing in front of a door that would not open, or a door that had already opened without her noticing.
 
 
----
 
 She did not reach for the phone. Not yet. There was a ritual to mornings like this, a sequence of small actions she had developed over years, and she would not break it even now, even with the message waiting, its words already seared into her memory.
 
@@ -18,7 +17,6 @@ She sat up slowly, feeling the familiar complaint of her lower back, the stiffne
 The apartment was hers, had been hers for six years now, since the divorce was finalized and she had taken her share of their accumulated life and found this place, smaller than the house in Palo Alto but adequate, even elegant in its proportions. Two bedrooms, one of which she used as an office, a living room with a view of the city, a kitchen where she prepared meals for one with the precision of someone who had learned to extract satisfaction from solitude.
 
 
----
 
 She stood and walked to the bathroom, not turning on the light, navigating by memory and the faint glow from the window. The cold water on her face was a shock she welcomed, a small violence that scoured the residue of sleep away. She looked at herself in the mirror, her face emerging from the darkness as her eyes adjusted, and she saw the woman she had become: gray threading through black hair she no longer bothered to dye, lines around her eyes and mouth that she had stopped noticing years ago, the particular set of her jaw that Priya had inherited, along with her impatience and her tendency to speak before thinking.
 
@@ -27,7 +25,6 @@ In the kitchen, she began the ritual of coffee. Beans from a roaster in the Miss
 The apartment was full of objects that had accumulated meaning through years of this life. On the counter, a ceramic bowl Priya had made in high school, glazed an uneven blue that had seemed like failure to Priya and like beauty to Ananya. On the wall, a photograph from an ethics conference in Geneva, 2034, where she had given a keynote about algorithmic accountability that had been cited hundreds of times and had changed, as far as she could tell, nothing.
 
 
----
 
 She poured the coffee into a mug bearing the logo of a company that no longer existed, acquired by Prometheus three years ago and dissolved into its larger apparatus. The mug had been a gift from the CEO of that company, a woman named Sarah who had believed Ananya's promises about ethical integration, about how the acquisition would preserve the values they had built. Sarah had left six months after the deal closed. The mug remained.
 
@@ -38,7 +35,6 @@ She had been part of building this. That was the fact she returned to every morn
 The coffee was too hot. She sipped it anyway, feeling the slight burn on her tongue, a sensation that anchored her in the present moment.
 
 
----
 
 On the bookshelf near the window, a row of awards she had stopped displaying but could not bring herself to discard. Plaques from ethics organizations, a crystal obelisk from a technology conference, certificates in frames that had accumulated dust until she moved them here, to this shelf where they faced the wall, their inscriptions hidden. She had earned each one by doing work that she had believed in, or told herself she believed in, or told herself that believing in was less important than the work itself.
 
@@ -49,7 +45,6 @@ The light was strengthening now, the gray giving way to the first hints of gold 
 She thought about the day ahead. The meeting with Delphine, if she decided to go. The decision she had not yet made but which felt already made, as though her body knew something her mind was still refusing to acknowledge.
 
 
----
 
 She moved through the apartment, touching things. The habit had developed in recent months, a need to confirm the reality of objects, to feel their weight and texture beneath her fingers. The back of a chair, smooth wood worn by years of contact. The edge of her desk, where a stack of papers waited, reports she was supposed to review, analyses she was supposed to approve. The frame of a photograph, Priya at eighteen, graduating from high school, her smile uncertain in a way that Ananya had not understood then and understood too well now.
 
@@ -60,7 +55,6 @@ What they did not discuss: what Prometheus had done. What Ananya had enabled. Wh
 The sun was rising now, light flooding the apartment, transforming the shadows into something sharper, more defined. Ananya finished her coffee and set the mug down on the counter, next to the ceramic bowl her daughter had made, and she stood there for a moment, her hand on the cool surface of the counter, feeling the solidity of the world beneath her fingers.
 
 
----
 
 The morning felt different from other mornings. She could not say why, could not identify any specific change in the light or the silence or the arrangement of objects, but something had shifted, some quality of the air or of her own perception that made everything seem slightly heightened, slightly more present than usual. It was the message, she knew. Delphine's words sitting in her phone like a weight that distorted the space around it.
 
@@ -73,5 +67,4 @@ These were the questions that had drawn them together, that had turned professio
 The phone waited on the nightstand. The morning waited around her. The threshold waited to be crossed.
 
 
----
 

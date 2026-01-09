@@ -15,7 +15,6 @@ Rachel's smile flickered. "That's a very interesting angle."
 The two junior executives exchanged looks. Rachel leaned forward. "That's exactly why we want you. You're not afraid to ask the hard questions."
 
 
----
 
 Delphine let the flattery settle, neither accepting nor rejecting it. "Let me make sure I understand what you're offering. Full creative control?"
 
@@ -44,7 +43,6 @@ This was what she did. She was good at it. But she had never done it about somet
 The call ended, and Delphine sat in the sudden silence of her home office, wondering what she had just agreed to consider.
 
 
----
 
 Theo's footsteps echoed from somewhere in the house - the particular rhythm of a four-year-old moving from room to room, investigating things that had been investigated a thousand times before and somehow remained interesting. Jessie was supposed to be watching him, but Jessie was probably also working, their domestic ecosystem depending on the optimistic assumption that a child could entertain himself for finite periods.
 
@@ -61,7 +59,6 @@ Could she make something that would survive that process? Something that would r
 She didn't know. And the not-knowing felt like a familiar companion now, an uncomfortable friend she had been learning to live with.
 
 
----
 
 Theo appeared in the doorway, carrying a stuffed elephant whose name changed daily. "Mommy, I'm hungry."
 
@@ -96,13 +93,12 @@ It was as good a summary as any. "Something like that. I'm trying to decide if I
 Delphine smiled despite herself. "You're right. That is almost the same."
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The research phase began before she formally accepted the commission. Delphine had learned that you couldn't decide whether to take on a project until you understood what the project actually was, and understanding required investigation.
 
@@ -115,7 +111,6 @@ She read the academic papers next. Economists analyzing financial flows, compute
 Then the counter-narratives. The Church of the Threshold's interpretation - the Eighth Oblivion as spiritual transition being resisted. The political framings - manufactured crisis, corporate malfeasance, regulatory failure. The accelerationist arguments that appeared in tech forums and private Discords. Each claimed to explain what the others could not.
 
 
----
 
 By the end of the week, Delphine had filled a whiteboard with frameworks, a notebook with questions, and her mind with competing interpretations that refused to synthesize.
 
@@ -132,7 +127,6 @@ The technological interpretations: Accelerationist - this is the beginning of so
 None of these interpretations was obviously wrong. Each could point to evidence supporting its claims. Each had sophisticated proponents who had thought deeply about the questions. And they were mutually incompatible.
 
 
----
 
 Delphine sat with the whiteboard for hours, trying to find a perspective that could encompass the others. This was her job - to take complexity and make it comprehensible, to find the story that contained all the stories, to create a frame capacious enough to hold contradictions without collapsing.
 
@@ -157,7 +151,6 @@ Delphine considered this. "I've made documentaries about complicated subjects be
 "I don't know. It might be honest, or it might be lazy. I can't tell the difference from here."
 
 
----
 
 Jessie looked at the whiteboard, tracing the lines with her eyes. "What does your gut tell you?"
 
@@ -182,7 +175,6 @@ Delphine felt the weight of this truth. She had built her career on the illusion
 Jessie made it sound simple. It would not be simple. But it was a direction, and direction was what Delphine needed.
 
 
----
 
 She accepted the commission the next day, with conditions. She would make a documentary about the competing interpretations without endorsing any of them. She would let subjects speak for themselves, would present evidence fairly, would refuse to construct a false consensus. If the platform wanted a definitive explanation, they would have to find another filmmaker.
 
@@ -203,13 +195,12 @@ A documentary about not-knowing. She had no idea how to make it.
 She started making it anyway.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The coffee shop in DC was nondescript by design - a place where conversations could happen without being overheard. Delphine had flown out that morning, leaving Theo with Jessie's parents and the documentary schedule that was already feeling impossible.
 
@@ -232,7 +223,6 @@ Jerome nodded slowly. "You're making a documentary about not-knowing."
 "I've thought about that."
 
 
----
 
 "And you're doing it anyway."
 
@@ -253,7 +243,6 @@ The conversation that followed lasted three hours. Jerome walked Delphine throug
 "You don't. You just reach a point where the cost of waiting exceeds the benefit of knowing more. And then you publish and hope you weren't wrong about anything important."
 
 
----
 
 "The documents you received from Crane," Delphine said. "Can you share them with me? For the documentary?"
 
@@ -274,7 +263,6 @@ Jerome paused again, longer this time. "I think he's asking real questions that 
 "That's what I want the documentary to show. Not which interpretation is right, but why we can't determine which is right."
 
 
----
 
 "Then you're going to make a lot of people uncomfortable," Jerome said. "People want closure. They want to know that someone - experts, institutions, someone they trust - has figured out the truth. Telling them that no one has figured it out, and that maybe no one can, is deeply unsatisfying."
 
@@ -295,7 +283,6 @@ Jerome gathered his thoughts. "I believe that something unprecedented happened. 
 "I would do exactly what you're planning to do. Present the perspectives, show the gaps, let the audience understand why understanding is difficult. And accept that some people will call me a coward for not choosing a side."
 
 
----
 
 "Neutral isn't real," Delphine said. "You said that earlier. If neutral isn't real, how do I make something that isn't neutral but also isn't choosing sides?"
 
@@ -316,13 +303,12 @@ As Delphine walked back to her hotel, she thought about faith and fairness and t
 She was going to try anyway.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Theo was asleep by the time Delphine got home, his small body curled around the stuffed elephant in ways that defied comfort but apparently worked for him. She stood in his doorway for a moment, watching him breathe, feeling the particular weight of parenthood that arrived unexpectedly at moments like this.
 
@@ -347,7 +333,6 @@ Jessie set down her script. "You're worried."
 "Same thing, from a certain angle."
 
 
----
 
 They talked for an hour, as they did when one or both of them was processing something difficult. Jessie's project had its own complications - network notes, creative compromises, the perpetual tension between vision and commerce. They traded frustrations like currency, each validating the other's struggles.
 
@@ -368,7 +353,6 @@ Delphine looked at her wife with renewed appreciation. "When did you become a ph
 "I've been married to you for twelve years. Some of it sinks in."
 
 
----
 
 The question Jessie had asked earlier returned: what did Delphine actually believe? Stripped of professional distance, of filmmaker's craft, of the carefully maintained uncertainty that let her avoid commitment - what did she think had happened?
 
@@ -389,7 +373,6 @@ Delphine considered this. It was closer to what she needed - not neutrality, not
 "Then work with it. And stop worrying about whether you're the right person. You're the person doing it. That's enough."
 
 
----
 
 Later, after Jessie had gone to bed, Delphine sat in her office and drafted the treatment. Not the final version - that would come after more research, more interviews, more understanding of the shape the material wanted to take. But an initial structure, a way of organizing what she was beginning to see.
 
@@ -404,13 +387,12 @@ It was a strange kind of documentary. Delphine wasn't sure it would work. But it
 She saved the draft and went to bed, dreaming of whiteboards and competing colors and a story that refused to become just one thing.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The treatment was finished by Thursday - earlier than she had expected, later than the platform wanted. Delphine read through it one final time, checking for the places where her own bias might be showing through, adjusting language that leaned too heavily toward any single interpretation.
 
@@ -433,7 +415,6 @@ There it was.
 This was reasonable. It was also a change that would subtly reshape the documentary's argument, prioritizing drama over epistemology. Delphine considered how to respond.
 
 
----
 
 "I can work with that," she said. "But I want to be clear about what it means. If we start with drama, viewers will have emotional investment before they have intellectual context. They'll be primed to respond to the interpretations based on how the crisis made them feel rather than how the evidence makes them think."
 
@@ -452,7 +433,6 @@ They negotiated for another hour, finding compromises that Delphine could live w
 "Then we're good. Let's make something that matters."
 
 
----
 
 After the call ended, Delphine sat with the feeling of something beginning. She had accepted the commission, shaped the treatment, negotiated the terms, acquired the resources. Now she would have to actually make the thing - transform her uncertainty about uncertainty into a viewing experience that could convey what she meant.
 
@@ -473,7 +453,6 @@ The documentary about not-knowing had begun.
 It was already teaching her things she didn't know.
 
 
----
 
 
 

@@ -11,7 +11,6 @@ He opened a blank document and began to type.
 "Internal documents obtained by this reporter, verified through multiple independent channels, reveal a different story. Not a story of deliberate concealment or corporate malfeasance, but something potentially more disturbing: a story of genuine uncertainty at every level of the organization, from engineers to executives to regulators who were supposed to oversee them all."
 
 
----
 
 The words came slowly at first, then faster as the shape of the piece emerged. Jerome worked through the night, pausing only to verify specific facts, to check quotes, to ensure that every claim could be supported by documentation.
 
@@ -30,7 +29,6 @@ He thought about Kevin Zhou's warnings about operational security. He thought ab
 Then he returned to his article and kept writing.
 
 
----
 
 By dawn, he had a draft. Not polished - it would need more work, more verification, probably more sources - but a draft. Something he could show to his editor, could send to Crane for comment, could share with Kevin Zhou if they ever had that promised interview.
 
@@ -49,7 +47,6 @@ That was what journalism was for, Jerome reminded himself. Not to convince every
 He saved the draft and went to bed as the sun rose over Baltimore, carrying questions that would not resolve but could not be abandoned.
 
 
----
 
 Denise was already awake when he slipped into bed. She didn't say anything, just made room for him, adjusted the covers. After a moment, she spoke into the darkness.
 
@@ -86,5 +83,4 @@ Sleep came eventually, shallow and brief. When he woke a few hours later, the ar
 He published it anyway. That was what journalists did.
 
 
----
 

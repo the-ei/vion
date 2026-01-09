@@ -15,7 +15,6 @@ She picked up her phone and called Jessie.
 "That sounds like you."
 
 
----
 
 Delphine told Jessie about the screening, the questions, the professor's theories. She described watching her own work with fresh eyes, seeing both the compromises and something she had forgotten—the stubbornness that kept a single image intact.
 
@@ -42,7 +41,6 @@ Delphine considered this. She had come to UCLA expecting to confront failure and
 "I wanted to talk to you. Are you famous now?"
 
 
----
 
 The question cut through everything. Are you famous now?
 
@@ -79,7 +77,6 @@ When Jessie took the phone back, her voice was gentler. "He missed you."
 "Come home soon. We'll process all this together."
 
 
----
 
 After the call, Delphine sat in the hotel room's silence and opened her laptop. She was not sure what she was looking for—evidence, maybe, or context. Some way to understand why her work had survived when other work had not.
 
@@ -96,7 +93,6 @@ And then there was Delphine, whose compromised corporate commission was now part
 Why? There was no clear pattern.
 
 
----
 
 Delphine read about Robert Okonkwo for longer than she intended. They had met once at a screening, shared a drink, talked about the difficulty of making meaningful work in a system designed to consume it. He had been passionate about immersive technology's potential to create empathy, to make people feel what it was like to be someone else.
 
@@ -113,7 +109,6 @@ Maybe Adelina was right. Resonance. The accident of capturing something that kep
 Or maybe there was no explanation. Maybe survival was luck.
 
 
----
 
 She closed the laptop without closing the tabs. Robert's face remained in a browser window somewhere, frozen in a publicity photo from 2036. He was smiling, unaware that his work would not survive him.
 
@@ -130,7 +125,6 @@ But maybe it was also freedom. Maybe letting go of control meant letting go of g
 The archive had its own logic. Fighting it was futile.
 
 
----
 
 She thought about Tomás, somewhere in the world, probably not thinking about the film that had documented his life seven years ago. She thought about the students who would teach her work to other students, building meanings she never intended. She thought about Theo, who wanted pizza and did not care about archives, who would inherit the world his mothers had shaped without knowing how they had shaped it.
 
@@ -149,5 +143,4 @@ The work existed. It meant things she had not intended. It was being taught to p
 It was survival. Maybe that was enough.
 
 
----
 

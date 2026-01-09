@@ -13,7 +13,6 @@ The intake had been efficient - algorithmic, almost. Denise's information pulled
 "Like someone waiting to find out if she's dying."
 
 
----
 
 Jerome squeezed her hand. There was nothing to say that wouldn't be either false comfort or confirmation of her fear. So he just held on, feeling the warmth of her palm, the slight tremor that she couldn't quite control.
 
@@ -32,7 +31,6 @@ A name was called - not Denise's - and the young couple stood, the woman clutchi
 "You have more than precedent. You have excellent doctors and early detection and thirty years of medical progress since your aunt."
 
 
----
 
 "I know the statistics," she said. "I've researched them obsessively since the biopsy. I know the survival rates for different stages and hormone receptors and genetic markers. I know that breast cancer treatment has become remarkably effective, that most women diagnosed today will die of something else eventually. I know all of it." She turned to look at him directly. "But knowing isn't the same as feeling. And what I feel is terrified."
 
@@ -45,7 +43,6 @@ Dr. Adaora Okonkwo entered briskly, tablet in hand, white coat over professional
 "Mrs. Washington, Mr. Washington. Thank you for coming in." She sat on a rolling stool, positioning herself at their level. "I've reviewed all the results. Let me share what we know."
 
 
----
 
 The news came in precise language. Stage 1B. Invasive ductal carcinoma. Hormone receptor positive, HER2 negative. Tumor size 1.8 centimeters. No lymph node involvement based on imaging, though this would be confirmed surgically. Each term landed like a stone dropped into water, creating ripples Jerome could feel spreading through his chest.
 
@@ -64,7 +61,6 @@ Jerome listened as the women discussed logistics - dates, procedures, what to ex
 His wife had cancer. The words existed now, like a key turned in a lock. Whatever happened next, however successful the treatment, his wife had cancer and that fact would never become completely untrue. Something had entered their lives that would not leave, that would shape every future moment even when it receded from immediate view.
 
 
----
 
 Dr. Okonkwo finished her explanations and asked if they had questions. Denise had several - specific, researched, the questions of someone who had been preparing for this conversation. Jerome found he had none. His mind had stopped forming questions and was simply absorbing the reality, trying to integrate this new knowledge into his understanding of who they were and what their life looked like now.
 
@@ -87,7 +83,6 @@ Denise reached over and took his hand again. "We're going to be okay. Both of us
 "I know." He squeezed her hand. "I know."
 
 
----
 
 They drove home through streets Jerome knew by heart. Past the corner where they had bought DeShawn his first bicycle. Past the library branch where Denise used to take him on Saturday mornings. Past the school where parent-teacher conferences had measured their son's progress through childhood. The city was layered with their history, thirty years of moments accumulated into a life that now felt fragile in a way it hadn't before.
 
@@ -114,7 +109,6 @@ She wiped her face with her hands. "When did you get wise?"
 She almost laughed - a wet, broken sound that was halfway to more crying. He loved her so much in that moment that it hurt, a physical ache in his chest.
 
 
----
 
 They went inside. The house received them as it always did - familiar, warm, full of the accumulated evidence of their shared life. But Jerome saw it differently now. The photographs on the wall, the furniture they had chosen together, the kitchen where they had cooked a thousand meals - all of it was the scaffolding of a life that could be dismantled. Not would be, not by this. But could be. The possibility had always existed; he simply hadn't seen it clearly until today.
 
@@ -137,13 +131,12 @@ She considered this, then nodded. "A few hours. Then we call."
 They sat together on the couch, not talking, just present. The afternoon light moved slowly across the floor. The house was quiet. The world continued outside, indifferent and relentless. And inside, two people who had built a life together sat with the knowledge that building was always, also, learning how to let go.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 DeShawn arrived the next evening, having driven down from Philadelphia after Jerome called. He stood in the doorway of the family home with a duffel bag over his shoulder, looking younger than his twenty years and older at the same time - the face of the child they had raised visible beneath the face of the young man he had become, overlaid with an expression of fear that he was trying to control.
 
@@ -160,7 +153,6 @@ Jerome hung back, giving them space. He watched his son hold his wife and felt s
 "We didn't know what the results meant until yesterday. And you're here now. That's what matters."
 
 
----
 
 They ordered Thai food - Denise's choice, her comfort cuisine since she had spent a summer in Bangkok before graduate school. The containers spread across the kitchen table, steam rising, the familiar smells filling the room. Jerome poured wine for himself and Denise; DeShawn stuck with sparkling water, claiming he was trying to cut back on alcohol, which Jerome suspected was a gesture of solidarity with his mother rather than an actual lifestyle change.
 
@@ -183,7 +175,6 @@ Jerome noticed how matter-of-factly Denise discussed her own body, her own morta
 "I want to be here, Mom. Not because you need me. Because I want to."
 
 
----
 
 Denise reached across the table and squeezed his hand. "We'll figure out the schedule. Maybe you come down for the surgery and the first few days of recovery. But don't put your life on hold. That's not what I want. What I want is for you to be doing what makes you feel alive while I'm getting through this. Your success would be the best medicine."
 
@@ -202,7 +193,6 @@ DeShawn glanced at Jerome, a flicker of surprise that his father had been paying
 DeShawn looked at Jerome again, this time longer. The comparison hung in the air between them - the implication that they might not be as different as their arguments suggested.
 
 
----
 
 "I remember when I was maybe ten," DeShawn said, addressing both of them but looking mostly at his mother. "Dad was working on something big. I didn't know what - something about corporations, data, the kind of story he always did. He was barely home. Weeks of late nights, early mornings. And you, Mom, you kept everything running. Made sure I got to school, did my homework, had dinner. Never complained, at least not where I could hear."
 
@@ -223,7 +213,6 @@ Denise smiled, a tired but genuine expression. "Nothing like cancer to unstick a
 The dark humor landed, releasing something. Jerome almost laughed. DeShawn did laugh, brief and surprised.
 
 
----
 
 They finished dinner and moved to the living room. The evening had deepened outside, the windows dark, the house warm with light and presence. Jerome sat in his usual chair while Denise and DeShawn shared the couch. Old stories began to surface - the vacation to Cape Cod when DeShawn was eight and got stung by a jellyfish, the time Denise had mistakenly enrolled him in a dance class instead of a soccer league and he'd liked it so much she let him stay, the history project where Jerome had gotten too involved and DeShawn's teacher had gently suggested that sixth-graders should probably do their own research.
 
@@ -248,7 +237,6 @@ Denise looked at Jerome across the living room. "That was good. Having him here.
 "It's a trait. Flaws and virtues are just traits in different lighting."
 
 
----
 
 They went upstairs together, moving through the nighttime rituals that thirty years had worn smooth. Teeth brushed, clothes exchanged for sleepwear, the adjustments of pillows and blankets. The mundane mechanics of going to bed, unremarkable except for everything surrounding them.
 
@@ -271,7 +259,6 @@ Jerome reached for her hand under the covers. "What do you want to do differentl
 "That sounds good. Hard but good."
 
 
----
 
 "What about you?" Denise asked. "What do you want?"
 
@@ -308,13 +295,12 @@ He squeezed her hand. "I promise."
 They lay together in the dark, the house quiet around them, their son asleep down the hall. The world outside continued its revolutions. And in this small room, two people who had spent thirty years building something held on to each other against the uncertainty of what came next.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Three days later, DeShawn had returned to Philadelphia and the house had settled into a new rhythm. Denise's pre-operative appointments were scheduled; she was deep in research about recovery times and dietary adjustments and all the practical details that gave her a sense of control. Jerome had taken over more of the household tasks, trying to lighten her load without making her feel diminished.
 
@@ -333,7 +319,6 @@ If you're willing to talk, I think you'll want to know what I've found.
 The email was followed by credentials - Jeffries' publication history, his academic affiliations, links to previous investigative work that Jerome could verify.
 
 
----
 
 Jerome's first reaction was defensive. He had spent years on the Eighth Oblivion coverage. He had pushed harder, dug deeper, risked more than any other journalist. His series had won awards, shaped public understanding, contributed to the regulatory responses that followed. If there had been something to find, he would have found it.
 
@@ -354,7 +339,6 @@ Jerome read the attachment twice. The writing was authentic - he recognized the 
 If this was real, his coverage had missed something fundamental.
 
 
----
 
 The video call connected at four o'clock. Malik Jeffries appeared on screen - younger than Jerome had expected, late twenties, Black, with wire-framed glasses and the kind of focused intensity that Jerome recognized from his own early years in the profession. Behind him, visible in the frame, were bookshelves dense with texts and a wall covered with printed documents, photographs, the physical evidence of long research.
 
@@ -375,7 +359,6 @@ For the next hour, Jeffries laid out his research. The corporate communications 
 Jerome listened, asked questions, took notes. His skepticism battled with his recognition that the picture Jeffries was painting explained gaps he had always noticed but never been able to fill.
 
 
----
 
 "Why come to me?" Jerome asked when Jeffries had finished his presentation. "You have the material. You're a capable journalist. Why not break this yourself?"
 
@@ -400,7 +383,6 @@ Jerome felt the echo of something in those words. A sense that he was being offe
 "I want to expose the truth. However that happens. If it means collaboration, I'm for it. If it means you take what I've found and run with it yourself, I'd accept that too. What matters is the story, not who tells it."
 
 
----
 
 The call ended with an agreement to talk again. Jeffries would send more documentation. Jerome would review it, verify what he could, identify questions and gaps. No commitment yet, no formal collaboration - just the first steps of what might become something larger.
 
@@ -427,7 +409,6 @@ He explained about Jeffries, about the email, about the evidence of what his Eig
 Denise nodded slowly. "That's the Jerome I know. The one who can't leave a question unanswered."
 
 
----
 
 "I'm scared," he admitted. "Not of the work - I know how to do that. But of what it might cost. What it might take from us, especially now."
 
@@ -460,7 +441,6 @@ He wrote until midnight, filling page after page with questions, connections, hy
 Outside his window, Baltimore slept. But Jerome was awake again, truly awake, looking backward to find what had been hidden.
 
 
----
 
 
 

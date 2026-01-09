@@ -15,7 +15,6 @@ Elena stood very still. She could feel Daniel beside her, could feel the tension
 "Gone. Their security left on day three when they stopped getting paid. The police came by once, put up some tape, and never came back." He looked at Elena with eyes that had seen the same things she had seen. "The supplies are just sitting there. Behind a door that doesn't even lock anymore. And people are dying."
 
 
----
 
 Elena thought of Mrs. Gutierrez.
 
@@ -40,7 +39,6 @@ She had not said she was going. She had not made the decision, not consciously. 
 Jerome smiled without humor. "The company stole it first. They stole it from everyone who needed it."
 
 
----
 
 The group assembled in less than an hour.
 
@@ -55,7 +53,6 @@ The streets of Phoenix were strange in the dusk. Some neighborhoods seemed almos
 The city had not collapsed. It had fractured, each fragment finding its own way to survive.
 
 
----
 
 They reached the warehouse complex just after eight.
 
@@ -74,5 +71,4 @@ He did not hesitate. He began loading containers into the cart Jerome had found,
 They were stealing. She knew that. But the word had lost its meaning somewhere in the past hour, somewhere between Mrs. Gutierrez's last breath and this moment in a warehouse full of life that had been abandoned to die.
 
 
----
 

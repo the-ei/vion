@@ -11,7 +11,6 @@ People began to notice. A few turned toward the sound, curious. Someone shushed 
 Yusuf kept playing. The melody expanded, developed, found variations he had not planned but that felt inevitable. His anger was in there - it would always be in his music, the fury at systems that crushed people like his family - but something else was there too. Not the opposite of anger. A complement to it. The recognition that anger alone was not enough, that it needed to be channeled into building rather than just breaking.
 
 
----
 
 He played for an hour. Maybe longer - time became elastic, stretched by the music, contracted by focus. The crowd grew and shrank as people came to listen and then drifted away to other conversations. But some stayed, held by whatever was coming through the cheap speakers of that terrible Casio.
 
@@ -24,7 +23,6 @@ The music shifted into a new section, something quieter and more reflective. Yus
 He let that thought guide his fingers. The melody that emerged was not happy - happiness was too simple for what he was feeling - but it was alive. It breathed. It moved forward even when it looked back.
 
 
----
 
 When he finally stopped, the silence that followed was its own kind of music. Then applause, genuine and warm, the sound of people who had been moved and wanted him to know it.
 
@@ -53,5 +51,4 @@ She hugged him then, her skinny arms wrapped tight around his middle. Over her h
 A year ago he had been paralyzed, unable to create, trapped in fragments that refused to become whole. Tonight he had played for an hour straight, had found structure where there had been only chaos, had made something that moved other people. The music had come back. Not the same music he used to make, but something different. Something that included everything he had lost and everything he had found.
 
 
----
 

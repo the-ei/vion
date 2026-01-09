@@ -11,7 +11,6 @@ He pulled up a diagram on the screen behind him, the brain regions that the sens
 "That's what we're about to find out. The preliminary tests suggest it varies between people. But the common descriptions include warmth, pressure, color. Embodied metaphors for inner states."
 
 
----
 
 Margaret raised a hand, the tech ethicist's concern visible in her face. "You said preliminary tests. How many people have used this before us?"
 
@@ -34,7 +33,6 @@ The room was quiet for a moment. Kevin Zhou saw them processing this, the implic
 "Let me explain the safeguards," he said, and he felt Ananya's influence flowing through the words. "At any moment, you can withdraw. The headband has a release mechanism that you control. Pull here" - he demonstrated on one of the sensors - "and you're immediately disconnected. Your participation is continuous consent. Every second you stay in the session is a choice."
 
 
----
 
 "And the data?" DeShawn asked, even though he already knew. He had helped design this part. He was asking for the others.
 
@@ -55,7 +53,6 @@ When the questions finally wound down, he looked at the group: six people in six
 Silence. Then Yusuf spoke: "Let's do it."
 
 
----
 
 Kevin Zhou helped each participant adjust their headband. The sensors needed to sit precisely on the temples, the contact firm but not uncomfortable, the connection to the processing system verified by a small green light. He moved around the curve of stations, checking each one, his hands steady even though his heart was racing.
 
@@ -76,5 +73,4 @@ The interface was ready. The participants were ready.
 Only Kevin Zhou was not ready. But he pressed the button to begin anyway.
 
 
----
 

@@ -7,7 +7,6 @@ The television was on, muted, showing a news broadcast. A woman at a desk, lips 
 The overhead light flickered once and everyone tensed. Then it steadied, and the tension remained, the aftermath of a flinch that would take months to unlearn.
 
 
----
 
 Elena thought about the patient with the broken arm. He had come in during the second day, maybe the third, when the clinic was at its most overwhelmed and every available surface had become a treatment space. His arm had been broken by something falling, a shelf, a cabinet, something in his home that had toppled when the tremors hit, though whether the tremors were seismic or something else entirely had never been explained to her satisfaction. But his arm was not what he wanted to talk about. His arm was secondary to the question he kept asking, the question that had become a kind of fever in him, more urgent than any physical pain: his daughter, his daughter, had anyone heard from his daughter, she had been downtown when it started, she had been in one of the buildings that might have fallen or might have held.
 
@@ -18,7 +17,6 @@ The crying nurse had stopped crying. She was eating now, methodically, without a
 The television showed footage of a street somewhere, damage she could not identify, people walking through wreckage.
 
 
----
 
 The refrigerator hummed. The fluorescent lights hummed. The generator beneath the building hummed, still running even though it was no longer necessary, no one willing to turn it off, no one trusting that it would not become necessary again at any moment. Elena listened to these sounds and let them become the texture of the silence, the white noise of aftermath.
 
@@ -37,5 +35,4 @@ The evening had arrived without anyone noticing. Through the window, the parking
 Elena sat. She breathed. She waited for something that had already passed to feel like it had passed, for the ending to catch up with the event it was meant to conclude. Outside, the city continued its silent convalescence, and somewhere her children slept in unfamiliar beds, and somewhere patients waited for care she was not giving them, and she sat very still and let the time move around her like water around a stone, eroding nothing, changing nothing, simply passing.
 
 
----
 

@@ -23,7 +23,6 @@ They walked from the station toward Lake Merritt, the water glittering in late m
 Kevin Zhou laughed. This was Yusuf - the direct Minneapolis energy, the refusal to pretend things were simpler than they were. It was one of the qualities that had made their crisis collaboration work: Yusuf didn't waste time on politeness when clarity was more valuable.
 
 
----
 
 "How's your family?" Kevin Zhou asked as they walked. "Amina? Your mother?"
 
@@ -48,7 +47,6 @@ They reached Lake Merritt and found a bench facing the water. Runners passed, do
 "Both probably."
 
 
----
 
 They walked through the afternoon, Kevin Zhou playing tour guide to a visitor who didn't want tourist attractions. Yusuf wanted to see the infrastructure - the community centers, the mutual aid networks, the places where organizing happened. Kevin Zhou showed him the church basement where his platform had first been deployed, the community garden that served as a distribution hub, the housing collective that had formed after the crisis when landlords tried to evict everyone at once.
 
@@ -69,7 +67,6 @@ He explained about DeShawn - the mentorship, the startup, the Prometheus approac
 "So the young founder can't hear your warning because it sounds like fear," Yusuf summarized. "And you're wondering if there's another way to reach him."
 
 
----
 
 "His father is Jerome Washington. The journalist who covered the crisis."
 
@@ -79,7 +76,7 @@ He explained about DeShawn - the mentorship, the startup, the Prometheus approac
 
 Yusuf was quiet for a while, considering. They had stopped in front of a mural depicting community resilience - hands holding each other, gardens growing, the imagery of collective survival.
 
-"There's a principle in organizing," Yusuf said finally. "When you can't reach someone directly, you work through their network. You find the people they trust, the relationships that matter to them, and you put information into those channels. It's not manipulation - it's understanding that influence flows through connection, not through argument."
+"There's a principle in organizing," Yusuf said finally, his voice taking on the measured tone he used when teaching. "When you can't reach someone directly, you work through their network. You find the people they trust, the relationships that matter to them, and you put information into those channels. It's not manipulation - it's understanding that influence flows through connection, not through argument."
 
 "But is it my place? DeShawn didn't ask me to talk to his father. He might see it as going behind his back."
 
@@ -92,7 +89,6 @@ Kevin Zhou thought about it. His gut said that DeShawn was heading toward a mist
 "Then call him. But do it for the right reasons - because you care about DeShawn's future, not because you need to be right. The difference matters."
 
 
----
 
 They continued walking as the afternoon deepened. The conversation shifted to Yusuf's work in Minneapolis - the tenant organizing, the mutual aid networks, the slow work of building power in communities that had been systematically disempowered. Kevin Zhou listened, recognizing familiar challenges in unfamiliar contexts.
 
@@ -113,7 +109,6 @@ Yusuf's clarity was grounding. Kevin Zhou spent so much time in the technical de
 "That's what friends are for. To remind you who you are when you forget."
 
 
----
 
 They had dinner at a Vietnamese restaurant in Chinatown that Kevin Zhou had discovered during the crisis - one of the places that had stayed open, serving anyone who could pay and many who couldn't, when the city's infrastructure was failing. The owner, Mrs. Nguyen, recognized Kevin Zhou and brought them extra spring rolls without being asked.
 
@@ -148,5 +143,4 @@ They embraced again at the door - longer this time, the full weight of friendshi
 Yusuf went to the guest room. Kevin Zhou stayed on the balcony, looking at the lights, thinking about the call he would make tomorrow.
 
 
----
 

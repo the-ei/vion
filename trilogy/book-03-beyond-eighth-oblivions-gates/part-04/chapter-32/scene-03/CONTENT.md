@@ -13,7 +13,6 @@ Patricia nodded like she understood even though she probably didn't. She was the
 "The funeral. And everything before it. And everything since." Elena opened her lunch bag, took out the sandwich she'd made that morning, looked at it without appetite. "I was at my grandmother's bedside for two weeks. Watched her die. And something happened that I'm still trying to understand."
 
 
----
 
 The microwave beeped. Lorena retrieved her food and sat down at the other end of the table, close enough to listen but not intruding. They had all learned how to occupy the same small spaces without crowding each other, one of the unspoken skills of working in places where privacy was impossible.
 
@@ -30,7 +29,6 @@ Patricia was looking at her with something like hope. The young ones always want
 Until now. Until her grandmother's hand had gone cold in hers and something had melted back together.
 
 
----
 
 "The thing is," Elena said slowly, feeling her way toward a thought that wasn't quite formed yet, "we know things. All of us in this room. Things about how the system works, how to work around it, how to actually help people despite everything. And none of that is in any training manual."
 
@@ -47,7 +45,6 @@ Until now. Until her grandmother's hand had gone cold in hers and something had 
 The room was quiet for a moment. Tomas opened his eyes.
 
 
----
 
 "That's a lot of work," he said. "On top of the work we already don't have time for."
 
@@ -74,5 +71,4 @@ The break room timer beeped. Fifteen minutes gone. The afternoon was waiting.
 "We will," Elena said. And for the first time in months, she meant it.
 
 
----
 

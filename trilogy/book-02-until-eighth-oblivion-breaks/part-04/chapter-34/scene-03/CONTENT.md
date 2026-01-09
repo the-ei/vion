@@ -15,7 +15,6 @@ It was messy. Elena could see that. The systems they were using were inefficient
 But properly organized institutions had failed. And this messy, inefficient, human thing was still working.
 
 
----
 
 Daniel introduced her to the man he had been talking to earlier: Ray, a former electrician who had been working on solar panel maintenance when the crisis hit. Ray knew which houses in the neighborhood had solar installations, knew how to repair them, knew how to rig battery storage from salvaged car batteries.
 
@@ -36,7 +35,6 @@ Elena listened as they talked through the technical requirements. She understood
 Ray was quiet for a moment. "That's the question, isn't it. Do we go back to being strangers who buy power from a company? Or do we keep this?"
 
 
----
 
 The food distribution conversation was happening near the fire, louder than the others. Elena drifted toward it and found herself in the middle of a debate.
 
@@ -61,7 +59,6 @@ The circle went quiet. The first woman frowned, considering. Mrs. Williams nodde
 The decision was made. No vote, no formal process. Just consensus emerging from argument.
 
 
----
 
 Elena found Dr. Okonkwo near the edge of the gathering, watching the debates with an expression Elena recognized: the professional assessment of someone trying to understand a system.
 
@@ -90,7 +87,6 @@ Dr. Okonkwo was quiet for a moment. "You weren't as alone as you think. I was th
 "Something old, maybe. Something we forgot how to do."
 
 
----
 
 The network continued to operate around them. Skills were being catalogued: who knew carpentry, plumbing, electrical work, nursing, teaching, childcare. Resources were being inventoried: who had solar panels, who had wells, who had gardens, who had tools. Plans were being made: how to secure water if the city supply failed completely, how to handle medical emergencies, how to protect against whatever threats might emerge.
 
@@ -109,5 +105,4 @@ This was something smaller but perhaps more durable: the recognition that even i
 It wasn't enough. But it was something. And something was more than she had expected to find.
 
 
----
 

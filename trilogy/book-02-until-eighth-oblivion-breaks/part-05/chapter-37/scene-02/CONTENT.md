@@ -13,7 +13,6 @@ Yusuf smiled despite himself. His mother's observations had grown sharper since 
 At the other end of the table, Amina sat with her flashcards spread before her, muttering vocabulary words under her breath. *Ephemeral. Ubiquitous. Acquiesce.* She did not look up either, lost in the rhythm of memorization, building a future word by word, as if words could construct a scaffold sturdy enough to climb.
 
 
----
 
 "How's the studying?" Yusuf asked her.
 
@@ -36,7 +35,6 @@ Fatima set down the rolling pin and turned to face them both. In the light from 
 Yusuf stood and went to the refrigerator. Inside was the careful architecture of scarcity: leftovers in labeled containers, fresh vegetables in the produce drawer, the insulin vials on their dedicated shelf, their presence a constant reminder of the fragility that shaped every decision this family made.
 
 
----
 
 "There's soup," Fatima said. "From yesterday. Heat it up if you're hungry."
 
@@ -59,7 +57,6 @@ The microwave beeped. He took his soup and sat back down at the table.
 Fatima looked at him with renewed attention. "What kind of meeting?"
 
 
----
 
 "I don't know exactly. Mutual aid, I think. Some people who helped each other during the crisis want to keep helping each other after."
 
@@ -84,7 +81,6 @@ Yusuf felt something in his chest, a warmth or a pressure. Omar Farah had known 
 Fatima smiled without turning around. "Good. Now eat your soup before it gets cold."
 
 
----
 
 Amina had stopped studying and was watching him with an expression he could not read. "You did something during the crisis, didn't you? Something happened."
 
@@ -109,5 +105,4 @@ He thought about texting Kevin Zhou and did not text Kevin Zhou.
 The soup tasted like home.
 
 
----
 

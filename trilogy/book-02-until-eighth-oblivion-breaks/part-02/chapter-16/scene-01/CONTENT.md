@@ -23,7 +23,6 @@ Jerome knew this tone. Twenty-three years of marriage had taught him to recogniz
 "Where should I start?" Her voice cracked on the question. "With the fact that you've been gone more than you've been here for the past two months? With DeShawn asking me when his father became a ghost?"
 
 
----
 
 "I'm working on something important."
 
@@ -44,7 +43,6 @@ Jerome felt the words land with the precision of long-observed wounds. She wasn'
 "Changed understanding hasn't saved a single marriage, Jerome. Changed understanding hasn't made a single teenager feel less abandoned by his father."
 
 
----
 
 The accusation settled in the early morning quiet. Jerome could hear the house around them - the hum of the refrigerator, the tick of the clock, the sounds of a home that had sheltered their life together and was now the stage for its potential dissolution.
 
@@ -67,7 +65,6 @@ Jerome wanted to defend himself, to explain that he was doing this for them as m
 "You tell me. Because I'm not sure there is one, for you."
 
 
----
 
 They sat in the silence that follows when words have run out but the conversation isn't over. Outside, the sky was beginning to lighten - the gray pre-dawn giving way to the pinks and oranges of another day that would require choices neither of them was ready to make.
 
@@ -88,5 +85,4 @@ And here he was, facing his own. The story or the family. The pursuit of truth o
 He went to the bedroom and lay down on the bed that had been his and Denise's for two decades, closed his eyes, and tried not to think about what would happen when he woke up.
 
 
----
 

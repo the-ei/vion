@@ -17,7 +17,6 @@ Elena made a sound that might have been a laugh or might have been a sob. The wa
 "Sofia's watching cartoons. Mateo's asleep on the couch. He's been asking for you constantly." A pause. "Elena, where are you? What's happening there?"
 
 
----
 
 "I'm at the clinic. I've been here since." Since when? She could not reconstruct the timeline. "Since you left. Since the evacuation."
 
@@ -48,7 +47,6 @@ Another silence. This one lasted longer. She could hear him breathing, the famil
 "Elena, things are never going to stabilize. You know that."
 
 
----
 
 She did know. She knew it and still she could not leave, some part of her fused to this place, to these tasks, to the work that gave her a reason not to think about everything else.
 
@@ -81,7 +79,6 @@ The song. The bedtime song Elena had sung to both children since they were infan
 "Okay." Another silence. "Mommy? Are the bad things over?"
 
 
----
 
 Elena closed her eyes. The wall held her up. Through the phone she could hear the cartoon voices, the false cheerfulness of animated animals having adventures, and beyond that the silence of a house in Flagstaff where her children waited for her to say something that would make the world make sense.
 
@@ -104,5 +101,4 @@ They stayed on the line for another minute, not speaking, just breathing togethe
 She stood in the hallway for a long time after. The fluorescent lights buzzed. Someone walked past, a nurse she should know, and nodded at her, and she nodded back. The call was over. Her family was alive. She should feel relieved. She did feel relieved, somewhere beneath the numbness. But relief was not the same as knowing what to do next, and she did not know, could not know, stood there not knowing until her legs started moving again of their own accord, carrying her toward the next patient, the next task, the next breath.
 
 
----
 

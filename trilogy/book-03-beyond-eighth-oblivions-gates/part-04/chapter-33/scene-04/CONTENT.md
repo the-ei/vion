@@ -21,7 +21,6 @@ Yusuf hesitated. He had never played his music for Amina in any serious way. She
 He nodded at Terrell, who pulled off his headphones and cued up the first song, "Inheritance." The speakers came alive with Yusuf's voice.
 
 
----
 
 Amina didn't move while the song played. She stood with her arms crossed, her face unreadable, watching the speakers as if she could see the sound coming from them. Yusuf watched her watching, trying to guess what she was thinking, failing. Siblings were supposed to know each other better than anyone, but there were parts of Amina that remained mysterious to him, just as there were parts of him that she was only now hearing.
 
@@ -44,7 +43,6 @@ When the song ended, the room was quiet. Terrell discreetly turned back to his w
 Amina uncrossed her arms. Her eyes were bright but she wasn't crying; she had inherited their mother's composure along with their father's stubbornness. "He would have loved it. You know that, right? He would have been so proud."
 
 
----
 
 Yusuf felt the weight of her words settle into him. Their father had never heard any of his music, had died before Yusuf even started writing songs seriously. The humming in the car, the fragments on the phone - all of that came after, born from the absence, a way of continuing a conversation that death had interrupted.
 
@@ -67,7 +65,6 @@ Amina smiled. "Finance makes you philosophical. All those numbers representing t
 "Yeah. Except yours actually mean something. I can hear it."
 
 
----
 
 They stood together in the control room, the siblings who had survived their father's death and their own different struggles, and for a moment the ten years between them collapsed. Amina was not the successful one and Yusuf was not the lost one. They were just two people who had come from the same place and gone in different directions, both directions valid, both lives real.
 
@@ -96,5 +93,4 @@ Amina nodded, satisfied. She headed for the door, paused, looked back.
 Then she was gone, and Yusuf was alone with the music again, ready to continue.
 
 
----
 

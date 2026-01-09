@@ -7,7 +7,6 @@ He took it because the rent was still due on the first, because the power compan
 The first request was a pharmacy run. The map showed an address in Powderhorn, a neighborhood he knew well from a thousand previous deliveries, and the customer notes said simply: BLOOD PRESSURE MEDICATION - URGENT. Yusuf drove through streets that looked almost normal and streets that looked like disaster footage, the damage distributed according to some logic he could not discern, some algorithm of destruction that made no more sense than the one routing him to delivery addresses. A boarded window here, an intact storefront there. A pile of debris on one corner, children walking to school on the next, their backpacks bright against the gray morning.
 
 
----
 
 The pharmacy was operating on emergency hours, a handwritten sign taped to the door. Inside, the shelves were half-empty, but they had the blood pressure medication. Yusuf paid with the customer's linked card and drove to the address, a small house with a cracked driveway and a screen door that needed replacing.
 
@@ -24,7 +23,6 @@ Yusuf nodded and returned to his car. The app was already pinging with another r
 The second delivery was groceries to a family in Phillips. The address existed, which was more than could be said for some of the requests the app was generating - he had seen three already that pointed to buildings now uninhabitable, the algorithm cheerfully routing drivers to addresses where no one could live. This one was real: a woman in her thirties met him at the door with two children clutching her legs, all three of them carrying the particular alertness of people whose bodies had not yet forgotten fear.
 
 
----
 
 "We just got back," she said, taking the bags. "We were in Duluth with my sister. I didn't know if the house would still be here."
 
@@ -37,7 +35,6 @@ The app offered him a surge-priced delivery to an address in Northeast. He looke
 The building was a converted warehouse, apartments carved out of industrial space, and the lights were on in one unit. The customer notes said: LEAVE AT DOOR. DO NOT KNOCK. Yusuf left the package of what looked like computer equipment on the concrete landing and walked back to his car.
 
 
----
 
 Through the window he glimpsed a figure moving, someone who had stayed or returned despite the evacuation order, someone living in a zone officially deemed uninhabitable by authorities who would not have to live there either way. The app marked the delivery complete. The surge bonus added twelve dollars to his earnings. Yusuf did not know what to feel about this, about any of it, about the fact that the system had resumed exactly as if nothing had happened, as if the chaos of the past week had been a brief interruption in the regular programming of extraction and precarity.
 
@@ -48,13 +45,12 @@ By mid-afternoon, his back ached and his eyes burned and he had made seventy-thr
 The snow was falling harder now. Minneapolis was disappearing into white, the damage hidden under fresh accumulation, the city pretending to be clean, to be new, to be anything other than what it actually was beneath the soft disguise.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The apartment smelled of cinnamon and cardamom, which meant his mother was baking, which meant she was worried enough to need something to do with her hands. Yusuf hung his jacket by the door and followed the scent to the kitchen, where Fatima stood at the counter rolling dough, her movements slower than they used to be but still precise, still certain. She did not look up when he entered, but he saw the set of her shoulders, the way she held herself as if braced against something, and he knew that she knew he was there.
 
@@ -71,7 +67,6 @@ Yusuf smiled despite himself. His mother's observations had grown sharper since 
 At the other end of the table, Amina sat with her flashcards spread before her, muttering vocabulary words under her breath. *Ephemeral. Ubiquitous. Acquiesce.* She did not look up either, lost in the rhythm of memorization, building a future word by word, as if words could construct a scaffold sturdy enough to climb.
 
 
----
 
 "How's the studying?" Yusuf asked her.
 
@@ -94,7 +89,6 @@ Fatima set down the rolling pin and turned to face them both. In the light from 
 Yusuf stood and went to the refrigerator. Inside was the careful architecture of scarcity: leftovers in labeled containers, fresh vegetables in the produce drawer, the insulin vials on their dedicated shelf, their presence a constant reminder of the fragility that shaped every decision this family made.
 
 
----
 
 "There's soup," Fatima said. "From yesterday. Heat it up if you're hungry."
 
@@ -117,7 +111,6 @@ The microwave beeped. He took his soup and sat back down at the table.
 Fatima looked at him with renewed attention. "What kind of meeting?"
 
 
----
 
 "I don't know exactly. Mutual aid, I think. Some people who helped each other during the crisis want to keep helping each other after."
 
@@ -142,7 +135,6 @@ Yusuf felt something in his chest, a warmth or a pressure. Omar Farah had known 
 Fatima smiled without turning around. "Good. Now eat your soup before it gets cold."
 
 
----
 
 Amina had stopped studying and was watching him with an expression he could not read. "You did something during the crisis, didn't you? Something happened."
 
@@ -167,13 +159,12 @@ He thought about texting Kevin Zhou and did not text Kevin Zhou.
 The soup tasted like home.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The community center smelled like old coffee and damp carpet, the particular institutional smell of places where people gather because they have nowhere else to go, no budget for anything better, no choice but to make do. Yusuf arrived late, slipping in through the side door, finding a seat in the back row of folding chairs. The room was fuller than he had expected: maybe forty people, ages ranging from teenagers to elders, faces he recognized from the neighborhood mixed with faces he did not know at all.
 
@@ -188,7 +179,6 @@ A murmur of agreement rippled through the room. Yusuf watched the faces around h
 She outlined a structure: neighborhood pods, resource sharing, communication networks, skill banks. It was ambitious and probably impossible and everyone in the room seemed to know this and not care, seemed to understand that impossibility was no longer a reason not to try.
 
 
----
 
 "Who's going to fund this?" A man near the front, skeptical but not hostile.
 
@@ -209,7 +199,6 @@ A younger woman spoke up, Latina, maybe late twenties, her voice impatient with 
 The woman raised her hand. "I'm Jasmine. I'll do it. But I need help. I'm not a medical professional."
 
 
----
 
 "My wife's a nurse," someone offered. "She's been wanting to do something like this since before the crisis."
 
@@ -234,7 +223,6 @@ Denise looked at him, assessed him in a single glance. "Name?"
 "Omar's vouched for you. Welcome to the transportation committee."
 
 
----
 
 The meeting lasted another hour. By the end, there were committees forming, contact lists circulating, a group chat being assembled on phones still unreliable, connections still fragile. It was messy and incomplete and would probably fall apart within weeks, but for now it was alive, pulsing with the particular energy of people who had decided to try something even knowing it might fail, perhaps especially knowing it might fail.
 
@@ -261,13 +249,12 @@ The mention of his father hit him unexpectedly, a sharp pain in the center of hi
 He walked home through the snow, the cold air clearing his head, the meeting's energy still humming in his veins.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 His bedroom was cold, the radiator hissing but not heating, a familiar complaint that the landlord would not address regardless of season or crisis, one of the thousand small indignities of renting. Yusuf sat on his bed and finally, for the first time since the crisis ended, opened his text messages and scrolled to Kevin Zhou's name.
 
@@ -288,7 +275,6 @@ The fifth: *I'm back in San Francisco now. Everything here is pretending to be n
 The sixth: *My parents are in China and I can't reach them. The calls won't go through. I don't know why I'm telling you this. I guess because you're the only person I've told anything real to in a long time.*
 
 
----
 
 The seventh, sent that morning: *I understand if you don't want to talk. I wouldn't want to talk to me either. But if you do. I'm here. I just want you to know that.*
 
@@ -309,7 +295,6 @@ The memory was vivid, carved into him: Kevin's expression when Yusuf had touched
 Delete. Too personal. Too honest.
 
 
----
 
 He set the phone down and looked at the ceiling. Outside, the snow continued falling, the window a rectangle of gray-white light, the world beyond it muffled and transformed. What did you say to someone like Kevin Zhou? What was the protocol for cross-class crisis bonding? He did not know. There was no app for this, no algorithm to optimize the connection between two people who should never have met.
 
@@ -326,7 +311,6 @@ He looked at the words. They were true. They were also insufficient. They said n
 He did not send the message. He did not delete it either. He left it sitting in the draft field, cursor blinking, and put the phone face-down on the bed.
 
 
----
 
 Tomorrow. He would figure out what to say tomorrow. Or the day after. Kevin had waited five days; Yusuf could take his time.
 
@@ -343,13 +327,12 @@ Not yet.
 But maybe soon.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Two in the morning and Yusuf could not sleep. He had tried for hours, the day's events cycling through his mind like fragments of a song searching for their proper sequence, the meeting and the messages and his mother's worried eyes, all of it churning without resolution. Finally he gave up pretending and sat up in the darkness and reached for the keyboard that had been gathering dust in the corner of his room since before the crisis began.
 
@@ -362,7 +345,6 @@ What came first was a chord, minor, low in the register, like something heard fr
 This was how he had always worked: not planning but discovering, letting the music tell him what it wanted to be.
 
 
----
 
 A melody emerged, sparse and halting, feeling its way forward like a hand in darkness. It did not sound like anything he had played before. It sounded like the crisis felt: fragmented, uncertain, punctuated by silences that meant as much as the notes. His left hand found a bass pattern, repetitive, insistent, the kind of figure that in another context might have anchored a dance track but here felt like a heartbeat refusing to give up.
 
@@ -370,12 +352,11 @@ The music was not good. It was not finished. It was not even coherent, jumping b
 
 The old man needing his medication. The family returning home. The car engine catching when he touched the wires together. Kevin Zhou's face in the darkness, the fear and the wonder and the shame.
 
-He played through these memories, not trying to represent them but letting them inflect the sounds, letting the emotions find their own expression. Anger came through in a series of sharp, discordant chords. Grief came through in a descending figure that seemed to have no bottom. And something else, something he could not name, came through in the moments when the music threatened to become beautiful and then pulled back, refusing the easy resolution.
+He played through these memories, not trying to represent them but letting them inflect the sounds, letting the emotions find their own expression in frequency and rhythm. Anger came through in a series of sharp, discordant chords. Grief came through in a descending figure that seemed to have no bottom, just kept falling. And something else, something he could not name, came through in the moments when the music threatened to become beautiful and then pulled back, refusing the easy resolution, insisting on the difficulty of what it was trying to say.
 
 
----
 
-Through the wall, a light came on. Amina. He could see the crack of light beneath her door, could imagine her lying awake, listening. She had always listened to him play, even when he wore headphones, some vibration or rhythm traveling through the walls to find her. She never said anything about it, never commented, but sometimes he would catch her humming melodies he had played the night before, and he would know that she had heard.
+Through the wall, a light came on. Amina. He could see the crack of light beneath her door, could imagine her lying awake, listening with the particular attention she gave to everything he did. She had always listened to him play, even when he wore headphones, some vibration or rhythm traveling through the walls to find her, some frequency only siblings could hear. She never said anything about it, never commented, but sometimes he would catch her humming melodies he had played the night before, and he would know that she had heard.
 
 He played for her now, in a way. Played for the sister who had spent the crisis studying vocabulary words because studying was the only thing she could control, the only plan that still made sense. Played for her future and his uncertainty about his own future and the strange way their lives had become both more fragile and more connected since the break.
 
@@ -386,9 +367,8 @@ His mother had told him once that his father used to sing when he worked. Songs 
 But maybe this was his version of the same thing. Maybe the keyboard was his voice, and the music was his way of insisting on something he could not articulate in words.
 
 
----
 
-He played until his hands ached, until the first gray light began to show at the window, until the shape in his head had become as real as he could make it with his current skills. Then he lifted his hands from the keys and sat in the silence that followed, the particular silence of having made something.
+He played until his hands ached, until the first gray light began to show at the window, until the shape in his head had become as real as he could make it with his current skills and the instrument's limited palette. Then he lifted his hands from the keys and sat in the silence that followed, the particular silence of having made something, of having pulled form from formlessness.
 
 It was not finished. It would take weeks, maybe months, to turn these fragments into anything shareable. But the beginning was there. The seed was planted.
 
@@ -398,14 +378,13 @@ He saved the session, the rough recording that would serve as memory and startin
 
 He lay down in his bed without bothering to change, exhaustion finally catching up to him. His last thought before sleep took him was of the keyboard, waiting in the corner, holding the beginning of something that might become the truest thing he had ever made.
 
-When he woke, it was nearly noon. His phone showed no new messages. In the kitchen, his mother was making tea, and Amina was at the table with her flashcards, and everything was the same as it had been the day before except that Yusuf was different, had become different in the night, in the hours when the music had come through him and found its shape.
+When he woke, it was nearly noon. His phone showed no new messages from Kevin, though there was one from the mutual aid group chat welcoming him aboard. In the kitchen, his mother was making tea, and Amina was at the table with her flashcards, and everything was the same as it had been the day before except that Yusuf was different, had become different in the night, in the hours when the music had come through him and found its shape in the darkness.
 
 He did not know what to do with this difference yet.
 
 He suspected he would find out.
 
 
----
 
 
 

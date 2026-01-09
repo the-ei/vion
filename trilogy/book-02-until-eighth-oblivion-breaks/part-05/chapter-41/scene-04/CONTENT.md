@@ -13,7 +13,6 @@ Silence. Then someone on the other side of the circle spoke: a young man in a ho
 "I saw people sharing food when the stores were empty. People who had never talked to their neighbors suddenly knowing everybody's name. The whole system broke and then. People just. Made something else."
 
 
----
 
 Others spoke. An older man who had watched his pharmacy close and then helped organize a medication-sharing network that probably saved a dozen lives. A young mother who had lost her job and found herself cooking in a community kitchen, feeding more people in a week than she had in the previous year. A retired teacher who now spent her days tutoring kids whose schools had not reopened, who had discovered in the crisis a purpose she thought she had lost when she stopped working.
 
@@ -28,7 +27,6 @@ When her turn came, she spoke without planning what to say.
 "I'm a nurse. Was a nurse. I resigned this morning." The words felt strange in her mouth, still raw. "For ten years I told myself I was helping people. And I was. A little. Sometimes. But mostly I was just. Making the system bearable enough that people didn't demand something better."
 
 
----
 
 The meeting moved on to practical matters. There was a health committee that provided basic medical advice and helped people navigate the insurance system. There was a food distribution network that still operated twice a week. There was a housing advocacy group fighting against the evictions that had resumed after the crisis moratoriums ended.
 
@@ -51,7 +49,6 @@ When the meeting broke for coffee - instant, terrible, perfect - Angela found he
 "Everyone looks like that the first time. Like they just found out there's oxygen on Mars."
 
 
----
 
 "The health committee you mentioned," Elena said. "What does it actually do?"
 
@@ -76,7 +73,6 @@ Angela studied her for a moment. "You just quit your job. You're in an emotional
 Angela nodded slowly. "That might be enough. We'll see."
 
 
----
 
 The meeting resumed with sign-up sheets and volunteer coordination. Elena put her name on the health committee list, her phone number, her email. She watched others do the same for other committees: food, housing, education, legal aid. A network of people trying to build something the system had failed to provide.
 
@@ -101,5 +97,4 @@ Elena thought about the clinic, about the espresso machine in the donation box, 
 Elena put the card in her pocket. Outside, the Phoenix evening was cooling toward darkness. Somewhere, Daniel was waiting in their empty apartment. Somewhere, her children were wondering when she would be home. But here, in this church basement, she had found something she had not known she was looking for.
 
 
----
 

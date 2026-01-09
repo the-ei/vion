@@ -17,7 +17,6 @@ Then he turned and saw Yusuf.
 The words hit like a physical thing. No one called him that anymore. No one even remembered his father by his first name.
 
 
----
 
 "I'm Yusuf," he said, standing. "Did you know my father?"
 
@@ -38,7 +37,6 @@ Yusuf felt something shift in his chest. He had spent years grieving a man who w
 "What was he like?" Yusuf asked. "Here, I mean. At work."
 
 
----
 
 Mr. Tadesse sat down beside him, the folding chair creaking under his weight. Amina had drifted closer, listening.
 
@@ -55,7 +53,6 @@ Mr. Tadesse looked at her with kindness. "Yes. That happens. But the wanting—t
 Yusuf thought about his own years of gig work, the exhaustion he carried, the way he sometimes came home too tired to do anything but stare at the wall. Was he repeating the pattern? Was this what it meant to inherit?
 
 
----
 
 "He wanted to be an engineer," Yusuf said. "Did you know that?"
 
@@ -80,7 +77,6 @@ Mr. Tadesse nodded slowly. "Good. Someone should sing about it. Someone should m
 "He said it here, to us. The things we say at work are not always the things we say at home."
 
 
----
 
 The sound check woman waved Yusuf over. He excused himself and walked to the stage, leaving Amina and Mr. Tadesse to continue their conversation. The guitar case was heavy in his hand, though the instrument inside weighed almost nothing. The weight was what it carried: all the songs he had written and hidden, all the years of silence, all the fear of exposure.
 
@@ -100,7 +96,6 @@ The words were half-sung, half-spoken:
 *if you could see what I've become*
 
 
----
 
 He stopped after the first verse. The tech nodded, adjusting something on her board.
 
@@ -127,7 +122,6 @@ The accusation landed without warning. Yusuf looked at his sister.
 He wanted to argue, to explain, to defend the choices he had made. But standing on the stage with the guitar in his hands, the accusation felt true enough to sting. He had been so careful. Had kept his songs private, had told himself he was waiting for the right moment, had constructed elaborate justifications for never exposing himself to the risk of failure.
 
 
----
 
 "I got out," Amina continued. "Through school, through grades, through the path that was supposed to lead somewhere. You never even tried to get out. You just survived."
 
@@ -152,5 +146,4 @@ The room continued to fill. The lights grew brighter as evening fell outside. So
 In an hour, he would sing. In an hour, he would give away what he had been holding for fifteen years. But for now, he stood in the place where his father had died and tried to imagine a version of himself that was not defined by loss.
 
 
----
 

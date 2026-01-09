@@ -13,7 +13,6 @@ She did not press. She had learned, over the years of grieving together and grie
 He had helped make this happen. That was the strangest part. He had given testimony at city council meetings, his voice shaking as he described watching his mother collapse when the foreman called. He had helped write grant applications, had connected with organizers and artists who wanted to do something with the abandoned warehouse, had spent three years turning his grief into leverage. And now the building was reborn, and he was terrified to go inside.
 
 
----
 
 Amina waited with him, patient as she always was, while he gathered what he could gather. She was twenty-one now, finishing her degree at the university, heading toward the graduate school that their mother had dreamed of for both of them but that only Amina would reach. She had their father's eyes, dark and watchful, and their mother's way of holding silence like a gift.
 
@@ -30,7 +29,6 @@ But the bones were the same. The ceiling beams, the height of the space, the par
 "Show me," Amina said. "I want to see where it happened."
 
 
----
 
 She had been seven when their father died. Her memories were impressions more than scenes: the way their mother's face had looked when the news came, the strange adults who filled their apartment for days afterward, the feeling of something essential having been removed from the world. She did not remember their father's voice, not really. She did not remember the warehouse as it had been, though Yusuf had described it to her so many times that she sometimes claimed his descriptions as her own memories.
 
@@ -47,7 +45,6 @@ The stage was maybe twenty feet across, raised three feet from the floor. In his
 "They said he didn't suffer," Yusuf continued, the words coming from somewhere deep, rehearsed so many times they had become incantation. "The beam hit his head. He was gone before he hit the ground."
 
 
----
 
 Amina was silent beside him. She reached for his hand and held it, her fingers cool against his palm.
 
@@ -66,7 +63,6 @@ Yusuf considered the question. Was it bad that his sister's grief was made of se
 He told her things he had never told her. Small things, the details that had not fit into the official story of loss. How their father had sung in the shower, old Somali songs that Yusuf could not now remember the words to. How he had saved the best pieces of his lunch to bring home for the children, sneaking them into their rooms like contraband. How he had talked about going back to school, getting credentials, finding work that did not break the body.
 
 
----
 
 "He wanted to be an engineer," Yusuf said. "Did you know that? Before he came here. He was studying in Mogadishu, before the war. He was good at math, at understanding how things worked. But when he got here, none of that mattered. His degrees weren't recognized, his English wasn't good enough for the tests. So he ended up in warehouses, in construction, in the work that used his body and ignored his mind."
 
@@ -89,7 +85,6 @@ He did not answer immediately. The question was too large, encompassing not just
 They stood together on the transformed stage, brother and sister, the children of a man the building had killed and then been reborn to honor. The irony was not lost on Yusuf. Nothing ever really went away. It just changed shape.
 
 
----
 
 Workers moved around them, setting up for tonight. Someone checked the microphones. Someone else adjusted the lights, creating pools of illumination that fell across the stage in patterns that might have seemed random but were carefully designed. The space was becoming a theater, a venue, a place where art would happen. It was no longer a warehouse. It was no longer the scene of an industrial accident. It was something else now, and Yusuf was still learning what that something else might mean.
 
@@ -116,7 +111,6 @@ Amina nodded, accepting this. She understood, he thought, even without his expla
 "Because Mom told me. Because you told me. Because that's what parents want for their children, even if they can't have it for themselves."
 
 
----
 
 The car waited in the parking lot. The stage waited in the building. The guitar waited in the back seat, its case holding songs that Yusuf had written in the years of grief and survival, songs that had stayed hidden because he had been afraid of what it would mean to share them, afraid that making art from his father's death was a kind of exploitation, afraid that he would fail and the failure would be witnessed.
 
@@ -131,5 +125,4 @@ Tonight he would try. He would stand on the stage where his father had fallen an
 They left the building, walking past the mural and the new windows and all the evidence of transformation. Behind them, the space continued its preparations, becoming what it would be for the people who would fill it in a few hours. Ahead of them, the rest of the day, and then the evening, and then whatever came after the music finally escaped.
 
 
----
 

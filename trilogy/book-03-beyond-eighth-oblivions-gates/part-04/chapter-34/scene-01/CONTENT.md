@@ -11,7 +11,6 @@ The word felt dangerous. Kevin Zhou had spent his entire life observing rather t
 Today that would change.
 
 
----
 
 The loft occupied the top floor of a converted factory in the Mission, the kind of space that tech money had colonized decades ago. Kevin Zhou had bought it with Prometheus money, back when Prometheus was still something he could be proud of, before the company's surveillance apparatus had revealed itself in the hearings, before Ananya Ramaswamy's testimony had shown him what he had helped build. Now the space served a different purpose: not extraction but connection, not surveillance but shared awareness.
 
@@ -24,7 +23,6 @@ And he would be inside it.
 Kevin Zhou sat down in one of the stations, not activating anything, just feeling what it would be like. The headband was light on his temples. The chair was ergonomic, designed for extended sessions. Through the windows he could see San Francisco morning, the fog burning off, the city waking up. An ordinary day for everyone else. A threshold for him.
 
 
----
 
 The fear was not that the technology would fail. He had tested that exhaustively. The fear was that it would succeed.
 
@@ -39,7 +37,6 @@ Now he would find out.
 He stood up from the station and walked to the window. San Francisco was fully awake now, the morning commute beginning, the city's rhythms asserting themselves. Somewhere out there, Yusuf was on his way. They had stayed in touch since Minneapolis, the unlikely friendship that had somehow survived its improbable beginning. Yusuf would be here today. Yusuf would feel whatever Kevin Zhou felt through the interface. The thought was both comforting and terrifying.
 
 
----
 
 He thought about Ananya. She was not coming today - they were still not on speaking terms in the normal way, their relationship mediated through lawyers and ethics boards - but her influence was everywhere in this room. The consent protocols he had built into the interface, the data privacy guarantees, the ability to withdraw at any moment: all of these came from her testimony, her questions, her insistence that technology should serve rather than extract.
 
@@ -52,7 +49,6 @@ He checked the time. Two hours until the participants arrived. He made coffee in
 Kevin Zhou drank his coffee and watched the city through the window and tried to imagine what it would feel like to be known. Not analyzed. Not evaluated. Not valued for his utility. Just known, the way humans were supposed to know each other, the way that had always eluded him.
 
 
----
 
 The last two hours before the test were the longest of his life.
 
@@ -71,5 +67,4 @@ He took a breath. The preparation was over. The test was about to begin.
 He went to the door to let her in, his hand steady on the handle, his heart anything but steady. This was it. The threshold. The moment when the builder would finally inhabit what he had built.
 
 
----
 

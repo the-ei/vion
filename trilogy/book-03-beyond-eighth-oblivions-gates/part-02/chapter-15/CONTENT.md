@@ -17,7 +17,6 @@ The waitress came over - young, tired, probably working here between shifts at s
 Yusuf almost smiled. "Coffee. Black. Two of them."
 
 
----
 
 The coffee came in ceramic mugs, chipped at the handles. Kevin wrapped his hands around his like he was cold, though the shop was warm enough. Outside, the November sky had that particular Minnesota gray that would last until April, the kind of gray that seeped into your bones.
 
@@ -36,7 +35,6 @@ Yusuf couldn't argue with that. The gig workers he knew - the ones who were stil
 "We're building workforce management tools. For companies that use gig labor." Kevin held up his hand before Yusuf could respond. "I know how that sounds. I know it sounds like I'm on the other side."
 
 
----
 
 "You are on the other side."
 
@@ -55,7 +53,6 @@ Kevin pulled out a folder - actual paper, which seemed like an affectation until
 "The job is called Experience Impact Analyst. It's a real title, not something I made up. You'd be embedded in the development process. Every feature we build, you'd evaluate for its effect on the people doing the actual work. Not after deployment. During design."
 
 
----
 
 "How much?"
 
@@ -74,7 +71,6 @@ Which was exactly why he didn't trust it.
 Kevin leaned forward. "You think I don't know what that's worth? You think there's a single person in my company who understands what you understand?"
 
 
----
 
 The waitress passed by, refilling their coffees without asking. Yusuf nodded his thanks. She was already moving to the next table.
 
@@ -97,7 +93,6 @@ Yusuf thought about the delivery notification he'd silenced. About the thousands
 The word contract hung in the air between them.
 
 
----
 
 "I need time," Yusuf said finally.
 
@@ -118,7 +113,6 @@ Kevin was quiet for a long moment. When he spoke, his voice was different. Strip
 "Maybe. But it's what I've got."
 
 
----
 
 They shook hands in the parking lot, the Minnesota wind cutting through both of them. Kevin's rental car was parked next to Yusuf's - the aging Honda that had carried him through seven years of deliveries, the odometer creeping toward numbers that manufacturers never expected their vehicles to reach.
 
@@ -137,13 +131,12 @@ That night, lying in his childhood bedroom, he stared at the ceiling and thought
 He had one week to decide.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Amina was washing dishes when Yusuf finally told her. Their mother had retreated to the bedroom with her evening tea and her phone, scrolling through news from Mogadishu that she never talked about but never stopped reading. The apartment was small enough that they could hear the water running in the bathroom, the neighbor's television through the wall, the particular settling sounds of a building that had been tired since before they moved in.
 
@@ -174,7 +167,6 @@ Amina leaned back in her chair, studying him with the particular attention she'd
 "So why do you look like someone just asked you to betray everything you believe in?"
 
 
----
 
 Yusuf pushed back from the table, the chair scraping against linoleum that had been installed before he was born. He got up, poured himself water from the pitcher in the fridge, came back. The restlessness in his body had nowhere to go in this apartment.
 
@@ -199,7 +191,6 @@ Amina nodded slowly. "And he wants you to make them better."
 "You don't know they wouldn't."
 
 
----
 
 Their mother appeared in the doorway, her reading glasses pushed up on her forehead. "Are you arguing?"
 
@@ -230,7 +221,6 @@ Yusuf felt the accuracy of it land in his chest. His sister had always been able
 "Hasn't it?"
 
 
----
 
 Amina stood up, moved to the window that looked out on the parking lot, the same view they'd had their whole lives. Streetlights turning on in the November dark. Cars that belonged to people working shifts that had already started or hadn't ended yet.
 
@@ -249,7 +239,6 @@ Amina stood up, moved to the window that looked out on the parking lot, the same
 "You're already complicit. We're all complicit. We live in this world. The question is what you do with the complicity you can't avoid."
 
 
----
 
 The argument bloomed fully then, as arguments between siblings do - not a single thread but a tangle of them, old grievances and new fears woven together. Yusuf's voice rose; Amina matched him. He said she didn't understand because she'd gotten out through the respectable door, the scholarship door, the door that let her believe she'd earned her escape. She said he was holding onto his suffering like it made him holy, like being a victim was the only identity he had left.
 
@@ -274,7 +263,6 @@ She didn't deny it. That was the thing about Amina - she didn't soften her obser
 "I think you've survived something that would have destroyed most people," she said. "And I think you're afraid that if you let go of the anger, there won't be anything left. But there is, Yusuf. There's so much more to you than what they did to you."
 
 
----
 
 He thought about the music he used to make, back when he had time. The beats he'd layer at night after his shifts, the lyrics that came when he wasn't trying to find them. The studio session his friend had gotten him, years ago, that he'd had to cancel because of a delivery quota. All the things that existed in him besides the capacity to survive.
 
@@ -297,7 +285,6 @@ Yusuf remembered. The way he'd held her face in his hands, the way her eyes had 
 "I haven't forgotten," Amina said. "Not one day. I sit in my classes with kids whose parents could buy this building, and I remember that I'm there because someone gave me money and because you covered shifts so I could study and because Hooyo worked until her hands were raw."
 
 
----
 
 "Taking the scholarship didn't make me forget. It made me able to do something about it someday." She reached across the table and took his hand. "This could be that for you. A chance to carry what you know into rooms where it matters."
 
@@ -330,13 +317,12 @@ Yusuf looked at Amina. Amina looked at Yusuf. Neither of them spoke.
 It was the thing she always said. Tomorrow will be different. Sometimes it was a promise, sometimes a warning. Tonight, Yusuf couldn't tell which.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The studio smelled like dust and old cables and whatever the previous band had eaten for lunch. Yusuf set up in the live room while Marcus - the owner, a man who had aged like his equipment, both still functional if showing wear - adjusted levels in the control room behind the glass. The headphones hung around Yusuf's neck, not yet needed. He wasn't sure what he was here to record.
 
@@ -351,7 +337,6 @@ He played something. Then something else. Fragments that didn't connect yet, ide
 Jamal used to sit in on these sessions. Before.
 
 
----
 
 The thought came with a chord change - minor, unexpected, his fingers finding grief before his mind named it. Jamal would have had an opinion about the offer. Jamal, who had died during the crisis, who had been driving when he should have been resting, who had taken a corner too fast because the algorithm said he had seventeen minutes to make a delivery that required twenty.
 
@@ -368,7 +353,6 @@ The recording light came on. Marcus had started capturing without asking, the wa
 Not a song. Not yet. But something.
 
 
----
 
 The session lasted ninety minutes. When Yusuf finally stopped, his hands ached in the way they only did when he'd been playing real music instead of just noodling. Through the glass, Marcus gave him a thumbs up and started saving the files.
 
@@ -397,7 +381,6 @@ Marcus nodded like that explained everything. "The good ones usually are. The ea
 He left Yusuf alone to pack up, retreating to the control room to finish the export. Through the window, Yusuf could see him working - careful hands, the same hands that had built half this equipment from salvage, the same persistence that had kept a recording studio alive in a neighborhood that had been gentrified around it.
 
 
----
 
 In the parking lot, the November air hit Yusuf like a correction. He got in his car but didn't start it. The phone was in his hand - the lockbox gave it back automatically when you left - and the notifications were already scrolling. Two delivery offers, a message from his mother asking when he'd be home, a news alert about something he didn't care about.
 
@@ -422,7 +405,6 @@ A pause. "Okay. I'm listening."
 "I want it clearer. I want language that says I can stop deployment, not just raise concerns."
 
 
----
 
 Kevin was quiet for a moment. Yusuf could hear traffic in the background - wherever Kevin was, it wasn't an office.
 
@@ -453,7 +435,6 @@ Kevin laughed, a sound of genuine surprise. "You've thought about this."
 The negotiation continued - smaller points, things Yusuf hadn't fully formed until he started naming them. Kevin pushed back on some, accepted others, and gradually they found the outline of an agreement. Not perfect. Not everything Yusuf wanted. But enough.
 
 
----
 
 "One more thing," Yusuf said. "My analysis - when I identify impacts - I want it visible to the workers affected. Not just internal reports that disappear into a drive somewhere. Published. On the platform. So people know what we're doing to them."
 
@@ -476,7 +457,6 @@ The car had gotten cold. Yusuf's breath was visible now, little clouds that disa
 "I'll be there."
 
 
----
 
 His mother was in the kitchen when he got home, doing what she always did at this hour: preparing tomorrow's food, stretching what they had into what they needed. The apartment smelled like spices and onions, the particular fragrance of their family history.
 
@@ -501,7 +481,6 @@ Not the crying of grief, which he had seen. Not the crying of frustration, which
 They stood there in the kitchen, holding each other, while the onions softened in the pan and the night settled over Minneapolis and Yusuf understood, finally, what his acceptance meant to someone other than himself.
 
 
----
 
 
 

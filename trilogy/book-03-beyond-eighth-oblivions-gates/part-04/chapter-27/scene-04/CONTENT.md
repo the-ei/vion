@@ -11,7 +11,6 @@ This was the face she would bring to Delphine. The face she had built through ye
 She did not look away.
 
 
----
 
 The apartment waited around her as she gathered what she would need. Phone, wallet, keys. A notebook she had carried for years, filled with notes from meetings she no longer remembered, questions she had never resolved. She put it in her bag without knowing why, a talisman from a life that was about to change.
 
@@ -26,7 +25,6 @@ I'm coming. I'll drive down today.
 She sent it before she could reconsider, and then she stood for a moment holding the phone, feeling the weight of the words she had released into the world.
 
 
----
 
 At the door of her apartment, she paused.
 
@@ -45,7 +43,6 @@ She was standing at a threshold now. Had been standing at it for years, perhaps,
 To cross or not to cross. To speak or to remain silent. To become someone who told the truth about her life, or to remain someone who had told the truth only in fragments, only in carefully controlled contexts, only in ways that left intact the careful architecture of her professional identity.
 
 
----
 
 She stepped through the door.
 
@@ -66,5 +63,4 @@ But this journey was hers. This threshold was hers to cross.
 She pulled out of the garage and into the morning light, and San Francisco receded behind her as she drove toward whatever came next.
 
 
----
 

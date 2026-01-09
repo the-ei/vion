@@ -15,7 +15,6 @@ They went to the small garden behind the house, where Ananya's mother had grown 
 "I have questions," Priya said. "About why you left. What you were leaving. Who you were before you became my mother."
 
 
----
 
 Ananya looked at her daughter - this person she had made, had raised, had watched become someone separate and distinct. Priya was twenty-three now, older than Ananya had been when she left Chennai, old enough to understand that parents had been people before they were parents.
 
@@ -30,7 +29,6 @@ And in exchange, she had gained - what? A career. A different kind of belonging,
 "I was ambitious," Ananya said at last. "That's the simplest answer. I wanted things this place couldn't give me. I wanted to work in technology, in a way that wasn't possible here, not then. I wanted to be part of building something new."
 
 
----
 
 "And did you get what you wanted?"
 
@@ -51,7 +49,6 @@ Ananya looked at her daughter. "Have I been hard?"
 "You've been - careful. Whenever I mention wanting to work in the industry, you get this expression. Like you're trying not to say something."
 
 
----
 
 "I want you to have your own path," Ananya said carefully. "Not my path. Not the path I walked through and came out the other side with questions."
 
@@ -72,7 +69,6 @@ Priya reached over and took her mother's hand. The gesture was natural, easy in 
 Ananya looked at her daughter with something like wonder. This was exactly right. She was still in the middle of the question. She had been in the middle of it for decades and might remain there for the rest of her life.
 
 
----
 
 "And your grandfather?" Priya asked. "What happens to him?"
 
@@ -95,5 +91,4 @@ The gate opened. The car had arrived.
 Ananya stood, ready to walk through another departure, carrying Chennai inside her alongside all the other places she had been and left and carried.
 
 
----
 

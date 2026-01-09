@@ -17,7 +17,6 @@ A pause. The sound of movement, a door closing, the background noise diminishing
 "I'm in my room now. What's going on?"
 
 
----
 
 Ananya had rehearsed this. She had thought about how to frame it, how to present it, how to make Priya understand. But now, with her daughter's voice in her ear, the rehearsal fell away. There was only the truth.
 
@@ -42,7 +41,6 @@ Silence. Ananya could hear Priya breathing, could imagine her sitting on her nar
 Ananya closed her eyes. "Because I need you to know. Because you're the person whose opinion of me matters most. Because I spent twenty years building a career and I'm about to tear it down, and I need you to understand why."
 
 
----
 
 Priya was quiet for a long moment. Ananya could hear something in the background - maybe a heating system, maybe traffic outside the dorm window - the ambient sounds of her daughter's new life, the world that existed apart from this conversation.
 
@@ -59,7 +57,6 @@ Priya was quiet for a long moment. Ananya could hear something in the background
 Priya's response, when it came, was quiet. Simple. "I know this is hard. But I think it's right."
 
 
----
 
 The words landed in Ananya's chest like something settling into place. Not forgiveness - she hadn't asked for that, and Priya wasn't offering it. But recognition. Respect. The acknowledgment that this was the right thing to do, whatever it cost.
 
@@ -80,7 +77,6 @@ Ananya felt tears on her face, surprising her. "You don't need to apologize."
 "I know. But I wanted to say it anyway."
 
 
----
 
 They talked for another twenty minutes - about Priya's classes, about her new friends, about the small ordinary matters that made up a life. It was deliberate, Ananya understood. A way of saying that the heavy conversation didn't have to be the only one, that they could still be mother and daughter talking about nothing in particular.
 
@@ -97,7 +93,6 @@ She signed.
 Every page, every initial, every place the document required her confirmation. Thirteen signatures in total. When she finished, her hand was steady.
 
 
----
 
 Done.
 
@@ -120,5 +115,4 @@ It wasn't enough. It would never be enough.
 But it was something.
 
 
----
 

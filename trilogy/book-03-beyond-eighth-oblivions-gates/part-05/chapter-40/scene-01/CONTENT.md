@@ -13,7 +13,6 @@ His voice filled the room, and then his guitar, the progression he would open wi
 This was real. After years of driving for rideshare apps, of delivering food in the rain, of practicing in his apartment at hours that annoyed the neighbors - after all of that, this was actually happening. People had bought tickets. People were coming to hear him play.
 
 
----
 
 He remembered the years of the algorithm. The app on his phone that told him where to go, how fast to get there, how much he would earn if he drove through surge pricing. The rating system that held his livelihood hostage to the moods of strangers. The sense of being optimized, managed, reduced to a set of metrics that someone in a distant office analyzed for efficiency.
 
@@ -30,7 +29,6 @@ He played the opening riff of one of those early songs now, hearing how it had e
 Yusuf nodded. That was right. The song had been angry when he wrote it, the anger of someone ground down by a system that didn't care about him. But years had passed, and he had survived, and the anger had transformed into something else. Not acceptance, exactly. But something with more space in it.
 
 
----
 
 The doors would open in three hours. In that time, he would run through the set twice more, eat something even though he wasn't hungry, sit in the green room trying not to think too much about what was coming. His mother would arrive an hour before the show, helped by Amina, taking her seat near the front where she could see without having to stand for long.
 
@@ -47,7 +45,6 @@ Kai was looking at him with concern. Yusuf realized he had stopped playing, was 
 "Save the thinking for after the show. Right now, let's run through 'Night Shift' one more time."
 
 
----
 
 They ran through the song, the one about working overnight deliveries during a blizzard, about the particular loneliness of driving through empty streets at 3 AM, about the way the cold became a companion when you had no other. The music had grown since he first recorded a rough version on his phone; now it had drums and bass and the subtle texture of Leo's keys, the community of sound that had developed over months of rehearsing together.
 
@@ -60,7 +57,6 @@ The venue staff were beginning their preparations: setting up the bar, testing t
 But it was happening to him. The name on the marquee outside was his name. The music that would fill this room tonight was music he had written. Whatever came next, this was real, this was happening, this was the gate he had been approaching without knowing it for years.
 
 
----
 
 They finished the soundcheck at five. Two hours until doors, three until showtime. The band dispersed to eat and rest. Yusuf stayed on stage for a moment longer, looking out at the empty venue, the rows of seats that would soon hold people who had chosen to be here, to listen, to receive what he had to offer.
 
@@ -75,5 +71,4 @@ Three hours. Then the lights would go up, and the music would begin, and he woul
 He waited.
 
 
----
 

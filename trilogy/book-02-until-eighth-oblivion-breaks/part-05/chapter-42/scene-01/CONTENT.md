@@ -19,7 +19,6 @@ Abuela sat in her chair by the window, watching it all with the particular atten
 Sofia beamed. Elena added the glasses and tried not to think too much about what this night meant.
 
 
----
 
 But she thought about it anyway. The last day of the year that had changed everything. A year ago she had been in Phoenix, working at the clinic, believing she knew what her life was. The crisis had not yet come. The illusions had not yet broken. She had been a different person then, or perhaps the same person with a different understanding of herself.
 
@@ -38,7 +37,6 @@ Elena showed Sofia how to fold them, the simple triangle fold that was good enou
 Outside, the winter light was fading. Flagstaff's altitude meant early darkness this time of year, the sun dropping behind the mountains while the afternoon still felt young. Elena could see the first stars appearing through the window, the clear sky that made this place so different from Phoenix.
 
 
----
 
 Daniel appeared in the doorway, wiping his hands on a towel. He had taken off his usual flannel and was wearing a button-down shirt, the small formality that marked this as an occasion.
 
@@ -67,5 +65,4 @@ Daniel nodded. He understood. He was doing his own version of the same thing, st
 The table was set. The food was cooking. The children were making noise and the old woman was watching and the year was ending.
 
 
----
 

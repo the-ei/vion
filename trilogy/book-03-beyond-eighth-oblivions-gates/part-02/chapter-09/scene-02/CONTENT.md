@@ -11,7 +11,6 @@ Instead she searched for the date from the complaint. March 14, 2029. The memo t
 The conference room had been called Horizon. Glass walls, eleventh floor, a view of the South Bay that on clear days extended to San Jose. That morning the fog had pressed against the windows like something wanting in. Eight people around the table, most of them engineers, two product managers, herself. David Park presiding from the head of the table, his coffee cup bearing the Prometheus logo, a stylized flame that she had always found vaguely menacing in its implications.
 
 
----
 
 "Walk us through the findings," David had said. Not a question, not quite a command. The particular tone he used when he already knew what you were going to say and was calculating how to neutralize it.
 
@@ -28,7 +27,6 @@ A few nods around the table. David's expression unchanged.
 "All self-reported metrics are subjective. That doesn't make them meaningless."
 
 
----
 
 She clicked to the next document: *2029-03-14_Meeting_Notes_HORIZON.docx*. Her own notes, typed during the meeting, time-stamped. She had been meticulous about recording what was said, who said it, what decisions were made. A paper trail.
 
@@ -45,7 +43,6 @@ She remembered the silence that followed. The quality of it. Not shock, not oppo
 In the present, sitting in her dim apartment, Ananya scrolled to the next page of her notes. The conversation that followed, the one that should have told her everything she needed to know about what her role actually was.
 
 
----
 
 D. Park, 9:55 AM: "These are thoughtful recommendations. Really thoughtful. This is exactly the kind of rigorous analysis we brought you on to do."
 
@@ -64,7 +61,6 @@ The meeting ended. Everyone left. She stayed behind, gathering her materials, lo
 In the present, Ananya closed the meeting notes and opened the next file in her search: *2029-06-01_Q2_Ethics_Review_Follow-up.docx*. The quarterly review she had requested. It had taken her three weeks to get it scheduled. The recommendations had been formally acknowledged and informally ignored.
 
 
----
 
 She jumped ahead. 2031. The board presentation.
 
@@ -81,7 +77,6 @@ She clicked through slides showing survey data on consumer trust, regulatory dev
 The board had praised her presentation. Called it forward-thinking. Asked thoughtful questions about implementation timelines and budget implications. Then they had tabled the recommendations pending further analysis and moved on to the next agenda item, which was executive compensation.
 
 
----
 
 2033. The performance review that changed everything.
 
@@ -104,7 +99,6 @@ David leaned forward. Advocate. "Ananya, I think what Robert is saying is that y
 Integration. The word that meant dissolution. She had heard it before, in other contexts, always with the same outcome. Making ethics everyone's job was how you made it no one's job.
 
 
----
 
 In the present, Ananya searched for one more file. She knew it existed because she had written it at two in the morning, alone in her office, after a product launch she should not have approved.
 
@@ -127,7 +121,6 @@ The file opened. Her own words from three years ago:
 She closed the laptop. Outside her window, the city lights had come on, the fog reflecting them into a general glow. She had stayed another year after writing that. Another year of approvals, of compromises, of telling herself the stories that had brought her here, to this apartment, to this lawsuit, to this reckoning she could no longer avoid.
 
 
----
 
 The files contained everything the plaintiffs' lawyers would need to prove their case. Documented knowledge of harm. Continued approvals despite that knowledge. The internal struggle, the compromises, the gradual normalization of what should have been intolerable.
 
@@ -140,5 +133,4 @@ None of this resolved into a clean verdict. None of this told her what to do now
 She looked at the envelope on her desk, the complaint she would have to answer. Somewhere in these files was the evidence that would decide the legal question. The moral question, she was beginning to understand, would never be decided at all.
 
 
----
 

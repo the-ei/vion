@@ -15,7 +15,6 @@ The children's toys were harder. Sofia's stuffed rabbit from when she was three,
 They worked through the apartment room by room, their movements developing the kind of rhythm that years of partnership create. Daniel knew to hand things to Elena for decisions about her possessions; Elena knew to leave the toolbox for Daniel to sort. They had packed up apartments before, when they moved from their first tiny place to this larger one. But this felt different. This was not moving toward something better. This was moving toward something unknown.
 
 
----
 
 In the bedroom closet, Daniel found a box Elena had forgotten about. Her nursing school materials: the worn textbooks, the notecards she had made for exams, the clinical rotation schedules with their careful annotations. Her student ID photo from fifteen years ago, a younger Elena staring out with the determined expression of someone who believed she could help people.
 
@@ -40,7 +39,6 @@ Elena looked at the drawings, at the younger Daniel's vision. "Do you miss it?"
 "Yes you can. We both can."
 
 
----
 
 The wedding photos were in the hall closet, three albums worth of a day that now seemed both impossibly distant and achingly present. Elena pulled out the first album and opened it. There they were: twenty-six and twenty-eight, standing in front of a church in Tucson, surrounded by family members some of whom were dead now and friends some of whom they had not spoken to in years.
 
@@ -65,7 +63,6 @@ Elena closed the album. "I tried to keep them."
 She put the albums in the keep pile. Whatever they were now, they had been that once. The photos were evidence of a beginning, even if the middle had been harder than either of them imagined.
 
 
----
 
 By late afternoon the apartment looked like a warehouse, boxes stacked in every room labeled with their destinations: storage, donate, keep, trash. The walls were bare where pictures had hung, the shelves empty where books had stood. The place they had lived for eight years was becoming a space again, anonymous and neutral.
 
@@ -92,5 +89,4 @@ Elena stood in the living room doorway and looked at what remained. A couch they
 They stood there together in the empty room, looking at the evidence of a life they were leaving behind. Tomorrow she would go to the clinic and say goodbye. Tomorrow they would load the car and drive back to Flagstaff. But right now, in this moment, they were just two people standing in the ruins of their own history, trying to figure out what to build next.
 
 
----
 

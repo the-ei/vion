@@ -23,7 +23,6 @@ A teacher in Detroit:
 We kept holding classes. No electricity, no internet, no textbooks half the time. Just me and twenty kids in a room, learning whatever I could remember. Multiplication tables. The states and their capitals. How to write a letter to someone you love.
 
 
----
 
 An engineer in San Francisco:
 
@@ -50,7 +49,6 @@ A construction worker in Phoenix:
 I walked forty miles to get home. My feet still haven't healed. But I got home.
 
 
----
 
 A social worker in New York:
 
@@ -79,5 +77,4 @@ I thought: both. It was both.
 And now the lights are back, and we can't see the stars anymore, and I don't know which loss is greater.
 
 
----
 

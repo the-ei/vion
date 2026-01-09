@@ -5,7 +5,6 @@ She walked through the treatment floor with a fresh pair of gloves snapping agai
 The smell was the thing she would remember later, if she remembered anything at all, which seemed uncertain. Antiseptic and sweat and the particular staleness of air that had been breathed too many times by too many people, the ventilation system running but not enough, never enough.
 
 
----
 
 A woman in her seventies lay on the examination table in bay four, her skin the color and texture of parchment left too long in the sun, her eyes open but fixed on the ceiling tiles as if counting them, as if the count mattered, as if arriving at a final number might constitute a form of understanding. Diabetic ketoacidosis. Elena knew this without looking at the chart because she had treated three other cases in the past forty-eight hours, because the crisis had interrupted insulin supplies and now the bodies were catching up to the interruption, the chemistry of neglect expressing itself in rapid breathing and fruity-smelling breath and the gradual dissolution of everything that had been held together.
 
@@ -18,7 +17,6 @@ Insulin next. She calculated the dose, drew it into the syringe, administered it
 "Is it over," Mrs. Reyes said. It was not a question.
 
 
----
 
 "Yes," Elena said. "The emergency protocols have been lifted. You're going to be fine. Your blood sugar was very high, but we're bringing it down."
 
@@ -33,7 +31,6 @@ From somewhere down the hall came a sound that might have been crying or might h
 The dawn light had reached Mrs. Reyes's face now, catching the deep lines around her eyes, the yellowish tint of her skin that would improve with treatment, the particular exhaustion of someone who had survived something they had not expected to survive.
 
 
----
 
 Elena walked to the supply closet, which had been ransacked and restocked and ransacked again, the shelves a palimpsest of crisis management, each layer of absence and replenishment telling its own story of what had been needed and when. Saline bags remaining: twelve. Insulin vials: four. Gauze: enough. Syringes: running low but not critical. She made mental notes that she would forget and someone else would make the same notes and they would muddle through as they had been muddling through, the system held together by the exhaustion of the people working it.
 
@@ -56,7 +53,6 @@ She turned. Dr. Okonkwo stood in the doorway, his white coat stained in ways tha
 Home. The word had no referent. She thought of the apartment in Phoenix, the unmade bed, the children's rooms empty because the children were in Flagstaff, or supposed to be in Flagstaff, and she had not been able to confirm this, had not been able to reach anyone.
 
 
----
 
 "I need to finish with Mrs. Reyes," she said. "Then I'll see."
 
@@ -69,5 +65,4 @@ The generator hummed beneath everything. Main power had been restored, officiall
 She leaned against the wall and pressed her hands to her face and breathed. Thirty seconds. That was all she allowed herself. Then she pushed off the wall and walked toward the next patient, the next task, the next breath.
 
 
----
 

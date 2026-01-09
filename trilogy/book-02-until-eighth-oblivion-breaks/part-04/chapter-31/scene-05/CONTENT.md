@@ -15,7 +15,6 @@ Thomas Whitehorse received his anticonvulsants at midnight. Mrs. Patterson, whos
 The clinic hummed with activity. Word had spread - volunteers arrived, patients who had given up hope returned. By two in the morning, every cot was occupied and the waiting area was full.
 
 
----
 
 Elena worked until she could no longer see straight.
 
@@ -52,7 +51,6 @@ She turned to look at him. His face was tired, his eyes shadowed. He had walked 
 "Because you're my wife. Because you were right. Because someone had to."
 
 
----
 
 He led her to the break room, the small space with its plastic chairs and ancient coffee maker. Elena sat down. Her body was exhausted, every muscle aching, but her mind would not quiet.
 
@@ -77,7 +75,6 @@ Elena looked at her husband. At the man who had walked forty miles, who had help
 "No. We're not."
 
 
----
 
 Elena looked at her hands.
 
@@ -104,5 +101,4 @@ She was something else now. Something that had no name yet.
 Something that would not forget.
 
 
----
 

@@ -9,7 +9,6 @@ His father would have been here too, if life had been different. Yusuf was twelv
 Those hands had been crushed by machinery, had stopped functioning, had carried Yusuf's father into a death that was ruled accidental, that was compensated minimally, that had left the family in the precarious position from which they had never fully recovered.
 
 
----
 
 Yusuf touched his phone. A text had arrived while he was watching.
 
@@ -32,7 +31,6 @@ Amina was walking toward the backstage entrance, having settled their mother. Sh
 "What? She's proud. Let her be proud."
 
 
----
 
 Amina was twenty-five now, the political voice of her generation, the organizer who channeled her anger into action. She had chosen a different path than Yusuf: not art but activism, not expression but organizing. Their father's death had shaped them both, but in different directions. Yusuf had retreated into music; Amina had advanced into the systems that killed their father, determined to change them.
 
@@ -53,7 +51,6 @@ Amina looked at him. This was a question they had both asked, separately and tog
 Yusuf nodded. This was what they had both learned: you couldn't redeem tragedy, couldn't make it worthwhile, couldn't find meaning that justified the loss. You could only take what remained and do something with it. He had made music. Amina had made organizing. Their mother had made survival.
 
 
----
 
 "You're going to be great," Amina said. "I know that's what people say, but I mean it. I've heard you practice. I've seen you struggle. You've earned this."
 
@@ -78,7 +75,6 @@ He took a breath. He held it. He let it go.
 "Okay," he said to no one in particular. "Let's do this."
 
 
----
 
 The house lights dimmed. The crowd hushed, that particular silence that precedes live music, the collective intake of breath. Yusuf stood at the edge of the stage, guitar in hand, waiting for the cue.
 
@@ -99,5 +95,4 @@ He adjusted the microphone. He settled the guitar against his body. He looked ou
 And he began to play.
 
 
----
 

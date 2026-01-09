@@ -7,7 +7,6 @@ Three weeks since the hospital. Three weeks since Elena had stood in the fluores
 The chest opened with a sound like a sigh. Inside: linens, folded so precisely the creases had become permanent, yellow-white now though Elena remembered them as bright when her abuela had embroidered them, tiny flowers in thread the color of marigolds, stitched in the hours before Elena's mother was born, in a house in Sonora that Elena had never seen except in the single photograph on abuela's dresser, fading now into sepia suggestion.
 
 
----
 
 "What are these for?" Sofia asked, touching the embroidery with one careful finger.
 
@@ -24,7 +23,6 @@ They lifted the linens out together, and beneath them was the stratum of paper. 
 She had not known about these. Her abuela had hidden them, had smiled and said everything was fine, had refused offers of money with a dignity that Elena now understood was also a kind of wound.
 
 
----
 
 "Mom? What's wrong?"
 
@@ -49,7 +47,6 @@ Because the system is broken. Because we treat sickness as personal failure and 
 Sofia was quiet for a moment, her small hands still resting on the embroidered linens. "That's why you get so mad sometimes. At work."
 
 
----
 
 Elena looked at her daughter and felt something shift in her chest, a recognition that was also a kind of grief. She had tried to shield Sofia from the fury, from the late-night rants to Daniel about prior authorizations and insurance denials and the particular cruelty of forcing people to prove they deserved to be well. She had bitten her tongue at dinner tables, saved her sharpest observations for after bedtime, tried to give her children a childhood unmarked by the knowledge that the world was arranged against people like them.
 
@@ -64,7 +61,6 @@ They returned to the sorting. Photographs emerged next, dozens of them, some in 
 "I don't know," Elena admitted, and the words felt like a door closing. These faces would become anonymous now, their stories lost. This was another kind of death, she understood—the death of memory, the death of context. The woman in the photograph would continue to exist only as an image, unmoored from the life she had lived.
 
 
----
 
 She set aside the photographs she could identify. Her mother as a child, serious-faced even then. Her abuela young and beautiful at what must have been her quinceañera, the dress hand-sewn by someone whose name Elena had never learned. Herself at seven, missing her front teeth, held in her abuela's arms on the porch of this very house.
 
@@ -85,7 +81,6 @@ Mateo appeared in the doorway, holding something in his hands. A rosary, Elena s
 He was not asking because he believed in what the rosary represented. He was asking because it had been hers, because holding it was a way of holding her. Elena understood this perfectly. The objects we keep after people die are never about function; they are about the weight of them in our hands, the way they carry the shape of those who held them before.
 
 
----
 
 "Yes," Elena said. "Keep it."
 
@@ -112,7 +107,6 @@ The room felt different now, charged with something. The February light through 
 She would read this letter. But not yet. Not while Sofia was watching with those dark eyes that saw too much, that asked questions Elena wasn't ready to answer.
 
 
----
 
 "We should take a break," Elena said, slipping the envelope into her pocket. "Are you hungry?"
 
@@ -129,5 +123,4 @@ Normal questions. Impossible questions. The questions children ask when they are
 He accepted this, the way children accept what they cannot understand, filing it away for later examination. And Elena held the letter in her pocket, waiting, knowing that what was written there would change something, though she could not yet say what.
 
 
----
 

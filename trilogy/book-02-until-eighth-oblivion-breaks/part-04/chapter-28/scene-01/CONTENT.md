@@ -11,7 +11,6 @@ Nothing.
 Beside him, Denise stirred, her face turned away on the pillow, still deep in sleep. The school year exhausted her in ways his flexible schedule as a freelance journalist never quite matched, and he tried to let her sleep when he could. He slipped out of bed quietly and walked to the living room, where the router blinked red in the pre-dawn dimness.
 
 
----
 
 Red meant no connection. Red meant the device was trying and failing to reach the network. Jerome unplugged the router, counted to thirty, plugged it back in. The lights cycled through their startup sequence: amber, amber, amber, red. He tried again. Red.
 
@@ -26,7 +25,6 @@ In the bedroom, Denise was waking, he could hear her moving, and he was not read
 He turned it on.
 
 
----
 
 The radio crackled with static, then voices. A local AM station, one he had not listened to in years, was broadcasting. The announcer's voice was calm but strained, the professional composure of someone delivering news they did not fully understand.
 
@@ -55,7 +53,6 @@ Denise appeared in the kitchen doorway, her face still soft with sleep, and look
 He did not know how to answer her.
 
 
----
 
 "Something's wrong with the internet," he said. "The whole internet, I think. Not just us. Everywhere."
 
@@ -88,5 +85,4 @@ It was the question she always asked, the teacher's instinct to organize informa
 "Power is on. Radio is working. Internet is not. Phones are spotty at best. Something is affecting systems on a large scale." He paused. "Something bad."
 
 
----
 

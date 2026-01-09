@@ -17,7 +17,6 @@ For forty years, she had hedged. Softened. Calibrated her words to maintain cred
 Still standing. Somehow lighter.
 
 
----
 
 By evening, the essay had gone viral—not in the explosive way of Jerome's investigation, but in the slower, more persistent way of ideas that catch fire among people who think for a living.
 
@@ -52,7 +51,6 @@ Ruth looked at her phone. No messages from her son. No calls. The silence was it
 "I know." Ruth sighed. "I hope he can understand eventually."
 
 
----
 
 The flowers arrived at 8 PM. A delivery person at her door with a bouquet of her favorites—peonies and roses, the same flowers Susan used to bring her after difficult days.
 
@@ -75,7 +73,6 @@ That had to be worth something.
 Didn't it?
 
 
----
 
 The next morning, the professional consequences began to arrive.
 
@@ -96,7 +93,6 @@ In the afternoon, she took a walk through Georgetown. The neighborhood was beaut
 The world continued. The sun still rose. The flowers still bloomed. And Ruth Abramson, former judge, former institutionalist, former believer—she continued too, somehow lighter than she had been in years.
 
 
----
 
 On the third day, David called.
 
@@ -135,5 +131,4 @@ The call ended. Ruth sat in the quiet of her apartment, holding the phone, feeli
 That was worth something too.
 
 
----
 

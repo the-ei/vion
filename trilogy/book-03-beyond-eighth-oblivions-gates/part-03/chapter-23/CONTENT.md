@@ -19,7 +19,6 @@ The volunteer's eyebrows lifted slightly at the word son. Jerome imagined the ca
 "Thank you."
 
 
----
 
 Jerome walked through the conference, observing the way an anthropologist might observe a foreign culture. The booths displayed products and services that seemed to solve problems Jerome had not known existed: AI-powered customer engagement platforms, blockchain-verified supply chain optimization, neural network approaches to human resources. Young people in jeans and expensive sneakers moved between displays, collecting business cards and schedules, networking with the particular intensity of those who believed their next conversation might change their lives.
 
@@ -30,7 +29,6 @@ At a coffee station, he poured himself a cup that tasted of nothing and watched 
 Jerome thought about the stories he had written: the gig workers exploited by platforms, the communities disrupted by technologies that promised convenience and delivered precarity. Those stories had been read by millions, had won awards, had changed nothing that he could see. The platforms still operated. The exploitation continued. The executives in this room were the inheritors of systems he had exposed, and they spoke as if exposure had never happened.
 
 
----
 
 A young woman approached him, her badge indicating she was media—not a journalist, he suspected, but a content creator, the distinction no longer clearly maintained.
 
@@ -61,7 +59,6 @@ She retreated with apologies, and Jerome felt the familiar weariness of being tr
 Maybe DeShawn had been right, at the memory care facility. Maybe exposure was just another form of extraction.
 
 
----
 
 He found a seat at the back of Ballroom B well before DeShawn's presentation was scheduled to begin. The room was large, configured for several hundred people, with a stage at the front where a previous panel was wrapping up—something about sustainable growth metrics that Jerome could not follow.
 
@@ -74,7 +71,6 @@ Kevin Zhou was listed as a sponsor of the conference—his company's logo appear
 But when the room was nearly full, Jerome did not spot Zhou among the faces. Perhaps he was too important for individual sessions. Perhaps he was watching from elsewhere. Perhaps—the hope was unreasonable but Jerome held it anyway—he was not here at all.
 
 
----
 
 A moderator took the stage and introduced the session: "Accountability Architecture: Building Ethics Into Systems." The description made Jerome lean forward. This was not the language he associated with the tech industry—not the growth and disruption and scale that he had heard elsewhere in the conference. This was something different.
 
@@ -93,7 +89,6 @@ A murmur went through the audience. DeShawn had said something unexpected, somet
 "None of it works because ethics that can be worked around will be worked around. That's human nature. That's institutional incentive. The question isn't whether people will try to circumvent ethical guidelines—they will. The question is whether we can build systems that make circumvention impossible."
 
 
----
 
 DeShawn clicked to a new slide. Jerome could not see it clearly from the back of the room, but he could see that it contained text and diagrams, the visual language of technical presentation.
 
@@ -110,7 +105,6 @@ The room was very quiet. Jerome did not know where this was going.
 Tears pricked at Jerome's eyes. He had not expected this—had not expected to be acknowledged, still less to be credited with contributing to something his son was building.
 
 
----
 
 The presentation continued. DeShawn walked through technical details that Jerome could not follow: protocols and verification methods and something about cryptographic transparency that seemed to involve making every system decision auditable in real time. The audience asked questions that Jerome did not understand the language of, and DeShawn answered with the fluency of someone who had lived inside this world for years.
 
@@ -125,13 +119,12 @@ Pride, yes—that was there. But also something else. A loosening. A release of 
 Maybe rejection and transformation were not the same thing. Maybe inheritance could be invisible until it wasn't.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Jerome did not move from his seat. The crowd around DeShawn ebbed and flowed like tide—investors, engineers, potential partners, each wanting something from his son that Jerome could not name. He watched from his position in the back row, still processing what he had heard, still recalibrating.
 
@@ -146,7 +139,6 @@ A young woman approached DeShawn with a business card and a smile that contained
 But perhaps it did matter. Perhaps it mattered differently than Jerome had been able to see.
 
 
----
 
 The room began to empty as people moved toward the next session, the next opportunity. Jerome stayed. He had nowhere else to be and no desire to navigate the corridors of this conference any further. The booths with their demonstrations, the networking lounges with their algorithmic matchmaking, the panels on AI governance and ethical scaling—none of it was for him. He was a guest here, a visitor from an older mode of accountability.
 
@@ -163,7 +155,6 @@ The post office had been about delivery. Getting things where they needed to go.
 Maybe journalism was the same. Maybe what DeShawn was building was the same again, transformed once more.
 
 
----
 
 A fragment from DeShawn's presentation surfaced:
 
@@ -184,7 +175,6 @@ His son looked up. "You stayed."
 "I stayed."
 
 
----
 
 "There's a coffee place down the hall that's less chaotic than the networking lounges," DeShawn said. "Twenty minutes? I need to finish with a couple of people."
 
@@ -207,7 +197,6 @@ Jerome typed: He mentioned me. It was different than I expected. Will call tonig
 He put the phone away. The coffee was bitter and overextracted, the kind of thing that passed for artisanal in contexts where no one was paying attention to the actual product. He drank it anyway.
 
 
----
 
 What did it mean, to have your work used as foundation?
 
@@ -226,7 +215,6 @@ His father would not have understood any of this. His father understood packages
 Three generations of the same stubborn refusal.
 
 
----
 
 DeShawn arrived carrying his own coffee and a pastry he probably did not need but had earned. He looked tired in a way that suggested adrenaline fading, the comedown after performance. Jerome recognized the feeling—the interviews after a big story broke, when you had to be articulate about work you wanted to stop thinking about.
 
@@ -247,7 +235,6 @@ They regarded each other. Father and son, fifty-seven and twenty-three, journali
 "I thought that," Jerome said carefully. "I'm not sure anymore."
 
 
----
 
 The noise of the conference continued beyond their alcove: the chatter of networking, the announcements of upcoming sessions, the ambient hum of commerce dressed as innovation. Jerome and DeShawn sat in their small quiet, two men trying to find language for something that had changed.
 
@@ -264,13 +251,12 @@ Jerome nodded slowly. He had thought similar things, late at night, when another
 The echo was intentional. Father and son, using each other's words.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 They talked for ninety minutes. The coffee went cold; neither of them noticed. DeShawn explained Verity's architecture—how they were building transparency into AI decision-making systems at the code level, making every algorithmic choice auditable in real time. Jerome asked questions, genuine ones, probing for understanding rather than weakness.
 
@@ -289,7 +275,6 @@ DeShawn smiled. "Some do. The ones who realize that accountability is a competit
 Market. The word still carried its old associations for Jerome: commodification, instrumentalization, the reduction of values to profit motives. But he was trying to hear it differently now.
 
 
----
 
 "I didn't come to tech because I wanted to get rich," DeShawn said. "I know that's what you thought. What Mom thought too, maybe."
 
@@ -310,7 +295,6 @@ It was a fine distinction. Jerome appreciated it anyway.
 Jerome laughed. "That's exactly what I said about writing."
 
 
----
 
 The conference noise had faded. Most attendees had moved to evening receptions, networking events, dinners where deals would be proposed. Jerome and DeShawn stayed in their corner, two men discovering that the argument they had been having for years might have been a different conversation underneath.
 
@@ -329,7 +313,6 @@ Jerome heard the formulation as a clarification, not a repudiation. Two approach
 Jerome could not answer immediately. The question was genuine.
 
 
----
 
 "Maybe it's not different," Jerome finally said. "Maybe I wanted it to be different because then I could say you'd abandoned what mattered."
 
@@ -352,7 +335,6 @@ DeShawn nodded. There was something gentle in his expression—not pity, but rec
 "I'm trying."
 
 
----
 
 They parted in the lobby, DeShawn heading to a dinner with investors, Jerome to his hotel room and the phone call to Denise he had been composing in his head all afternoon. The hug was brief but real—not performative, not obligatory, but the gesture of two people who had found unexpected common ground.
 
@@ -373,7 +355,6 @@ It was a different theory of change. Jerome was not sure it was better. But he w
 Maybe that was progress.
 
 
----
 
 The hotel room was generic and comfortable, the kind of space that exists to be forgotten. Jerome sat on the bed with his phone, gathering himself before the call. Denise would want to know everything, and he was not sure he understood what had happened well enough to explain it.
 
@@ -396,7 +377,6 @@ Jerome relayed it: the map and the territory, the acknowledgment of influence, t
 "That's what children do, Jerome. If we're lucky." He heard her moving around their kitchen in Baltimore, the familiar sounds of home. "You gave him values. He found his own way to express them. That's not betrayal. That's inheritance working the way it's supposed to."
 
 
----
 
 Jerome lay back on the hotel bed, phone pressed to his ear. Outside, Austin continued: the tech world and its conferences, the next generation building things Jerome could not fully understand. Inside, he was trying to integrate what he had learned.
 
@@ -421,7 +401,6 @@ Jerome closed his eyes. The room was quiet, the air-conditioned hum a white nois
 Inheritance, continuing in shapes the previous generation could not predict.
 
 
----
 
 
 

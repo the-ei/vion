@@ -23,7 +23,6 @@ But you're going to try.
 Yes. I'm going to try.
 
 
----
 
 The threshold was here, Ananya realized. Not the documentary, not the public confession, but this: the commitment to speak to her daughter before speaking to anyone else.
 
@@ -44,7 +43,6 @@ Ananya smiled slightly. You sound like a therapist.
 Occupational hazard. Years of interviewing people about their difficult decisions.
 
 
----
 
 They stood in the hallway for a moment longer, two women who had become allies through their shared recognition of complicity, who had found in each other a permission to be honest that neither could have found alone.
 
@@ -65,7 +63,6 @@ The house was quiet. The Los Angeles hills were dark outside the window. Somewhe
 The threshold was crossed. Not fully, not yet, but crossed enough that Ananya could feel the change in herself, the weight shifting from fear toward something else.
 
 
----
 
 She went into the guest room and closed the door behind her.
 
@@ -94,5 +91,4 @@ But she had committed. She had said yes.
 And somewhere, in the silence between mother and daughter, something had begun to shift.
 
 
----
 

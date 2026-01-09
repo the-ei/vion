@@ -15,7 +15,6 @@ Rachel's smile flickered. "That's a very interesting angle."
 The two junior executives exchanged looks. Rachel leaned forward. "That's exactly why we want you. You're not afraid to ask the hard questions."
 
 
----
 
 Delphine let the flattery settle, neither accepting nor rejecting it. "Let me make sure I understand what you're offering. Full creative control?"
 
@@ -44,7 +43,6 @@ This was what she did. She was good at it. But she had never done it about somet
 The call ended, and Delphine sat in the sudden silence of her home office, wondering what she had just agreed to consider.
 
 
----
 
 Theo's footsteps echoed from somewhere in the house - the particular rhythm of a four-year-old moving from room to room, investigating things that had been investigated a thousand times before and somehow remained interesting. Jessie was supposed to be watching him, but Jessie was probably also working, their domestic ecosystem depending on the optimistic assumption that a child could entertain himself for finite periods.
 
@@ -61,7 +59,6 @@ Could she make something that would survive that process? Something that would r
 She didn't know. And the not-knowing felt like a familiar companion now, an uncomfortable friend she had been learning to live with.
 
 
----
 
 Theo appeared in the doorway, carrying a stuffed elephant whose name changed daily. "Mommy, I'm hungry."
 
@@ -96,5 +93,4 @@ It was as good a summary as any. "Something like that. I'm trying to decide if I
 Delphine smiled despite herself. "You're right. That is almost the same."
 
 
----
 

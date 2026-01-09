@@ -11,7 +11,6 @@ On the table between them were photographs. A young woman at a graduation, smili
 "Thank you for coming," Sarah said. "This meeting isn't about legal strategy. It's about understanding."
 
 
----
 
 Damon spoke first. His voice was flatter than Ananya expected, the emotional weight removed through practice, through therapy, through the necessity of telling this story to lawyers and doctors and family members who needed to understand.
 
@@ -26,7 +25,6 @@ Ananya knew the one. She remembered the meeting where they'd discussed it. The e
 "The algorithm knew," Damon said. "It had to know. I'd never told anyone at Prometheus I was a gambling addict, but my behavior patterns - the way I used their product - they could see it. And instead of protecting me, they optimized for it."
 
 
----
 
 The rain had intensified, drumming against the windows in waves. Inside the conference room, no one moved.
 
@@ -43,7 +41,6 @@ He stopped. His hands were still folded on the table, but something had changed 
 Your company. Ananya didn't correct him.
 
 
----
 
 Lisa Tran's story came next. She spoke differently than Damon - more controlled, the fury compressed into precision.
 
@@ -62,7 +59,6 @@ Ananya knew the pathway Lisa was describing. She had seen the reports on it. The
 "By sixteen, Maya weighed eighty-seven pounds. She spent six months in inpatient treatment."
 
 
----
 
 Lisa set the photograph down. Her hands were trembling slightly - the only breach in her composure.
 
@@ -81,7 +77,6 @@ Ananya felt the question like a physical weight. The honest answer was complicat
 "I stayed."
 
 
----
 
 The meeting ended eventually - goodbyes that were awkward, handshakes that were complicated by what had been shared. Damon and Lisa left first, escorted by a paralegal. Ananya remained, sitting at the table where harm had been given faces and names.
 
@@ -106,7 +101,6 @@ Ananya looked at the photographs still on the table. Maya's graduation smile. Da
 "I know," Sarah said. "That's why we need you."
 
 
----
 
 Ananya drove home through the rain, taking the Bay Bridge with its familiar lights, the city rising ahead of her like a question she had to answer. Her hands were steady on the wheel, but inside something had shifted - tectonic, irreversible.
 
@@ -121,5 +115,4 @@ With people like her, it could pretend.
 The rain fell. The bridge lights reflected on the wet road. Ananya drove toward a decision she could no longer avoid.
 
 
----
 

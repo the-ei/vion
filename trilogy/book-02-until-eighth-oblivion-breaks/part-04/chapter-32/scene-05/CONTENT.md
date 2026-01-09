@@ -25,7 +25,6 @@ He looked around. The unfamiliar street suddenly seemed less unfamiliar - he cou
 "We don't know that."
 
 
----
 
 "We don't know anything," Jerome said. "That's the point. We can't know. The communications are down. The campus is sealed. He could be alive in a bunker somewhere or dead in a building we'll never reach or..."
 
@@ -54,7 +53,6 @@ His voice trailed off. The loop was trying to restart, trying to pull him back i
 "Then let's go."
 
 
----
 
 They sat in the dark apartment together. Denise had lit a candle - their supply was running low, but she insisted. The flickering light cast shadows on the walls, on her face, on the hands that she kept folded in her lap.
 
@@ -83,5 +81,4 @@ They sat together as the candle burned down, saying nothing more. Outside, the c
 The darkness was not lifted. But it was shared.
 
 
----
 

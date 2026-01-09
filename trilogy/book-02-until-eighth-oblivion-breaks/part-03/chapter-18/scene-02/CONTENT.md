@@ -21,7 +21,6 @@ They ate in a silence that lasted perhaps two minutes before DeShawn broke it.
 DeShawn paused, a forkful of rice halfway to his mouth. The kitchen light caught his face, and for a moment Jerome saw the child he had been, the one who used to ask why the sky was blue and whether fish had feelings. "That's the interesting question, isn't it?"
 
 
----
 
 Jerome watched his son's face as he spoke, the animation in it, the certainty. DeShawn saw ATLAS-7 the way he had once seen the first iPhone, the first social media platforms, the first wave of apps that had restructured adolescent social life: as a wave to ride, not a current to fear. He had grown up swimming in these waters. He didn't remember a world before them.
 
@@ -44,7 +43,6 @@ Jerome took a breath. The rice on his plate had stopped steaming. He had not wan
 "Like who benefits. Like who gets hurt."
 
 
----
 
 DeShawn set his fork down. "You think I haven't thought about that? You think we don't talk about ethics in our classes? There's a whole field of AI safety. People are working on this. The Prometheus safety protocols—"
 
@@ -63,7 +61,6 @@ DeShawn picked up his fork again, poked at his rice without eating. "You always 
 Jerome felt something tighten in his chest, a familiar constriction that came whenever the gap between his knowledge and his family's experience became visible. The words "you're fine" bounced around in his head, colliding with everything he knew about the gig workers he had interviewed, the warehouse employees, the drivers being surveilled and optimized out of existence. Fine for whom? Fine by what measure? And how long would fine last, when the curve kept climbing?
 
 
----
 
 "Denise," Jerome said, looking for an ally, or at least a mediator.
 
@@ -90,7 +87,6 @@ The name landed in the room like something dropped.
 Jerome felt Denise's hand on his knee under the table, a gentle pressure that said: don't. Not now. Not like this.
 
 
----
 
 "You applied to Prometheus," he said, trying to keep his voice neutral. "The company I've been investigating for two years."
 
@@ -113,7 +109,6 @@ DeShawn stood. "For the record, I know the industry isn't perfect. I'm not naive
 Jerome nodded, not because he agreed, but because he didn't trust himself to speak. His son believed he could enter the machine and emerge unchanged. Jerome had spent his career documenting what the machine did to people who believed that.
 
 
----
 
 After DeShawn left to help Denise with the dishes, Jerome sat alone at the table for a long moment. The evening light was fading through the windows, turning the familiar room into something shadowed and strange, the furniture becoming silhouettes, the walls receding into uncertainty. He could hear water running in the kitchen, the clatter of plates, the murmur of conversation between his wife and son that he couldn't quite make out—their voices harmonizing in a way that excluded him, two people who understood each other in registers he couldn't access.
 
@@ -134,7 +129,6 @@ He stood, stretched muscles that had been tense for hours, and walked to the kit
 Denise didn't turn around. "I know."
 
 
----
 
 He went back to his office and closed the door. The laptop screen had gone dark; he touched the trackpad and it woke to the document he had been trying to write, the cursor still blinking at the end of a sentence he had started and abandoned.
 
@@ -151,5 +145,4 @@ Outside his window, the evening had become night. Somewhere in the house, Denise
 Jerome kept writing. It was the only thing he knew how to do.
 
 
----
 

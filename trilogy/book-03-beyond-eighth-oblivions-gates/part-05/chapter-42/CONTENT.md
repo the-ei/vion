@@ -23,7 +23,6 @@ Now Ananya watched the lobby and waited, not for anything specific, just for the
 "Something like that."
 
 
----
 
 They stood together, old friends who had first met as source and journalist, then become allies, then become something harder to name. The decade had changed them both in ways that were still becoming visible.
 
@@ -50,7 +49,6 @@ Ananya smiled. It was an old reference between them, from a conversation years a
 "God, I hope not. I hope the next time I see you it's somewhere that doesn't require name tags."
 
 
----
 
 Delphine was in the coffee shop adjacent to the lobby, her bags already gathered at her feet, her attention on her phone. She looked up when Ananya approached and smiled - that particular Delphine smile that managed to be both warm and wry at the same time.
 
@@ -81,7 +79,6 @@ Ananya considered the question. She had asked it of herself so many times, in so
 "Is it? It feels more like realism to me. We can't change the past. We can only try to understand it well enough to navigate the present."
 
 
----
 
 Delphine's phone buzzed. She glanced at it, smiled.
 
@@ -116,7 +113,6 @@ They crossed the lobby together, two women in their late forties who had spent a
 "I'll ask her."
 
 
----
 
 A black car pulled up, and Delphine loaded her bags into the trunk. She turned back to Ananya for a final moment - not quite an embrace, not quite a wave, something in between that acknowledged how inadequate gestures were and made one anyway.
 
@@ -139,13 +135,12 @@ Her phone buzzed. A text from Priya: *Landed safely. Call tonight?*
 *Yes*, Ananya typed back. *I'd like that.*
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Jerome pressed his forehead against the airplane window and watched the clouds move below him, white and gray and infinite in the way that clouds always were, the way they had been before the Eighth Oblivion and would be after whatever came next. The plane hummed its mechanical song. Around him, passengers slept or watched screens or stared into middle distance with the particular vacant attention of air travel.
 
@@ -158,7 +153,6 @@ Was that what he had wanted? He had wanted the truth to matter. He had wanted pe
 The question was unanswerable. He had learned to live with unanswerable questions.
 
 
----
 
 Three hours later, Ananya sat in a different airplane, looking at a different window, thinking different thoughts that led to the same places.
 
@@ -175,7 +169,6 @@ Ananya smiled. This was new - Priya wanting to share, wanting to connect, the wa
 *Thursday works*, she typed back. *I'll bring wine.*
 
 
----
 
 Yusuf had driven to Washington from Minneapolis. It was a long drive - eighteen hours across the middle of the country, through landscapes that scrolled past like a meditation on American geography. He could have flown, but he liked the drive. He liked the time it gave him to think, the way the road required just enough attention to prevent overthinking.
 
@@ -188,7 +181,6 @@ Survival music, someone at the symposium had called it. They had meant it as a c
 His mother was waiting for him in Minneapolis. Amina was there too, having flown back the day before, already organizing whatever she was organizing, already building the next phase of whatever movement she was building. The family home that was still a home. The life that had continued while he was away.
 
 
----
 
 Delphine watched Los Angeles approach through the car window - the sprawl resolving slowly into familiar shapes, the hills and highways and particular quality of light that meant home. The driver was silent, which she appreciated. She had talked enough at the symposium to fill a month of conversations.
 
@@ -205,7 +197,6 @@ She thought about Theo, about Jessie, about the life waiting for her at the end 
 She was ready to be home.
 
 
----
 
 Ruth sat in her study in New Haven, not traveling, not watching the symposium's livestream, just sitting with the afternoon light and the books that lined the walls and the particular silence of a house that had become too big for one person.
 
@@ -220,13 +211,12 @@ She hoped they understood what she meant. She hoped they didn't think she was be
 She closed her eyes and let the afternoon sun warm her face. Tomorrow there would be more work. Today there was rest.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Elena was washing dishes when Jerome called. The familiar rhythm of her Phoenix evening - Daniel reading in the living room, Sofia and Mateo somewhere in the house doing their teenager things, the desert light fading to purple through the kitchen window - and then the phone buzzing on the counter with Jerome's name on the screen.
 
@@ -255,7 +245,6 @@ She laughed, and the sound felt good - the release of something she hadn't known
 "The same. Which is good news, at this point. Stable means alive."
 
 
----
 
 "And Denise?"
 
@@ -284,7 +273,6 @@ The carousel beeped in the background. "That's my bag. I should go. But Elena - 
 "Anytime. Go home to Denise. Try to get the cheese right."
 
 
----
 
 Ananya's flight landed at SFO as the sun was setting, painting the bay gold and rose. She moved through the terminal on autopilot - familiar gates, familiar crowds, the particular geography of her home airport after fifteen years of regular travel. The carousel delivered her bag. The parking shuttle took her to her car. The freeway carried her north toward her apartment in the city.
 
@@ -303,7 +291,6 @@ She typed back: *Home. Safe. Talk tomorrow.*
 The word still surprised her sometimes. Mom. After all the years of distance, of Priya calling her "Mother" or "Ananya" or nothing at all.
 
 
----
 
 Delphine walked through the front door and into the particular chaos of her Los Angeles home - Theo's backpack on the floor, Jessie's coffee cup still on the counter, the evidence of a day lived without her.
 
@@ -332,7 +319,6 @@ They kissed, and Theo made the obligatory disgusted noise that twelve-year-olds 
 "Later. Right now I just want to be here."
 
 
----
 
 Yusuf pulled into the driveway as the Minneapolis sky was darkening from blue to black. The house was lit from within, warm yellow light in the windows, the particular glow of home at the end of a long journey.
 
@@ -365,7 +351,6 @@ He set down the bags and thought about it. "I don't know. Maybe. The new songs a
 "Continuing," Amina said. "The word is continuing."
 
 
----
 
 He liked that. Continuing. It was what he had been doing for years without having the word for it - not just surviving, which implied something was still trying to kill you, but continuing, which implied the threat had passed and you were living in what came after.
 
@@ -386,13 +371,12 @@ Music was waiting. New songs, unfinished, calling to be completed. Tomorrow he w
 Tonight, he was home.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Jerome sat at his desk in the Baltimore rowhouse, the evening settling around him like something familiar, something earned. Denise was in the kitchen, and he could hear her moving through the space - the clink of dishes, the hum of the radio she kept on while cooking, the particular sounds of a life being lived in the room next door.
 
@@ -407,7 +391,6 @@ It was true. His son knew where to find him now, knew how to reach him, and some
 You didn't solve everything. You just found ways to continue.
 
 
----
 
 In San Francisco, Ananya stood at her window, watching the city lights come on. The apartment was quiet, but it was a different quiet than the silence she remembered from ten years ago, the empty house too large for one person, the absence of James, the weeks without Priya that had felt like small bereavements.
 
@@ -424,7 +407,6 @@ Her phone buzzed. A text from Delphine: *Arrived safely. Missing you already. Ju
 *June works*, she typed back. *I'll be there.*
 
 
----
 
 Delphine lay in bed next to Jessie, their bodies not quite touching, the particular intimacy of shared sleep after twenty years. Theo was in his room, probably not sleeping yet, probably on his phone the way twelve-year-olds were always on their phones, being shaped by algorithms Delphine had once documented and now simply lived alongside.
 
@@ -443,7 +425,6 @@ Delphine lay in the dark and thought about the documentary she had made, the one
 That was how it worked. You made something and released it, and then it belonged to everyone, and what they made of it was theirs.
 
 
----
 
 Ruth felt them. All of them, out there in their separate lives, the people she had known and taught and argued with and loved in her particular careful way. The symposium had ended, and they were scattered now across the country, returning to the worlds they had built, the work that was waiting.
 
@@ -458,7 +439,6 @@ The evening light came through her window, the particular New Haven twilight she
 Tomorrow there would be more. There was always more.
 
 
----
 
 Yusuf picked up his guitar. The new song was still unfinished, the melody clear but the words not quite right, circling the thing he wanted to say without landing on it. He played through the progression slowly, listening, letting the notes find their own way to meaning.
 
@@ -471,7 +451,6 @@ He played the song through once, then again, then a third time. Each pass was sl
 Outside his window, Minneapolis was settling into night. The city where he had grown up, where he had almost failed, where he had somehow continued. The city that was home not because it was perfect but because he had learned to live here, had learned the streets and the weather and the particular way the light fell on certain buildings at certain times of day.
 
 
----
 
 He set down the guitar and went to the window. The sky was dark now, the stars invisible behind the city's light, but he knew they were there - had always been there, would be there long after everyone he knew was gone, indifferent to the small struggles and small victories of human lives.
 
@@ -494,7 +473,6 @@ And Yusuf, at his window in Minneapolis, watched the night settle over the city,
 The gate was open. The world continued. There was more to do.
 
 
----
 
 
 

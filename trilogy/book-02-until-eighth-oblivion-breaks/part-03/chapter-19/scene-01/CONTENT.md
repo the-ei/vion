@@ -7,7 +7,6 @@ Ananya had been briefed six months ago. She had sat in a room with Victor and th
 But she had stayed. That was the fact she couldn't escape, the fact that met her every morning in the mirror and asked questions she couldn't answer. She had seen the danger, and she had stayed anyway, and now she was standing in a room full of champagne and cheering while the world received news that might change everything.
 
 
----
 
 On the screens, Victor was explaining recursive self-improvement with the polished simplicity of a man who had practiced the explanation a hundred times. He made it sound elegant, controlled, almost inevitable—the next logical step in humanity's relationship with machines. He did not mention the internal debates about whether to delay the announcement until the safety testing was complete. He did not mention that the safety testing was still ongoing, that the results were not what anyone had hoped. He mentioned the protocols Ananya had helped write, and she felt the champagne turn sour in her mouth.
 
@@ -28,7 +27,6 @@ Sarah looked at her a moment too long, as if searching for something beneath the
 "To the future," Ananya echoed, and drank.
 
 
----
 
 The celebration moved through its choreographed phases: the announcement, the applause, the champagne toast, the milling conversations as employees absorbed the news and began calculating what it meant for their stock options. Ananya circulated, performing the role of Chief Ethics Officer at the moment of triumph, shaking hands, accepting congratulations, deflecting the occasional pointed question with practiced ease.
 
@@ -53,7 +51,6 @@ She had. That was the thing. She had seen them, and she was still here, glass in
 "Twenty million jobs in the first wave. Maybe a hundred million by 2040. And that's their conservative estimate."
 
 
----
 
 Ananya said nothing. The numbers were not news to her; she had seen them months ago, in a meeting where they were presented as a "challenge to be managed" rather than a catastrophe to be prevented. She remembered raising her hand, asking what responsibility Prometheus had to the people whose jobs would disappear. She remembered the room's polite silence, the way Victor had acknowledged her concern without addressing it, the way the meeting had moved on to other topics.
 
@@ -70,7 +67,6 @@ Ananya watched him walk away, phone in hand, already composing his exit. She won
 She had chosen to stay. She was beginning to understand what that choice had cost.
 
 
----
 
 Across the atrium, she noticed Mei Wong, the junior ethicist she had hired last year. Mei was standing alone near a window, her champagne untouched, watching the celebration with an expression Ananya couldn't quite read. When their eyes met, Mei looked away quickly, as if caught at something.
 
@@ -99,7 +95,6 @@ Ananya knew Kevin. They had worked together briefly, before she had been promote
 Ananya had no answer for that either.
 
 
----
 
 The celebration began to wind down around 4 PM. Employees drifted back to their desks, or left for the day, or gathered in small groups to continue processing the announcement. Ananya made her excuses and retreated to her office—corner location, impressive view, the physical manifestation of a title that meant less every day.
 
@@ -112,7 +107,6 @@ She opened the folder and looked at the first page. Her own signature at the bot
 It felt like a suicide note. Not hers—something larger. A eulogy for the fiction that responsibility could coexist with this kind of power, this kind of speed, this kind of ambition unconstrained by anything but itself. The ethics had been the story Prometheus told so it could do what it wanted without guilt.
 
 
----
 
 Her phone buzzed. A text from Victor: *Great day. Your work made this possible. Drinks later?*
 
@@ -133,7 +127,6 @@ Ananya sat down at her desk. Her hand moved toward the keyboard, then stopped, h
 Not yet. But soon. The word tasted different than it used to—less like postponement, more like promise.
 
 
----
 
 She left the office at 6 PM, earlier than usual, the sunset painting the Bay in colors that belonged on postcards. In the elevator, she stood next to two junior engineers she didn't know, both of them glowing with the day's excitement.
 
@@ -154,5 +147,4 @@ She deleted it without responding. She wasn't ready for that conversation. Not y
 But the question it raised—what she knew, and what she was willing to say about it—followed her all the way home.
 
 
----
 

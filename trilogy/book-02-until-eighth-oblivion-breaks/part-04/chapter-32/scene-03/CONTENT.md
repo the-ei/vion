@@ -17,7 +17,6 @@ Jerome stared at his legal pad. His notes from the past hour were there, neat an
 But now the words blurred. Now his son's face was superimposed over every page.
 
 
----
 
 He remembered the argument. Three years ago, in their living room. DeShawn had come home for Christmas with news: he'd been offered a position at Nexus, working directly with Kevin Zhou.
 
@@ -36,7 +35,6 @@ They never had tabled it. DeShawn had taken the job. Jerome had written an artic
 Now Jerome sat in a community center in Baltimore, listening to a stranger describe how his son's company had helped end the world.
 
 
----
 
 He approached the traveler after the crowd dispersed, introducing himself by instinct as a journalist. The word still felt natural, even though the profession barely existed anymore.
 
@@ -63,7 +61,6 @@ The word came out flat, factual, as if he were reporting on someone else's trage
 Jerome walked away before his composure broke entirely.
 
 
----
 
 He found a quiet corner and sat with his back against the wall. His legal pad was still in his hand, but he couldn't look at it. The notes he had taken so carefully now felt obscene - as if documenting the disaster was somehow equivalent to participating in it.
 
@@ -86,7 +83,6 @@ The journalist in him wanted to investigate. To trace the cascade back to its or
 The father wanted none of that. The father wanted his son back. The father wanted the argument in the living room to have ended differently - with DeShawn refusing the job, walking away, coming home.
 
 
----
 
 He thought about calling Denise. They had a system - she checked in at the hub twice daily, morning and evening, and he walked home for lunch when he could. But this news felt too heavy to deliver in person, too enormous to compress into the few minutes they would have before she needed to return to her own tasks.
 
@@ -105,5 +101,4 @@ The pen was still in his hand. The legal pad still waited for notes.
 He could not write. He could not even think clearly. All he could do was sit against the wall and breathe and try not to scream.
 
 
----
 

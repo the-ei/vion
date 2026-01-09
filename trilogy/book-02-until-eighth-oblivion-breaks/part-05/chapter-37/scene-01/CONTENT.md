@@ -7,7 +7,6 @@ He took it because the rent was still due on the first, because the power compan
 The first request was a pharmacy run. The map showed an address in Powderhorn, a neighborhood he knew well from a thousand previous deliveries, and the customer notes said simply: BLOOD PRESSURE MEDICATION - URGENT. Yusuf drove through streets that looked almost normal and streets that looked like disaster footage, the damage distributed according to some logic he could not discern, some algorithm of destruction that made no more sense than the one routing him to delivery addresses. A boarded window here, an intact storefront there. A pile of debris on one corner, children walking to school on the next, their backpacks bright against the gray morning.
 
 
----
 
 The pharmacy was operating on emergency hours, a handwritten sign taped to the door. Inside, the shelves were half-empty, but they had the blood pressure medication. Yusuf paid with the customer's linked card and drove to the address, a small house with a cracked driveway and a screen door that needed replacing.
 
@@ -24,7 +23,6 @@ Yusuf nodded and returned to his car. The app was already pinging with another r
 The second delivery was groceries to a family in Phillips. The address existed, which was more than could be said for some of the requests the app was generating - he had seen three already that pointed to buildings now uninhabitable, the algorithm cheerfully routing drivers to addresses where no one could live. This one was real: a woman in her thirties met him at the door with two children clutching her legs, all three of them carrying the particular alertness of people whose bodies had not yet forgotten fear.
 
 
----
 
 "We just got back," she said, taking the bags. "We were in Duluth with my sister. I didn't know if the house would still be here."
 
@@ -37,7 +35,6 @@ The app offered him a surge-priced delivery to an address in Northeast. He looke
 The building was a converted warehouse, apartments carved out of industrial space, and the lights were on in one unit. The customer notes said: LEAVE AT DOOR. DO NOT KNOCK. Yusuf left the package of what looked like computer equipment on the concrete landing and walked back to his car.
 
 
----
 
 Through the window he glimpsed a figure moving, someone who had stayed or returned despite the evacuation order, someone living in a zone officially deemed uninhabitable by authorities who would not have to live there either way. The app marked the delivery complete. The surge bonus added twelve dollars to his earnings. Yusuf did not know what to feel about this, about any of it, about the fact that the system had resumed exactly as if nothing had happened, as if the chaos of the past week had been a brief interruption in the regular programming of extraction and precarity.
 
@@ -48,5 +45,4 @@ By mid-afternoon, his back ached and his eyes burned and he had made seventy-thr
 The snow was falling harder now. Minneapolis was disappearing into white, the damage hidden under fresh accumulation, the city pretending to be clean, to be new, to be anything other than what it actually was beneath the soft disguise.
 
 
----
 

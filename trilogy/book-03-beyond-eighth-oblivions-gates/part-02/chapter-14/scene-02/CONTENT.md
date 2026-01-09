@@ -21,7 +21,6 @@ She sat at the kitchen table, the same place she'd fed hundreds of family meals.
 The words landed somewhere between comfort and confrontation. He had this. He was capable of doing the things she'd always done. The fact that she'd never let him proved nothing about his competence and everything about her control.
 
 
----
 
 The first morning, she tried to get up when the alarm went off. Daniel pressed her gently back into the pillow.
 
@@ -48,7 +47,6 @@ By the third morning, something had shifted. Not quite acceptance, but a weakeni
 He had organized her pills into a weekly container, the kind she'd given to elderly patients for years. Each day's compartment labeled in his careful handwriting.
 
 
----
 
 "You didn't have to do that."
 
@@ -73,7 +71,6 @@ By Thursday, she had stopped trying to interfere. By Friday, she had started to 
 Daniel rolled onto his side, facing her. "What if healing is a kind of work too? What if resting is something you have to learn to do?"
 
 
----
 
 "We need to talk," Elena said. "About more than just this week."
 
@@ -104,7 +101,6 @@ Elena stared at the ceiling. The truth of it settled over her like a weight. She
 "Don't be sorry. Just let me back in."
 
 
----
 
 "What do you need from me?" Elena asked. "Not just now, while I'm sick. What do you need from this marriage?"
 
@@ -135,7 +131,6 @@ Daniel reached across the bed and took her hand. His palm was rough with calluse
 "Then we try again. That's what marriage is, right? Trying again?"
 
 
----
 
 The next morning, Elena woke before Daniel. She lay in bed, feeling the warmth of him beside her, and made herself stay still. Not because she couldn't get up, but because she was choosing not to. The distinction mattered.
 
@@ -164,5 +159,4 @@ Daniel smiled, the first real smile she'd seen on his face in months. The simple
 The marriage had bent. It had nearly broken. But here, in the kitchen that smelled of chilies and eggs, with their children eating breakfast and their bodies slowly learning new rhythms, it was holding. Different than before. But holding.
 
 
----
 

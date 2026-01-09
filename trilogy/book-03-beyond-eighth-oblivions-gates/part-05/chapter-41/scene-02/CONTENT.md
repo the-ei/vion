@@ -9,7 +9,6 @@ Jerome's notebook contained fragments: questions the panelists weren't asking, c
 The moderator asked Ananya about the Prometheus years. "You were inside one of the major companies. Can you tell us what ethical oversight looked like from the inside?"
 
 
----
 
 Ananya's answer was careful, nuanced, exactly what Jerome would have expected. She described the gap between stated values and operational realities, the way ethics teams became cover for decisions that had already been made, the frustration of trying to change systems from within when the systems were designed to resist change.
 
@@ -32,7 +31,6 @@ He considered this. He had always been a reporter, not a historian - interested 
 The panel continued. Another speaker - the former regulator - was describing the policy responses to the platform crises, the legislation that had passed and the legislation that hadn't, the compromises that had been necessary and the compromises that had been too much.
 
 
----
 
 Jerome knew the inside story of that legislation. He had been there when the deals were cut, had talked to the staffers who had written the bills, had watched as industry money shaped the outcomes. The public version, the one being discussed on this panel, was cleaner than what had actually happened. Legislation was like sausage, and journalism was like the person who had to watch it being made.
 
@@ -45,7 +43,6 @@ The panel was winding down. The moderator asked each panelist for a final though
 Ananya spoke last: "We keep looking for the lesson, the takeaway, the thing we learned from the decade that will prevent the next crisis. But I'm not sure there is a simple lesson. What happened was the result of many choices by many people, shaped by incentives and structures that are still in place. The lesson, if there is one, is that we have to keep paying attention, keep questioning, keep trying to understand. The Eighth Oblivion didn't end. It became the world we live in."
 
 
----
 
 The audience applauded. The panel ended. People began to stand, to stretch, to migrate toward the coffee service that was set up in the hallway outside.
 
@@ -64,7 +61,6 @@ He closed his notebook and stood. Across the room, he could see Ananya talking w
 Jerome walked toward Ananya. They had known each other for years, had trusted each other, had become something like friends even as the journalist-source relationship had ended.
 
 
----
 
 "Good panel," he said when he reached her.
 
@@ -95,5 +91,4 @@ The symposium would continue. More panels, more discussions, more academic analy
 The truth mattered. It would have to be enough.
 
 
----
 

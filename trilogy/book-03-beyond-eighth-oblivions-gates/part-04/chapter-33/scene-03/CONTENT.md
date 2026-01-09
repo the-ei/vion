@@ -11,7 +11,6 @@ Punch in. He didn't know what that meant technically, but he understood the prin
 The second take was worse. He lost the melody entirely in the bridge, the part he had never quite figured out, the part that wandered between keys without committing to either. When he stopped, Renata just said "again" and he started again, and again, and again, the song becoming simultaneously more familiar and more strange with each repetition.
 
 
----
 
 By the seventh take, he wanted to quit. The frustration was physical, a tightness in his chest and throat that made singing harder, which made him more frustrated, which made singing even harder. The spiral downward. He had experienced this before, in his car, in his room, the moments when the music refused to cooperate and he gave up, put down the guitar, told himself he wasn't really a musician anyway, just a gig worker who liked to hum.
 
@@ -30,7 +29,6 @@ Renata looked up. "For what?"
 "Nobody does, the first time. You think all those voice memos you made were nothing? They were practice. You just didn't know you were practicing. The skill is there, it just needs to learn a new context."
 
 
----
 
 Yusuf drank the water and looked at the waveforms on the screen. His voice, transformed into visual data, the peaks and valleys of sound made visible. He could see where the good parts were and where they fell apart, the graphic representation of his failures and almost-successes.
 
@@ -51,7 +49,6 @@ Practice. He had never thought of recording as practice. He had thought of it as
 "I want to try not caring. Not about the recording, not about whether it's good. Just singing like nobody's listening."
 
 
----
 
 He went back into the booth. Put on the headphones. Looked at the lyrics in his hand and then set them aside. He knew the words; he had been singing this song, or trying to sing it, for eleven years. He didn't need the paper. What he needed was to stop needing things.
 
@@ -66,7 +63,6 @@ The verse came out differently than it had before. The notes were the same but t
 When he finished the song, the room was silent. Renata and Terrell were both still, listening to something only they could hear in the playback.
 
 
----
 
 "Play it back," Renata said.
 
@@ -85,7 +81,6 @@ They moved to the second song on his list, something lighter, a love song or a s
 The evening deepened outside the warehouse windows. They worked through song after song, false starts and breakthroughs interleaved, the ordinary process of making art.
 
 
----
 
 By eight o'clock they had rough takes of four songs. Not polished, not ready for release, but captured - the foundation Renata kept talking about, the raw material that would become something else. Yusuf's throat was sore from singing, a good kind of sore, the ache of use rather than damage. He sat on the couch in the lounge while Terrell exported files and Renata made notes.
 
@@ -104,5 +99,4 @@ He went to find Renata and tell her that his sister was coming. The warehouse wa
 The door buzzed. Amina was coming. The session wasn't over. And for the first time in longer than he could remember, Yusuf felt like he was exactly where he was supposed to be.
 
 
----
 

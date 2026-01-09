@@ -1,4 +1,4 @@
-The cafe was crowded with the lunch rush, tech workers and freelancers filling the small tables, the steady hum of conversation and espresso machines creating a wall of sound that was both anonymous and intimate.
+The cafe was crowded with the lunch rush, tech workers and freelancers filling the small tables, the steady hum of conversation and espresso machines creating a wall of sound both anonymous and intimate.
 
 Kevin Zhou arrived early, as he always did, claiming a table in the corner where he could watch the door. Old habit, or perhaps just awkwardness: the need to see who was coming, to prepare himself for interaction.
 
@@ -11,7 +11,6 @@ So, he said. Tell me about the interface. Where are you with it?
 Kevin Zhou summarized the progress: the technical milestones, the testing protocols, the timeline for a real trial with actual participants. He spoke in the language they shared, the vocabulary of development and deployment, the comfortable ground of technical detail.
 
 
----
 
 DeShawn listened, nodded, asked clarifying questions. He had been invaluable in the early stages of the project, offering perspective that Kevin Zhou lacked, the perspective of someone who had grown up watching technology reshape the world and had learned to ask questions before building.
 
@@ -28,7 +27,6 @@ Why this project? I mean, of all the things you could build, why an interface fo
 The question cut deeper than DeShawn probably intended. Or maybe he intended exactly that depth; it was hard to tell with DeShawn, who had his father's talent for asking questions that revealed more than their literal content.
 
 
----
 
 Kevin Zhou considered his answer carefully.
 
@@ -38,7 +36,7 @@ DeShawn nodded slowly. That's not a bad reason. But who's it for?
 
 What do you mean?
 
-I mean, you can build the most elegant interface in the world, but if it's only accessible to people like us, it's just another tool for the tech class to feel good about themselves while everything else stays the same.
+I mean, you can build the most elegant interface in the world, but if it's only accessible to people like us, it's just another tool for the tech class to congratulate itself while everything else stays the same.
 
 The critique was familiar. Kevin Zhou had heard versions of it throughout his career, had dismissed them as naive or impractical or the concerns of people who did not understand scale. But coming from DeShawn, who understood the technology as well as anyone, the critique carried a different weight.
 
@@ -49,7 +47,6 @@ DeShawn's eyebrows rose. You reached out to a musician?
 Someone I met years ago. During the hearings.
 
 
----
 
 They talked for another hour, the conversation ranging from technical details to ethical frameworks to the broader questions of what technology was supposed to do in a world that was already saturated with it.
 
@@ -68,5 +65,4 @@ The interface could change that. Could make the walls permeable, could let peopl
 But first Kevin Zhou would have to let someone feel what he felt. The builder would have to become the user. The architect of solitude would have to allow himself to be known.
 
 
----
 

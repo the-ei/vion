@@ -13,7 +13,6 @@ The intake had been efficient - algorithmic, almost. Denise's information pulled
 "Like someone waiting to find out if she's dying."
 
 
----
 
 Jerome squeezed her hand. There was nothing to say that wouldn't be either false comfort or confirmation of her fear. So he just held on, feeling the warmth of her palm, the slight tremor that she couldn't quite control.
 
@@ -32,7 +31,6 @@ A name was called - not Denise's - and the young couple stood, the woman clutchi
 "You have more than precedent. You have excellent doctors and early detection and thirty years of medical progress since your aunt."
 
 
----
 
 "I know the statistics," she said. "I've researched them obsessively since the biopsy. I know the survival rates for different stages and hormone receptors and genetic markers. I know that breast cancer treatment has become remarkably effective, that most women diagnosed today will die of something else eventually. I know all of it." She turned to look at him directly. "But knowing isn't the same as feeling. And what I feel is terrified."
 
@@ -45,7 +43,6 @@ Dr. Adaora Okonkwo entered briskly, tablet in hand, white coat over professional
 "Mrs. Washington, Mr. Washington. Thank you for coming in." She sat on a rolling stool, positioning herself at their level. "I've reviewed all the results. Let me share what we know."
 
 
----
 
 The news came in precise language. Stage 1B. Invasive ductal carcinoma. Hormone receptor positive, HER2 negative. Tumor size 1.8 centimeters. No lymph node involvement based on imaging, though this would be confirmed surgically. Each term landed like a stone dropped into water, creating ripples Jerome could feel spreading through his chest.
 
@@ -64,7 +61,6 @@ Jerome listened as the women discussed logistics - dates, procedures, what to ex
 His wife had cancer. The words existed now, like a key turned in a lock. Whatever happened next, however successful the treatment, his wife had cancer and that fact would never become completely untrue. Something had entered their lives that would not leave, that would shape every future moment even when it receded from immediate view.
 
 
----
 
 Dr. Okonkwo finished her explanations and asked if they had questions. Denise had several - specific, researched, the questions of someone who had been preparing for this conversation. Jerome found he had none. His mind had stopped forming questions and was simply absorbing the reality, trying to integrate this new knowledge into his understanding of who they were and what their life looked like now.
 
@@ -87,7 +83,6 @@ Denise reached over and took his hand again. "We're going to be okay. Both of us
 "I know." He squeezed her hand. "I know."
 
 
----
 
 They drove home through streets Jerome knew by heart. Past the corner where they had bought DeShawn his first bicycle. Past the library branch where Denise used to take him on Saturday mornings. Past the school where parent-teacher conferences had measured their son's progress through childhood. The city was layered with their history, thirty years of moments accumulated into a life that now felt fragile in a way it hadn't before.
 
@@ -114,7 +109,6 @@ She wiped her face with her hands. "When did you get wise?"
 She almost laughed - a wet, broken sound that was halfway to more crying. He loved her so much in that moment that it hurt, a physical ache in his chest.
 
 
----
 
 They went inside. The house received them as it always did - familiar, warm, full of the accumulated evidence of their shared life. But Jerome saw it differently now. The photographs on the wall, the furniture they had chosen together, the kitchen where they had cooked a thousand meals - all of it was the scaffolding of a life that could be dismantled. Not would be, not by this. But could be. The possibility had always existed; he simply hadn't seen it clearly until today.
 
@@ -137,5 +131,4 @@ She considered this, then nodded. "A few hours. Then we call."
 They sat together on the couch, not talking, just present. The afternoon light moved slowly across the floor. The house was quiet. The world continued outside, indifferent and relentless. And inside, two people who had built a life together sat with the knowledge that building was always, also, learning how to let go.
 
 
----
 

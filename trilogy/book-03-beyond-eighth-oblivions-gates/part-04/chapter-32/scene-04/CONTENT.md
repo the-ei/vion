@@ -15,7 +15,6 @@ She thought about how to answer. They had been married for eighteen years, since
 "I don't know. Clearer, maybe. Less tired, even though I'm exhausted. Does that make sense?"
 
 
----
 
 "Not really," he said, and she could hear him smiling. "But it sounds good. I was worried about you coming back too soon."
 
@@ -44,7 +43,6 @@ Elena smiled despite herself. Their children were being raised by a village, the
 "I'll tell you when it's more than just an idea. When you're home."
 
 
----
 
 "Three more weeks," he said. "Maybe four. Depends on whether they extend us for the second phase."
 
@@ -75,5 +73,4 @@ She laughed, a sound that surprised her. The grief was still there, the wound of
 Neither of them hung up for a moment, holding the connection open, the intimacy of not wanting to be the first to let go. Then the construction noise surged in the background and he said he had to go, and she said she did too, and the call ended. She stood in the heat for another thirty seconds, looking at nothing, feeling the sun on her face. Then she went back inside.
 
 
----
 

@@ -17,7 +17,6 @@ At the bottom of the letter, in smaller print: *This program is made possible th
 The joy on Halima's face dimmed, replaced by confusion. "I don't understand. They're offering her a scholarship. Isn't that good?"
 
 
----
 
 Yusuf set the letter down, trying to organize his thoughts. He had been to the coalition meeting, had heard Sarah talk about how these companies operated, had started to see the system as a system rather than just a series of random hardships.
 
@@ -40,7 +39,6 @@ Halima looked between her children, her hands wrapped around a cup of tea that w
 "The system." Amina laughed, but there was no humor in it. "Everything is the system with you now. Since when did you become so political?"
 
 
----
 
 The question stung because it was fair. A month ago, Yusuf hadn't thought about these things. A month ago, he had just been surviving, accepting the world as it was, too tired to imagine it could be different.
 
@@ -63,7 +61,6 @@ Yusuf struggled to find the words. The arguments that had seemed so clear at the
 "That's exactly what you're saying." Amina's eyes were bright with anger or tears, he couldn't tell which. "You want me to sacrifice my future for your politics."
 
 
----
 
 Halima set down her tea with a clatter that made both of them stop. Their mother rarely raised her voice, but she didn't need to. The gesture was enough.
 
@@ -84,7 +81,6 @@ Her voice was steady, but there was weight behind it, the accumulated weight of 
 Her voice cracked slightly. "You don't get to tell me what's acceptable to accept."
 
 
----
 
 Yusuf felt the argument collapse inside him. His mother's words had a force that his theories couldn't match. She had sacrificed more than he could imagine, endured more than he had ever faced. Who was he to tell her that she had made the wrong accommodations?
 
@@ -105,7 +101,6 @@ She was right, of course. The choice between purity and survival was not somethi
 Yusuf looked at his mother, at his sister, at the modest kitchen where they had shared so many meals. His family. The people he loved more than any political principle.
 
 
----
 
 "I need to think," Yusuf said finally. "About all of this. I'm not saying no. I'm just—I need to think."
 
@@ -124,7 +119,6 @@ Or maybe that was just a rationalization. A way of making peace with a choice th
 He didn't know. He wasn't sure he would ever know. All he knew was that his sister deserved a future, and his mother deserved to see her children succeed, and the world kept demanding impossible choices from people who had nothing left to give.
 
 
----
 
 He stayed on the balcony until the sky was fully dark, thinking about the people he had met that week. Sarah, who had quit a job at a company like Prometheus because she couldn't live with what they were doing. Jake, who opposed corporate power even though his politics were completely different from Yusuf's. Pastor Williams, who saw technology through the lens of human dignity and found it wanting.
 
@@ -145,5 +139,4 @@ She smiled, just a little. It wasn't resolution, but it was something. A bridge 
 Yusuf went to his own room, lay down without sleeping, and waited for the world to keep demanding impossible things.
 
 
----
 

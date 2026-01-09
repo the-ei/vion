@@ -11,7 +11,6 @@ What had it all amounted to? He had published careful journalism that had been a
 The investigation materials seemed different now, seen through the lens of his mother's fading memory, his wife's exhaustion, his son's need for presence. Less urgent, less essential, less worth the sacrifice they had extracted.
 
 
----
 
 He thought about what Kevin Zhou had said - that building continued even when the outcome was uncertain, because the alternative was letting others build in your place. The same logic applied to journalism: you kept investigating even when understanding seemed impossible, because the alternative was surrendering the field to those who didn't care about truth.
 
@@ -26,7 +25,6 @@ Jerome pulled out his notebook and began to write - not an article, not research
 "My wife. My son. My mother. My sister. They have borne the weight of my pursuit while I have reaped the benefits. This is not sustainable. This is not just."
 
 
----
 
 He wrote for an hour, the thoughts pouring out faster than he could organize them. About the Eighth Oblivion and what it meant. About institutional uncertainty and the limits of understanding. About his mother's dementia as a personal version of the collective forgetting he was trying to document.
 
@@ -43,5 +41,4 @@ The last thought before sleep took him was of his mother, looking out the window
 He slept without dreaming, for once. The next story could wait.
 
 
----
 

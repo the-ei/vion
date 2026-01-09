@@ -11,7 +11,6 @@ She parked on the street and sat for a moment, her hands on the steering wheel, 
 This was the threshold. Not the door of the house, but this moment, this choice to get out of the car and walk toward whatever waited for her on the other side.
 
 
----
 
 She got out of the car.
 
@@ -26,7 +25,6 @@ Ananya thought about her own apartment in San Francisco. The awards turned to fa
 She rang the doorbell.
 
 
----
 
 Delphine opened the door.
 
@@ -51,7 +49,6 @@ She's nervous about me?
 We all are, a little. This is a big deal, what we're doing.
 
 
----
 
 Jessie appeared in the doorway, wiping her hands on a towel. She was younger than Ananya had expected, or maybe just looked younger, with the kind of easy warmth that some people carried without effort.
 
@@ -72,7 +69,6 @@ This is where it happens, Delphine said. The documentary, the research, all of i
 Ananya looked around, taking in the evidence of years of investigation into the story she had helped to create.
 
 
----
 
 A face appeared in the doorway, young and curious. Theo, thirteen years old, watching the visitor with the frank assessment that teenagers brought to any disruption of their routine.
 
@@ -95,5 +91,4 @@ Show me what you have, she said. Show me what we're working with.
 Delphine nodded and moved toward the screens, and the afternoon began in earnest.
 
 
----
 

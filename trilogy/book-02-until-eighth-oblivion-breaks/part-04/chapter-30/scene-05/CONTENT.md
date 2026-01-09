@@ -13,7 +13,6 @@ She sat in front of the camera with no graphics behind her, just a plain wall, h
 "I can't tell you it's going to be okay. I don't know if it's going to be okay. But I can tell you that people are surviving. People are taking care of each other. That's real. That's happening right now, wherever you are."
 
 
----
 
 She spoke for eighteen minutes, using less than half of the satellite window. She talked about practical things: how to find clean water, how to check on neighbors, how to organize a block for mutual aid. She talked about the false stories circulating and why they were false, naming the conspiracy theories and the foreign attack narratives and the AI uprising claims, explaining what we actually knew and how thin that knowledge was.
 
@@ -40,7 +39,6 @@ She walked out of the studio, out of the building, into the Los Angeles morning.
 She pulled out her phone - useless for calls, but the battery still showed local time - and began walking toward home. She had one more broadcast to make, one more truth to tell.
 
 
----
 
 She found them in the kitchen, Jessie packing a bag while Theo watched from his perch on the counter, the dinosaur book clutched to his chest.
 
@@ -81,7 +79,6 @@ Jessie crossed the kitchen and wrapped her arms around Delphine, holding tight, 
 It was the kind of promise you made knowing you might not be able to keep it, the kind of promise that was really a prayer, offered to whatever forces governed a world that had stopped making sense.
 
 
----
 
 They loaded the car in silence. Jessie's bag. Theo's bag. The dinosaur book. Extra water, extra food, a first-aid kit, all the provisions that Jessie's practical mind had assembled while Delphine was at the studio.
 
@@ -114,5 +111,4 @@ The car backed out of the driveway. It turned onto the street. It grew smaller a
 She watched until she couldn't see them anymore. Then she went inside to prepare for the next satellite window.
 
 
----
 

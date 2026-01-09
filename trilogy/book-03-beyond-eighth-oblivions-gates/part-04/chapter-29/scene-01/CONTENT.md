@@ -9,7 +9,6 @@ The app ran his life. Had been running it for five years now, since he dropped o
 He pulled out of the parking lot where he had been waiting, the tires crunching on salt and ice, and headed toward the restaurant that was waiting for him. Through the windshield, the city glittered with cold, the streetlights wearing halos of frost, the few pedestrians moving quickly, hunched against the wind.
 
 
----
 
 He hummed while he drove. Not consciously, not intentionally, just a habit that had developed over years of these solitary hours. Melodies emerged unbidden, fragments of songs he had been carrying since adolescence, arrangements and variations his mind produced while his body performed the mechanical tasks the app required.
 
@@ -22,7 +21,6 @@ The restaurant was busy when he arrived, the dinner rush still going despite the
 One of them nodded at Yusuf. He nodded back. They did not speak. There was nothing to say.
 
 
----
 
 The order came up. Yusuf took the bag, which smelled of sesame oil and something fiercer beneath, and walked back to his car. The cold struck him like a wall, the transition from heated interior to frozen exterior a small violence his body never quite adjusted to.
 
@@ -35,7 +33,6 @@ The melody returned as he drove. He hummed it softly, testing variations, pushin
 He had been reaching for a long time. Longer than he cared to admit.
 
 
----
 
 The house was in a quiet neighborhood, one of the newer developments on the edge of the city where identical facades repeated like a visual stutter. Yusuf parked at the curb, grabbed the bag, and walked up the path to the front door.
 
@@ -50,7 +47,6 @@ None of it was his. He was a ghost, a delivery mechanism, a brief interruption i
 But he remembered. He carried all these small encounters in his head, fragments of other lives that accumulated without meaning, the detritus of a job that asked nothing of him except his time and his presence.
 
 
----
 
 He accepted another delivery. And another. The night stretched ahead of him, hours of this same rhythm: drive, pick up, deliver, repeat. The app tracked his movements, calculated his earnings, optimized his route. It knew more about his patterns than he did, could predict where he would be at any given moment based on algorithms he would never understand.
 
@@ -61,7 +57,6 @@ His father had sung. Yusuf remembered that, one of the few clear memories from b
 Maybe that was why the melody mattered. Maybe that was why he kept reaching for something he could not quite touch. The songs his father sang were lost, but the impulse to sing had survived, had found its way into Yusuf's throat and hands and head, had become this private practice that he conducted alone in his car while the world paid him to bring things to their doors.
 
 
----
 
 The cold deepened as the night went on. The heater struggled. Yusuf's fingers went numb on the steering wheel despite the gloves he wore, the thin ones that still allowed him to use his phone.
 
@@ -74,5 +69,4 @@ But the music existed outside the system. The songs in his head belonged to him,
 He hummed into the cold car, the melody stronger now, taking shape despite everything, and he drove through the frozen city toward the next delivery, the next doorstep, the next moment of invisibility that was also, somehow, a moment of freedom.
 
 
----
 
