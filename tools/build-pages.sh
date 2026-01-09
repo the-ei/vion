@@ -49,10 +49,13 @@ if [[ -f ".workers/word-counts.json" ]]; then
     if [[ -n "$total_words" ]] && [[ "$total_words" -gt 0 ]]; then
         target_words=742500
         progress=$((total_words * 100 / target_words))
+        # Format numbers with commas
+        formatted_words=$(printf "%'d" "$total_words")
+        formatted_pages=$(printf "%'d" "$total_pages")
         echo "### Current Progress" >> "$DOCS_DIR/index.md"
         echo "" >> "$DOCS_DIR/index.md"
-        echo "- **Words written:** $total_words" >> "$DOCS_DIR/index.md"
-        echo "- **Pages:** $total_pages / 2,700" >> "$DOCS_DIR/index.md"
+        echo "- **Words written:** $formatted_words" >> "$DOCS_DIR/index.md"
+        echo "- **Pages:** $formatted_pages / 2,700" >> "$DOCS_DIR/index.md"
         echo "- **Progress:** ${progress}%" >> "$DOCS_DIR/index.md"
         echo "" >> "$DOCS_DIR/index.md"
     fi
