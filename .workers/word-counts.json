@@ -6,4 +6,31 @@
     "book-01-when-eighth-oblivion-wakes": {"words": 248577, "pages": 903, "minutes": 994, "parts": {
         "part-01": {"words": 43987, "pages": 159, "minutes": 175},
         "part-02": {"words": 63134, "pages": 229, "minutes": 252},
-        "part-03": {"words": 40334, "pages": 146, "minutes": 161}
+        "part-03": {"words": 40334, "pages": 146, "minutes": 161},
+        "part-04": {"words": 56848, "pages": 206, "minutes": 227},
+        "part-05": {"words": 44274, "pages": 160, "minutes": 177}
+      }}
+,
+    "book-02-until-eighth-oblivion-breaks": {"words": 237877, "pages": 865, "minutes": 951, "parts": {
+        "part-01": {"words": 43613, "pages": 158, "minutes": 174},
+        "part-02": {"words": 48132, "pages": 175, "minutes": 192},
+        "part-03": {"words": 51398, "pages": 186, "minutes": 205},
+        "part-04": {"words": 51775, "pages": 188, "minutes": 207},
+        "part-05": {"words": 42994, "pages": 156, "minutes": 171}
+      }}
+,
+    "book-03-beyond-eighth-oblivions-gates": {"words": 232954, "pages": 847, "minutes": 931, "parts": {
+        "part-01": {"words": 51807, "pages": 188, "minutes": 207},
+        "part-02": {"words": 44065, "pages": 160, "minutes": 176},
+        "part-03": {"words": 45567, "pages": 165, "minutes": 182},
+        "part-04": {"words": 53017, "pages": 192, "minutes": 212},
+        "part-05": {"words": 38495, "pages": 139, "minutes": 153}
+      }}
+
+  },
+  "trilogy": {
+    "words": 719408,
+    "pages": 2616,
+    "minutes": 2877
+  }
+}
