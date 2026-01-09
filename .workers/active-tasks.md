@@ -2,9 +2,25 @@
 
 Updated: 2026-01-09
 
-## Currently Running (0 workers)
+## Currently Running (10 workers)
 
-All chapter planning for Book 1 complete.
+### Chapter Planning Workers (Book 2)
+| Task ID | Description | Part | Chapters | Status |
+|---------|-------------|------|----------|--------|
+| a3e82f2 | Chapter plans | Part 1 (Aftermath) | 01-08 | Running |
+| ac96fa8 | Chapter plans | Part 2 (Counter-Narratives) | 09-17 | Running |
+| aebf0b6 | Chapter plans | Part 3 (Stress Tests) | 18-26 | Running |
+| a46b262 | Chapter plans | Part 4 (Breaking Point) | 27-35 | Running |
+| a0226eb | Chapter plans | Part 5 (New Equilibrium) | 36-42 | Running |
+
+### Chapter Planning Workers (Book 3)
+| Task ID | Description | Part | Chapters | Status |
+|---------|-------------|------|----------|--------|
+| af368ce | Chapter plans | Part 1 (New Arrangements) | 01-08 | Running |
+| aa5268e | Chapter plans | Part 2 (Consequences) | 09-17 | Running |
+| a180dca | Chapter plans | Part 3 (Reckoning) | 18-26 | Running |
+| a208fd6 | Chapter plans | Part 4 (Emergence) | 27-35 | Running |
+| ac92c50 | Chapter plans | Part 5 (Beyond) | 36-42 | Running |
 
 ## Completed This Session
 
@@ -13,14 +29,7 @@ All chapter planning for Book 1 complete.
 - Chen Wei → Kevin Zhou
 - Dr. Sarah Chen → Dr. Sarah Lin
 
-### Reconciliation Workers
-| Task ID | Description | Book | Status |
-|---------|-------------|------|--------|
-| aa282e8 | Reconcile parts with character names | Book 1 | Completed |
-| ad0744d | Reconcile parts with character names | Book 2 | Completed |
-| ae18e16 | Reconcile parts with character names | Book 3 | Completed |
-
-### Chapter Planning Workers (Book 1)
+### Book 1 Chapter Planning (all complete)
 | Task ID | Description | Part | Chapters | Status |
 |---------|-------------|------|----------|--------|
 | aa51565 | Chapter plans | Part 1 | 01-08 | Completed |
@@ -28,10 +37,6 @@ All chapter planning for Book 1 complete.
 | a3db3a0 | Chapter plans | Part 3 | 18-26 | Completed |
 | aa1fc53 | Chapter plans | Part 4 | 27-35 | Completed |
 | a2dde48 | Chapter plans | Part 5 | 36-42 | Completed |
-
-## Pending
-
-- Chapter planning for Books 2 and 3 (84 chapters total)
 
 ## GitHub Issues
 
