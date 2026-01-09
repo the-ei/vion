@@ -15,7 +15,6 @@ He tried to place her. Mid-thirties, Somali like him, a headscarf in blue and go
 "About how long you're planning to keep doing this alone."
 
 
----
 
 She explained while they stood in the convenience store parking lot, the neon signs casting colored light across their faces. There was a group—not quite a union, the apps made actual unions impossible, but something. Workers who had started meeting, talking, figuring out ways to push back against the algorithm's control. They couldn't strike in the traditional sense, but they could share information, coordinate actions, support each other when the system tried to grind them down.
 
@@ -38,7 +37,6 @@ His phone buzzed. Another delivery request. The algorithm demanding his attentio
 He took the card and put it in his pocket without looking at it.
 
 
----
 
 The last delivery of the evening was to a church basement in a neighborhood he didn't usually drive through. The order was from a restaurant nearby—sandwiches and coffee, a large order that suggested some kind of event. Yusuf found the address, parked, and carried the food inside.
 
@@ -55,7 +53,6 @@ The pastor's words were familiar—the rhetoric of organizing, of collective act
 But something in the room held him. The faces of the people gathered, their attention, their hope.
 
 
----
 
 A woman approached him—one of the meeting attendees, carrying cash for the delivery. "Sorry, we didn't mean to keep you. Here."
 
@@ -76,7 +73,6 @@ He found a chair near the back and sat down, making himself as invisible as poss
 Each story was different in its specifics but the same in its shape: people being squeezed by systems they didn't control, trying to survive in an economy that had stopped pretending to serve them.
 
 
----
 
 When the meeting opened for general discussion, Yusuf surprised himself by raising his hand. He didn't know he was going to do it until he had done it, the gesture emerging from somewhere beneath his conscious control.
 
@@ -95,7 +91,6 @@ His voice had gotten louder without his meaning it to. He stopped, suddenly self
 "That's why we're here," the pastor said. "To turn the anger into something. To find the others who feel like you do. You're not alone, brother. None of us are."
 
 
----
 
 The meeting continued for another hour. Yusuf stayed, listening more than speaking, absorbing the sense of shared struggle that permeated the room. At one point, he spotted Fatima across the circle—she had arrived late, sliding into a chair as someone else was speaking. She caught his eye and nodded, a small acknowledgment that said: I'm glad you came.
 
@@ -122,7 +117,6 @@ It sounded like rhetoric. But it also sounded true. Yusuf had spent two years be
 "I know. But come to the Wednesday meeting. Bring your sister if she wants. We need young people who understand technology."
 
 
----
 
 He drove home after midnight, having given up on reaching his daily target. The deficit would carry into tomorrow, a hole he would have to fill along with that day's new demands. But something had shifted in the weight he carried.
 
@@ -143,5 +137,4 @@ Something had broken. But it had broken long ago, maybe before he was even born.
 He got out of the car and climbed the stairs to home.
 
 
----
 

@@ -1,6 +1,6 @@
-Home was a two-bedroom apartment in a building that had seen better decades. Yusuf parked on the street—the building didn't have assigned parking, and the lot cost extra—and climbed the three flights of stairs that always smelled faintly of cooking and cleaning products and the particular staleness of buildings where people couldn't afford to move.
+Home was a two-bedroom apartment in a building that had seen better decades, that had been someone's investment before it became their neglect. Yusuf parked on the street—the building didn't have assigned parking, and the lot cost extra—and climbed the three flights of stairs that always smelled faintly of cooking and cleaning products and the particular staleness of buildings where people couldn't afford to move.
 
-His mother was on the couch when he came in, half-asleep, the television playing something she wasn't watching. Halima Hassan was fifty-two years old but looked older, the years of displacement and labor and worry carved into her face. She smiled when she saw him, the smile that still, after everything, contained love.
+His mother was on the couch when he came in, half-asleep, the television playing something she wasn't watching. Halima Hassan was fifty-two years old but looked older, the years of displacement and labor and worry carved into her face like a map of everywhere she had been. She smiled when she saw him, the smile that still, after everything, contained love.
 
 "Yusuf. You're early."
 
@@ -27,7 +27,6 @@ Amina was in the kitchen, visible through the doorway, her laptop open on the co
 "I'll sleep when I'm dead."
 
 
----
 
 Amina shot him a look that was equal parts concern and frustration. She was nineteen, five years younger than him, but sometimes she felt like the older one—more practical, more forward-looking, less trapped in the anger that consumed his spare moments.
 
@@ -56,7 +55,6 @@ $340. The number sat in Yusuf's chest like a weight. That was almost two days of
 Amina turned back to the stove, stirring the stew with more force than necessary. The silence between them was full of things they had said before and things they couldn't say at all.
 
 
----
 
 Dinner was quiet at first, the three of them eating in the small living room, the television still playing in the background. Halima asked about Yusuf's day, and he said it was fine, which was what he always said. She asked about Amina's classes, and Amina talked about her computer science professor, who was brilliant and demanding, and about the group project she was doing with students she didn't like.
 
@@ -85,11 +83,10 @@ But Yusuf was watching Amina's face, reading the tension there, the thing she wa
 "Who funds the program?" he asked.
 
 
----
 
 Amina met his eyes. "Prometheus Systems. Their education foundation."
 
-The name landed in the room like something dropped. Prometheus. The company he had seen on the screen in the tech office. The company behind ATLAS-7, behind the headlines about artificial intelligence, behind—if the things he had been reading were true—a wave of automation that was about to make his life even harder.
+The name landed in the room like something dropped and breaking. Prometheus. The company he had seen on the screen in the tech office. The company behind ATLAS-7, behind the headlines about artificial intelligence, behind—if the things he had been reading in the fragments of time he had for reading were true—a wave of automation that was about to make his life even harder.
 
 "Prometheus," he repeated.
 
@@ -114,7 +111,6 @@ They stared at each other across the table, the food cooling between them, the o
 "How can we celebrate her taking money from the company that's destroying our future?"
 
 
----
 
 "Your future," Amina said. "Not mine. I'm trying to build something different. I'm trying to be part of the solution instead of—"
 
@@ -128,7 +124,7 @@ They stared at each other across the table, the food cooling between them, the o
 
 "With whose money? With money they made by—"
 
-"By building technology. By creating things. I know you're angry at them, but they're not evil, Yusuf. They're just a company. And their money spends the same as anyone else's."
+"By building technology. By creating things. I know you're angry at them, but they're not evil, Yusuf. They're just a company." Her voice was pleading now, asking him to understand something she hadn't fully articulated. "And their money spends the same as anyone else's."
 
 Halima stood, her movement slow and deliberate. She collected the plates, still half-full, and carried them to the kitchen. It was her way of ending arguments—removing herself, removing the immediate object, creating space for everyone to calm down.
 
@@ -139,7 +135,6 @@ Yusuf watched her go, feeling the guilt settle into his chest alongside the ange
 Amina said nothing. The silence was its own answer.
 
 
----
 
 He retreated to his corner of the living room, where his music equipment sat against the wall—the keyboard he had bought years ago with graduation money, the laptop that was old but still worked, the headphones that were his portal to the only space that felt like his own.
 
@@ -158,7 +153,6 @@ But he had to try. He always had to try.
 He took off the headphones and reached for his keys.
 
 
----
 
 At the door, he paused. Amina had moved to the couch, sitting beside their mother, both of them watching him with expressions he couldn't quite read.
 
@@ -187,5 +181,4 @@ He couldn't be okay with it. But he could stop fighting about it.
 He left without saying goodbye, because goodbye felt too final, and nothing in his life was ever final—just the same day, repeating, with slight variations in the numbers.
 
 
----
 

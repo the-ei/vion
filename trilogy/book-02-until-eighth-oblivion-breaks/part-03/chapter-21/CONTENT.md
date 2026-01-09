@@ -1,32 +1,30 @@
-The alarm went off at 4:47 AM, and Yusuf Hassan was already awake. His body had learned to anticipate it, the way animals learn to anticipate predators—an instinct shaped by necessity, by the algorithm that didn't care if he was rested or ready. The app said there was a surge opportunity starting at 5:15, and the app was the only god that mattered in his life right now.
+The alarm went off at 4:47 AM, and Yusuf Hassan was already awake. His body had learned to anticipate it, the way animals learn to anticipate predators—an instinct shaped by necessity, by the algorithm that didn't care if he was rested or ready, that had no concept of rest at all. The app said there was a surge opportunity starting at 5:15, and the app was the only god that mattered in his life right now.
 
 He lay in the living room of the apartment he shared with his mother and sister, on the couch that served as his bed, staring at the water stain on the ceiling that had been growing for months. The landlord had promised to fix it. The landlord promised many things. Yusuf had stopped expecting promises to mean anything a long time ago.
 
 His phone buzzed with the first delivery request of the day. A restaurant thirty minutes away, a customer in a suburb he didn't recognize. The algorithm had calculated the optimal driver for this job, and it had chosen him—not because he was closest, but because his rating had dropped and he was desperate enough to take whatever was offered.
 
-He didn't know why his rating had dropped. He had done everything right—or thought he had. Delivered on time, been polite, followed all the protocols. But somewhere, somehow, some customer had decided he deserved fewer stars, and the algorithm had recorded that judgment and factored it into every subsequent decision about his life.
+He didn't know why his rating had dropped. He had done everything right—or thought he had. Delivered on time, been polite, followed all the protocols that the app's cheerful tutorials had taught him. But somewhere, somehow, some customer had decided he deserved fewer stars, and the algorithm had recorded that judgment and factored it into every subsequent decision about his life. The customer had probably forgotten the moment after clicking. Yusuf would carry the consequence for weeks.
 
 Yusuf dressed quickly in the dark, careful not to wake his mother in the next room. Halima had been sleeping poorly since the new medication, and the sleep she did get was precious. He grabbed his keys and slipped out the door into the Minneapolis morning, cold and gray and indifferent.
 
 
----
 
 His car was a 2019 Honda Civic, purchased used two years ago when he still believed this gig work was temporary. Something to get him through while he figured out what came next. Now the car needed new brakes, the transmission made a sound he didn't recognize, and what came next was more of the same, forever, until the car died or he did.
 
 He started the engine and opened the app. The first delivery was confirmed: pick up at 5:15, deliver by 5:45, estimated earnings $7.23. The math was simple and brutal. To cover rent, utilities, his mother's medication, and food, he needed to average $200 a day. At $7 per delivery, that was roughly 30 deliveries. At 30 minutes per delivery, including drive time, that was 15 hours of work. Every day. No weekends. No breaks. No sick days.
 
-The car pulled onto the street, and Yusuf drove toward the restaurant. Minneapolis was quiet at this hour, the city not yet awake, the roads empty except for trucks and early commuters and the invisible army of gig workers whose labor kept everything moving. He passed another driver at a stoplight—a woman about his age, Latina, bags under her eyes—and they nodded at each other, the silent acknowledgment of people in the same trap.
+The car pulled onto the street, and Yusuf drove toward the restaurant. Minneapolis was quiet at this hour, the city not yet awake, the roads empty except for trucks and early commuters and the invisible army of gig workers whose labor kept everything moving. He passed another driver at a stoplight—a woman about his age, Latina, bags under her eyes that matched his own—and they nodded at each other, the silent acknowledgment of people in the same trap, soldiers in an army that had no generals and no cause beyond survival.
 
 The restaurant was a breakfast place, just opening, the morning manager handing him the bag with the bored efficiency of someone who processed dozens of drivers a day. The customer's address led him to a suburb twenty-five minutes north—farther than the app had estimated, the algorithm's optimization failing to account for reality.
 
 He delivered the food to a house that cost more than he would earn in a decade. A woman in yoga clothes took the bag without meeting his eyes, the transaction complete before he could say anything at all.
 
 
----
 
 By 8 AM, Yusuf had completed four deliveries and earned $29.47. His rating had not improved. His body was tired in the way it was always tired—not the tiredness of good work completed, but the tiredness of a machine running past its maintenance schedule. He had developed a persistent ache in his lower back from the hours of driving, and his right eye twitched sometimes, a symptom his mother said was stress.
 
-His mother. Halima. He thought about her as he drove to the next pickup, the way he always thought about her when his mind had nothing else to grab. She had brought him and Amina to this country when Yusuf was seven, after his father died in the civil war, after years in refugee camps, after everything she had survived to give them something better. Now she worked part-time at a dry cleaners, her English still imperfect, her body failing in ways that the American healthcare system charged too much to address.
+His mother. Halima. He thought about her as he drove to the next pickup, the way he always thought about her when his mind had nothing else to grab. She had brought him and Amina to this country when Yusuf was seven, after his father died in the civil war—a death he remembered only as an absence, a shape where a man should have been—after years in refugee camps, after everything she had survived to give them something better. Now she worked part-time at a dry cleaners, her English still imperfect, her body failing in ways that the American healthcare system charged too much to address.
 
 Her blood pressure medication cost $847 per month. Insurance covered part of it, but not enough. The gap was $340, and that $340 was why Yusuf couldn't save anything, couldn't plan anything, couldn't imagine a future beyond the next rent check.
 
@@ -37,11 +35,10 @@ The mansion had a circular driveway and a three-car garage and landscaping that 
 A woman answered. She was maybe forty, blonde, dressed for tennis or golf or whatever rich people did at 9 AM on a Wednesday. She took the smoothie without comment and closed the door in his face.
 
 
----
 
 Yusuf stood on the doorstep for a moment, looking at the closed door, at the house that contained more space than his family had ever occupied, at the sprinklers watering the lawn in precise timed bursts. The smoothie had been a $12 order. The tip had been zero. His earnings from the delivery were $4.15.
 
-He walked back to his car and sat there, engine off, staring at the dashboard. The rage that lived in his chest was quiet now, tamped down by exhaustion, but it was always there, a coal that never quite went cold. The rage at the woman who had closed the door. The rage at the algorithm that sent him here. The rage at a system that could produce such wealth for some and such grinding poverty for others, and called it efficiency.
+He walked back to his car and sat there, engine off, staring at the dashboard with its cracks and its dust and its small light indicating the low fuel that would soon need addressing. The rage that lived in his chest was quiet now, tamped down by exhaustion, but it was always there, a coal that never quite went cold. The rage at the woman who had closed the door. The rage at the algorithm that sent him here. The rage at a system that could produce such wealth for some and such grinding poverty for others, and called it efficiency.
 
 His phone buzzed. A notification from the app: *Great work! You've completed 5 deliveries today. Keep it up!*
 
@@ -52,7 +49,6 @@ He started the car and drove back toward the city. The next pickup was at a caf�
 Yusuf waited at the counter for the order, feeling invisible in his delivery driver uniform, occupying the same space as these people while existing in a different world entirely.
 
 
----
 
 At 10:30, the app directed him to pick up a lunch order from a restaurant in the Warehouse District and deliver it to an address downtown. The address was a tech company—one of the startups that had sprouted in Minneapolis's attempt to become a secondary tech hub, drawing young people from the coasts with promises of lower rent and the same digital opportunities.
 
@@ -60,12 +56,11 @@ The office occupied two floors of a converted warehouse, all exposed brick and i
 
 Through a glass wall, he could see the office. Open floor plan, standing desks, people in casual clothes staring at screens. A ping-pong table in one corner. A coffee station with options he couldn't pronounce. The environment of people whose work happened in their heads, whose value was measured in ideas rather than miles driven.
 
-On one of the screens he could see, there was a presentation playing. The words "ATLAS-7 Integration Strategy" were visible at the top. Yusuf didn't know what ATLAS-7 was, but he had seen it in the news, had heard something about artificial intelligence and the future and the economy. It seemed very far from his life, very abstract, very much the kind of thing that mattered to people in offices like this one.
+On one of the screens he could see, there was a presentation playing. The words "ATLAS-7 Integration Strategy" were visible at the top. Yusuf didn't know what ATLAS-7 was, but he had seen it in the news, had heard something about artificial intelligence and the future and the economy—words that drifted past him like weather reports for cities he would never visit. It seemed very far from his life, very abstract, very much the kind of thing that mattered to people in offices like this one.
 
 The receptionist returned with the signature, and Yusuf left. He didn't think about the presentation again until much later, when he would learn that it had everything to do with why his life was the way it was.
 
 
----
 
 By noon, he had earned $52.18, and his body was telling him to stop. The back pain had intensified, the eye twitch was worse, and he had a headache from not eating anything since the night before. He pulled into a gas station parking lot and sat in the car with the engine off, trying to calculate whether he could afford to take a break.
 
@@ -75,10 +70,9 @@ He bought a coffee from the gas station—$2.47, a cost he felt in his chest as 
 
 His phone buzzed. Another delivery. A restaurant nearby, a customer not too far. The algorithm was being kind, briefly, offering him an easy one. He took it, because what choice did he have?
 
-The coffee was bitter and thin, but it was caffeine, and caffeine was what kept the machine running. He finished it and threw the cup in the trash and pulled back onto the road, the endless road, the road that went nowhere but had to be traveled anyway.
+The coffee was bitter and thin, but it was caffeine, and caffeine was what kept the machine running—the machine that was his body, the machine that was the car, the machine that was the whole system, all of it dependent on inputs it didn't question. He finished it and threw the cup in the trash and pulled back onto the road, the endless road, the road that went nowhere but had to be traveled anyway.
 
 
----
 
 At 1 PM, he stopped for twenty minutes to eat something—a gas station sandwich, purchased after agonizing over the $5.99 price—and to text Amina.
 
@@ -92,7 +86,7 @@ It always depended on how the afternoon went. His life was a series of condition
 
 *Okay*, Amina texted back. *There's leftover rice.*
 
-His sister was nineteen, brilliant, the one who had actually inherited their mother's determination and transformed it into something the American system rewarded. She was at the community college, studying computer science, working toward a transfer to the university. She was going to be someone. She was going to escape the trap that held Yusuf fast.
+His sister was nineteen, brilliant, the one who had actually inherited their mother's determination and transformed it into something the American system rewarded. She was at the community college, studying computer science, working toward a transfer to the university. She was going to be someone. She was going to escape the trap that held Yusuf fast, was going to walk out of this apartment and into the future that America had promised when it let them in.
 
 Unless she couldn't. Unless the costs rose too high, unless the scholarship didn't come through, unless the system found a way to keep her down the way it kept everyone down. He tried not to think about that. He tried to believe that her path would be different from his.
 
@@ -103,17 +97,16 @@ He finished the sandwich, which tasted like nothing, and started the car again. 
 By 5 PM, he had completed 18 deliveries and earned $117.43. Eighty-three dollars short of what he needed. Seven more hours to go.
 
 
+
+
+
+
+
 ---
 
+Home was a two-bedroom apartment in a building that had seen better decades, that had been someone's investment before it became their neglect. Yusuf parked on the street—the building didn't have assigned parking, and the lot cost extra—and climbed the three flights of stairs that always smelled faintly of cooking and cleaning products and the particular staleness of buildings where people couldn't afford to move.
 
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
-
-Home was a two-bedroom apartment in a building that had seen better decades. Yusuf parked on the street—the building didn't have assigned parking, and the lot cost extra—and climbed the three flights of stairs that always smelled faintly of cooking and cleaning products and the particular staleness of buildings where people couldn't afford to move.
-
-His mother was on the couch when he came in, half-asleep, the television playing something she wasn't watching. Halima Hassan was fifty-two years old but looked older, the years of displacement and labor and worry carved into her face. She smiled when she saw him, the smile that still, after everything, contained love.
+His mother was on the couch when he came in, half-asleep, the television playing something she wasn't watching. Halima Hassan was fifty-two years old but looked older, the years of displacement and labor and worry carved into her face like a map of everywhere she had been. She smiled when she saw him, the smile that still, after everything, contained love.
 
 "Yusuf. You're early."
 
@@ -140,7 +133,6 @@ Amina was in the kitchen, visible through the doorway, her laptop open on the co
 "I'll sleep when I'm dead."
 
 
----
 
 Amina shot him a look that was equal parts concern and frustration. She was nineteen, five years younger than him, but sometimes she felt like the older one—more practical, more forward-looking, less trapped in the anger that consumed his spare moments.
 
@@ -169,7 +161,6 @@ $340. The number sat in Yusuf's chest like a weight. That was almost two days of
 Amina turned back to the stove, stirring the stew with more force than necessary. The silence between them was full of things they had said before and things they couldn't say at all.
 
 
----
 
 Dinner was quiet at first, the three of them eating in the small living room, the television still playing in the background. Halima asked about Yusuf's day, and he said it was fine, which was what he always said. She asked about Amina's classes, and Amina talked about her computer science professor, who was brilliant and demanding, and about the group project she was doing with students she didn't like.
 
@@ -198,11 +189,10 @@ But Yusuf was watching Amina's face, reading the tension there, the thing she wa
 "Who funds the program?" he asked.
 
 
----
 
 Amina met his eyes. "Prometheus Systems. Their education foundation."
 
-The name landed in the room like something dropped. Prometheus. The company he had seen on the screen in the tech office. The company behind ATLAS-7, behind the headlines about artificial intelligence, behind—if the things he had been reading were true—a wave of automation that was about to make his life even harder.
+The name landed in the room like something dropped and breaking. Prometheus. The company he had seen on the screen in the tech office. The company behind ATLAS-7, behind the headlines about artificial intelligence, behind—if the things he had been reading in the fragments of time he had for reading were true—a wave of automation that was about to make his life even harder.
 
 "Prometheus," he repeated.
 
@@ -227,7 +217,6 @@ They stared at each other across the table, the food cooling between them, the o
 "How can we celebrate her taking money from the company that's destroying our future?"
 
 
----
 
 "Your future," Amina said. "Not mine. I'm trying to build something different. I'm trying to be part of the solution instead of—"
 
@@ -241,7 +230,7 @@ They stared at each other across the table, the food cooling between them, the o
 
 "With whose money? With money they made by—"
 
-"By building technology. By creating things. I know you're angry at them, but they're not evil, Yusuf. They're just a company. And their money spends the same as anyone else's."
+"By building technology. By creating things. I know you're angry at them, but they're not evil, Yusuf. They're just a company." Her voice was pleading now, asking him to understand something she hadn't fully articulated. "And their money spends the same as anyone else's."
 
 Halima stood, her movement slow and deliberate. She collected the plates, still half-full, and carried them to the kitchen. It was her way of ending arguments—removing herself, removing the immediate object, creating space for everyone to calm down.
 
@@ -252,7 +241,6 @@ Yusuf watched her go, feeling the guilt settle into his chest alongside the ange
 Amina said nothing. The silence was its own answer.
 
 
----
 
 He retreated to his corner of the living room, where his music equipment sat against the wall—the keyboard he had bought years ago with graduation money, the laptop that was old but still worked, the headphones that were his portal to the only space that felt like his own.
 
@@ -271,7 +259,6 @@ But he had to try. He always had to try.
 He took off the headphones and reached for his keys.
 
 
----
 
 At the door, he paused. Amina had moved to the couch, sitting beside their mother, both of them watching him with expressions he couldn't quite read.
 
@@ -300,13 +287,12 @@ He couldn't be okay with it. But he could stop fighting about it.
 He left without saying goodbye, because goodbye felt too final, and nothing in his life was ever final—just the same day, repeating, with slight variations in the numbers.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The surge was already fading by the time Yusuf reached his first evening pickup. Too many drivers, not enough orders. The algorithm had sent the notification to everyone simultaneously, flooding the zone with supply, and now the 1.5x multiplier had dropped to 1.2x and was still falling. This was how it worked: the promise of extra earnings evaporated before you could grasp it, leaving you competing for the same inadequate pay with extra desperation.
 
@@ -325,7 +311,6 @@ He tried to place her. Mid-thirties, Somali like him, a headscarf in blue and go
 "About how long you're planning to keep doing this alone."
 
 
----
 
 She explained while they stood in the convenience store parking lot, the neon signs casting colored light across their faces. There was a group—not quite a union, the apps made actual unions impossible, but something. Workers who had started meeting, talking, figuring out ways to push back against the algorithm's control. They couldn't strike in the traditional sense, but they could share information, coordinate actions, support each other when the system tried to grind them down.
 
@@ -348,7 +333,6 @@ His phone buzzed. Another delivery request. The algorithm demanding his attentio
 He took the card and put it in his pocket without looking at it.
 
 
----
 
 The last delivery of the evening was to a church basement in a neighborhood he didn't usually drive through. The order was from a restaurant nearby—sandwiches and coffee, a large order that suggested some kind of event. Yusuf found the address, parked, and carried the food inside.
 
@@ -365,7 +349,6 @@ The pastor's words were familiar—the rhetoric of organizing, of collective act
 But something in the room held him. The faces of the people gathered, their attention, their hope.
 
 
----
 
 A woman approached him—one of the meeting attendees, carrying cash for the delivery. "Sorry, we didn't mean to keep you. Here."
 
@@ -386,7 +369,6 @@ He found a chair near the back and sat down, making himself as invisible as poss
 Each story was different in its specifics but the same in its shape: people being squeezed by systems they didn't control, trying to survive in an economy that had stopped pretending to serve them.
 
 
----
 
 When the meeting opened for general discussion, Yusuf surprised himself by raising his hand. He didn't know he was going to do it until he had done it, the gesture emerging from somewhere beneath his conscious control.
 
@@ -405,7 +387,6 @@ His voice had gotten louder without his meaning it to. He stopped, suddenly self
 "That's why we're here," the pastor said. "To turn the anger into something. To find the others who feel like you do. You're not alone, brother. None of us are."
 
 
----
 
 The meeting continued for another hour. Yusuf stayed, listening more than speaking, absorbing the sense of shared struggle that permeated the room. At one point, he spotted Fatima across the circle—she had arrived late, sliding into a chair as someone else was speaking. She caught his eye and nodded, a small acknowledgment that said: I'm glad you came.
 
@@ -432,7 +413,6 @@ It sounded like rhetoric. But it also sounded true. Yusuf had spent two years be
 "I know. But come to the Wednesday meeting. Bring your sister if she wants. We need young people who understand technology."
 
 
----
 
 He drove home after midnight, having given up on reaching his daily target. The deficit would carry into tomorrow, a hole he would have to fill along with that day's new demands. But something had shifted in the weight he carried.
 
@@ -453,7 +433,6 @@ Something had broken. But it had broken long ago, maybe before he was even born.
 He got out of the car and climbed the stairs to home.
 
 
----
 
 
 
