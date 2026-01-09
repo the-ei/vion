@@ -45,15 +45,46 @@ When writing PLAN.md files, include:
 - [Unresolved decisions for human review]
 ```
 
+## Length Targets
+
+All lengths should vary naturally but average to targets:
+
+### Page Level
+- **Target:** 200-350 words per page
+- **Average:** ~275 words
+- **Variation:** Natural - shorter for intense Carson moments, longer for reflective Knausgaard passages
+- End each page at a natural pause (sentence/paragraph break)
+
+### Scene Level
+- **Target:** 4-8 pages per scene
+- **Average:** ~6 pages (~1,650 words)
+- Use `tools/calculate-targets.sh scene <path>` for specific guidance
+
+### Chapter Level
+- **Target:** 18-25 pages per chapter
+- **Average:** ~21 pages (~5,775 words)
+- 42 chapters per book = 900 pages
+- Use `tools/calculate-targets.sh chapter <path>` for specific guidance
+
+### Part Level
+- **Chapters per part:** 7-9 (varies by part)
+- Part 1: 8 chapters, Parts 2-4: 9 chapters each, Part 5: 7 chapters
+- Use `tools/calculate-targets.sh part <path>` for specific guidance
+
+**Important:** These are targets, not strict rules. Variation creates natural rhythm. A chapter can be 17 or 26 pages if the story requires it. But across a part or book, the average should hit targets.
+
 ## Writing Pages
 
 When writing page content (001.md, 002.md, etc.):
 
 - Follow the scene PLAN.md exactly
 - Maintain Knausgaard/Carson stylistic blend
-- ~250-300 words per page
+- 200-350 words per page (target ~275)
+- Shorter pages for high intensity (Carson mode)
+- Longer pages for reflection (Knausgaard mode)
 - End pages at natural pause points
 - No headers in page content (pure prose)
+- Vary sentence and paragraph length naturally
 
 ## Status Reporting
 
