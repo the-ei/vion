@@ -1,4 +1,4 @@
-The drive back from DC took two hours in traffic, and by the time Jerome pulled into his driveway, the summer sun had set and the streetlights were on. The house was lit from within, warm rectangles of light in the windows, and he sat in the parked car for a long moment before going inside, gathering whatever remained of his ordinary self.
+The drive back from DC took two hours in traffic, the Beltway a slow-moving river of taillights and frustration, and by the time Jerome pulled into his driveway, the summer sun had set and the streetlights were on. The house was lit from within, warm rectangles of light in the windows, and he sat in the parked car for a long moment before going inside, gathering whatever remained of his ordinary self, the version of Jerome Washington who was husband and father rather than witness to patterns that might mean nothing or everything.
 
 Denise was in the living room, grading papers. She taught AP History at a high school in the county, and summer meant advanced placement prep, students ambitious or desperate enough to work through July. The stack of essays on the coffee table was substantial, her red pen moving through them with practiced efficiency. She looked up when he came in, and her expression shifted from focus to something more complicated: relief and concern and a kind of resigned knowing.
 
@@ -36,7 +36,7 @@ He wanted to argue, to defend himself, but the words died in his throat. She was
 
 So he told her. He described the overlay, the correspondence between the video's predictions and his financial data, the investment patterns he had documented. He told her about the meeting with David, the confirmation that smart money was hedged, the warning about publishing. He told her about Prometheus Systems and its position at the center of everything he could see.
 
-She listened with the attention she brought to her best students, the kind of listening that made people feel genuinely heard. She was a history teacher, and she understood systems, understood how societies failed. Nothing he said surprised her, which was somehow worse than if she had been shocked.
+She listened with the attention she brought to her best students, the kind of listening that made people feel genuinely heard, that had made him fall in love with her twenty-five years ago. She was a history teacher, and she understood systems, understood how societies failed, how the things that seemed permanent crumbled into the things that came after. Nothing he said surprised her, which was somehow worse than if she had been shocked.
 
 
 

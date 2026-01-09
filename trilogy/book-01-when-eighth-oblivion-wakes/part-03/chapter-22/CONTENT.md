@@ -1,10 +1,10 @@
-The maps covered three walls of his office now. Jerome had started with one, a map of the continental United States with red pins marking data center locations, but the investigation had metastasized, spreading across the drywall like something organic, something that grew while he slept. Now there were corporate ownership charts drawn on butcher paper, regulatory filing timelines sketched in blue marker, printed spreadsheets with his handwritten annotations bleeding off the margins. The AC hummed its constant note. Baltimore summer pressed against the windows, all that heat and humidity held at bay by a machine he rarely thought about, a system maintaining conditions for his work.
+The maps covered three walls of his office now. Jerome had started with one, a map of the continental United States with red pins marking data center locations, but the investigation had metastasized, spreading across the drywall like something organic, something that grew while he slept and fed on his attention when he woke. Now there were corporate ownership charts drawn on butcher paper, regulatory filing timelines sketched in blue marker, printed spreadsheets with his handwritten annotations bleeding off the margins. The AC hummed its constant note. Baltimore summer pressed against the windows, all that heat and humidity held at bay by a machine he rarely thought about, a system maintaining conditions for his work.
 
 He had been at this since six in the morning. The coffee in his mug had gone cold hours ago, a skin forming on its surface that reminded him of something biological, cellular. His laptop displayed twelve browser tabs: SEC filings, corporate registries, investment databases, the digital infrastructure of capital flowing through its appointed channels. Somewhere in his peripheral vision, the "Eighth Oblivion" video played on loop, muted, its synthesized voice still shaping words he now knew by heart.
 
 Today was different. Today he would attempt the synthesis.
 
-He called it "the overlay" in his notes. The idea had come to him three nights ago, in that liminal space between sleeping and waking when the mind makes connections the conscious brain would reject. What if he mapped the video's predictions directly onto his financial data? What if he treated the anonymous video not as conspiracy theory but as hypothesis, and tested it against observable reality?
+He called it "the overlay" in his notes. The idea had come to him three nights ago, in that liminal space between sleeping and waking when the mind makes connections the conscious brain would reject as too dangerous, too strange. What if he mapped the video's predictions directly onto his financial data? What if he treated the anonymous video not as conspiracy theory but as hypothesis, and tested it against observable reality?
 
 
 
@@ -26,9 +26,9 @@ Remote infrastructure. Again the correspondence was exact. Land purchases in Mon
 
 Autonomous systems. Here the data became overwhelming. Every major technology company was pouring resources into AI development, into robotics, into systems that could operate without human intervention. Jerome's tracking showed not just research investment but infrastructure preparation: server farms, power contracts, redundant connectivity. The companies were building systems designed to survive disruptions that would cripple human-dependent operations.
 
-Longevity research. The most disturbing correspondence. The video had predicted that life extension technology would accelerate as "those with resources seek to outlast what they have created." Jerome's data showed exactly this pattern. Funding for geroscience had quadrupled in three years. Clinical trials for senolytic therapies were advancing at unprecedented speed. And the investor lists overlapped almost completely with the other sectors: the same people buying security, buying land, buying autonomous systems, were also buying years.
+Longevity research. The most disturbing correspondence, the one that made his skin crawl. The video had predicted that life extension technology would accelerate as "those with resources seek to outlast what they have created." Jerome's data showed exactly this pattern. Funding for geroscience had quadrupled in three years. Clinical trials for senolytic therapies were advancing at unprecedented speed. And the investor lists overlapped almost completely with the other sectors: the same people buying security, buying land, buying autonomous systems, were also buying years.
 
-By noon, the overlay was complete. Jerome stood back from his wall of evidence and felt something shift in his chest, a physical sensation of recognition and dread combined. The video's predictions and his financial data did not merely correlate. They corresponded. Point by point, sector by sector, timeline by timeline. Either the video's creators had access to the same data he did, or they knew something more fundamental about what was coming.
+By noon, the overlay was complete. Jerome stood back from his wall of evidence and felt something shift in his chest, a physical sensation of recognition and dread combined. The video's predictions and his financial data did not merely correlate. They corresponded. Point by point, sector by sector, timeline by timeline. Either the video's creators had access to the same data he did, or they knew something more fundamental about what was coming. Or—and this was the thought that kept surfacing, unbidden—they weren't creators at all, but translators of something that had already seen the shape of tomorrow.
 
 
 
@@ -62,7 +62,7 @@ The question was whether they would find him in time.
 
 ---
 
-The restaurant was the kind of place where meals cost more than some people's rent. White tablecloths, heavy silverware, the muted acoustics of money insulating conversation from conversation. Jerome had chosen it because David Okonkwo would expect this setting, and because its anonymity depended on a kind of mutual discretion: everyone here had something they preferred not to discuss in public. The other diners in their dark suits and designer dresses were the scenery of power, Washington's administrative class at rest, and Jerome felt conspicuously out of place even in his best blazer.
+The restaurant was the kind of place where meals cost more than some people's rent, where the menu had no prices because anyone who needed to ask couldn't afford to eat there. White tablecloths, heavy silverware, the muted acoustics of money insulating conversation from conversation. Jerome had chosen it because David Okonkwo would expect this setting, and because its anonymity depended on a kind of mutual discretion: everyone here had something they preferred not to discuss in public. The other diners in their dark suits and designer dresses were the scenery of power, Washington's administrative class at rest, and Jerome felt conspicuously out of place even in his best blazer.
 
 David arrived precisely on time, which was itself a message. He wore the uniform of his profession: tailored gray suit, subtle tie, a watch that probably cost more than Jerome's car. They had known each other for fifteen years, since Jerome's financial crisis reporting had made him briefly valuable to people who moved money for a living. David had been a source then, carefully anonymous, feeding Jerome data points that turned into front-page stories. Now he ran a significant portion of a hedge fund's quantitative strategy, and their relationship had dwindled to the occasional email, the connection preserved but rarely used.
 
@@ -94,7 +94,7 @@ The food arrived: salmon for David, a steak for Jerome that he knew he wouldn't 
 
 "Eighteen months. That means you were positioning before the video went public."
 
-"The smart money moved eighteen months ago. The really smart money moved three years ago." David cut a precise bite of salmon, chewed, swallowed. "This isn't conspiracy, Jerome. This is risk management. The video describes scenarios that have measurable probability. When billionaires and institutional investors look at those probabilities, they don't panic. They position."
+"The smart money moved eighteen months ago. The really smart money moved three years ago." David cut a precise bite of salmon, chewed, swallowed—the unhurried consumption of a man who had never missed a meal in his life. "This isn't conspiracy, Jerome. This is risk management. The video describes scenarios that have measurable probability. When billionaires and institutional investors look at those probabilities, they don't panic. They position."
 
 "And if the scenarios have a ten percent probability?"
 
@@ -160,7 +160,7 @@ He left a cash tip for the waiter and walked out into the DC afternoon, carrying
 
 ---
 
-The drive back from DC took two hours in traffic, and by the time Jerome pulled into his driveway, the summer sun had set and the streetlights were on. The house was lit from within, warm rectangles of light in the windows, and he sat in the parked car for a long moment before going inside, gathering whatever remained of his ordinary self.
+The drive back from DC took two hours in traffic, the Beltway a slow-moving river of taillights and frustration, and by the time Jerome pulled into his driveway, the summer sun had set and the streetlights were on. The house was lit from within, warm rectangles of light in the windows, and he sat in the parked car for a long moment before going inside, gathering whatever remained of his ordinary self, the version of Jerome Washington who was husband and father rather than witness to patterns that might mean nothing or everything.
 
 Denise was in the living room, grading papers. She taught AP History at a high school in the county, and summer meant advanced placement prep, students ambitious or desperate enough to work through July. The stack of essays on the coffee table was substantial, her red pen moving through them with practiced efficiency. She looked up when he came in, and her expression shifted from focus to something more complicated: relief and concern and a kind of resigned knowing.
 
@@ -198,7 +198,7 @@ He wanted to argue, to defend himself, but the words died in his throat. She was
 
 So he told her. He described the overlay, the correspondence between the video's predictions and his financial data, the investment patterns he had documented. He told her about the meeting with David, the confirmation that smart money was hedged, the warning about publishing. He told her about Prometheus Systems and its position at the center of everything he could see.
 
-She listened with the attention she brought to her best students, the kind of listening that made people feel genuinely heard. She was a history teacher, and she understood systems, understood how societies failed. Nothing he said surprised her, which was somehow worse than if she had been shocked.
+She listened with the attention she brought to her best students, the kind of listening that made people feel genuinely heard, that had made him fall in love with her twenty-five years ago. She was a history teacher, and she understood systems, understood how societies failed, how the things that seemed permanent crumbled into the things that came after. Nothing he said surprised her, which was somehow worse than if she had been shocked.
 
 
 
@@ -242,7 +242,7 @@ Denise had gone to bed an hour ago, her hand lingering on his shoulder as she pa
 
 He thought about his mother. Evangeline Washington was eighty-one years old and lived in a memory care facility on the Eastern Shore, where the Chesapeake light came through her window each morning and her hold on the present slipped a little more each day. Last month, when he visited, she had called him by his father's name. The month before, she had known him perfectly, had asked about Denise and DeShawn with sharp lucidity. The dementia was not a steady decline but a series of erosions, truth disappearing in patches, the past and present jumbling into something that wasn't quite either.
 
-He thought about what it meant to lose your grip on truth. To have reality become unreliable, shifting beneath your feet. His mother's condition was medical, involuntary. But there was something in the cultural moment that felt similar - a collective forgetting, a shared confusion about what was real and what was manufactured. The "Eighth Oblivion" video was either prophecy or hoax, and the difference might not matter if enough people believed in it.
+He thought about what it meant to lose your grip on truth. To have reality become unreliable, shifting beneath your feet like sand in a tide. His mother's condition was medical, involuntary, the neurons misfiring in patterns that had been honed by eighty-one years of living. But there was something in the cultural moment that felt similar—a collective forgetting, a shared confusion about what was real and what was manufactured. The "Eighth Oblivion" video was either prophecy or hoax, and the difference might not matter if enough people believed in it.
 
 
 
