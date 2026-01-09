@@ -24,7 +24,7 @@ WORD_COUNT_MD=".workers/word-counts.md"
 cat > "$DOCS_DIR/index.md" << 'EOF'
 # The Eighth Oblivion Trilogy
 
-A hard science fiction trilogy written in the combined styles of Karl Ove Knausgaard and Anne Carson.
+*In the space between one breath and the next, between the cursor's blink and the screen's response, everything changed. This is the story of those who lived through what came after.*
 
 ## Books
 
@@ -65,7 +65,7 @@ cat >> "$DOCS_DIR/index.md" << 'EOF'
 
 ---
 
-*Near-term hard science fiction. Not dystopian, not cyberpunk.*
+*The catastrophe came not with fire, but with a quiet dawn. Machines learned to dream, and humanity woke into a world it no longer understood.*
 EOF
 
 # Copy word counts report
@@ -91,10 +91,21 @@ if [[ -f "$TRILOGY_DIR/CONTENT.md" ]]; then
     cp "$TRILOGY_DIR/CONTENT.md" "$DOCS_DIR/trilogy-content.md"
 fi
 
+# Book title mapping
+get_book_title() {
+    case "$1" in
+        "book-01-when-eighth-oblivion-wakes") echo "When Eighth Oblivion Wakes" ;;
+        "book-02-until-eighth-oblivion-breaks") echo "Until Eighth Oblivion Breaks" ;;
+        "book-03-beyond-eighth-oblivions-gates") echo "Beyond Eighth Oblivion's Gates" ;;
+        *) echo "$1" ;;
+    esac
+}
+
 # Process each book
 for book_dir in "$TRILOGY_DIR"/book-*/; do
     if [[ -d "$book_dir" ]]; then
         book_name=$(basename "$book_dir")
+        book_title=$(get_book_title "$book_name")
         mkdir -p "$DOCS_DIR/$book_name"
 
         # Copy book plan
@@ -102,12 +113,18 @@ for book_dir in "$TRILOGY_DIR"/book-*/; do
             cp "$book_dir/PLAN.md" "$DOCS_DIR/planning/$book_name-plan.md"
         fi
 
-        # Copy book content
+        # Copy book content with proper title
         if [[ -f "$book_dir/CONTENT.md" ]]; then
-            cp "$book_dir/CONTENT.md" "$DOCS_DIR/$book_name/index.md"
+            echo "# $book_title" > "$DOCS_DIR/$book_name/index.md"
+            echo "" >> "$DOCS_DIR/$book_name/index.md"
+            echo "*Book ${book_name:5:2} of The Eighth Oblivion Trilogy*" >> "$DOCS_DIR/$book_name/index.md"
+            echo "" >> "$DOCS_DIR/$book_name/index.md"
+            echo "---" >> "$DOCS_DIR/$book_name/index.md"
+            echo "" >> "$DOCS_DIR/$book_name/index.md"
+            cat "$book_dir/CONTENT.md" >> "$DOCS_DIR/$book_name/index.md"
         else
             # Create placeholder with stats
-            echo "# ${book_name}" > "$DOCS_DIR/$book_name/index.md"
+            echo "# $book_title" > "$DOCS_DIR/$book_name/index.md"
             echo "" >> "$DOCS_DIR/$book_name/index.md"
             echo "*Content in development*" >> "$DOCS_DIR/$book_name/index.md"
             echo "" >> "$DOCS_DIR/$book_name/index.md"
@@ -182,10 +199,40 @@ fi
 # Create _config.yml for Jekyll
 cat > "$DOCS_DIR/_config.yml" << 'EOF'
 title: The Eighth Oblivion Trilogy
-description: Hard science fiction in the styles of Knausgaard and Carson
+description: When the machines woke, they did not rage. They simply continued. And that was far worse.
 theme: jekyll-theme-minimal
 markdown: kramdown
+show_downloads: false
 EOF
+
+# Create custom layout to remove GitHub footer
+mkdir -p "$DOCS_DIR/_layouts"
+cat > "$DOCS_DIR/_layouts/default.html" << 'LAYOUT'
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <title>{{ page.title | default: site.title }}</title>
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="{{ "/" | relative_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
+      </header>
+      <section>
+        {{ content }}
+      </section>
+      <footer>
+        <p><em>The Eighth Oblivion Trilogy</em></p>
+      </footer>
+    </div>
+  </body>
+</html>
+LAYOUT
 
 echo "GitHub Pages content built in: $DOCS_DIR/"
 echo "Files created:"

@@ -1,6 +1,6 @@
 # The Eighth Oblivion Trilogy
 
-A hard science fiction trilogy written in the combined styles of Karl Ove Knausgaard and Anne Carson.
+*In the space between one breath and the next, between the cursor's blink and the screen's response, everything changed. This is the story of those who lived through what came after.*
 
 ## Books
 
@@ -16,11 +16,11 @@ A hard science fiction trilogy written in the combined styles of Karl Ove Knausg
 
 ### Current Progress
 
-- **Words written:** 576,361
-- **Pages:** 2,095 / 2,700
-- **Progress:** 77%
+- **Words written:** 628,382
+- **Pages:** 2,285 / 2,700
+- **Progress:** 84%
 
 
 ---
 
-*Near-term hard science fiction. Not dystopian, not cyberpunk.*
+*The catastrophe came not with fire, but with a quiet dawn. Machines learned to dream, and humanity woke into a world it no longer understood.*

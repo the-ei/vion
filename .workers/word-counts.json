@@ -1,5 +1,5 @@
 {
-  "generated": "2026-01-09T06:52:35-06:00",
+  "generated": "2026-01-09T06:58:01-06:00",
   "reading_wpm": 250,
   "words_per_page": 275,
   "books": {
@@ -11,26 +11,26 @@
         "part-05": {"words": 44464, "pages": 161, "minutes": 177}
       }}
 ,
-    "book-02-until-eighth-oblivion-breaks": {"words": 165675, "pages": 602, "minutes": 662, "parts": {
-        "part-01": {"words": 31555, "pages": 114, "minutes": 126},
-        "part-02": {"words": 45917, "pages": 166, "minutes": 183},
-        "part-03": {"words": 29649, "pages": 107, "minutes": 118},
-        "part-04": {"words": 26922, "pages": 97, "minutes": 107},
-        "part-05": {"words": 31862, "pages": 115, "minutes": 127}
+    "book-02-until-eighth-oblivion-breaks": {"words": 192365, "pages": 699, "minutes": 769, "parts": {
+        "part-01": {"words": 38007, "pages": 138, "minutes": 152},
+        "part-02": {"words": 47871, "pages": 174, "minutes": 191},
+        "part-03": {"words": 35961, "pages": 130, "minutes": 143},
+        "part-04": {"words": 33259, "pages": 120, "minutes": 133},
+        "part-05": {"words": 38780, "pages": 141, "minutes": 155}
       }}
 ,
-    "book-03-beyond-eighth-oblivions-gates": {"words": 168566, "pages": 612, "minutes": 674, "parts": {
-        "part-01": {"words": 36296, "pages": 131, "minutes": 145},
-        "part-02": {"words": 31455, "pages": 114, "minutes": 125},
-        "part-03": {"words": 33519, "pages": 121, "minutes": 134},
-        "part-04": {"words": 31459, "pages": 114, "minutes": 125},
-        "part-05": {"words": 36665, "pages": 133, "minutes": 146}
+    "book-03-beyond-eighth-oblivions-gates": {"words": 193897, "pages": 705, "minutes": 775, "parts": {
+        "part-01": {"words": 42004, "pages": 152, "minutes": 168},
+        "part-02": {"words": 36806, "pages": 133, "minutes": 147},
+        "part-03": {"words": 39879, "pages": 145, "minutes": 159},
+        "part-04": {"words": 37072, "pages": 134, "minutes": 148},
+        "part-05": {"words": 38611, "pages": 140, "minutes": 154}
       }}
 
   },
   "trilogy": {
-    "words": 576361,
-    "pages": 2095,
-    "minutes": 2305
+    "words": 628382,
+    "pages": 2285,
+    "minutes": 2513
   }
 }
