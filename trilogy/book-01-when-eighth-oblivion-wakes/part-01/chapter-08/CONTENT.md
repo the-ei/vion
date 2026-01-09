@@ -1,5 +1,3 @@
-# ~~~
-
 The Prometheus campus announced itself before Delphine reached it: the glass towers visible from the freeway, their surfaces catching the morning sun and throwing it back in sheets of reflected light. She had visited tech headquarters before - the industry's habit of architectural grandeur was familiar to her - but something about this approach felt different. She was not visiting as a journalist or consultant or critical observer. She was visiting as a supplicant, presenting work she hoped would be purchased.
 
 The reception lobby was calculated to impress: a soaring atrium, living walls of carefully tended greenery, a waterfall feature whose sound managed to evoke nature while remaining entirely within the vocabulary of design. Delphine checked in at a desk staffed by a young man whose friendliness had the polished quality of training. She was given a visitor badge and directed to wait in a seating area where other visitors sat with their own badges, their own anticipations.
@@ -80,7 +78,8 @@ She closed the laptop and went home to her family, carrying questions she had no
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Jessie was on the couch when Delphine got home, her laptop open but ignored, her face carrying the particular tiredness of difficult news. Theo was already in bed - Abuela Rosa had handled dinner and bedtime, the schedule they relied on when both parents worked late.
 
@@ -194,7 +193,8 @@ She read the pages aloud, her voice finding the rhythm that soothed him. This wa
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The flight to London was eleven hours of suspended time. Delphine settled into her window seat, the economy cabin around her filled with bodies adjusting to their temporary containers, and watched the coast of California recede. The Pacific opened below, impossibly blue, and then the clouds took over and there was nothing to see but the interior of the plane.
 
@@ -295,7 +295,8 @@ For now, she let herself not know what came next.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The creative work proceeded in stages. Delphine's team occupied the large conference room for three days of intensive development, the walls accumulating mood boards and storyboards and the visual vocabulary of the campaign. They worked in the way that good creative teams work: ideas emerging, being tested, being refined or discarded; the collaborative energy building toward something none of them could have made alone.
 

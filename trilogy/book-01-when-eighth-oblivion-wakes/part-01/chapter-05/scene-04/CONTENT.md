@@ -52,7 +52,7 @@ Too vague. What was serious? What were ethics? She deleted.
 
 Better. But still not right. She deleted.
 
-The cursor blinked at her, patient and accusatory. She had spent her career choosing words carefully, crafting statements that balanced multiple interests, finding the precise formulation that would navigate institutional complexity. Now she needed to write something much simpler: I know something. I want to tell you. Please protect me.
+The cursor blinked at her, patient and indicting. She had spent her career choosing words carefully, crafting statements that balanced multiple interests, finding the precise formulation that would navigate institutional complexity. Now she needed to write something much simpler: I know something. I want to tell you. Please protect me.
 
 *I've followed your reporting on algorithmic systems and believe we may have aligned interests. I have access to documentation regarding AI capabilities at a major technology company that significantly exceed public disclosures. I am willing to share more through secure channels if you are interested in pursuing this.*
 
@@ -71,7 +71,7 @@ Her finger hovered over the send button for a long time.
 
 This was a threshold. On this side of it, she was a Chief Ethics Officer with concerns, a professional with questions, someone who could still claim she was working through proper channels. On the other side, she was something else. A source. A whistleblower. A person who had decided the system couldn't fix itself.
 
-She thought of Priya in the next room, finishing her project. She thought of the documents she had read, the predictive modeling, the behavioral anticipation. She thought of all the users trusting Clarity with their secrets, not knowing what was being built from those secrets.
+She thought of Priya in the next room, finishing her project. She thought of the documents she had read, the predictive modeling, the behavioral forecasting. She thought of all the users trusting Clarity with their secrets, not knowing what was being built from those secrets.
 
 She pressed send.
 

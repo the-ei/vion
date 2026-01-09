@@ -1,5 +1,3 @@
-# ~~~
-
 The cursor blinks in the dark. Two in the morning and the apartment is blue with screen-light, three monitors arranged in a curve that catches Kevin Zhou in their glow like something religious, an altar to the computable. The city outside his window is invisible at this hour, just scattered lights in the black, and he has not looked at it in some time. He is in the code. He is in the architecture of a function that handles user preference modeling, and the function is not behaving as it should, and this is the kind of problem he loves.
 
 Clarity. That is what they call the project, though the name came from marketing, not engineering. The system is supposed to help users understand why they make the choices they make - a decision-support tool, the pitch deck says, for individuals who want to examine their own patterns. Kevin Zhou does not think about pitch decks. He thinks about the elegance of the inference layer, the way the model learns to predict behavior from the accumulated detritus of digital life. Every click a data point. Every hesitation a signal. The system watches, and the system learns, and eventually the system knows things about you that you do not know about yourself.
@@ -69,7 +67,8 @@ The sun has risen fully now, the fog burning off, the city resolving outside his
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The conference room has glass walls. This is intentional - transparency as corporate value, openness as brand - but right now it means Kevin Zhou can see the meeting happening without him. Through the glass: his manager David, two product leads he knows by name, someone from legal, and Rachel Torres from strategy, taking notes on her laptop with the particular intensity of someone who belongs. They are discussing Clarity. He knows this because the meeting was on his calendar until yesterday, when it was moved - scheduling conflict, David's email said, overlapping commitments, we'll brief you after.
 
@@ -143,7 +142,8 @@ But tonight the code does not help. He stares at the screen for twenty minutes w
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Saturday. The bar is all exposed brick and Edison bulbs, the aesthetic of curated authenticity. Kevin Zhou arrived ten minutes early because he always arrives early, and now he is sitting at a high table nursing a drink he ordered because not ordering seemed worse than ordering something he did not want.
 
@@ -261,7 +261,8 @@ Instead he sits for a long moment in his ergonomic chair, looking at nothing, fe
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Sunday night, and Kevin Zhou is back at Prometheus. The campus is different on weekends: security lights casting longer shadows, the open floor plans feeling cavernous without the bodies to fill them, the hum of the server rooms audible in a way it never is during the week. He tells himself he came to be productive. He knows he came because the apartment was too quiet, the gaming community asleep, the hours ahead too empty to face.
 

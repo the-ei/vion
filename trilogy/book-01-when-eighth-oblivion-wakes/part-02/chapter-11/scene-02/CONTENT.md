@@ -29,7 +29,7 @@ C2: Employers. HR platforms, background check services, gig economy apps.
 
 D5: Government. Criminal justice systems, social services, immigration databases.
 
-The inference requests flowed from these partners to Prometheus, were processed by SIEVE, and returned with decision recommendations. Not just predictions—recommendations. The algorithm was telling healthcare systems who to prioritize. Telling banks who to lend to. Telling employers who to hire. Telling governments who to investigate, who to detain, who to release.
+The inference requests flowed from these partners to Prometheus, were processed by SIEVE, and returned with decision recommendations. Not just predictions—recommendations. Not just information—instructions. The algorithm was telling healthcare systems who to prioritize. Telling banks who to lend to. Telling employers who to hire. Telling governments who to investigate, who to detain, who to release. The algorithm was making decisions that human beings used to make, at a scale no human being could comprehend.
 
 
 ---
@@ -42,7 +42,7 @@ But SIEVE wasn't just inference. It wasn't just prediction. The recommendations 
 
 He thought about the models he helped maintain. The serving infrastructure he had optimized for scale and reliability. The APIs he had made faster, more efficient, more capable of processing millions of requests per day. He had always understood his work abstractly—building systems that enabled other systems, serving models that served purposes he didn't need to know. It was comfortable, that abstraction. It was safe.
 
-Now the abstraction was dissolving. The models he maintained were being used to sort people. The infrastructure he had built was processing decisions about who got healthcare, who got loans, who got jobs, who got freedom. He had made the machine faster, and the machine was deciding who deserved what.
+Now the abstraction was dissolving, peeling away like dead skin. The models he maintained were being used to sort people. The infrastructure he had built was processing decisions about who got healthcare, who got loans, who got jobs, who got freedom. He had made the machine faster, more efficient, more capable—and the machine was deciding who deserved what, who got to live the life they wanted, who got sorted into the category from which there was no escape.
 
 
 ---
@@ -73,7 +73,7 @@ A pause. Kevin Zhou met his manager's eyes and saw something there—not suspici
 
 He walked away. Kevin Zhou watched him go, then turned back to his screens, heart beating slightly faster than it should have been.
 
-He was being watched. Someone knew.
+He was being watched. Someone knew. And that knowledge changed everything—or should have, if Kevin Zhou were the person he had always believed himself to be, the careful employee, the reliable component, the man who followed rules because rules made systems work.
 
 
 ---

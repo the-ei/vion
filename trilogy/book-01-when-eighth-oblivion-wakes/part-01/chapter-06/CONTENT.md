@@ -1,5 +1,3 @@
-# ~~~
-
 The notification came through at 7:43 on a Tuesday morning, while Jerome was still in bed, scrolling through the early headlines on his phone. A new message in the secure app he kept for exactly this purpose, the one with no branding and no features and nothing to recommend it except that it did what it promised: encrypted communication that left no trace.
 
 He didn't recognize the sender's handle. That was normal. The handles were randomly generated, meant to be anonymous, changed with each conversation. What caught his attention was the content.
@@ -27,7 +25,7 @@ Third: the sender. Anonymous, but not random. The message had been sent through 
 
 He ran searches. Cross-referenced. Built a profile of the kind of person who might send this kind of message.
 
-Ethics officers. Compliance staff. Research leads with developing consciences. The people inside who saw what was being built and couldn't unsee it.
+Ethics officers. Compliance staff. Research leads with awakening consciences. The people inside who saw what was being built and could not unsee it.
 
 If this was real—and it might not be—the source was someone with access and concern. Those were the two requirements. Access without concern stayed silent; concern without access had nothing to share.
 
@@ -49,7 +47,7 @@ The answers came back in fragments. Prometheus was accelerating. OpenMind was pi
 
 ---
 
-The work felt alive in a way his newsletter hadn't lately. He had been writing about algorithmic systems for three years now, since leaving the paper, since the investigation that got killed. Good work, careful work, but incremental. This felt different. This felt like something that might matter.
+The work felt alive in a way his newsletter had not for months. He had been writing about algorithmic systems for three years now, since leaving the paper, since the investigation that got killed. Good work, careful work, but incremental. This felt different. This felt like something that might matter.
 
 By late afternoon he had the beginning of an infrastructure: notes on who to contact, questions to ask, documents to request if the source proved legitimate. The skeleton of a story, waiting to be fleshed.
 
@@ -102,7 +100,8 @@ Late at night, the house quiet, he sent the protocols. The investigation had beg
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The interview was Tuesday. It was now Saturday, and DeShawn had spent the week preparing: polishing his portfolio, practicing answers to common questions, researching Prometheus with the thoroughness of someone who believed this opportunity might define his future.
 
@@ -168,7 +167,7 @@ Here it was. The moment Jerome had been dreading and moving toward. DeShawn's ex
 
 "I didn't say evil—"
 
-"You're always saying it. Not in those words, but in how you talk about the industry. Like everyone who works in tech is either a villain or a dupe. Like the only moral position is to stand outside and criticize."
+"You say it constantly. Not in those words, but in how you talk about the industry. Like everyone who works in tech is either a villain or a dupe. Like the only moral position is to stand outside and criticize."
 
 
 ---
@@ -208,7 +207,7 @@ Denise came in, closed the door behind her. "What happened?"
 
 "About everything. About who he wants to be. About who I am."
 
-She sat beside him. She looked tired—the particular exhaustion of a high school teacher in 2032, the students more anxious than ever, the infrastructure crumbling, the impossible work of trying to educate children for a world that kept shifting beneath them.
+She sat beside him. She looked tired—the particular exhaustion of a public high school teacher in 2032, the students more anxious than ever, the infrastructure crumbling, the impossible work of trying to educate children for a world that kept shifting beneath them.
 
 "Jerome." Her voice was careful. "You're not wrong about the industry. The concerns you have, they're real."
 
@@ -269,7 +268,8 @@ Still nothing. Jerome stood in the hallway, his apology absorbed by the door bet
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The facility was called Sunset Gardens, which was precisely the kind of name that tried to disguise what it was. Jerome walked through the lobby with its artificial plants and framed pastoral prints, past the reception desk staffed by women in scrubs who smiled with professional warmth, down the corridor with its handrails and its disinfectant smell toward room 114.
 
@@ -328,7 +328,7 @@ His mother looked at him, and for a moment she was completely present, the fog l
 
 "I'm not hard on him—"
 
-"You hold everyone to impossible standards. Including yourself." She reached out and touched his hand. "It's because you care. But caring can crush."
+"You hold everyone to impossible standards. Including yourself." She reached out and touched his hand. "It comes from caring. But caring can crush."
 
 
 ---
@@ -353,7 +353,7 @@ He didn't know how to answer. The honest answer was complicated: the work was me
 
 "Your father was never happy." She said this matter-of-factly, as if reporting the weather. "He was always fighting something. Even when there was nothing to fight, he'd find something. I think he didn't know how to stop."
 
-Jerome heard the echo again. The pattern repeating across generations. Fighting even when there was nothing to fight.
+Jerome heard the echo again. The pattern repeating across generations. Fighting even when there was nothing left to fight.
 
 
 ---
@@ -432,7 +432,8 @@ The flight was called. Jerome boarded, found his seat, and flew home through the
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 He was home by Tuesday morning, landing at BWI as the sun came up over the Chesapeake. Denise had left for school already; DeShawn was in his room, presumably preparing for the afternoon interview.
 
@@ -527,7 +528,7 @@ In his office, Jerome was reading documents that would eventually become a story
 
 The house held both of them, father and son, in adjacent rooms with adjacent screens, neither knowing what the other was doing, both moving toward a collision they couldn't see coming.
 
-The cursor blinked. The night deepened. The secrets multiplied in the silence.
+The cursor blinked. The night deepened. The secrets accumulated in the silence.
 
 
 ---

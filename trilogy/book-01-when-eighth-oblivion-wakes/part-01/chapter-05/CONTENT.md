@@ -1,5 +1,3 @@
-# ~~~
-
 The headlights swept across the front of the house and then went dark, and Ananya stood at the window watching James's car idle in the driveway, watching Priya emerge from the passenger side with her bag slung over one shoulder, watching the brief wave that passed between father and daughter before James backed out and the taillights disappeared down the street. She stepped away from the window before Priya could see her watching.
 
 The front door opened and closed. The particular sound of her daughter entering: the bag dropping, the shoes kicked toward the mat but not onto it, the sigh that could mean exhaustion or relief or both.
@@ -39,7 +37,7 @@ She opened the app anyway, just to verify. The source's last message, from three
 
 Not tonight, she told herself. Tonight is for Priya.
 
-She closed the app and ordered the pad thai.
+She closed the app and ordered the pad thai, the gesture a small act of faith in normalcy.
 
 
 ---
@@ -112,7 +110,8 @@ Ananya closed the laptop. In the darkness of her study, the house silent around 
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 She had slept poorly, in fragments, the documents circling her thoughts each time she surfaced toward waking. Now it was Saturday morning and the light through the kitchen windows was too bright and the coffee was too hot and she was trying to be present for Priya, who sat across from her eating cereal with the particular concentration of someone who didn't want to talk.
 
@@ -265,7 +264,8 @@ The silence stretched between them, two people who loved each other and couldn't
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Time passed in the house's silence. Ananya cleaned the kitchen, though the kitchen didn't need cleaning. She wiped counters that were already clean, rearranged things in the refrigerator, performed the small rituals of domesticity that required no thought and offered no comfort. From Priya's room came no sound at all.
 
@@ -401,7 +401,8 @@ After they hung up, she sat in the dark living room for a long time. James knew 
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Sunday morning came bright and calm. Priya emerged from her room at ten, later than usual but looking rested. She ate breakfast without being asked, refilled her coffee (when had she started drinking coffee?), and settled at her desk to finish the project.
 
@@ -457,7 +458,7 @@ Too vague. What was serious? What were ethics? She deleted.
 
 Better. But still not right. She deleted.
 
-The cursor blinked at her, patient and accusatory. She had spent her career choosing words carefully, crafting statements that balanced multiple interests, finding the precise formulation that would navigate institutional complexity. Now she needed to write something much simpler: I know something. I want to tell you. Please protect me.
+The cursor blinked at her, patient and indicting. She had spent her career choosing words carefully, crafting statements that balanced multiple interests, finding the precise formulation that would navigate institutional complexity. Now she needed to write something much simpler: I know something. I want to tell you. Please protect me.
 
 *I've followed your reporting on algorithmic systems and believe we may have aligned interests. I have access to documentation regarding AI capabilities at a major technology company that significantly exceed public disclosures. I am willing to share more through secure channels if you are interested in pursuing this.*
 
@@ -476,7 +477,7 @@ Her finger hovered over the send button for a long time.
 
 This was a threshold. On this side of it, she was a Chief Ethics Officer with concerns, a professional with questions, someone who could still claim she was working through proper channels. On the other side, she was something else. A source. A whistleblower. A person who had decided the system couldn't fix itself.
 
-She thought of Priya in the next room, finishing her project. She thought of the documents she had read, the predictive modeling, the behavioral anticipation. She thought of all the users trusting Clarity with their secrets, not knowing what was being built from those secrets.
+She thought of Priya in the next room, finishing her project. She thought of the documents she had read, the predictive modeling, the behavioral forecasting. She thought of all the users trusting Clarity with their secrets, not knowing what was being built from those secrets.
 
 She pressed send.
 

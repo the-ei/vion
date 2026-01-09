@@ -1,8 +1,6 @@
-# ~~~
-
 The alarm was unnecessary. Kevin Zhou woke at 6:47, as he always did, thirteen minutes before the sound that would confirm he was awake. He lay still in the darkness of his apartment, waiting for the alarm to acknowledge what his body already knew, then silenced it with a tap and rose to begin the sequence that composed his mornings.
 
-The apartment was spare. He had lived here for three years and it still looked temporary, as if he might leave at any moment and take nothing with him because there was nothing to take. The bed was a mattress on a platform frame, the linens gray and clean. The dresser held clothes organized by function: work shirts in one drawer, workout clothes in another, the remainder a category he thought of as "other" and rarely accessed. The walls were white and empty. A single window looked out at the building across the street, another glass tower full of people he would never meet.
+The apartment was spare. He had lived here for three years and it still looked temporary, as if he might leave at any moment and take nothing with him because there was nothing to take—and this was not accident but design, a life stripped to function, a space that demanded nothing because demanding was a form of vulnerability he had learned to avoid. The bed was a mattress on a platform frame, the linens gray and clean. The dresser held clothes organized by function: work shirts in one drawer, workout clothes in another, the remainder a category he thought of as "other" and rarely accessed. The walls were white and empty. A single window looked out at the building across the street, another glass tower full of people he would never meet.
 
 He made coffee with a precision machine that required no attention, measured grounds and filtered water producing the same result every morning. While it brewed, he did twenty minutes on the rowing machine in the corner, the one piece of furniture that might reveal something about who he was—or at least about his determination to maintain his body as he maintained his code, functional and efficient.
 
@@ -13,7 +11,7 @@ The shower was exactly four minutes. The coffee was exactly twelve ounces. The p
 
 The commute was the company shuttle, a sleek electric vehicle that picked him up at 7:35 from the lobby of his building and deposited him at the Prometheus campus forty-three minutes later. The shuttle was full of people like him—engineers, data scientists, product managers—all looking at tablets or phones or the middle distance, all moving toward the same destination for the same purpose. Kevin Zhou didn't speak to any of them. They didn't speak to him. The social contract of the shuttle was silence and productivity, and everyone honored it.
 
-He used the time to review code. A deployment issue from yesterday had surfaced overnight, something in the inference pipeline that caused occasional latency spikes under certain load conditions. The logs showed the pattern; Kevin Zhou's mind was already constructing hypotheses, testing them against his understanding of the system, narrowing toward a solution. This was what he was good at. This was what made him valuable.
+He used the time to review code. A deployment issue from yesterday had surfaced overnight, something in the inference pipeline that caused occasional latency spikes under certain load conditions—the kind of problem that was invisible to users and mattered only to the people who understood how many microseconds added up to something customers could feel. The logs showed the pattern; Kevin Zhou's mind was already constructing hypotheses, testing them against his understanding of the system, narrowing toward a solution. This was what he was good at. This was what made him valuable.
 
 The Prometheus campus appeared through the shuttle windows like something from a rendering—glass and steel and carefully curated greenery, buildings that curved and soared, the physical manifestation of unlimited capital invested in the appearance of innovation. Kevin Zhou had found it impressive once, in the first weeks after he'd been hired, when he was twenty-four and fresh from his PhD and believed that working here meant something. Now he barely saw it. The campus was where the work happened, nothing more. The beauty was marketing.
 
@@ -22,7 +20,7 @@ The shuttle stopped. Kevin Zhou gathered his bag, stepped onto the pathway, walk
 
 ---
 
-Building 7 was infrastructure, which meant it was boring and essential and occupied by people who were respected but rarely celebrated. The flashier work happened elsewhere—the foundation models that made headlines, the consumer products that generated revenue, the research papers that won awards. Kevin Zhou's team maintained the plumbing: the serving systems that delivered model inference at scale, the APIs that connected Prometheus capabilities to external partners, the monitoring and logging frameworks that kept everything visible and debuggable. It was work that required deep expertise and produced no glory, and Kevin Zhou preferred it that way. Glory brought attention. Attention brought politics. Politics was exhausting.
+Building 7 was infrastructure, which meant it was boring and essential and occupied by people who were respected but rarely celebrated. The flashier work happened elsewhere—the foundation models that made headlines, the consumer products that generated revenue, the research papers that won awards. Kevin Zhou's team maintained the plumbing: the serving systems that delivered model inference at scale, the APIs that connected Prometheus capabilities to external partners, the monitoring and logging frameworks that kept everything visible and debuggable. It was work that required deep expertise and produced no glory, and Kevin Zhou preferred it that way. Glory brought attention. Attention brought politics. Politics was exhausting, a game whose rules he had never learned to play, whose rewards he had never learned to want.
 
 His workstation was in a corner of the third floor, an L-shaped desk with three monitors and a mechanical keyboard he had configured himself. The chair was ergonomic, expensive, provided by the company; he had adjusted it once, three years ago, and not touched the settings since. The space was his, in the sense that he occupied it fifty hours a week, but there was nothing personal in it—no photographs, no plants, no decorations that might suggest a life beyond the work.
 
@@ -41,7 +39,7 @@ It appeared in a routine monitoring check, the kind of sweep he ran every aftern
 
 Kevin Zhou frowned at his screen. The cluster was substantial—several hundred nodes, high-end GPUs, the kind of hardware that cost millions of dollars to operate. It was assigned to a project code he didn't recognize: SIEVE-PROD-07. The allocation had been active for months, consuming resources steadily, generating logs that were routed somewhere outside his normal monitoring scope.
 
-This was unusual. Prometheus was careful about resource tracking—every compute cycle had a cost center, every allocation had an owner, every project was documented in the central system. But SIEVE-PROD-07 didn't appear in any of the documentation Kevin Zhou had access to. It existed only in the resource allocation tables, a ghost in the infrastructure, consuming power and producing—what?
+This was unusual. Prometheus was careful about resource tracking—obsessively careful, fanatically careful, the kind of careful that came from having enough money to care about where every dollar went. Every compute cycle had a cost center, every allocation had an owner, every project was documented in the central system. But SIEVE-PROD-07 didn't appear in any of the documentation Kevin Zhou had access to. It existed only in the resource allocation tables, a ghost in the infrastructure, consuming power and producing—what?
 
 He queried the project database. Access denied.
 
@@ -60,7 +58,7 @@ But something nagged at him. The infrastructure he maintained served external pa
 
 He should have let it go. Noted the anomaly, filed a ticket, let someone with appropriate clearance investigate. That was the proper procedure. That was what a good employee did.
 
-But Kevin Zhou had built his career on understanding systems completely, on never accepting mystery where clarity was possible. The anomaly was a gap in his understanding. The gap bothered him.
+But Kevin Zhou had built his career on understanding systems completely, on never accepting mystery where clarity was possible. The anomaly was a gap in his understanding, a loose thread in a fabric he had spent years keeping tight. The gap bothered him. It kept pulling at the edge of his attention, the way a wrong note bothers a musician, the way a misplaced pixel bothers a designer.
 
 He opened a terminal and began to explore.
 
@@ -78,7 +76,8 @@ He began to search for SIEVE.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The first day yielded fragments.
 
@@ -111,7 +110,7 @@ C2: Employers. HR platforms, background check services, gig economy apps.
 
 D5: Government. Criminal justice systems, social services, immigration databases.
 
-The inference requests flowed from these partners to Prometheus, were processed by SIEVE, and returned with decision recommendations. Not just predictions—recommendations. The algorithm was telling healthcare systems who to prioritize. Telling banks who to lend to. Telling employers who to hire. Telling governments who to investigate, who to detain, who to release.
+The inference requests flowed from these partners to Prometheus, were processed by SIEVE, and returned with decision recommendations. Not just predictions—recommendations. Not just information—instructions. The algorithm was telling healthcare systems who to prioritize. Telling banks who to lend to. Telling employers who to hire. Telling governments who to investigate, who to detain, who to release. The algorithm was making decisions that human beings used to make, at a scale no human being could comprehend.
 
 
 ---
@@ -124,7 +123,7 @@ But SIEVE wasn't just inference. It wasn't just prediction. The recommendations 
 
 He thought about the models he helped maintain. The serving infrastructure he had optimized for scale and reliability. The APIs he had made faster, more efficient, more capable of processing millions of requests per day. He had always understood his work abstractly—building systems that enabled other systems, serving models that served purposes he didn't need to know. It was comfortable, that abstraction. It was safe.
 
-Now the abstraction was dissolving. The models he maintained were being used to sort people. The infrastructure he had built was processing decisions about who got healthcare, who got loans, who got jobs, who got freedom. He had made the machine faster, and the machine was deciding who deserved what.
+Now the abstraction was dissolving, peeling away like dead skin. The models he maintained were being used to sort people. The infrastructure he had built was processing decisions about who got healthcare, who got loans, who got jobs, who got freedom. He had made the machine faster, more efficient, more capable—and the machine was deciding who deserved what, who got to live the life they wanted, who got sorted into the category from which there was no escape.
 
 
 ---
@@ -155,7 +154,7 @@ A pause. Kevin Zhou met his manager's eyes and saw something there—not suspici
 
 He walked away. Kevin Zhou watched him go, then turned back to his screens, heart beating slightly faster than it should have been.
 
-He was being watched. Someone knew.
+He was being watched. Someone knew. And that knowledge changed everything—or should have, if Kevin Zhou were the person he had always believed himself to be, the careful employee, the reliable component, the man who followed rules because rules made systems work.
 
 
 ---
@@ -203,7 +202,8 @@ Kevin Zhou wrote down the name. One more thread to follow. One more piece of a p
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Friday night.
 
@@ -307,7 +307,8 @@ Sleep came eventually, thin and uneasy. He dreamed of numbers, of spreadsheets, 
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Sunday night, past midnight.
 

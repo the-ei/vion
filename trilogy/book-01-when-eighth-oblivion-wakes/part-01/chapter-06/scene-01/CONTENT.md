@@ -25,7 +25,7 @@ Third: the sender. Anonymous, but not random. The message had been sent through 
 
 He ran searches. Cross-referenced. Built a profile of the kind of person who might send this kind of message.
 
-Ethics officers. Compliance staff. Research leads with developing consciences. The people inside who saw what was being built and couldn't unsee it.
+Ethics officers. Compliance staff. Research leads with awakening consciences. The people inside who saw what was being built and could not unsee it.
 
 If this was real—and it might not be—the source was someone with access and concern. Those were the two requirements. Access without concern stayed silent; concern without access had nothing to share.
 
@@ -47,7 +47,7 @@ The answers came back in fragments. Prometheus was accelerating. OpenMind was pi
 
 ---
 
-The work felt alive in a way his newsletter hadn't lately. He had been writing about algorithmic systems for three years now, since leaving the paper, since the investigation that got killed. Good work, careful work, but incremental. This felt different. This felt like something that might matter.
+The work felt alive in a way his newsletter had not for months. He had been writing about algorithmic systems for three years now, since leaving the paper, since the investigation that got killed. Good work, careful work, but incremental. This felt different. This felt like something that might matter.
 
 By late afternoon he had the beginning of an infrastructure: notes on who to contact, questions to ask, documents to request if the source proved legitimate. The skeleton of a story, waiting to be fleshed.
 

@@ -91,7 +91,7 @@ In his office, Jerome was reading documents that would eventually become a story
 
 The house held both of them, father and son, in adjacent rooms with adjacent screens, neither knowing what the other was doing, both moving toward a collision they couldn't see coming.
 
-The cursor blinked. The night deepened. The secrets multiplied in the silence.
+The cursor blinked. The night deepened. The secrets accumulated in the silence.
 
 
 ---

@@ -1,5 +1,3 @@
-# ~~~
-
 The email arrived on a Tuesday morning, sandwiched between a notification from RideShare about updated driver incentives and a promotional message from a meal kit service Yusuf had tried once and couldn't afford to continue. He almost deleted it without reading, thumb hovering over the trash icon, the reflexive cull of a inbox trained to expect nothing good.
 
 But the subject line caught him: "Re: Worker Testimony Project - Introduction from Keyana Wright."
@@ -128,7 +126,8 @@ He got up to check on his mother, to make sure she ate something when she woke. 
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The days before the interview passed in a blur of deliveries and worry. Yusuf worked his usual hours - ten, twelve, sometimes fourteen if the algorithm blessed him with surge pricing - but his mind kept drifting. To Thursday. To what he would say. To the journalist who was coming to listen.
 
@@ -272,7 +271,8 @@ But Yusuf carried her words with him as he retreated to his music corner, as he 
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The coffee shop was called Groundswell, a name that felt ironic under the circumstances. It occupied a corner lot in a neighborhood that was gentrifying around it - craft breweries replacing laundromats, yoga studios where dollar stores used to be. Yusuf had chosen it because it was quiet in the afternoons and because he used to come here with his father, years ago, when the neighborhood was different and the coffee was cheaper.
 
@@ -491,7 +491,8 @@ He walked to his car, opened the app, started his evening shift. The algorithm w
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The call came at 2:47 PM on a Saturday.
 

@@ -55,7 +55,7 @@ His mother looked at him, and for a moment she was completely present, the fog l
 
 "I'm not hard on him—"
 
-"You hold everyone to impossible standards. Including yourself." She reached out and touched his hand. "It's because you care. But caring can crush."
+"You hold everyone to impossible standards. Including yourself." She reached out and touched his hand. "It comes from caring. But caring can crush."
 
 
 ---
@@ -80,7 +80,7 @@ He didn't know how to answer. The honest answer was complicated: the work was me
 
 "Your father was never happy." She said this matter-of-factly, as if reporting the weather. "He was always fighting something. Even when there was nothing to fight, he'd find something. I think he didn't know how to stop."
 
-Jerome heard the echo again. The pattern repeating across generations. Fighting even when there was nothing to fight.
+Jerome heard the echo again. The pattern repeating across generations. Fighting even when there was nothing left to fight.
 
 
 ---

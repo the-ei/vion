@@ -49,7 +49,7 @@ format_title() {
             fi
             ;;
         scene-*)
-            echo "~~~"  # Scene divider instead of "Scene X"
+            echo "__SCENE_BREAK__"  # Marker for scene break (processed separately)
             ;;
         *) echo "$name" ;;
     esac
@@ -85,16 +85,28 @@ rollup_dir() {
     fi
 
     # Check for child CONTENT.md files
+    local first_child=true
     for child_content in "$dir"/*/CONTENT.md; do
         if [[ -f "$child_content" ]]; then
             # Extract directory name for section header
             child_dir=$(dirname "$child_content")
             child_name=$(basename "$child_dir")
             child_title=$(format_title "$child_name" "$child_dir")
-            echo -e "# $child_title\n" >> "$temp_content"
+
+            # Handle scene breaks specially - only divider between scenes, not header
+            if [[ "$child_title" == "__SCENE_BREAK__" ]]; then
+                if [[ "$first_child" != "true" ]]; then
+                    # Add scene break divider (centered asterisks)
+                    echo -e "\n<p style=\"text-align: center;\">* &nbsp; * &nbsp; *</p>\n" >> "$temp_content"
+                fi
+            else
+                echo -e "# $child_title\n" >> "$temp_content"
+            fi
+
             cat "$child_content" >> "$temp_content"
             echo -e "\n\n" >> "$temp_content"
             has_content=true
+            first_child=false
         fi
     done
 

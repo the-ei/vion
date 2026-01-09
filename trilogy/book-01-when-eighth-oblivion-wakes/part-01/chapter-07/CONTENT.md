@@ -1,5 +1,3 @@
-# ~~~
-
 The numbers were beautiful. Kevin Zhou had spent eleven hours in the development environment, and the numbers were beautiful in the way that mathematics sometimes becomes when you have stared at it long enough: not just correct but inevitable, possessing a rightness that felt less discovered than remembered.
 
 Clarity's prediction accuracy on the validation set had crossed ninety-three percent. Three months ago, they had plateaued at eighty-one and the team had quietly begun discussing architectural overhauls, the kind of fundamental rethinking that would have added a year to the timeline. Kevin Zhou had not participated in those discussions. Instead, he had gone back to the attention mechanisms, had spent three weeks barely sleeping while he traced the information flow through the layers, and had found the constraint that no one else could see because no one else was willing to sit that long in the space between knowing and not-knowing.
@@ -54,7 +52,8 @@ He realized he wanted to impress them. The recognition surprised him - he had th
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The executive floor announced itself through absence: fewer desks, wider corridors, a quality of silence that felt curated rather than accidental. Kevin Zhou stepped out of the elevator into this hush, his laptop bag over his shoulder, his presentation already loaded on the conference room's system. He was early. He had meant to be early. The extra minutes would let him test the connections, verify the display resolution, perform the small adjustments that made the difference between technical competence and technical grace.
 
@@ -124,7 +123,8 @@ But lying in bed, the question returned. And with it, for the first time, a flic
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 His mother's face appeared on the screen in fragments, the video connection stuttering across the Pacific. She was smiling, or trying to smile, the expression not quite reaching her eyes. Behind her, Kevin Zhou could see the living room of the Shenzhen apartment: the furniture rearranged since his last call, a new plant on the windowsill, his father's reading chair repositioned closer to the television.
 
@@ -253,7 +253,8 @@ They made plans for Saturday. Kevin Zhou walked home through streets that felt, 
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The second date with Sara had ended at her door with a kiss that was tentative and then less tentative, a beginning of something neither of them named. She lived in a Victorian apartment near Dolores Park, the building painted in colors that would have seemed aggressive anywhere else. They made plans for a third date. Kevin Zhou took a Lyft home through streets that looked different now, suffused with a possibility he had forgotten he could feel.
 

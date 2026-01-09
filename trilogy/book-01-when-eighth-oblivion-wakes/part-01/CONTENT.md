@@ -1,7 +1,5 @@
 # Chapter 1: The Ethics of Optimization
 
-# ~~~
-
 The alarm does not sound so much as suggest itself, a rising tone that her phone has calibrated through months of sleep data to catch her at the optimal point in her cycle, and Ananya opens her eyes to the October light already filtering through the automated blinds, which have begun their slow reveal of the backyard oak and the fence beyond it, the fence that marks the property line between her house and the Hendersons' house, the Hendersons who moved to Portland last spring and whose replacement family she has not yet met, has only seen in glimpses from windows, the father washing a car, a child's bicycle left overnight on the lawn.
 
 She lies still for a moment, as she has trained herself to do, registering the weight of the empty bed beside her, the sheets undisturbed, the pillow that holds its shape night after night. Two years since James moved out and the geometry of waking has not adjusted. She still sleeps on her side, facing the window, leaving space for a body that is no longer there.
@@ -72,7 +70,8 @@ Her badge beeps at the security turnstile. The system knows she has arrived. Som
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The conference room is named Foresight, one of a suite of rooms named for aspirational qualities: Vision, Clarity, Wisdom, Perspective. Ananya has never determined whether this naming convention is earnest or ironic, whether the executives who approved it understood the humor of conducting surveillance strategy in a room called Transparency. Either interpretation is plausible. Either interpretation is damning in its own way.
 
@@ -165,7 +164,8 @@ The wondering is a ritual too. It never leads anywhere. By the time her calendar
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The restaurant is in Redwood City, equidistant from Palo Alto and San Francisco, chosen two years ago when they were still navigating the geography of separation, still trying to find neutral territory where neither felt like a guest in the other's life. It has good salads. It is expensive without advertising the expense. It exists, Ananya sometimes thinks, specifically for people like them: professionals whose personal failures must be managed with the same efficiency as their professional obligations.
 
@@ -277,7 +277,8 @@ She has learned not to think about that.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Home arrives as it always does on the off-weeks: dark windows, porch light on a timer, the particular quality of emptiness that greets her when she opens the door. The house has been monitoring her approach through the car's integration with the home system, adjusting the temperature, turning on the entryway light, perhaps even noting her arrival time for some pattern that will be useful later, in some way she has not considered, for some purpose she has not approved.
 
@@ -380,8 +381,6 @@ And what will you do with it, once you know?
 
 # Chapter 2: The Noise Floor
 
-# ~~~
-
 The room that Jerome Washington built for himself occupies what was once intended to be a nursery, the second child that never came, the space that Denise finally released to his professional use after ten years of it sitting empty, collecting meaning they could not articulate. He has covered the walls with acoustic panels bought used from a studio in Pigtown, their blue fabric faded to something approaching gray, their arrangement imperfect because he installed them himself on a weekend when Denise took DeShawn to visit her mother. The imperfection bothers him sometimes, the panels not quite level, the gaps where sound leaks. Most days he does not notice. Most days he is inside the work.
 
 The microphone is a Shure SM7B, the broadcaster's standard, purchased secondhand from a radio host who was upgrading. Jerome cleaned it himself, watched YouTube tutorials on maintenance, treats it with the care of someone who understands what this equipment represents: not just capability, but commitment. The boom arm came from Amazon. The desk was his father's, an oak monster from the 1970s that weighs more than any furniture should, that he and DeShawn carried up the narrow stairs while Denise watched with the particular expression she wears when Jerome's projects threaten to harm the house.
@@ -466,7 +465,8 @@ The editing begins.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The kitchen table is large enough for four but hosts only two this evening, Jerome at one end with his laptop, DeShawn at the other with his own machine, the arrangement that has become their default when Denise works late, which is most evenings now, the marking and planning that teaching demands consuming hours she used to spend in this room.
 
@@ -621,7 +621,8 @@ He opens his laptop and returns to the newsletter, to the story, to the work tha
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The phone call comes at midday, while Jerome is editing the housing story, trying to find the language that will make algorithmic redlining legible to readers who do not want to believe it exists. His sister's name on the screen is both expected and dreaded, their calls now anchored to the crisis they share, the mother who is slowly ceasing to be herself.
 
@@ -735,7 +736,8 @@ The work continues because the work is what he has, and having it is better than
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Saturday evening. Denise has cooked, the effort visible in the table setting: the good placemats, the napkins folded, the meal substantial in a way that weeknight dinners rarely are. This is her gift to them, the family she has assembled and maintained through twenty-three years of marriage, through Jerome's career turbulence, through DeShawn's adolescent evolution, through all the small crises that test whether love can sustain the weight placed on it.
 
@@ -866,8 +868,6 @@ The cursor blinks somewhere in the network, waiting for what comes next.
 
 # Chapter 3: Clean Architecture
 
-# ~~~
-
 The cursor blinks in the dark. Two in the morning and the apartment is blue with screen-light, three monitors arranged in a curve that catches Kevin Zhou in their glow like something religious, an altar to the computable. The city outside his window is invisible at this hour, just scattered lights in the black, and he has not looked at it in some time. He is in the code. He is in the architecture of a function that handles user preference modeling, and the function is not behaving as it should, and this is the kind of problem he loves.
 
 Clarity. That is what they call the project, though the name came from marketing, not engineering. The system is supposed to help users understand why they make the choices they make - a decision-support tool, the pitch deck says, for individuals who want to examine their own patterns. Kevin Zhou does not think about pitch decks. He thinks about the elegance of the inference layer, the way the model learns to predict behavior from the accumulated detritus of digital life. Every click a data point. Every hesitation a signal. The system watches, and the system learns, and eventually the system knows things about you that you do not know about yourself.
@@ -937,7 +937,8 @@ The sun has risen fully now, the fog burning off, the city resolving outside his
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The conference room has glass walls. This is intentional - transparency as corporate value, openness as brand - but right now it means Kevin Zhou can see the meeting happening without him. Through the glass: his manager David, two product leads he knows by name, someone from legal, and Rachel Torres from strategy, taking notes on her laptop with the particular intensity of someone who belongs. They are discussing Clarity. He knows this because the meeting was on his calendar until yesterday, when it was moved - scheduling conflict, David's email said, overlapping commitments, we'll brief you after.
 
@@ -1011,7 +1012,8 @@ But tonight the code does not help. He stares at the screen for twenty minutes w
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Saturday. The bar is all exposed brick and Edison bulbs, the aesthetic of curated authenticity. Kevin Zhou arrived ten minutes early because he always arrives early, and now he is sitting at a high table nursing a drink he ordered because not ordering seemed worse than ordering something he did not want.
 
@@ -1129,7 +1131,8 @@ Instead he sits for a long moment in his ergonomic chair, looking at nothing, fe
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Sunday night, and Kevin Zhou is back at Prometheus. The campus is different on weekends: security lights casting longer shadows, the open floor plans feeling cavernous without the bodies to fill them, the hum of the server rooms audible in a way it never is during the week. He tells himself he came to be productive. He knows he came because the apartment was too quiet, the gaming community asleep, the hours ahead too empty to face.
 
@@ -1236,8 +1239,6 @@ He does not sleep well.
 
 # Chapter 4: The Content of Character
 
-# ~~~
-
 The light in Los Angeles is different from anywhere else. Delphine Okafor-Barnes has been working with it for fifteen years, and she still feels it as a kind of gift: the way it falls through the clinic windows at seven in the morning, warming the institutional walls, turning the waiting room into something that could almost be beautiful. She watches the cinematographer, Rogelio, adjust the diffusion on the key light, softening the shadows on their subject's face. Everything here is choice. The angle, the warmth, the texture. The grammar of images that she has learned to speak fluently.
 
 "Let's go warmer," she says. "Two hundred kelvin."
@@ -1338,7 +1339,8 @@ But what, Delphine wonders, does the machine want in return?
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Theo hits her at knee level, arms wrapped around her legs, face buried in her thigh. "Mommy's home!" he shouts, as if announcing her arrival to an audience, and Delphine drops her bag and kneels to receive him properly, to hold the small body that is still small enough to hold completely, to breathe in the particular smell of four-year-old: soap and sweat and something sweet she cannot name.
 
@@ -1480,7 +1482,8 @@ The question sits between them. Jessie puts down her phone, reaches for Delphine
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Nine-thirty, and the screen shows her mother's face. The connection is better tonight than it sometimes is, the image clear enough to see the details that distance usually blurs: the new lines around her eyes, the gray in her hair that was not there two years ago, the particular set of her mouth that Delphine recognizes as loneliness managed into something presentable.
 
@@ -1605,8 +1608,6 @@ Sleep comes eventually, thin and unsatisfying, the kind of sleep that leaves you
 
 # Chapter 5: The Gradient
 
-# ~~~
-
 The headlights swept across the front of the house and then went dark, and Ananya stood at the window watching James's car idle in the driveway, watching Priya emerge from the passenger side with her bag slung over one shoulder, watching the brief wave that passed between father and daughter before James backed out and the taillights disappeared down the street. She stepped away from the window before Priya could see her watching.
 
 The front door opened and closed. The particular sound of her daughter entering: the bag dropping, the shoes kicked toward the mat but not onto it, the sigh that could mean exhaustion or relief or both.
@@ -1646,7 +1647,7 @@ She opened the app anyway, just to verify. The source's last message, from three
 
 Not tonight, she told herself. Tonight is for Priya.
 
-She closed the app and ordered the pad thai.
+She closed the app and ordered the pad thai, the gesture a small act of faith in normalcy.
 
 
 ---
@@ -1719,7 +1720,8 @@ Ananya closed the laptop. In the darkness of her study, the house silent around 
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 She had slept poorly, in fragments, the documents circling her thoughts each time she surfaced toward waking. Now it was Saturday morning and the light through the kitchen windows was too bright and the coffee was too hot and she was trying to be present for Priya, who sat across from her eating cereal with the particular concentration of someone who didn't want to talk.
 
@@ -1872,7 +1874,8 @@ The silence stretched between them, two people who loved each other and couldn't
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Time passed in the house's silence. Ananya cleaned the kitchen, though the kitchen didn't need cleaning. She wiped counters that were already clean, rearranged things in the refrigerator, performed the small rituals of domesticity that required no thought and offered no comfort. From Priya's room came no sound at all.
 
@@ -2008,7 +2011,8 @@ After they hung up, she sat in the dark living room for a long time. James knew 
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Sunday morning came bright and calm. Priya emerged from her room at ten, later than usual but looking rested. She ate breakfast without being asked, refilled her coffee (when had she started drinking coffee?), and settled at her desk to finish the project.
 
@@ -2064,7 +2068,7 @@ Too vague. What was serious? What were ethics? She deleted.
 
 Better. But still not right. She deleted.
 
-The cursor blinked at her, patient and accusatory. She had spent her career choosing words carefully, crafting statements that balanced multiple interests, finding the precise formulation that would navigate institutional complexity. Now she needed to write something much simpler: I know something. I want to tell you. Please protect me.
+The cursor blinked at her, patient and indicting. She had spent her career choosing words carefully, crafting statements that balanced multiple interests, finding the precise formulation that would navigate institutional complexity. Now she needed to write something much simpler: I know something. I want to tell you. Please protect me.
 
 *I've followed your reporting on algorithmic systems and believe we may have aligned interests. I have access to documentation regarding AI capabilities at a major technology company that significantly exceed public disclosures. I am willing to share more through secure channels if you are interested in pursuing this.*
 
@@ -2083,7 +2087,7 @@ Her finger hovered over the send button for a long time.
 
 This was a threshold. On this side of it, she was a Chief Ethics Officer with concerns, a professional with questions, someone who could still claim she was working through proper channels. On the other side, she was something else. A source. A whistleblower. A person who had decided the system couldn't fix itself.
 
-She thought of Priya in the next room, finishing her project. She thought of the documents she had read, the predictive modeling, the behavioral anticipation. She thought of all the users trusting Clarity with their secrets, not knowing what was being built from those secrets.
+She thought of Priya in the next room, finishing her project. She thought of the documents she had read, the predictive modeling, the behavioral forecasting. She thought of all the users trusting Clarity with their secrets, not knowing what was being built from those secrets.
 
 She pressed send.
 
@@ -2129,8 +2133,6 @@ The cursor blinked. The house was silent. Ananya sat with what she had done and 
 
 # Chapter 6: Signal Interference
 
-# ~~~
-
 The notification came through at 7:43 on a Tuesday morning, while Jerome was still in bed, scrolling through the early headlines on his phone. A new message in the secure app he kept for exactly this purpose, the one with no branding and no features and nothing to recommend it except that it did what it promised: encrypted communication that left no trace.
 
 He didn't recognize the sender's handle. That was normal. The handles were randomly generated, meant to be anonymous, changed with each conversation. What caught his attention was the content.
@@ -2158,7 +2160,7 @@ Third: the sender. Anonymous, but not random. The message had been sent through 
 
 He ran searches. Cross-referenced. Built a profile of the kind of person who might send this kind of message.
 
-Ethics officers. Compliance staff. Research leads with developing consciences. The people inside who saw what was being built and couldn't unsee it.
+Ethics officers. Compliance staff. Research leads with awakening consciences. The people inside who saw what was being built and could not unsee it.
 
 If this was real—and it might not be—the source was someone with access and concern. Those were the two requirements. Access without concern stayed silent; concern without access had nothing to share.
 
@@ -2180,7 +2182,7 @@ The answers came back in fragments. Prometheus was accelerating. OpenMind was pi
 
 ---
 
-The work felt alive in a way his newsletter hadn't lately. He had been writing about algorithmic systems for three years now, since leaving the paper, since the investigation that got killed. Good work, careful work, but incremental. This felt different. This felt like something that might matter.
+The work felt alive in a way his newsletter had not for months. He had been writing about algorithmic systems for three years now, since leaving the paper, since the investigation that got killed. Good work, careful work, but incremental. This felt different. This felt like something that might matter.
 
 By late afternoon he had the beginning of an infrastructure: notes on who to contact, questions to ask, documents to request if the source proved legitimate. The skeleton of a story, waiting to be fleshed.
 
@@ -2233,7 +2235,8 @@ Late at night, the house quiet, he sent the protocols. The investigation had beg
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The interview was Tuesday. It was now Saturday, and DeShawn had spent the week preparing: polishing his portfolio, practicing answers to common questions, researching Prometheus with the thoroughness of someone who believed this opportunity might define his future.
 
@@ -2299,7 +2302,7 @@ Here it was. The moment Jerome had been dreading and moving toward. DeShawn's ex
 
 "I didn't say evil—"
 
-"You're always saying it. Not in those words, but in how you talk about the industry. Like everyone who works in tech is either a villain or a dupe. Like the only moral position is to stand outside and criticize."
+"You say it constantly. Not in those words, but in how you talk about the industry. Like everyone who works in tech is either a villain or a dupe. Like the only moral position is to stand outside and criticize."
 
 
 ---
@@ -2339,7 +2342,7 @@ Denise came in, closed the door behind her. "What happened?"
 
 "About everything. About who he wants to be. About who I am."
 
-She sat beside him. She looked tired—the particular exhaustion of a high school teacher in 2032, the students more anxious than ever, the infrastructure crumbling, the impossible work of trying to educate children for a world that kept shifting beneath them.
+She sat beside him. She looked tired—the particular exhaustion of a public high school teacher in 2032, the students more anxious than ever, the infrastructure crumbling, the impossible work of trying to educate children for a world that kept shifting beneath them.
 
 "Jerome." Her voice was careful. "You're not wrong about the industry. The concerns you have, they're real."
 
@@ -2400,7 +2403,8 @@ Still nothing. Jerome stood in the hallway, his apology absorbed by the door bet
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The facility was called Sunset Gardens, which was precisely the kind of name that tried to disguise what it was. Jerome walked through the lobby with its artificial plants and framed pastoral prints, past the reception desk staffed by women in scrubs who smiled with professional warmth, down the corridor with its handrails and its disinfectant smell toward room 114.
 
@@ -2459,7 +2463,7 @@ His mother looked at him, and for a moment she was completely present, the fog l
 
 "I'm not hard on him—"
 
-"You hold everyone to impossible standards. Including yourself." She reached out and touched his hand. "It's because you care. But caring can crush."
+"You hold everyone to impossible standards. Including yourself." She reached out and touched his hand. "It comes from caring. But caring can crush."
 
 
 ---
@@ -2484,7 +2488,7 @@ He didn't know how to answer. The honest answer was complicated: the work was me
 
 "Your father was never happy." She said this matter-of-factly, as if reporting the weather. "He was always fighting something. Even when there was nothing to fight, he'd find something. I think he didn't know how to stop."
 
-Jerome heard the echo again. The pattern repeating across generations. Fighting even when there was nothing to fight.
+Jerome heard the echo again. The pattern repeating across generations. Fighting even when there was nothing left to fight.
 
 
 ---
@@ -2563,7 +2567,8 @@ The flight was called. Jerome boarded, found his seat, and flew home through the
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 He was home by Tuesday morning, landing at BWI as the sun came up over the Chesapeake. Denise had left for school already; DeShawn was in his room, presumably preparing for the afternoon interview.
 
@@ -2658,7 +2663,7 @@ In his office, Jerome was reading documents that would eventually become a story
 
 The house held both of them, father and son, in adjacent rooms with adjacent screens, neither knowing what the other was doing, both moving toward a collision they couldn't see coming.
 
-The cursor blinked. The night deepened. The secrets multiplied in the silence.
+The cursor blinked. The night deepened. The secrets accumulated in the silence.
 
 
 ---
@@ -2670,8 +2675,6 @@ The cursor blinked. The night deepened. The secrets multiplied in the silence.
 
 
 # Chapter 7: Emergence
-
-# ~~~
 
 The numbers were beautiful. Kevin Zhou had spent eleven hours in the development environment, and the numbers were beautiful in the way that mathematics sometimes becomes when you have stared at it long enough: not just correct but inevitable, possessing a rightness that felt less discovered than remembered.
 
@@ -2727,7 +2730,8 @@ He realized he wanted to impress them. The recognition surprised him - he had th
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The executive floor announced itself through absence: fewer desks, wider corridors, a quality of silence that felt curated rather than accidental. Kevin Zhou stepped out of the elevator into this hush, his laptop bag over his shoulder, his presentation already loaded on the conference room's system. He was early. He had meant to be early. The extra minutes would let him test the connections, verify the display resolution, perform the small adjustments that made the difference between technical competence and technical grace.
 
@@ -2797,7 +2801,8 @@ But lying in bed, the question returned. And with it, for the first time, a flic
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 His mother's face appeared on the screen in fragments, the video connection stuttering across the Pacific. She was smiling, or trying to smile, the expression not quite reaching her eyes. Behind her, Kevin Zhou could see the living room of the Shenzhen apartment: the furniture rearranged since his last call, a new plant on the windowsill, his father's reading chair repositioned closer to the television.
 
@@ -2926,7 +2931,8 @@ They made plans for Saturday. Kevin Zhou walked home through streets that felt, 
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The second date with Sara had ended at her door with a kiss that was tentative and then less tentative, a beginning of something neither of them named. She lived in a Victorian apartment near Dolores Park, the building painted in colors that would have seemed aggressive anywhere else. They made plans for a third date. Kevin Zhou took a Lyft home through streets that looked different now, suffused with a possibility he had forgotten he could feel.
 
@@ -3006,8 +3012,6 @@ Inside, something had shifted. But inside was where it would stay, for now.
 
 
 # Chapter 8: The Assignment
-
-# ~~~
 
 The Prometheus campus announced itself before Delphine reached it: the glass towers visible from the freeway, their surfaces catching the morning sun and throwing it back in sheets of reflected light. She had visited tech headquarters before - the industry's habit of architectural grandeur was familiar to her - but something about this approach felt different. She was not visiting as a journalist or consultant or critical observer. She was visiting as a supplicant, presenting work she hoped would be purchased.
 
@@ -3089,7 +3093,8 @@ She closed the laptop and went home to her family, carrying questions she had no
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Jessie was on the couch when Delphine got home, her laptop open but ignored, her face carrying the particular tiredness of difficult news. Theo was already in bed - Abuela Rosa had handled dinner and bedtime, the schedule they relied on when both parents worked late.
 
@@ -3203,7 +3208,8 @@ She read the pages aloud, her voice finding the rhythm that soothed him. This wa
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The flight to London was eleven hours of suspended time. Delphine settled into her window seat, the economy cabin around her filled with bodies adjusting to their temporary containers, and watched the coast of California recede. The Pacific opened below, impossibly blue, and then the clouds took over and there was nothing to see but the interior of the plane.
 
@@ -3304,7 +3310,8 @@ For now, she let herself not know what came next.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The creative work proceeded in stages. Delphine's team occupied the large conference room for three days of intensive development, the walls accumulating mood boards and storyboards and the visual vocabulary of the campaign. They worked in the way that good creative teams work: ideas emerging, being tested, being refined or discarded; the collaborative energy building toward something none of them could have made alone.
 

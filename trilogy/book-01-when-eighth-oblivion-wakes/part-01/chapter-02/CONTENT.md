@@ -1,5 +1,3 @@
-# ~~~
-
 The room that Jerome Washington built for himself occupies what was once intended to be a nursery, the second child that never came, the space that Denise finally released to his professional use after ten years of it sitting empty, collecting meaning they could not articulate. He has covered the walls with acoustic panels bought used from a studio in Pigtown, their blue fabric faded to something approaching gray, their arrangement imperfect because he installed them himself on a weekend when Denise took DeShawn to visit her mother. The imperfection bothers him sometimes, the panels not quite level, the gaps where sound leaks. Most days he does not notice. Most days he is inside the work.
 
 The microphone is a Shure SM7B, the broadcaster's standard, purchased secondhand from a radio host who was upgrading. Jerome cleaned it himself, watched YouTube tutorials on maintenance, treats it with the care of someone who understands what this equipment represents: not just capability, but commitment. The boom arm came from Amazon. The desk was his father's, an oak monster from the 1970s that weighs more than any furniture should, that he and DeShawn carried up the narrow stairs while Denise watched with the particular expression she wears when Jerome's projects threaten to harm the house.
@@ -84,7 +82,8 @@ The editing begins.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The kitchen table is large enough for four but hosts only two this evening, Jerome at one end with his laptop, DeShawn at the other with his own machine, the arrangement that has become their default when Denise works late, which is most evenings now, the marking and planning that teaching demands consuming hours she used to spend in this room.
 
@@ -239,7 +238,8 @@ He opens his laptop and returns to the newsletter, to the story, to the work tha
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The phone call comes at midday, while Jerome is editing the housing story, trying to find the language that will make algorithmic redlining legible to readers who do not want to believe it exists. His sister's name on the screen is both expected and dreaded, their calls now anchored to the crisis they share, the mother who is slowly ceasing to be herself.
 
@@ -353,7 +353,8 @@ The work continues because the work is what he has, and having it is better than
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Saturday evening. Denise has cooked, the effort visible in the table setting: the good placemats, the napkins folded, the meal substantial in a way that weeknight dinners rarely are. This is her gift to them, the family she has assembled and maintained through twenty-three years of marriage, through Jerome's career turbulence, through DeShawn's adolescent evolution, through all the small crises that test whether love can sustain the weight placed on it.
 

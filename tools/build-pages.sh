@@ -32,7 +32,7 @@ cat > "$DOCS_DIR/index.md" << 'EOF'
 2. [Until Eighth Oblivion Breaks](book-02-until-eighth-oblivion-breaks/)
 3. [Beyond Eighth Oblivion's Gates](book-03-beyond-eighth-oblivions-gates/)
 
-[Read the Full Trilogy](trilogy-content.md)
+[Download the Full Trilogy (PDF)](the-eighth-oblivion-trilogy.pdf)
 
 EOF
 
@@ -214,6 +214,12 @@ cat > "$DOCS_DIR/_layouts/default.html" << 'LAYOUT'
   </body>
 </html>
 LAYOUT
+
+# Generate PDF of full trilogy
+if command -v pandoc &> /dev/null; then
+    echo "Generating PDF..."
+    ./tools/generate-pdf.sh "$TRILOGY_DIR" "$DOCS_DIR" 2>&1 || echo "PDF generation skipped (missing dependencies)"
+fi
 
 echo "GitHub Pages content built in: $DOCS_DIR/"
 echo "Files created:"

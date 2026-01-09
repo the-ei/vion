@@ -62,7 +62,7 @@ Here it was. The moment Jerome had been dreading and moving toward. DeShawn's ex
 
 "I didn't say evil—"
 
-"You're always saying it. Not in those words, but in how you talk about the industry. Like everyone who works in tech is either a villain or a dupe. Like the only moral position is to stand outside and criticize."
+"You say it constantly. Not in those words, but in how you talk about the industry. Like everyone who works in tech is either a villain or a dupe. Like the only moral position is to stand outside and criticize."
 
 
 ---
@@ -102,7 +102,7 @@ Denise came in, closed the door behind her. "What happened?"
 
 "About everything. About who he wants to be. About who I am."
 
-She sat beside him. She looked tired—the particular exhaustion of a high school teacher in 2032, the students more anxious than ever, the infrastructure crumbling, the impossible work of trying to educate children for a world that kept shifting beneath them.
+She sat beside him. She looked tired—the particular exhaustion of a public high school teacher in 2032, the students more anxious than ever, the infrastructure crumbling, the impossible work of trying to educate children for a world that kept shifting beneath them.
 
 "Jerome." Her voice was careful. "You're not wrong about the industry. The concerns you have, they're real."
 
