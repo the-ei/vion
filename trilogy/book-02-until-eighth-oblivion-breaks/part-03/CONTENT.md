@@ -4228,6 +4228,75 @@ The same things people had always done.
 
 ---
 
+He stopped at a corner, looked up at the skyline. The downtown towers glowed against the night sky, monuments to capital and ambition and the particular kind of power that shaped everything without being seen.
+
+Somewhere up there, decisions were being made. Algorithms were running. Projections were being calculated. The future was being built, and the people who would live in it—people like him, like his mother, like everyone in the neighborhood around him—had no say in what it would look like.
+
+The story that had broken—the leaked documents, the terrifying numbers—was supposed to change something. Was supposed to make people pay attention, force accountability, shift the balance of power.
+
+But power didn't work like that. Power absorbed attention. Power waited out outrage. Power continued, regardless of what was revealed, because the systems that sustained it were stronger than any single revelation.
+
+Jerome Washington, the journalist who had tried to interview him—Yusuf remembered the encounter. The man had been sincere. Had believed in what he was doing. Had thought that truth-telling mattered.
+
+And maybe it did. Maybe somewhere, someone would read that story and do something. Maybe a politician would get serious about regulation. Maybe a company would change its practices. Maybe the truth would matter in some way Yusuf couldn't see.
+
+But here, on this street, in this neighborhood, in this life—the truth had been known all along. The people Jerome was trying to reach had always known. The only ones who were surprised were the ones who had the luxury of not paying attention.
+
+
+---
+
+Yusuf walked on, toward home. Toward his mother, who would come home from the hospital tomorrow. Toward his sister, who would start her Prometheus-funded program in the fall. Toward the life that continued regardless of what broke in the news.
+
+Something had broken—he could feel it. Not the Prometheus story itself, but something larger. Some illusion that the system might self-correct. Some hope that the people in charge might wake up, might choose differently, might care about the harm they were causing.
+
+That hope was dead now. The documents proved what everyone already knew: they knew what they were doing. They had chosen to do it anyway. And no story, no matter how well-documented, was going to change that.
+
+So what was left?
+
+Fatima's answer: organizing. Building power from below. Creating structures that could survive the indifference of those above.
+
+His mother's answer: family. Taking care of each other. Surviving together when survival alone was impossible.
+
+His own answer, still forming: something between the two. The personal and the political, woven together, neither complete without the other.
+
+The skyline glittered behind him. The neighborhood spread around him. The algorithm waited on his phone, ready to pull him back into its logic whenever he turned it on again.
+
+But for now, he was here. Walking through streets that belonged to him, even if they belonged to others too. Thinking about what came next, even if he couldn't see it clearly.
+
+Something had broken. But for people like him, it had broken long ago.
+
+Maybe that was the truth that mattered. Not what the powerful had hidden, but what the powerless had always known.
+
+The world continued. Yusuf walked home.
+
+
+---
+
+He reached his building as the night deepened. The apartment was dark—Amina at work, the space waiting for Halima's return. He climbed the stairs slowly, tired in a way that sleep wouldn't fix.
+
+Inside, he didn't turn on the lights. He stood at the window, looking out at the city one more time.
+
+Minneapolis in late June. The summer that would stretch ahead, full of heat and struggle and whatever came next. The coalition building toward its rally. His mother recovering toward an uncertain future. His sister preparing to walk through a door that might open possibilities or might close them.
+
+And the story—the Prometheus documents, the shocking revelations, the truth that was supposed to change everything—already fading into the background noise.
+
+Yusuf thought about the question the journalist had asked him, weeks ago in the church basement: *What story are we allowed to tell?*
+
+He had an answer now. Not the one Jerome had been looking for—not the story that would break in the news and make powerful people uncomfortable for a day before moving on.
+
+A different story. The story that was told in neighborhoods like this, in families like his, in the slow work of organizing that Fatima led. The story of survival. The story of resistance. The story of people who had always known the truth and had chosen to keep fighting anyway.
+
+That was the story that mattered. Not the breaking news, but the ongoing struggle. Not the revelation, but the response.
+
+Something had broken. It had broken long ago. And they were still here.
+
+Still fighting. Still surviving. Still refusing to accept what they were supposed to accept.
+
+That was the only story that would save them.
+
+
+---
+
 
 
 
