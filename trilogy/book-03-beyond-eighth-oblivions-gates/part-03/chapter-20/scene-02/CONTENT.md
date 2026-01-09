@@ -1,4 +1,4 @@
-Jessie arrived at four, still in her work clothes, the particular energy of a writers' room clinging to her like a scent. She found them in the cafe, Theo absorbed in a game on Delphine's tablet, Delphine staring at her coffee as if it might reveal something.
+Jessie arrived at four, still in her work clothes, the particular energy of a writers' room clinging to her. She found them in the cafe, Theo absorbed in a game on Delphine's tablet, Delphine staring at her coffee as if it might reveal something.
 
 "Hey." Jessie leaned down to kiss Theo's head, then sat across from Delphine. "How's it looking?"
 
@@ -23,7 +23,6 @@ Theo glanced up from his game, sensing the shift in atmosphere, then returned to
 "Not here." Jessie nodded toward the museum entrance. "Walk me through it. Then I'll tell you."
 
 
----
 
 They left Theo with the tablet and promises of ice cream later. The galleries were quieter now, workers packing up for the day, the space settling into the particular silence of a museum after hours. Delphine led Jessie through each section, watching her face for reactions, finding only the careful neutrality of someone reserving judgment.
 
@@ -45,12 +44,11 @@ The question landed like a stone. Delphine waited.
 
 "That's not—"
 
-"I've been watching you with this project for two years. The grant applications, the curatorial meetings, the endless revisions. And what I see is someone who's turned self-criticism into content. 'Look how complicated I am. Look how I reckon with my own complicity. Give me a museum exhibit for my journey.'"
+"I've been watching you with this project for two years. Grant applications, curatorial meetings, endless revisions. And what I see is someone who's turned self-criticism into content. 'Look how complicated I am. Look how I reckon with my own complicity. Give me a museum exhibit for my journey.'"
 
 The words were sharp, precise, the way Jessie's words always were when she was serious. This was the voice of a writer who knew how stories worked, how they could conceal even as they seemed to reveal.
 
 
----
 
 "So what do you want me to do? Not engage with what I did? Just pretend it didn't happen?"
 
@@ -71,7 +69,6 @@ Delphine wanted to argue. Wanted to explain that the exhibition was different, t
 "I know. That's what worries me."
 
 
----
 
 They walked in silence to the final gallery, the one with the questions on the walls. Jessie read them aloud: "What did we learn? What are we still not seeing? Who decides what we remember?"
 
@@ -100,7 +97,6 @@ The accusation was familiar. They had circled it for years, the difference betwe
 "I know. I'm just not sure trying counts as doing."
 
 
----
 
 They returned to the cafe. Theo looked up from the tablet, assessed the situation, and announced that he was ready for ice cream. The declaration broke something between them, returned them to the practical world where children needed to be fed and schedules needed to be maintained.
 
@@ -119,7 +115,6 @@ But something had shifted. Standing alone in the Media Response section, looking
 The exhibition told a story about the crisis. But it also told a story about Delphine. And maybe those two stories were not as separate as she had wanted to believe.
 
 
----
 
 She found the catalogue proof in her bag and flipped to the introduction she had written. The words were careful, measured, full of the kind of qualified acknowledgment that Jessie had called out. "As someone who was part of the content industry during the crisis, I approach this curation with an awareness of my own complicity..."
 
@@ -140,5 +135,4 @@ She did not know. She only knew that the exhibition would open, and people would
 That was transmission. That was inheritance. She could not control what they took away.
 
 
----
 

@@ -17,7 +17,6 @@ Her mother's face appeared, slightly pixelated from the Atlantic distance, famil
 "A small piece. Advance notice of cultural events. They spelled your name right, which is something."
 
 
----
 
 Delphine felt something release in her chest at the sound of her mother's voice, at the particular cadence that was both English and Nigerian, shaped by decades in both places, neither fully either.
 
@@ -44,7 +43,6 @@ Her mother was quiet for a moment, her face thoughtful in the screen's light. "W
 "Jessie thinks my self-criticism is just another layer of the same thing. Performance of reckoning rather than actual reckoning."
 
 
----
 
 "Jessie is very clever," her mother said. "She sees things most people don't. But she also—and forgive me, I know she's your wife—she also has a tendency to think that not engaging is somehow more authentic than engaging. As if you can live without making meaning. You can't. You just make different kinds."
 
@@ -71,7 +69,6 @@ Delphine considered the question. She had imagined critics praising the curation
 "Honest rarely does."
 
 
----
 
 They talked for a while longer, meandering through topics: her mother's health, Theo's school, the exhibition's details, the memories of her father that surfaced unbidden. Her mother had a way of making space for wandering, of following the conversation wherever it led without insisting on direction.
 
@@ -96,7 +93,6 @@ Delphine felt tears prickle at her eyes. The conversation had opened something, 
 "For you? I'd go anywhere."
 
 
----
 
 After the call ended, Delphine sat with the catalogue proof, looking at the questions she had written in the margins. Her mother's words echoed: let some things go. Accept that you'll never know if it mattered.
 
@@ -117,7 +113,6 @@ She closed the proof and set it aside. Tomorrow she would send the changes to th
 The house was fully quiet now, even Jessie's tablet light extinguished. Delphine rose and went to check on Theo—the habit of parenthood, the ritual of seeing him safe—and found him curled on his side, breathing evenly, a stuffed whale clutched against his chest.
 
 
----
 
 She stood in his doorway for a long moment, watching him sleep, thinking about what he would inherit from her. Not just the genes, not just the habits, but the particular quality of attention she brought to the world—the need to understand, to explain, to make meaning out of experience.
 
@@ -144,7 +139,6 @@ They lay there in the dark, the argument still present but transformed somehow, 
 The exhibition would open in two weeks. The meaning would be made by others. Delphine had done what she could.
 
 
----
 
 In the morning, she woke early and returned to her study. The catalogue proof sat where she had left it, the handwritten addition visible in the margins. In the light of day, it looked messier than she remembered. Less a deliberate choice and more a late-night impulse that might need to be revised.
 
@@ -169,5 +163,4 @@ By the time Jessie joined them, the kitchen was full of conversation, of ideas b
 That was inheritance too. Perhaps the most important kind.
 
 
----
 
