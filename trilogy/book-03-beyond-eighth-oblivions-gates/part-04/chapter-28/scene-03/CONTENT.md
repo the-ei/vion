@@ -1,4 +1,4 @@
-She returned to the hospice that night, unable to stay home, unable to sleep in her own bed while abuela lay in this room. Daniel had the children; he understood without her having to explain. He had always understood the things she could not say, which was part of why she had married him and part of why she loved him still, despite everything that the years had worn away.
+She returned to the hospice that night, unable to stay home, unable to sleep in her own bed while abuela lay in this room. Daniel had the children; he understood without her having to explain. He had always understood the things she could not say, which was part of why she had married him and part of why she loved him still, despite everything the years had worn away.
 
 The hospice at night was a different place. Quieter, dimmer, the hustle of daytime staff replaced by a skeleton crew moving through the halls with the particular economy of night shift workers. Elena knew this rhythm. Had worked nights for years before transferring to the day shift at the clinic. The strange intimacy of institutions after dark, when the visitors went home and the patients were left with only the staff and their own thoughts.
 
@@ -31,7 +31,7 @@ Thank you.
 
 After she left, Elena thought about the brief exchange. The recognition between them, the shared knowledge of what this work required. She had been that young nurse once, decades ago, learning the geography of hospitals and hospices, learning the vocabulary of care and death. She had told herself then that she would make a difference, that her presence in the system would somehow improve it, that one dedicated person could change the trajectory of how care was provided.
 
-Twenty years later, the system was worse in some ways, better in others, and mostly unchanged. The same understaffing, the same impossible workloads, the same burnout that claimed nurses like some occupational disease. Elena had survived by adjusting her expectations, by finding satisfaction in the individual encounters, by building walls and then building doors in the walls.
+Twenty years later, the system was worse in some ways, better in others, and mostly unchanged. The same understaffing, the same impossible workloads, the same burnout claiming nurses like an occupational disease. Elena had survived by adjusting her expectations, by finding satisfaction in the individual encounters, by building walls and then building doors in the walls.
 
 But tonight, sitting beside her grandmother's bed, she wondered if that was enough. If survival was the same as meaning. If the doors she had built led anywhere worth going.
 
@@ -58,7 +58,7 @@ Maybe those are the same thing.
 
 Maybe.
 
-Elena sat down at the small table, wrapping her hands around the warm mug. The fluorescent lights hummed overhead, casting the same flat brightness they cast in break rooms everywhere, in every hospital and clinic and hospice Elena had ever worked in.
+Elena sat down at the small table, wrapping her hands around the warm mug. The fluorescent lights hummed overhead, casting the same flat brightness they cast in break rooms everywhere, in every hospital and clinic and hospice where Elena had ever worked.
 
 You've been here a while? she asked.
 
@@ -67,7 +67,7 @@ Three years. Before that I was at St. Joseph's.
 
 ---
 
-They talked for a few minutes, the easy shop talk of people who understood each other's work. Thomas told her about a patient who had died last week, a man in his fifties who had fought cancer for three years before deciding to stop treatment. How he had arranged his own goodbye party, inviting everyone he loved, playing music and telling stories until he was too tired to continue. It's better when they get to choose, Thomas said. When they're not surprised by it.
+They talked for a few minutes, the easy shop talk of people who understood one another's work. Thomas told her about a patient who had died last week, a man in his fifties who had fought cancer for three years before deciding to stop treatment. How he had arranged his own goodbye party, inviting everyone he loved, playing music and telling stories until he was too tired to continue. It's better when they get to choose, Thomas said. When they're not surprised by it.
 
 Elena thought about abuela, who had made her choices years ago, who had moved into the hospice without complaint when the time came, who had arranged her own affairs with the same practical determination she had brought to everything. She had not been surprised. She had simply been ready, in the way that people became ready after eight decades of living.
 
@@ -84,7 +84,7 @@ Elena watched them, these two night shift workers holding the line while the res
 
 ---
 
-She returned to abuela's room with her bad coffee and sat in the chair, watching the numbers on the monitors, listening to the breathing that continued its slow march toward silence.
+She returned to abuela's room with her bitter coffee and sat in the chair, watching the numbers on the monitors, listening to the breathing that continued its slow march toward silence.
 
 The night shift. The skeleton crew. The workers who held the system together while management made decisions in daylight offices, while administrators calculated costs and benefits, while politicians debated healthcare policy without ever setting foot in a room like this.
 

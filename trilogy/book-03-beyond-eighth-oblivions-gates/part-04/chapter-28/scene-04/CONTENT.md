@@ -1,6 +1,6 @@
 Dawn.
 
-The light through the window shifted from black to gray to the first suggestion of gold.
+Light through the window shifted from black to gray to the first suggestion of gold.
 
 Abuela's breathing had changed again in the night. Longer pauses. Deeper silence between each breath. Elena sat forward in her chair, counting the seconds, waiting.
 
@@ -33,7 +33,7 @@ Elena counted. Fifteen seconds. Twenty. Twenty-five.
 
 Then another breath, shallow, almost imperceptible.
 
-She knew what was happening. Had seen it dozens of times. The body shutting down system by system, the lungs working harder to do less, the heart struggling against the weight of accumulated years.
+She knew what was happening. Had witnessed it dozens of times. The body shutting down system by system, the lungs working harder to do less, the heart struggling against the weight of accumulated years.
 
 She did not try to intervene. Did not call for the nurse. Did not reach for the equipment that might extend this process by minutes or hours.
 
@@ -93,7 +93,7 @@ The body was prepared, cleaned, covered. The room was readied for the next occup
 
 Elena stood in the hallway, watching the orderlies move in and out. The efficiency that the system required. The processing of death into something manageable, documented, filed away.
 
-She felt the rage rise in her again, the old familiar anger at the inadequacy of everything, at the way that a life spanning eight decades was reduced to forms and procedures and a room that would be empty within the hour.
+She felt the rage rise in her again, the old familiar anger at the inadequacy of everything, at the way a life spanning eight decades was reduced to forms and procedures and a room that would be empty within the hour.
 
 But the rage did not separate from the care. They moved together now, intertwined, the same force with two faces.
 

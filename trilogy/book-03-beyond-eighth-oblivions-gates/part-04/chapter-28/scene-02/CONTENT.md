@@ -1,4 +1,4 @@
-The children arrived in the afternoon. Sofia came through the door first, fourteen years old and trying to look older, her face arranged in an expression of practiced composure that Elena recognized as borrowed from somewhere, television or the internet or the careful observation of adults managing difficult situations.
+The children arrived in the afternoon. Sofia came through the door first, fourteen years old and striving to look older, her face arranged in an expression of practiced composure that Elena recognized as borrowed from somewhere, television or the internet or the careful observation of adults managing difficult situations.
 
 Behind her, Mateo. Eleven, still young enough that he had not learned to hide what he was feeling. His eyes went immediately to the bed, to the still figure beneath the sheet, and Elena watched him process what he was seeing, the gap between what he had been told and what was actually here.
 
@@ -42,7 +42,7 @@ Mom, she said quietly. Did we come to say goodbye?
 
 Yes, Elena said. That's why we're here.
 
-The three of them sat in silence for a while, arranged around the bed in a configuration that felt both random and necessary. Three generations present to witness the departure of the fourth. Elena looked at her children and saw them as they would be someday, as she would be someday, all of them moving toward this same endpoint, this same small room with its antiseptic smell and its striped light.
+The three of them sat in silence for a while, arranged around the bed in a configuration that felt both random and necessary. Three generations present to witness the departure of a fourth. Elena looked at her children and saw them as they would be someday, as she would be someday, all of them moving toward this same endpoint, this same small room with its antiseptic smell and its striped light.
 
 I remember when she taught me to make hot chocolate, Mateo said suddenly. She put cinnamon in it.
 
@@ -57,7 +57,7 @@ Elena nodded, not trusting her voice. The simplest promises felt enormous now, f
 
 ---
 
-Sofia was crying now, silently, tears running down her cheeks that she did not bother to wipe away. Elena reached over and took her daughter's hand, feeling the familiar fingers, the bitten nails that Sofia could not stop chewing despite years of reminders.
+Sofia was crying now, silently, tears running down her cheeks that she did not bother to wipe away. Elena reached over and took her daughter's hand, feeling the familiar fingers, the bitten nails Sofia could not stop chewing despite years of reminders.
 
 At fourteen, Sofia had begun to pull away, as all teenagers pulled away, establishing the distance that adolescence required. But in this room, with death waiting, she allowed her mother's touch, allowed herself to be a child again for a moment.
 
@@ -78,7 +78,7 @@ Those can be the same thing.
 
 ---
 
-The visit lasted an hour, maybe longer. At some point a nurse came in to check the monitors, and Elena watched her children watch the nurse, their eyes tracking the efficient movements, the quick assessment, the small adjustments. They were learning, whether they knew it or not. Learning what care looked like, what attention to a dying body required.
+The visit lasted an hour, perhaps longer. At some point a nurse came in to check the monitors, and Elena watched her children watch the nurse, their eyes tracking the efficient movements, the quick assessment, the small adjustments. They were learning, whether they knew it or not. Learning what care looked like, what attention to a dying body required.
 
 When it was time to go, Mateo leaned over and kissed abuela's forehead. The gesture was spontaneous, unplanned, and it broke something in Elena that she had been holding together all day. She turned away, not wanting her children to see her cry.
 
