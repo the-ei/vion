@@ -1,5 +1,3 @@
-# ~~~
-
 The app's voice had been giving directions for thirty minutes when it started to malfunction.
 
 "In three hundred feet, turn right onto - turn right onto - " The voice stuttered, repeated itself, then fell silent.
@@ -162,7 +160,8 @@ He just had to keep driving through the chaos.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The drive should have taken twenty minutes. It took nearly two hours.
 
@@ -322,7 +321,8 @@ But they would eat tonight. That was something.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Their mother woke at 3:00, called by the smell of cooking. Amina had transformed the groceries into something that made sense - rice from the Singh family's order, vegetables from Mrs. Patterson's organic selection, a stew that blended ingredients that had never been meant to go together but worked anyway.
 
@@ -452,7 +452,8 @@ They settled in together, the three of them, the crisis continuing outside while
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Evening. Halima was resting again, her levels checked and stable, the old manual routine replacing the failed technology. Amina had gone to her room to study - school might or might not happen tomorrow, but she was determined to stay caught up regardless.
 

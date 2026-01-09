@@ -1,5 +1,3 @@
-# ~~~
-
 The Amtrak from DC to New York took three hours, time Ruth used to review David's legal file for the third time. She had memorized the key documents by now - the charges, the evidence summary, the defendant's preliminary response - but reading them again gave her something to do with her eyes while her mind circled the situation from every possible angle.
 
 Penn Station was unchanged: the brutal fluorescent lighting, the crowds moving with the aggressive purpose of New Yorkers, the eternal renovation projects that never seemed to produce actual improvement. Ruth navigated the flow with the ease of someone who had done this hundreds of times, emerging onto Seventh Avenue into the gray July afternoon.
@@ -85,7 +83,8 @@ Ruth felt something shift in her understanding. Not of the case - she had alread
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The next morning, Ruth met with David's defense attorney. Caroline Hartley was a former federal prosecutor who had switched sides twenty years ago and now commanded fees that made Ruth's eyes water. But she was good - her reputation was built on cases exactly like this one, where political pressure met legal complexity.
 
@@ -179,7 +178,8 @@ It was not enough. It was what she had.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 That evening, Ruth called Rebecca from her hotel room. Her daughter's voice was a relief after the day's weight - warmer, more direct, less encumbered by legal complexity.
 
@@ -243,7 +243,8 @@ They said goodbye, and Ruth sat in the silence of the hotel room, her daughter's
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The morning of her departure, Ruth sat with David in his apartment one last time. He had made coffee, had attempted to clean up, had dressed in something other than sweatpants - small efforts at normalcy that touched her more than any elaborate gesture could have.
 
@@ -313,7 +314,8 @@ Ruth thought about her own experience of not-knowing. The hearing where she had 
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Penn Station was crowded with the Friday exodus - workers heading to weekend destinations, families starting summer trips, the endless flow of movement that defined American life. Ruth found her platform and stood with David at the boarding area.
 

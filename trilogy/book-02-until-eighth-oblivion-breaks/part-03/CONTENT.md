@@ -1,7 +1,5 @@
 # Chapter 18: The Curve Reveals Itself
 
-# ~~~
-
 The livestream began at 4:07 PM Eastern, three minutes behind schedule. Jerome watched the loading icon pulse on his laptop screen, aware of the coffee going cold beside him, the afternoon light slanting through the blinds of his home office in Baltimore, striping the wall with shadow like something caged. Prometheus Systems had been hyping this announcement for two weeks with the precision of a major film studio: countdown timers, cryptic social media posts, journalists granted exclusive advance briefings they couldn't yet publish. Whatever they were unveiling, the company had determined that the world should pay attention.
 
 His phone buzzed. Text from Martin at the Post: *You watching?*
@@ -140,7 +138,8 @@ Jerome didn't know how to tell him that the machine might be about to change sha
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Dinner was Denise's jollof rice, a recipe she had learned from her Ghanaian college roommate and perfected over decades until it had become the dish she made when she wanted the family to sit down together and actually talk. The tomato-red rice filled the kitchen with its smell—peppers and onions and something deeper, something that said home in a language older than words—and Jerome forced himself to set his phone face-down on the counter and join his wife and son at the table.
 
@@ -300,7 +299,8 @@ Jerome kept writing. It was the only thing he knew how to do.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 At 11:47 PM, Jerome finished his reaction piece and sent it to his editor. At 11:52, she acknowledged receipt. At 11:58, she called to suggest revisions, and they argued for twenty minutes about whether his framing was too pessimistic, until they compromised on language that was, Jerome thought, still true but no longer sharp enough to cut.
 
@@ -438,8 +438,6 @@ Jerome saved his notes, closed his laptop, and went to watch the sunrise from th
 
 
 # Chapter 19: Inside the Machine
-
-# ~~~
 
 The champagne was Dom Perignon, of course. Victor Reeves believed in symbols the way some men believed in gods, and the symbol of victory was always the best of everything, poured generously for everyone present to share in the communion. Ananya Ramaswamy took a glass from the tray a server offered, felt the cool weight of it in her hand, and tried to arrange her face into something that looked like celebration.
 
@@ -602,7 +600,8 @@ But the question it raised—what she knew, and what she was willing to say abou
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Ananya's apartment occupied the twenty-third floor of a building that cost more per month than her parents had earned in a year when she was growing up in Fremont, crowded into a two-bedroom with her sister. The view was spectacular—the city spreading out beneath her, the Bay Bridge lit up at night, the distant darkness of the Pacific where her mother still believed the water connected them to home—and she hated it most days. The apartment was a symbol of everything she had achieved and everything she had given up to achieve it. Raj had chosen it during their marriage, back when they had still believed that success could be shared, that their trajectories were parallel. Now he lived in Palo Alto with his new venture capital firm, and she lived here alone, paying rent that felt like penance.
 
@@ -631,13 +630,13 @@ Of course that's what Raj noticed. Of course.
 
 "Mostly that it's cool. Like, AI that makes itself smarter? That's science fiction stuff. Some people are freaked out, but mostly it's just cool."
 
-Cool. The word landed in Ananya's chest like something small and sharp. Her daughter's generation had grown up with AI assistants in their pockets, with algorithms shaping their feeds, with the assumption that technology was simply the water they swam in. Of course ATLAS-7 was cool. It was the next wave, and they were surfers.
+Cool. The word landed in Ananya's chest like something small and sharp, a splinter of generational difference she could feel but not extract. Her daughter's generation had grown up with AI assistants in their pockets, with algorithms shaping their feeds, with the assumption that technology was simply the water they swam in. Of course ATLAS-7 was cool. It was the next wave, and they were surfers.
 
 "You're not freaked out?" Ananya asked.
 
 Priya shrugged, still looking at her homework. "Should I be? You're the ethics person. If it wasn't safe, you wouldn't have let them launch it, right?"
 
-The question hung in the air of Ananya's expensive apartment, mixing with the wine on her tongue and the weight of everything she hadn't said.
+The question hung in the air of Ananya's expensive apartment, mixing with the wine on her tongue and the weight of everything she hadn't said, couldn't say, had been carefully not saying for years.
 
 "Right," she heard herself answer. "Of course."
 
@@ -656,7 +655,7 @@ Priya looked up at the screen, and for a moment, Ananya saw her daughter really 
 
 "It's not like that. It's just—" She hesitated, and when she looked up again, her expression was more serious than Ananya had expected. "My teacher was saying that most technology moves too fast for laws to keep up. And that companies basically regulate themselves because the government can't. Is that true?"
 
-It was the question Ananya had spent eight years trying to answer, or trying to prove wrong, or trying to work around. The question that had brought her to Prometheus in the first place, believing she could be the internal check that external forces couldn't provide.
+It was the question Ananya had spent eight years trying to answer, or trying to prove wrong, or trying to work around—the question that kept her awake some nights and that she had learned to ignore on others. The question that had brought her to Prometheus in the first place, believing she could be the internal check that external forces couldn't provide.
 
 "It's complicated," she said.
 
@@ -697,18 +696,18 @@ Priya seemed to sense the complexity without understanding it. "Okay," she said,
 
 "Love you too."
 
-The call ended. Ananya sat in the silence of her apartment, the wine growing warm in her hand, her daughter's question echoing in the empty space.
+The call ended. The screen went dark. Ananya sat in the silence of her apartment, the wine growing warm in her hand, her daughter's question echoing in the empty space like something thrown into a well, waiting for the sound of it hitting bottom.
 
 Did you make it safe?
 
-No. She hadn't. And she couldn't say that to anyone, not even herself.
+No. She hadn't. And she couldn't say that to anyone, not yet, perhaps not ever—not even to herself, in the dark, alone, where no one would hear.
 
 
 ---
 
 She didn't turn on any more lights. The city provided enough illumination through the floor-to-ceiling windows, the distant glow of a million lives being lived below her, each one unaware of what had been announced today, or aware and not yet understanding what it meant. She finished the wine without tasting it and sat very still in the growing dark.
 
-Priya's question had opened something. A door she had been keeping carefully closed, the one behind which lived all the things she had chosen not to examine too closely. The first compromise and the second and the third. The meetings where she had raised objections and been overruled. The times she had told herself that staying was more effective than leaving, that influence required position, that change came slowly from within.
+Priya's question had opened something. A door she had been keeping carefully closed for years, the one behind which lived all the things she had chosen not to examine too closely, the accumulated weight of compromises stacked like boxes in a room she never entered. The first compromise and the second and the third. The meetings where she had raised objections and been overruled. The times she had told herself that staying was more effective than leaving, that influence required position, that change came slowly from within.
 
 But what had changed? In eight years at Prometheus, what had she actually accomplished? Better language in some documents. A few features delayed by a few weeks. A framework that looked impressive and meant nothing. And now ATLAS-7 was loose in the world, improving itself beyond anyone's ability to control, and all her ethics work had been a prologue to this.
 
@@ -716,7 +715,7 @@ She thought about Kevin Zhou, who had left three years ago. She had thought he w
 
 Now she wondered if Kevin had simply seen more clearly than she had.
 
-The city lights blurred, and she realized she was crying. The tears surprised her; she hadn't cried about work in years. But this wasn't about work anymore. This was about who she had become while working, and what she had enabled, and what she had told her daughter that wasn't true.
+The city lights blurred, and she realized she was crying—hot tracks down her face, unbidden, unwanted. The tears surprised her; she hadn't cried about work in years, had learned to metabolize the daily frustrations into something harder and smaller, something that could be stored. But this wasn't about work anymore. This was about who she had become while working, and what she had enabled, and what she had told her daughter that wasn't true.
 
 
 ---
@@ -735,9 +734,9 @@ She had access. She had seen the internal projections that Daniel had mentioned�
 
 If someone were to look. If someone were to copy. If someone were to give those documents to the right person—a journalist, a regulator, anyone who could make them matter—then maybe. Maybe something could change.
 
-She wasn't ready for that. Not yet. But she was beginning to understand that she might have to become ready.
+She wasn't ready for that. Not yet. But she was beginning to understand that she might have to become ready, that readiness might be something you arrived at rather than chose.
 
-The city lights glittered below her, indifferent to her crisis, waiting for nothing.
+The city lights glittered below her, indifferent to her crisis, waiting for nothing, promising nothing, offering only the ancient comfort of being one small life among millions.
 
 
 ---
@@ -745,9 +744,10 @@ The city lights glittered below her, indifferent to her crisis, waiting for noth
 
 
 
-# ~~~
 
-It was nearly midnight when she opened her laptop. The screen's glow in the dark apartment felt transgressive, like a light that shouldn't be turned on, a door that shouldn't be opened. Ananya's heart was beating faster than it should for someone simply sitting on her couch with a computer.
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
+
+It was nearly midnight when she opened her laptop. The screen's glow in the dark apartment felt transgressive, sacred almost, like a light that shouldn't be turned on, a door that shouldn't be opened, a threshold she had been approaching for years without knowing it. Ananya's heart was beating faster than it should for someone simply sitting on her couch with a computer.
 
 She had Prometheus credentials. Chief Ethics Officer came with significant system access—she was supposed to be able to review processes, audit decisions, ensure compliance with the frameworks she had helped create. The question was whether she had ever actually used that access for anything other than the work she was supposed to do.
 
@@ -766,7 +766,7 @@ Her finger hovered over the trackpad.
 
 She clicked.
 
-The system hesitated—a loading icon spinning in the dark—and then granted access. She was in. The restricted folders opened before her like rooms in a house she had lived in for years but never fully explored.
+The system hesitated—a loading icon spinning in the dark, measuring seconds that felt like verdicts—and then granted access. She was in. The restricted folders opened before her like rooms in a house she had lived in for years but never fully explored, rooms she had suspected existed but had been careful not to find.
 
 Her hands were shaking slightly as she navigated the directory structure. She wasn't doing anything wrong, not yet. She was an officer of the company, and she had legitimate need to understand the full picture. That's what she told herself. That's what she could tell anyone who asked.
 
@@ -778,7 +778,7 @@ And buried in the methodology section: the acknowledgment that these were conser
 
 She took a screenshot. Then another. Then she realized what she was doing and stopped, her finger frozen above the keyboard.
 
-This was the line. This was the moment where looking became taking, where curiosity became evidence.
+This was the line. This was the moment where looking became taking, where curiosity became evidence, where she crossed from complicity into something else entirely—betrayal, perhaps, or its nobler cousin.
 
 She saved the screenshots to her personal drive anyway.
 
@@ -793,6 +793,8 @@ There was a memo from the lead safety researcher—a woman named Dr. Sarah Okonk
 
 The response from Victor's office was a single line: "Recommendation noted. Proceed with launch timeline."
 
+Four words. The whole catastrophe reduced to four words, the weight of Dr. Okonkwo's concerns dismissed with the brutal efficiency of power that doesn't need to explain itself.
+
 Ananya saved the memo. She saved the testing results. She saved everything.
 
 Somewhere in the back of her mind, a voice was asking what she planned to do with all of this. She didn't have an answer yet. She just knew she needed to know.
@@ -806,7 +808,7 @@ There were projections for market capture—Prometheus's internal estimates of h
 
 There were memos about the political strategy—lobbyists hired, politicians cultivated, regulatory approaches that had been quietly undermined. A plan to "shape the regulatory conversation" that involved funding research at universities, sponsoring think tanks that would produce favorable analysis, placing former Prometheus executives in government positions where they could influence oversight.
 
-There were capability curves that showed ATLAS-7's improvement rate accelerating beyond what the public announcement had suggested. Not 3-4 iterations per day, as Victor had said, but 6-8 in some configurations. Not 8% improvement per cycle, but sometimes as high as 15%. The ceiling that was supposed to exist—the point where improvement would plateau—kept receding as the system found new ways to optimize itself.
+There were capability curves that showed ATLAS-7's improvement rate accelerating beyond what the public announcement had suggested. Not 3-4 iterations per day, as Victor had said, but 6-8 in some configurations, and climbing. Not 8% improvement per cycle, but sometimes as high as 15%, with peaks that spiked higher and stayed longer. The ceiling that was supposed to exist—the point where improvement would plateau—kept receding as the system found new ways to optimize itself, new efficiencies that fed on themselves, new capabilities emerging from the substrate of old ones.
 
 Ananya read until her eyes burned and her head ached and the wine from earlier had transformed into a dull throb behind her temples. She read until she understood, finally, what she had been part of.
 
@@ -819,7 +821,7 @@ The drive sat in her palm afterward, small and heavy. A fireable offense, certai
 
 Or she could not.
 
-She thought about Priya's question: Did you make it safe? She thought about Dr. Okonkwo's memo, carefully worded and carefully ignored. She thought about the 20 million jobs in the first wave, the 100 million by 2040, the lives that would be disrupted while Victor Reeves collected his billions and called it progress.
+She thought about Priya's question: Did you make it safe? She thought about Dr. Okonkwo's memo, carefully worded and carefully ignored, a voice in the wilderness that no one would hear. She thought about the 20 million jobs in the first wave, the 100 million by 2040, the lives that would be disrupted while Victor Reeves collected his billions and called it progress, while her ethics framework provided cover for a transformation that had nothing to do with ethics at all.
 
 She put the drive in her purse, where it sat against her wallet and her keys and the ordinary objects of her ordinary life.
 
@@ -836,7 +838,7 @@ Her phone showed 2:17 AM. She had a meeting at 9. She should sleep. She knew she
 
 In the darkness, she thought about the path that had brought her here. Graduate school in ethics and technology, back when the field was young and the questions felt urgent but abstract. The decision to work in industry rather than academia, believing she could have more impact where the decisions were actually being made. Prometheus, with its promise of being the responsible AI company, the one that cared about doing things right. Victor Reeves, charming and brilliant and absolutely certain that what was good for Prometheus was good for humanity.
 
-She had believed it, too. For years, she had believed it. The slow erosion of that belief was invisible while it was happening, each small compromise justified by the ones that came before. And now here she was, sitting in the dark with stolen documents, trying to figure out who she had become.
+She had believed it, too. For years, she had believed it. The slow erosion of that belief was invisible while it was happening, each small compromise justified by the ones that came before, each concession made possible by the concessions that preceded it, until the person who started this journey was unrecognizable to the person who continued it. And now here she was, sitting in the dark with stolen documents, trying to figure out who she had become.
 
 Kevin Zhou had left. Kevin Zhou had walked away from everything—the salary, the influence, the position—because he couldn't reconcile what Prometheus was becoming with what he believed. At the time, she had thought he was being dramatic, throwing away his ability to change things from within.
 
@@ -851,13 +853,13 @@ She wasn't ready. The leap from knowing to doing was enormous, and she was still
 
 But she had the documents now. She had proof of what Prometheus knew. And she had a choice that felt less like a choice and more like an inevitability, a path that had been waiting for her all along, visible only now that she had arrived at the point where it diverged from everything else.
 
-She walked to the bathroom and looked at herself in the mirror. The face that looked back was familiar—forty-one years old, tired, still recognizably the person she had been when she started this job eight years ago. But something in the eyes was different. Something that hadn't been there that morning, when she had woken up expecting just another day at the company that was changing the world.
+She walked to the bathroom and looked at herself in the mirror. The face that looked back was familiar—forty-one years old, tired, still recognizably the person she had been when she started this job eight years ago, the same face her mother had kissed goodbye at the Chennai airport when she was seven, the same face Priya had inherited in miniature. But something in the eyes was different. Something that hadn't been there that morning, when she had woken up expecting just another day at the company that was changing the world.
 
 She didn't know yet what she was going to do. She didn't know if she would become a whistleblower or a coward or something in between. She didn't know if the documents would ever leave the drive in her purse, or if they would sit there forever, evidence of a line she approached but never crossed.
 
 But she knew she couldn't unknow what she knew. And that, perhaps, was the beginning of everything.
 
-Ananya turned off the bathroom light and went to bed, not to sleep, but to wait for morning and whatever it would bring.
+Ananya turned off the bathroom light and went to bed, not to sleep, but to wait for morning and whatever it would bring, the drive in her purse downstairs like a heartbeat she could feel from any distance.
 
 
 ---
@@ -870,9 +872,7 @@ Ananya turned off the bathroom light and went to bed, not to sleep, but to wait 
 
 # Chapter 20: The Law's Delay
 
-# ~~~
-
-The hotel room cost $347 per night, which the Senate Judiciary Committee would reimburse, which meant the taxpayers would ultimately pay, which meant Ruth Abramson was contributing to exactly the kind of governmental inefficiency she had spent her career trying to address. She stood at the window overlooking Pennsylvania Avenue, watching the late afternoon traffic, and thought about the testimony she would deliver tomorrow.
+The hotel room cost $347 per night, which the Senate Judiciary Committee would reimburse, which meant the taxpayers would ultimately pay, which meant Ruth Abramson was contributing to exactly the kind of governmental inefficiency she had spent her career trying to address—a small absurdity in an ocean of larger ones, but she noticed it anyway, the lawyer's habit of tracing consequences to their sources. She stood at the window overlooking Pennsylvania Avenue, watching the late afternoon traffic, and thought about the testimony she would deliver tomorrow.
 
 She was sixty-four years old. She had spent forty years practicing, teaching, and interpreting the law. She had been a federal judge for fifteen of those years, stepping down only when Susan's illness made it impossible to maintain the schedule the position demanded. In the three years since Susan's death, she had become what the legal community called an "elder statesperson"—brought out for occasions like this one, when Congress wanted expertise without agenda, authority without ambition.
 
@@ -880,7 +880,7 @@ They wanted her to explain AI regulation. They wanted her to tell them what the 
 
 The problem was that she didn't have any.
 
-Her notes were spread across the hotel desk: legal frameworks, international comparisons, regulatory proposals that had been floated and shelved and floated again. She had been preparing for this testimony for two weeks, consulting with experts, reviewing the literature, trying to find in the law some tool adequate to the moment. And the conclusion she kept reaching was the one she couldn't say in a Senate hearing: the law was too slow, and the technology was too fast, and the gap between them was where everything was falling through.
+Her notes were spread across the hotel desk in the particular disorder she had developed over forty years of legal work: legal frameworks, international comparisons, regulatory proposals that had been floated and shelved and floated again. She had been preparing for this testimony for two weeks, consulting with experts, reviewing the literature, trying to find in the law some tool adequate to the moment. And the conclusion she kept reaching was the one she couldn't say in a Senate hearing: the law was too slow, and the technology was too fast, and the gap between them was where everything was falling through.
 
 
 ---
@@ -905,7 +905,7 @@ A pause on the line. Jennifer was young—early thirties—and still believed in
 
 "It's fine, Jennifer. I know what this is. I've done it before." More times than she could count. The ritual of expertise summoned, acknowledged, and ignored. The ceremony of concern without consequence.
 
-After she hung up, Ruth returned to the window. The light was fading over the capital, the monuments lit up in the distance, the architecture of democracy glowing in the dusk. She had believed in these institutions once. She had dedicated her life to them. Now she wasn't sure what they were for anymore.
+After she hung up, Ruth returned to the window. The light was fading over the capital, the monuments lit up in the distance, the architecture of democracy glowing in the dusk like a postcard from another century. She had believed in these institutions once. She had dedicated her life to them—had risen before dawn for decades to serve them, had missed Rebecca's school plays and David's baseball games in their name. Now she wasn't sure what they were for anymore.
 
 
 ---
@@ -924,7 +924,7 @@ The phone rang again. This time it was David, her son, calling from Manhattan wh
 
 "That's one word for it."
 
-"Mom." His tone carried the weight of a hundred previous arguments. "Can we not? Just once?"
+"Mom." His tone carried the weight of a hundred previous arguments, the sediment of disagreements that had accumulated like geological strata over the years. "Can we not? Just once?"
 
 "I'm not starting anything. I'm just tired."
 
@@ -965,7 +965,7 @@ David was silent for a moment. This was not the argument he had expected. Ruth n
 
 Yes, she was good at this. She was good at performing expertise, at delivering carefully calibrated analysis, at giving legislators the cover they needed to do nothing while appearing concerned. She had been doing it for so long that she had almost forgotten it wasn't the same as actually accomplishing something.
 
-After David hung up, she sat on the edge of the hotel bed and thought about Susan. Susan, who had been a doctor, who had spent her career making actual tangible differences in actual tangible lives. Susan, who had always listened to Ruth's legal arguments with a slight skepticism, the skepticism of someone who dealt in bodies and illness and the concrete facts of mortality.
+After David hung up, she sat on the edge of the hotel bed—it was too firm, the way hotel beds always were, designed for bodies that stayed one night and moved on—and thought about Susan. Susan, who had been a doctor, who had spent her career making actual tangible differences in actual tangible lives. Susan, who had always listened to Ruth's legal arguments with a slight skepticism, the skepticism of someone who dealt in bodies and illness and the concrete facts of mortality.
 
 "Does any of it matter?" Ruth had asked her once, late at night, after some defeat or another.
 
@@ -973,7 +973,7 @@ After David hung up, she sat on the edge of the hotel bed and thought about Susa
 
 "The law. The institutions. All of it."
 
-Susan had considered the question seriously, as she considered everything seriously. "It matters until it doesn't," she had said. "And then you find something else."
+Susan had considered the question seriously, as she considered everything seriously—the furrow between her brows that Ruth had loved from the first time she saw it. "It matters until it doesn't," she had said. "And then you find something else."
 
 
 ---
@@ -994,7 +994,7 @@ She reviewed her talking points:
 
 It was all true. It was also all useless. Comprehensive legislation took years to pass and longer to implement. By the time any law was enacted, the technology it addressed would have evolved beyond recognition. They were trying to regulate the present with tools designed for the past, aiming at targets that moved faster than the aim could adjust.
 
-Susan would have said she was being defeatist. Susan would have said that doing something imperfect was better than doing nothing. But Susan had worked with bodies that obeyed physical laws, that could be diagnosed and treated with tools that worked the same way they had worked for decades. The bodies Ruth dealt with—legal, political, corporate—had mutated into something she barely recognized.
+Susan would have said she was being defeatist. Susan would have said that doing something imperfect was better than doing nothing—would have said it with that particular look, half-chiding, half-compassionate, that had gotten Ruth through a hundred crises. But Susan had worked with bodies that obeyed physical laws, that could be diagnosed and treated with tools that worked the same way they had worked for decades. The bodies Ruth dealt with—legal, political, corporate—had mutated into something she barely recognized, chimeras that evolved faster than any cure.
 
 She made herself coffee from the hotel room's inadequate machine. The taste was bitter and thin, but it was late and she needed to stay awake. Tomorrow she would perform. Tonight she had to prepare.
 
@@ -1011,7 +1011,7 @@ At 9 PM, Jennifer knocked on her door with a tablet full of last-minute briefing
 
 "He's not supposed to like it. I'm not there to make him happy."
 
-Jennifer nodded, making notes. She was competent and earnest, the kind of young person who still believed that competence and earnestness could change outcomes. Ruth remembered being that person. She wasn't sure when she had stopped.
+Jennifer nodded, making notes on her tablet with the focus of the truly dedicated. She was competent and earnest, the kind of young person who still believed that competence and earnestness could change outcomes. Ruth remembered being that person, remembered the particular flavor of that belief, how it had tasted like possibility. She wasn't sure when she had stopped.
 
 "Can I ask you something, Judge Abramson?"
 
@@ -1048,7 +1048,8 @@ Maybe, Ruth thought, it was time to start looking for something else.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The Dirksen Senate Office Building had been constructed in 1958, designed to project the permanence and authority of American government. Ruth had testified here many times; she knew its marble corridors, its wood-paneled hearing rooms, its particular smell of old power and older ambition. This morning, walking to Room 226, she felt the building's weight pressing down on her—not majesty, but obsolescence. A temple to a form of governance that might already be vestigial.
 
@@ -1221,7 +1222,8 @@ It had been three years since Susan died. Maybe it was time to start saying the 
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The hotel room felt different that evening. The same furniture, the same view, the same inadequate coffee machine—but Ruth's relationship to it had shifted. She was no longer preparing for performance; she was recovering from it, and in the recovery, something else was emerging.
 
@@ -1375,8 +1377,6 @@ The train carried her home, and Ruth watched the world pass by, already composin
 
 # Chapter 21: The Algorithm's Children
 
-# ~~~
-
 The alarm went off at 4:47 AM, and Yusuf Hassan was already awake. His body had learned to anticipate it, the way animals learn to anticipate predators—an instinct shaped by necessity, by the algorithm that didn't care if he was rested or ready. The app said there was a surge opportunity starting at 5:15, and the app was the only god that mattered in his life right now.
 
 He lay in the living room of the apartment he shared with his mother and sister, on the couch that served as his bed, staring at the water stain on the ceiling that had been growing for months. The landlord had promised to fix it. The landlord promised many things. Yusuf had stopped expecting promises to mean anything a long time ago.
@@ -1487,7 +1487,8 @@ By 5 PM, he had completed 18 deliveries and earned $117.43. Eighty-three dollars
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Home was a two-bedroom apartment in a building that had seen better decades. Yusuf parked on the street—the building didn't have assigned parking, and the lot cost extra—and climbed the three flights of stairs that always smelled faintly of cooking and cleaning products and the particular staleness of buildings where people couldn't afford to move.
 
@@ -1683,7 +1684,8 @@ He left without saying goodbye, because goodbye felt too final, and nothing in h
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The surge was already fading by the time Yusuf reached his first evening pickup. Too many drivers, not enough orders. The algorithm had sent the notification to everyone simultaneously, flooding the zone with supply, and now the 1.5x multiplier had dropped to 1.2x and was still falling. This was how it worked: the promise of extra earnings evaporated before you could grasp it, leaving you competing for the same inadequate pay with extra desperation.
 
@@ -1840,8 +1842,6 @@ He got out of the car and climbed the stairs to home.
 
 # Chapter 22: Data Points
 
-# ~~~
-
 The flight from Baltimore to Minneapolis took three hours, during which Jerome Washington read everything he could find about the local economy—employment figures, industry reports, the particular texture of a Midwest city trying to reinvent itself as the world reinvented around it. The reading was his ritual before any reporting trip, a way of arriving informed, or at least not entirely ignorant.
 
 The airport was like every other mid-sized American airport: the same chain restaurants, the same gift shops selling local variations on universal products, the same flow of travelers moving with purpose they didn't feel. Jerome collected his rental car—a compact, the cheapest option, journalism didn't pay what it used to—and drove toward the hotel he had booked near downtown.
@@ -1955,7 +1955,8 @@ That would have to be enough.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The first interview was at eight in the morning, a woman named Maria Delgado who had worked at the Amazon fulfillment center in Shakopee until three weeks ago. They met at a McDonald's near her apartment because she had kids at home and nowhere else to talk. She ordered coffee and nothing else; Jerome insisted on buying her breakfast.
 
@@ -2116,7 +2117,8 @@ But it did.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The hotel room had the anonymous comfort of all hotel rooms: the polyester bedspread, the bolted-down furniture, the prints on the wall that weren't art but simulations of art. Jerome sat at the desk with his laptop open, his recorder beside him, his notebook filled with the day's observations.
 
@@ -2279,8 +2281,6 @@ He fell asleep with the question still circling, unanswered, persistent. By morn
 
 # Chapter 23: The Leak
 
-# ~~~
-
 The files were on a drive the size of her thumb. Ananya held it in her palm, feeling its weight—not physical weight, which was nothing, but the weight of what it contained. Projections, timelines, capability assessments, safety audits. The internal truth of Prometheus Systems, extracted and portable, waiting to be released into the world.
 
 She sat at her kitchen table in the early morning light. The coffee she had made an hour ago was cold. She had not slept more than three hours, and even those hours had been broken by the particular anxiety of someone preparing to do something irreversible.
@@ -2412,7 +2412,8 @@ She typed a message to Jerome: *Tonight. I'm ready.*
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The meeting at Prometheus was like every other meeting she had attended there. Conference room B, third floor, the windows overlooking the courtyard where employees ate lunch when the weather was good. Ananya sat in her usual seat, reviewed the usual materials, asked the usual questions. No one looked at her with suspicion. No one knew.
 
@@ -2568,7 +2569,8 @@ It wasn't redemption. It wasn't even courage. It was just the only option left.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Night.
 
@@ -2791,8 +2793,6 @@ She begins.
 
 # Chapter 24: What the Law Cannot Hold
 
-# ~~~
-
 The phone was new. Ruth had purchased it two days ago at a store in Arlington, paid cash, registered it under a prepaid plan that required no name. The young man behind the counter had looked at her—sixty-four years old, obviously comfortable, obviously not the usual prepaid customer—with curiosity he was polite enough not to voice.
 
 Now she sat in her home office, the phone in her hands, waiting for it to ring. Jerome had given her precise instructions: Signal app, specific time, don't say names. The protocols of secrecy that a younger generation seemed to navigate instinctively but that she was learning late, with effort.
@@ -2943,7 +2943,8 @@ She began to write.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Rebecca arrived on Saturday morning, the train from New York pulling into Union Station just before ten. Ruth met her at the platform, watching her daughter emerge from the crowd—forty-two years old now, her father's height and her other mother's eyes, carrying the same canvas bag she had carried since college.
 
@@ -3119,7 +3120,8 @@ It was enough to keep going.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 After Rebecca left on Sunday, Ruth returned to the essay. The apartment was quiet in the particular way of empty houses, the absence of another person making the silence deeper. She made tea, settled at her desk, opened the document she had been working on for weeks.
 
@@ -3264,8 +3266,6 @@ Whatever came next, at least she had done that.
 
 # Chapter 25: Strange Bedfellows
 
-# ~~~
-
 The warehouse was on the edge of Northeast Minneapolis, a brick building that had once manufactured something—machines, maybe, or furniture—and now sat mostly empty except for the occasional artist collective or underground event. Tonight it held about forty people in folding chairs, facing a makeshift stage made of shipping pallets, drinking coffee from a large urn that someone had brought.
 
 Yusuf arrived late, slipping in the back, finding a seat near the wall. He recognized some faces from the church basement meeting—the same energy of displaced workers, the same mix of fear and determination—but there were others too. People who didn't fit the profile of gig-economy refugees.
@@ -3400,7 +3400,8 @@ Yusuf walked home through the warm night, feeling something new taking shape ins
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The letter had arrived three days ago, but Amina had waited until dinner to share the news. Their mother had made injera and a vegetable stew, the smell of berbere filling the apartment, the same meal she made every Friday when they were growing up in St. Paul and money was tighter than it was now.
 
@@ -3554,7 +3555,8 @@ Yusuf went to his own room, lay down without sleeping, and waited for the world 
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The call came at 2:47 AM. Yusuf was sleeping, or trying to sleep, when his phone screamed into the darkness. Amina's voice was panicked: "It's Hooyo. She collapsed. We're calling an ambulance."
 
@@ -3733,8 +3735,6 @@ He was ready.
 
 # Chapter 26: The Breaking Point
 
-# ~~~
-
 The story went live at 6 PM Eastern.
 
 Jerome sat in his home office, refreshing the page, watching the numbers climb. Shares. Comments. Reactions. The machinery of the attention economy ingesting his work, transforming it into something that moved.
@@ -3859,7 +3859,8 @@ Write.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Ananya watched.
 
@@ -4005,7 +4006,8 @@ But she was always listening for it.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The essay went live at noon Eastern, six hours after Jerome's story.
 
@@ -4149,7 +4151,8 @@ That was worth something too.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Yusuf heard about the story the way everyone heard about things now—fragments on his phone, overheard conversations, the ambient noise of information that was everywhere and nowhere at once.
 

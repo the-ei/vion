@@ -1,5 +1,3 @@
-# ~~~
-
 The hotel room was nicer than Ruth needed, but the university had insisted. A suite at the Omni, overlooking the New Haven Green, the kind of accommodation reserved for distinguished lecturers who had earned the right to be comfortable. Ruth sat at the desk in the early morning light, reviewing her notes for the last time, and tried to remember when comfort had begun to feel like obligation.
 
 Her body reminded her constantly now of its age. The stiffness in her hips when she rose from the chair, the extra moment needed to straighten fully, the careful negotiation with knees that had served her for sixty-eight years and were beginning to object. She had learned to accommodate these limitations without complaint, to build in extra time for everything, to move with the deliberation that age required.
@@ -73,7 +71,8 @@ Ruth nodded to no one, closed her notes, and began to pace the room, rehearsing 
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The lecture hall was a modern addition to the law school, all glass and light wood, designed to signal that Yale was not trapped in its traditions even as it honored them. Ruth stood at the podium looking out at a room that was nearly full - faculty in the front rows, students behind them, then visitors, observers, the curious public who had come to hear what she would say.
 
@@ -193,7 +192,8 @@ The applause continued, and Ruth allowed herself, finally, to feel what she had 
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The Q&A session followed the applause, moderated by a young professor Ruth did not know well but who handled the microphone duties with competence. Hands went up throughout the audience, and Ruth prepared herself for the questions that would test what she had said.
 
@@ -301,7 +301,8 @@ The reception pulled her forward, the crowd still wanting pieces of her attentio
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Ruth walked Yale's campus in the evening light, alone for the first time since morning. The lecture was over, the reception had wound down, her children had departed for their hotels with promises to have breakfast together before flying home. What remained was this: the campus at dusk, the place where her career had begun, the paths she had walked fifty years ago as a student believing everything was possible.
 

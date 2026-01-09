@@ -1,8 +1,8 @@
-Delphine woke to the sound of Theo making breakfast, which meant Jessie was letting him use the stove again, which meant Jessie had decided that twelve was old enough for scrambled eggs. The smell of butter and burning bread drifted through the bedroom door, and Delphine lay for a moment in the gray Los Angeles morning, not ready to face the day.
+Delphine woke to the sound of Theo making breakfast, which meant Jessie was letting him use the stove, which meant Jessie had decided that twelve was old enough for scrambled eggs. The smell of butter and burning bread drifted through the bedroom door, and Delphine lay for a moment in the gray Los Angeles morning, not ready to face the day.
 
 This was the day. The premiere. Two years of work about to be shown to people who would judge it, critique it, consume it, forget it. The documentary that had started as an attempt to make sense of the Eighth Oblivion and had become, somewhere along the way, a meditation on the impossibility of making sense of anything through the medium of narrative.
 
-She reached for her phone. A message from her mother in London, sent hours ago because of the time difference.
+She reached for her phone. A message from her mother in London, sent hours ago for the time difference.
 
 *Thinking of you, cariad. Your father would be so proud. I'm watching from here, in spirit.*
 
@@ -19,7 +19,7 @@ This film was different from everything she had made before. Not commercial, not
 
 The fear was that no one would understand. The deeper fear was that they would understand and find it lacking.
 
-She got up, showered, moved through the morning rituals that had nothing to do with documentary premieres. Theo was at the table eating his slightly burned toast with an expression of satisfaction. Jessie was reading something on her tablet, coffee steaming beside her.
+She got up, showered, moved through the morning rituals that had nothing to do with documentary premieres. Theo sat at the table eating his slightly burned toast with an expression of satisfaction. Jessie was reading something on her tablet, coffee steaming beside her.
 
 "Morning," Jessie said without looking up. "How are you feeling?"
 
@@ -50,7 +50,7 @@ She typed back: *I'm scared.*
 
 *I know. That's why it matters.*
 
-The friendship with Ananya had become central to Delphine's life in ways she hadn't anticipated. They had met in the chaos of the crisis years, had found in each other a shared concern about ethics and meaning in an industry that often lacked both. Ananya from the tech side, Delphine from the media side, both of them grappling with complicity, with the question of how to do good work in systems that did harm.
+The friendship with Ananya had become central to Delphine's life in ways she had not anticipated. They had met in the chaos of the crisis years, had found in each other a shared concern about ethics and meaning in an industry that often lacked both. Ananya from the tech side, Delphine from the media side, both of them grappling with complicity, with the question of how to do good work in systems that did harm.
 
 Ananya would be at the premiere tonight. She had flown in from San Francisco, had rearranged her schedule, had insisted on being there for this. Their friendship existed in video calls and text messages and occasional visits, but it was real, it was deep, it was the kind of connection Delphine had not expected to find in middle age.
 
@@ -63,7 +63,7 @@ She looked up from her phone. Jessie was watching her.
 
 This was true. The film existed. Two years of labor crystallized into ninety minutes that would be projected tonight onto a screen for strangers to watch. Whatever Delphine had meant by it, whatever she had tried to say about the decade they had all lived through, was now fixed, permanent, separate from her intentions.
 
-That was the terrifying gift of finishing something. It belonged to the world now, not to her.
+That was the terrifying gift of finishing. It belonged to the world now, not to her.
 
 She thought about what she would say if asked about it. The interviews and panel discussions that would come if the film succeeded, the silence that would come if it didn't. She had rehearsed answers in her mind, had crafted sentences about narrative refusal and ethical witnessing and the impossibility of closure. But under all the careful language was something simpler: she had wanted to show what couldn't be shown, to say what couldn't be said. She had wanted to make something honest in an industry built on manipulation.
 

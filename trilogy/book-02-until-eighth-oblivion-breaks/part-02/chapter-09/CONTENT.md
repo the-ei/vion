@@ -1,5 +1,3 @@
-# ~~~
-
 The Bay Bridge at dusk held a specific kind of beauty, Jerome thought, the kind that requires ugliness as context. The water below gray and churned, the East Bay hills brown from another dry winter, the San Francisco skyline behind him catching the last light in ways that seemed designed for postcards rather than habitation. He had driven this bridge hundreds of times, maybe thousands, and he still looked. That was something.
 
 His phone had been lighting up all afternoon with reader responses to his latest Substack post, a piece on algorithmic content moderation that had felt, as he finished it at three in the morning two days ago, like the most important thing he'd ever written. Now, in the amber light of the bridge, it seemed small. Technical. A problem for engineers to solve, not journalists to expose.
@@ -61,7 +59,8 @@ Absence of religious signifiers. Deliberate? What does it signal?
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The service, if that was the right word, began without announcement. Nathaniel Crane simply walked to the platform, sat in the chair, and surveyed the gathered congregants with an expression Jerome could not immediately categorize. Not the studied warmth of a televangelist, nor the calculated intensity of a tech founder pitching to investors. Something closer to the patience of a teacher who understands the lesson will take as long as it takes.
 
@@ -170,7 +169,8 @@ Jerome considered several responses, chose honesty. "The names. The names of the
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Crane led him through a side door into what had once been an office - small, square, the walls covered with whiteboards dense with diagrams and equations Jerome could not follow but recognized as technical rather than mystical. A desk, two chairs, a window looking out at the parking lot. The detritus of a life organized around pursuit of understanding.
 
@@ -272,7 +272,8 @@ This Jerome had not known. But it fit patterns he had seen.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The interview had stretched to an hour when Crane reached into his desk drawer and produced a small object - a flash drive, black, unremarkable. He placed it on the desk between them.
 
@@ -340,7 +341,8 @@ Jerome didn't have a response to that. He walked out into the Oakland night, the
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The flight from Oakland touched down at BWI just after midnight. Jerome had texted Denise from the plane - landing late, don't wait up - and she had responded with a simple thumbs-up that could have meant anything from acceptance to resignation. He drove the familiar route from the airport, the Baltimore suburbs dark and quiet, the streetlights casting orange pools on empty sidewalks.
 

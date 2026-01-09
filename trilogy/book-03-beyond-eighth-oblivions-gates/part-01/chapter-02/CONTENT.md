@@ -1,5 +1,3 @@
-# ~~~
-
 The drive from his house in Roland Park to Grace's place in Northwood took twenty-three minutes on a good day, and Jerome made it every morning regardless of what else demanded his time. Traffic moved differently now than it had five years ago - the autonomous vehicles flowing in algorithmic patterns that were more efficient but somehow less human, as if the city itself had become a machine optimizing throughput without understanding what the throughput was for, what it meant to move bodies through space toward places they needed to be.
 
 He pulled into Grace's driveway at 7:15, the same time he always arrived. Her house was a modest colonial, white trim needing paint, the kind of place their parents would have saved for years to afford and considered a triumph. Now Grace owned it outright, had moved their mother here three years ago when the dementia made living alone impossible, had converted the dining room into a bedroom with hospital equipment and a view of the backyard where nothing grew that required attention.
@@ -162,7 +160,8 @@ She came around the island and kissed him, a brief touch that carried twenty-fiv
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The home studio was in the basement - a space Jerome had converted five years ago when the pandemic before the crisis had made remote work mandatory and staying productive had required physical separation from the domestic rhythms upstairs. Soundproofing on the walls, a professional microphone setup, a background of bookshelves carefully arranged to suggest scholarship without ostentation. The apparatus of serious conversation.
 
@@ -342,7 +341,8 @@ Some things couldn't be written. They had to be lived through first.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 DeShawn arrived at six-thirty, twenty minutes late, with the particular energy of someone who was always moving toward the next thing. He came through the front door like a disruption - tall, handsome, carrying himself with a confidence that Jerome recognized as both inheritance and something else entirely, something that belonged only to DeShawn and his generation. His son, but not his son. A person shaped by forces Jerome had documented but never fully understood.
 

@@ -1,4 +1,4 @@
-Denise returned at noon. She had not made it to the school; the traffic lights on 33rd Street were out, causing gridlock, and when she finally reached the building she found it locked, a paper sign on the door saying CLOSED UNTIL FURTHER NOTICE in hasty handwriting.
+Denise returned at noon, her face flushed from the heat outside. She had not made it to the school; the traffic lights on 33rd Street were out, causing gridlock that stretched for blocks, and when she finally reached the building she found it locked, a paper sign on the door saying CLOSED UNTIL FURTHER NOTICE in hasty handwriting, the letters uneven as if the hand that wrote them had been shaking.
 
 "Someone taped that up this morning," she said. "Handwritten. No one knows anything."
 
@@ -10,7 +10,7 @@ She moved through the apartment with purpose, opening cabinets, taking inventory
 
 "You think this is going to last that long?"
 
-"I think we don't know how long it's going to last. I think we should assume the worst and be grateful if it's better."
+"I think we don't know how long it's going to last, and that's the point. I think we should assume the worst and be grateful if it's better."
 
 She was right, of course. She was usually right about practical matters, the things that required action rather than analysis. Jerome had spent the morning trying to understand, and Denise was spending the afternoon preparing. They had always been this way, complementary in their approaches, and he had always admired her practicality even when it made him feel like a dreamer lost in abstractions.
 
@@ -31,7 +31,7 @@ Denise resumed her inventory, but her movements had slowed, become more delibera
 
 "I know."
 
-They both knew they were saying these things because they needed to say them, not because they believed them. DeShawn was twenty-six years old, a grown man, capable and intelligent. But he was also their son, the child they had raised and worried over and disagreed with and loved through every phase of his life. The distance between Baltimore and the Bay Area, where DeShawn worked, had never felt so vast.
+They both knew they were saying these things because they needed to say them, because the alternative was to say nothing and let the fear take shape in the silence between them. DeShawn was twenty-six years old, a grown man, capable and intelligent. But he was also their son, the child they had raised and worried over and disagreed with and loved through every phase of his life. The distance between Baltimore and the Bay Area, where DeShawn worked, had never felt so vast, so uncrossable, so much like an ocean that could not be navigated.
 
 "Mrs. Patterson," Denise said, shifting topics. "Have you checked on her?"
 
@@ -64,7 +64,7 @@ She was quiet for a moment, organizing cans in the pantry, her back to him.
 
 "Nothing was going to prevent this. You said so yourself. The systems were too fragile, too interconnected, too dependent on things that couldn't be protected. You told the truth about that. Whether anyone acted on it wasn't up to you."
 
-It was the absolution he needed, and he resented needing it. He had always believed that journalism could change things, that informing the public was the first step toward reform, that light and truth would lead to action. And maybe it had, sometimes, in small ways. But here, now, with the systems failing exactly as he had predicted, the light and truth felt like nothing more than a record of a disaster no one had bothered to avert.
+It was the absolution he needed, and he resented needing it, resented her for giving it, resented himself for accepting it. He had always believed that journalism could change things, that informing the public was the first step toward reform, that light and truth would lead to action. And maybe it had, sometimes, in small ways, in cases no one remembered, in reforms that came too late. But here, now, with the systems failing exactly as he had predicted, the light and truth felt like nothing more than a record of a disaster no one had bothered to avert, a chronicle of a collapse no one had bothered to prevent.
 
 "Go see Mrs. Patterson," Denise said. "Help someone. It'll be good for you."
 
@@ -91,7 +91,7 @@ The door was ajar, propped open with a book, a thick hardcover that looked like 
 
 "I don't know. Travel might be affected."
 
-Mrs. Patterson nodded, unsurprised. She had lived through enough to know that uncertainty was the natural state of the world, that plans were always provisional, that the future was never guaranteed.
+Mrs. Patterson nodded, unsurprised. She had lived through enough to know that uncertainty was the natural state of the world, that plans were always provisional, that the future was never guaranteed, only borrowed.
 
 "Would you like some tea?" she asked. "The stove still works. Gas, you know. Old-fashioned."
 

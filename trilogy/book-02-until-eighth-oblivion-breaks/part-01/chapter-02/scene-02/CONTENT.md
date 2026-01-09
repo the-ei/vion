@@ -119,13 +119,13 @@ They shared a laugh - the dark humor that sustained healthcare workers, the joke
 
 "Amara."
 
-"I'm not being cynical. I'm being accurate. We don't save people here, Elena. We slow down the damage. We give them a few more good days, a few more years if we're lucky. The saving - that would require changing the systems that are breaking them. And we don't do that. We can't do that from here."
+"I'm not being cynical. I'm being accurate. We don't save people here, Elena. We slow down the damage. We give them a few more good days, a few more years if we're lucky. The saving - that would require changing the systems that are breaking them. And we don't do that. We can't do that from here. We're downstream of the poison. The most we can do is filter it as it passes through."
 
 Elena wanted to argue, but she didn't have the energy, and she wasn't sure Amara was wrong. She returned to the exam rooms, to the queue that never emptied, to the bodies that arrived carrying more than she could treat. The diabetic grandmother, the construction worker, the anxious teenager - they would go home to lives the clinic couldn't touch, to economic pressures and environmental stressors and the accumulated weight of a system designed to extract rather than sustain.
 
 She saw fourteen more patients before break. She documented every one. She ordered tests and wrote referrals and adjusted medications and listened - the listening was the part insurance didn't reimburse but the part that sometimes mattered most.
 
-By noon she was hollowed out, running on coffee and habit, ready for the brief rest that wouldn't be enough.
+By noon she was hollowed out, running on coffee and habit and the sertraline that kept her steady enough to function, ready for the brief rest that wouldn't be enough but would have to be.
 
 
 ---

@@ -1,5 +1,3 @@
-# ~~~
-
 The list was written on the back of a pharmaceutical pamphlet, the kind that used to arrive by the boxful, glossy paper extolling the virtues of medications Elena could no longer obtain. She had torn off the cover image - a smiling woman holding her grandchild, presumably free of joint pain - and turned to the blank reverse side. There, in her own handwriting, which had grown smaller and more precise over the past week as if compressing each letter might somehow conserve the ink, she had written the names.
 
 Thirty-seven names. Thirty-seven people whose continued existence depended on substances that were running out or already gone.
@@ -78,7 +76,8 @@ If there was anything left to return to.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 She was changing the dressing on a child's infected scrape - a boy, maybe eight, who had fallen from a tree while his mother was distracted by something more urgent - when she looked up and saw him in the doorway.
 
@@ -154,7 +153,8 @@ He did not answer. But he squeezed her hand once, tight, and that was enough.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 By noon, Maria Gutierrez had stopped being able to keep water down.
 
@@ -260,7 +260,8 @@ Something was hardening inside her. Something cold and clear. She did not know y
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The man's name was Jerome Wallace, and he had walked eight miles to deliver the news.
 
@@ -343,7 +344,8 @@ They were stealing. She knew that. But the word had lost its meaning somewhere i
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 They returned to the clinic at ten.
 

@@ -1,5 +1,3 @@
-# ~~~
-
 The papers were mediocre. Ruth had been grading for three hours, her reading glasses sliding down her nose, her coffee growing cold on the desk beside her. Third-year law students writing about constitutional interpretation, most of them competent but uninspired, recycling arguments she had read a hundred times before. The afternoon light slanted through the study windows, catching the dust motes that drifted above her father's old desk - the one she had inherited when he died, the one Susan had always said was too large for the room but which Ruth could not bear to replace.
 
 Her phone rang. The caller ID showed a D.C. number she did not recognize, and for a moment she considered letting it go to voicemail. But something - call it judicial instinct, call it the particular quality of attention she had developed over decades on the bench - made her answer.
@@ -67,7 +65,8 @@ Something had changed, and she could not pretend it had not.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Ruth began with Harold Steinberg, who had been on the Ninth Circuit with her for twelve years before his retirement. Harold was sharp, connected, still plugged into the judicial network in ways that someone fully retired could never be. He answered on the second ring, pleased to hear from her, and they spent five minutes on pleasantries before Ruth steered the conversation toward purpose.
 
@@ -139,7 +138,8 @@ Tonight she stood in her study and felt the weight of everything she had learned
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The tightness in her chest came three days later, in the middle of the morning, while she was reading a law review article on administrative procedure. One moment she was fine, annotating in the margins with her usual precision; the next moment she could not breathe, could not sit upright, could only grip the edge of her desk and wait for the sensation to pass.
 
@@ -202,7 +202,8 @@ Today she would sit with the knowledge that her time was finite, and decide what
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Rebecca arrived for dinner looking like she had aged a decade in the months since Ruth had last seen her in person. Dark circles under her eyes, a tightness in her jaw that spoke of chronic stress, the particular exhaustion of someone who cared about work that was becoming impossible.
 
@@ -273,7 +274,8 @@ Rebecca nodded slowly. "Mom would have approved."
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The cafe was in Rockridge, close enough to Rebecca's office that Ruth could pretend the trip was partly to see her daughter, though they both knew the real purpose. It was a bright morning, the Oakland hills visible through the window, the particular clarity of Bay Area spring light that made everything seem more vivid than it should.
 

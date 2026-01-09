@@ -1,4 +1,4 @@
-The lobby smelled the same. That particular mix of cigarette smoke and audio equipment, of late nights and creative desperation. The walls were covered with album artwork, most of it from artists Yusuf didn't recognize but some from people he knew, people he had worked alongside in the years before everything changed.
+The lobby smelled the same. That particular mix of cigarette smoke and audio equipment, of late nights and creative desperation, of hope and its opposite. The walls were covered with album artwork, most of it from artists Yusuf didn't recognize but some from people he knew, people he had worked alongside in the years before everything changed.
 
 "Holy shit."
 
@@ -31,7 +31,7 @@ The equipment had changed but the room hadn't. The same acoustic panels on the w
 
 "How's business?"
 
-"We survive. Some months better than others. The neighborhood money helps - these tech bros want to pretend they're artists on the weekends, I'm happy to take their cash." He settled into his chair behind the board. "What about you? What brings you back?"
+"We survive. Some months better than others, but we survive. The neighborhood money helps - these tech bros want to pretend they're artists on the weekends, I'm happy to take their cash and make them sound halfway decent." He settled into his chair behind the board. "What about you? What brings you back?"
 
 Yusuf sat on the couch. The cushions remembered his shape, or maybe he was imagining that.
 

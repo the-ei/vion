@@ -1,5 +1,3 @@
-# ~~~
-
 The hospice room had a window that looked onto nothing in particular - a parking lot, a strip of dead grass, the back of another building. Jerome had spent enough hours in this room to know every detail of that view: the way the light changed through the day, the birds that sometimes landed on the grass, the cars that came and went in patterns that suggested shift changes, visiting hours, the schedules of dying.
 
 His mother lay in the bed, her breathing shallow and regular, the monitors beside her tracking rhythms that meant less and less as each day passed. She had been in this twilight for two weeks now, present but not present, her eyes sometimes opening to focus on nothing, her lips moving occasionally without sound.
@@ -127,7 +125,8 @@ He stayed with her until the night shift arrived.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Denise arrived first, still in her teaching clothes, her coat pulled on over a cardigan, her bag heavy with ungraded papers she would not look at tonight. She came into the hospice room with the particular competence of someone who had done this before, who knew the geography of medical crisis, who could navigate the emotions of hospitals without losing herself.
 
@@ -198,7 +197,7 @@ This was a barb, possibly, or possibly just a statement. Jerome had not always m
 
 "Fine. Busy." DeShawn pulled up a chair, joining the circle around the bed. "We're launching something next month. I can't really talk about it yet."
 
-Jerome nodded. This was the territory where they could not meet: DeShawn's work at a company that Jerome had written skeptically about, the technology that the son was building and the father was questioning. They had learned to navigate around it, to find other subjects, but it sat between them always.
+Jerome nodded. This was the territory where they could not meet: DeShawn's work at a company Jerome had written skeptically about, the technology the son was building and the father was questioning. They had learned to navigate around it, to find other subjects, but it sat between them always.
 
 "Your grandma asked about you," Jerome said. "When she was lucid. She wanted to know if I had children."
 
@@ -227,7 +226,7 @@ Later, when the hospice staff came to check vitals and adjust the morphine drip,
 
 "I tried to get her to teach me," Denise said. "She kept saying next time, next time. And then—" She stopped. And then the dementia had come, and the recipe had gone wherever lost things go.
 
-"DeShawn, did she ever make you that cake?" Patricia asked.
+"DeShawn, she ever make you that cake?" Patricia asked.
 
 "A few times when I was little. I remember the frosting. She let me lick the bowl."
 
@@ -243,9 +242,10 @@ The coffee grew cold. The night deepened. The family waited.
 
 
 
-# ~~~
 
-The night took on the quality that only vigils have: suspended, stretched, both endless and too fast. They rotated between the bedside and the waiting room, two at a time keeping watch while the others tried to rest on couches that were not designed for sleeping. Jerome stayed mostly at the bed, unwilling to miss another window if one came.
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
+
+The night took on the quality that only vigils have: suspended, stretched, both endless and too fast. They rotated between the bedside and the waiting room, two at a time keeping watch while the others tried to rest on couches never designed for sleeping. Jerome stayed mostly at the bed, unwilling to miss another window if one came.
 
 DeShawn brought him a fresh coffee around midnight. "You should rest," he said.
 
@@ -268,7 +268,7 @@ Jerome looked at his mother's face, searching for the young woman he had known o
 
 ---
 
-Jerome was surprised that DeShawn knew about Marcus Jr. - the brother named after their father, born between Patricia and Jerome, who had died at four from an illness the doctors couldn't diagnose. He was a shadow in the family's history, rarely spoken of, the grief that had never fully healed.
+Jerome was surprised DeShawn knew about Marcus Jr. - the brother named after their father, born between Patricia and Jerome, who had died at four from an illness no doctor could diagnose. He was a shadow in the family's history, rarely spoken of, the grief that had never fully healed.
 
 "He died before I was born. Mama kept his picture in her bedroom. She never talked about him, but I knew she never stopped thinking about him."
 
@@ -303,7 +303,7 @@ This was more honesty than DeShawn had offered in years. Jerome tried not to rea
 
 "That's a good thing to wonder about."
 
-"It's a hard thing to wonder about. When you're inside the system, when you're building it, you see it one way. From the outside, the way you see it, it looks different. I don't know which view is right."
+"It's hard to wonder about. When you're inside the system, when you're building it, you see it one way. From outside, the way you see it, it looks different. I don't know which view is right."
 
 "Maybe both are right," Jerome said. "Maybe the truth is somewhere in the middle. That's what I found, usually. The people building things aren't villains, mostly. They believe in what they're making. But the effects of what they make are real too, and they don't always see them."
 
@@ -316,7 +316,7 @@ The conversation was interrupted by a change in his mother's breathing - a hitch
 
 "For now."
 
-They sat together in the silence, something between them shifting. Jerome felt it: the distance that had grown over years of disagreement and absence was narrowing, not through resolution but through presence. They were here together. That was its own kind of truth.
+They sat together in the silence, something between them shifting. Jerome felt it: the distance grown over years of disagreement and absence was narrowing, not through resolution but through presence. They were here together. That was its own kind of truth.
 
 Dawn came slowly, gray light creeping through the window that looked onto nothing. Patricia and Denise returned from the waiting room, bearing more coffee, bearing the tired patience of the long watch. The family rearranged itself around the bed, and the waiting continued.
 
@@ -335,7 +335,7 @@ He was still holding her hand. He made himself let go.
 
 Patricia was crying, the grief she had held back releasing now that there was nothing left to wait for. Denise moved to comfort her, the two women who had never been close finding something shared in this moment. DeShawn stood at the foot of the bed, his face still, his eyes wet.
 
-Jerome did not cry. Not yet. The tears would come later, he knew, in private, in the middle of some ordinary moment when the reality would hit him again. For now he was empty, hollowed out, a vessel that had held too much for too long.
+Jerome did not cry. Not yet. The tears would come later, he knew, in private, in the middle of some ordinary moment when the reality struck him again. For now he was empty, hollowed out, a vessel that had held too much for too long.
 
 The hospice staff was efficient and kind. There were forms to sign, calls to make, the bureaucracy of death that continued regardless of grief. Jerome moved through it mechanically, answering questions, making decisions. Patricia handled some of it, her social work training kicking in. Denise kept everyone fed, kept coffee appearing, kept the practical world running.
 
@@ -349,9 +349,10 @@ The body was prepared for transport. The room was cleared. The window that looke
 
 
 
-# ~~~
 
-Jerome walked out of the hospice building into Baltimore's winter morning. The air was sharp, cold in a way that felt clarifying after the overheated stillness of the death room. He stood on the sidewalk and breathed it in, feeling his lungs expand, feeling his body confirm that it was still alive, still working, still breathing without effort.
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
+
+Jerome walked out of the hospice building into Baltimore's winter morning. The air was sharp, cold in a way that felt clarifying after the overheated stillness of that room. He stood on the sidewalk and breathed it in, feeling his lungs expand, feeling his body confirm that it was still alive, still working, still breathing without effort.
 
 The sky was the gray of early January, the color of waiting, of patience that has not yet been rewarded. A few cars moved through the parking lot. A bus passed on the street. The city was waking to a day that was, for most people, merely another Tuesday.
 
@@ -370,7 +371,7 @@ She had asked him if he did right. She had asked him if they listened.
 
 Some of them. Sometimes.
 
-He had spent his career telling truths that had not changed the world. The investigations he had poured himself into, the sources he had protected, the articles that had won awards and generated outrage and been forgotten - all of it had been worth doing, worth the sacrifices he had made, worth the time away from family and the strain on his marriage and the financial insecurity of independent journalism. Hadn't it?
+He had spent his career telling truths that had not changed the world. The investigations he had poured himself into, the sources he had protected, the articles that had won awards and generated outrage and been forgotten - all of it had been worth doing, worth the sacrifices, worth the time away from family and the strain on his marriage and the financial insecurity of independent journalism. Hadn't it?
 
 He was no longer sure. Or rather, he was sure that certainty was the wrong frame. The truth mattered not because it changed things, but because it was the truth. His mother had understood this. The practice of truthfulness, the commitment to honesty, the willingness to say what was real regardless of consequences - this was its own reward, its own justification.
 
@@ -391,7 +392,7 @@ DeShawn came to stand beside him, looking out at the parking lot, at the city be
 
 Jerome looked at his son, surprised by the concession. "You think so?"
 
-"I've read your work more carefully since I started working in tech. You saw things that were really there. Things that are still there. The surveillance, the algorithmic control, the way the systems treat people as data points instead of - instead of what they are."
+"I've read your work more carefully since I started in tech. You saw things that were really there. Things that are still there. The surveillance, the algorithmic control, the way systems treat people as data points instead of - instead of what they are."
 
 "People."
 
@@ -412,7 +413,7 @@ Jerome nodded. This was what his mother had tried to tell him, what she had know
 
 ---
 
-They stood together in the cold, father and son, the distance between them narrower than it had been in years. Jerome felt something shifting, some barrier dissolving. It wasn't that their disagreements had been resolved or their differences bridged. It was simpler than that: they were here, together, in the presence of loss. And presence was its own kind of bridge.
+They stood together in the cold, father and son, the distance between them narrower than it had been in years, perhaps ever. Jerome felt something shifting, some barrier dissolving. It wasn't that their disagreements had been resolved or their differences bridged. It was simpler than that: they were here, together, in the presence of loss. And presence was its own kind of bridge.
 
 "I'm going to stay a few more days," DeShawn said. "For the funeral, for whatever you need. Work can wait."
 
@@ -435,7 +436,7 @@ But he didn't move immediately. He stood for another moment in the cold Baltimor
 
 Had it mattered? Her life, her struggles, her daily acts of care and discipline and hope?
 
-It had mattered to him. It had made him who he was. It had given him the sense of justice that had driven his career, the stubbornness that had kept him investigating when the stories were hard, the faith in truth that had sustained him when the truth seemed useless.
+It had mattered to him. It had made him who he was. It had given him the sense of justice that drove his career, the stubbornness that kept him investigating when the stories were hard, the faith in truth that sustained him when truth seemed useless.
 
 Did they listen?
 

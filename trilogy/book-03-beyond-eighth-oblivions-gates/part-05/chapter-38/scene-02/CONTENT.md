@@ -33,7 +33,7 @@ They found their seats near the middle of the theater, Delphine positioned where
 
 The lights dimmed. The screen came alive.
 
-And then she was watching her own film, but from the outside now, hearing it through the ears of strangers, seeing it through their eyes. The opening sequence she had labored over for months: fragments of news footage, algorithmic visualizations, the faces of ordinary people caught in systems they didn't understand. No voiceover explaining, no title cards contextualizing. Just the images, and beneath them a score that had taken weeks to get right - not melodic but textural, ambient, the sound of something vast and indifferent.
+And then she was watching her own film from the outside, hearing it through the ears of strangers, seeing it through their eyes. The opening sequence she had labored over for months: fragments of news footage, algorithmic visualizations, the faces of ordinary people caught in systems they didn't understand. No voiceover explaining, no title cards contextualizing. Just the images, and beneath them a score that had taken weeks to get right - not melodic but textural, ambient, the sound of something vast and indifferent.
 
 She had wanted to begin with disorientation. She had wanted the audience to feel the vertigo of living through something that couldn't be narrated, couldn't be reduced to story.
 
@@ -44,7 +44,7 @@ But now, watching, she wondered if she had gone too far. If the disorientation w
 
 The faces around her were unreadable in the dark. Some watched with apparent attention, others shifted in their seats. Theo sat between her and Jessie, his twelve-year-old face serious, trying to understand.
 
-The film moved through its sections without signaling transitions. An interview with a gig worker whose face was half-shadowed, speaking about algorithmic management in terms that were both specific and universal. She had cut this interview down from an hour to six minutes, and now those six minutes felt both essential and insufficient.
+The film moved through its sections without signaling transitions. An interview with a gig worker whose face was half-shadowed, speaking about algorithmic management in terms both specific and universal. She had cut this interview down from an hour to six minutes, and now those six minutes felt both essential and insufficient.
 
 Delphine remembered making it. The interview had taken place in Minneapolis, in a coffee shop, the worker nervous about being identified. He had spoken about what it felt like to have his work evaluated by systems he couldn't see, to be optimized and ranked and discarded by processes that had no face, no name, no accountability. She had listened without interrupting, and then she had taken his words and cut them and arranged them, had made them serve her vision.
 
@@ -57,7 +57,7 @@ She watched Ananya watching the screen. Her friend's face was intent, serious, m
 
 ---
 
-The middle section of the film was its most difficult, the part Delphine had struggled with most. Interviews with people who had built the systems, the engineers and executives who had made choices that affected millions without fully understanding the consequences. She had tried to present them without judgment, to let their words reveal their own contradictions, their own blind spots. But in the editing, she had made choices about what to include and what to cut, and those choices were a kind of judgment, however she tried to avoid it.
+The middle section of the film was its most difficult, the part she had struggled with most. Interviews with people who had built the systems, the engineers and executives who had made choices that affected millions without fully understanding the consequences. She had tried to present them without judgment, to let their words reveal their own contradictions, their own blind spots. But in the editing, she had made choices about what to include and what to cut, and those choices were a kind of judgment, however she tried to avoid it.
 
 One of the executives in the film was in the audience tonight. She had seen him in the lobby, had wondered if he would stay or walk out. He was still there, she noticed, his face as unreadable as everyone else's in the dark.
 
@@ -74,7 +74,7 @@ Then the lights came up.
 
 ---
 
-Applause. Not the polite applause of obligation but something more substantial, sustaining. Delphine sat frozen in her seat, not processing the sound, until Jessie touched her arm.
+Applause. Not the polite applause of obligation but something more substantial, sustained. Delphine sat frozen in her seat, not processing the sound, until Jessie touched her arm.
 
 "Stand up," Jessie whispered. "They want you to stand up."
 

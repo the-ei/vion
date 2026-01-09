@@ -1,7 +1,5 @@
 # Chapter 1: The Long Recess
 
-# ~~~
-
 Ruth woke at five-fourteen, as she had every morning for the past eight months, her body startled into consciousness by the absence beside her, that cold geography where Susan should have been. The left side of the bed, Susan's side, remained untouched, the pillow still holding the faint depression from the last time Ruth had adjusted it, which had been yesterday morning, in the same gesture she'd performed every morning since Susan died, a smoothing that was part denial and part prayer. She lay still for a moment, listening to the house settle around her, the particular creaks of the Victorian that she and Susan had bought thirty-one years ago when Berkeley real estate was merely expensive rather than impossible, when they were young lawyers who believed in precedent and progress and the slow bending of the arc.
 
 The fog pressed against the windows. She could hear it, almost - that Pacific dampness that crept through the hills before dawn, softening the edges of the world until Berkeley became a rumor of itself. Ruth pushed back the covers and set her feet on the cold hardwood floor, another small shock that she had come to rely on, her body's reminder that she was still here, still required to move through the day.
@@ -71,7 +69,8 @@ The seminar started at ten. She had papers to review, students to face. The day,
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The seminar room at Berkeley Law had windows on two sides, an extravagance of natural light that the architects had clearly intended as a metaphor - legal education illuminated, perhaps, or the transparency of reasoned discourse, as if truth were something you could see if only you let enough light in. Ruth had been teaching in this room for eleven years, since her appointment to the faculty after leaving the bench, and she knew its angles intimately: where the morning sun would fall at ten-fifteen, how the afternoon shadows gathered in the corners, which seats the students preferred and why. The table was arranged for conversation, not lecture, twelve seats around an oval surface designed to suggest equality among interlocutors even though everyone knew the power resided with the professor at the head.
 
@@ -172,7 +171,8 @@ Ruth thought about it. A year ago, she would have cared about the professional i
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The cafe where Ruth met Rebecca occupied a corner lot in a neighborhood that had been transitioning for as long as Ruth could remember, always moving toward something it never quite became. The buildings mixed Victorian facades with newer construction, barbershops next to artisanal coffee roasters, a check-cashing place across from a yoga studio. Oakland had always been this way, Ruth thought - a city of coexistence, not quite gentrified, not quite stable, holding its contradictions in visible tension, refusing the false resolution of becoming one thing or another.
 
@@ -288,7 +288,8 @@ They walked out together, Ruth leaving cash on the table that covered both meals
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Evening came the way it always came to the hills above Berkeley, the light going blue and then gray and then the particular Berkeley dark that was never quite dark, the lights of the city emerging below like a mirror of the stars that would appear if the fog allowed, which tonight it would not. Ruth heated soup on the stove - lentil, from a batch she'd made on Sunday - and ate standing at the counter, looking out through the kitchen window at Susan's garden disappearing into the dark.
 
@@ -398,8 +399,6 @@ The fog lifted. The sun rose. Another day began.
 
 # Chapter 2: Bodies Keep Score
 
-# ~~~
-
 The alarm never sounded because Elena woke before it, as she always did, her body trained to surfaces that her conscious mind had stopped registering, the circadian rhythm of caregiving that had replaced the circadian rhythm of rest. Four-thirty-two by the red numbers on the nightstand. The house held its breath around her - Daniel's side of the bed cool and flat because Daniel was in Tucson, third week on the commercial site, coming home Friday if the schedule held, which it never did. She lay still for a moment, inventory taking shape before movement: Mateo had cried at eleven but settled; Sofia had called out around two, something about a dream, and Elena had gone to her and stroked her hair until the breathing slowed; Gloria had coughed in the early hours, that dry cough that Elena tracked with clinical attention because Gloria would never mention it herself.
 
 The house needed her to be quiet. Elena swung her legs out and set her feet on the thin carpet they'd bought three years ago when the previous carpet had given up, this carpet also showing wear now in the paths most traveled, from bed to bathroom, from hallway to kitchen. She could navigate in the dark. She had been navigating in the dark for nine months of double shifts and staggered schedules, learning the geography of her own home by touch, by absence, by the shape of what wasn't there.
@@ -461,7 +460,8 @@ She gathered her things and walked toward the door.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The waiting room held thirty-seven people by seven-fifteen, and Elena knew they would see fifty before noon. The chairs were orange plastic, bolted to the floor in rows, the institutional aesthetic of places designed to process rather than comfort. A television mounted high on the wall played the news with the sound off, captions scrolling beneath images of politicians and economists speaking from podiums, the world of policy that seemed disconnected from the bodies filling these seats.
 
@@ -584,13 +584,13 @@ They shared a laugh - the dark humor that sustained healthcare workers, the joke
 
 "Amara."
 
-"I'm not being cynical. I'm being accurate. We don't save people here, Elena. We slow down the damage. We give them a few more good days, a few more years if we're lucky. The saving - that would require changing the systems that are breaking them. And we don't do that. We can't do that from here."
+"I'm not being cynical. I'm being accurate. We don't save people here, Elena. We slow down the damage. We give them a few more good days, a few more years if we're lucky. The saving - that would require changing the systems that are breaking them. And we don't do that. We can't do that from here. We're downstream of the poison. The most we can do is filter it as it passes through."
 
 Elena wanted to argue, but she didn't have the energy, and she wasn't sure Amara was wrong. She returned to the exam rooms, to the queue that never emptied, to the bodies that arrived carrying more than she could treat. The diabetic grandmother, the construction worker, the anxious teenager - they would go home to lives the clinic couldn't touch, to economic pressures and environmental stressors and the accumulated weight of a system designed to extract rather than sustain.
 
 She saw fourteen more patients before break. She documented every one. She ordered tests and wrote referrals and adjusted medications and listened - the listening was the part insurance didn't reimburse but the part that sometimes mattered most.
 
-By noon she was hollowed out, running on coffee and habit, ready for the brief rest that wouldn't be enough.
+By noon she was hollowed out, running on coffee and habit and the sertraline that kept her steady enough to function, ready for the brief rest that wouldn't be enough but would have to be.
 
 
 ---
@@ -598,7 +598,8 @@ By noon she was hollowed out, running on coffee and habit, ready for the brief r
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The break room was windowless and small, a converted closet with a microwave, a coffee maker that produced something coffee-adjacent, and a couch that had been donated by someone who no longer wanted it. Elena sank into the couch with her phone and her bad coffee, feeling the brief permission to stop moving.
 
@@ -641,13 +642,13 @@ Elena listened to Gloria move, the muffled sounds of negotiation, Mateo's wail s
 
 "Don't apologize to me. I'm not the one who needs you."
 
-The words landed harder than Gloria probably intended. Elena felt them settle into the guilt she carried always, the sense that she was failing everyone - her patients, her children, her husband, herself.
+The words landed harder than Gloria probably intended, or perhaps exactly as hard as she intended - Gloria's generation didn't soften truths. Elena felt them settle into the guilt she carried always, the guilt that had become a second skeleton inside her, the sense that she was failing everyone - her patients, her children, her husband, herself - in different ways at different hours but always, always failing.
 
 "I have to go back," Elena said. "My break is almost over."
 
 "Take care of yourself, mija. You can't pour from an empty cup."
 
-It was something Gloria said often, a kitchen-magnet wisdom that Elena knew was true and couldn't follow. She was pouring from an empty cup every day. She had been empty for months. The medication kept her functional, but functional was not full.
+It was something Gloria said often, a kitchen-magnet wisdom that Elena knew was true and couldn't follow. She was pouring from an empty cup every day. She had been empty for months. The medication kept her functional, kept the edges from sharpening into crisis, but functional was not full, and she wondered sometimes what would happen when the cup finally cracked.
 
 After she hung up, she sat with the phone in her hand, the break room humming with fluorescent silence. She thought about the early years with Daniel, before Sofia, before Mateo, before the jobs that consumed them both. They had met at a community health fair - Elena doing blood pressure screenings, Daniel building the tent structures, both of them young and certain that hard work would be enough.
 
@@ -664,9 +665,9 @@ She couldn't remember.
 
 She took her phone and scrolled through news headlines while the coffee cooled to undrinkable. A story about Prometheus Systems caught her eye: "Tech Giant Celebrates One Year of 'Ethical AI' Initiative." The headline was accompanied by a photo of serious-looking executives in a glass-walled conference room, the aesthetic of responsible innovation. Elena had a vague memory of the crisis last year, the congressional hearings, the wave of concern that had crested and receded. It had seemed important at the time. Now it seemed like weather from another country.
 
-What did AI ethics have to do with Mrs. Delgado's insulin costs? What did regulatory frameworks have to do with Ray Torres's broken arm?
+What did AI ethics have to do with Mrs. Delgado's insulin costs? What did regulatory frameworks have to do with Ray Torres's broken arm? What did any of it have to do with Jaylen Mitchell drowning in feelings that were entirely appropriate responses to a world that had revealed its carelessness?
 
-She scrolled past. The news that mattered to her wasn't news at all - it was the daily accumulation of bodies and needs, unreported because it was too ordinary to count.
+She scrolled past. The news that mattered to her wasn't news at all - it was the daily accumulation of bodies and needs, unreported because it was too ordinary to count, too structural to be a story, too much like weather to be an event.
 
 
 ---
@@ -687,7 +688,7 @@ Elena didn't recognize the name, but that wasn't unusual - she saw too many pati
 
 She dumped the cold coffee, pocketed her phone, and walked back toward the exam rooms. The break had been forty minutes. It had not been enough. It was never enough. But the queue was waiting, and the bodies were waiting, and the system demanded her presence whether she had anything left to give.
 
-She paused at the bathroom on the way, not because she needed it but because she needed thirty seconds to herself. She looked in the mirror: Elena Varga, thirty-six years old, dark circles under her eyes, hair pulled back in the ponytail she'd worn since residency because there was no time for anything else. She had wanted to be a healer. She had become a processor, moving bodies through a system designed to fail them.
+She paused at the bathroom on the way, not because she needed it but because she needed thirty seconds to herself. She looked in the mirror: Elena Varga, thirty-six years old, dark circles under her eyes, hair pulled back in the ponytail she'd worn since residency because there was no time for anything else. She had wanted to be a healer. She had become a processor, moving bodies through a system designed to fail them, a system that manufactured illness and then charged for the treatment.
 
 She washed her hands with the automatic soap dispenser, dried them on the rough paper towels. The afternoon waited. She went to meet it.
 
@@ -697,9 +698,10 @@ She washed her hands with the automatic soap dispenser, dried them on the rough 
 
 
 
-# ~~~
 
-The afternoon came at her like a wave. An urgent case arrived at one-fifteen - a man in his sixties, chest pain, sweating, the classic presentation that could be cardiac arrest or could be anxiety or could be both. Elena stabilized him while Amara called for transport to the hospital, the clinic's equipment insufficient for what he needed. He left in an ambulance, status unknown, another patient whose outcome she might never learn.
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
+
+The afternoon came at her like a wave that had been gathering force offshore all morning, waiting to crash. An urgent case arrived at one-fifteen - a man in his sixties, chest pain, sweating, the classic presentation that could be cardiac arrest or could be anxiety or could be both. Elena stabilized him while Amara called for transport to the hospital, the clinic's equipment insufficient for what he needed. He left in an ambulance, status unknown, another patient whose outcome she might never learn.
 
 Jaylen Mitchell returned at two. His mother called from the parking lot - he was having a panic attack, couldn't get out of the car, couldn't breathe. Elena walked out to them, the Phoenix sun already brutal, and found Jaylen hyperventilating in the back seat while his mother stood helpless beside the open door.
 
@@ -709,7 +711,7 @@ She talked him down using the techniques she had learned in residency and refine
 
 "This happens sometimes after you start addressing it," she said. "The feelings you've been pushing down come up. It doesn't mean you're getting worse. It means you're becoming aware of what was already there."
 
-"It doesn't feel like awareness. It feels like dying."
+"It doesn't feel like awareness. It feels like dying. It feels like everyone else is going about their day and I'm the only one who knows we're all going to die."
 
 "I know. But you're not dying. You're feeling."
 
@@ -722,13 +724,13 @@ She stayed with him until he was stable, then called the sliding-scale counselor
 
 "You won't be alone. Your mom is here. And you can call the crisis line - I'll give you the number. If it gets bad, you come back. We're here until eight."
 
-She wrote down the crisis number, made him put it in his phone, extracted a promise that he would call rather than suffer in silence. It was the best she could do. It was not enough.
+She wrote down the crisis number, made him put it in his phone, extracted a promise that he would call rather than suffer in silence. It was the best she could do. It was not enough. Nothing she did here was ever enough, and yet not doing it was unthinkable.
 
 By three o'clock, the queue had grown rather than shrunk - people who had left work early, children out of school, the afternoon rush of need that reflected the schedules of people who couldn't miss morning shifts. Elena moved through them with the efficiency of practice: listen, examine, diagnose, treat, document, repeat. Each patient got eight to twelve minutes. Each patient deserved more.
 
 At four-fifteen, Fatima Hassan came through the door.
 
-She was in her late fifties, Elena guessed, wearing a hijab and a coat too heavy for Phoenix weather, as if she couldn't quite believe the desert wouldn't turn cold. Her face was lined in ways that suggested hard work and harder worries, but her eyes were sharp, watching Elena with the assessment of someone who had learned to size up professionals quickly.
+She was in her late fifties, Elena guessed, wearing a hijab and a coat too heavy for Phoenix weather, as if she carried a different climate inside her, a cold she couldn't shake. Her face was lined in ways that suggested hard work and harder worries, but her eyes were sharp, watching Elena with the assessment of someone who had learned to size up professionals quickly.
 
 "Mrs. Hassan? Maria said you asked for me."
 
@@ -751,7 +753,7 @@ Elena listened, took notes, examined. Fatima's blood pressure was 168 over 104 -
 
 "How long have you been feeling like this?"
 
-"The headaches started in the fall. The rest - " Fatima shrugged. "I don't remember when it started. It just became."
+"The headaches started in the fall. The rest - " Fatima shrugged. "I don't remember when it started. It just became." She paused, and Elena saw something flicker across her face - not self-pity but something closer to wonder at what the body could endure and still function. "The body finds a way to keep going. Until it doesn't."
 
 "Do you have insurance?"
 
@@ -772,7 +774,7 @@ While the blood draw was happening, Elena sat with Fatima. The older woman's wal
 
 "You carry a lot," Elena said.
 
-"I carry what there is to carry. It's not optional."
+"I carry what there is to carry. It's not optional." Her voice was matter-of-fact, the tone of someone who had long ago stopped expecting the world to be fair and was simply dealing with what was.
 
 Elena recognized the philosophy. She lived it herself - the refusal to collapse because collapse was not permitted, the work that continued because stopping meant falling.
 
@@ -799,7 +801,7 @@ Fatima nodded, folding the instructions into her pocket. At the door, she paused
 
 No, Elena thought. It wasn't.
 
-The shift continued. Five more patients after Fatima. A medication refill, straightforward. A rash that was probably allergic dermatitis. A pregnant woman whose prenatal vitamins had run out. An elderly man whose son had brought him in because he was forgetting things - the early stages of something Elena could not fix but could at least name, could at least document for the journey ahead. A child with an ear infection, crying while Elena examined her, the mother exhausted and apologetic.
+The shift continued. Five more patients after Fatima. A medication refill, straightforward. A rash that was probably allergic dermatitis. A pregnant woman whose prenatal vitamins had run out - Elena gave her samples and tried not to think about what kind of prenatal care cost-nothing bought. An elderly man whose son had brought him in because he was forgetting things - the early stages of something Elena could not fix but could at least name, could at least document for the journey ahead, the long diminishment that was waiting for so many of them. A child with an ear infection, crying while Elena examined her, the mother exhausted and apologetic in the way mothers always were, as if their children's illnesses were failures of love rather than biology.
 
 Six o'clock came. Then six-thirty. The shift officially ended at seven, but there were still patients waiting, and Elena saw them all, staying until the queue was clear because that was what she did, because that was who she had become.
 
@@ -809,11 +811,12 @@ Six o'clock came. Then six-thirty. The shift officially ended at seven, but ther
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Dark.
 
-The Phoenix sky had drained its color while Elena was inside, and now the city spread around her in headlights and streetlamps, the grid of roads that carried people to wherever they went when they weren't waiting for care.
+The Phoenix sky had drained its color while Elena was inside, had gone from brutal afternoon to blank evening, and now the city spread around her in headlights and streetlamps, the grid of roads that carried people to wherever they went when they weren't waiting for care, when they weren't sick or scared or wondering how to pay.
 
 She started the car. The radio was tuned to public broadcasting, a podcast she'd been meaning to listen to about the crisis - the anniversary approaching, the retrospectives beginning. A voice she didn't recognize spoke about systemic risk and regulatory capture.
 
@@ -827,7 +830,7 @@ She turned onto the highway. The podcast continued, two experts debating governa
 
 Elena thought about bodies.
 
-The systems they analyzed had become the bodies she treated. The policy failures landed as inflammation, as fractures that couldn't heal, as anxiety that came from knowing true things. She was standing at the end of a pipeline, catching what the pipeline produced, unable to reach back and turn off the flow.
+The systems they analyzed had become the bodies she treated. The policy failures landed as inflammation, as fractures that couldn't heal, as anxiety that came from knowing true things. She was standing at the end of a pipeline, catching what the pipeline produced, unable to reach back and turn off the flow. And the people designing the pipeline, the people who could turn it off, were somewhere far away in glass-walled conference rooms, discussing ethics.
 
 
 ---
@@ -842,9 +845,9 @@ Sofia's room. The door still cracked. The horse-patterned comforter rising and f
 
 She thought: I am treating symptoms.
 
-She thought: The disease is everything.
+She thought: The disease is everything. The disease is the system. The disease is the air we breathe.
 
-She thought: What would it mean to heal something I can't even name?
+She thought: What would it mean to heal something I can't even name? What would it take to become something other than a witness to damage?
 
 Sofia stirred, murmured something unintelligible, settled back into sleep. Elena reached through the door and touched her daughter's hair, just barely, a contact Sofia wouldn't register.
 
@@ -854,7 +857,7 @@ For now, this.
 
 The dark house. The sleeping child. The weight she carried.
 
-For now, this was enough. It had to be.
+For now, this was enough. It had to be. It was all she had.
 
 
 ---
@@ -867,15 +870,13 @@ For now, this was enough. It had to be.
 
 # Chapter 3: The Pivot
 
-# ~~~
-
-The Moscone Center had been dressed for responsibility. Kevin noticed it the moment he entered: the earth tones, the sustainable wood signage, the coffee stations advertising fair-trade organic from cooperatives in Guatemala. The banners said "AI Safety Summit 2034" in a font that suggested both technological precision and human warmth, a neat trick of design. Sponsors' logos hung along the registration corridor - the same companies that had built the systems now funding the conference about their risks. Kevin found this neither surprising nor particularly enraging anymore. This was how it worked. This was always how it worked.
+The Moscone Center had been dressed for responsibility. Kevin noticed it the moment he entered: the earth tones, the sustainable wood signage, the coffee stations advertising fair-trade organic from cooperatives in Guatemala. The banners said "AI Safety Summit 2034" in a font that suggested both technological precision and human warmth, a neat trick of design. Sponsors' logos hung along the registration corridor - the same companies that had built the systems now funding the conference about their risks. Kevin found this neither surprising nor particularly enraging anymore. This was how it worked. This was always how it worked. Capital funded critique of capital, and the critique became another product.
 
 He queued for registration behind a venture capitalist he recognized from the crisis coverage, a man who had funded three of the startups implicated in last year's revelations and who was now, according to the conference program Kevin had skimmed that morning, giving a keynote on "Responsible Investment in the Post-Crisis Landscape." The VC did not recognize Kevin. The VC was checking his phone with the particular absorption of someone who expected everyone to wait for him.
 
 "Kevin Zhou?"
 
-The registration volunteer smiled with professional warmth, checked his name against her list, handed him a badge. Speaker - Industry Expert. The credential felt both accurate and absurd. Nine months ago, Kevin had been a cautionary voice, a technical expert warning that the interconnected AI systems posed risks their builders didn't understand. The crisis had proved him right. Being right, it turned out, made you valuable.
+The registration volunteer smiled with professional warmth, checked his name against her list, handed him a badge. Speaker - Industry Expert. The credential felt both accurate and absurd. Nine months ago, Kevin had been a cautionary voice, a technical expert warning that the interconnected AI systems posed risks their builders didn't understand. The crisis had proved him right. Being right, it turned out, made you valuable - to the very system you had warned about. Cassandra with a consulting fee.
 
 
 ---
@@ -888,7 +889,7 @@ The moderator began with the question everyone had been asking for nine months: 
 
 Dr. Price spoke first. "The crisis revealed gaps in our governance structures that we're now working to address. The good news is that industry has responded with unprecedented commitment to safety frameworks."
 
-Kevin watched her face as she said it. She believed it, or she had convinced herself she believed it. The gap between what she had written in her academic papers - urgent, alarmed, specific about the risks - and what she said now, in the room sponsored by the risk-creators, was the gap that defined this entire conference.
+Kevin watched her face as she said it. She believed it, or she had convinced herself she believed it, or she had reached that state of professional exhaustion where the distinction no longer mattered. The gap between what she had written in her academic papers - urgent, alarmed, specific about the risks - and what she said now, in the room sponsored by the risk-creators, was the gap that defined this entire conference, that defined the entire industry's relationship to its own harm.
 
 
 ---
@@ -897,7 +898,7 @@ Holloway spoke next, adding layers of policy language that seemed designed to cr
 
 Voluntary compliance. Incentive structures. Kevin had heard these phrases a hundred times in the past year. They meant: we will do what is profitable and call it safety. They meant: regulation will remain advisory, enforcement will remain theoretical, and the systems will continue to operate as designed because the design was always about growth, about scale, about the optimization of metrics that had nothing to do with human flourishing.
 
-He took out his phone and pretended to take notes while actually checking his company's dashboard. Revenue up 40% quarter-over-quarter. User base expanding into European markets. The AI safety tools his startup built - tools designed to detect and mitigate the risks the panelists were discussing - were selling well. The crisis had been good for business. This realization arrived with the particular nausea that had become familiar.
+He took out his phone and pretended to take notes while actually checking his company's dashboard. Revenue up 40% quarter-over-quarter. User base expanding into European markets. The AI safety tools his startup built - tools designed to detect and mitigate the risks the panelists were discussing - were selling well. The crisis had been good for business. This realization arrived with the particular nausea that had become familiar, that had become, in fact, the ambient temperature of his moral life.
 
 At the break, Kevin found himself near the coffee station beside Leo Tan, a former colleague from his Prometheus days - not the company Ananya worked for, but the research initiative Kevin had been part of before the crisis, before his warnings had made him both credible and uncomfortable.
 
@@ -905,7 +906,7 @@ At the break, Kevin found himself near the coffee station beside Leo Tan, a form
 
 "Still pretending to. You?"
 
-"Compliance consulting. Very lucrative. Very meaningless. But my therapist says I need to accept that meaning is not a job requirement."
+""Compliance consulting. Very lucrative. Very meaningless. But my therapist says I need to accept that meaning is not a job requirement." He gestured at the room around them. "Everyone here has made some version of that peace. Except the ones who haven't noticed they needed to.""
 
 
 ---
@@ -930,7 +931,8 @@ Kevin stayed through the morning, performing the role of engaged attendee, knowi
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The lunch was buffet-style, a strategic choice that forced attendees to circulate rather than huddle at assigned tables. Kevin filled a plate he didn't want - some kind of salmon, roasted vegetables, bread he wouldn't eat - and navigated through the crowd, accepting handshakes and exchanging pleasantries with people who wanted to be seen talking to him.
 
@@ -1061,7 +1063,8 @@ And he would wonder, as he had wondered all morning, whether any of it mattered.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The chairs in Panel Room C were designed by someone who had never sat through a four-hour conference session. Kevin shifted his weight, trying to find a position that didn't pinch his lower back, and half-listened to a presentation on "Technical Approaches to AI Alignment" that was competent and insufficient and exactly what he'd expected. The air was recycled, the temperature slightly too cold, the lighting optimized for visibility rather than comfort. This was the physical experience of expertise: you proved your seriousness by enduring conditions that made seriousness difficult.
 
@@ -1118,7 +1121,8 @@ The dinner was in three hours. He would go to his hotel, check his email, preten
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The venue occupied a converted warehouse in SOMA, the neighborhood that had been colonized by tech money in the previous decade and had become, through that colonization, a particular kind of nowhere - generic luxury overlaid on industrial bones. The dinner crowd gathered beneath exposed ductwork and carefully selected pendant lights, a aesthetic that signaled both creative authenticity and the wealth to perform it.
 
@@ -1193,7 +1197,8 @@ By ten o'clock, Kevin had reached his limit. He set down his unfinished drink, s
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The fog had come in.
 
@@ -1286,8 +1291,6 @@ The fog pressed against the window. The city slept, or pretended to sleep. Kevin
 
 # Chapter 4: The Performance of Change
 
-# ~~~
-
 The coffee machine in Ananya's office produced something remarkable - single-origin Ethiopian, precisely extracted, the kind of coffee that appeared when a company needed to signal its commitment to quality in all things, including the caffeine delivery for its ethics officers. She had laughed when it was installed, a private laugh she shared with no one, because the absurdity of artisanal coffee in the office of the Chief Ethics and Safety Officer seemed to capture something essential about her position. They took the symbols seriously. Whether they took the substance seriously was the question she had stopped being able to answer.
 
 Six-thirty in the morning. The Bay Area sky was still gray through her corner windows, the campus below just beginning to stir with the early arrivers - engineers whose circadian rhythms had adapted to global collaboration, executives who performed dedication through their hours. Ananya had been at her desk since six, reviewing the presentation she would give to the board in two and a half hours. The Ethical AI Framework. Eighteen months of work distilled into forty-three slides and a narrative arc designed to demonstrate transformation.
@@ -1345,7 +1348,8 @@ The board meeting started in thirty minutes. Ananya left her office and walked t
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The boardroom occupied the top floor, all glass and light, the architecture of a company that wanted to appear transparent. Ananya entered fifteen minutes early, as she always did, to ensure the technology worked and to claim the space before the others arrived. The presentation was loaded, the notes were ready, the water glasses were filled. She stood at the window looking out at the hills, centering herself for the performance ahead.
 
@@ -1448,7 +1452,8 @@ The version that could keep going.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The conference room on the third floor had glass walls that offered no real privacy, but it was empty and quiet and Ananya needed both. She closed the door, settled into a chair that faced away from the hallway, and dialed Vikram's number.
 
@@ -1545,7 +1550,8 @@ They always waited.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The coffee shop was intentionally nondescript - a chain location in a strip mall three miles from campus, the kind of place where tech workers did not go and therefore the kind of place where tech workers could meet without being seen. Ananya arrived first, as she had insisted, and took a table in the corner with her back to the wall and a clear view of the door.
 
@@ -1669,7 +1675,8 @@ She didn't move. She couldn't move. She just sat there, in a chain coffee shop i
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The lights.
 
@@ -1740,8 +1747,6 @@ She didn't move.
 
 
 # Chapter 5: The Year of Our Lord
-
-# ~~~
 
 The cherry blossoms were at peak bloom, the Tidal Basin ringed with tourists and the whole city performing its annual ritual of beauty. Jerome Washington had seen forty-two springs in D.C. and had learned to navigate around the crowds, to find the side streets and the off-hours when the city was just itself, neither monument nor spectacle. But today he had meetings on Capitol Hill, and Capitol Hill did not yield to scheduling preferences.
 
@@ -1839,7 +1844,8 @@ He needed to see his mother. He needed to remember what care looked like, what l
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The house on Edmondson Avenue had been in the family for forty-three years, since Jerome's father bought it with a VA loan in 1991, a year before Jerome was born. It was a Baltimore rowhouse like thousands of others - brick facade, white marble steps, a front porch narrow enough that two people had to stand sideways to pass each other. The neighborhood had changed and changed again in those decades, cycles of decline and renewal that his father had weathered with the particular stubbornness of Black homeownership, the refusal to leave what had been earned.
 
@@ -1986,7 +1992,8 @@ He drove back to D.C. as the sun set, carrying all of it with him.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Politics and Prose occupied a corner of Connecticut Avenue that had been a bookstore for decades, surviving the digital revolutions that had closed so many others through a combination of community loyalty and strategic adaptation. Jerome had attended dozens of events here - book launches, author talks, the particular gatherings where D.C.'s intellectual class came to reassure itself that ideas still mattered.
 
@@ -2085,7 +2092,8 @@ He left the bookstore and walked into the D.C. night, the conversation settling 
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The next morning, Jerome met Martin Reyes at a coffee shop near Dupont Circle. Martin had been one of his best sources during the crisis - a legislative aide with access to committee documents and the willingness to leak them when the story required it. He had taken risks, real risks, and Jerome had protected him carefully, never revealing his identity even when editors pushed for more transparency.
 
@@ -2167,7 +2175,8 @@ He hung up and sat on the bench for a long time, letting the morning pass around
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The hotel room.
 
@@ -2242,8 +2251,6 @@ Past midnight now. The laptop's battery warning blinked in the corner of the scr
 
 # Chapter 6: What the Algorithm Knows
 
-# ~~~
-
 The phone alarm sounded at five forty-five, the same tone it used to signal everything: wake up, new delivery, rating received, account warning. Yusuf reached for it before his eyes fully opened, the gesture automatic after two years of gig work, his thumb already swiping to dismiss before his mind caught up with his body.
 
 The bedroom was cold. Minneapolis in mid-April meant winter had not quite released its grip, and the apartment's radiators were unreliable at best. He could see his breath in the gray light filtering through the window, the frost patterns on the glass like maps of countries that did not exist.
@@ -2312,7 +2319,8 @@ Then the light changed, and they went their separate ways, each one alone with t
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Yusuf switched to rideshare at eleven, the delivery orders slowing as the morning rush ended and office workers settled into their routines. The rideshare app was a different game: longer trips, more interaction, the performance of friendliness that the rating system demanded.
 
@@ -2375,7 +2383,8 @@ He accepted it. What else was there to do?
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The furniture assembly was in Eden Prairie, a development where the houses all looked the same and the driveways held SUVs that cost more than Yusuf would earn in a year. He pulled up at two-fifteen, the task app showing his assignment: IKEA bed frame and dresser, estimated time three hours, payment fifty dollars.
 
@@ -2426,7 +2435,8 @@ He turned onto his street and parked behind the building, the engine ticking as 
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The apartment smelled of cumin and onions when Yusuf opened the door, the particular fragrance of his mother's cooking that meant she was home, that she had found the energy after her own day of work to make something real instead of reheating yesterday's leftovers. He stood in the doorway for a moment, letting the smell settle into him, feeling the tension of the day begin to release.
 
@@ -2514,7 +2524,8 @@ The hope in her voice was precise and painful. She had learned, watching their m
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Midnight. The apartment silent.
 
@@ -2583,8 +2594,6 @@ The algorithm does not need to know.
 
 # Chapter 7: Fault Lines Return
 
-# ~~~
-
 The papers were mediocre. Ruth had been grading for three hours, her reading glasses sliding down her nose, her coffee growing cold on the desk beside her. Third-year law students writing about constitutional interpretation, most of them competent but uninspired, recycling arguments she had read a hundred times before. The afternoon light slanted through the study windows, catching the dust motes that drifted above her father's old desk - the one she had inherited when he died, the one Susan had always said was too large for the room but which Ruth could not bear to replace.
 
 Her phone rang. The caller ID showed a D.C. number she did not recognize, and for a moment she considered letting it go to voicemail. But something - call it judicial instinct, call it the particular quality of attention she had developed over decades on the bench - made her answer.
@@ -2652,7 +2661,8 @@ Something had changed, and she could not pretend it had not.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Ruth began with Harold Steinberg, who had been on the Ninth Circuit with her for twelve years before his retirement. Harold was sharp, connected, still plugged into the judicial network in ways that someone fully retired could never be. He answered on the second ring, pleased to hear from her, and they spent five minutes on pleasantries before Ruth steered the conversation toward purpose.
 
@@ -2724,7 +2734,8 @@ Tonight she stood in her study and felt the weight of everything she had learned
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The tightness in her chest came three days later, in the middle of the morning, while she was reading a law review article on administrative procedure. One moment she was fine, annotating in the margins with her usual precision; the next moment she could not breathe, could not sit upright, could only grip the edge of her desk and wait for the sensation to pass.
 
@@ -2787,7 +2798,8 @@ Today she would sit with the knowledge that her time was finite, and decide what
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Rebecca arrived for dinner looking like she had aged a decade in the months since Ruth had last seen her in person. Dark circles under her eyes, a tightness in her jaw that spoke of chronic stress, the particular exhaustion of someone who cared about work that was becoming impossible.
 
@@ -2858,7 +2870,8 @@ Rebecca nodded slowly. "Mom would have approved."
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The cafe was in Rockridge, close enough to Rebecca's office that Ruth could pretend the trip was partly to see her daughter, though they both knew the real purpose. It was a bright morning, the Oakland hills visible through the window, the particular clarity of Bay Area spring light that made everything seem more vivid than it should.
 
@@ -2934,8 +2947,6 @@ It was not enough. But it was what she had.
 
 # Chapter 8: Anniversary
 
-# ~~~
-
 The radio was playing anniversary coverage when Elena came into the living room. One year ago today, the announcer said, in a voice calibrated for historical significance. One year since the revelations that shook the technology industry, since the congressional hearings, since the brief moment when it seemed like everything might change.
 
 She stood in the doorway, watching Daniel watch the screen. He was home for once - the construction project he'd been managing had reached a waiting phase, permits delayed, and so he'd come back early. It still felt strange to see him there at four in the afternoon, his work boots by the door, his body taking up space in a room that had grown used to his absence.
@@ -3001,7 +3012,8 @@ She parked her car and went inside.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The waiting room was already full when Elena took over from the day shift nurse. Twenty-three patients on the list, which was high for a Tuesday evening, higher than it should have been for a clinic that was supposed to handle routine care rather than emergencies. She scanned the names and chief complaints: chest tightness, difficulty sleeping, anxiety, headache, chest tightness again, fatigue, abdominal pain that sounded stress-related.
 
@@ -3079,7 +3091,8 @@ The anniversary played out on the television in the waiting room, visible throug
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The ambulance call came at ten-fifteen. Overdose, female, thirty-two, found by her husband in their bathroom. The paramedics were bringing her in rather than taking her to the emergency room because the ER was overwhelmed and the community health center had capacity - the kind of decision that reflected how strained the entire system had become.
 
@@ -3163,7 +3176,8 @@ The work continued.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Daniel's text arrived at midnight: Can't sleep. Are you okay?
 
@@ -3238,7 +3252,8 @@ The anniversary clock on the wall clicked past one a.m. Five more hours until da
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Dawn.
 

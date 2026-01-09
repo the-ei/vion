@@ -1,5 +1,3 @@
-# ~~~
-
 The apartment held too much silence. Ruth had lived in this Dupont Circle space for thirty years, the last six of them alone, and she still found herself surprised by the quiet when she entered - the absence of Susan's voice calling from the kitchen, the absence of piano music drifting from the living room, the absence of the particular quality of air that meant another person was present.
 
 The commission staffers were due at two. Ruth sat in Susan's reading chair and let herself feel the shape of waiting.
@@ -123,7 +121,8 @@ Then she went to bed, alone in the room she had shared with Susan for twenty-eig
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The hearing room was designed to impress. Wood paneling the color of old money, flags standing sentinel behind the dais, the great seal of the United States dominating the wall like a promise no one could keep. Ruth had testified in rooms like this before, many times, always as expert witness or invited scholar. This was different. This was reckoning.
 
@@ -261,7 +260,8 @@ In a few hours, David and Rebecca would arrive, each with their own response to 
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The restaurant was meant to be neutral ground. Italian, midscale, the kind of place where families gathered for occasions that weren't quite celebrations. Ruth had chosen it deliberately: not her apartment, not weighted with Susan's presence, not the stage where her testimony had just been delivered.
 

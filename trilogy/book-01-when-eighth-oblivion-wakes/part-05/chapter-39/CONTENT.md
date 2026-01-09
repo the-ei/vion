@@ -1,5 +1,3 @@
-# ~~~
-
 The approach to Reagan National never failed to move her, even after all these years, even after all the arrivals and departures that had marked her relationship with this city. The Potomac below, the monuments emerging from the geometry of the flight path, the particular way Washington announced itself as a place where power lived. Ruth had first flown into this airport in 1987, a young law clerk about to begin her career, and she had felt then what she felt now: a mixture of awe and skepticism, of recognition and distance.
 
 She was sixty-one years old. She had spent four decades in the law, first as a clerk, then as a litigator, then on the 9th Circuit bench, then as what they called semi-retired, which meant teaching at Stanford and writing occasionally and saying no to most of the invitations that still came to someone with her reputation. The crisis had brought a new kind of invitation. Congressional committees wanted her testimony. Think tanks wanted her analysis. Networks wanted her face on screens to provide gravitas to discussions she found largely uninformed.
@@ -81,7 +79,8 @@ She closed her eyes and let the hotel's artificial silence wrap around her, and 
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The Rayburn House Office Building had not changed since Ruth's last visit five years ago, though the faces in its corridors had. Young staffers moved with the particular purposefulness of people who believed their work mattered, carrying documents and tablets and the weight of responsibilities they probably did not fully understand. Ruth walked among them, escorted by a senior aide named Michaela who had worked for the committee since before the crisis and who seemed genuinely relieved that someone with Ruth's credentials had agreed to come.
 
@@ -195,7 +194,8 @@ Tomorrow she would leave Washington. But she would not leave empty-handed.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The hotel room felt smaller in the evening, the walls pressing in around the bed and desk and the single chair where Ruth sat with her phone in her hand, deciding whether to make the calls she had been putting off.
 
@@ -334,7 +334,8 @@ The night deepened around her as she wrote, and the city outside her window cont
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Ruth woke before dawn, her body still calibrated to California time, and for a long moment she lay in the hotel darkness, feeling the city's presence beyond her window. Then she rose, dressed in layers against the February cold, and went out to walk.
 

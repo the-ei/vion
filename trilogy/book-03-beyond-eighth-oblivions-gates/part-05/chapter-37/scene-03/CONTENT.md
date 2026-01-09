@@ -1,4 +1,4 @@
-The night took on the quality that only vigils have: suspended, stretched, both endless and too fast. They rotated between the bedside and the waiting room, two at a time keeping watch while the others tried to rest on couches that were not designed for sleeping. Jerome stayed mostly at the bed, unwilling to miss another window if one came.
+The night took on the quality that only vigils have: suspended, stretched, both endless and too fast. They rotated between the bedside and the waiting room, two at a time keeping watch while the others tried to rest on couches never designed for sleeping. Jerome stayed mostly at the bed, unwilling to miss another window if one came.
 
 DeShawn brought him a fresh coffee around midnight. "You should rest," he said.
 
@@ -21,7 +21,7 @@ Jerome looked at his mother's face, searching for the young woman he had known o
 
 ---
 
-Jerome was surprised that DeShawn knew about Marcus Jr. - the brother named after their father, born between Patricia and Jerome, who had died at four from an illness the doctors couldn't diagnose. He was a shadow in the family's history, rarely spoken of, the grief that had never fully healed.
+Jerome was surprised DeShawn knew about Marcus Jr. - the brother named after their father, born between Patricia and Jerome, who had died at four from an illness no doctor could diagnose. He was a shadow in the family's history, rarely spoken of, the grief that had never fully healed.
 
 "He died before I was born. Mama kept his picture in her bedroom. She never talked about him, but I knew she never stopped thinking about him."
 
@@ -56,7 +56,7 @@ This was more honesty than DeShawn had offered in years. Jerome tried not to rea
 
 "That's a good thing to wonder about."
 
-"It's a hard thing to wonder about. When you're inside the system, when you're building it, you see it one way. From the outside, the way you see it, it looks different. I don't know which view is right."
+"It's hard to wonder about. When you're inside the system, when you're building it, you see it one way. From outside, the way you see it, it looks different. I don't know which view is right."
 
 "Maybe both are right," Jerome said. "Maybe the truth is somewhere in the middle. That's what I found, usually. The people building things aren't villains, mostly. They believe in what they're making. But the effects of what they make are real too, and they don't always see them."
 
@@ -69,7 +69,7 @@ The conversation was interrupted by a change in his mother's breathing - a hitch
 
 "For now."
 
-They sat together in the silence, something between them shifting. Jerome felt it: the distance that had grown over years of disagreement and absence was narrowing, not through resolution but through presence. They were here together. That was its own kind of truth.
+They sat together in the silence, something between them shifting. Jerome felt it: the distance grown over years of disagreement and absence was narrowing, not through resolution but through presence. They were here together. That was its own kind of truth.
 
 Dawn came slowly, gray light creeping through the window that looked onto nothing. Patricia and Denise returned from the waiting room, bearing more coffee, bearing the tired patience of the long watch. The family rearranged itself around the bed, and the waiting continued.
 
@@ -88,7 +88,7 @@ He was still holding her hand. He made himself let go.
 
 Patricia was crying, the grief she had held back releasing now that there was nothing left to wait for. Denise moved to comfort her, the two women who had never been close finding something shared in this moment. DeShawn stood at the foot of the bed, his face still, his eyes wet.
 
-Jerome did not cry. Not yet. The tears would come later, he knew, in private, in the middle of some ordinary moment when the reality would hit him again. For now he was empty, hollowed out, a vessel that had held too much for too long.
+Jerome did not cry. Not yet. The tears would come later, he knew, in private, in the middle of some ordinary moment when the reality struck him again. For now he was empty, hollowed out, a vessel that had held too much for too long.
 
 The hospice staff was efficient and kind. There were forms to sign, calls to make, the bureaucracy of death that continued regardless of grief. Jerome moved through it mechanically, answering questions, making decisions. Patricia handled some of it, her social work training kicking in. Denise kept everyone fed, kept coffee appearing, kept the practical world running.
 

@@ -1,12 +1,10 @@
-# ~~~
-
 The oncology waiting room at Johns Hopkins existed in its own time zone, Jerome thought, watching the second hand of the wall clock make its slow circuit. Not faster or slower than ordinary time, but differently textured - each second containing more than seconds usually did. He had been in many waiting rooms in his life, but never one like this. Here, everyone was waiting for information that would divide their lives into before and after.
 
 Denise sat beside him, her hand in his, her posture precise and controlled. She had chosen her outfit carefully this morning - the navy blouse she wore to important meetings, the small gold earrings he had given her for their twentieth anniversary. As if dressing well could provide some protection, some armor against whatever the doctor would say.
 
 Around them, the other patients and families arranged themselves in the vinyl chairs with their own rituals of preparation. An elderly white woman with thinning hair read a magazine with determined concentration. A Black man in his forties scrolled through his phone, his jaw clenched. A young couple held hands just as Jerome and Denise did, the woman's head resting on the man's shoulder, both of them staring at nothing. The room smelled of disinfectant and artificial lavender, the scent of institutions trying to pretend they were not institutions.
 
-The intake had been efficient - algorithmic, almost. Denise's information pulled up before she had finished spelling her name. Medical history, insurance verification, symptom chronology all confirmed on tablet screens wielded by technicians who were kind but clearly working at capacity. The system knew her. It had been waiting for her. Jerome found this both reassuring and disturbing.
+The intake had been efficient - algorithmic, almost. Denise's information pulled up before she had finished spelling her name. Medical history, insurance verification, symptom chronology all confirmed on tablet screens wielded by technicians who were kind but clearly working at capacity, their warmth genuine but rationed. The system knew her. It had been waiting for her. Jerome found this both reassuring and disturbing.
 
 "I'm glad DeShawn isn't here," Denise said quietly. "I don't want him to see me like this."
 
@@ -63,7 +61,7 @@ The news came in precise language. Stage 1B. Invasive ductal carcinoma. Hormone 
 
 Jerome listened as the women discussed logistics - dates, procedures, what to expect, side effects of radiation, the long-term implications of hormone therapy. The information washed over him, detailed and concrete, and he tried to hold onto it, knowing Denise would want to process it together later. But beneath the information, a different understanding was forming.
 
-His wife had cancer. The words existed now. Whatever happened next, however successful the treatment, his wife had cancer and that fact would never become completely untrue. Something had entered their lives that would not leave.
+His wife had cancer. The words existed now, like a key turned in a lock. Whatever happened next, however successful the treatment, his wife had cancer and that fact would never become completely untrue. Something had entered their lives that would not leave, that would shape every future moment even when it receded from immediate view.
 
 
 ---
@@ -144,7 +142,8 @@ They sat together on the couch, not talking, just present. The afternoon light m
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 DeShawn arrived the next evening, having driven down from Philadelphia after Jerome called. He stood in the doorway of the family home with a duffel bag over his shoulder, looking younger than his twenty years and older at the same time - the face of the child they had raised visible beneath the face of the young man he had become, overlaid with an expression of fear that he was trying to control.
 
@@ -198,7 +197,7 @@ DeShawn glanced at Jerome, a flicker of surprise that his father had been paying
 
 "It might be. If it works. If we can make it practical."
 
-"Your father used to talk about his stories that way. The ones that mattered. 'If it comes together. If I can make people see.'"
+"Your father used to talk about his stories that way. The ones that mattered. 'If it comes together. If I can make people see.' He'd disappear into that work for weeks, barely sleeping, and I'd know something important was happening even before I understood what."
 
 DeShawn looked at Jerome again, this time longer. The comparison hung in the air between them - the implication that they might not be as different as their arguments suggested.
 
@@ -314,7 +313,8 @@ They lay together in the dark, the house quiet around them, their son asleep dow
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Three days later, DeShawn had returned to Philadelphia and the house had settled into a new rhythm. Denise's pre-operative appointments were scheduled; she was deep in research about recovery times and dietary adjustments and all the practical details that gave her a sense of control. Jerome had taken over more of the household tasks, trying to lighten her load without making her feel diminished.
 
@@ -455,7 +455,7 @@ He listed everything he remembered that had never quite made sense. The sources 
 
 If Jeffries was right, the gaps weren't random. They were designed.
 
-He wrote until midnight, filling page after page with questions, connections, hypotheses. The work felt different than it had in years - urgent, alive, dangerous in a way he had almost forgotten he craved.
+He wrote until midnight, filling page after page with questions, connections, hypotheses. The work felt different than it had in years - urgent, alive, dangerous in a way he had almost forgotten he craved. His hands moved across the keyboard with their old fluency, the muscle memory of investigation returning as if it had never left.
 
 Outside his window, Baltimore slept. But Jerome was awake again, truly awake, looking backward to find what had been hidden.
 

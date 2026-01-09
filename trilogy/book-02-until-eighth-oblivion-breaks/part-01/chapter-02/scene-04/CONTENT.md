@@ -1,4 +1,4 @@
-The afternoon came at her like a wave. An urgent case arrived at one-fifteen - a man in his sixties, chest pain, sweating, the classic presentation that could be cardiac arrest or could be anxiety or could be both. Elena stabilized him while Amara called for transport to the hospital, the clinic's equipment insufficient for what he needed. He left in an ambulance, status unknown, another patient whose outcome she might never learn.
+The afternoon came at her like a wave that had been gathering force offshore all morning, waiting to crash. An urgent case arrived at one-fifteen - a man in his sixties, chest pain, sweating, the classic presentation that could be cardiac arrest or could be anxiety or could be both. Elena stabilized him while Amara called for transport to the hospital, the clinic's equipment insufficient for what he needed. He left in an ambulance, status unknown, another patient whose outcome she might never learn.
 
 Jaylen Mitchell returned at two. His mother called from the parking lot - he was having a panic attack, couldn't get out of the car, couldn't breathe. Elena walked out to them, the Phoenix sun already brutal, and found Jaylen hyperventilating in the back seat while his mother stood helpless beside the open door.
 
@@ -8,7 +8,7 @@ She talked him down using the techniques she had learned in residency and refine
 
 "This happens sometimes after you start addressing it," she said. "The feelings you've been pushing down come up. It doesn't mean you're getting worse. It means you're becoming aware of what was already there."
 
-"It doesn't feel like awareness. It feels like dying."
+"It doesn't feel like awareness. It feels like dying. It feels like everyone else is going about their day and I'm the only one who knows we're all going to die."
 
 "I know. But you're not dying. You're feeling."
 
@@ -21,13 +21,13 @@ She stayed with him until he was stable, then called the sliding-scale counselor
 
 "You won't be alone. Your mom is here. And you can call the crisis line - I'll give you the number. If it gets bad, you come back. We're here until eight."
 
-She wrote down the crisis number, made him put it in his phone, extracted a promise that he would call rather than suffer in silence. It was the best she could do. It was not enough.
+She wrote down the crisis number, made him put it in his phone, extracted a promise that he would call rather than suffer in silence. It was the best she could do. It was not enough. Nothing she did here was ever enough, and yet not doing it was unthinkable.
 
 By three o'clock, the queue had grown rather than shrunk - people who had left work early, children out of school, the afternoon rush of need that reflected the schedules of people who couldn't miss morning shifts. Elena moved through them with the efficiency of practice: listen, examine, diagnose, treat, document, repeat. Each patient got eight to twelve minutes. Each patient deserved more.
 
 At four-fifteen, Fatima Hassan came through the door.
 
-She was in her late fifties, Elena guessed, wearing a hijab and a coat too heavy for Phoenix weather, as if she couldn't quite believe the desert wouldn't turn cold. Her face was lined in ways that suggested hard work and harder worries, but her eyes were sharp, watching Elena with the assessment of someone who had learned to size up professionals quickly.
+She was in her late fifties, Elena guessed, wearing a hijab and a coat too heavy for Phoenix weather, as if she carried a different climate inside her, a cold she couldn't shake. Her face was lined in ways that suggested hard work and harder worries, but her eyes were sharp, watching Elena with the assessment of someone who had learned to size up professionals quickly.
 
 "Mrs. Hassan? Maria said you asked for me."
 
@@ -50,7 +50,7 @@ Elena listened, took notes, examined. Fatima's blood pressure was 168 over 104 -
 
 "How long have you been feeling like this?"
 
-"The headaches started in the fall. The rest - " Fatima shrugged. "I don't remember when it started. It just became."
+"The headaches started in the fall. The rest - " Fatima shrugged. "I don't remember when it started. It just became." She paused, and Elena saw something flicker across her face - not self-pity but something closer to wonder at what the body could endure and still function. "The body finds a way to keep going. Until it doesn't."
 
 "Do you have insurance?"
 
@@ -71,7 +71,7 @@ While the blood draw was happening, Elena sat with Fatima. The older woman's wal
 
 "You carry a lot," Elena said.
 
-"I carry what there is to carry. It's not optional."
+"I carry what there is to carry. It's not optional." Her voice was matter-of-fact, the tone of someone who had long ago stopped expecting the world to be fair and was simply dealing with what was.
 
 Elena recognized the philosophy. She lived it herself - the refusal to collapse because collapse was not permitted, the work that continued because stopping meant falling.
 
@@ -98,7 +98,7 @@ Fatima nodded, folding the instructions into her pocket. At the door, she paused
 
 No, Elena thought. It wasn't.
 
-The shift continued. Five more patients after Fatima. A medication refill, straightforward. A rash that was probably allergic dermatitis. A pregnant woman whose prenatal vitamins had run out. An elderly man whose son had brought him in because he was forgetting things - the early stages of something Elena could not fix but could at least name, could at least document for the journey ahead. A child with an ear infection, crying while Elena examined her, the mother exhausted and apologetic.
+The shift continued. Five more patients after Fatima. A medication refill, straightforward. A rash that was probably allergic dermatitis. A pregnant woman whose prenatal vitamins had run out - Elena gave her samples and tried not to think about what kind of prenatal care cost-nothing bought. An elderly man whose son had brought him in because he was forgetting things - the early stages of something Elena could not fix but could at least name, could at least document for the journey ahead, the long diminishment that was waiting for so many of them. A child with an ear infection, crying while Elena examined her, the mother exhausted and apologetic in the way mothers always were, as if their children's illnesses were failures of love rather than biology.
 
 Six o'clock came. Then six-thirty. The shift officially ended at seven, but there were still patients waiting, and Elena saw them all, staying until the queue was clear because that was what she did, because that was who she had become.
 

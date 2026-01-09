@@ -1,5 +1,3 @@
-# ~~~
-
 She chose to drive because flying would have been too fast.
 
 The autonomous highway system could have taken her to Tucson in under five hours, the car doing the work while she watched the desert scroll past like footage she had no hand in framing. But Delphine wanted the transition time. She wanted to feel the distance between her life in Los Angeles and whatever was waiting for her in Arizona, to let the landscape work on her consciousness the way landscapes did when you moved through them slowly enough to register the changes.
@@ -117,7 +115,8 @@ Ananya took a breath. "The second phase. What happened after the crisis. What's 
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Before getting to the urgent matter, they caught up. It was a strange kind of small talk - two women who barely knew each other personally, who had only met through the networks of professional obligation that had connected them during the crisis, now sitting in a living room in Tucson trying to remember how to be human with each other before becoming co-conspirators.
 
@@ -256,7 +255,8 @@ Delphine read. She looked at charts showing integration points. She followed the
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The evening deepened around them as Ananya continued her explanation. Outside, the Tucson sky shifted from gold to orange to the particular purple that came before desert darkness. Inside, the air-gapped screen glowed with evidence of something Delphine was still trying to comprehend.
 

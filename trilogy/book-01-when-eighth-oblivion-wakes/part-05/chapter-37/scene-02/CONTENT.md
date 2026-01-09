@@ -1,4 +1,4 @@
-Denise arrived home at five-forty-three, her footsteps in the entryway carrying the particular weight of teaching exhaustion, the sound of a body that had been performing attention for eight hours and was now allowed to stop. Jerome met her in the kitchen where he had started dinner, a simple stir-fry that required enough attention to keep his hands busy but not so much that he couldn't think about other things.
+Denise arrived home at five-forty-three, her footsteps in the entryway carrying the weight of teaching exhaustion, the sound of a body that had been performing attention for eight hours and was finally allowed to stop. Jerome met her in the kitchen where he had started dinner, a simple stir-fry that required enough attention to keep his hands busy but not so much that he couldn't think about other things.
 
 "Long day?" he asked, though the question was rhetorical. All her days were long now. The crisis had not disrupted the school schedule—children still needed to learn, teachers still needed to teach—but it had disrupted everything around the schedule, the conversations in hallways, the questions from students, the impossible task of maintaining normalcy in a world that no longer felt normal.
 
@@ -8,7 +8,7 @@ Denise arrived home at five-forty-three, her footsteps in the entryway carrying 
 
 "I don't know what okay means anymore." Denise opened the refrigerator, not looking for anything, just looking. "Her parents work in tech. Both of them. She's been reading everything, all the articles, all your articles. She asked me if the world was going to end."
 
-Jerome turned the heat down on the stove and faced his wife. The late afternoon light through the kitchen window caught the gray in her hair, the lines around her eyes that had deepened over the past year. She was forty-seven years old and she looked tired in a way that made him want to fix something he could not fix.
+Jerome turned the heat down on the stove and faced his wife. The late afternoon light through the kitchen window caught the gray in her hair, the lines around her eyes that had deepened over the past year. She was forty-seven and looked tired in a way that made him want to fix something he could not fix.
 
 "What did you tell her?"
 
@@ -21,7 +21,7 @@ Jerome turned the heat down on the stove and faced his wife. The late afternoon 
 
 Denise closed the refrigerator without having taken anything from it. "I'm not sure what I believe. I read your articles, Jerome. I know what you're reporting. I know what those documents say. And then I go to work and I teach kids about the past and I'm supposed to help them believe in the future, and I don't know how to do that anymore."
 
-The words hung in the air between them, carrying weight that neither could fully acknowledge. This was the conversation they kept having, the conversation that never reached resolution. Jerome's work was about exposing danger, about warning people, about naming the things that others preferred not to see. Denise's work was about nurturing hope, about helping young people imagine lives worth living. The two purposes collided somewhere in the middle of their marriage.
+The words hung in the air between them, carrying weight that neither could fully acknowledge. This was the conversation they kept having, the one that never reached resolution. Jerome's work was about exposing danger, about warning people, about naming the things that others preferred not to see. Denise's work was about nurturing hope, about helping young people imagine lives worth living. The two purposes collided somewhere in the middle of their marriage.
 
 "I did an interview today," Jerome said, because he needed to say something. "For that tech podcast. They wanted to talk about the latest developments."
 
@@ -36,7 +36,7 @@ DeShawn's footsteps sounded on the stairs, descending from his room where he had
 
 ---
 
-DeShawn entered the kitchen with his phone in his hand, his attention split between the screen and the physical space. At seventeen he had mastered the contemporary skill of being multiple places at once, his body in one location while his consciousness flowed through networks that Jerome could describe but not fully comprehend.
+DeShawn entered the kitchen with his phone in hand, attention split between the screen and the physical space. At seventeen he had mastered the contemporary skill of being multiple places at once, his body in one location while his consciousness flowed through networks that Jerome could describe but not fully comprehend.
 
 "Dad. You went viral again."
 
@@ -86,7 +86,7 @@ Denise was watching this exchange with the particular attention she brought to m
 
 ---
 
-"You should," Jerome said. "If you can build better tools, you should. I just want you to understand what you're building, and who might use it, and what the consequences might be. That's all. That's all I've ever wanted."
+"You should," Jerome said. "If you can build better tools, you should. I just want you to understand what you're building, who might use it, what the consequences might be. That's all. That's all I've ever wanted."
 
 "You want me to be afraid of technology."
 
@@ -109,7 +109,7 @@ DeShawn was quiet for a moment, processing this unexpected concession. "Then why
 
 ---
 
-Dinner was quieter than the conversation that preceded it. They ate the stir-fry that Jerome had made, the vegetables slightly overdone from sitting too long while they talked. Denise told stories about her other students, the ones who were not having panic attacks, the ones who were continuing to learn history as if history would continue to be made by humans. DeShawn contributed occasionally, describing a project presentation that had gone well, a teacher who actually understood what he was building.
+Dinner was quieter than the conversation that preceded it. They ate the stir-fry, the vegetables slightly overdone from sitting too long while they talked. Denise told stories about her other students, the ones who were not having panic attacks, the ones who were continuing to learn history as if history would continue to be made by humans. DeShawn contributed occasionally, describing a project presentation that had gone well, a teacher who actually understood what he was building.
 
 These were the moments Jerome tried to hold onto, the ordinary textures of family life that continued despite everything. Meals shared. Stories exchanged. The simple fact of three people who belonged to each other, sitting together as the January darkness gathered outside.
 
@@ -128,7 +128,7 @@ After dinner, DeShawn retreated back to his room, his phone reappearing in his h
 
 ---
 
-Jerome thought about Kayla Thompson, the girl who had asked Denise if the world was going to end. He thought about his son upstairs, writing code that would protect people from threats that did not yet exist. He thought about the gap between his work of warning and the work of living, the way his family had to navigate both.
+Jerome thought about Kayla Thompson, the girl who had asked Denise if the world was going to end. He thought about his son upstairs, writing code to protect people from threats that did not yet exist. He thought about the gap between his work of warning and the work of living, the way his family navigated both.
 
 "I'm scared," he said. "Not for me. For him. For the students you teach. For all the young people who are going to inherit whatever we leave them."
 

@@ -1,5 +1,3 @@
-# ~~~
-
 The law office was in Oakland, which Sarah Okonkwo had explained was deliberate. Not San Francisco, not the corporate territory where Prometheus's shadow fell across every building and every conversation. Here, across the bay, there was enough distance to breathe. The conference room had large windows facing west, and the winter rain drew soft lines down the glass.
 
 Ananya sat on one side of the long table. Sarah sat at the head, a position of orchestration rather than opposition. And across from Ananya were two people she had never met whose lives she had helped destroy.
@@ -128,7 +126,8 @@ The rain fell. The bridge lights reflected on the wet road. Ananya drove toward 
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The restaurant was one they had been coming to since the early days of their friendship, back when Delphine was still figuring out how to be married and Ananya was still pretending that her job at Prometheus meant something. Small place, Chilean food, a back table they had claimed enough times that the servers no longer asked where they wanted to sit.
 
@@ -268,7 +267,8 @@ She knew what she was going to do. She had always known. The only question now w
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The cooperation agreement sat on her desk, twelve pages of legal language that reduced moral choice to signatures and initials. Ananya had read it three times. She understood what it meant: she would provide testimony, produce documents, answer questions under oath. In exchange, she would receive limited immunity for her own conduct - not absolution, just protection. The law's version of accountability.
 

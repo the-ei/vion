@@ -1,5 +1,3 @@
-# ~~~
-
 Sofia was taking the task very seriously. She placed each fork on the left side of the plate, adjusted it, stepped back to assess, adjusted it again. Elena watched her daughter's careful concentration and felt something catch in her throat.
 
 "Is that right, Mama?"
@@ -74,7 +72,8 @@ The table was set. The food was cooking. The children were making noise and the 
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The television counted down in the corner of the living room, muted. They did not need the sound; the numbers descending were enough. Sixty seconds. Fifty-nine. The ball in Times Square that Elena had never seen in person but had watched drop every year since childhood, a ritual so deeply ingrained it felt like biological compulsion.
 
@@ -165,7 +164,8 @@ She was where she was supposed to be. She was ready for whatever came next.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The community center was warm with bodies and noise and the particular energy of people who had survived something together and were now celebrating that survival. Yusuf moved through the crowd with a plate of food he had assembled from the potluck tables, nodding at faces he recognized, stopping to exchange brief words with people who had once been strangers and were now something closer to family.
 
@@ -266,7 +266,8 @@ Not hope. That word was too simple. But possibility. The sense that the future w
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Someone had brought a keyboard. Not a good one - a cheap Casio with sticky keys and a tinny sound - but it was there in the corner of the community center, set up with a small amp for whoever wanted to play background music.
 
@@ -328,7 +329,8 @@ A year ago he had been paralyzed, unable to create, trapped in fragments that re
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Kevin's apartment was quiet. Outside, San Francisco was celebrating - he could hear fireworks in the distance, the faint sounds of parties in neighboring buildings - but inside, the only light came from his laptop screen and the glow of the city through the windows.
 
@@ -405,7 +407,8 @@ Kevin sat in the darkness and let the possibility settle into his bones. Tomorro
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The phone rang just after midnight. Kevin almost did not answer - he did not recognize the number, a long string of digits that marked it as international - but something made him pick up.
 

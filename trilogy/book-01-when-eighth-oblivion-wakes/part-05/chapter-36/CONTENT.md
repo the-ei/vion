@@ -1,5 +1,3 @@
-# ~~~
-
 She woke at six-fourteen to gray light and the sound of rain against the windows, the same sound that had accompanied so many mornings in this house over the past three years, and for a moment she lay still, orienting herself to the day, to the room, to the body that had carried her through two weeks of aftermath and was now, she realized, asking different questions than it had asked during the crisis itself. The ceiling above her was the same ceiling. The eucalyptus outside the window moved in the wind the way it always had. And yet.
 
 Ananya pushed back the covers and sat on the edge of the bed, her feet finding the worn area of carpet where her feet had landed thousands of times before. The house was silent except for the rain. No one else lived here. No one else had lived here since the divorce, since Priya had become a presence primarily on screens and alternate weekends, since this space had become hers alone in a way that had once felt like freedom and now felt like something she had not yet named.
@@ -66,7 +64,8 @@ Soon, she would have to choose differently.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The call connected at twelve-thirty-two, the delay attributable to the chaos of a fourteen-year-old's Saturday, and Priya's face materialized on the screen already mid-sentence, already telling a story about something that had happened at school that week, a story Ananya had to work to follow because she was also looking at her daughter, really looking, trying to see what was different and what remained.
 
@@ -187,7 +186,8 @@ That, in the end, was why she had done what she had done.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The text arrived at two-fourteen: Coming by in an hour, if that's okay. Need to talk. The sender was Vikram Patel, whose name on her screen produced a complex cascade: affection, wariness, the memory of working lunches and late meetings and conversations that had felt, at the time, like genuine connection.
 
@@ -321,7 +321,8 @@ She did not know if Vikram was a friend or an emissary or something in between. 
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The rain stopped around six, leaving the world washed and dripping, and Ananya stood in her kitchen watching the last light of the January day fade behind clouds. She had made pasta, a simple dish that required just enough attention to occupy her hands without engaging her mind, and now she ate it standing at the counter, not bothering with a plate, just the pot and a fork and the mechanical motion of feeding herself.
 

@@ -1,7 +1,5 @@
 # Chapter 18: What Remains
 
-# ~~~
-
 The cedar chest had stood in abuela's bedroom for as long as Elena could remember, its brass corners oxidized to a greenish patina that she used to trace with her fingertip when she was Sofia's age, following the metal's edge as if it were a map to somewhere she had never been. Now she knelt before it in the February light, the room still holding the particular silence that descends after a death, not emptiness exactly but a different quality of presence, as if the air itself had reorganized around an absence.
 
 Sofia sat cross-legged on the floor beside her, a cardboard box labeled DONATE in her lap, though they had not yet put anything in it.
@@ -138,7 +136,8 @@ He accepted this, the way children accept what they cannot understand, filing it
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 She found the prayer book tucked behind a stack of old missals on the bedroom shelf: San Judas Tadeo on the cover, his face worn soft by decades of handling. The letter had slipped deeper into the envelope, which she had moved from her pocket to her palm to the bedside table over the course of the afternoon. But the prayer book held other pages. More letters, unfinished.
 
@@ -306,7 +305,8 @@ The letter would wait. But it would not stop asking its questions.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The house settled into its nighttime sounds: the creak of cooling walls, the hum of the refrigerator, the particular silence that meant the children were finally asleep. Elena sat at her abuela's small desk, the one where bills had been paid and letters written and prayers copied out from books in handwriting that grew shakier each year.
 
@@ -427,9 +427,7 @@ That would have to be enough.
 
 # Chapter 19: The Archive
 
-# ~~~
-
-The boxes were heavier than he remembered. Two banker's boxes, standard legal size, the cardboard reinforced at the corners but still giving slightly under the weight of paper, of years, of a career that had once seemed like it would change something. Jerome set them on the reception desk and signed the visitor log while the aide—Darnell, the same aide who had been here every Tuesday and Thursday for the past three years—nodded in recognition.
+The boxes were heavier than he remembered. Two banker's boxes, standard legal size, the cardboard reinforced at the corners but still giving slightly under the weight of paper, of years, of a career that had once seemed certain to change something. Jerome set them on the reception desk and signed the visitor log while the aide—Darnell, the same aide who had been here every Tuesday and Thursday for the past three years—nodded in recognition.
 
 "She's had a good morning," Darnell said. "Ate most of her breakfast."
 
@@ -437,7 +435,7 @@ This was how they measured things now. The percentage of breakfast consumed. The
 
 "I brought some things to show her," Jerome said, gesturing at the boxes. "From my work."
 
-Darnell helped him carry them down the hallway, past the television room where three residents sat watching a cooking show with the volume too loud, past the nursing station where medications were being sorted into daily dosers, past the door to the room where Mr. Patterson had lived until last month when he stopped living at all. The facility smelled as it always smelled: disinfectant and institutional food and something beneath both, something organic and inevitable that no amount of cleaning could eliminate entirely.
+Darnell helped him carry them down the hallway, past the television room where three residents watched a cooking show with the volume too loud, past the nursing station where medications were being sorted into daily dosers, past the door to the room where Mr. Patterson had lived until last month when he stopped living at all. The facility smelled as it always smelled: disinfectant and institutional food and something beneath both, something organic and inevitable that no amount of cleaning could eliminate.
 
 His mother's door was open. She was sitting in her chair by the window, dressed in the blue sweater he had sent last Christmas, her white hair pulled back from her face in a braid that the morning aide must have done.
 
@@ -450,13 +448,13 @@ She looked up when he entered, and her face did the thing it sometimes did: a fl
 
 "Arthur," she said. "You look tired."
 
-Arthur had been his father, dead now for seventeen years. Jerome had stopped correcting her; the correction only caused distress, and what did it matter if she thought he was her husband instead of her son? He was someone who loved her, coming to sit with her. That truth remained even when the names did not.
+Arthur had been his father, dead now for seventeen years. Jerome had stopped correcting her; correction only caused distress, and what did it matter if she thought he was her husband instead of her son? He was someone who loved her, coming to sit with her. That truth remained even when the names did not.
 
 "I am tired," he admitted. "I brought some things to show you."
 
 Denise was behind him, carrying the second box, settling into the chair that lived in the corner of the room for visitors. She knew to be quiet at these moments, to let Jerome navigate his mother's reality before she joined it. They had been doing this long enough that they had a rhythm, a choreography of grief and love.
 
-Jerome opened the first box. On top: a framed photograph from 1987, the year he won his first local award, a small plaque and a check for five hundred dollars that had felt like a fortune at the time. In the photograph, he stood at a podium in a suit that fit poorly, grinning at the camera with the particular joy of a young man who believed his work would matter.
+Jerome opened the first box. On top: a framed photograph from 1987, the year he won his first local award, a small plaque and a check for five hundred dollars that had felt like a fortune at the time. In the photograph, he stood at a podium in a poorly fitting suit, grinning at the camera with the particular joy of a young man who believed his work would matter.
 
 "Look, Mama. This was me. A long time ago."
 
@@ -471,11 +469,11 @@ She took the frame in her hands, studying it with the concentration of someone t
 
 "Where is he now? Is he coming today?"
 
-The clouds returned. Jerome breathed through the familiar pain of it, the way she could recognize him in a photograph and not recognize him standing before her. The doctors had explained the neurology, the way memories were stored in different places, the way the disease moved through the brain like water through stone, finding the paths of least resistance. Understanding the mechanism did not make it easier to experience.
+The clouds returned. Jerome breathed through the familiar pain of it, the way she could recognize him in a photograph and not recognize him standing before her. The doctors had explained the neurology—memories stored in different places, the disease moving through the brain like water through stone, finding paths of least resistance. Understanding the mechanism did not make it easier to experience.
 
 "He's here," Denise said gently from the corner. "Jerome is right here."
 
-His mother looked at Jerome, then at the photograph, then back at Jerome. Something moved behind her eyes—a calculation, a comparison—and for a moment he saw her as she had been: sharp, quick, the woman who had raised him alone after his father died, who had worked two jobs and still managed to attend every school event, who had told him stories about journalism and justice and the power of telling truth.
+His mother looked at Jerome, then at the photograph, then back at Jerome. Something moved behind her eyes—a calculation, a comparison—and for a moment he saw her as she had been: sharp, quick, the woman who had raised him alone after his father died, who had worked two jobs and still attended every school event, who had told him stories about journalism and justice and the power of telling truth.
 
 "You're older," she said.
 
@@ -490,7 +488,7 @@ He laughed, surprising himself. Even now, even here, she was telling him to take
 
 ---
 
-He took out clippings, yellowed and fragile, from the stories that had made his career. The investigation into the housing authority that had led to criminal charges against three officials. The series on payday lending that had prompted legislative hearings, though no legislation had followed. The Pulitzer, finally, for the work on financial networks that had exposed the mechanisms by which money moved from the pockets of the poor to the accounts of the wealthy.
+He took out clippings, yellowed and fragile, from the stories that had made his career. The investigation into the housing authority that led to criminal charges against three officials. The series on payday lending that prompted legislative hearings, though no legislation followed. The Pulitzer, finally, for the work on financial networks that exposed the mechanisms by which money moved from the pockets of the poor to the accounts of the wealthy.
 
 Each piece he handed to his mother. Some she studied carefully. Others she set aside after a glance. Once she asked, "Who wrote this?" and he told her, and she nodded as if this were new information rather than the fact that had structured his entire adult life.
 
@@ -506,12 +504,12 @@ The question landed like a stone in still water. Did it help. Did it change thin
 
 "That's how it is," his mother said. "You plant seeds. You don't always see what grows."
 
-She was there again, fully present, his mother as he remembered her: the voice that had shaped his understanding of work and purpose and patience. He wanted to hold onto this moment, to record it somehow, to preserve it against the fog that would return.
+She was there again, fully present, his mother as he remembered her: the voice that had shaped his understanding of work and purpose and patience. He wanted to hold this moment, to record it somehow, to preserve it against the fog that would return.
 
 
 ---
 
-"I brought the Pulitzer," Jerome said. He had not planned to show her this—had thought it might seem like boasting—but now he wanted her to see it, wanted this version of her to hold the evidence that her son's life had amounted to something recognized by the wider world.
+"I brought the Pulitzer," Jerome said. He had not planned to show her this—had thought it might seem like boasting—but now he wanted her to see it, wanted this version of her to hold evidence that her son's life had amounted to something recognized by the wider world.
 
 He took out the certificate, framed in simple black, the gold seal bright against the cream paper. His mother accepted it with both hands, as if it were fragile, as if it mattered.
 
@@ -527,7 +525,7 @@ Denise caught his eye from the corner, her expression gentle and sad. These shif
 
 "Your father would have been proud. He always said you had a gift for words." She touched the certificate, her finger tracing the edge of the seal. "He wanted to be a writer, you know. Before the war. Before everything."
 
-Jerome had not known this. His father had died when Jerome was fifteen, long before they could have conversations about dreams and losses and the paths not taken. This was new information, surfacing now from whatever depths his mother's mind still held.
+Jerome had not known this. His father had died when Jerome was fifteen, long before they could have had conversations about dreams and losses and paths not taken. This was new information, surfacing now from whatever depths his mother's mind still held.
 
 "He wanted to write books. Novels. But then the war came and he went away and when he came back he was different. He said the words had left him."
 
@@ -536,7 +534,7 @@ Jerome had not known this. His father had died when Jerome was fifteen, long bef
 
 "I didn't know that," Jerome said.
 
-"There's a lot you don't know. A lot I never told you." She was drifting now, her gaze moving to the window, to the parking lot visible below. "I didn't want you to carry all of it. Children shouldn't carry their parents' sorrows."
+"There's a lot you don't know. A lot I never told you." She was drifting now, her gaze moving to the window, to the parking lot below. "I didn't want you to carry all of it. Children shouldn't carry their parents' sorrows."
 
 But they do, Jerome thought. They carry what they see and what they sense and what is passed down in silences and sighs. DeShawn carried Jerome's sorrows whether Jerome intended it or not. That was what inheritance meant.
 
@@ -546,7 +544,7 @@ She looked back at him, and for a moment he saw fear in her eyes—the fear of s
 
 "I don't remember," she said. "I had things to tell you, but they've gone. Like water. Everything runs out like water."
 
-Denise rose and came to stand beside Jerome, her hand finding his shoulder. This was the part that hurt most: not the confusion, not the mistaking him for his father, but these moments of clarity about her own fading. When she knew she was losing herself. When she grieved for the memories even as they disappeared.
+Denise rose and stood beside Jerome, her hand finding his shoulder. This was the part that hurt most: not the confusion, not the mistaking him for his father, but these moments of clarity about her own fading. When she knew she was losing herself. When she grieved for the memories even as they disappeared.
 
 "It's okay, Mama," Jerome said. "You've told me plenty. You've told me enough."
 
@@ -557,7 +555,7 @@ Denise rose and came to stand beside Jerome, her hand finding his shoulder. This
 
 The afternoon wore on. Jerome showed her more clippings, more photographs, more evidence of a life spent chasing truth. Sometimes she engaged, asking questions, making observations. Other times she stared out the window and did not respond, lost in whatever interior landscape the disease had made of her mind.
 
-They ate lunch together in her room—sandwiches from the cafeteria, cut into small pieces as the staff had instructed—and she ate most of hers, which was a good sign, which was something to record in the log of small victories.
+They ate lunch together in her room—sandwiches from the cafeteria, cut into small pieces as staff had instructed—and she ate most of hers, which was a good sign, something to record in the log of small victories.
 
 By three o'clock she was tired, her eyes closing between sentences, and Jerome began to pack the boxes again.
 
@@ -569,7 +567,7 @@ By three o'clock she was tired, her eyes closing between sentences, and Jerome b
 
 "I'll bring them."
 
-She was asleep before he finished packing, her breath evening out into the rhythm of an afternoon nap. Jerome stood by her bed for a long moment, looking at this woman who had made him, who had given him words and purpose and the belief that truth mattered even when it did not change the world as quickly as he hoped.
+She was asleep before he finished packing, her breath evening into the rhythm of an afternoon nap. Jerome stood by her bed for a long moment, looking at this woman who had made him, who had given him words and purpose and the belief that truth mattered even when it did not change the world as quickly as he hoped.
 
 The Pulitzer certificate sat on her bedside table. He would leave it there, he decided. Something for her to hold when he was not there, something to remind her that her son had done something with his life, even if she could not always remember what.
 
@@ -584,7 +582,7 @@ They walked out together, carrying the boxes, carrying the weight of what had be
 
 ---
 
-The drive back to the hotel was quiet. Jerome watched Baltimore pass outside the window—the neighborhoods he had grown up in, some gentrified beyond recognition, others still bearing the marks of disinvestment that his own articles had documented decades ago. The city had changed and not changed, the same fundamental structures operating beneath new facades, wealth flowing upward as it always flowed while communities at the bottom held on as best they could.
+The drive back to the hotel was quiet. Jerome watched Baltimore pass outside the window—neighborhoods he had grown up in, some gentrified beyond recognition, others still bearing marks of the disinvestment his own articles had documented decades ago. The city had changed and not changed, the same fundamental structures operating beneath new facades, wealth flowing upward as it always flowed while communities at the bottom held on as best they could.
 
 He thought about his mother's revelation: that his father had wanted to be a writer. That the words had left him after the war. This piece of family history, surfacing now through the cracks of dementia, felt both precious and cruel. To learn it now, when he could not follow up, could not ask the questions it raised. What had his father wanted to write about? What stories had lived in him unwritten? Had he seen Jerome's career as the fulfillment of his own abandoned dreams, or as something different altogether?
 
@@ -600,7 +598,7 @@ Denise let the silence hold for a moment, the way she did when she understood th
 
 "Maybe that's what inheritance really is," she said finally. "The questions we can't answer. The gaps we have to fill in ourselves."
 
-Jerome nodded, watching the city roll by, holding in his hands the boxes full of his life's work and the new absence of information that had always been there, unknown until now.
+Jerome nodded, watching the city roll by, holding in his hands boxes full of his life's work and the new absence of information that had always been there, unknown until now.
 
 
 ---
@@ -608,9 +606,10 @@ Jerome nodded, watching the city roll by, holding in his hands the boxes full of
 
 
 
-# ~~~
 
-DeShawn arrived in a car that cost more than Jerome's first three cars combined. Electric, sleek, the color of money, pulling into the facility's visitor lot with the particular hush of expensive machinery. Jerome watched from the lobby window, feeling something twist in his chest that he did not want to name.
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
+
+DeShawn arrived in a car that cost more than Jerome's first three cars combined. Electric, sleek, the color of money, pulling into the facility's visitor lot with the particular hush of expensive machinery. Jerome watched from the lobby window, feeling something twist in his chest he did not want to name.
 
 His son emerged: tall, well-dressed, moving with the confidence of someone who had found his place in the world. The suit was tailored. The shoes were Italian. Everything about him signaled success in a language Jerome knew but had never spoken himself.
 
@@ -622,7 +621,7 @@ His son emerged: tall, well-dressed, moving with the confidence of someone who h
 
 "Sometimes."
 
-They walked together down the familiar hallway. Jerome noticed his son's reaction to the facility—the slight tightening of his expression, the way his eyes moved over the institutional surfaces, cataloging and judging. DeShawn had offered to pay for a private room, a better place, and Jerome had refused, or rather, his mother had refused in one of her clear moments: this was where her friends were, she had said, the other residents she played cards with, the aides who knew her name.
+They walked together down the familiar hallway. Jerome noticed his son's reaction to the facility—the slight tightening of expression, the way his eyes moved over the institutional surfaces, cataloging and judging. DeShawn had offered to pay for a private room, a better place, and Jerome had refused, or rather, his mother had refused in one of her clear moments: this was where her friends were, she had said, the other residents she played cards with, the aides who knew her name.
 
 "She doesn't want to move," Jerome said, reading his son's face. "We've discussed it."
 
@@ -647,9 +646,9 @@ She looked at Jerome, then at DeShawn, her face working through the calculation.
 
 "I remember too."
 
-Jerome stood by the door, watching this encounter between his mother and his son, the two people who represented the ends of his life: where he came from and what he had made. DeShawn was gentle with her in a way he was not gentle with Jerome. The resentments between father and son did not extend to grandmother and grandson. That was something, at least.
+Jerome stood by the door, watching this encounter between his mother and his son, the two people representing the ends of his life: where he came from and what he had made. DeShawn was gentle with her in a way he was not gentle with Jerome. The resentments between father and son did not extend to grandmother and grandson. That was something, at least.
 
-They sat together for an hour, the three of them. DeShawn showed his grandmother photos on his phone—pictures from his life that Jerome had only glimpsed on social media, the office and the colleagues and the events of a world Jerome did not inhabit. His mother responded with genuine delight, asking questions, exclaiming over images she would not remember tomorrow.
+They sat together for an hour, the three of them. DeShawn showed his grandmother photos on his phone—pictures from his life Jerome had only glimpsed on social media, the office and colleagues and events of a world Jerome did not inhabit. His mother responded with genuine delight, asking questions, exclaiming over images she would not remember tomorrow.
 
 Then, inevitably, the conversation turned.
 
@@ -672,7 +671,7 @@ The question hung in the air. DeShawn looked at Jerome, and Jerome saw the answe
 
 "Because writing about problems doesn't fix them."
 
-Jerome's hands tightened on the arms of his chair. This was not the time, not the place. But his son continued, speaking to his grandmother but aiming the words at Jerome.
+Jerome's hands tightened on the arms of his chair. This was not the time. Not the place. But his son continued, speaking to his grandmother while aiming the words at Jerome.
 
 "Dad spent his whole life telling people about bad things. He won awards for it. But did any of it change? Did the people he wrote about—the poor ones, the cheated ones—did their lives get better?"
 
@@ -697,7 +696,7 @@ His mother was watching them, her eyes moving from face to face like a spectator
 
 "To tell the truth and let others deal with it. I know. I've heard this speech."
 
-The room felt smaller suddenly, the walls pressing in. Jerome thought about all the stories he had told, all the corruption revealed, all the careful documentation of systems designed to extract wealth from the vulnerable. He thought about the follow-ups he had never written, the stories that showed nothing had changed, the politicians who survived scandals and the companies that paid fines that amounted to rounding errors.
+The room felt smaller suddenly, walls pressing in. Jerome thought about all the stories he had told, all the corruption revealed, all the careful documentation of systems designed to extract wealth from the vulnerable. He thought about follow-ups he had never written, stories showing nothing had changed, politicians who survived scandals and companies that paid fines amounting to rounding errors.
 
 "So what do you do that's so different?" he asked.
 
@@ -705,7 +704,7 @@ The room felt smaller suddenly, the walls pressing in. Jerome thought about all 
 
 "Kevin Zhou's influence, I'm guessing."
 
-DeShawn's expression hardened. "You always do that. Dismiss anything I've accomplished as someone else's influence. Can't I have my own ideas?"
+DeShawn's expression hardened. "You always do that. Dismiss anything I've accomplished as someone else's influence. Can I not have my own ideas?"
 
 "I didn't say—"
 
@@ -724,9 +723,9 @@ They both turned to look at her. Her eyes were clear, focused—one of her lucid
 
 "Mama—"
 
-"I'm not finished." Her voice had the authority it had always carried, the voice of a mother who would not be interrupted. "Your boy is trying to fix things his way. You tried to fix things your way. Neither of you is wrong. Both of you are too proud to see that."
+"I'm not finished." Her voice carried the authority it always had, the voice of a mother who would not be interrupted. "Your boy is trying to fix things his way. You tried to fix things your way. Neither of you is wrong. Both of you are too proud to see that."
 
-DeShawn and Jerome looked at each other. The anger was still there, but something else had entered the room: the presence of a woman who had seen more than either of them, who had lost more than either of them, who was losing herself even now but could still cut to the heart of what they were circling.
+DeShawn and Jerome looked at each other. The anger was still there, but something else had entered the room: the presence of a woman who had seen more than either of them, lost more than either of them, who was losing herself even now but could still cut to the heart of what they circled.
 
 "I don't want to fight in front of Grandma," DeShawn said finally.
 
@@ -747,13 +746,13 @@ They stood there for a long moment, unwilling to break the connection.
 
 "She usually is."
 
-"I didn't mean—" He stopped, regrouped. "I respect what you did. I always have. I just couldn't do it the same way. I had to find my own path."
+"I didn't mean—" He stopped. Regrouped. "I respect what you did. I always have. I just couldn't do it the same way. I had to find my own path."
 
 "I know."
 
 "Do you?"
 
-Jerome considered the question honestly. Did he know? Had he ever accepted that his son's different choices were not a rejection of him, but a transformation of something he had passed on?
+Jerome considered the question honestly. Did he know? Had he ever accepted that his son's different choices were not rejection of him but transformation of something he had passed on?
 
 "I'm trying to know," he said. "It's hard. When you've spent your life believing in one approach, it's hard to see value in another."
 
@@ -778,7 +777,7 @@ DeShawn leaned down and kissed his grandmother's forehead, then left, his expens
 
 ---
 
-Jerome stayed with his mother until the afternoon aide came to check her vitals. She woke briefly, asked if DeShawn was still there, and seemed satisfied when Jerome told her he would be back tomorrow.
+Jerome stayed with his mother until the afternoon aide came to check vitals. She woke briefly, asked if DeShawn was still there, and seemed satisfied when Jerome told her he would be back tomorrow.
 
 "He's a good boy," she said. "You raised him well."
 
@@ -786,7 +785,7 @@ Jerome stayed with his mother until the afternoon aide came to check her vitals.
 
 "You worked to give him a better life. That's raising."
 
-He could have argued—could have pointed out all the school events missed, the dinners eaten alone while he chased one more source, the distance that had grown between him and his son while Jerome pursued truths that mattered to strangers. But his mother would not remember this conversation, and perhaps it was kinder to let her believe the version of fatherhood she had constructed.
+He could have argued—could have pointed to all the school events missed, the dinners eaten alone while he chased one more source, the distance that had grown between him and his son while Jerome pursued truths that mattered to strangers. But his mother would not remember this conversation, and perhaps it was kinder to let her believe the version of fatherhood she had constructed.
 
 "Get some rest, Mama."
 
@@ -812,7 +811,8 @@ They walked out together, the familiar route through the facility, past the resi
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The dinner had been better than he expected. They had avoided the large topics, sticking to safer ground: DeShawn's apartment in Austin, Jerome's plans for partial retirement, the places Denise wanted to travel now that money was less tight. By dessert, something had loosened between them. Not resolution—there was too much history for that—but a temporary truce, a willingness to occupy the same space without combat.
 
@@ -974,8 +974,6 @@ He settled into the chair, prepared to keep vigil through the night. His mother 
 
 
 # Chapter 20: Vessels
-
-# ~~~
 
 The museum smelled of fresh paint and the particular staleness of climate-controlled air, the temperature precisely calibrated to preserve objects that were meant to persist beyond the lives of those who made them. Delphine held Theo's hand as they walked through the gallery space, picking their way between installation workers and half-assembled displays, the exhibition taking shape around them like a memory crystallizing into matter.
 
@@ -1168,7 +1166,8 @@ She took out her phone and made a note: "More helpers. More resilience. Balance 
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Jessie arrived at four, still in her work clothes, the particular energy of a writers' room clinging to her like a scent. She found them in the cafe, Theo absorbed in a game on Delphine's tablet, Delphine staring at her coffee as if it might reveal something.
 
@@ -1317,7 +1316,8 @@ That was transmission. That was inheritance. She could not control what they too
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The house was quiet by eleven. Theo asleep after ice cream and bath and the ritual of bedtime stories that he insisted he was too old for but still wanted. Jessie reading in bed, the light from her tablet casting blue shadows on her face, the argument from earlier still present between them but softened now, smoothed by the domestic rhythms that had outlasted all their conflicts.
 
@@ -1500,8 +1500,6 @@ That was inheritance too. Perhaps the most important kind.
 
 # Chapter 21: What He Left
 
-# ~~~
-
 The building did not look like a tomb. That was the first thing Yusuf noticed as they pulled into the parking lot, Amina driving because his hands were shaking too much to hold the wheel. The Threshold—its new name, painted on a glass door that had replaced the industrial metal of his memory—was bright, open, welcoming in a way that felt like a betrayal. New windows had been cut into the old brick walls, flooding the interior with afternoon light. A mural covered the eastern face: hands reaching upward, figures in motion, colors that had no right to exist on a building where his father had died.
 
 "It's beautiful," Amina said.
@@ -1640,7 +1638,8 @@ They left the building, walking past the mural and the new windows and all the e
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The sound check was scheduled for six, two hours before the doors would open. Yusuf returned to The Threshold with his guitar case and his fear, Amina trailing behind with the quiet support she had been offering all day. The space had changed again in the hours they were gone: chairs set up in rows, lights focused on the stage, a mixing board installed at the back of the room where a young woman with headphones was adjusting levels.
 
@@ -1801,7 +1800,8 @@ In an hour, he would sing. In an hour, he would give away what he had been holdi
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The room was full. Maybe a hundred and fifty people, folding chairs occupied and standing room crowded, the community that had built this space coming together to celebrate its opening. Yusuf stood in the wings—if a converted warehouse could be said to have wings—and felt his heart trying to escape his chest.
 
@@ -1982,8 +1982,6 @@ That was transmission. That was inheritance transformed. It was not the same as 
 
 # Chapter 22: Mother Tongue
 
-# ~~~
-
 The gymnasium smelled of industrial cleaner and the particular musk of children's bodies, the combination familiar to anyone who had spent time in elementary schools. Elena and Daniel found seats in the middle section, close enough to see the stage but far enough to survey the room. Around them, other parents settled into folding chairs, exchanging greetings and complaints about parking, the ordinary social rituals of school events.
 
 "She was nervous this morning," Daniel said, leaning close to be heard over the pre-event chatter.
@@ -2097,7 +2095,8 @@ Elena wiped her face with the back of her hand, not caring who saw.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The question period was brief—a teacher asked Sofia to say more about the house she had inherited, and Sofia described it simply: a small house in a neighborhood that had changed a lot, with a yard where her bisabuela had grown tomatoes and roses. Another parent asked about the fighting metaphor, and Sofia said, carefully, that she meant fighting for fairness, not fighting with fists.
 
@@ -2312,7 +2311,8 @@ That was inheritance done right. Not control, but trust. Not repetition, but tra
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Sunday morning arrived with the particular slowness of a day without obligations. Elena made breakfast while the children drifted through the house in various states of wakefulness, Daniel reading the news on his tablet at the kitchen table, the ordinary choreography of family life.
 
@@ -2475,8 +2475,6 @@ For now, it was enough.
 
 # Chapter 23: The Verdict
 
-# ~~~
-
 The Austin Convention Center was a cathedral of screens and light, its atrium rising three stories and covered in displays advertising companies Jerome had never heard of. He stood in the registration line behind a group of young people whose conversation consisted entirely of terms he did not understand: scalability, MVP iteration, synergistic ecosystem development. They spoke with the confidence of those who believed they were building the future, and perhaps they were, though it was not a future Jerome felt any ownership of.
 
 He was fifty-seven years old. He had spent his career in rooms that smelled of paper and coffee, interviewing sources on burner phones, building stories one fact at a time. This place smelled of sanitizer and expensive cologne, and the stories being told here were not about what had happened but about what might happen, given sufficient investment.
@@ -2609,7 +2607,8 @@ Maybe rejection and transformation were not the same thing. Maybe inheritance co
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Jerome did not move from his seat. The crowd around DeShawn ebbed and flowed like tide—investors, engineers, potential partners, each wanting something from his son that Jerome could not name. He watched from his position in the back row, still processing what he had heard, still recalibrating.
 
@@ -2747,7 +2746,8 @@ The echo was intentional. Father and son, using each other's words.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 They talked for ninety minutes. The coffee went cold; neither of them noticed. DeShawn explained Verity's architecture—how they were building transparency into AI decision-making systems at the code level, making every algorithmic choice auditable in real time. Jerome asked questions, genuine ones, probing for understanding rather than weakness.
 
@@ -2908,8 +2908,6 @@ Inheritance, continuing in shapes the previous generation could not predict.
 
 # Chapter 24: Surviving Work
 
-# ~~~
-
 The UCLA School of Theater, Film and Television occupied a building that had been renovated three times since Delphine's own college years, each renovation adding screens and removing character. She stood in the lobby studying the posters on the walls—student productions, faculty screenings, retrospectives—looking for something familiar and finding nothing.
 
 She was forty-two years old. The work she had made when she was thirty-five was now part of a curriculum.
@@ -3028,7 +3026,8 @@ Delphine was not sure she was ready. But she walked to the front anyway.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 "Did you feel compromised making this?"
 
@@ -3180,7 +3179,8 @@ Delphine was exhausted. She was also not ready to be alone with what had happene
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The hotel room was generic in the way all hotel rooms are generic: clean sheets, empty closet, television no one would watch. Delphine sat on the bed with her phone, not yet ready to make the call but knowing she needed to.
 
@@ -3343,8 +3343,6 @@ It was survival. Maybe that was enough.
 
 # Chapter 25: Breaking the Pattern
 
-# ~~~
-
 The envelope arrived on Thursday morning, delivered by a regular mail carrier who did not know what she was carrying. Yusuf held it for a long moment before opening it, feeling the weight of the single page inside.
 
 COOPERATIVE LOGISTICS NETWORK
@@ -3502,7 +3500,8 @@ Somewhere between the two, Yusuf would have to find his answer.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The community center basement smelled like burnt coffee and institutional cleaner. Yusuf had been coming here for four years—first as a gig worker looking for solidarity, then as an organizer building it. The folding chairs were arranged in a rough circle, approximately fifteen people present, all of them drivers or warehouse pickers or delivery workers.
 
@@ -3674,7 +3673,8 @@ Maybe that was enough for now.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The walk took him through Phillips, through the blocks where he had grown up. October afternoon light slanted between buildings that had been there longer than he had been alive, their brick facades weathered by Minnesota winters, their storefronts cycling through businesses that opened hopeful and closed quietly.
 
@@ -3832,8 +3832,6 @@ The pattern was breaking. Something was tearing. Something else was beginning.
 
 
 # Chapter 26: Letters to the Future
-
-# ~~~
 
 The house was quiet in the way houses are quiet when children have finally slept and husbands have followed them into rest. Elena sat at the kitchen table with the laptop open, its glow the only light in the room. She had been staring at the blank document for twenty minutes.
 
@@ -4005,7 +4003,8 @@ It was not control. She understood that now. It was offering. You could not make
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Daniel's parents' house in Tempe was built for gatherings—a rambling single-story with a backyard that opened onto desert landscape, its kitchen large enough for multiple cooks to work without collision. Elena had been coming here for twelve years now, since she and Daniel started dating, and the space still surprised her with its capacity to absorb children.
 
@@ -4177,7 +4176,8 @@ All she could do was offer, and hope, and keep writing.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The final night of letter-writing came in December, a week before Christmas. Elena had been returning to the letters on and off for weeks—adding sections, revising, trying to say what could not quite be said. Now she sat at the kitchen table again, the house quiet again, the pen in her hand ready to write to Mateo.
 

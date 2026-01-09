@@ -1,5 +1,3 @@
-# ~~~
-
 The timer on the wall showed 44:37 and counting down. Forty-four minutes and thirty-seven seconds until the satellite window closed, until their link to whatever audience remained went dark again, until they were just another building full of people with generators and nothing to say to the world.
 
 Delphine Okafor-Barnes stood at the back of the control room, watching her team work. They had been at it for four days now, sleeping in shifts on the couches in the break room, eating whatever was left in the vending machines, running on coffee and the particular adrenaline that came from being needed when everything else had stopped. The generators hummed in the basement, burning through fuel that would run out eventually, powering screens that showed the fragments of a world they could still reach.
@@ -85,7 +83,8 @@ She thought about Theo, four years old, asking about his iPad. She thought about
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The whiteboard in the conference room was covered with narrative fragments, handwritten in different colors, organized into rough categories that Delphine had created that morning while trying to make sense of what the world was telling itself.
 
@@ -175,7 +174,8 @@ And for the first time in her career, she wasn't sure she could trust herself to
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The house in Silverlake still had power. The grid was holding in this part of the city, some quirk of infrastructure that no one could explain, and when Delphine walked through the front door at eight that evening, the lights were on and the refrigerator was humming and the illusion of normalcy was almost painful.
 
@@ -274,7 +274,8 @@ Jessie looked at Delphine, the question still in her eyes, the answer not yet ag
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Lawrence had a vision. He had spent the night in the office, Delphine learned when she arrived Saturday morning, and the time had not been wasted. On the wall behind his desk, he had assembled a presentation: graphics, bullet points, a whole branding package for the crisis they were living through.
 
@@ -359,7 +360,8 @@ He left her alone in the conference room, with the graphics on the wall and the 
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The broadcast she wrote was not what Lawrence wanted. It was not dramatic. It was not branded. It was not the kind of content that would build an audience or establish dominance or make their company the voice of the crisis.
 

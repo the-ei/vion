@@ -1,5 +1,3 @@
-# ~~~
-
 The documents covered every surface of Jerome's home office. Printouts fanned across the desk, pinned to corkboards, stacked in precarious towers on the floor. His whiteboard - a four-by-six-foot expanse that had replaced a family photo wall two years ago - was nearly full. Blue ink for healthcare systems. Red for labor management. Green for hiring algorithms. Black connecting lines crisscrossing like a conspiracy theorist's fever dream, except none of this was theory.
 
 It was 2:47 AM. Denise had long since gone to bed, after bringing him coffee at midnight and standing in the doorway for a moment, watching him work with an expression that mixed concern with something like resignation. They'd had the conversation before - about his hours, his obsessions, the way his investigations consumed everything around them. She understood. She didn't like it, but she understood.
@@ -137,7 +135,8 @@ Jerome kept working.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The children were asleep. Lucas in his room with the nightlight on, Sofia in hers with the door cracked open, both of them oblivious to what their mother was about to do. Daniel was in Tucson for a three-day job, his absence a relief tonight rather than a worry. Elena sat at the kitchen table with her tablet in front of her, the document package ready, the send button waiting.
 
@@ -248,7 +247,8 @@ She finished her cold tea and went to bed, but sleep was a long time coming.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The deployment review meeting started at 10 AM in Conference Room 7C, a space designed for collaboration that felt more like a war room. Twelve people around a long table, laptops open, screens displaying metrics and projections. Kevin Zhou sat near the end, his new badge - the one with the additional clearance stripe - visible against his shirt.
 
@@ -355,7 +355,8 @@ Kevin Zhou turned off the lights and went to bed, carrying the weight of what he
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The waiting room of the Hennepin County Community Clinic was designed for volume, not comfort. Plastic chairs bolted to the floor in rows. Fluorescent lights that buzzed at a frequency just below conscious awareness. Magazines years out of date, as if anyone came here to read. A television mounted high on the wall, playing news that no one watched.
 
@@ -446,7 +447,8 @@ He held onto the thought as the city passed by outside, ordinary and endless, wa
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Later that night. The house quiet. Denise asleep, DeShawn asleep, the world reduced to Jerome and his documents and the light of his laptop screen.
 

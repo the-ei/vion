@@ -1,5 +1,3 @@
-# ~~~
-
 Ruth woke at five-fourteen, as she had every morning for the past eight months, her body startled into consciousness by the absence beside her, that cold geography where Susan should have been. The left side of the bed, Susan's side, remained untouched, the pillow still holding the faint depression from the last time Ruth had adjusted it, which had been yesterday morning, in the same gesture she'd performed every morning since Susan died, a smoothing that was part denial and part prayer. She lay still for a moment, listening to the house settle around her, the particular creaks of the Victorian that she and Susan had bought thirty-one years ago when Berkeley real estate was merely expensive rather than impossible, when they were young lawyers who believed in precedent and progress and the slow bending of the arc.
 
 The fog pressed against the windows. She could hear it, almost - that Pacific dampness that crept through the hills before dawn, softening the edges of the world until Berkeley became a rumor of itself. Ruth pushed back the covers and set her feet on the cold hardwood floor, another small shock that she had come to rely on, her body's reminder that she was still here, still required to move through the day.
@@ -69,7 +67,8 @@ The seminar started at ten. She had papers to review, students to face. The day,
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The seminar room at Berkeley Law had windows on two sides, an extravagance of natural light that the architects had clearly intended as a metaphor - legal education illuminated, perhaps, or the transparency of reasoned discourse, as if truth were something you could see if only you let enough light in. Ruth had been teaching in this room for eleven years, since her appointment to the faculty after leaving the bench, and she knew its angles intimately: where the morning sun would fall at ten-fifteen, how the afternoon shadows gathered in the corners, which seats the students preferred and why. The table was arranged for conversation, not lecture, twelve seats around an oval surface designed to suggest equality among interlocutors even though everyone knew the power resided with the professor at the head.
 
@@ -170,7 +169,8 @@ Ruth thought about it. A year ago, she would have cared about the professional i
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The cafe where Ruth met Rebecca occupied a corner lot in a neighborhood that had been transitioning for as long as Ruth could remember, always moving toward something it never quite became. The buildings mixed Victorian facades with newer construction, barbershops next to artisanal coffee roasters, a check-cashing place across from a yoga studio. Oakland had always been this way, Ruth thought - a city of coexistence, not quite gentrified, not quite stable, holding its contradictions in visible tension, refusing the false resolution of becoming one thing or another.
 
@@ -286,7 +286,8 @@ They walked out together, Ruth leaving cash on the table that covered both meals
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Evening came the way it always came to the hills above Berkeley, the light going blue and then gray and then the particular Berkeley dark that was never quite dark, the lights of the city emerging below like a mirror of the stars that would appear if the fog allowed, which tonight it would not. Ruth heated soup on the stove - lentil, from a batch she'd made on Sunday - and ate standing at the counter, looking out through the kitchen window at Susan's garden disappearing into the dark.
 

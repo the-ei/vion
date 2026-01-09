@@ -1,5 +1,3 @@
-# ~~~
-
 The hospice room smelled of antiseptic and something beneath it, something softer, the particular scent of a body preparing to let go. Elena Varga sat in the chair beside her grandmother's bed, her hands folded in her lap, watching the rise and fall of the thin chest beneath the white sheet.
 
 Abuela's breathing had changed in the night. Elena had noticed it immediately when she arrived this morning, the subtle shift in rhythm that her years of nursing had taught her to recognize. The pauses between breaths were longer now, the inhalations shallower. The body was beginning its final negotiation with the air.
@@ -75,7 +73,8 @@ She held abuela's hand and waited, feeling something shift inside her that she c
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The children arrived in the afternoon. Sofia came through the door first, fourteen years old and striving to look older, her face arranged in an expression of practiced composure that Elena recognized as borrowed from somewhere, television or the internet or the careful observation of adults managing difficult situations.
 
@@ -179,7 +178,8 @@ And now she would go back, and she would keep the vigil, and she would wait for 
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 She returned to the hospice that night, unable to stay home, unable to sleep in her own bed while abuela lay in this room. Daniel had the children; he understood without her having to explain. He had always understood the things she could not say, which was part of why she had married him and part of why she loved him still, despite everything the years had worn away.
 
@@ -285,7 +285,8 @@ I understand now, she said quietly, to abuela or to herself, she was not sure wh
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Dawn.
 
@@ -401,7 +402,7 @@ In.
 
 Out.
 
-The air smelled of exhaust and desert and something else, something green, some plant struggling to survive in this hostile climate.
+The air smelled of exhaust and desert and something else, something vegetal, some plant struggling to survive in this hostile climate.
 
 She thought about abuela's hands. About the things they had made and held and touched. About the chain of women stretching back through time, each one teaching the next, each one carrying something forward.
 

@@ -1,5 +1,3 @@
-# ~~~
-
 The first draft was too angry. Elena read it back and saw the rage bleeding through every professional phrase, the bitterness that would make her supervisor defensive rather than understanding. She deleted it and started again.
 
 The second draft was too careful. So concerned with not burning bridges that it burned instead into meaninglessness, a letter that could have been about a move or a family situation, that gave no hint of why she was actually leaving. She deleted that one too.
@@ -79,7 +77,8 @@ She picked up her coffee and drank it. The pastry was flaky and sweet, some kind
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The espresso machine had seemed like such a good idea when they bought it. They had found it at a kitchen store in Scottsdale, a beautiful Italian thing with copper fittings and a steam wand that made milk foam like a professional barista. Elena remembered the afternoon they brought it home, the excitement of unboxing it, the way Daniel had read the manual aloud while she set up the components. They were going to be the kind of people who made their own espresso every morning. Sophisticated. Adult. In control of their lives.
 
@@ -180,7 +179,8 @@ They stood there together in the empty room, looking at the evidence of a life t
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The clinic looked smaller than she remembered. Elena stood in the parking lot, looking at the building where she had spent more waking hours than anywhere else for the past decade. The same beige stucco walls, the same faded sign reading "Phoenix Community Health Center," the same row of windows where she had so often sat with patients, explaining diagnoses and treatment plans and the brutal mathematics of what their insurance would and would not cover.
 
@@ -271,7 +271,8 @@ The car was where she had left it, in the spot that was no longer her spot. She 
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The church basement smelled like instant coffee and old carpet. Folding chairs were arranged in a rough circle, most of them already occupied by the time Elena found the building. She had gotten the address from a flyer someone posted in the apartment building's laundry room, a hand-drawn announcement for a "community health and mutual aid meeting, all welcome."
 
@@ -381,7 +382,8 @@ Elena put the card in her pocket. Outside, the Phoenix evening was cooling towar
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The drive from Phoenix to Flagstaff usually took about two and a half hours. Today it would take longer; the car was packed so full they could barely see out the back window. Everything they had decided to keep was crammed into boxes and bags, filling the trunk and the back seat and the spaces around Elena's feet.
 

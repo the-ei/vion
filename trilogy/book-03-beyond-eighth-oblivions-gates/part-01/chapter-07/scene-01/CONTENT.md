@@ -4,7 +4,7 @@ The amicus brief sprawled across three legal pads and two laptop screens. Ruth's
 
 "The precedent establishes the framework," Morris countered. "You can't argue harm without first proving the statutory basis for liability."
 
-Ruth listened, making notes. This was the part she loved - the collaborative friction of legal minds working toward precision. Each of them brought different strengths: Hannah's aggressive clarity, Samuel's technical expertise on algorithmic systems, Morris's decades of appellate experience. Together, they were building something that might actually matter.
+Ruth listened, making notes. This was the part she loved - the collaborative friction of legal minds working toward precision, each correction and counter-argument sharpening the whole. Each of them brought different strengths: Hannah's aggressive clarity, Samuel's technical expertise on algorithmic systems, Morris's decades of appellate experience. Together, they were building something that might actually matter.
 
 The case they were briefing - Henderson v. Prometheus Technologies - had reached the Supreme Court after three years of lower court wrangling. The plaintiffs, a class of consumers whose financial profiles had been algorithmically degraded by interlocking AI systems, claimed the post-crisis governance frameworks created a private right of action for algorithmic harm. If they won, companies would be liable for the damage their systems caused, even when no human decision-maker could be identified. If they lost, the frameworks would be revealed as theater - regulation in name only, enforcement in nowhere.
 

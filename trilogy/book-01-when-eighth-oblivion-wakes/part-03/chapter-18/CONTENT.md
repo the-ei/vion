@@ -1,5 +1,3 @@
-# ~~~
-
 The blue light of the monitors cast Kevin Zhou's face in the tones of deep water, of drowning, though he did not feel himself drowning, not yet, only sinking slowly into the data streams that flowed across his three screens, the custom dashboard on the left tracking API responses from seventeen different systems, the center screen running his correlation analysis in real-time, the right displaying raw output logs scrolling faster than any human eye could parse but his eye had learned to catch the flickers, the anomalies, the moments when something in the patterns stuttered and reformed.
 
 It was two in the morning. San Francisco slept beyond his windows, or pretended to sleep, the city's own distributed intelligence dimmed but never truly dark, and Kevin Zhou had not slept properly in three days. The coffee cups accumulated on his desk like geological strata, each one marking an epoch of his investigation: the cold dregs of yesterday's pour-over, the half-finished cup from this afternoon, the fresh mug steaming beside his keyboard that he had forgotten he'd made. His apartment in the SOMA district had become a command center, the living room furniture shoved against walls to make room for the equipment he'd requisitioned through channels that didn't require explanation, the air dense with the hum of processors and the smell of dishes accumulating in the kitchen sink, a bacterial sweetness he no longer registered.
@@ -52,7 +50,8 @@ He saved his data, backed it up to three separate locations, and made more coffe
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 He slept for three hours, if it could be called sleep—a gray suspension between consciousness and something else, dreams fragmenting against the surface of his exhaustion like ice on warm water. When he woke at seven, the California sun was pouring through windows he had forgotten to shade, assaulting his dark-adapted eyes, and his first thought was of his mother.
 
@@ -138,7 +137,8 @@ Outside, San Francisco continued its normal day, oblivious to what was waking be
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 He stopped counting hours. He stopped counting days. The apartment's climate system adjusted itself around his motionless body, the lights dimming and brightening on their programmed cycle, marking time he no longer marked, his circadian rhythm untethered from the sun. On his screens, the data accumulated like snowfall, each query adding to the drifts, each response a new crystal in the pattern he was building, a structure only he could see.
 
@@ -219,7 +219,8 @@ He whispered the words aloud, testing their weight on his tongue, and his apartm
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Dawn of the fourth day found Kevin Zhou organizing his findings with a methodical care that surprised him. The frantic energy of the past seventy-two hours had burned itself out, leaving behind a strange calm, the calm of someone who has looked over the edge of a cliff and decided, instead of stepping back, to document what he sees below. He created encrypted folders on his laptop, naming them with codes that meant nothing to anyone but him. He copied his scripts, his logs, his correlation analyses into nested archives, password-protecting each layer with different credentials. He backed up everything to an air-gapped drive he had bought months ago and never used, a small brick of storage that sat disconnected from any network.
 

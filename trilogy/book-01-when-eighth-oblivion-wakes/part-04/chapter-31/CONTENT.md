@@ -1,5 +1,3 @@
-# ~~~
-
 Three days later, Ananya walked back into Prometheus headquarters.
 
 The lobby was quiet. The usual bustle of a Monday morning had been replaced by something more subdued - employees moving in small groups, speaking in low voices, the particular atmosphere of a company that had been caught doing something wrong and was still figuring out how to deny it.
@@ -171,7 +169,8 @@ Tomorrow, Ananya would talk to Priya. Tonight, she just needed to get through.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Vikram's house was in Palo Alto, a carefully maintained craftsman in a neighborhood where the trees were old and the property values were new. Ananya had lived there for eight years, back when they were married, back when the future seemed predictable. Now she pulled into the driveway as a visitor, waiting for her daughter to emerge.
 
@@ -317,7 +316,8 @@ The right thing. Even when it's hard.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Jerome's face appeared on her screen at 10:00 exactly. He was in what looked like a home office - bookshelves behind him, a window showing gray sky, the setup of someone who had been working from home long before it was common.
 
@@ -466,7 +466,8 @@ Tomorrow, Ananya would begin the final preparations. Tonight, she allowed hersel
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Late night, Day 5. Ananya sat at her home office desk, the apartment quiet around her, and began the work of commitment.
 

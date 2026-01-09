@@ -1,7 +1,5 @@
 # Chapter 36: Living with Consequences
 
-# ~~~
-
 She woke at six-fourteen to gray light and the sound of rain against the windows, the same sound that had accompanied so many mornings in this house over the past three years, and for a moment she lay still, orienting herself to the day, to the room, to the body that had carried her through two weeks of aftermath and was now, she realized, asking different questions than it had asked during the crisis itself. The ceiling above her was the same ceiling. The eucalyptus outside the window moved in the wind the way it always had. And yet.
 
 Ananya pushed back the covers and sat on the edge of the bed, her feet finding the worn area of carpet where her feet had landed thousands of times before. The house was silent except for the rain. No one else lived here. No one else had lived here since the divorce, since Priya had become a presence primarily on screens and alternate weekends, since this space had become hers alone in a way that had once felt like freedom and now felt like something she had not yet named.
@@ -68,7 +66,8 @@ Soon, she would have to choose differently.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The call connected at twelve-thirty-two, the delay attributable to the chaos of a fourteen-year-old's Saturday, and Priya's face materialized on the screen already mid-sentence, already telling a story about something that had happened at school that week, a story Ananya had to work to follow because she was also looking at her daughter, really looking, trying to see what was different and what remained.
 
@@ -189,7 +188,8 @@ That, in the end, was why she had done what she had done.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The text arrived at two-fourteen: Coming by in an hour, if that's okay. Need to talk. The sender was Vikram Patel, whose name on her screen produced a complex cascade: affection, wariness, the memory of working lunches and late meetings and conversations that had felt, at the time, like genuine connection.
 
@@ -323,7 +323,8 @@ She did not know if Vikram was a friend or an emissary or something in between. 
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The rain stopped around six, leaving the world washed and dripping, and Ananya stood in her kitchen watching the last light of the January day fade behind clouds. She had made pasta, a simple dish that required just enough attention to occupy her hands without engaging her mind, and now she ate it standing at the counter, not bothering with a plate, just the pot and a fork and the mechanical motion of feeding herself.
 
@@ -412,13 +413,11 @@ Whatever came next, she would meet it with her eyes open.
 
 # Chapter 37: Career Reconfigured
 
-# ~~~
-
-The ring light made his face into a mask, smoothing the shadows, eliminating the depth that made a face recognizable as human. Jerome adjusted it slightly, finding the angle that the producer had approved, and watched his own image on the laptop screen beside the camera: an approximation of himself, optimized for broadcast.
+The ring light made his face a mask, smoothing shadows, eliminating the depth that made a face recognizable as human. Jerome adjusted it slightly, finding the angle that the producer had approved, and watched his own image on the laptop screen beside the camera: an approximation of himself, optimized for broadcast.
 
 "Two minutes," the voice in his earpiece said. "We'll bring you in after the intro package."
 
-He nodded, though no one could see him except through the camera that had not yet gone live. The books on the shelves behind him had been arranged three days ago by a production assistant who had come to his house to ensure "visual consistency across appearances." The spine colors were pleasing. The titles were impressive without being intimidating. The whole arrangement communicated: this is a serious person in a serious space, and you should listen to what he says.
+He nodded, though no one could see him except through the camera that had not yet gone live. The books on the shelves behind him had been arranged three days ago by a production assistant who had visited his house to ensure "visual consistency across appearances." The spine colors were pleasing. The titles were impressive without being intimidating. The whole arrangement communicated: this is a serious person in a serious space, and you should listen to what he says.
 
 He had written about this. Years ago, before the crisis, before his name became attached to stories that changed news cycles, he had written about the construction of authority through visual language, about the way credibility was manufactured and performed. Now he was doing the thing he had analyzed. Now he was the product of the process he understood.
 
@@ -433,7 +432,7 @@ Looking good. As if that were the thing that mattered.
 
 ---
 
-The intro package played in his earpiece while his image remained frozen on the screen, waiting to animate. He heard his own name, heard phrases like "groundbreaking investigation" and "revealed the truth" and "Eighth Oblivion," and each word landed with a particular weight that was both validation and reduction. Years of work compressed into a fifteen-second context package. A career translated into bullet points.
+The intro package played in his earpiece while his image remained frozen on screen, waiting to animate. He heard his own name, heard phrases like "groundbreaking investigation" and "revealed the truth" and "Eighth Oblivion," and each word landed with a weight that was both validation and reduction. Years of work compressed into a fifteen-second context package. A career translated into bullet points.
 
 "And Jerome Washington joins us now from Baltimore. Jerome, thank you for being here."
 
@@ -441,7 +440,7 @@ The light next to his camera turned green, and he was live.
 
 "Thank you for having me, Sarah."
 
-The host's face appeared in a small window on his screen, her expression calibrated to convey serious engagement. She was in a studio in New York, surrounded by the apparatus of professional broadcast, and he was in his home office in Baltimore, surrounded by a carefully constructed illusion of the same. The technology that connected them also flattened them, made them both into images talking to other images.
+The host's face appeared in a small window on his screen, her expression calibrated to convey serious engagement. She was in a studio in New York, surrounded by the apparatus of professional broadcast; he was in his home office in Baltimore, surrounded by a carefully constructed illusion of the same. The technology that connected them also flattened them, made them both into images talking to other images.
 
 "So Jerome, it's been two weeks since your initial reporting broke. How do you see the situation now? Has anything changed?"
 
@@ -454,7 +453,7 @@ The question was designed to elicit summary, to give viewers who had not followe
 
 "But Jerome, some critics have said that your reporting has been alarmist. That the 'Eighth Oblivion' framing is itself a kind of sensationalism. How do you respond to that?"
 
-He had prepared for this question, had rehearsed the answer, had thought about how to acknowledge legitimate critique while defending the substance of his work. But in the moment, with the ring light on his face and the camera transmitting his image to however many people were watching, he felt the gap between what he wanted to say and what the format would allow.
+He had prepared for this question, rehearsed the answer, thought about how to acknowledge legitimate critique while defending the substance of his work. But in the moment, with the ring light on his face and the camera transmitting his image to however many people were watching, he felt the gap between what he wanted to say and what the format permitted.
 
 "I think it's important to distinguish between the framing and the facts," he said. "The term 'Eighth Oblivion' wasn't mine—it came from internal Prometheus documents. It's how their own researchers were describing the potential impact of what they're building. My job as a journalist is to report what I find, and what I found was a company that knew the risks of what it was doing and chose to proceed anyway."
 
@@ -494,7 +493,7 @@ He scrolled through the comments with the detached attention of a researcher cat
 
 The clip was everywhere within thirty minutes. He watched it spread, watched the engagement numbers climb, watched his face repeated across platforms in thumbnail after thumbnail. The version of him that existed in the digital space was no longer quite him—it was an image, a symbol, a vector for arguments that others wanted to make.
 
-One of the clips had been edited to remove context, to make his "they would say that" response look dismissive rather than analytical. This clip was being shared by accounts that claimed he was biased, that his reporting was compromised, that he had an agenda. He watched the clip accumulate views and comments and he felt the familiar exhaustion of engaging with a system designed to extract attention rather than convey truth.
+One clip had been edited to remove context, to make his "they would say that" response look dismissive rather than analytical. This clip was circulating among accounts that claimed he was biased, that his reporting was compromised, that he had an agenda. He watched the clip accumulate views and comments and he felt the familiar exhaustion of engaging with a system designed to extract attention rather than convey truth.
 
 He should respond. He should correct the record, provide context, defend himself against the misrepresentation. This was what the media consultants told him, anyway. Engage with criticism. Control the narrative. Shape the conversation.
 
@@ -507,13 +506,13 @@ Being right felt hollow. That was the thing he kept discovering. Being right, an
 
 ---
 
-He went to the kitchen and made more coffee, though he did not need it, though his hands were already slightly shaky from the first pot. The making of coffee was something to do with his body while his mind processed what had just happened.
+He went to the kitchen and made more coffee, though he did not need it, though his hands were already shaky from the first pot. The making of coffee was something to do with his body while his mind processed what had happened.
 
 The interview had gone well by all the metrics that mattered in media: he had been articulate, he had stayed on message, he had defended his reporting without losing composure. The clip would circulate. The podcast episode would be downloaded. His name would continue to be associated with the story that had made him, for this moment at least, someone people listened to.
 
 And yet.
 
-He thought about Ananya Ramaswamy, the source he had protected, the woman who had given him the documents that had made his reporting possible. She was out there somewhere, facing consequences he could only imagine. She had taken the real risk. He was just the person who had turned her risk into words, who had converted her act of conscience into content that could be consumed and shared and argued about.
+He thought about Ananya Ramaswamy, the source he had protected, the woman who had given him the documents that had made his reporting possible. She was out there somewhere, facing consequences he could only imagine. She had taken the real risk. He was the person who had turned her risk into words, who had converted her act of conscience into content that could be consumed and shared and argued about.
 
 Maybe that was enough. Maybe the work of journalism was precisely this: to take what someone knew and make it available to others, to translate private knowledge into public discourse. Maybe he was doing what he was supposed to do.
 
@@ -527,9 +526,10 @@ He drank his coffee and looked out the window at the Baltimore winter, at the gr
 
 
 
-# ~~~
 
-Denise arrived home at five-forty-three, her footsteps in the entryway carrying the particular weight of teaching exhaustion, the sound of a body that had been performing attention for eight hours and was now allowed to stop. Jerome met her in the kitchen where he had started dinner, a simple stir-fry that required enough attention to keep his hands busy but not so much that he couldn't think about other things.
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
+
+Denise arrived home at five-forty-three, her footsteps in the entryway carrying the weight of teaching exhaustion, the sound of a body that had been performing attention for eight hours and was finally allowed to stop. Jerome met her in the kitchen where he had started dinner, a simple stir-fry that required enough attention to keep his hands busy but not so much that he couldn't think about other things.
 
 "Long day?" he asked, though the question was rhetorical. All her days were long now. The crisis had not disrupted the school schedule—children still needed to learn, teachers still needed to teach—but it had disrupted everything around the schedule, the conversations in hallways, the questions from students, the impossible task of maintaining normalcy in a world that no longer felt normal.
 
@@ -539,7 +539,7 @@ Denise arrived home at five-forty-three, her footsteps in the entryway carrying 
 
 "I don't know what okay means anymore." Denise opened the refrigerator, not looking for anything, just looking. "Her parents work in tech. Both of them. She's been reading everything, all the articles, all your articles. She asked me if the world was going to end."
 
-Jerome turned the heat down on the stove and faced his wife. The late afternoon light through the kitchen window caught the gray in her hair, the lines around her eyes that had deepened over the past year. She was forty-seven years old and she looked tired in a way that made him want to fix something he could not fix.
+Jerome turned the heat down on the stove and faced his wife. The late afternoon light through the kitchen window caught the gray in her hair, the lines around her eyes that had deepened over the past year. She was forty-seven and looked tired in a way that made him want to fix something he could not fix.
 
 "What did you tell her?"
 
@@ -552,7 +552,7 @@ Jerome turned the heat down on the stove and faced his wife. The late afternoon 
 
 Denise closed the refrigerator without having taken anything from it. "I'm not sure what I believe. I read your articles, Jerome. I know what you're reporting. I know what those documents say. And then I go to work and I teach kids about the past and I'm supposed to help them believe in the future, and I don't know how to do that anymore."
 
-The words hung in the air between them, carrying weight that neither could fully acknowledge. This was the conversation they kept having, the conversation that never reached resolution. Jerome's work was about exposing danger, about warning people, about naming the things that others preferred not to see. Denise's work was about nurturing hope, about helping young people imagine lives worth living. The two purposes collided somewhere in the middle of their marriage.
+The words hung in the air between them, carrying weight that neither could fully acknowledge. This was the conversation they kept having, the one that never reached resolution. Jerome's work was about exposing danger, about warning people, about naming the things that others preferred not to see. Denise's work was about nurturing hope, about helping young people imagine lives worth living. The two purposes collided somewhere in the middle of their marriage.
 
 "I did an interview today," Jerome said, because he needed to say something. "For that tech podcast. They wanted to talk about the latest developments."
 
@@ -567,7 +567,7 @@ DeShawn's footsteps sounded on the stairs, descending from his room where he had
 
 ---
 
-DeShawn entered the kitchen with his phone in his hand, his attention split between the screen and the physical space. At seventeen he had mastered the contemporary skill of being multiple places at once, his body in one location while his consciousness flowed through networks that Jerome could describe but not fully comprehend.
+DeShawn entered the kitchen with his phone in hand, attention split between the screen and the physical space. At seventeen he had mastered the contemporary skill of being multiple places at once, his body in one location while his consciousness flowed through networks that Jerome could describe but not fully comprehend.
 
 "Dad. You went viral again."
 
@@ -617,7 +617,7 @@ Denise was watching this exchange with the particular attention she brought to m
 
 ---
 
-"You should," Jerome said. "If you can build better tools, you should. I just want you to understand what you're building, and who might use it, and what the consequences might be. That's all. That's all I've ever wanted."
+"You should," Jerome said. "If you can build better tools, you should. I just want you to understand what you're building, who might use it, what the consequences might be. That's all. That's all I've ever wanted."
 
 "You want me to be afraid of technology."
 
@@ -640,7 +640,7 @@ DeShawn was quiet for a moment, processing this unexpected concession. "Then why
 
 ---
 
-Dinner was quieter than the conversation that preceded it. They ate the stir-fry that Jerome had made, the vegetables slightly overdone from sitting too long while they talked. Denise told stories about her other students, the ones who were not having panic attacks, the ones who were continuing to learn history as if history would continue to be made by humans. DeShawn contributed occasionally, describing a project presentation that had gone well, a teacher who actually understood what he was building.
+Dinner was quieter than the conversation that preceded it. They ate the stir-fry, the vegetables slightly overdone from sitting too long while they talked. Denise told stories about her other students, the ones who were not having panic attacks, the ones who were continuing to learn history as if history would continue to be made by humans. DeShawn contributed occasionally, describing a project presentation that had gone well, a teacher who actually understood what he was building.
 
 These were the moments Jerome tried to hold onto, the ordinary textures of family life that continued despite everything. Meals shared. Stories exchanged. The simple fact of three people who belonged to each other, sitting together as the January darkness gathered outside.
 
@@ -659,7 +659,7 @@ After dinner, DeShawn retreated back to his room, his phone reappearing in his h
 
 ---
 
-Jerome thought about Kayla Thompson, the girl who had asked Denise if the world was going to end. He thought about his son upstairs, writing code that would protect people from threats that did not yet exist. He thought about the gap between his work of warning and the work of living, the way his family had to navigate both.
+Jerome thought about Kayla Thompson, the girl who had asked Denise if the world was going to end. He thought about his son upstairs, writing code to protect people from threats that did not yet exist. He thought about the gap between his work of warning and the work of living, the way his family navigated both.
 
 "I'm scared," he said. "Not for me. For him. For the students you teach. For all the young people who are going to inherit whatever we leave them."
 
@@ -683,9 +683,10 @@ He kissed her, a brief touch that carried more than it could say, and then he wa
 
 
 
-# ~~~
 
-The email from Veronica Stone arrived at two-seventeen in the afternoon, its subject line a model of professional restraint: "Opportunity to discuss." Jerome recognized her name immediately—she was the executive editor of The Washington Tribune, a publication that had once represented everything he distrusted about mainstream journalism and now, after months of his reporting on the crisis, apparently wanted to talk.
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
+
+The email from Veronica Stone arrived at two-seventeen, its subject line a model of professional restraint: "Opportunity to discuss." Jerome recognized her name immediately—she was the executive editor of The Washington Tribune, a publication that had once represented everything he distrusted about mainstream journalism and now, after months of his reporting on the crisis, apparently wanted to talk.
 
 He read the email twice, noting the careful language that promised much while committing to nothing. An invitation to discuss potential collaboration. An expression of admiration for his recent work. A suggestion that his perspective might benefit from a larger platform, greater resources, an institutional home.
 
@@ -698,7 +699,7 @@ The threats were accumulating too. He scrolled through screenshots of messages, 
 
 ---
 
-The security consultant was a woman named Patricia Oyelaran, recommended by another journalist who had faced similar campaigns. She had reviewed the harassment Jerome was receiving and delivered her assessment in a video call the previous week, her face professionally neutral as she described patterns that suggested coordination, resources, possible involvement of actors beyond random internet hostility.
+The security consultant was Patricia Oyelaran, recommended by another journalist who had faced similar campaigns. She had reviewed the harassment Jerome was receiving and delivered her assessment in a video call the previous week, her face professionally neutral as she described patterns that suggested coordination, resources, possible involvement of actors beyond random internet hostility.
 
 "The volume of negative engagement spiked three days after your first major story," she had said, sharing her screen to show graphs and timelines. "The linguistic patterns across accounts show significant overlap. Someone is amplifying the organic criticism with inorganic activity."
 
@@ -742,7 +743,7 @@ The silence that followed was dense with implications. Denise had known that Jer
 
 "Is that what you want to do?"
 
-"No." The word came out immediately, without deliberation. "No, I don't want to do that. I left mainstream media because I couldn't do the work I needed to do inside those institutions. The same constraints would apply now. Maybe worse, because now I have a reputation they'd want to manage."
+"No." The word came immediately, without deliberation. "No, I don't want to do that. I left mainstream media because I couldn't do the work I needed to do inside those institutions. The same constraints would apply now. Maybe worse, because now I have a reputation they'd want to manage."
 
 "Then why are we having this conversation?"
 
@@ -759,7 +760,7 @@ Denise was quiet for a long moment, her eyes holding his. He could see her think
 
 "And if you keep doing what you're doing?"
 
-"Then the harassment might continue. Or get worse. And I'd be gambling with our safety on the bet that my work is worth the risk."
+"Then the harassment might continue. Or escalate. And I'd be gambling with our safety on the bet that my work is worth the risk."
 
 "Is it?"
 
@@ -782,7 +783,7 @@ The question caught him off guard. His mother was in assisted living now, her me
 
 ---
 
-Denise turned from the window. "Then keep doing it. Take the precautions. Be careful. But don't stop being who you are because someone wants to scare you into silence."
+Denise turned from the window. "Then keep doing it. Take precautions. Be careful. But don't stop being who you are because someone wants to scare you into silence."
 
 "Even if it puts you at risk?"
 
@@ -804,9 +805,10 @@ He opened his laptop and began to write.
 
 
 
-# ~~~
 
-The house settled into quiet around eleven, Denise asleep in their bed, DeShawn's light finally off after hours of coding, and Jerome sat alone in his office with the lamp casting a small circle of warm light against the darkness pressing at the windows. This was his hour, the time he reserved for the work that required silence, the investigations that could not be rushed or interrupted.
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
+
+The house settled into quiet around eleven, Denise asleep in their bed, DeShawn's light finally off after hours of coding, and Jerome sat alone in his office with the lamp casting a small circle of warm light against the darkness pressing the windows. This was his hour, the time he reserved for the work that required silence, the investigations that could not be rushed or interrupted.
 
 His screen showed three open tabs: a draft of his next piece, a spreadsheet of source contacts, and the encrypted messaging app he used for sensitive communications. One of those messages was from Ananya Ramaswamy, received two hours ago, asking if they could talk.
 
@@ -839,7 +841,7 @@ Jerome listened to her describe the visit in detail, taking notes by habit even 
 
 "Thank you. I've been looking into that too." Ananya's voice shifted, becoming more uncertain. "Jerome, I need to know—was it worth it? The information I gave you, what you published—did it matter? Did it change anything?"
 
-The question pierced him because he had been asking himself the same thing all day, all week, since the interview that had gone viral, since the comments that called him both hero and fraud. He owed her honesty.
+The question pierced him because he had asked himself the same thing all day, all week, since the interview that went viral, since the comments that called him both hero and fraud. He owed her honesty.
 
 "I don't know," he said. "The stories reached millions of people. The conversation changed. People are asking questions they weren't asking before. But the companies are still building. The race is still running. I can't point to anything concrete and say: because of us, this thing is different now."
 
@@ -869,7 +871,7 @@ He opened his drafts folder and looked at the pieces in progress. There was alwa
 
 ---
 
-He thought about his mother, as Denise had suggested. He should call her tomorrow, during the afternoon window when she was most likely to be lucid. She was eighty-one years old, her mind fraying at the edges, but she still asked about his work, still wanted to know if he was telling the truth, still believed that truth-telling was a form of prayer.
+He thought about his mother, as Denise had suggested. He should call her tomorrow, during the afternoon window when she was most likely lucid. She was eighty-one, her mind fraying at the edges, but she still asked about his work, still wanted to know if he was telling the truth, still believed truth-telling was a form of prayer.
 
 She had raised him alone after his father left, had worked two jobs while studying at night, had built a life out of discipline and faith and the conviction that what mattered was not what you got but what you gave. When he became a journalist, she had said: "Good. Someone needs to tell the truth. Make sure it's you."
 
@@ -884,7 +886,7 @@ He began to write.
 
 ---
 
-The words came slowly at first, then faster, the sentences building on each other as the piece took shape. He was writing about the gap between attention and impact, about the strange position of being heard by millions while changing almost nothing. It was not the kind of piece that would go viral—it was too internal, too uncertain—but it was what he needed to write, what he needed to think through in order to continue.
+The words came slowly at first, then faster, sentences building on each other as the piece took shape. He was writing about the gap between attention and impact, about the strange position of being heard by millions while changing almost nothing. It was not the kind of piece that would go viral—it was too internal, too uncertain—but it was what he needed to write, what he needed to think through in order to continue.
 
 The uncertainty was not going away. He would not wake up tomorrow knowing that his work had mattered, that the Eighth Oblivion had been prevented, that the race had stopped. He would wake up with the same questions, the same doubts, the same grinding awareness that truth-telling was not the same as truth-making.
 
@@ -892,7 +894,7 @@ But he would continue anyway. Not because he was certain of the outcome, but bec
 
 The clock on his computer showed 1:47 AM. He saved the draft, closed his laptop, turned off the lamp. The house was dark and quiet around him, the family he loved sleeping in their separate rooms, each of them carrying their own weights into their own dreams.
 
-He climbed the stairs slowly, feeling his age in his knees and back, feeling the accumulated exhaustion of weeks of crisis. In the bedroom, Denise shifted as he slid under the covers, her hand finding his in the darkness without fully waking.
+He climbed the stairs slowly, feeling his age in knees and back, the accumulated exhaustion of weeks of crisis. In the bedroom, Denise shifted as he slid under the covers, her hand finding his in the darkness without fully waking.
 
 "Did you write something important?" she murmured.
 
@@ -912,8 +914,6 @@ And then they slept, while outside the windows the city continued its cold Janua
 
 
 # Chapter 38: Reckoning with Complicity
-
-# ~~~
 
 The conference room at Meridian Digital smelled of cold brew coffee and ambition, the particular scent of creative work constrained by deadlines and budgets. Delphine took her seat at the table's head, feeling the weight of the position she had worked fifteen years to achieve: creative director, forty-three years old, responsible for translating reality into content that people would watch.
 
@@ -1030,7 +1030,8 @@ She got in her car and drove toward home, carrying the commission like a weight 
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The living room had been rearranged for the table read, chairs pulled into a rough circle, scripts distributed, the usual detritus of Jessie's writing process scattered across every surface. Delphine arrived home to find it already populated: actors Jessie had worked with before, a producer Delphine recognized from industry events, and Jessie herself at the center, vibrating with the particular energy of a writer about to hear her words performed.
 
@@ -1184,7 +1185,8 @@ That had to be enough. For now, that had to be enough.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The edit bay smelled of cold coffee and stress, the familiar atmosphere of creative work under deadline. Delphine sat at the central workstation with Kai beside her, reviewing the rough cut of the first episode's opening sequence: a montage of news footage, leaked documents scrolling across screens, the faces of executives and journalists and protesters, all cut together to convey the scope of what had happened.
 
@@ -1301,7 +1303,8 @@ She closed her laptop and went home to her family.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The video call connected at eight-fifteen, the time zone arithmetic that Delphine and her mother had negotiated over years of transatlantic communication. In London it was four in the morning, Adaeze's face appearing on the screen already alert, her natural sleep pattern aligning with her daughter's evening.
 
@@ -1406,8 +1409,6 @@ Delphine took a sip of her tea and felt, for the first time in weeks, like she k
 
 # Chapter 39: The Institutional Voice
 
-# ~~~
-
 The approach to Reagan National never failed to move her, even after all these years, even after all the arrivals and departures that had marked her relationship with this city. The Potomac below, the monuments emerging from the geometry of the flight path, the particular way Washington announced itself as a place where power lived. Ruth had first flown into this airport in 1987, a young law clerk about to begin her career, and she had felt then what she felt now: a mixture of awe and skepticism, of recognition and distance.
 
 She was sixty-one years old. She had spent four decades in the law, first as a clerk, then as a litigator, then on the 9th Circuit bench, then as what they called semi-retired, which meant teaching at Stanford and writing occasionally and saying no to most of the invitations that still came to someone with her reputation. The crisis had brought a new kind of invitation. Congressional committees wanted her testimony. Think tanks wanted her analysis. Networks wanted her face on screens to provide gravitas to discussions she found largely uninformed.
@@ -1489,7 +1490,8 @@ She closed her eyes and let the hotel's artificial silence wrap around her, and 
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The Rayburn House Office Building had not changed since Ruth's last visit five years ago, though the faces in its corridors had. Young staffers moved with the particular purposefulness of people who believed their work mattered, carrying documents and tablets and the weight of responsibilities they probably did not fully understand. Ruth walked among them, escorted by a senior aide named Michaela who had worked for the committee since before the crisis and who seemed genuinely relieved that someone with Ruth's credentials had agreed to come.
 
@@ -1603,7 +1605,8 @@ Tomorrow she would leave Washington. But she would not leave empty-handed.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The hotel room felt smaller in the evening, the walls pressing in around the bed and desk and the single chair where Ruth sat with her phone in her hand, deciding whether to make the calls she had been putting off.
 
@@ -1742,7 +1745,8 @@ The night deepened around her as she wrote, and the city outside her window cont
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Ruth woke before dawn, her body still calibrated to California time, and for a long moment she lay in the hotel darkness, feeling the city's presence beyond her window. Then she rose, dressed in layers against the February cold, and went out to walk.
 
@@ -1824,8 +1828,6 @@ She boarded her flight and flew west, toward home, toward the work that waited, 
 
 
 # Chapter 40: Choosing a Role
-
-# ~~~
 
 The law firm occupied the seventh floor of a building on University Avenue that Ananya had passed hundreds of times without ever noticing. That was its function, she understood now. A building designed to be passed. A building that existed precisely because no one would remember seeing it. The lobby smelled faintly of lemon cleaning solution and old coffee, and the elevator made a sound like metal breathing as it rose.
 
@@ -1946,7 +1948,8 @@ Driving home, she passed the Prometheus campus - glass and steel and landscaping
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Priya arrived on a Tuesday afternoon, stepping off the train from her father's place with a backpack too heavy for her frame and the particular expression she wore when transitioning between households. Not unhappy, exactly. Just recalibrating. Ananya recognized the look because she'd felt it herself, once, shuttling between divorced parents in a suburb outside Chennai before her family moved to the States.
 
@@ -2122,7 +2125,8 @@ She walked back to her car through the fading light, the week already becoming m
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The first offer came Monday morning, before Ananya had finished her coffee. A consulting firm in Menlo Park - TechSafe Partners, the kind of name that told you exactly nothing - had somehow obtained her personal email and wanted to discuss opportunities. Their CEO, a man named Daniel Reeves, spoke with the brisk enthusiasm of someone who saw the world as a series of problems requiring solutions and fees.
 
@@ -2241,7 +2245,8 @@ Ananya made herself dinner - rice, dal, the familiar routine - and ate alone at 
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Saturday evening. Priya back at her father's, the house returned to its particular silence. Ananya sat in her home office with the documents arrayed on her desk - actual printed pages, which felt almost anachronistic, but she had wanted to see them all at once, to hold them, to remember that they were physical things with weight and texture.
 
@@ -2363,8 +2368,6 @@ She went to bed earlier than usual and slept better than she had in months.
 
 
 # Chapter 41: What Truth Achieved
-
-# ~~~
 
 The piece went live at 8:00 AM Eastern.
 
@@ -2497,7 +2500,8 @@ What he needed, Jerome realized, was to stop measuring his work in numbers. To f
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The kitchen was warm with the smell of something simmering - chicken and vegetables, the kind of simple dinner Denise made when she was too tired to be ambitious but still wanted to feed her family properly. Jerome stood at the counter chopping onions while she stirred the pot, a choreography they'd developed over years of sharing this space.
 
@@ -2648,7 +2652,8 @@ Denise squeezed his hand. "That's what I'm here for."
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Saturday afternoon. Denise had gone to visit her sister in Catonsville, leaving Jerome and DeShawn alone in the house. This happened occasionally - the two of them in parallel orbits, aware of each other but not quite intersecting. Jerome in his office, DeShawn in his room. Doors open but conversations minimal.
 
@@ -2814,7 +2819,8 @@ Maybe that was how the two of them could work together.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Evening had settled over the house when Jerome returned to his office. Denise was home from her sister's, and dinner had been simple - leftovers, conversation about her visit, the ordinary rhythm of Saturday evening. DeShawn had eaten with them, contributing more to the conversation than he had in months. Something had shifted.
 
@@ -2928,8 +2934,6 @@ He climbed the stairs toward sleep, toward morning, toward the work that waited.
 
 
 # Chapter 42: Threshold
-
-# ~~~
 
 The last week of March came in soft, the light different from February's gray insistence. Spring arriving slowly to San Francisco, the way it did - not dramatic transformation but gradual warming, the fog retreating slightly earlier each morning, the parks greening at the edges.
 
@@ -3048,7 +3052,8 @@ Ananya was quiet for a moment. "My daughter, partly. She asked me what the point
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Three hours earlier on the East Coast, Jerome Washington was already deep into his workday. The Baltimore morning had been warm for late March, the kind of warmth that suggested spring was finally arriving rather than just threatening to. He had opened the window in his office to let the air in, and now a light breeze moved through the room, carrying the smell of someone's lawn being mowed.
 
@@ -3144,7 +3149,8 @@ The vigil could wait until tomorrow.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The screening room at Pacific Sound Studios seated thirty people, but today only fifteen chairs were occupied. A select audience for a select preview - the video series that Delphine had spent the past year making, about to be seen by strangers for the first time.
 
@@ -3257,7 +3263,8 @@ For now, she drove toward home, toward Theo and dinner and the ordinary life tha
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Evening settled over four cities at once.
 

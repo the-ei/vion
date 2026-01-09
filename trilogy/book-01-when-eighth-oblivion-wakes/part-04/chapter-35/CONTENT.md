@@ -1,5 +1,3 @@
-# ~~~
-
 The apartment felt larger now that she was home all day.
 
 Ananya had lived in this space for three years, but she'd rarely experienced it in daylight. Her life had been structured around Prometheus: early mornings in the office, late nights troubleshooting systems, weekends spent catching up on the work that always exceeded the hours. The apartment had been a place to sleep, occasionally to eat, rarely to think. Now it was all she had.
@@ -92,7 +90,8 @@ That would have to be enough.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Jerome spent the morning reading the discourse.
 
@@ -218,7 +217,8 @@ It was the closest thing to an apology Jerome was likely to get. He took it, gra
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The shift was long—twelve hours, seven in the morning to seven in the evening—but Elena had done longer. The work itself was familiar, the endless procession of bodies in need, the particular rhythm of care that had shaped her professional life for a decade and a half. What had changed was the context surrounding that work, the knowledge that she was now a public figure whether she wanted to be or not.
 
@@ -332,7 +332,8 @@ That was enough. For now, it had to be enough.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The video had been live for three days, and Yusuf's phone hadn't stopped buzzing since.
 
@@ -453,7 +454,8 @@ The snow kept falling. The city slept. And Yusuf sat with his grief and his hope
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 December 28th, 2033. Four cities. Four notifications.
 

@@ -1,7 +1,5 @@
 # Chapter 36: The Weight of Having Lived
 
-# ~~~
-
 The Chennai airport had changed. Ananya stood at the edge of the arrivals hall, Priya beside her shouldering both their carry-on bags, and looked at what had been built since she last walked through this space. The ceiling arched higher now, glass and steel where she remembered concrete. The light fell differently. But beneath the renovation, beneath the gleaming floor tiles and the digital signage cycling through Tamil and English and Hindi, something remained that her body recognized before her mind could name it.
 
 The humidity. That was what struck her first. Not unpleasant, not the assault she had braced for, but familiar in a way that made her chest tighten. The air here had weight, had texture. It pressed against her skin like a hand she had forgotten was missing.
@@ -84,7 +82,8 @@ Ananya stood at the threshold, Priya's hand still in hers, and let the fact of i
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The cremation ground lay at the edge of the city, where Chennai dissolved into something less defined. They arrived in a convoy of white cars - Ananya, Priya, her father, her brother Suresh who had flown in from Bangalore, the aunts and uncles and cousins who would witness this ending. The morning was already hot, the sun insistent through a haze that might have been humidity or pollution or simply the atmosphere of grief.
 
@@ -185,7 +184,8 @@ Ananya stood in the sunlight and felt the weight of it: her mother was gone, and
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The house was full of people and then, eventually, it wasn't. Ananya watched the relatives disperse through the evening, the neighbors returning to their homes, the cousins heading back to their own lives in Bangalore and Hyderabad and Mumbai. The rituals of the day had been observed. The condolences had been offered. What remained was the family itself, contracted now to its essential core: Ananya, Priya, her father, her brother who would fly back tomorrow.
 
@@ -287,7 +287,8 @@ Her father closed his eyes. "Stay as long as you can," he said. "Then go back to
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The morning of departure arrived with the particular cruelty of all departures: the sun still rising, the world still continuing, even though everything had changed. Ananya woke to the sound of her father moving through the house, his footsteps careful and slow, the rhythm of a man relearning his own home now that he was alone in it.
 
@@ -395,8 +396,6 @@ Ananya stood, ready to walk through another departure, carrying Chennai inside h
 
 
 # Chapter 37: What the Truth Became
-
-# ~~~
 
 The hospice room had a window that looked onto nothing in particular - a parking lot, a strip of dead grass, the back of another building. Jerome had spent enough hours in this room to know every detail of that view: the way the light changed through the day, the birds that sometimes landed on the grass, the cars that came and went in patterns that suggested shift changes, visiting hours, the schedules of dying.
 
@@ -525,7 +524,8 @@ He stayed with her until the night shift arrived.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Denise arrived first, still in her teaching clothes, her coat pulled on over a cardigan, her bag heavy with ungraded papers she would not look at tonight. She came into the hospice room with the particular competence of someone who had done this before, who knew the geography of medical crisis, who could navigate the emotions of hospitals without losing herself.
 
@@ -596,7 +596,7 @@ This was a barb, possibly, or possibly just a statement. Jerome had not always m
 
 "Fine. Busy." DeShawn pulled up a chair, joining the circle around the bed. "We're launching something next month. I can't really talk about it yet."
 
-Jerome nodded. This was the territory where they could not meet: DeShawn's work at a company that Jerome had written skeptically about, the technology that the son was building and the father was questioning. They had learned to navigate around it, to find other subjects, but it sat between them always.
+Jerome nodded. This was the territory where they could not meet: DeShawn's work at a company Jerome had written skeptically about, the technology the son was building and the father was questioning. They had learned to navigate around it, to find other subjects, but it sat between them always.
 
 "Your grandma asked about you," Jerome said. "When she was lucid. She wanted to know if I had children."
 
@@ -625,7 +625,7 @@ Later, when the hospice staff came to check vitals and adjust the morphine drip,
 
 "I tried to get her to teach me," Denise said. "She kept saying next time, next time. And then—" She stopped. And then the dementia had come, and the recipe had gone wherever lost things go.
 
-"DeShawn, did she ever make you that cake?" Patricia asked.
+"DeShawn, she ever make you that cake?" Patricia asked.
 
 "A few times when I was little. I remember the frosting. She let me lick the bowl."
 
@@ -641,9 +641,10 @@ The coffee grew cold. The night deepened. The family waited.
 
 
 
-# ~~~
 
-The night took on the quality that only vigils have: suspended, stretched, both endless and too fast. They rotated between the bedside and the waiting room, two at a time keeping watch while the others tried to rest on couches that were not designed for sleeping. Jerome stayed mostly at the bed, unwilling to miss another window if one came.
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
+
+The night took on the quality that only vigils have: suspended, stretched, both endless and too fast. They rotated between the bedside and the waiting room, two at a time keeping watch while the others tried to rest on couches never designed for sleeping. Jerome stayed mostly at the bed, unwilling to miss another window if one came.
 
 DeShawn brought him a fresh coffee around midnight. "You should rest," he said.
 
@@ -666,7 +667,7 @@ Jerome looked at his mother's face, searching for the young woman he had known o
 
 ---
 
-Jerome was surprised that DeShawn knew about Marcus Jr. - the brother named after their father, born between Patricia and Jerome, who had died at four from an illness the doctors couldn't diagnose. He was a shadow in the family's history, rarely spoken of, the grief that had never fully healed.
+Jerome was surprised DeShawn knew about Marcus Jr. - the brother named after their father, born between Patricia and Jerome, who had died at four from an illness no doctor could diagnose. He was a shadow in the family's history, rarely spoken of, the grief that had never fully healed.
 
 "He died before I was born. Mama kept his picture in her bedroom. She never talked about him, but I knew she never stopped thinking about him."
 
@@ -701,7 +702,7 @@ This was more honesty than DeShawn had offered in years. Jerome tried not to rea
 
 "That's a good thing to wonder about."
 
-"It's a hard thing to wonder about. When you're inside the system, when you're building it, you see it one way. From the outside, the way you see it, it looks different. I don't know which view is right."
+"It's hard to wonder about. When you're inside the system, when you're building it, you see it one way. From outside, the way you see it, it looks different. I don't know which view is right."
 
 "Maybe both are right," Jerome said. "Maybe the truth is somewhere in the middle. That's what I found, usually. The people building things aren't villains, mostly. They believe in what they're making. But the effects of what they make are real too, and they don't always see them."
 
@@ -714,7 +715,7 @@ The conversation was interrupted by a change in his mother's breathing - a hitch
 
 "For now."
 
-They sat together in the silence, something between them shifting. Jerome felt it: the distance that had grown over years of disagreement and absence was narrowing, not through resolution but through presence. They were here together. That was its own kind of truth.
+They sat together in the silence, something between them shifting. Jerome felt it: the distance grown over years of disagreement and absence was narrowing, not through resolution but through presence. They were here together. That was its own kind of truth.
 
 Dawn came slowly, gray light creeping through the window that looked onto nothing. Patricia and Denise returned from the waiting room, bearing more coffee, bearing the tired patience of the long watch. The family rearranged itself around the bed, and the waiting continued.
 
@@ -733,7 +734,7 @@ He was still holding her hand. He made himself let go.
 
 Patricia was crying, the grief she had held back releasing now that there was nothing left to wait for. Denise moved to comfort her, the two women who had never been close finding something shared in this moment. DeShawn stood at the foot of the bed, his face still, his eyes wet.
 
-Jerome did not cry. Not yet. The tears would come later, he knew, in private, in the middle of some ordinary moment when the reality would hit him again. For now he was empty, hollowed out, a vessel that had held too much for too long.
+Jerome did not cry. Not yet. The tears would come later, he knew, in private, in the middle of some ordinary moment when the reality struck him again. For now he was empty, hollowed out, a vessel that had held too much for too long.
 
 The hospice staff was efficient and kind. There were forms to sign, calls to make, the bureaucracy of death that continued regardless of grief. Jerome moved through it mechanically, answering questions, making decisions. Patricia handled some of it, her social work training kicking in. Denise kept everyone fed, kept coffee appearing, kept the practical world running.
 
@@ -747,9 +748,10 @@ The body was prepared for transport. The room was cleared. The window that looke
 
 
 
-# ~~~
 
-Jerome walked out of the hospice building into Baltimore's winter morning. The air was sharp, cold in a way that felt clarifying after the overheated stillness of the death room. He stood on the sidewalk and breathed it in, feeling his lungs expand, feeling his body confirm that it was still alive, still working, still breathing without effort.
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
+
+Jerome walked out of the hospice building into Baltimore's winter morning. The air was sharp, cold in a way that felt clarifying after the overheated stillness of that room. He stood on the sidewalk and breathed it in, feeling his lungs expand, feeling his body confirm that it was still alive, still working, still breathing without effort.
 
 The sky was the gray of early January, the color of waiting, of patience that has not yet been rewarded. A few cars moved through the parking lot. A bus passed on the street. The city was waking to a day that was, for most people, merely another Tuesday.
 
@@ -768,7 +770,7 @@ She had asked him if he did right. She had asked him if they listened.
 
 Some of them. Sometimes.
 
-He had spent his career telling truths that had not changed the world. The investigations he had poured himself into, the sources he had protected, the articles that had won awards and generated outrage and been forgotten - all of it had been worth doing, worth the sacrifices he had made, worth the time away from family and the strain on his marriage and the financial insecurity of independent journalism. Hadn't it?
+He had spent his career telling truths that had not changed the world. The investigations he had poured himself into, the sources he had protected, the articles that had won awards and generated outrage and been forgotten - all of it had been worth doing, worth the sacrifices, worth the time away from family and the strain on his marriage and the financial insecurity of independent journalism. Hadn't it?
 
 He was no longer sure. Or rather, he was sure that certainty was the wrong frame. The truth mattered not because it changed things, but because it was the truth. His mother had understood this. The practice of truthfulness, the commitment to honesty, the willingness to say what was real regardless of consequences - this was its own reward, its own justification.
 
@@ -789,7 +791,7 @@ DeShawn came to stand beside him, looking out at the parking lot, at the city be
 
 Jerome looked at his son, surprised by the concession. "You think so?"
 
-"I've read your work more carefully since I started working in tech. You saw things that were really there. Things that are still there. The surveillance, the algorithmic control, the way the systems treat people as data points instead of - instead of what they are."
+"I've read your work more carefully since I started in tech. You saw things that were really there. Things that are still there. The surveillance, the algorithmic control, the way systems treat people as data points instead of - instead of what they are."
 
 "People."
 
@@ -810,7 +812,7 @@ Jerome nodded. This was what his mother had tried to tell him, what she had know
 
 ---
 
-They stood together in the cold, father and son, the distance between them narrower than it had been in years. Jerome felt something shifting, some barrier dissolving. It wasn't that their disagreements had been resolved or their differences bridged. It was simpler than that: they were here, together, in the presence of loss. And presence was its own kind of bridge.
+They stood together in the cold, father and son, the distance between them narrower than it had been in years, perhaps ever. Jerome felt something shifting, some barrier dissolving. It wasn't that their disagreements had been resolved or their differences bridged. It was simpler than that: they were here, together, in the presence of loss. And presence was its own kind of bridge.
 
 "I'm going to stay a few more days," DeShawn said. "For the funeral, for whatever you need. Work can wait."
 
@@ -833,7 +835,7 @@ But he didn't move immediately. He stood for another moment in the cold Baltimor
 
 Had it mattered? Her life, her struggles, her daily acts of care and discipline and hope?
 
-It had mattered to him. It had made him who he was. It had given him the sense of justice that had driven his career, the stubbornness that had kept him investigating when the stories were hard, the faith in truth that had sustained him when the truth seemed useless.
+It had mattered to him. It had made him who he was. It had given him the sense of justice that drove his career, the stubbornness that kept him investigating when the stories were hard, the faith in truth that sustained him when truth seemed useless.
 
 Did they listen?
 
@@ -858,13 +860,11 @@ He turned and walked toward them, back into his life, carrying his mother with h
 
 # Chapter 38: The Story That Tells Itself
 
-# ~~~
-
-Delphine woke to the sound of Theo making breakfast, which meant Jessie was letting him use the stove again, which meant Jessie had decided that twelve was old enough for scrambled eggs. The smell of butter and burning bread drifted through the bedroom door, and Delphine lay for a moment in the gray Los Angeles morning, not ready to face the day.
+Delphine woke to the sound of Theo making breakfast, which meant Jessie was letting him use the stove, which meant Jessie had decided that twelve was old enough for scrambled eggs. The smell of butter and burning bread drifted through the bedroom door, and Delphine lay for a moment in the gray Los Angeles morning, not ready to face the day.
 
 This was the day. The premiere. Two years of work about to be shown to people who would judge it, critique it, consume it, forget it. The documentary that had started as an attempt to make sense of the Eighth Oblivion and had become, somewhere along the way, a meditation on the impossibility of making sense of anything through the medium of narrative.
 
-She reached for her phone. A message from her mother in London, sent hours ago because of the time difference.
+She reached for her phone. A message from her mother in London, sent hours ago for the time difference.
 
 *Thinking of you, cariad. Your father would be so proud. I'm watching from here, in spirit.*
 
@@ -881,7 +881,7 @@ This film was different from everything she had made before. Not commercial, not
 
 The fear was that no one would understand. The deeper fear was that they would understand and find it lacking.
 
-She got up, showered, moved through the morning rituals that had nothing to do with documentary premieres. Theo was at the table eating his slightly burned toast with an expression of satisfaction. Jessie was reading something on her tablet, coffee steaming beside her.
+She got up, showered, moved through the morning rituals that had nothing to do with documentary premieres. Theo sat at the table eating his slightly burned toast with an expression of satisfaction. Jessie was reading something on her tablet, coffee steaming beside her.
 
 "Morning," Jessie said without looking up. "How are you feeling?"
 
@@ -912,7 +912,7 @@ She typed back: *I'm scared.*
 
 *I know. That's why it matters.*
 
-The friendship with Ananya had become central to Delphine's life in ways she hadn't anticipated. They had met in the chaos of the crisis years, had found in each other a shared concern about ethics and meaning in an industry that often lacked both. Ananya from the tech side, Delphine from the media side, both of them grappling with complicity, with the question of how to do good work in systems that did harm.
+The friendship with Ananya had become central to Delphine's life in ways she had not anticipated. They had met in the chaos of the crisis years, had found in each other a shared concern about ethics and meaning in an industry that often lacked both. Ananya from the tech side, Delphine from the media side, both of them grappling with complicity, with the question of how to do good work in systems that did harm.
 
 Ananya would be at the premiere tonight. She had flown in from San Francisco, had rearranged her schedule, had insisted on being there for this. Their friendship existed in video calls and text messages and occasional visits, but it was real, it was deep, it was the kind of connection Delphine had not expected to find in middle age.
 
@@ -925,7 +925,7 @@ She looked up from her phone. Jessie was watching her.
 
 This was true. The film existed. Two years of labor crystallized into ninety minutes that would be projected tonight onto a screen for strangers to watch. Whatever Delphine had meant by it, whatever she had tried to say about the decade they had all lived through, was now fixed, permanent, separate from her intentions.
 
-That was the terrifying gift of finishing something. It belonged to the world now, not to her.
+That was the terrifying gift of finishing. It belonged to the world now, not to her.
 
 She thought about what she would say if asked about it. The interviews and panel discussions that would come if the film succeeded, the silence that would come if it didn't. She had rehearsed answers in her mind, had crafted sentences about narrative refusal and ethical witnessing and the impossibility of closure. But under all the careful language was something simpler: she had wanted to show what couldn't be shown, to say what couldn't be said. She had wanted to make something honest in an industry built on manipulation.
 
@@ -945,7 +945,8 @@ She opened her laptop and began writing the remarks she would give afterward, th
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The theater was in Silver Lake, a restored art-deco building that had become a venue for independent film. Delphine arrived with Jessie and Theo an hour early, needing time to adjust to the space, to see the screen where her work would be projected, to check the sound levels one more time even though everything had already been checked.
 
@@ -982,7 +983,7 @@ They found their seats near the middle of the theater, Delphine positioned where
 
 The lights dimmed. The screen came alive.
 
-And then she was watching her own film, but from the outside now, hearing it through the ears of strangers, seeing it through their eyes. The opening sequence she had labored over for months: fragments of news footage, algorithmic visualizations, the faces of ordinary people caught in systems they didn't understand. No voiceover explaining, no title cards contextualizing. Just the images, and beneath them a score that had taken weeks to get right - not melodic but textural, ambient, the sound of something vast and indifferent.
+And then she was watching her own film from the outside, hearing it through the ears of strangers, seeing it through their eyes. The opening sequence she had labored over for months: fragments of news footage, algorithmic visualizations, the faces of ordinary people caught in systems they didn't understand. No voiceover explaining, no title cards contextualizing. Just the images, and beneath them a score that had taken weeks to get right - not melodic but textural, ambient, the sound of something vast and indifferent.
 
 She had wanted to begin with disorientation. She had wanted the audience to feel the vertigo of living through something that couldn't be narrated, couldn't be reduced to story.
 
@@ -993,7 +994,7 @@ But now, watching, she wondered if she had gone too far. If the disorientation w
 
 The faces around her were unreadable in the dark. Some watched with apparent attention, others shifted in their seats. Theo sat between her and Jessie, his twelve-year-old face serious, trying to understand.
 
-The film moved through its sections without signaling transitions. An interview with a gig worker whose face was half-shadowed, speaking about algorithmic management in terms that were both specific and universal. She had cut this interview down from an hour to six minutes, and now those six minutes felt both essential and insufficient.
+The film moved through its sections without signaling transitions. An interview with a gig worker whose face was half-shadowed, speaking about algorithmic management in terms both specific and universal. She had cut this interview down from an hour to six minutes, and now those six minutes felt both essential and insufficient.
 
 Delphine remembered making it. The interview had taken place in Minneapolis, in a coffee shop, the worker nervous about being identified. He had spoken about what it felt like to have his work evaluated by systems he couldn't see, to be optimized and ranked and discarded by processes that had no face, no name, no accountability. She had listened without interrupting, and then she had taken his words and cut them and arranged them, had made them serve her vision.
 
@@ -1006,7 +1007,7 @@ She watched Ananya watching the screen. Her friend's face was intent, serious, m
 
 ---
 
-The middle section of the film was its most difficult, the part Delphine had struggled with most. Interviews with people who had built the systems, the engineers and executives who had made choices that affected millions without fully understanding the consequences. She had tried to present them without judgment, to let their words reveal their own contradictions, their own blind spots. But in the editing, she had made choices about what to include and what to cut, and those choices were a kind of judgment, however she tried to avoid it.
+The middle section of the film was its most difficult, the part she had struggled with most. Interviews with people who had built the systems, the engineers and executives who had made choices that affected millions without fully understanding the consequences. She had tried to present them without judgment, to let their words reveal their own contradictions, their own blind spots. But in the editing, she had made choices about what to include and what to cut, and those choices were a kind of judgment, however she tried to avoid it.
 
 One of the executives in the film was in the audience tonight. She had seen him in the lobby, had wondered if he would stay or walk out. He was still there, she noticed, his face as unreadable as everyone else's in the dark.
 
@@ -1023,7 +1024,7 @@ Then the lights came up.
 
 ---
 
-Applause. Not the polite applause of obligation but something more substantial, sustaining. Delphine sat frozen in her seat, not processing the sound, until Jessie touched her arm.
+Applause. Not the polite applause of obligation but something more substantial, sustained. Delphine sat frozen in her seat, not processing the sound, until Jessie touched her arm.
 
 "Stand up," Jessie whispered. "They want you to stand up."
 
@@ -1070,9 +1071,10 @@ They moved together toward the reception, Ananya's hand on Delphine's back, the 
 
 
 
-# ~~~
 
-The reception was in a gallery space adjacent to the theater, white walls hung with art Delphine didn't have the attention to look at. Wine circulated, small bites on trays, the industry performance of post-screening socializing. People approached her in waves, and she responded with the part of herself that knew how to do this, the professional mask she had worn for twenty years.
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
+
+The reception was in a gallery space adjacent to the theater, white walls hung with art Delphine had no attention to look at. Wine circulated, small bites on trays, the industry performance of post-screening socializing. People approached her in waves, and she responded with the part of herself that knew how to do this, the professional mask she had worn for twenty years.
 
 "I found it challenging, in the best way," said a programmer from Telluride.
 
@@ -1095,7 +1097,7 @@ Jessie looked at her with the particular expression of a spouse who knows too mu
 
 ---
 
-The executive from the film found her near the wine table. His name was Jonathan something, she remembered - a vice president of something at one of the major platforms, someone she had interviewed two years ago in a sterile office building, someone whose words she had cut and arranged to make a point about complicity.
+The executive from the film found her near the wine table. His name was Jonathan something, she remembered - a vice president at one of the major platforms, someone she had interviewed two years ago in a sterile office building, someone whose words she had cut and arranged to make a point about complicity.
 
 "Interesting film," he said, his tone deliberately neutral.
 
@@ -1122,9 +1124,9 @@ This surprised her. She had expected defensiveness, not reflection.
 
 ---
 
-"Are you still there?" she asked. "At the company?"
+"You're still there?" she asked. "At the company?"
 
-"I am. I'm still trying to change things from inside. I don't know if it's working." He looked at his wine. "Your film made me wonder if that's even possible. If working within the system is just - complicity dressed up as reform."
+"I am. Still trying to change things from inside. I don't know if it's working." He looked at his wine. "Your film made me wonder if that's even possible. If working within the system is just - complicity dressed up as reform."
 
 Delphine felt something shift in her chest. This was exactly the question she had been asking herself for years. The question that had led to this documentary, to her tentative stepping back, to the sense that the attention economy she had served was fundamentally corrupted no matter how carefully one tried to work within it.
 
@@ -1198,7 +1200,8 @@ Delphine felt the tears she had been holding back threatening again. She blinked
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Home, finally. Theo asleep upstairs, the house quiet around them. Delphine and Jessie sat on the couch in the living room, not touching, each processing the evening in their own way. The premiere was over. The film was out in the world. What came next was the question Delphine had been avoiding.
 
@@ -1348,8 +1351,6 @@ This was its own kind of art.
 
 # Chapter 39: The Law's Last Word
 
-# ~~~
-
 The hotel room was nicer than Ruth needed, but the university had insisted. A suite at the Omni, overlooking the New Haven Green, the kind of accommodation reserved for distinguished lecturers who had earned the right to be comfortable. Ruth sat at the desk in the early morning light, reviewing her notes for the last time, and tried to remember when comfort had begun to feel like obligation.
 
 Her body reminded her constantly now of its age. The stiffness in her hips when she rose from the chair, the extra moment needed to straighten fully, the careful negotiation with knees that had served her for sixty-eight years and were beginning to object. She had learned to accommodate these limitations without complaint, to build in extra time for everything, to move with the deliberation that age required.
@@ -1423,7 +1424,8 @@ Ruth nodded to no one, closed her notes, and began to pace the room, rehearsing 
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The lecture hall was a modern addition to the law school, all glass and light wood, designed to signal that Yale was not trapped in its traditions even as it honored them. Ruth stood at the podium looking out at a room that was nearly full - faculty in the front rows, students behind them, then visitors, observers, the curious public who had come to hear what she would say.
 
@@ -1543,7 +1545,8 @@ The applause continued, and Ruth allowed herself, finally, to feel what she had 
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The Q&A session followed the applause, moderated by a young professor Ruth did not know well but who handled the microphone duties with competence. Hands went up throughout the audience, and Ruth prepared herself for the questions that would test what she had said.
 
@@ -1651,7 +1654,8 @@ The reception pulled her forward, the crowd still wanting pieces of her attentio
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Ruth walked Yale's campus in the evening light, alone for the first time since morning. The lecture was over, the reception had wound down, her children had departed for their hotels with promises to have breakfast together before flying home. What remained was this: the campus at dusk, the place where her career had begun, the paths she had walked fifty years ago as a student believing everything was possible.
 
@@ -1736,8 +1740,6 @@ She had given what she had. The rest was beyond her reach.
 
 # Chapter 40: What Singing Is For
 
-# ~~~
-
 The venue was called The Current, a converted warehouse in northeast Minneapolis that had been hosting shows for two decades. Yusuf had been here before as an audience member, had stood in the crowd watching musicians he admired, had dreamed of standing where he now stood: on the stage, testing the monitors, running through the set one more time before the doors opened.
 
 The afternoon light came through the high windows, industrial and golden, illuminating dust motes in the air. Sound equipment surrounded him, the cables and stands and boards that would transform his songs from private practice to public performance. His collaborators were scattered through the space: Kai at the drum kit, adjusting heads; Mina testing her bass levels; Leo running through keyboard patches.
@@ -1820,7 +1822,8 @@ He waited.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 From the wings, Yusuf watched his mother arrive. Amina guided her through the crowd that was beginning to fill the venue, found the seats they had reserved near the front, helped her settle with the careful attention of a daughter who had learned to be caregiver.
 
@@ -1928,7 +1931,8 @@ And he began to play.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The first notes rang out into the room, and something shifted. The anxiety that had been building for hours didn't disappear, but it transformed - became energy, became focus, became the particular fuel that performance required. Yusuf's fingers found the chords they had found a thousand times in practice, but now the chords were amplified, now they filled a space, now they were received by ears that weren't his own.
 
@@ -2033,7 +2037,8 @@ His mother was waiting. That was the only thing that mattered.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 His mother rose when he entered the green room, her movements slow but her face radiant with something Yusuf had never seen before. She opened her arms and he went into them, folding himself down to fit against her diminished frame, becoming her child again in that embrace.
 
@@ -2156,8 +2161,6 @@ He played one more chord, let it ring, let it fade, and finally stood to go home
 
 # Chapter 41: What We Carried
 
-# ~~~
-
 The symposium was called "Understanding the Eighth Oblivion: A Decade in Retrospect," and it was being held at a conference center in Washington DC, the kind of neutral space where academics and policymakers and journalists gathered to historicize what the rest of the world was still living through.
 
 Ananya stood in the green room, adjusting the collar of her blouse, not quite ready to face the audience. She was on the first panel: "Technology Ethics in Crisis: What Worked and What Failed." The other panelists were a former regulator, a philosopher she had debated before, and a tech executive she had once worked with at Prometheus. The moderator was a journalist who had covered the tech industry for twenty years.
@@ -2272,7 +2275,8 @@ This was what it meant to be historicized: to speak about your own life as if it
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Jerome sat in the audience with his notebook open, the habit of decades unbroken even now. He was here as a journalist, technically - commissioned to write about the symposium for a magazine that still published long-form pieces - but also as a witness, as someone whose work was being cited on the panels, as a person who had lived through what the academics were now analyzing.
 
@@ -2376,7 +2380,8 @@ The truth mattered. It would have to be enough.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The reception was in a high-ceilinged room adjacent to the main conference hall, the kind of space designed for exactly this purpose: drinks, small plates, the circulation of bodies and ideas that was the real work of academic conferences. Delphine moved through it as an observer now, no longer the participant she would have been a year ago, before the documentary, before the decision to step back.
 
@@ -2505,7 +2510,8 @@ Tonight, she would go back to her hotel room and call her family. That was enoug
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The room held them all now, these people who had lived through the decade and were beginning to understand that they would spend the rest of their lives trying to understand it. Ananya saw Jerome across the reception space, his notebook closed for once, talking with a young academic who was probably explaining his own work to him. She saw Delphine near the windows, caught in golden late-afternoon light, her wine glass half-full and forgotten in her hand as she listened to something Amina was saying.
 
@@ -2629,8 +2635,6 @@ The reception was over. Time to disperse.
 
 
 # Chapter 42: Beyond
-
-# ~~~
 
 The morning was gray and soft, the kind of Washington spring morning that couldn't decide if it wanted to rain. Ananya stood in the hotel lobby with her carry-on, watching the slow choreography of departure - conference attendees checking out, calling rideshares, gathering in small clusters for final conversations before dispersing to their separate cities.
 
@@ -2778,7 +2782,8 @@ Her phone buzzed. A text from Priya: *Landed safely. Call tonight?*
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Jerome pressed his forehead against the airplane window and watched the clouds move below him, white and gray and infinite in the way that clouds always were, the way they had been before the Eighth Oblivion and would be after whatever came next. The plane hummed its mechanical song. Around him, passengers slept or watched screens or stared into middle distance with the particular vacant attention of air travel.
 
@@ -2858,7 +2863,8 @@ She closed her eyes and let the afternoon sun warm her face. Tomorrow there woul
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Elena was washing dishes when Jerome called. The familiar rhythm of her Phoenix evening - Daniel reading in the living room, Sofia and Mateo somewhere in the house doing their teenager things, the desert light fading to purple through the kitchen window - and then the phone buzzing on the counter with Jerome's name on the screen.
 
@@ -3023,7 +3029,8 @@ Tonight, he was home.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Jerome sat at his desk in the Baltimore rowhouse, the evening settling around him like something familiar, something earned. Denise was in the kitchen, and he could hear her moving through the space - the clink of dishes, the hum of the radio she kept on while cooking, the particular sounds of a life being lived in the room next door.
 

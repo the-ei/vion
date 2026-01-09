@@ -1,5 +1,3 @@
-# ~~~
-
 The apartment was beautiful. That was the first thing anyone noticed, and the last thing that mattered.
 
 Kevin Zhou stood at the window of his living room, looking out at San Francisco in the early morning light. The view was precisely calculated: the bay in the distance, the towers of the financial district catching the sun, the whole choreographed landscape of success visible from this one spot.
@@ -93,7 +91,8 @@ Outside, the city continued without him, as it had for years, as it might for ye
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The memories came without invitation, as they did most mornings, surfacing through the work like rocks appearing through receding water.
 
@@ -171,7 +170,8 @@ But the question itself was a change. The asking was a threshold he had already 
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 He opened the video app.
 
@@ -250,7 +250,8 @@ The thought sat in his chest like a stone, and he worked through the morning, tr
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The cafe was crowded with the lunch rush, tech workers and freelancers filling the small tables, the steady hum of conversation and espresso machines creating a wall of sound that was both anonymous and intimate.
 
@@ -327,7 +328,8 @@ But first Kevin Zhou would have to let someone feel what he felt. The builder wo
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Back in his apartment, Kevin Zhou sat at his desk and opened a blank message.
 

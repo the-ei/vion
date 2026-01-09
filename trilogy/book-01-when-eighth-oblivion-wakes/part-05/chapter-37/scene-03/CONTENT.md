@@ -1,4 +1,4 @@
-The email from Veronica Stone arrived at two-seventeen in the afternoon, its subject line a model of professional restraint: "Opportunity to discuss." Jerome recognized her name immediately—she was the executive editor of The Washington Tribune, a publication that had once represented everything he distrusted about mainstream journalism and now, after months of his reporting on the crisis, apparently wanted to talk.
+The email from Veronica Stone arrived at two-seventeen, its subject line a model of professional restraint: "Opportunity to discuss." Jerome recognized her name immediately—she was the executive editor of The Washington Tribune, a publication that had once represented everything he distrusted about mainstream journalism and now, after months of his reporting on the crisis, apparently wanted to talk.
 
 He read the email twice, noting the careful language that promised much while committing to nothing. An invitation to discuss potential collaboration. An expression of admiration for his recent work. A suggestion that his perspective might benefit from a larger platform, greater resources, an institutional home.
 
@@ -11,7 +11,7 @@ The threats were accumulating too. He scrolled through screenshots of messages, 
 
 ---
 
-The security consultant was a woman named Patricia Oyelaran, recommended by another journalist who had faced similar campaigns. She had reviewed the harassment Jerome was receiving and delivered her assessment in a video call the previous week, her face professionally neutral as she described patterns that suggested coordination, resources, possible involvement of actors beyond random internet hostility.
+The security consultant was Patricia Oyelaran, recommended by another journalist who had faced similar campaigns. She had reviewed the harassment Jerome was receiving and delivered her assessment in a video call the previous week, her face professionally neutral as she described patterns that suggested coordination, resources, possible involvement of actors beyond random internet hostility.
 
 "The volume of negative engagement spiked three days after your first major story," she had said, sharing her screen to show graphs and timelines. "The linguistic patterns across accounts show significant overlap. Someone is amplifying the organic criticism with inorganic activity."
 
@@ -55,7 +55,7 @@ The silence that followed was dense with implications. Denise had known that Jer
 
 "Is that what you want to do?"
 
-"No." The word came out immediately, without deliberation. "No, I don't want to do that. I left mainstream media because I couldn't do the work I needed to do inside those institutions. The same constraints would apply now. Maybe worse, because now I have a reputation they'd want to manage."
+"No." The word came immediately, without deliberation. "No, I don't want to do that. I left mainstream media because I couldn't do the work I needed to do inside those institutions. The same constraints would apply now. Maybe worse, because now I have a reputation they'd want to manage."
 
 "Then why are we having this conversation?"
 
@@ -72,7 +72,7 @@ Denise was quiet for a long moment, her eyes holding his. He could see her think
 
 "And if you keep doing what you're doing?"
 
-"Then the harassment might continue. Or get worse. And I'd be gambling with our safety on the bet that my work is worth the risk."
+"Then the harassment might continue. Or escalate. And I'd be gambling with our safety on the bet that my work is worth the risk."
 
 "Is it?"
 
@@ -95,7 +95,7 @@ The question caught him off guard. His mother was in assisted living now, her me
 
 ---
 
-Denise turned from the window. "Then keep doing it. Take the precautions. Be careful. But don't stop being who you are because someone wants to scare you into silence."
+Denise turned from the window. "Then keep doing it. Take precautions. Be careful. But don't stop being who you are because someone wants to scare you into silence."
 
 "Even if it puts you at risk?"
 

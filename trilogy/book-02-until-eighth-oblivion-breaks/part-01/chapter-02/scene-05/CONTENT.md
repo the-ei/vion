@@ -1,6 +1,6 @@
 Dark.
 
-The Phoenix sky had drained its color while Elena was inside, and now the city spread around her in headlights and streetlamps, the grid of roads that carried people to wherever they went when they weren't waiting for care.
+The Phoenix sky had drained its color while Elena was inside, had gone from brutal afternoon to blank evening, and now the city spread around her in headlights and streetlamps, the grid of roads that carried people to wherever they went when they weren't waiting for care, when they weren't sick or scared or wondering how to pay.
 
 She started the car. The radio was tuned to public broadcasting, a podcast she'd been meaning to listen to about the crisis - the anniversary approaching, the retrospectives beginning. A voice she didn't recognize spoke about systemic risk and regulatory capture.
 
@@ -14,7 +14,7 @@ She turned onto the highway. The podcast continued, two experts debating governa
 
 Elena thought about bodies.
 
-The systems they analyzed had become the bodies she treated. The policy failures landed as inflammation, as fractures that couldn't heal, as anxiety that came from knowing true things. She was standing at the end of a pipeline, catching what the pipeline produced, unable to reach back and turn off the flow.
+The systems they analyzed had become the bodies she treated. The policy failures landed as inflammation, as fractures that couldn't heal, as anxiety that came from knowing true things. She was standing at the end of a pipeline, catching what the pipeline produced, unable to reach back and turn off the flow. And the people designing the pipeline, the people who could turn it off, were somewhere far away in glass-walled conference rooms, discussing ethics.
 
 
 ---
@@ -29,9 +29,9 @@ Sofia's room. The door still cracked. The horse-patterned comforter rising and f
 
 She thought: I am treating symptoms.
 
-She thought: The disease is everything.
+She thought: The disease is everything. The disease is the system. The disease is the air we breathe.
 
-She thought: What would it mean to heal something I can't even name?
+She thought: What would it mean to heal something I can't even name? What would it take to become something other than a witness to damage?
 
 Sofia stirred, murmured something unintelligible, settled back into sleep. Elena reached through the door and touched her daughter's hair, just barely, a contact Sofia wouldn't register.
 
@@ -41,7 +41,7 @@ For now, this.
 
 The dark house. The sleeping child. The weight she carried.
 
-For now, this was enough. It had to be.
+For now, this was enough. It had to be. It was all she had.
 
 
 ---

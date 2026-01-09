@@ -1,7 +1,5 @@
 # Chapter 9: The Weight of Presence
 
-# ~~~
-
 The light through the bay windows had that particular quality of late October mornings in San Francisco, soft and diffuse, the fog having burned off an hour earlier but the sun not yet committed to anything as assertive as warmth. Ananya stood at the kitchen counter with her second cup of coffee, watching the street below where a woman walked a golden retriever past the row of Victorian facades. The dog stopped at every tree. The woman waited, phone pressed to her ear. An ordinary Tuesday, the kind of morning she had learned to appreciate in the eighteen months since leaving Prometheus, these small moments of nothing happening, of time not accelerating toward some deadline or deliverable.
 
 She had been reviewing consulting proposals when the intercom buzzed. The building had a concierge, but deliveries came directly to doors. She pressed the button without thinking, heard the static of street noise, a voice saying something about a delivery requiring signature.
@@ -152,7 +150,8 @@ Ananya watched them disappear around the corner and tried to remember the last t
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 That evening, after Delphine left and the apartment grew quiet, Ananya opened her laptop and navigated to the folder she had not touched in eighteen months. Prometheus Archives. Twelve hundred files spanning eight years. Memos, meeting notes, presentation slides, emails she had forwarded to her personal account when she still believed documentation might matter.
 
@@ -301,7 +300,8 @@ She looked at the envelope on her desk, the complaint she would have to answer. 
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Three days later, Priya arrived with her overnight bag slung over one shoulder and her laptop clutched to her chest like armor. She had Ananya's eyes but Vikram's bone structure, the combination producing a face that could shift from open to guarded in the space of a single breath.
 
@@ -514,8 +514,6 @@ Ananya thought of the files on her laptop, the archived evidence of a decade's w
 
 # Chapter 10: Bodies Remember
 
-# ~~~
-
 The paper gown was the same pale blue as the ones she distributed to her own patients, the same thin fabric that offered dignity in theory but never in practice. Elena sat on the examination table, her bare legs dangling, and studied the room as if seeing it for the first time. The blood pressure cuff mounted on the wall. The jar of cotton balls. The biohazard disposal bin she had replaced hundreds of times. All of it familiar, all of it suddenly foreign.
 
 Dr. Reyes knocked twice and entered. She was a few years older than Elena, hair graying at the temples, the kind of physician who looked at you when she spoke instead of at her tablet. They had worked together for three years before Dr. Reyes moved to the private practice down the street. Now she was Elena's doctor because Elena could not be examined by someone who reported to her.
@@ -643,7 +641,8 @@ The ordinary rituals of evening began: snacks, homework, the television's distan
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Daniel's truck pulled into the driveway at six forty-five, the white paint dust-coated from the construction site, the engine ticking as it cooled in the evening air. Elena watched from the kitchen window as he climbed out, still in his work clothes, jeans and a flannel shirt that had seen too many washes. He moved with the careful deliberation of a man who had been driving for three hours, his body stiff, his face set with worry.
 
@@ -851,7 +850,8 @@ For once, she let herself obey.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Two evenings later, Elena sat with her grandmother sorting medications. The ritual happened at seven o'clock every night, immutable as sunset: pill bottles lined up on the dresser in order of dosage, the plastic weekly organizer with its small compartments labeled in both English and Spanish. Abuela's hands were swollen, the joints gnarled from arthritis, but she insisted on doing as much as she could herself. Elena supervised, corrected, worried.
 
@@ -890,7 +890,7 @@ Elena felt tears threatening again. She had cried more in the past two days than
 
 "I don't know how to be sick," she said. "I don't know how to be the one who needs care."
 
-Abuela leaned forward, took Elena's hand in her swollen fingers. The grip was still strong, the strength of a woman who had survived things Elena could barely imagine.
+Abuela leaned forward, took Elena's hand in her swollen fingers. The grip was still strong, surprisingly so, the strength of a woman who had survived things Elena could barely imagine and would never fully know.
 
 "Let me tell you something. About my mother. About how she died."
 
@@ -911,7 +911,7 @@ Elena had heard pieces of this story before, fragments at family gatherings, hal
 
 Abuela paused, her gaze fixed on the photograph of the Virgin Mary above her dresser.
 
-"She died at fifty-five. In the field, during harvest. Her heart gave out while she was bent over the corn. We found her lying in the rows, the corn stalks around her like a little room." Her voice cracked. "She was alone when she died, Elena. Because she would not let anyone help her work."
+"She died at fifty-five. In the field, during harvest. Her heart gave out while she was bent over the corn, still working, still refusing to stop. We found her lying in the rows, the corn stalks around her like a little room." Her voice cracked. "She was alone when she died, Elena. Because she would not let anyone help her work."
 
 "Abuela..."
 
@@ -920,7 +920,7 @@ Abuela paused, her gaze fixed on the photograph of the Virgin Mary above her dre
 
 ---
 
-Elena wiped her eyes. The image of her great-grandmother dying alone among the corn was unbearable, and she understood that was why abuela was telling her. To make it unbearable. To make her see.
+Elena wiped her eyes with the heel of her hand. The image of her great-grandmother dying alone among the corn was unbearable, and she understood that was precisely why abuela was telling her. To make it unbearable. To make her see what that kind of strength actually cost.
 
 "I don't want to end up like that."
 
@@ -932,7 +932,7 @@ Abuela squeezed her hand. "None of us learn. We practice. Every day, we practice
 
 "I never knew that."
 
-"Because I didn't show you. I practiced accepting until it became bearable. Then I practiced until it became normal. Now..." She shrugged. "Now I am grateful. I see my great-grandchildren every day. I eat dinner with family. That is worth the price of asking for help."
+"Because I didn't show you. I practiced accepting until it became bearable. Then I practiced until it became normal, like brushing my teeth. Now..." She shrugged, the gesture containing decades of adjustment. "Now I am grateful. I see my great-grandchildren every day. I eat dinner with family. That is worth the price of asking for help."
 
 "You make it sound simple."
 
@@ -947,7 +947,7 @@ Abuela squeezed her hand. "None of us learn. We practice. Every day, we practice
 
 Elena laughed despite herself, a wet sound through the tears. "That's not how it works. My immune system is attacking my thyroid. It's not something I can negotiate with."
 
-"Everything is negotiation. With our bodies, with God, with life. You think I don't negotiate with this diabetes every day? What I can eat, how much I can walk, whether my feet will hurt more or less tomorrow? It is all negotiation."
+"Everything is negotiation. With our bodies, with God, with the life we are given. You think I don't negotiate with this diabetes every day? What I can eat, how much I can walk, whether my feet will hurt more or less tomorrow? It is all negotiation. Every day, new terms."
 
 "Even Jesus rested," Elena said. The phrase came from somewhere deep, catechism lessons or grandmother's sayings or both.
 
@@ -990,7 +990,7 @@ Sofia considered this with her characteristic seriousness. "Everyone needs help 
 
 "Then why is it so hard for grown-ups?"
 
-The question hung in the air, unanswerable in its simplicity. Why was it so hard? Why had Elena spent years slowly destroying herself rather than admit she needed support?
+The question hung in the air, unanswerable in its simplicity, the kind of question only children could ask because adults had forgotten how. Why was it so hard? Why had Elena spent years slowly destroying herself rather than admit she needed support?
 
 "Pride," Elena said finally. "And fear. And not wanting to be a burden."
 
@@ -1011,9 +1011,7 @@ It was, perhaps, the first step of peace talks with a body she had fought for to
 
 # Chapter 11: The Ledger
 
-# ~~~
-
-The address was a house in Edina, one of those suburb-within-a-suburb neighborhoods where the lawns were immaculate and the houses all looked like they'd been designed by the same AI. Yusuf pulled up to the curb, checked the order on his phone - Thai food, forty-seven dollars, the customer had tipped eighteen percent in advance - and jogged to the door with the bag swinging.
+The address was a house in Edina, one of those suburb-within-a-suburb neighborhoods where the lawns were immaculate and the houses all looked like they had been designed by the same algorithm, optimized for the appearance of success. Yusuf pulled up to the curb, checked the order on his phone - Thai food, forty-seven dollars, the customer had tipped eighteen percent in advance - and jogged to the door with the bag swinging.
 
 A woman in yoga clothes answered. She took the food without meeting his eyes, said "thanks" to somewhere over his left shoulder, and closed the door.
 
@@ -1029,7 +1027,7 @@ The phone buzzed again.
 
 *Credit Alert: Your score has changed. New score: 547 (-43 points). Factors affecting your score: New collection account reported.*
 
-His thumb hovered over the notification. Five hundred forty-seven. When his father was alive, they had talked about credit scores like abstract puzzles, numbers that mattered to a world neither of them fully inhabited. Now those numbers were the walls of Yusuf's cage.
+His thumb hovered over the notification. Five hundred forty-seven. When his father was alive, they had talked about credit scores like abstract puzzles, numbers that mattered to a world neither of them fully inhabited, a game other people played. Now those numbers were the walls of Yusuf's cage, and the walls were closing in.
 
 
 ---
@@ -1042,7 +1040,7 @@ Yusuf put the phone face-down on the passenger seat. Started the engine. Drove t
 
 The debt was from 2035. The year everything fell apart and somehow held together. His mother had gotten sick, not critically but expensively, and the insurance his father had meticulously maintained had lapsed six months after his death because no one had remembered to pay the premium. Yusuf had taken a loan from one of those apps that made borrowing feel like a video game, coins and achievements and friendly reminders that masked interest rates north of thirty percent.
 
-He had paid it back. Most of it. But the last eight hundred dollars had gotten away from him, rolled over and over, accumulating fees and penalties until it metastasized into the number now living in his phone.
+He had paid it back. Most of it. But the last eight hundred dollars had gotten away from him, rolled over and over like a snowball becoming an avalanche, accumulating fees and penalties and interest until it metastasized into the number now living in his phone.
 
 The poke bowl was ready. He drove it to a high-rise downtown, rode the elevator to the nineteenth floor, handed the bag to a man in a suit who was clearly working from home and clearly annoyed at the interruption.
 
@@ -1059,7 +1057,7 @@ He thought about Jamal. The last time they had talked, two years ago, Jamal had 
 
 He thought about Ahmad. Locked up now, federal facility in Wisconsin, serving eight years for his part in something Yusuf had been adjacent to but, through luck or cowardice, hadn't joined. Ahmad had been the smart one, the one with ideas, the one who was going to get them all out. Now he was memorizing commissary prices and learning to sleep through anything.
 
-Two paths Yusuf had not taken. But his path didn't feel like escape. It felt like a slower version of the same destination.
+Two paths Yusuf had not taken. But his own path didn't feel like escape. It felt like a slower, more respectable version of the same destination.
 
 He finished the shift at eight, pulled into a strip mall parking lot, and sat with the engine running. The math wasn't complicated. At his current rate, paying down the collection account would take a year. During that year, his credit would stay destroyed. Without credit, no apartment. Without an apartment, he would stay in his mother's place. At twenty-seven, still in the room where he had been a child.
 
@@ -1074,7 +1072,7 @@ They had met during the crisis, an unlikely intersection of trajectories. Kevin 
 
 Yusuf had refused. Pride, mostly. The sense that taking help from someone like Kevin would confirm something about his own position that he wasn't ready to accept.
 
-Now, sitting in a parking lot with his life cascading toward some bottom he couldn't see, pride seemed like a luxury he couldn't afford.
+Now, sitting in a parking lot at night with his life cascading toward some bottom he couldn't see, pride seemed like a luxury he could no longer afford.
 
 He pressed the number before he could change his mind.
 
@@ -1105,7 +1103,7 @@ There was a pause. Traffic noise on Kevin's end, the sound of a city different f
 
 "True. But I meant what I said then. If there's something I can do."
 
-Yusuf leaned his head against the headrest. The parking lot was empty except for a man walking a small dog across the far end. Normal life, ordinary evening, the world continuing as if Yusuf's crumbling didn't matter.
+Yusuf leaned his head against the headrest and closed his eyes. The parking lot was empty except for a man walking a small dog across the far end. Normal life, ordinary evening, the world continuing as if Yusuf's crumbling didn't matter, as if it were invisible, which it was.
 
 "I don't know what I'm asking for," Yusuf admitted. "I don't even know why I called. I just..."
 
@@ -1134,7 +1132,7 @@ Yusuf felt something twist in his chest. Skepticism, maybe. Hope, maybe. The dan
 
 "What kind of company?"
 
-"I'll explain tomorrow. But think about this: everything you learned during the crisis, all those ways of operating in broken systems - what if that was actually valuable? What if there were people who needed exactly that knowledge?"
+"I'll explain tomorrow. But think about this: everything you learned during the crisis, all those ways of operating in broken systems, all those skills nobody teaches in school - what if that was actually valuable? What if there were people who needed exactly that knowledge?"
 
 The man with the dog had disappeared. The parking lot was empty now, just Yusuf and his dying Honda and the glow of his phone.
 
@@ -1152,7 +1150,8 @@ He hung up and sat in the silence. The cascade hadn't stopped. But something els
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Amina came through the door carrying a backpack and a duffel bag, wearing a University of Minnesota sweatshirt and the kind of white sneakers that cost more than Yusuf made in a shift. She dropped everything in the hallway and wrapped her arms around him, squeezing hard enough to hurt.
 
@@ -1162,18 +1161,18 @@ Amina came through the door carrying a backpack and a duffel bag, wearing a Univ
 
 "Three months ago. Ancient history."
 
-Their mother appeared from the kitchen, wiping her hands on a dish towel. The smile that crossed her face was so purely joyful that Yusuf felt his heart twist. That smile had been rare in the years since his father's death, and it still lived primarily in Amina's presence.
+Their mother appeared from the kitchen, wiping her hands on a dish towel. The smile that crossed her face was so purely joyful that Yusuf felt his heart twist with something that was both gladness and grief. That smile had been rare in the years since his father's death, and it still lived primarily in Amina's presence.
 
 "My baby," their mother said, and then the two of them were embracing, speaking in the rapid Arabic that Yusuf could follow but rarely participated in. He watched them, these two women who held most of his love, and felt the familiar mix of warmth and distance that family always produced.
 
 "Dinner's almost ready," their mother said. "Yusuf, can you set the table?"
 
-He set the table. The same plates they had used his whole life, one chipped on the edge from an argument he barely remembered. The same forks and knives, the same cloth napkins his mother insisted on even when they couldn't afford the laundry. The small rituals of continuity.
+He set the table. The same plates they had used his whole life, one chipped on the edge from an argument he barely remembered, his father's voice raised about something that didn't matter anymore. The same forks and knives, the same cloth napkins his mother insisted on even when they couldn't afford the laundry. The small rituals of continuity that held a family together.
 
 
 ---
 
-Amina had changed in ways that were hard to specify but impossible to miss. It wasn't just the clothes or the laptop she pulled out to show their mother something. It was the way she carried herself, the confidence in her movements, the sense that she inhabited a future rather than just enduring a present.
+Amina had changed in ways that were hard to specify but impossible to miss. It wasn't just the clothes or the laptop she pulled out to show their mother something, scrolling through photographs of a life that looked nothing like this apartment. It was the way she carried herself, the confidence in her movements, the sense that she inhabited a future rather than just enduring a present.
 
 "Tell me about your classes," their mother said.
 
@@ -1196,7 +1195,7 @@ Yusuf ate his food and listened. The lamb stew his mother had made was rich and 
 
 ---
 
-Their mother began to clear the dishes, waving off their offers to help. She moved slowly, deliberately, the chronic fatigue visible in every gesture. Two jobs, still, at fifty-three: the hotel housekeeping that destroyed her back and the evening cleaning service that destroyed her knees. Yusuf sent her money every month, had been sending her money since he was nineteen, and it still wasn't enough to let her stop.
+Their mother began to clear the dishes, waving off their offers to help. She moved slowly, deliberately, the chronic fatigue visible in every gesture. Two jobs, still, at fifty-three: the hotel housekeeping that had destroyed her back and the evening cleaning service that was destroying her knees. Yusuf sent her money every month, had been sending her money since he was nineteen, and it still wasn't enough to let her stop.
 
 Amina noticed too. "Mama, please rest. We can clean up."
 
@@ -1239,7 +1238,7 @@ The question hit him in the chest. He hadn't expected it, the sudden pivot from 
 
 "Four years isn't that long. You were really good, Yusuf. Everyone said so. You could have-"
 
-"Could have what? Become a famous producer? Made it big?" He heard the bitterness in his voice and hated it. "People like us don't get to just pursue our dreams. Someone has to pay the bills."
+"Could have what? Become a famous producer? Made it big?" He heard the bitterness in his voice and hated it, but couldn't stop. "People like us don't get to just pursue our dreams, Amina. Someone has to pay the bills."
 
 "So you just... gave up."
 
@@ -1253,7 +1252,7 @@ Yusuf stood up, walked to the window. The street outside was quiet, a few cars p
 
 "What's the difference?"
 
-"One of them is a tragedy. The other is just weakness."
+"One of them is a tragedy. The other is just weakness." He turned to look at her. "And I don't know which one I am."
 
 
 ---
@@ -1270,7 +1269,7 @@ Yusuf pressed his forehead against the cool glass. "I'm proud of you, Amina. I w
 
 "I know."
 
-"And I don't resent you for escaping. I don't. You were supposed to escape."
+"And I don't resent you for escaping. I don't. I promise you. You were supposed to escape."
 
 "But you were supposed to escape too."
 
@@ -1301,7 +1300,7 @@ They talked for another hour, the conversation ranging from memories to plans to
 
 "I'll think about it."
 
-She was asleep within minutes, the deep easy sleep of someone whose conscience was clear and whose future was open. Yusuf watched her for a moment, this person he had helped raise, had helped escape, had poured his own deferred possibilities into.
+She was asleep within minutes, the deep easy sleep of someone whose conscience was clear and whose future stretched out before her like a highway. Yusuf watched her for a moment, this person he had helped raise, had helped escape, had poured his own deferred possibilities into like water into soil.
 
 He went to his room and sat on the bed that had been his since childhood. The walls were bare now, the posters and photos of his teenage years long gone. On the shelf sat a dusty keyboard, unplugged, untouched in years.
 
@@ -1328,7 +1327,7 @@ She looked at him with eyes that saw too much. "You're a good son, Yusuf. But yo
 
 He kissed her cheek. Hugged Amina. Left before either of them could ask where he was actually going.
 
-The bus to Northeast took forty minutes. He sat by the window, watching the city pass, the neighborhoods shifting from working-class to gentrified to somewhere in between. The studio was in a part of Minneapolis that had changed dramatically since he had last visited - new breweries, new restaurants, the uneasy coexistence of old residents and new money.
+The bus to Northeast took forty minutes, longer than it should have because of a route change nobody had explained. He sat by the window, watching the city pass, the neighborhoods shifting from working-class to gentrified to somewhere uneasily in between. The studio was in a part of Minneapolis that had changed dramatically since he had last visited - new breweries, new restaurants, the uneasy coexistence of old residents and new money.
 
 But the studio itself was still there. Still the same converted industrial space with its unmarked door and its hand-painted sign: SOUND HOUSE STUDIOS.
 
@@ -1342,9 +1341,10 @@ He pushed the door open and walked in.
 
 
 
-# ~~~
 
-The lobby smelled the same. That particular mix of cigarette smoke and audio equipment, of late nights and creative desperation. The walls were covered with album artwork, most of it from artists Yusuf didn't recognize but some from people he knew, people he had worked alongside in the years before everything changed.
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
+
+The lobby smelled the same. That particular mix of cigarette smoke and audio equipment, of late nights and creative desperation, of hope and its opposite. The walls were covered with album artwork, most of it from artists Yusuf didn't recognize but some from people he knew, people he had worked alongside in the years before everything changed.
 
 "Holy shit."
 
@@ -1377,7 +1377,7 @@ The equipment had changed but the room hadn't. The same acoustic panels on the w
 
 "How's business?"
 
-"We survive. Some months better than others. The neighborhood money helps - these tech bros want to pretend they're artists on the weekends, I'm happy to take their cash." He settled into his chair behind the board. "What about you? What brings you back?"
+"We survive. Some months better than others, but we survive. The neighborhood money helps - these tech bros want to pretend they're artists on the weekends, I'm happy to take their cash and make them sound halfway decent." He settled into his chair behind the board. "What about you? What brings you back?"
 
 Yusuf sat on the couch. The cushions remembered his shape, or maybe he was imagining that.
 
@@ -1518,8 +1518,6 @@ He went back into the control room and asked Darnell about booking regular sessi
 
 # Chapter 12: The Faith of Structures
 
-# ~~~
-
 The apartment held too much silence. Ruth had lived in this Dupont Circle space for thirty years, the last six of them alone, and she still found herself surprised by the quiet when she entered - the absence of Susan's voice calling from the kitchen, the absence of piano music drifting from the living room, the absence of the particular quality of air that meant another person was present.
 
 The commission staffers were due at two. Ruth sat in Susan's reading chair and let herself feel the shape of waiting.
@@ -1643,7 +1641,8 @@ Then she went to bed, alone in the room she had shared with Susan for twenty-eig
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The hearing room was designed to impress. Wood paneling the color of old money, flags standing sentinel behind the dais, the great seal of the United States dominating the wall like a promise no one could keep. Ruth had testified in rooms like this before, many times, always as expert witness or invited scholar. This was different. This was reckoning.
 
@@ -1781,7 +1780,8 @@ In a few hours, David and Rebecca would arrive, each with their own response to 
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The restaurant was meant to be neutral ground. Italian, midscale, the kind of place where families gathered for occasions that weren't quite celebrations. Ruth had chosen it deliberately: not her apartment, not weighted with Susan's presence, not the stage where her testimony had just been delivered.
 
@@ -1935,8 +1935,6 @@ She set down her pen and looked at the letter. Tomorrow she would decide whether
 
 
 # Chapter 13: What the Daughter Knows
-
-# ~~~
 
 Priya stood in the doorway holding a manila folder thick with papers. Behind her, her bags were packed and waiting, the physical evidence of departure that would happen in two days. Ananya had expected a normal visit, perhaps some last-minute college preparations, conversation about the life Priya was about to begin.
 
@@ -2109,7 +2107,8 @@ Priya's pen hovered over her notebook. "That's what I can't understand. Five yea
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 They ordered food neither of them wanted to eat. Indian takeout, a shared favorite, the containers cooling on the kitchen counter while they talked. The formality had broken down somewhat - Priya had set aside her folder, was listening now rather than interrogating - but the tension remained.
 
@@ -2303,7 +2302,8 @@ The microwave beeped. Neither of them had put anything else in it. A ghost in th
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 They made tea. The ritual was familiar, automatic - water boiling, leaves steeping, the particular cups Ananya had brought from her grandmother's house decades ago. By now the apartment was dark except for the stove light and a single lamp, the city glittering beyond the windows.
 
@@ -2497,8 +2497,6 @@ Ananya thanked her friend, hung up, and sat in the dark kitchen until sleep beca
 
 # Chapter 14: The Caregiver Receives
 
-# ~~~
-
 The waiting room had the same magazines it had held a month ago, the same faded posters about hand-washing and vaccine schedules. Elena had sat in rooms like this ten thousand times as a provider, guiding patients through anxious waits, but she had never fully understood the particular quality of time when you were the one waiting. Each minute stretched, became elastic, seemed to hold more seconds than physics should allow.
 
 Daniel sat beside her, his large hands resting on his knees. He had taken the morning off work, had insisted on being here. Through the glass partition she could see the clinic's back hallway, the familiar route to examination rooms she had walked for years.
@@ -2658,7 +2656,8 @@ She couldn't promise. No one could promise anything about bodies and time. But s
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Daniel cooked with the same attention he brought to construction - measuring, leveling, ensuring everything was precisely where it needed to be. The kitchen filled with the smell of his grandmother's recipes: chiles roasting on the burner, beans simmering on the back, the particular spice blend he'd learned before she died.
 
@@ -2831,7 +2830,8 @@ The marriage had bent. It had nearly broken. But here, in the kitchen that smell
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Her abuela's cane made a sound against the sidewalk that Elena had never noticed before. Click. Pause. Click. The rhythm of a body negotiating with concrete, with gravity, with the accumulated weight of seventy-eight years. They walked together down the street where Elena had grown up, past the Martinez house with its chain-link fence, past the lot where Mr. Dominguez used to work on cars before his hands gave out, past the corner where she had waited for the school bus every morning for twelve years.
 
@@ -2984,8 +2984,6 @@ That night, after the children were in bed, Elena sat in her own bed with a note
 
 # Chapter 15: The Offer
 
-# ~~~
-
 Kevin Zhou walked into the coffee shop like he was entering hostile territory. Which, Yusuf supposed, he was. This neighborhood had gentrified faster than the people who made it interesting could afford to stay, and Kevin - with his obvious tech money clothes that tried hard not to look expensive, his confident stance that came from never having to wonder if he belonged - was exactly the kind of person who had displaced them.
 
 Yusuf raised his hand from the corner table, and Kevin's face shifted into relief. They hadn't seen each other since the crisis, hadn't talked except for that call two months ago. The emergency had created something between them, but what exactly? Not friendship. Not alliance. Something harder to name.
@@ -3130,7 +3128,8 @@ He had one week to decide.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Amina was washing dishes when Yusuf finally told her. Their mother had retreated to the bedroom with her evening tea and her phone, scrolling through news from Mogadishu that she never talked about but never stopped reading. The apartment was small enough that they could hear the water running in the bathroom, the neighbor's television through the wall, the particular settling sounds of a building that had been tired since before they moved in.
 
@@ -3322,7 +3321,8 @@ It was the thing she always said. Tomorrow will be different. Sometimes it was a
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The studio smelled like dust and old cables and whatever the previous band had eaten for lunch. Yusuf set up in the live room while Marcus - the owner, a man who had aged like his equipment, both still functional if showing wear - adjusted levels in the control room behind the glass. The headphones hung around Yusuf's neck, not yet needed. He wasn't sure what he was here to record.
 
@@ -3497,8 +3497,6 @@ They stood there in the kitchen, holding each other, while the onions softened i
 
 # Chapter 16: The Decision
 
-# ~~~
-
 The law office was in Oakland, which Sarah Okonkwo had explained was deliberate. Not San Francisco, not the corporate territory where Prometheus's shadow fell across every building and every conversation. Here, across the bay, there was enough distance to breathe. The conference room had large windows facing west, and the winter rain drew soft lines down the glass.
 
 Ananya sat on one side of the long table. Sarah sat at the head, a position of orchestration rather than opposition. And across from Ananya were two people she had never met whose lives she had helped destroy.
@@ -3627,7 +3625,8 @@ The rain fell. The bridge lights reflected on the wet road. Ananya drove toward 
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The restaurant was one they had been coming to since the early days of their friendship, back when Delphine was still figuring out how to be married and Ananya was still pretending that her job at Prometheus meant something. Small place, Chilean food, a back table they had claimed enough times that the servers no longer asked where they wanted to sit.
 
@@ -3767,7 +3766,8 @@ She knew what she was going to do. She had always known. The only question now w
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The cooperation agreement sat on her desk, twelve pages of legal language that reduced moral choice to signatures and initials. Ananya had read it three times. She understood what it meant: she would provide testimony, produce documents, answer questions under oath. In exchange, she would receive limited immunity for her own conduct - not absolution, just protection. The law's version of accountability.
 
@@ -3901,8 +3901,6 @@ But it was something.
 
 # Chapter 17: The Reckoning Complete
 
-# ~~~
-
 The phone rang at four in the morning, and Elena knew before she answered. Knew the way anyone knows when the phone rings in the dark hours, when the body understands before the mind has time to construct defenses. She reached for it on the nightstand, Daniel already stirring beside her, and said hello into the darkness of their bedroom.
 
 The voice on the other end was the night nurse, speaking in the particular tone that medical professionals use for this moment. Peaceful, she said. In her sleep. No distress. The words that were meant to comfort and did not.
@@ -3987,7 +3985,8 @@ She didn't know if her grandmother could hear. But she said it anyway. There wou
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Yusuf woke at six-thirty, his phone alarm set earlier than it had been in years. Not for a delivery, not for a shift that the algorithm had assigned him, but for something he had chosen. His first day at a real job.
 
@@ -4071,7 +4070,8 @@ Outside, the December sun was setting already, the winter solstice claiming its 
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Ruth sat at the desk where she had written legal opinions for forty years, but she was not writing legal opinions now. The desk faced the window, the way it always had, and through the glass she could see the December street, the bare trees, the sky that would begin darkening again in just a few hours. The shortest day of the year. The longest night coming.
 
@@ -4145,7 +4145,8 @@ Ruth set down her pen and flexed her hand, the ache familiar and almost welcome.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Ananya found the house by the number of cars parked along the street, the way you find a gathering even when you've never been there before. The neighborhood was unfamiliar - Phoenix sprawl, a kind of suburban architecture she associated with families and space and a life very different from her San Francisco apartment. She had flown in that morning, rental car from the airport, directions from her phone. The lawsuit news had arrived while she was boarding: Prometheus's lawyers had filed a motion to compel, a response designed to intimidate. It felt very far away now.
 

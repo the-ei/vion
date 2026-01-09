@@ -1,5 +1,3 @@
-# ~~~
-
 She woke to the house already awake.
 
 Not in any dramatic sense - no sounds of coffee grinding or automated blinds rising, nothing so obvious as a machine performing morning. But the air had shifted overnight, the ambient system reading the quality of her sleep through some combination of motion sensors and breath analysis, adjusting temperature, humidity, the spectrum of light now filtering through the climate-adaptive glass. Delphine lay still for a moment, feeling the particular weight of consciousness returning, the way it always took longer now than it had at thirty, at twenty-five, the gradual reassembly of self from the scattered fragments of dream.
@@ -142,7 +140,8 @@ She sat down and began.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The home office was a converted second bedroom, and Delphine had spent considerable effort making it feel separate from the house's domestic rhythms. Different lighting temperature. A door that actually closed. A view of the back garden rather than the street, so the endless parade of autonomous vehicles didn't distract her from the work of making meaning out of other people's suffering.
 
@@ -292,7 +291,8 @@ She saved her files and closed her laptop and went to the kitchen to prepare som
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The call with her mother was scheduled for two o'clock, which was ten in the evening in London, the hour when Nkechi had always been most herself - dinner finished, the day's obligations discharged, a glass of wine in hand and opinions ready to be dispensed.
 

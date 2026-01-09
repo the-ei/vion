@@ -1,4 +1,4 @@
-The address was a house in Edina, one of those suburb-within-a-suburb neighborhoods where the lawns were immaculate and the houses all looked like they'd been designed by the same AI. Yusuf pulled up to the curb, checked the order on his phone - Thai food, forty-seven dollars, the customer had tipped eighteen percent in advance - and jogged to the door with the bag swinging.
+The address was a house in Edina, one of those suburb-within-a-suburb neighborhoods where the lawns were immaculate and the houses all looked like they had been designed by the same algorithm, optimized for the appearance of success. Yusuf pulled up to the curb, checked the order on his phone - Thai food, forty-seven dollars, the customer had tipped eighteen percent in advance - and jogged to the door with the bag swinging.
 
 A woman in yoga clothes answered. She took the food without meeting his eyes, said "thanks" to somewhere over his left shoulder, and closed the door.
 
@@ -14,7 +14,7 @@ The phone buzzed again.
 
 *Credit Alert: Your score has changed. New score: 547 (-43 points). Factors affecting your score: New collection account reported.*
 
-His thumb hovered over the notification. Five hundred forty-seven. When his father was alive, they had talked about credit scores like abstract puzzles, numbers that mattered to a world neither of them fully inhabited. Now those numbers were the walls of Yusuf's cage.
+His thumb hovered over the notification. Five hundred forty-seven. When his father was alive, they had talked about credit scores like abstract puzzles, numbers that mattered to a world neither of them fully inhabited, a game other people played. Now those numbers were the walls of Yusuf's cage, and the walls were closing in.
 
 
 ---
@@ -27,7 +27,7 @@ Yusuf put the phone face-down on the passenger seat. Started the engine. Drove t
 
 The debt was from 2035. The year everything fell apart and somehow held together. His mother had gotten sick, not critically but expensively, and the insurance his father had meticulously maintained had lapsed six months after his death because no one had remembered to pay the premium. Yusuf had taken a loan from one of those apps that made borrowing feel like a video game, coins and achievements and friendly reminders that masked interest rates north of thirty percent.
 
-He had paid it back. Most of it. But the last eight hundred dollars had gotten away from him, rolled over and over, accumulating fees and penalties until it metastasized into the number now living in his phone.
+He had paid it back. Most of it. But the last eight hundred dollars had gotten away from him, rolled over and over like a snowball becoming an avalanche, accumulating fees and penalties and interest until it metastasized into the number now living in his phone.
 
 The poke bowl was ready. He drove it to a high-rise downtown, rode the elevator to the nineteenth floor, handed the bag to a man in a suit who was clearly working from home and clearly annoyed at the interruption.
 
@@ -44,7 +44,7 @@ He thought about Jamal. The last time they had talked, two years ago, Jamal had 
 
 He thought about Ahmad. Locked up now, federal facility in Wisconsin, serving eight years for his part in something Yusuf had been adjacent to but, through luck or cowardice, hadn't joined. Ahmad had been the smart one, the one with ideas, the one who was going to get them all out. Now he was memorizing commissary prices and learning to sleep through anything.
 
-Two paths Yusuf had not taken. But his path didn't feel like escape. It felt like a slower version of the same destination.
+Two paths Yusuf had not taken. But his own path didn't feel like escape. It felt like a slower, more respectable version of the same destination.
 
 He finished the shift at eight, pulled into a strip mall parking lot, and sat with the engine running. The math wasn't complicated. At his current rate, paying down the collection account would take a year. During that year, his credit would stay destroyed. Without credit, no apartment. Without an apartment, he would stay in his mother's place. At twenty-seven, still in the room where he had been a child.
 
@@ -59,7 +59,7 @@ They had met during the crisis, an unlikely intersection of trajectories. Kevin 
 
 Yusuf had refused. Pride, mostly. The sense that taking help from someone like Kevin would confirm something about his own position that he wasn't ready to accept.
 
-Now, sitting in a parking lot with his life cascading toward some bottom he couldn't see, pride seemed like a luxury he couldn't afford.
+Now, sitting in a parking lot at night with his life cascading toward some bottom he couldn't see, pride seemed like a luxury he could no longer afford.
 
 He pressed the number before he could change his mind.
 
@@ -90,7 +90,7 @@ There was a pause. Traffic noise on Kevin's end, the sound of a city different f
 
 "True. But I meant what I said then. If there's something I can do."
 
-Yusuf leaned his head against the headrest. The parking lot was empty except for a man walking a small dog across the far end. Normal life, ordinary evening, the world continuing as if Yusuf's crumbling didn't matter.
+Yusuf leaned his head against the headrest and closed his eyes. The parking lot was empty except for a man walking a small dog across the far end. Normal life, ordinary evening, the world continuing as if Yusuf's crumbling didn't matter, as if it were invisible, which it was.
 
 "I don't know what I'm asking for," Yusuf admitted. "I don't even know why I called. I just..."
 
@@ -119,7 +119,7 @@ Yusuf felt something twist in his chest. Skepticism, maybe. Hope, maybe. The dan
 
 "What kind of company?"
 
-"I'll explain tomorrow. But think about this: everything you learned during the crisis, all those ways of operating in broken systems - what if that was actually valuable? What if there were people who needed exactly that knowledge?"
+"I'll explain tomorrow. But think about this: everything you learned during the crisis, all those ways of operating in broken systems, all those skills nobody teaches in school - what if that was actually valuable? What if there were people who needed exactly that knowledge?"
 
 The man with the dog had disappeared. The parking lot was empty now, just Yusuf and his dying Honda and the glow of his phone.
 

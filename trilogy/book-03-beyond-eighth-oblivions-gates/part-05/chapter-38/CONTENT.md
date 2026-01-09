@@ -1,10 +1,8 @@
-# ~~~
-
-Delphine woke to the sound of Theo making breakfast, which meant Jessie was letting him use the stove again, which meant Jessie had decided that twelve was old enough for scrambled eggs. The smell of butter and burning bread drifted through the bedroom door, and Delphine lay for a moment in the gray Los Angeles morning, not ready to face the day.
+Delphine woke to the sound of Theo making breakfast, which meant Jessie was letting him use the stove, which meant Jessie had decided that twelve was old enough for scrambled eggs. The smell of butter and burning bread drifted through the bedroom door, and Delphine lay for a moment in the gray Los Angeles morning, not ready to face the day.
 
 This was the day. The premiere. Two years of work about to be shown to people who would judge it, critique it, consume it, forget it. The documentary that had started as an attempt to make sense of the Eighth Oblivion and had become, somewhere along the way, a meditation on the impossibility of making sense of anything through the medium of narrative.
 
-She reached for her phone. A message from her mother in London, sent hours ago because of the time difference.
+She reached for her phone. A message from her mother in London, sent hours ago for the time difference.
 
 *Thinking of you, cariad. Your father would be so proud. I'm watching from here, in spirit.*
 
@@ -21,7 +19,7 @@ This film was different from everything she had made before. Not commercial, not
 
 The fear was that no one would understand. The deeper fear was that they would understand and find it lacking.
 
-She got up, showered, moved through the morning rituals that had nothing to do with documentary premieres. Theo was at the table eating his slightly burned toast with an expression of satisfaction. Jessie was reading something on her tablet, coffee steaming beside her.
+She got up, showered, moved through the morning rituals that had nothing to do with documentary premieres. Theo sat at the table eating his slightly burned toast with an expression of satisfaction. Jessie was reading something on her tablet, coffee steaming beside her.
 
 "Morning," Jessie said without looking up. "How are you feeling?"
 
@@ -52,7 +50,7 @@ She typed back: *I'm scared.*
 
 *I know. That's why it matters.*
 
-The friendship with Ananya had become central to Delphine's life in ways she hadn't anticipated. They had met in the chaos of the crisis years, had found in each other a shared concern about ethics and meaning in an industry that often lacked both. Ananya from the tech side, Delphine from the media side, both of them grappling with complicity, with the question of how to do good work in systems that did harm.
+The friendship with Ananya had become central to Delphine's life in ways she had not anticipated. They had met in the chaos of the crisis years, had found in each other a shared concern about ethics and meaning in an industry that often lacked both. Ananya from the tech side, Delphine from the media side, both of them grappling with complicity, with the question of how to do good work in systems that did harm.
 
 Ananya would be at the premiere tonight. She had flown in from San Francisco, had rearranged her schedule, had insisted on being there for this. Their friendship existed in video calls and text messages and occasional visits, but it was real, it was deep, it was the kind of connection Delphine had not expected to find in middle age.
 
@@ -65,7 +63,7 @@ She looked up from her phone. Jessie was watching her.
 
 This was true. The film existed. Two years of labor crystallized into ninety minutes that would be projected tonight onto a screen for strangers to watch. Whatever Delphine had meant by it, whatever she had tried to say about the decade they had all lived through, was now fixed, permanent, separate from her intentions.
 
-That was the terrifying gift of finishing something. It belonged to the world now, not to her.
+That was the terrifying gift of finishing. It belonged to the world now, not to her.
 
 She thought about what she would say if asked about it. The interviews and panel discussions that would come if the film succeeded, the silence that would come if it didn't. She had rehearsed answers in her mind, had crafted sentences about narrative refusal and ethical witnessing and the impossibility of closure. But under all the careful language was something simpler: she had wanted to show what couldn't be shown, to say what couldn't be said. She had wanted to make something honest in an industry built on manipulation.
 
@@ -85,7 +83,8 @@ She opened her laptop and began writing the remarks she would give afterward, th
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The theater was in Silver Lake, a restored art-deco building that had become a venue for independent film. Delphine arrived with Jessie and Theo an hour early, needing time to adjust to the space, to see the screen where her work would be projected, to check the sound levels one more time even though everything had already been checked.
 
@@ -122,7 +121,7 @@ They found their seats near the middle of the theater, Delphine positioned where
 
 The lights dimmed. The screen came alive.
 
-And then she was watching her own film, but from the outside now, hearing it through the ears of strangers, seeing it through their eyes. The opening sequence she had labored over for months: fragments of news footage, algorithmic visualizations, the faces of ordinary people caught in systems they didn't understand. No voiceover explaining, no title cards contextualizing. Just the images, and beneath them a score that had taken weeks to get right - not melodic but textural, ambient, the sound of something vast and indifferent.
+And then she was watching her own film from the outside, hearing it through the ears of strangers, seeing it through their eyes. The opening sequence she had labored over for months: fragments of news footage, algorithmic visualizations, the faces of ordinary people caught in systems they didn't understand. No voiceover explaining, no title cards contextualizing. Just the images, and beneath them a score that had taken weeks to get right - not melodic but textural, ambient, the sound of something vast and indifferent.
 
 She had wanted to begin with disorientation. She had wanted the audience to feel the vertigo of living through something that couldn't be narrated, couldn't be reduced to story.
 
@@ -133,7 +132,7 @@ But now, watching, she wondered if she had gone too far. If the disorientation w
 
 The faces around her were unreadable in the dark. Some watched with apparent attention, others shifted in their seats. Theo sat between her and Jessie, his twelve-year-old face serious, trying to understand.
 
-The film moved through its sections without signaling transitions. An interview with a gig worker whose face was half-shadowed, speaking about algorithmic management in terms that were both specific and universal. She had cut this interview down from an hour to six minutes, and now those six minutes felt both essential and insufficient.
+The film moved through its sections without signaling transitions. An interview with a gig worker whose face was half-shadowed, speaking about algorithmic management in terms both specific and universal. She had cut this interview down from an hour to six minutes, and now those six minutes felt both essential and insufficient.
 
 Delphine remembered making it. The interview had taken place in Minneapolis, in a coffee shop, the worker nervous about being identified. He had spoken about what it felt like to have his work evaluated by systems he couldn't see, to be optimized and ranked and discarded by processes that had no face, no name, no accountability. She had listened without interrupting, and then she had taken his words and cut them and arranged them, had made them serve her vision.
 
@@ -146,7 +145,7 @@ She watched Ananya watching the screen. Her friend's face was intent, serious, m
 
 ---
 
-The middle section of the film was its most difficult, the part Delphine had struggled with most. Interviews with people who had built the systems, the engineers and executives who had made choices that affected millions without fully understanding the consequences. She had tried to present them without judgment, to let their words reveal their own contradictions, their own blind spots. But in the editing, she had made choices about what to include and what to cut, and those choices were a kind of judgment, however she tried to avoid it.
+The middle section of the film was its most difficult, the part she had struggled with most. Interviews with people who had built the systems, the engineers and executives who had made choices that affected millions without fully understanding the consequences. She had tried to present them without judgment, to let their words reveal their own contradictions, their own blind spots. But in the editing, she had made choices about what to include and what to cut, and those choices were a kind of judgment, however she tried to avoid it.
 
 One of the executives in the film was in the audience tonight. She had seen him in the lobby, had wondered if he would stay or walk out. He was still there, she noticed, his face as unreadable as everyone else's in the dark.
 
@@ -163,7 +162,7 @@ Then the lights came up.
 
 ---
 
-Applause. Not the polite applause of obligation but something more substantial, sustaining. Delphine sat frozen in her seat, not processing the sound, until Jessie touched her arm.
+Applause. Not the polite applause of obligation but something more substantial, sustained. Delphine sat frozen in her seat, not processing the sound, until Jessie touched her arm.
 
 "Stand up," Jessie whispered. "They want you to stand up."
 
@@ -210,9 +209,10 @@ They moved together toward the reception, Ananya's hand on Delphine's back, the 
 
 
 
-# ~~~
 
-The reception was in a gallery space adjacent to the theater, white walls hung with art Delphine didn't have the attention to look at. Wine circulated, small bites on trays, the industry performance of post-screening socializing. People approached her in waves, and she responded with the part of herself that knew how to do this, the professional mask she had worn for twenty years.
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
+
+The reception was in a gallery space adjacent to the theater, white walls hung with art Delphine had no attention to look at. Wine circulated, small bites on trays, the industry performance of post-screening socializing. People approached her in waves, and she responded with the part of herself that knew how to do this, the professional mask she had worn for twenty years.
 
 "I found it challenging, in the best way," said a programmer from Telluride.
 
@@ -235,7 +235,7 @@ Jessie looked at her with the particular expression of a spouse who knows too mu
 
 ---
 
-The executive from the film found her near the wine table. His name was Jonathan something, she remembered - a vice president of something at one of the major platforms, someone she had interviewed two years ago in a sterile office building, someone whose words she had cut and arranged to make a point about complicity.
+The executive from the film found her near the wine table. His name was Jonathan something, she remembered - a vice president at one of the major platforms, someone she had interviewed two years ago in a sterile office building, someone whose words she had cut and arranged to make a point about complicity.
 
 "Interesting film," he said, his tone deliberately neutral.
 
@@ -262,9 +262,9 @@ This surprised her. She had expected defensiveness, not reflection.
 
 ---
 
-"Are you still there?" she asked. "At the company?"
+"You're still there?" she asked. "At the company?"
 
-"I am. I'm still trying to change things from inside. I don't know if it's working." He looked at his wine. "Your film made me wonder if that's even possible. If working within the system is just - complicity dressed up as reform."
+"I am. Still trying to change things from inside. I don't know if it's working." He looked at his wine. "Your film made me wonder if that's even possible. If working within the system is just - complicity dressed up as reform."
 
 Delphine felt something shift in her chest. This was exactly the question she had been asking herself for years. The question that had led to this documentary, to her tentative stepping back, to the sense that the attention economy she had served was fundamentally corrupted no matter how carefully one tried to work within it.
 
@@ -338,7 +338,8 @@ Delphine felt the tears she had been holding back threatening again. She blinked
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Home, finally. Theo asleep upstairs, the house quiet around them. Delphine and Jessie sat on the couch in the living room, not touching, each processing the evening in their own way. The premiere was over. The film was out in the world. What came next was the question Delphine had been avoiding.
 

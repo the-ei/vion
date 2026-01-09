@@ -1,5 +1,3 @@
-# ~~~
-
 The cedar chest had stood in abuela's bedroom for as long as Elena could remember, its brass corners oxidized to a greenish patina that she used to trace with her fingertip when she was Sofia's age, following the metal's edge as if it were a map to somewhere she had never been. Now she knelt before it in the February light, the room still holding the particular silence that descends after a death, not emptiness exactly but a different quality of presence, as if the air itself had reorganized around an absence.
 
 Sofia sat cross-legged on the floor beside her, a cardboard box labeled DONATE in her lap, though they had not yet put anything in it.
@@ -136,7 +134,8 @@ He accepted this, the way children accept what they cannot understand, filing it
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 She found the prayer book tucked behind a stack of old missals on the bedroom shelf: San Judas Tadeo on the cover, his face worn soft by decades of handling. The letter had slipped deeper into the envelope, which she had moved from her pocket to her palm to the bedside table over the course of the afternoon. But the prayer book held other pages. More letters, unfinished.
 
@@ -304,7 +303,8 @@ The letter would wait. But it would not stop asking its questions.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The house settled into its nighttime sounds: the creak of cooling walls, the hum of the refrigerator, the particular silence that meant the children were finally asleep. Elena sat at her abuela's small desk, the one where bills had been paid and letters written and prayers copied out from books in handwriting that grew shakier each year.
 

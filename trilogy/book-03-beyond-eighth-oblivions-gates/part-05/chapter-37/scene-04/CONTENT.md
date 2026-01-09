@@ -1,4 +1,4 @@
-Jerome walked out of the hospice building into Baltimore's winter morning. The air was sharp, cold in a way that felt clarifying after the overheated stillness of the death room. He stood on the sidewalk and breathed it in, feeling his lungs expand, feeling his body confirm that it was still alive, still working, still breathing without effort.
+Jerome walked out of the hospice building into Baltimore's winter morning. The air was sharp, cold in a way that felt clarifying after the overheated stillness of that room. He stood on the sidewalk and breathed it in, feeling his lungs expand, feeling his body confirm that it was still alive, still working, still breathing without effort.
 
 The sky was the gray of early January, the color of waiting, of patience that has not yet been rewarded. A few cars moved through the parking lot. A bus passed on the street. The city was waking to a day that was, for most people, merely another Tuesday.
 
@@ -17,7 +17,7 @@ She had asked him if he did right. She had asked him if they listened.
 
 Some of them. Sometimes.
 
-He had spent his career telling truths that had not changed the world. The investigations he had poured himself into, the sources he had protected, the articles that had won awards and generated outrage and been forgotten - all of it had been worth doing, worth the sacrifices he had made, worth the time away from family and the strain on his marriage and the financial insecurity of independent journalism. Hadn't it?
+He had spent his career telling truths that had not changed the world. The investigations he had poured himself into, the sources he had protected, the articles that had won awards and generated outrage and been forgotten - all of it had been worth doing, worth the sacrifices, worth the time away from family and the strain on his marriage and the financial insecurity of independent journalism. Hadn't it?
 
 He was no longer sure. Or rather, he was sure that certainty was the wrong frame. The truth mattered not because it changed things, but because it was the truth. His mother had understood this. The practice of truthfulness, the commitment to honesty, the willingness to say what was real regardless of consequences - this was its own reward, its own justification.
 
@@ -38,7 +38,7 @@ DeShawn came to stand beside him, looking out at the parking lot, at the city be
 
 Jerome looked at his son, surprised by the concession. "You think so?"
 
-"I've read your work more carefully since I started working in tech. You saw things that were really there. Things that are still there. The surveillance, the algorithmic control, the way the systems treat people as data points instead of - instead of what they are."
+"I've read your work more carefully since I started in tech. You saw things that were really there. Things that are still there. The surveillance, the algorithmic control, the way systems treat people as data points instead of - instead of what they are."
 
 "People."
 
@@ -59,7 +59,7 @@ Jerome nodded. This was what his mother had tried to tell him, what she had know
 
 ---
 
-They stood together in the cold, father and son, the distance between them narrower than it had been in years. Jerome felt something shifting, some barrier dissolving. It wasn't that their disagreements had been resolved or their differences bridged. It was simpler than that: they were here, together, in the presence of loss. And presence was its own kind of bridge.
+They stood together in the cold, father and son, the distance between them narrower than it had been in years, perhaps ever. Jerome felt something shifting, some barrier dissolving. It wasn't that their disagreements had been resolved or their differences bridged. It was simpler than that: they were here, together, in the presence of loss. And presence was its own kind of bridge.
 
 "I'm going to stay a few more days," DeShawn said. "For the funeral, for whatever you need. Work can wait."
 
@@ -82,7 +82,7 @@ But he didn't move immediately. He stood for another moment in the cold Baltimor
 
 Had it mattered? Her life, her struggles, her daily acts of care and discipline and hope?
 
-It had mattered to him. It had made him who he was. It had given him the sense of justice that had driven his career, the stubbornness that had kept him investigating when the stories were hard, the faith in truth that had sustained him when the truth seemed useless.
+It had mattered to him. It had made him who he was. It had given him the sense of justice that drove his career, the stubbornness that kept him investigating when the stories were hard, the faith in truth that sustained him when truth seemed useless.
 
 Did they listen?
 

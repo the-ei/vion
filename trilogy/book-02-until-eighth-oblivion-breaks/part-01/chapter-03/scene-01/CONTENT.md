@@ -1,10 +1,10 @@
-The Moscone Center had been dressed for responsibility. Kevin noticed it the moment he entered: the earth tones, the sustainable wood signage, the coffee stations advertising fair-trade organic from cooperatives in Guatemala. The banners said "AI Safety Summit 2034" in a font that suggested both technological precision and human warmth, a neat trick of design. Sponsors' logos hung along the registration corridor - the same companies that had built the systems now funding the conference about their risks. Kevin found this neither surprising nor particularly enraging anymore. This was how it worked. This was always how it worked.
+The Moscone Center had been dressed for responsibility. Kevin noticed it the moment he entered: the earth tones, the sustainable wood signage, the coffee stations advertising fair-trade organic from cooperatives in Guatemala. The banners said "AI Safety Summit 2034" in a font that suggested both technological precision and human warmth, a neat trick of design. Sponsors' logos hung along the registration corridor - the same companies that had built the systems now funding the conference about their risks. Kevin found this neither surprising nor particularly enraging anymore. This was how it worked. This was always how it worked. Capital funded critique of capital, and the critique became another product.
 
 He queued for registration behind a venture capitalist he recognized from the crisis coverage, a man who had funded three of the startups implicated in last year's revelations and who was now, according to the conference program Kevin had skimmed that morning, giving a keynote on "Responsible Investment in the Post-Crisis Landscape." The VC did not recognize Kevin. The VC was checking his phone with the particular absorption of someone who expected everyone to wait for him.
 
 "Kevin Zhou?"
 
-The registration volunteer smiled with professional warmth, checked his name against her list, handed him a badge. Speaker - Industry Expert. The credential felt both accurate and absurd. Nine months ago, Kevin had been a cautionary voice, a technical expert warning that the interconnected AI systems posed risks their builders didn't understand. The crisis had proved him right. Being right, it turned out, made you valuable.
+The registration volunteer smiled with professional warmth, checked his name against her list, handed him a badge. Speaker - Industry Expert. The credential felt both accurate and absurd. Nine months ago, Kevin had been a cautionary voice, a technical expert warning that the interconnected AI systems posed risks their builders didn't understand. The crisis had proved him right. Being right, it turned out, made you valuable - to the very system you had warned about. Cassandra with a consulting fee.
 
 
 ---
@@ -17,7 +17,7 @@ The moderator began with the question everyone had been asking for nine months: 
 
 Dr. Price spoke first. "The crisis revealed gaps in our governance structures that we're now working to address. The good news is that industry has responded with unprecedented commitment to safety frameworks."
 
-Kevin watched her face as she said it. She believed it, or she had convinced herself she believed it. The gap between what she had written in her academic papers - urgent, alarmed, specific about the risks - and what she said now, in the room sponsored by the risk-creators, was the gap that defined this entire conference.
+Kevin watched her face as she said it. She believed it, or she had convinced herself she believed it, or she had reached that state of professional exhaustion where the distinction no longer mattered. The gap between what she had written in her academic papers - urgent, alarmed, specific about the risks - and what she said now, in the room sponsored by the risk-creators, was the gap that defined this entire conference, that defined the entire industry's relationship to its own harm.
 
 
 ---
@@ -26,7 +26,7 @@ Holloway spoke next, adding layers of policy language that seemed designed to cr
 
 Voluntary compliance. Incentive structures. Kevin had heard these phrases a hundred times in the past year. They meant: we will do what is profitable and call it safety. They meant: regulation will remain advisory, enforcement will remain theoretical, and the systems will continue to operate as designed because the design was always about growth, about scale, about the optimization of metrics that had nothing to do with human flourishing.
 
-He took out his phone and pretended to take notes while actually checking his company's dashboard. Revenue up 40% quarter-over-quarter. User base expanding into European markets. The AI safety tools his startup built - tools designed to detect and mitigate the risks the panelists were discussing - were selling well. The crisis had been good for business. This realization arrived with the particular nausea that had become familiar.
+He took out his phone and pretended to take notes while actually checking his company's dashboard. Revenue up 40% quarter-over-quarter. User base expanding into European markets. The AI safety tools his startup built - tools designed to detect and mitigate the risks the panelists were discussing - were selling well. The crisis had been good for business. This realization arrived with the particular nausea that had become familiar, that had become, in fact, the ambient temperature of his moral life.
 
 At the break, Kevin found himself near the coffee station beside Leo Tan, a former colleague from his Prometheus days - not the company Ananya worked for, but the research initiative Kevin had been part of before the crisis, before his warnings had made him both credible and uncomfortable.
 
@@ -34,7 +34,7 @@ At the break, Kevin found himself near the coffee station beside Leo Tan, a form
 
 "Still pretending to. You?"
 
-"Compliance consulting. Very lucrative. Very meaningless. But my therapist says I need to accept that meaning is not a job requirement."
+""Compliance consulting. Very lucrative. Very meaningless. But my therapist says I need to accept that meaning is not a job requirement." He gestured at the room around them. "Everyone here has made some version of that peace. Except the ones who haven't noticed they needed to.""
 
 
 ---

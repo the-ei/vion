@@ -1,5 +1,3 @@
-# ~~~
-
 The convoy appeared on the main road just after ten in the morning: three military trucks painted in olive drab, followed by two white vans marked with the logo of the Federal Emergency Management Agency. Elena stood in the clinic's doorway and watched them approach, the rumble of diesel engines breaking the quiet that had settled over the neighborhood.
 
 Around her, the community had gathered. Not called, not organized through any official channel, but simply present - drawn by the sound, by the news that had spread person to person, by the instinct to witness what was coming. Mr. Ochoa stood to her left, Mrs. Williams to her right. Daniel was somewhere in the crowd. The people who had built something together now watched as something else arrived.
@@ -97,7 +95,8 @@ The break was ending. Something else was beginning.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The apartment door was unlocked. Yusuf turned the handle and stepped inside, and the first thing he saw was Amina asleep in the chair beside their mother's bed.
 
@@ -223,7 +222,8 @@ But his mother was alive, and his sister was safe, and they were together. For n
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The knock came at three in the afternoon.
 
@@ -335,7 +335,8 @@ DeShawn squeezed his hand once, tight, and did not let go.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The car pulled into the driveway just after four in the afternoon.
 
@@ -424,7 +425,8 @@ The crisis was over. Her work was just beginning.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 A mother in Phoenix:
 

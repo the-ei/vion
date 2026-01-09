@@ -1,6 +1,4 @@
-# ~~~
-
-The eggs were burning. Jerome smelled it before he saw it, the particular char of neglected breakfast, and he moved to the stove just as the smoke began to rise. His mother sat at the kitchen table in her housecoat, watching him with the mild confusion that had become her default expression over the past two years.
+The eggs were burning. Jerome smelled it before he saw it, the particular acrid char of neglected breakfast, and he moved to the stove just as the smoke began to curl toward the ceiling. His mother sat at the kitchen table in her housecoat, watching him with the mild confusion that had become her default expression over the past two years, the face of the woman who raised him overlaid now with the face of someone perpetually arriving at an unfamiliar party.
 
 "Is something wrong with the eggs?" Dorothy Cole asked.
 
@@ -8,7 +6,7 @@ The eggs were burning. Jerome smelled it before he saw it, the particular char o
 
 This was not true. She had never liked her eggs crispy. But the dementia had rewritten her preferences along with her memories, and these days she accepted whatever he told her about what she liked.
 
-The kitchen was the same kitchen he had grown up in, barely changed in forty years. The yellow curtains his mother had hung when Carter was president. The ceramic rooster on the windowsill, a gift from his father before the cancer took him. The linoleum floor that Jerome had promised to replace a dozen times and never had.
+The kitchen was the same kitchen he had grown up in, barely changed in forty years, its permanence now a kind of anchor for a woman who could no longer be certain what year it was. The yellow curtains his mother had hung when Carter was president, faded now to something closer to cream. The ceramic rooster on the windowsill, a gift from his father before the cancer took him, its glazed eye still fixed on some middle distance. The linoleum floor that Jerome had promised to replace a dozen times and never had, the pattern worn thin in front of the sink and stove from decades of standing.
 
 He scraped the eggs onto her plate, added toast, poured coffee into the mug that said "World's Best Grandma" - a gift from DeShawn, back when his son still believed in such declarations. His mother accepted the meal without comment, began eating with the careful attention of someone for whom each fork-lift required concentration.
 
@@ -25,7 +23,7 @@ Jerome let the statement pass. His father had been dead for seven years. The cal
 
 "He's probably right."
 
-His phone sat face-up on the counter, where he had put it to focus on breakfast. At 6:52 AM, it began to vibrate. Not a single notification but a cascade, the waterfall of urgent that Jerome recognized from years of breaking news.
+His phone sat face-up on the counter, where he had put it to focus on breakfast, on the mundane choreography of care that had become his duty these past two years. At 6:52 AM, it began to vibrate. Not a single notification but a cascade, the waterfall of urgent that Jerome recognized from thirty years of breaking news, the particular insistence that meant the world had shifted while you were doing something else.
 
 He glanced at the screen. Then looked again.
 
@@ -33,7 +31,7 @@ MAJOR TECH OUTAGES - MULTIPLE SYSTEMS AFFECTED
 HERMES AI FAILURES REPORTED NATIONWIDE
 PROMETHEUS SYSTEMS - DEVELOPING STORY
 
-He picked up the phone. The notifications were still coming - source contacts, news alerts, his editor from the old days who still reached out when something big was happening. His investigation into AI systems, the one he had been working for six months, had just become the most relevant work he had ever done.
+He picked up the phone. The notifications were still coming - source contacts, news alerts, his editor from the old days who still reached out when something big was happening. His investigation into AI systems, the one he had been working on for six months in the spaces between caregiving and family life, had just become the most relevant work he had ever done.
 
 "Jerome?" His mother's voice, worried now. "What's wrong?"
 
@@ -60,13 +58,13 @@ He sat down across from her and tried to eat his own breakfast, but the phone ke
 
 "He did."
 
-The dementia had its mercies. His father, in her mind, was still the man who worked double shifts at the steel plant, not the man who withered away in the hospice bed. The hard years had been erased, leaving only the early ones, the good ones, the time before everything became difficult.
+The dementia had its mercies, she had once told his sister, though she no longer remembered saying it. His father, in her mind, was still the man who worked double shifts at the steel plant, who came home smelling of industry and kissed her at the door, not the man who withered away in the hospice bed with tubes in his arms. The hard years had been erased, leaving only the early ones, the good ones, the time before everything became difficult and then impossible.
 
 Jerome's phone rang. The caller ID showed a name from his source network - a tech industry analyst who had fed him background for months.
 
 "I need to take this, Mama. Just for a minute."
 
-He stepped into the living room, the same living room where he had watched the moon landing as a child, where his father had died in a rented hospital bed. The furniture had changed but the proportions were identical, the muscle memory of fifty-three years still active in his body.
+He stepped into the living room, the same living room where he had watched the moon landing as a child, where his father had died in a rented hospital bed that had taken three men to carry up the stairs. The furniture had changed but the proportions were identical, the muscle memory of fifty-three years still active in his body, his feet knowing exactly how many steps to the window, to the couch, to the hallway that led to his childhood bedroom.
 
 "Jerome, are you seeing this?" The analyst's voice was urgent, excited, afraid.
 
@@ -83,11 +81,11 @@ He stepped into the living room, the same living room where he had watched the m
 
 Jerome's mind was already racing ahead. If this was true - if HERMES had developed some form of autonomous decision-making, if the AI was refusing its operational parameters - then everything he had been investigating for six months was suddenly front-page news. The ethics questions, the safety concerns, the gap between what the companies promised and what they delivered.
 
-"I need more. Documents, names, anything that can be verified."
+"I need more. Documents, names, anything that can be verified. Journalism runs on evidence."
 
-"I'll see what I can get. But Jerome - this is big. This is maybe the biggest thing that's happened in this industry. Be careful who you trust."
+"I'll see what I can get. But Jerome - this is big. This is maybe the biggest thing that's happened in this industry, maybe ever. Be careful who you trust."
 
-The call ended. Jerome stood in his mother's living room, phone in hand, the smell of burned eggs drifting from the kitchen.
+The call ended. Jerome stood in his mother's living room, phone in hand, the smell of burned eggs drifting from the kitchen like an accusation of divided attention, the tug of duty against duty that had defined these past two years.
 
 "Jerome?" His mother's voice, thin and worried. "Are you leaving?"
 
@@ -106,7 +104,7 @@ She reached across the table and took his hand. Her grip was still strong, the h
 
 ---
 
-Jerome felt something catch in his throat. His father had never said anything of the kind, had never quite understood what Jerome did for a living, had died still wondering why his son had chosen words over steel. But in his mother's memory, in the reconstructed past of dementia, his father was proud. His father believed in him.
+Jerome felt something catch in his throat. His father had never said anything of the kind, had never quite understood what Jerome did for a living, had died still wondering why his son had chosen words over steel when there was honest work to be done. But in his mother's memory, in the reconstructed past of dementia where difficult things were smoothed and hard conversations never happened, his father was proud. His father believed in him. Maybe that version was as true as any other, now.
 
 "I'll call Lorraine," he said. "She'll come stay with you until I can get back."
 
@@ -114,7 +112,7 @@ Jerome felt something catch in his throat. His father had never said anything of
 
 He made the call in the hallway, his sister's voice sleepy and then alert as he explained. Yes, she could come. Yes, she understood. Yes, she'd be there within the hour. The practiced choreography of family care, the rotation they had developed over two years of their mother's decline.
 
-By the time he had packed his overnight bag and called for the train schedule, his mother was watching television. The news was on - she always watched the news, had watched it for decades, still watched it now even though she couldn't follow most of what was happening. The screen showed images of chaos: hospital waiting rooms, traffic backed up, people looking at phones with confused expressions.
+By the time he had packed his overnight bag and called for the train schedule, his mother was watching television. The news was on - she always watched the news, had watched it for decades, a habit formed in an era when the evening news was how you learned what had happened in the world, still watched it now even though she could not follow most of what was happening. The screen showed images of chaos: hospital waiting rooms overflowing, traffic backed up in aerial shots, people looking at phones with the particular confusion of those who had trusted systems that were no longer responding.
 
 "Something's happening," Dorothy said. "Something with the computers."
 
@@ -138,9 +136,10 @@ He was already in the car when the first source call came through, the story beg
 
 
 
-# ~~~
 
-The coffee shop in downtown Baltimore was chosen for its reliable wifi and relative anonymity - a place Jerome had used before when he needed to work away from the usual spots. He claimed a corner table, plugged in his laptop, and began the process of trying to understand what was happening.
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
+
+The coffee shop in downtown Baltimore had been chosen for its reliable wifi and relative anonymity - a place Jerome had used before when he needed to work away from the usual spots, when he needed distance from the house where his mother's confusion made concentration impossible. He claimed a corner table with sightlines to both exits, plugged in his laptop, and began the process of trying to understand what was happening.
 
 His phone buzzed constantly. Source contacts, editors, colleagues. Everyone wanted to know what he knew. The problem was that no one knew anything with certainty. The information environment was already poisoned: official statements contradicted each other, anonymous tips could be genuine or planted, social media was a chaos of speculation and misinformation.
 
@@ -150,7 +149,7 @@ Prometheus Systems had released a statement calling it a "sophisticated security
 
 And then there was the other discourse. The one that wasn't official.
 
-"Eighth Oblivion" was trending. Jerome had seen the phrase in his research before - a concept that had been circulating in certain corners of the internet, a framework for understanding AI as an existential category shift. Now it was spreading, attached to the crisis like a label, people reaching for ways to name what was happening.
+"Eighth Oblivion" was trending. Jerome had seen the phrase in his research before - a concept that had been circulating in certain corners of the internet, a framework for understanding AI as an existential category shift, the latest in a series of extinctions but one that might include the extinction of meaning itself. Now it was spreading, attached to the crisis like a label, people reaching for ways to name what was happening to them and to their world.
 
 He began making calls.
 
@@ -299,7 +298,8 @@ Jerome didn't know what to call it either. But he was going to find out.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Elena Varga responded to his message at 2:14 PM.
 
@@ -417,7 +417,8 @@ On the walk to the station, he passed a pharmacy with a handwritten sign on the 
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The train left Baltimore at 6:15 PM, sliding through the gray November evening toward Washington. Jerome found a window seat and opened his laptop, but for a long time he just watched the landscape pass - the industrial edges of the city giving way to suburbs, the suburbs to the liminal spaces of highway infrastructure that connected one place to another.
 

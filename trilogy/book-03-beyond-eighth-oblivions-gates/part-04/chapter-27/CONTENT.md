@@ -1,5 +1,3 @@
-# ~~~
-
 She woke before the light, as she had for months now, her body refusing the permission of sleep past four in the morning. The ceiling above her bed was gray in the darkness, and she lay still, watching the faint glow from the street below create shadows that shifted as cars passed, rare at this hour, their headlights sweeping across the walls of her bedroom like searchlights hunting for something that was not there.
 
 Ananya Ramaswamy. Forty-seven years old. Chief Ethics Officer at Prometheus Systems for eleven years. These facts arranged themselves in her mind as they did every morning, a kind of inventory she performed without willing it, as though her unconscious needed to confirm that she was still the person she had been when she fell asleep.
@@ -80,7 +78,8 @@ The phone waited on the nightstand. The morning waited around her. The threshold
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 She picked up the phone.
 
@@ -172,7 +171,8 @@ Then she began to compose a reply.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Before she could finish the reply, she stopped. Her thumb hovered over the screen, paralyzed by a thought that had surfaced without warning.
 
@@ -246,7 +246,8 @@ And that whatever she decided, she could not decide without thinking about Priya
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 She went to her closet.
 

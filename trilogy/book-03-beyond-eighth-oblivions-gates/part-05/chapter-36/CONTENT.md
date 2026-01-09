@@ -1,5 +1,3 @@
-# ~~~
-
 The Chennai airport had changed. Ananya stood at the edge of the arrivals hall, Priya beside her shouldering both their carry-on bags, and looked at what had been built since she last walked through this space. The ceiling arched higher now, glass and steel where she remembered concrete. The light fell differently. But beneath the renovation, beneath the gleaming floor tiles and the digital signage cycling through Tamil and English and Hindi, something remained that her body recognized before her mind could name it.
 
 The humidity. That was what struck her first. Not unpleasant, not the assault she had braced for, but familiar in a way that made her chest tighten. The air here had weight, had texture. It pressed against her skin like a hand she had forgotten was missing.
@@ -82,7 +80,8 @@ Ananya stood at the threshold, Priya's hand still in hers, and let the fact of i
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The cremation ground lay at the edge of the city, where Chennai dissolved into something less defined. They arrived in a convoy of white cars - Ananya, Priya, her father, her brother Suresh who had flown in from Bangalore, the aunts and uncles and cousins who would witness this ending. The morning was already hot, the sun insistent through a haze that might have been humidity or pollution or simply the atmosphere of grief.
 
@@ -183,7 +182,8 @@ Ananya stood in the sunlight and felt the weight of it: her mother was gone, and
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The house was full of people and then, eventually, it wasn't. Ananya watched the relatives disperse through the evening, the neighbors returning to their homes, the cousins heading back to their own lives in Bangalore and Hyderabad and Mumbai. The rituals of the day had been observed. The condolences had been offered. What remained was the family itself, contracted now to its essential core: Ananya, Priya, her father, her brother who would fly back tomorrow.
 
@@ -285,7 +285,8 @@ Her father closed his eyes. "Stay as long as you can," he said. "Then go back to
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The morning of departure arrived with the particular cruelty of all departures: the sun still rising, the world still continuing, even though everything had changed. Ananya woke to the sound of her father moving through the house, his footsteps careful and slow, the rhythm of a man relearning his own home now that he was alone in it.
 

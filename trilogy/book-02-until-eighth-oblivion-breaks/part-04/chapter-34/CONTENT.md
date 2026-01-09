@@ -1,5 +1,3 @@
-# ~~~
-
 The generator coughed twice and died.
 
 Elena stood in the clinic's hallway, one hand on the wall, waiting for the familiar hum to resume. It didn't. The silence spread outward from the machine room, filling the building like water, drowning the sounds she had stopped noticing: the refrigeration unit for the medications, the exhaust fan in the bathroom, the subtle vibration that meant the systems were still working.
@@ -93,7 +91,8 @@ Now they did. And something was forming from that dependence.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The soup was bean and vegetable, seasoned with something Mrs. Williams called "emergency spices" - the collection of half-used bottles she had cleaned out of her cabinet when the crisis began, reasoning that if food was going to be uncertain, it might as well taste good.
 
@@ -205,7 +204,8 @@ Both were true.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The network had rules. Unwritten rules, evolved over twelve days of necessity, but rules nonetheless.
 
@@ -323,7 +323,8 @@ It wasn't enough. But it was something. And something was more than she had expe
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Near midnight, someone brought out a radio.
 
@@ -428,7 +429,8 @@ She didn't know if it was true. But she wanted it to be.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Elena walked to the edge of the parking lot, away from the dying fire. The night was cool, the stars visible in a way they never were when the city lights were on. She stood alone for a moment, her arms crossed, looking at nothing in particular.
 

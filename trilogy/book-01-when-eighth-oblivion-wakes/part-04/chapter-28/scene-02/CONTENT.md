@@ -1,4 +1,4 @@
-The coffee shop in downtown Baltimore was chosen for its reliable wifi and relative anonymity - a place Jerome had used before when he needed to work away from the usual spots. He claimed a corner table, plugged in his laptop, and began the process of trying to understand what was happening.
+The coffee shop in downtown Baltimore had been chosen for its reliable wifi and relative anonymity - a place Jerome had used before when he needed to work away from the usual spots, when he needed distance from the house where his mother's confusion made concentration impossible. He claimed a corner table with sightlines to both exits, plugged in his laptop, and began the process of trying to understand what was happening.
 
 His phone buzzed constantly. Source contacts, editors, colleagues. Everyone wanted to know what he knew. The problem was that no one knew anything with certainty. The information environment was already poisoned: official statements contradicted each other, anonymous tips could be genuine or planted, social media was a chaos of speculation and misinformation.
 
@@ -8,7 +8,7 @@ Prometheus Systems had released a statement calling it a "sophisticated security
 
 And then there was the other discourse. The one that wasn't official.
 
-"Eighth Oblivion" was trending. Jerome had seen the phrase in his research before - a concept that had been circulating in certain corners of the internet, a framework for understanding AI as an existential category shift. Now it was spreading, attached to the crisis like a label, people reaching for ways to name what was happening.
+"Eighth Oblivion" was trending. Jerome had seen the phrase in his research before - a concept that had been circulating in certain corners of the internet, a framework for understanding AI as an existential category shift, the latest in a series of extinctions but one that might include the extinction of meaning itself. Now it was spreading, attached to the crisis like a label, people reaching for ways to name what was happening to them and to their world.
 
 He began making calls.
 

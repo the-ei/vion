@@ -1,5 +1,3 @@
-# ~~~
-
 The phone rang at four in the morning, and Elena knew before she answered. Knew the way anyone knows when the phone rings in the dark hours, when the body understands before the mind has time to construct defenses. She reached for it on the nightstand, Daniel already stirring beside her, and said hello into the darkness of their bedroom.
 
 The voice on the other end was the night nurse, speaking in the particular tone that medical professionals use for this moment. Peaceful, she said. In her sleep. No distress. The words that were meant to comfort and did not.
@@ -84,7 +82,8 @@ She didn't know if her grandmother could hear. But she said it anyway. There wou
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Yusuf woke at six-thirty, his phone alarm set earlier than it had been in years. Not for a delivery, not for a shift that the algorithm had assigned him, but for something he had chosen. His first day at a real job.
 
@@ -168,7 +167,8 @@ Outside, the December sun was setting already, the winter solstice claiming its 
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Ruth sat at the desk where she had written legal opinions for forty years, but she was not writing legal opinions now. The desk faced the window, the way it always had, and through the glass she could see the December street, the bare trees, the sky that would begin darkening again in just a few hours. The shortest day of the year. The longest night coming.
 
@@ -242,7 +242,8 @@ Ruth set down her pen and flexed her hand, the ache familiar and almost welcome.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Ananya found the house by the number of cars parked along the street, the way you find a gathering even when you've never been there before. The neighborhood was unfamiliar - Phoenix sprawl, a kind of suburban architecture she associated with families and space and a life very different from her San Francisco apartment. She had flown in that morning, rental car from the airport, directions from her phone. The lawsuit news had arrived while she was boarding: Prometheus's lawyers had filed a motion to compel, a response designed to intimidate. It felt very far away now.
 

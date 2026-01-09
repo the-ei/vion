@@ -1,5 +1,3 @@
-# ~~~
-
 Seventeen percent.
 
 Yusuf looked at the scooter's display, at the number that had just become everything. The package in his basket was addressed to someone named K. Morrison at a number he could no longer see on a street whose name had vanished when his phone went dark. He was somewhere in the suburbs, a part of Minneapolis he had never worked before, rows of houses that all looked the same, lawns beginning to green with the first tentative warmth of March.
@@ -78,7 +76,8 @@ The wind blew. The scooter's wheels clicked against the pavement. Somewhere in t
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The hands were what he remembered most. His father's hands, rough from years of work at the warehouse, callused and cracked and always warm when they held Yusuf's smaller hands on the walk to school. Those hands had lifted boxes for a decade, had moved pallets and inventory and the endless material flow of American commerce, had come home each night smelling of cardboard and machine oil and exhaustion.
 
@@ -133,7 +132,8 @@ He left the scooter at a bike rack outside a coffee shop that was dark and close
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The truck pulled over three blocks later, an old pickup with rust spots on its fenders and a hand-lettered sign in the back window that said PETERSON PLUMBING.
 
@@ -249,7 +249,8 @@ He stepped into the apartment, into the familiar smell of spices and laundry and
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Amina had walked three miles from her school to the apartment. The buses had stopped running around eleven, she said, and the school had gone into lockdown, and then someone had decided that keeping hundreds of teenagers trapped in a building with no way to contact their families was worse than letting them go. They had released students by neighborhood, in groups, with instructions to walk together and stay safe.
 
@@ -340,7 +341,8 @@ Five days. Maybe six. The countdown had begun.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The church was called Hope Lutheran, though the sign out front had lost several letters and now read only HOPE UT ERAN. It had become, in the day and a half since the systems failed, a kind of unofficial community center, a place where people gathered to share information and resources in the absence of any other coordination.
 

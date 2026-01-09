@@ -1,12 +1,10 @@
-# ~~~
-
 The amicus brief sprawled across three legal pads and two laptop screens. Ruth's Berkeley office had become a war room - books stacked in precarious towers, case law highlighted and tabbed, the accumulated evidence of a month's obsessive work. Her three collaborators occupied the corners: Professor Hannah Reyes at the window, Dr. Samuel Okonjo by the bookshelves, and Emeritus Professor Morris Brennan settled into the worn leather chair Ruth had inherited from her predecessor.
 
 "The liability section needs tightening," Hannah said, scanning the latest draft on her tablet. "We're burying the central argument in precedent. By the time we get to the harm definition, the court will have lost patience."
 
 "The precedent establishes the framework," Morris countered. "You can't argue harm without first proving the statutory basis for liability."
 
-Ruth listened, making notes. This was the part she loved - the collaborative friction of legal minds working toward precision. Each of them brought different strengths: Hannah's aggressive clarity, Samuel's technical expertise on algorithmic systems, Morris's decades of appellate experience. Together, they were building something that might actually matter.
+Ruth listened, making notes. This was the part she loved - the collaborative friction of legal minds working toward precision, each correction and counter-argument sharpening the whole. Each of them brought different strengths: Hannah's aggressive clarity, Samuel's technical expertise on algorithmic systems, Morris's decades of appellate experience. Together, they were building something that might actually matter.
 
 The case they were briefing - Henderson v. Prometheus Technologies - had reached the Supreme Court after three years of lower court wrangling. The plaintiffs, a class of consumers whose financial profiles had been algorithmically degraded by interlocking AI systems, claimed the post-crisis governance frameworks created a private right of action for algorithmic harm. If they won, companies would be liable for the damage their systems caused, even when no human decision-maker could be identified. If they lost, the frameworks would be revealed as theater - regulation in name only, enforcement in nowhere.
 
@@ -127,7 +125,8 @@ But she was already paying costs. She might as well pay for something that matte
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The Senate hearing room in the Rayburn Building was designed for theater. Elevated dais where the senators sat, able to look down at witnesses. Gallery seating for press and public, the architecture of democratic spectacle. Ruth had testified before Congress twice during her career, both times as a sitting judge on non-controversial judicial matters. This was different. This was political.
 
@@ -190,7 +189,7 @@ Senator Bradford leaned forward, his tone becoming sharper. "Professor Abramson,
 
 "But your reputation, your legacy, is as a judge sympathetic to plaintiffs in technology cases. Isn't your testimony today just an extension of that bias?"
 
-Ruth felt anger rise in her chest - not at the attack, but at its crudeness. Bradford wasn't even trying to engage with the substance; he was performing for cameras, creating footage.
+Ruth felt anger rise in her chest - not at the attack, but at its crudeness, its contempt for the process they were supposedly engaged in. Bradford wasn't even trying to engage with the substance; he was performing for cameras, creating footage for constituents who would never watch the full hearing.
 
 "Senator, my legacy is as a judge who applied the law carefully and consistently. I have no bias except toward legal accuracy. The question of whether the PCAIGA creates private rights of action is a matter of statutory interpretation, not ideology. Reasonable jurists can disagree about the answer. What I object to is the suggestion that my position is somehow illegitimate because I've ruled for plaintiffs in the past. That's not argument - it's ad hominem."
 
@@ -277,7 +276,8 @@ That was something. That was perhaps everything.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The op-ed request came from the Atlantic, forwarded by a colleague who knew the editors. Would Professor Abramson be willing to write 2,500 words on the implications of Henderson v. Prometheus for American democracy? The piece would run the week before the Supreme Court heard oral arguments, positioned to shape public conversation around the case.
 
@@ -287,7 +287,7 @@ She began drafting in her study on a Tuesday evening, Susan's photograph watchin
 
 The post-crisis frameworks had been presented as reform. They were called the restoration of public trust, the reassertion of democratic control over technologies that had grown too powerful. But Ruth had been watching these frameworks for years now, tracing their implementation, noting their gaps. What she saw was not reform but its simulation - the appearance of change designed to prevent actual change.
 
-She typed: The PCAIGA was passed in the aftermath of crisis, when public demand for accountability was at its height. But the law that emerged from Congress was already compromised - shaped by the very interests it was meant to constrain, written in language that left fundamental questions of liability and enforcement to future interpretation.
+She typed: The PCAIGA was passed in the aftermath of crisis, when public demand for accountability was at its height. Congress acted with apparent urgency, legislators speaking of never again and restoration of trust. But the law that emerged was already compromised - shaped by the very interests it was meant to constrain, written in language that left fundamental questions of liability and enforcement to future interpretation by courts that might or might not prove sympathetic.
 
 
 ---
@@ -409,6 +409,8 @@ They could indeed. Ruth spent Monday fielding interview requests, declining most
 By Tuesday, the conversation had moved on to other things. The news cycle churn absorbed her op-ed and produced new controversies, new outrages, the endless river of content that constituted public discourse in 2037. But Ruth knew the piece hadn't disappeared - it had become part of the record. When the Henderson case was argued before the Supreme Court, when the decision came down, when the frameworks were debated again in Congress, her words would still be there. Available. Quotable. A position she could not retract.
 
 She had crossed a line. The crossing was complete.
+
+Somewhere, she knew, others were doing similar work - documenting what had been hidden, preparing to speak what had been suppressed. She didn't know their names yet. But she suspected their paths would cross.
 
 Now she waited to see what came next.
 

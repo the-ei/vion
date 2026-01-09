@@ -1,4 +1,4 @@
-The reception was in a gallery space adjacent to the theater, white walls hung with art Delphine didn't have the attention to look at. Wine circulated, small bites on trays, the industry performance of post-screening socializing. People approached her in waves, and she responded with the part of herself that knew how to do this, the professional mask she had worn for twenty years.
+The reception was in a gallery space adjacent to the theater, white walls hung with art Delphine had no attention to look at. Wine circulated, small bites on trays, the industry performance of post-screening socializing. People approached her in waves, and she responded with the part of herself that knew how to do this, the professional mask she had worn for twenty years.
 
 "I found it challenging, in the best way," said a programmer from Telluride.
 
@@ -21,7 +21,7 @@ Jessie looked at her with the particular expression of a spouse who knows too mu
 
 ---
 
-The executive from the film found her near the wine table. His name was Jonathan something, she remembered - a vice president of something at one of the major platforms, someone she had interviewed two years ago in a sterile office building, someone whose words she had cut and arranged to make a point about complicity.
+The executive from the film found her near the wine table. His name was Jonathan something, she remembered - a vice president at one of the major platforms, someone she had interviewed two years ago in a sterile office building, someone whose words she had cut and arranged to make a point about complicity.
 
 "Interesting film," he said, his tone deliberately neutral.
 
@@ -48,9 +48,9 @@ This surprised her. She had expected defensiveness, not reflection.
 
 ---
 
-"Are you still there?" she asked. "At the company?"
+"You're still there?" she asked. "At the company?"
 
-"I am. I'm still trying to change things from inside. I don't know if it's working." He looked at his wine. "Your film made me wonder if that's even possible. If working within the system is just - complicity dressed up as reform."
+"I am. Still trying to change things from inside. I don't know if it's working." He looked at his wine. "Your film made me wonder if that's even possible. If working within the system is just - complicity dressed up as reform."
 
 Delphine felt something shift in her chest. This was exactly the question she had been asking herself for years. The question that had led to this documentary, to her tentative stepping back, to the sense that the attention economy she had served was fundamentally corrupted no matter how carefully one tried to work within it.
 

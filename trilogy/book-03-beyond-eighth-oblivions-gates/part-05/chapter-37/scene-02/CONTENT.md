@@ -67,7 +67,7 @@ This was a barb, possibly, or possibly just a statement. Jerome had not always m
 
 "Fine. Busy." DeShawn pulled up a chair, joining the circle around the bed. "We're launching something next month. I can't really talk about it yet."
 
-Jerome nodded. This was the territory where they could not meet: DeShawn's work at a company that Jerome had written skeptically about, the technology that the son was building and the father was questioning. They had learned to navigate around it, to find other subjects, but it sat between them always.
+Jerome nodded. This was the territory where they could not meet: DeShawn's work at a company Jerome had written skeptically about, the technology the son was building and the father was questioning. They had learned to navigate around it, to find other subjects, but it sat between them always.
 
 "Your grandma asked about you," Jerome said. "When she was lucid. She wanted to know if I had children."
 
@@ -96,7 +96,7 @@ Later, when the hospice staff came to check vitals and adjust the morphine drip,
 
 "I tried to get her to teach me," Denise said. "She kept saying next time, next time. And then—" She stopped. And then the dementia had come, and the recipe had gone wherever lost things go.
 
-"DeShawn, did she ever make you that cake?" Patricia asked.
+"DeShawn, she ever make you that cake?" Patricia asked.
 
 "A few times when I was little. I remember the frosting. She let me lick the bowl."
 

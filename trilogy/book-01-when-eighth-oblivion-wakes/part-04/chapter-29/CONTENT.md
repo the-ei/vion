@@ -1,5 +1,3 @@
-# ~~~
-
 The patient in Room 3 was complaining of chest pain. Elena called up his chart on the diagnostic terminal and waited for the AI to generate its preliminary assessment. The screen flickered once, twice, and then displayed results that made no sense.
 
 "Anxiety with somatic presentation. Recommend reassurance and follow-up as needed."
@@ -149,7 +147,8 @@ Elena went back to work. But she kept her phone close, the camera ready. Documen
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The message arrived at 2:14 PM, while Elena was sitting on the break room couch trying to eat a protein bar she didn't want.
 
@@ -283,7 +282,8 @@ She pushed through the treatment room door and went back to work.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Halima Hassan's condition had been stable for two hours. The insulin drip was working, her glucose levels falling toward safety, her breathing steady. Dr. Okonkwo had pronounced herself cautiously optimistic and moved on to other patients. Amina, Halima's daughter, had gone to the waiting room to update the rest of the family.
 
@@ -442,7 +442,8 @@ She began uploading her documentation to secure storage. The evidence was buildi
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The clinic was quiet now. 10:00 PM. Most of the staff had gone home, the crisis absorbed into the routines of shift change and patient transfer. Elena should have left hours ago, but she was still here, sitting at a computer in the staff area, unable to make herself leave.
 

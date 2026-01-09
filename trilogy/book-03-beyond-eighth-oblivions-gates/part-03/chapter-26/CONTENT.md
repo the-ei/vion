@@ -1,5 +1,3 @@
-# ~~~
-
 The house was quiet in the way houses are quiet when children have finally slept and husbands have followed them into rest. Elena sat at the kitchen table with the laptop open, its glow the only light in the room. She had been staring at the blank document for twenty minutes.
 
 Dear Sofia—
@@ -170,7 +168,8 @@ It was not control. She understood that now. It was offering. You could not make
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Daniel's parents' house in Tempe was built for gatherings—a rambling single-story with a backyard that opened onto desert landscape, its kitchen large enough for multiple cooks to work without collision. Elena had been coming here for twelve years now, since she and Daniel started dating, and the space still surprised her with its capacity to absorb children.
 
@@ -342,7 +341,8 @@ All she could do was offer, and hope, and keep writing.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The final night of letter-writing came in December, a week before Christmas. Elena had been returning to the letters on and off for weeks—adding sections, revising, trying to say what could not quite be said. Now she sat at the kitchen table again, the house quiet again, the pen in her hand ready to write to Mateo.
 

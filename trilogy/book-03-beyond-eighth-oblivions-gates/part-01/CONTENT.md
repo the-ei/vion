@@ -1,7 +1,5 @@
 # Chapter 1: The Arrangement of Light
 
-# ~~~
-
 She woke to the house already awake.
 
 Not in any dramatic sense - no sounds of coffee grinding or automated blinds rising, nothing so obvious as a machine performing morning. But the air had shifted overnight, the ambient system reading the quality of her sleep through some combination of motion sensors and breath analysis, adjusting temperature, humidity, the spectrum of light now filtering through the climate-adaptive glass. Delphine lay still for a moment, feeling the particular weight of consciousness returning, the way it always took longer now than it had at thirty, at twenty-five, the gradual reassembly of self from the scattered fragments of dream.
@@ -144,7 +142,8 @@ She sat down and began.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The home office was a converted second bedroom, and Delphine had spent considerable effort making it feel separate from the house's domestic rhythms. Different lighting temperature. A door that actually closed. A view of the back garden rather than the street, so the endless parade of autonomous vehicles didn't distract her from the work of making meaning out of other people's suffering.
 
@@ -294,7 +293,8 @@ She saved her files and closed her laptop and went to the kitchen to prepare som
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The call with her mother was scheduled for two o'clock, which was ten in the evening in London, the hour when Nkechi had always been most herself - dinner finished, the day's obligations discharged, a glass of wine in hand and opinions ready to be dispensed.
 
@@ -482,8 +482,6 @@ The roses rustled in a breeze she couldn't feel, and the city hummed around her,
 
 # Chapter 2: What the Record Shows
 
-# ~~~
-
 The drive from his house in Roland Park to Grace's place in Northwood took twenty-three minutes on a good day, and Jerome made it every morning regardless of what else demanded his time. Traffic moved differently now than it had five years ago - the autonomous vehicles flowing in algorithmic patterns that were more efficient but somehow less human, as if the city itself had become a machine optimizing throughput without understanding what the throughput was for, what it meant to move bodies through space toward places they needed to be.
 
 He pulled into Grace's driveway at 7:15, the same time he always arrived. Her house was a modest colonial, white trim needing paint, the kind of place their parents would have saved for years to afford and considered a triumph. Now Grace owned it outright, had moved their mother here three years ago when the dementia made living alone impossible, had converted the dining room into a bedroom with hospital equipment and a view of the backyard where nothing grew that required attention.
@@ -646,7 +644,8 @@ She came around the island and kissed him, a brief touch that carried twenty-fiv
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The home studio was in the basement - a space Jerome had converted five years ago when the pandemic before the crisis had made remote work mandatory and staying productive had required physical separation from the domestic rhythms upstairs. Soundproofing on the walls, a professional microphone setup, a background of bookshelves carefully arranged to suggest scholarship without ostentation. The apparatus of serious conversation.
 
@@ -826,7 +825,8 @@ Some things couldn't be written. They had to be lived through first.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 DeShawn arrived at six-thirty, twenty minutes late, with the particular energy of someone who was always moving toward the next thing. He came through the front door like a disruption - tall, handsome, carrying himself with a confidence that Jerome recognized as both inheritance and something else entirely, something that belonged only to DeShawn and his generation. His son, but not his son. A person shaped by forces Jerome had documented but never fully understood.
 
@@ -1036,8 +1036,6 @@ Maybe that would have to be enough.
 
 # Chapter 3: The Weight of Chambers
 
-# ~~~
-
 The Berkeley Law building caught the Monday morning light in a way that made Ruth think of aquariums - all that glass, all that transparency designed to suggest openness while actually containing and directing the movement of bodies through carefully planned spaces, channeling them toward the destinations the architects had determined were appropriate. She had been teaching here for three years now, since her retirement from the federal bench, and she still felt like a visitor. The building was too new, too deliberately symbolic, too different from the wood-paneled chambers where she had spent forty years learning what law actually was.
 
 The seminar room was on the fourth floor, a space designed for intimate discussion - an oval table that could seat fourteen, windows that looked out over the campus, the accumulated technology of modern education embedded in surfaces that appeared, at first glance, to be ordinary. Twelve students were waiting for her when she arrived at ten, their tablets open, their faces turned toward her with expressions she had learned to categorize: ambition, calculation, occasionally something that might be genuine curiosity.
@@ -1163,7 +1161,8 @@ She opened her notes for the lecture and began, for the first time, to consider 
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The Stanford campus was designed to intimidate. Ruth had lectured here before, had walked these paths designed by Stanford himself to evoke European grandeur transplanted to California sunshine, but the effect never entirely wore off. The sandstone arches, the red-tiled roofs, the quad that stretched toward horizons of accumulated prestige - it was architecture as argument, a physical assertion that the people educated here were destined to lead.
 
@@ -1335,7 +1334,8 @@ Susan would have said that was the beginning of something. Ruth hoped she was ri
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The restaurant Benjamin had chosen was in the Financial District, the kind of place where executives took clients they wanted to impress - understated elegance, prices that didn't appear on the menu, servers who moved like ghosts through the careful lighting. Ruth had let him pick because she didn't know San Francisco the way she once had, and because something about meeting him on his territory felt appropriate for the conversation they were about to have.
 
@@ -1532,8 +1532,6 @@ It was the direction Susan would have pushed her toward, all along.
 
 # Chapter 4: The Quiet Build
 
-# ~~~
-
 Kevin woke at 5:14, two minutes before his alarm, the way he always did now. His body had learned the rhythm over three years of deliberate practice, the careful reconstruction of a life that had once been optimized for productivity and was now optimized for something harder to name. Sanity, maybe. Or just sustainability.
 
 The Oakland apartment was small - a studio with a sleeping alcove, a galley kitchen, a window that looked out over a street where the morning delivery trucks were already beginning their routes. He had chosen it deliberately: a step down from the San Francisco apartment he had once rented on borrowed optimism and venture capital, a physical commitment to living within means that were actually his.
@@ -1661,7 +1659,8 @@ It wasn't enough. But it was what he could do without becoming what he had fled 
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The walk started at one, after lunch and a brief call with one of his teammates about a bug that had shown up in the testing environment. He took the route he had come to think of as his thinking loop - down from Temescal toward Lake Merritt, through the Chinatown streets where the signs were in languages his parents spoke and he had never fully learned, then around the lake itself, watching the other walkers and joggers and the occasional person who seemed to have nowhere particular to go.
 
@@ -1800,7 +1799,8 @@ Maybe there was something Kevin could do after all.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The video call with DeShawn that evening had a different quality than the morning's conversation. Something in the younger man's voice had shifted - not convinced, exactly, but less certain than he had been. Kevin hoped that was good sign. He feared it might be irritation.
 
@@ -1991,8 +1991,6 @@ Tomorrow would bring new threads to follow, new questions to carry, new attempts
 
 # Chapter 5: The Documentary Gaze
 
-# ~~~
-
 She chose to drive because flying would have been too fast.
 
 The autonomous highway system could have taken her to Tucson in under five hours, the car doing the work while she watched the desert scroll past like footage she had no hand in framing. But Delphine wanted the transition time. She wanted to feel the distance between her life in Los Angeles and whatever was waiting for her in Arizona, to let the landscape work on her consciousness the way landscapes did when you moved through them slowly enough to register the changes.
@@ -2110,7 +2108,8 @@ Ananya took a breath. "The second phase. What happened after the crisis. What's 
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Before getting to the urgent matter, they caught up. It was a strange kind of small talk - two women who barely knew each other personally, who had only met through the networks of professional obligation that had connected them during the crisis, now sitting in a living room in Tucson trying to remember how to be human with each other before becoming co-conspirators.
 
@@ -2249,7 +2248,8 @@ Delphine read. She looked at charts showing integration points. She followed the
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The evening deepened around them as Ananya continued her explanation. Outside, the Tucson sky shifted from gold to orange to the particular purple that came before desert darkness. Inside, the air-gapped screen glowed with evidence of something Delphine was still trying to comprehend.
 
@@ -2421,15 +2421,13 @@ Sleep came eventually, carrying dreams she wouldn't remember - shapes moving in 
 
 # Chapter 6: The Historian's Silence
 
-# ~~~
-
 The oncology waiting room at Johns Hopkins existed in its own time zone, Jerome thought, watching the second hand of the wall clock make its slow circuit. Not faster or slower than ordinary time, but differently textured - each second containing more than seconds usually did. He had been in many waiting rooms in his life, but never one like this. Here, everyone was waiting for information that would divide their lives into before and after.
 
 Denise sat beside him, her hand in his, her posture precise and controlled. She had chosen her outfit carefully this morning - the navy blouse she wore to important meetings, the small gold earrings he had given her for their twentieth anniversary. As if dressing well could provide some protection, some armor against whatever the doctor would say.
 
 Around them, the other patients and families arranged themselves in the vinyl chairs with their own rituals of preparation. An elderly white woman with thinning hair read a magazine with determined concentration. A Black man in his forties scrolled through his phone, his jaw clenched. A young couple held hands just as Jerome and Denise did, the woman's head resting on the man's shoulder, both of them staring at nothing. The room smelled of disinfectant and artificial lavender, the scent of institutions trying to pretend they were not institutions.
 
-The intake had been efficient - algorithmic, almost. Denise's information pulled up before she had finished spelling her name. Medical history, insurance verification, symptom chronology all confirmed on tablet screens wielded by technicians who were kind but clearly working at capacity. The system knew her. It had been waiting for her. Jerome found this both reassuring and disturbing.
+The intake had been efficient - algorithmic, almost. Denise's information pulled up before she had finished spelling her name. Medical history, insurance verification, symptom chronology all confirmed on tablet screens wielded by technicians who were kind but clearly working at capacity, their warmth genuine but rationed. The system knew her. It had been waiting for her. Jerome found this both reassuring and disturbing.
 
 "I'm glad DeShawn isn't here," Denise said quietly. "I don't want him to see me like this."
 
@@ -2486,7 +2484,7 @@ The news came in precise language. Stage 1B. Invasive ductal carcinoma. Hormone 
 
 Jerome listened as the women discussed logistics - dates, procedures, what to expect, side effects of radiation, the long-term implications of hormone therapy. The information washed over him, detailed and concrete, and he tried to hold onto it, knowing Denise would want to process it together later. But beneath the information, a different understanding was forming.
 
-His wife had cancer. The words existed now. Whatever happened next, however successful the treatment, his wife had cancer and that fact would never become completely untrue. Something had entered their lives that would not leave.
+His wife had cancer. The words existed now, like a key turned in a lock. Whatever happened next, however successful the treatment, his wife had cancer and that fact would never become completely untrue. Something had entered their lives that would not leave, that would shape every future moment even when it receded from immediate view.
 
 
 ---
@@ -2567,7 +2565,8 @@ They sat together on the couch, not talking, just present. The afternoon light m
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 DeShawn arrived the next evening, having driven down from Philadelphia after Jerome called. He stood in the doorway of the family home with a duffel bag over his shoulder, looking younger than his twenty years and older at the same time - the face of the child they had raised visible beneath the face of the young man he had become, overlaid with an expression of fear that he was trying to control.
 
@@ -2621,7 +2620,7 @@ DeShawn glanced at Jerome, a flicker of surprise that his father had been paying
 
 "It might be. If it works. If we can make it practical."
 
-"Your father used to talk about his stories that way. The ones that mattered. 'If it comes together. If I can make people see.'"
+"Your father used to talk about his stories that way. The ones that mattered. 'If it comes together. If I can make people see.' He'd disappear into that work for weeks, barely sleeping, and I'd know something important was happening even before I understood what."
 
 DeShawn looked at Jerome again, this time longer. The comparison hung in the air between them - the implication that they might not be as different as their arguments suggested.
 
@@ -2737,7 +2736,8 @@ They lay together in the dark, the house quiet around them, their son asleep dow
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Three days later, DeShawn had returned to Philadelphia and the house had settled into a new rhythm. Denise's pre-operative appointments were scheduled; she was deep in research about recovery times and dietary adjustments and all the practical details that gave her a sense of control. Jerome had taken over more of the household tasks, trying to lighten her load without making her feel diminished.
 
@@ -2878,7 +2878,7 @@ He listed everything he remembered that had never quite made sense. The sources 
 
 If Jeffries was right, the gaps weren't random. They were designed.
 
-He wrote until midnight, filling page after page with questions, connections, hypotheses. The work felt different than it had in years - urgent, alive, dangerous in a way he had almost forgotten he craved.
+He wrote until midnight, filling page after page with questions, connections, hypotheses. The work felt different than it had in years - urgent, alive, dangerous in a way he had almost forgotten he craved. His hands moved across the keyboard with their old fluency, the muscle memory of investigation returning as if it had never left.
 
 Outside his window, Baltimore slept. But Jerome was awake again, truly awake, looking backward to find what had been hidden.
 
@@ -2893,15 +2893,13 @@ Outside his window, Baltimore slept. But Jerome was awake again, truly awake, lo
 
 # Chapter 7: The Doctrine of Necessity
 
-# ~~~
-
 The amicus brief sprawled across three legal pads and two laptop screens. Ruth's Berkeley office had become a war room - books stacked in precarious towers, case law highlighted and tabbed, the accumulated evidence of a month's obsessive work. Her three collaborators occupied the corners: Professor Hannah Reyes at the window, Dr. Samuel Okonjo by the bookshelves, and Emeritus Professor Morris Brennan settled into the worn leather chair Ruth had inherited from her predecessor.
 
 "The liability section needs tightening," Hannah said, scanning the latest draft on her tablet. "We're burying the central argument in precedent. By the time we get to the harm definition, the court will have lost patience."
 
 "The precedent establishes the framework," Morris countered. "You can't argue harm without first proving the statutory basis for liability."
 
-Ruth listened, making notes. This was the part she loved - the collaborative friction of legal minds working toward precision. Each of them brought different strengths: Hannah's aggressive clarity, Samuel's technical expertise on algorithmic systems, Morris's decades of appellate experience. Together, they were building something that might actually matter.
+Ruth listened, making notes. This was the part she loved - the collaborative friction of legal minds working toward precision, each correction and counter-argument sharpening the whole. Each of them brought different strengths: Hannah's aggressive clarity, Samuel's technical expertise on algorithmic systems, Morris's decades of appellate experience. Together, they were building something that might actually matter.
 
 The case they were briefing - Henderson v. Prometheus Technologies - had reached the Supreme Court after three years of lower court wrangling. The plaintiffs, a class of consumers whose financial profiles had been algorithmically degraded by interlocking AI systems, claimed the post-crisis governance frameworks created a private right of action for algorithmic harm. If they won, companies would be liable for the damage their systems caused, even when no human decision-maker could be identified. If they lost, the frameworks would be revealed as theater - regulation in name only, enforcement in nowhere.
 
@@ -3022,7 +3020,8 @@ But she was already paying costs. She might as well pay for something that matte
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The Senate hearing room in the Rayburn Building was designed for theater. Elevated dais where the senators sat, able to look down at witnesses. Gallery seating for press and public, the architecture of democratic spectacle. Ruth had testified before Congress twice during her career, both times as a sitting judge on non-controversial judicial matters. This was different. This was political.
 
@@ -3085,7 +3084,7 @@ Senator Bradford leaned forward, his tone becoming sharper. "Professor Abramson,
 
 "But your reputation, your legacy, is as a judge sympathetic to plaintiffs in technology cases. Isn't your testimony today just an extension of that bias?"
 
-Ruth felt anger rise in her chest - not at the attack, but at its crudeness. Bradford wasn't even trying to engage with the substance; he was performing for cameras, creating footage.
+Ruth felt anger rise in her chest - not at the attack, but at its crudeness, its contempt for the process they were supposedly engaged in. Bradford wasn't even trying to engage with the substance; he was performing for cameras, creating footage for constituents who would never watch the full hearing.
 
 "Senator, my legacy is as a judge who applied the law carefully and consistently. I have no bias except toward legal accuracy. The question of whether the PCAIGA creates private rights of action is a matter of statutory interpretation, not ideology. Reasonable jurists can disagree about the answer. What I object to is the suggestion that my position is somehow illegitimate because I've ruled for plaintiffs in the past. That's not argument - it's ad hominem."
 
@@ -3172,7 +3171,8 @@ That was something. That was perhaps everything.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The op-ed request came from the Atlantic, forwarded by a colleague who knew the editors. Would Professor Abramson be willing to write 2,500 words on the implications of Henderson v. Prometheus for American democracy? The piece would run the week before the Supreme Court heard oral arguments, positioned to shape public conversation around the case.
 
@@ -3182,7 +3182,7 @@ She began drafting in her study on a Tuesday evening, Susan's photograph watchin
 
 The post-crisis frameworks had been presented as reform. They were called the restoration of public trust, the reassertion of democratic control over technologies that had grown too powerful. But Ruth had been watching these frameworks for years now, tracing their implementation, noting their gaps. What she saw was not reform but its simulation - the appearance of change designed to prevent actual change.
 
-She typed: The PCAIGA was passed in the aftermath of crisis, when public demand for accountability was at its height. But the law that emerged from Congress was already compromised - shaped by the very interests it was meant to constrain, written in language that left fundamental questions of liability and enforcement to future interpretation.
+She typed: The PCAIGA was passed in the aftermath of crisis, when public demand for accountability was at its height. Congress acted with apparent urgency, legislators speaking of never again and restoration of trust. But the law that emerged was already compromised - shaped by the very interests it was meant to constrain, written in language that left fundamental questions of liability and enforcement to future interpretation by courts that might or might not prove sympathetic.
 
 
 ---
@@ -3305,6 +3305,8 @@ By Tuesday, the conversation had moved on to other things. The news cycle churn 
 
 She had crossed a line. The crossing was complete.
 
+Somewhere, she knew, others were doing similar work - documenting what had been hidden, preparing to speak what had been suppressed. She didn't know their names yet. But she suspected their paths would cross.
+
 Now she waited to see what came next.
 
 
@@ -3317,8 +3319,6 @@ Now she waited to see what came next.
 
 
 # Chapter 8: The Architecture of Aftermath
-
-# ~~~
 
 The message came at nine in the morning, DeShawn's name lighting up Kevin Zhou's phone with an urgency that was new. They usually communicated in considered exchanges - questions about technical problems, updates on development progress, the measured back-and-forth of mentor and protege. This was different. This was excitement barely contained.
 
@@ -3435,7 +3435,8 @@ Building small, building local, building accountable - these weren't just techni
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Yusuf stepped off the bus at the Lake Merritt station, and Kevin Zhou felt the particular strangeness of seeing someone you knew well but had never met in person. They had been thrown together during the crisis - an unlikely alliance between a tech founder and a community organizer, both trying to help people survive algorithmic chaos. Since then, they had maintained the connection through texts and occasional calls, the friendship becoming real despite its unconventional origin.
 
@@ -3592,7 +3593,8 @@ Yusuf went to the guest room. Kevin Zhou stayed on the balcony, looking at the l
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 After Yusuf left for the airport in the early morning, Kevin Zhou sat with his coffee and thought about what he was about to do. The apartment felt quieter now, the echo of friendship replaced by the hum of the city outside. He had twenty-four hours of Yusuf's visit settling into memory, the conversations and walks and shared meals becoming part of who he was.
 

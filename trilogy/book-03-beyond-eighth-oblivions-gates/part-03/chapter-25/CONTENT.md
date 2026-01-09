@@ -1,5 +1,3 @@
-# ~~~
-
 The envelope arrived on Thursday morning, delivered by a regular mail carrier who did not know what she was carrying. Yusuf held it for a long moment before opening it, feeling the weight of the single page inside.
 
 COOPERATIVE LOGISTICS NETWORK
@@ -157,7 +155,8 @@ Somewhere between the two, Yusuf would have to find his answer.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The community center basement smelled like burnt coffee and institutional cleaner. Yusuf had been coming here for four years—first as a gig worker looking for solidarity, then as an organizer building it. The folding chairs were arranged in a rough circle, approximately fifteen people present, all of them drivers or warehouse pickers or delivery workers.
 
@@ -329,7 +328,8 @@ Maybe that was enough for now.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The walk took him through Phillips, through the blocks where he had grown up. October afternoon light slanted between buildings that had been there longer than he had been alive, their brick facades weathered by Minnesota winters, their storefronts cycling through businesses that opened hopeful and closed quietly.
 

@@ -1,5 +1,3 @@
-# ~~~
-
 The drive from San Francisco to Los Angeles had taken six hours, the highway unreeling through the Central Valley and then climbing over the Grapevine, the landscape shifting from brown to green to brown again as the miles accumulated.
 
 Ananya had used the time to think. Or to not think, which was also a kind of thinking, the mind working beneath the surface while the body performed the mechanical tasks of driving. The road had always done this for her, had always loosened the grip of consciousness just enough to let something else emerge.
@@ -102,7 +100,8 @@ Delphine nodded and moved toward the screens, and the afternoon began in earnest
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The screens came to life with footage from another era.
 
@@ -223,7 +222,8 @@ Ananya turned back from the window. Then let's talk about what that actually mea
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 They moved to the living room as evening fell. Jessie had made dinner and tactfully withdrawn with Theo to another part of the house, giving them space for the conversation that needed to happen.
 
@@ -350,7 +350,8 @@ It's not, Delphine said. It's never too late. It's just harder, the longer you w
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Someone turned on a lamp. The sudden light made them both blink, and Ananya realized how long they had been sitting in the dark, how far the conversation had traveled.
 
@@ -437,7 +438,8 @@ But tonight, she would eat pasta and drink wine and exist in a space where she w
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The night had deepened by the time Ananya stood in the entryway, preparing to leave for the guest room.
 

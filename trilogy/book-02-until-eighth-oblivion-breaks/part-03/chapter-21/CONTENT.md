@@ -1,5 +1,3 @@
-# ~~~
-
 The alarm went off at 4:47 AM, and Yusuf Hassan was already awake. His body had learned to anticipate it, the way animals learn to anticipate predators—an instinct shaped by necessity, by the algorithm that didn't care if he was rested or ready. The app said there was a surge opportunity starting at 5:15, and the app was the only god that mattered in his life right now.
 
 He lay in the living room of the apartment he shared with his mother and sister, on the couch that served as his bed, staring at the water stain on the ceiling that had been growing for months. The landlord had promised to fix it. The landlord promised many things. Yusuf had stopped expecting promises to mean anything a long time ago.
@@ -110,7 +108,8 @@ By 5 PM, he had completed 18 deliveries and earned $117.43. Eighty-three dollars
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Home was a two-bedroom apartment in a building that had seen better decades. Yusuf parked on the street—the building didn't have assigned parking, and the lot cost extra—and climbed the three flights of stairs that always smelled faintly of cooking and cleaning products and the particular staleness of buildings where people couldn't afford to move.
 
@@ -306,7 +305,8 @@ He left without saying goodbye, because goodbye felt too final, and nothing in h
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The surge was already fading by the time Yusuf reached his first evening pickup. Too many drivers, not enough orders. The algorithm had sent the notification to everyone simultaneously, flooding the zone with supply, and now the 1.5x multiplier had dropped to 1.2x and was still falling. This was how it worked: the promise of extra earnings evaporated before you could grasp it, leaving you competing for the same inadequate pay with extra desperation.
 

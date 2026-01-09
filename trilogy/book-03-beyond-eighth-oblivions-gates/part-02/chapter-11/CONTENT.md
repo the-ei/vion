@@ -1,6 +1,4 @@
-# ~~~
-
-The address was a house in Edina, one of those suburb-within-a-suburb neighborhoods where the lawns were immaculate and the houses all looked like they'd been designed by the same AI. Yusuf pulled up to the curb, checked the order on his phone - Thai food, forty-seven dollars, the customer had tipped eighteen percent in advance - and jogged to the door with the bag swinging.
+The address was a house in Edina, one of those suburb-within-a-suburb neighborhoods where the lawns were immaculate and the houses all looked like they had been designed by the same algorithm, optimized for the appearance of success. Yusuf pulled up to the curb, checked the order on his phone - Thai food, forty-seven dollars, the customer had tipped eighteen percent in advance - and jogged to the door with the bag swinging.
 
 A woman in yoga clothes answered. She took the food without meeting his eyes, said "thanks" to somewhere over his left shoulder, and closed the door.
 
@@ -16,7 +14,7 @@ The phone buzzed again.
 
 *Credit Alert: Your score has changed. New score: 547 (-43 points). Factors affecting your score: New collection account reported.*
 
-His thumb hovered over the notification. Five hundred forty-seven. When his father was alive, they had talked about credit scores like abstract puzzles, numbers that mattered to a world neither of them fully inhabited. Now those numbers were the walls of Yusuf's cage.
+His thumb hovered over the notification. Five hundred forty-seven. When his father was alive, they had talked about credit scores like abstract puzzles, numbers that mattered to a world neither of them fully inhabited, a game other people played. Now those numbers were the walls of Yusuf's cage, and the walls were closing in.
 
 
 ---
@@ -29,7 +27,7 @@ Yusuf put the phone face-down on the passenger seat. Started the engine. Drove t
 
 The debt was from 2035. The year everything fell apart and somehow held together. His mother had gotten sick, not critically but expensively, and the insurance his father had meticulously maintained had lapsed six months after his death because no one had remembered to pay the premium. Yusuf had taken a loan from one of those apps that made borrowing feel like a video game, coins and achievements and friendly reminders that masked interest rates north of thirty percent.
 
-He had paid it back. Most of it. But the last eight hundred dollars had gotten away from him, rolled over and over, accumulating fees and penalties until it metastasized into the number now living in his phone.
+He had paid it back. Most of it. But the last eight hundred dollars had gotten away from him, rolled over and over like a snowball becoming an avalanche, accumulating fees and penalties and interest until it metastasized into the number now living in his phone.
 
 The poke bowl was ready. He drove it to a high-rise downtown, rode the elevator to the nineteenth floor, handed the bag to a man in a suit who was clearly working from home and clearly annoyed at the interruption.
 
@@ -46,7 +44,7 @@ He thought about Jamal. The last time they had talked, two years ago, Jamal had 
 
 He thought about Ahmad. Locked up now, federal facility in Wisconsin, serving eight years for his part in something Yusuf had been adjacent to but, through luck or cowardice, hadn't joined. Ahmad had been the smart one, the one with ideas, the one who was going to get them all out. Now he was memorizing commissary prices and learning to sleep through anything.
 
-Two paths Yusuf had not taken. But his path didn't feel like escape. It felt like a slower version of the same destination.
+Two paths Yusuf had not taken. But his own path didn't feel like escape. It felt like a slower, more respectable version of the same destination.
 
 He finished the shift at eight, pulled into a strip mall parking lot, and sat with the engine running. The math wasn't complicated. At his current rate, paying down the collection account would take a year. During that year, his credit would stay destroyed. Without credit, no apartment. Without an apartment, he would stay in his mother's place. At twenty-seven, still in the room where he had been a child.
 
@@ -61,7 +59,7 @@ They had met during the crisis, an unlikely intersection of trajectories. Kevin 
 
 Yusuf had refused. Pride, mostly. The sense that taking help from someone like Kevin would confirm something about his own position that he wasn't ready to accept.
 
-Now, sitting in a parking lot with his life cascading toward some bottom he couldn't see, pride seemed like a luxury he couldn't afford.
+Now, sitting in a parking lot at night with his life cascading toward some bottom he couldn't see, pride seemed like a luxury he could no longer afford.
 
 He pressed the number before he could change his mind.
 
@@ -92,7 +90,7 @@ There was a pause. Traffic noise on Kevin's end, the sound of a city different f
 
 "True. But I meant what I said then. If there's something I can do."
 
-Yusuf leaned his head against the headrest. The parking lot was empty except for a man walking a small dog across the far end. Normal life, ordinary evening, the world continuing as if Yusuf's crumbling didn't matter.
+Yusuf leaned his head against the headrest and closed his eyes. The parking lot was empty except for a man walking a small dog across the far end. Normal life, ordinary evening, the world continuing as if Yusuf's crumbling didn't matter, as if it were invisible, which it was.
 
 "I don't know what I'm asking for," Yusuf admitted. "I don't even know why I called. I just..."
 
@@ -121,7 +119,7 @@ Yusuf felt something twist in his chest. Skepticism, maybe. Hope, maybe. The dan
 
 "What kind of company?"
 
-"I'll explain tomorrow. But think about this: everything you learned during the crisis, all those ways of operating in broken systems - what if that was actually valuable? What if there were people who needed exactly that knowledge?"
+"I'll explain tomorrow. But think about this: everything you learned during the crisis, all those ways of operating in broken systems, all those skills nobody teaches in school - what if that was actually valuable? What if there were people who needed exactly that knowledge?"
 
 The man with the dog had disappeared. The parking lot was empty now, just Yusuf and his dying Honda and the glow of his phone.
 
@@ -139,7 +137,8 @@ He hung up and sat in the silence. The cascade hadn't stopped. But something els
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Amina came through the door carrying a backpack and a duffel bag, wearing a University of Minnesota sweatshirt and the kind of white sneakers that cost more than Yusuf made in a shift. She dropped everything in the hallway and wrapped her arms around him, squeezing hard enough to hurt.
 
@@ -149,18 +148,18 @@ Amina came through the door carrying a backpack and a duffel bag, wearing a Univ
 
 "Three months ago. Ancient history."
 
-Their mother appeared from the kitchen, wiping her hands on a dish towel. The smile that crossed her face was so purely joyful that Yusuf felt his heart twist. That smile had been rare in the years since his father's death, and it still lived primarily in Amina's presence.
+Their mother appeared from the kitchen, wiping her hands on a dish towel. The smile that crossed her face was so purely joyful that Yusuf felt his heart twist with something that was both gladness and grief. That smile had been rare in the years since his father's death, and it still lived primarily in Amina's presence.
 
 "My baby," their mother said, and then the two of them were embracing, speaking in the rapid Arabic that Yusuf could follow but rarely participated in. He watched them, these two women who held most of his love, and felt the familiar mix of warmth and distance that family always produced.
 
 "Dinner's almost ready," their mother said. "Yusuf, can you set the table?"
 
-He set the table. The same plates they had used his whole life, one chipped on the edge from an argument he barely remembered. The same forks and knives, the same cloth napkins his mother insisted on even when they couldn't afford the laundry. The small rituals of continuity.
+He set the table. The same plates they had used his whole life, one chipped on the edge from an argument he barely remembered, his father's voice raised about something that didn't matter anymore. The same forks and knives, the same cloth napkins his mother insisted on even when they couldn't afford the laundry. The small rituals of continuity that held a family together.
 
 
 ---
 
-Amina had changed in ways that were hard to specify but impossible to miss. It wasn't just the clothes or the laptop she pulled out to show their mother something. It was the way she carried herself, the confidence in her movements, the sense that she inhabited a future rather than just enduring a present.
+Amina had changed in ways that were hard to specify but impossible to miss. It wasn't just the clothes or the laptop she pulled out to show their mother something, scrolling through photographs of a life that looked nothing like this apartment. It was the way she carried herself, the confidence in her movements, the sense that she inhabited a future rather than just enduring a present.
 
 "Tell me about your classes," their mother said.
 
@@ -183,7 +182,7 @@ Yusuf ate his food and listened. The lamb stew his mother had made was rich and 
 
 ---
 
-Their mother began to clear the dishes, waving off their offers to help. She moved slowly, deliberately, the chronic fatigue visible in every gesture. Two jobs, still, at fifty-three: the hotel housekeeping that destroyed her back and the evening cleaning service that destroyed her knees. Yusuf sent her money every month, had been sending her money since he was nineteen, and it still wasn't enough to let her stop.
+Their mother began to clear the dishes, waving off their offers to help. She moved slowly, deliberately, the chronic fatigue visible in every gesture. Two jobs, still, at fifty-three: the hotel housekeeping that had destroyed her back and the evening cleaning service that was destroying her knees. Yusuf sent her money every month, had been sending her money since he was nineteen, and it still wasn't enough to let her stop.
 
 Amina noticed too. "Mama, please rest. We can clean up."
 
@@ -226,7 +225,7 @@ The question hit him in the chest. He hadn't expected it, the sudden pivot from 
 
 "Four years isn't that long. You were really good, Yusuf. Everyone said so. You could have-"
 
-"Could have what? Become a famous producer? Made it big?" He heard the bitterness in his voice and hated it. "People like us don't get to just pursue our dreams. Someone has to pay the bills."
+"Could have what? Become a famous producer? Made it big?" He heard the bitterness in his voice and hated it, but couldn't stop. "People like us don't get to just pursue our dreams, Amina. Someone has to pay the bills."
 
 "So you just... gave up."
 
@@ -240,7 +239,7 @@ Yusuf stood up, walked to the window. The street outside was quiet, a few cars p
 
 "What's the difference?"
 
-"One of them is a tragedy. The other is just weakness."
+"One of them is a tragedy. The other is just weakness." He turned to look at her. "And I don't know which one I am."
 
 
 ---
@@ -257,7 +256,7 @@ Yusuf pressed his forehead against the cool glass. "I'm proud of you, Amina. I w
 
 "I know."
 
-"And I don't resent you for escaping. I don't. You were supposed to escape."
+"And I don't resent you for escaping. I don't. I promise you. You were supposed to escape."
 
 "But you were supposed to escape too."
 
@@ -288,7 +287,7 @@ They talked for another hour, the conversation ranging from memories to plans to
 
 "I'll think about it."
 
-She was asleep within minutes, the deep easy sleep of someone whose conscience was clear and whose future was open. Yusuf watched her for a moment, this person he had helped raise, had helped escape, had poured his own deferred possibilities into.
+She was asleep within minutes, the deep easy sleep of someone whose conscience was clear and whose future stretched out before her like a highway. Yusuf watched her for a moment, this person he had helped raise, had helped escape, had poured his own deferred possibilities into like water into soil.
 
 He went to his room and sat on the bed that had been his since childhood. The walls were bare now, the posters and photos of his teenage years long gone. On the shelf sat a dusty keyboard, unplugged, untouched in years.
 
@@ -315,7 +314,7 @@ She looked at him with eyes that saw too much. "You're a good son, Yusuf. But yo
 
 He kissed her cheek. Hugged Amina. Left before either of them could ask where he was actually going.
 
-The bus to Northeast took forty minutes. He sat by the window, watching the city pass, the neighborhoods shifting from working-class to gentrified to somewhere in between. The studio was in a part of Minneapolis that had changed dramatically since he had last visited - new breweries, new restaurants, the uneasy coexistence of old residents and new money.
+The bus to Northeast took forty minutes, longer than it should have because of a route change nobody had explained. He sat by the window, watching the city pass, the neighborhoods shifting from working-class to gentrified to somewhere uneasily in between. The studio was in a part of Minneapolis that had changed dramatically since he had last visited - new breweries, new restaurants, the uneasy coexistence of old residents and new money.
 
 But the studio itself was still there. Still the same converted industrial space with its unmarked door and its hand-painted sign: SOUND HOUSE STUDIOS.
 
@@ -329,9 +328,10 @@ He pushed the door open and walked in.
 
 
 
-# ~~~
 
-The lobby smelled the same. That particular mix of cigarette smoke and audio equipment, of late nights and creative desperation. The walls were covered with album artwork, most of it from artists Yusuf didn't recognize but some from people he knew, people he had worked alongside in the years before everything changed.
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
+
+The lobby smelled the same. That particular mix of cigarette smoke and audio equipment, of late nights and creative desperation, of hope and its opposite. The walls were covered with album artwork, most of it from artists Yusuf didn't recognize but some from people he knew, people he had worked alongside in the years before everything changed.
 
 "Holy shit."
 
@@ -364,7 +364,7 @@ The equipment had changed but the room hadn't. The same acoustic panels on the w
 
 "How's business?"
 
-"We survive. Some months better than others. The neighborhood money helps - these tech bros want to pretend they're artists on the weekends, I'm happy to take their cash." He settled into his chair behind the board. "What about you? What brings you back?"
+"We survive. Some months better than others, but we survive. The neighborhood money helps - these tech bros want to pretend they're artists on the weekends, I'm happy to take their cash and make them sound halfway decent." He settled into his chair behind the board. "What about you? What brings you back?"
 
 Yusuf sat on the couch. The cushions remembered his shape, or maybe he was imagining that.
 

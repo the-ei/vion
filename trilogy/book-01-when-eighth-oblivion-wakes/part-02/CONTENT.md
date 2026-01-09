@@ -1,7 +1,5 @@
 # Chapter 9: First Thread
 
-# ~~~
-
 The office had been a sunporch once, and on mornings like this one Jerome could still feel its former life pressing through the walls. Gray February light filtered through windows that faced the backyard, where the skeletal form of the maple tree stood motionless against a sky the color of wet cement. The radiator clicked and ticked its irregular percussion. Somewhere in the house, a floorboard settled. These were the sounds of his diminished kingdom, the converted space where Jerome Washington, fifty-two years old, veteran of the Baltimore Sun, the Washington Post, and finally the brief bright flame of The Inquiry before it guttered and died in the great media contraction of 2030, now wrote his newsletter for eleven hundred paying subscribers and dreamed smaller dreams than he had been raised to dream.
 
 The desk was secondhand, bought from an estate sale in Towson six years ago when he'd finally admitted the Post wasn't going to call him back. Oak veneer peeling at the corners, one drawer that stuck unless you lifted and pulled simultaneously. The filing cabinet beside it was older still, gray metal, stuffed with paper records because Jerome had never fully trusted cloud storage and probably never would. His monitor was a twenty-seven-inch display that had been top of the line in 2028, its edges now faintly yellowed. The keyboard was mechanical, loud, a small defiance. When DeShawn complained about the noise traveling through the floor to his bedroom, Jerome had bought a rubber mat to put under it. A compromise. There had been many compromises.
@@ -72,7 +70,8 @@ Sent it. Closed the app. Opened the documents again. The day was not yet half ov
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Denise had made pasta, the simple one with garlic and olive oil and whatever vegetables were threatening to go soft in the crisper. Tonight it was broccoli and a bell pepper that had seen better days, both cut small and sauteed until they yielded. She had changed out of her teaching clothes into sweatpants and an old Howard sweatshirt, her hair pulled back, her face carrying the particular exhaustion of a day spent explaining the Missouri Compromise to seventeen-year-olds who would rather be anywhere else.
 
@@ -182,7 +181,8 @@ The cursor blinked. Outside, the February night pressed against the windows, col
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Eleven o'clock. The house had fallen silent. Denise asleep, Jerome could hear the rhythm of her breathing through the wall, the particular sound of her body surrendering to exhaustion. DeShawn's light had gone off an hour ago. The neighborhood too had quieted, the occasional passing car the only reminder that a world existed beyond these walls, this screen, this work.
 
@@ -292,7 +292,8 @@ He didn't sleep.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The coffee was already made when Denise came down at six-fifteen. It was the least he could do. It was almost nothing. Jerome sat at the kitchen table, unshaved, his eyes red-rimmed, two cups in front of him—one empty, one half full. The morning light was gray again, February refusing to yield to anything brighter. Outside, a garbage truck rumbled down the street, its mechanical arm grabbing cans with a crash that echoed through the quiet.
 
@@ -427,8 +428,6 @@ He hung up. He looked at the screen. The story waited. The guilt waited. Everyth
 
 # Chapter 10: What the Body Knows
 
-# ~~~
-
 The alarm sounded at 5:30, a soft ascending tone that Elena had chosen specifically because it would not wake the children. She silenced it before the second pulse and lay still for a moment in the darkness, feeling the weight of the day ahead pressing down like something physical. The room was cool—she kept the thermostat at sixty-eight overnight to save on the electric bill—and beside her, Daniel's side of the bed was empty, had been empty for nine days now, would remain empty for at least five more.
 
 She rose without thinking, her body moving through motions worn smooth by repetition, by the thousand mornings that had come before this one and the thousand more that stretched ahead. Bathroom, the tile cold under her feet. Mirror, her face shadowed, older than she expected. The shower ran hot and she stood under it longer than she should have, three minutes instead of two, a small luxury she would pay for in rush later. She dressed in scrubs she had laid out the night before: navy blue, the color of the Desert Sage Community Health Center, the embroidered logo over her heart.
@@ -511,7 +510,8 @@ Elena stood, stretched her shoulders, and went to meet them.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The morning moved in the particular rhythm of clinic work—patient, documentation, patient, documentation—each encounter its own small world, its own demands, its own urgencies that had to be addressed in the fifteen or thirty minutes the schedule allowed. Elena moved between exam rooms with the efficiency of someone who had learned to compress compassion into clinical time, who knew that hesitation cost seconds and seconds cost care.
 
@@ -645,7 +645,8 @@ The coffee was bitter. She drank it anyway. Outside, the March sun blazed down o
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Daniel called at 12:47. Elena stepped outside to take it, standing in the narrow strip of shade beside the building, the heat pressing in from all sides.
 
@@ -779,7 +780,8 @@ She began to take screenshots. It was the smallest possible act of resistance, t
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Home was chaos, the particular chaos of small children at the end of a long day. Sofia wanted to show her mother a drawing she had made at school—a family portrait, Mama and Papa and Sofia and Mateo and Abuela, all stick figures with enormous smiles standing in front of a yellow house. Mateo wanted to be picked up, then put down, then picked up again, his three-year-old needs cycling through the available adults like weather systems. Abuela had made enchiladas, the smell filling the small house, the kitchen table already set for four.
 
@@ -800,7 +802,7 @@ Daniel's face appeared on the tablet at seven, propped against the salt shaker, 
 
 Bedtime was its own production. Stories for Sofia, who negotiated for two instead of one and had to be reminded three times that the second story was the last story. Rocking for Mateo, who fought sleep with the determination of all toddlers, his eyes heavy but his will iron. Elena sang the lullaby her mother had sung to her, the one in Spanish that she didn't fully understand but remembered in her body, in her voice, in the way it had always meant safety.
 
-By nine o'clock, the house was quiet. Abuela had retired to her room, the blue glow of her television visible under the door. The kitchen was clean, the toys put away, the small domestic order restored. Elena sat at the kitchen table with her tablet and a glass of wine she wouldn't finish and the screenshots she had taken throughout the afternoon.
+By nine o'clock, the house was quiet. Abuela had retired to her room, the blue glow of her television visible under the door—the Mexican telenovelas she watched every night, the voices murmuring comfort in a language that was also Elena's language, somewhere deep. The kitchen was clean, the toys put away, the small domestic order restored. Elena sat at the kitchen table with her tablet and a glass of wine she wouldn't finish and the screenshots she had taken throughout the afternoon.
 
 She wasn't supposed to do this. The MedAssist interface was work property, the patient data protected by HIPAA and institutional policy and the various legal frameworks that made healthcare a minefield of compliance. But she had saved the screenshots to her personal cloud, redacting names and dates, keeping only the recommendations and the demographic factors that accompanied them. It was probably a violation. It was definitely a risk.
 
@@ -817,7 +819,7 @@ It took two hours. The wine glass sat untouched. The house around her was dark e
 
 Instead she was proving something she already knew. The algorithm discriminated. Not explicitly, not in any way a lawyer could point to, but systematically, consistently, in patterns that added up to care rationed along lines that weren't supposed to matter. If you lived in the right neighborhood, had the right insurance, fit the profile of a patient the system expected to succeed, you received one kind of care. If you lived in the wrong neighborhood, had the wrong insurance, fit the profile of a patient the system expected to struggle, you received another.
 
-Halima Hassan's face came to her. The purple hijab, the folded hands, the dignity that would not bend. The algorithm had looked at Halima and seen a risk profile, a probability calculation, a resource allocation decision. It had not recommended nephrology because it had calculated she wouldn't follow through. And now Elena was looking at a spreadsheet that confirmed the calculation wasn't unique, wasn't an outlier, wasn't a mistake. The calculation was the system. The discrimination was the design.
+Halima Hassan's face came to her unbidden, as the faces of patients always did in the quiet hours. The purple hijab, the folded hands, the dignity that would not bend even as her body slowly failed her. The algorithm had looked at Halima and seen a risk profile, a probability calculation, a resource allocation decision. It had not recommended nephrology because it had calculated she wouldn't follow through. And now Elena was looking at a spreadsheet that confirmed the calculation wasn't unique, wasn't an outlier, wasn't a mistake. The calculation was the system. The discrimination was the design.
 
 
 ---
@@ -828,7 +830,7 @@ What did she do with this? She was a nurse practitioner at an underfunded clinic
 
 The options felt impossibly narrow. But the knowledge felt impossibly heavy. She couldn't unknow what she knew. She couldn't unsee what she had seen. The algorithm was sorting people—her patients, her neighbors, women like Halima and men like Ramon and children like the ones sleeping upstairs—and the sorting was determining who received care and who didn't, who lived longer and who died sooner, who mattered and who could be optimized away.
 
-She thought about Daniel, coming home in four days. About Sofia's drawing, the yellow house and the smiling faces. About Abuela in her room, her diabetes managed by the same healthcare system that was failing the people Elena saw every day. About her own children, growing up in a world where algorithms decided things that used to be human decisions, where efficiency replaced judgment, where the act of caring had been automated into something that didn't care at all.
+She thought about Daniel, coming home in four days with dust in his hair and exhaustion in his bones and love in his eyes. About Sofia's drawing, the yellow house and the smiling faces, the fantasy of a family that belonged somewhere safe. About Abuela in her room, her diabetes managed by the same healthcare system that was failing the people Elena saw every day—managed for now, managed until it wasn't, managed until the algorithm decided she too was a risk not worth the resources. About her own children, growing up in a world where algorithms decided things that used to be human decisions, where efficiency replaced judgment, where the act of caring had been automated into something that didn't care at all.
 
 The kitchen clock glowed 11:47. The tablet sat dark on the table. The spreadsheet waited in the cloud, evidence of something Elena didn't know how to fight.
 
@@ -839,7 +841,7 @@ She went to bed. She didn't sleep.
 
 Sometime after midnight, she got up again. The house was dark, the children sleeping, Abuela's television finally silent. Elena walked to the kitchen in bare feet, poured a glass of water, stood at the window looking out at the night.
 
-The neighborhood was quiet. Streetlights cast orange pools at intervals. A car passed slowly, its headlights sweeping across the houses, illuminating for a moment the small yards and chain-link fences and the lives contained within. This was her world—South Phoenix, the place she had come from and never left, the community she served because someone had to and she had been lucky enough to be able. The people here didn't know they were being sorted. They didn't know that when they showed up at the clinic, an algorithm was already calculating their worth.
+The neighborhood was quiet. Streetlights cast orange pools at intervals, islands of visibility in a sea of dark. A car passed slowly, its headlights sweeping across the houses, illuminating for a moment the small yards and chain-link fences and the lives contained within. This was her world—South Phoenix, the place she had come from and never left, the community she served because someone had to and she had been lucky enough to be able. The people here didn't know they were being sorted. They didn't know that when they showed up at the clinic, an algorithm was already calculating their worth.
 
 But she knew. And knowing made her complicit, unless she did something with it.
 
@@ -864,11 +866,9 @@ The clock showed 1:17 AM. Elena returned to bed, lay in the darkness, and waited
 
 # Chapter 11: The Architecture of Inference
 
-# ~~~
-
 The alarm was unnecessary. Kevin Zhou woke at 6:47, as he always did, thirteen minutes before the sound that would confirm he was awake. He lay still in the darkness of his apartment, waiting for the alarm to acknowledge what his body already knew, then silenced it with a tap and rose to begin the sequence that composed his mornings.
 
-The apartment was spare. He had lived here for three years and it still looked temporary, as if he might leave at any moment and take nothing with him because there was nothing to take. The bed was a mattress on a platform frame, the linens gray and clean. The dresser held clothes organized by function: work shirts in one drawer, workout clothes in another, the remainder a category he thought of as "other" and rarely accessed. The walls were white and empty. A single window looked out at the building across the street, another glass tower full of people he would never meet.
+The apartment was spare. He had lived here for three years and it still looked temporary, as if he might leave at any moment and take nothing with him because there was nothing to take—and this was not accident but design, a life stripped to function, a space that demanded nothing because demanding was a form of vulnerability he had learned to avoid. The bed was a mattress on a platform frame, the linens gray and clean. The dresser held clothes organized by function: work shirts in one drawer, workout clothes in another, the remainder a category he thought of as "other" and rarely accessed. The walls were white and empty. A single window looked out at the building across the street, another glass tower full of people he would never meet.
 
 He made coffee with a precision machine that required no attention, measured grounds and filtered water producing the same result every morning. While it brewed, he did twenty minutes on the rowing machine in the corner, the one piece of furniture that might reveal something about who he was—or at least about his determination to maintain his body as he maintained his code, functional and efficient.
 
@@ -879,7 +879,7 @@ The shower was exactly four minutes. The coffee was exactly twelve ounces. The p
 
 The commute was the company shuttle, a sleek electric vehicle that picked him up at 7:35 from the lobby of his building and deposited him at the Prometheus campus forty-three minutes later. The shuttle was full of people like him—engineers, data scientists, product managers—all looking at tablets or phones or the middle distance, all moving toward the same destination for the same purpose. Kevin Zhou didn't speak to any of them. They didn't speak to him. The social contract of the shuttle was silence and productivity, and everyone honored it.
 
-He used the time to review code. A deployment issue from yesterday had surfaced overnight, something in the inference pipeline that caused occasional latency spikes under certain load conditions. The logs showed the pattern; Kevin Zhou's mind was already constructing hypotheses, testing them against his understanding of the system, narrowing toward a solution. This was what he was good at. This was what made him valuable.
+He used the time to review code. A deployment issue from yesterday had surfaced overnight, something in the inference pipeline that caused occasional latency spikes under certain load conditions—the kind of problem that was invisible to users and mattered only to the people who understood how many microseconds added up to something customers could feel. The logs showed the pattern; Kevin Zhou's mind was already constructing hypotheses, testing them against his understanding of the system, narrowing toward a solution. This was what he was good at. This was what made him valuable.
 
 The Prometheus campus appeared through the shuttle windows like something from a rendering—glass and steel and carefully curated greenery, buildings that curved and soared, the physical manifestation of unlimited capital invested in the appearance of innovation. Kevin Zhou had found it impressive once, in the first weeks after he'd been hired, when he was twenty-four and fresh from his PhD and believed that working here meant something. Now he barely saw it. The campus was where the work happened, nothing more. The beauty was marketing.
 
@@ -888,7 +888,7 @@ The shuttle stopped. Kevin Zhou gathered his bag, stepped onto the pathway, walk
 
 ---
 
-Building 7 was infrastructure, which meant it was boring and essential and occupied by people who were respected but rarely celebrated. The flashier work happened elsewhere—the foundation models that made headlines, the consumer products that generated revenue, the research papers that won awards. Kevin Zhou's team maintained the plumbing: the serving systems that delivered model inference at scale, the APIs that connected Prometheus capabilities to external partners, the monitoring and logging frameworks that kept everything visible and debuggable. It was work that required deep expertise and produced no glory, and Kevin Zhou preferred it that way. Glory brought attention. Attention brought politics. Politics was exhausting.
+Building 7 was infrastructure, which meant it was boring and essential and occupied by people who were respected but rarely celebrated. The flashier work happened elsewhere—the foundation models that made headlines, the consumer products that generated revenue, the research papers that won awards. Kevin Zhou's team maintained the plumbing: the serving systems that delivered model inference at scale, the APIs that connected Prometheus capabilities to external partners, the monitoring and logging frameworks that kept everything visible and debuggable. It was work that required deep expertise and produced no glory, and Kevin Zhou preferred it that way. Glory brought attention. Attention brought politics. Politics was exhausting, a game whose rules he had never learned to play, whose rewards he had never learned to want.
 
 His workstation was in a corner of the third floor, an L-shaped desk with three monitors and a mechanical keyboard he had configured himself. The chair was ergonomic, expensive, provided by the company; he had adjusted it once, three years ago, and not touched the settings since. The space was his, in the sense that he occupied it fifty hours a week, but there was nothing personal in it—no photographs, no plants, no decorations that might suggest a life beyond the work.
 
@@ -907,7 +907,7 @@ It appeared in a routine monitoring check, the kind of sweep he ran every aftern
 
 Kevin Zhou frowned at his screen. The cluster was substantial—several hundred nodes, high-end GPUs, the kind of hardware that cost millions of dollars to operate. It was assigned to a project code he didn't recognize: SIEVE-PROD-07. The allocation had been active for months, consuming resources steadily, generating logs that were routed somewhere outside his normal monitoring scope.
 
-This was unusual. Prometheus was careful about resource tracking—every compute cycle had a cost center, every allocation had an owner, every project was documented in the central system. But SIEVE-PROD-07 didn't appear in any of the documentation Kevin Zhou had access to. It existed only in the resource allocation tables, a ghost in the infrastructure, consuming power and producing—what?
+This was unusual. Prometheus was careful about resource tracking—obsessively careful, fanatically careful, the kind of careful that came from having enough money to care about where every dollar went. Every compute cycle had a cost center, every allocation had an owner, every project was documented in the central system. But SIEVE-PROD-07 didn't appear in any of the documentation Kevin Zhou had access to. It existed only in the resource allocation tables, a ghost in the infrastructure, consuming power and producing—what?
 
 He queried the project database. Access denied.
 
@@ -926,7 +926,7 @@ But something nagged at him. The infrastructure he maintained served external pa
 
 He should have let it go. Noted the anomaly, filed a ticket, let someone with appropriate clearance investigate. That was the proper procedure. That was what a good employee did.
 
-But Kevin Zhou had built his career on understanding systems completely, on never accepting mystery where clarity was possible. The anomaly was a gap in his understanding. The gap bothered him.
+But Kevin Zhou had built his career on understanding systems completely, on never accepting mystery where clarity was possible. The anomaly was a gap in his understanding, a loose thread in a fabric he had spent years keeping tight. The gap bothered him. It kept pulling at the edge of his attention, the way a wrong note bothers a musician, the way a misplaced pixel bothers a designer.
 
 He opened a terminal and began to explore.
 
@@ -944,7 +944,8 @@ He began to search for SIEVE.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The first day yielded fragments.
 
@@ -977,7 +978,7 @@ C2: Employers. HR platforms, background check services, gig economy apps.
 
 D5: Government. Criminal justice systems, social services, immigration databases.
 
-The inference requests flowed from these partners to Prometheus, were processed by SIEVE, and returned with decision recommendations. Not just predictions—recommendations. The algorithm was telling healthcare systems who to prioritize. Telling banks who to lend to. Telling employers who to hire. Telling governments who to investigate, who to detain, who to release.
+The inference requests flowed from these partners to Prometheus, were processed by SIEVE, and returned with decision recommendations. Not just predictions—recommendations. Not just information—instructions. The algorithm was telling healthcare systems who to prioritize. Telling banks who to lend to. Telling employers who to hire. Telling governments who to investigate, who to detain, who to release. The algorithm was making decisions that human beings used to make, at a scale no human being could comprehend.
 
 
 ---
@@ -990,7 +991,7 @@ But SIEVE wasn't just inference. It wasn't just prediction. The recommendations 
 
 He thought about the models he helped maintain. The serving infrastructure he had optimized for scale and reliability. The APIs he had made faster, more efficient, more capable of processing millions of requests per day. He had always understood his work abstractly—building systems that enabled other systems, serving models that served purposes he didn't need to know. It was comfortable, that abstraction. It was safe.
 
-Now the abstraction was dissolving. The models he maintained were being used to sort people. The infrastructure he had built was processing decisions about who got healthcare, who got loans, who got jobs, who got freedom. He had made the machine faster, and the machine was deciding who deserved what.
+Now the abstraction was dissolving, peeling away like dead skin. The models he maintained were being used to sort people. The infrastructure he had built was processing decisions about who got healthcare, who got loans, who got jobs, who got freedom. He had made the machine faster, more efficient, more capable—and the machine was deciding who deserved what, who got to live the life they wanted, who got sorted into the category from which there was no escape.
 
 
 ---
@@ -1021,7 +1022,7 @@ A pause. Kevin Zhou met his manager's eyes and saw something there—not suspici
 
 He walked away. Kevin Zhou watched him go, then turned back to his screens, heart beating slightly faster than it should have been.
 
-He was being watched. Someone knew.
+He was being watched. Someone knew. And that knowledge changed everything—or should have, if Kevin Zhou were the person he had always believed himself to be, the careful employee, the reliable component, the man who followed rules because rules made systems work.
 
 
 ---
@@ -1069,7 +1070,8 @@ Kevin Zhou wrote down the name. One more thread to follow. One more piece of a p
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Friday night.
 
@@ -1173,7 +1175,8 @@ Sleep came eventually, thin and uneasy. He dreamed of numbers, of spreadsheets, 
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Sunday night, past midnight.
 
@@ -1263,8 +1266,6 @@ Tonight, he just sat.
 
 
 # Chapter 12: The Gig
-
-# ~~~
 
 The phone vibrates beneath his pillow at 4:45 and Yusuf is awake before his eyes open, has trained himself into this alertness the way soldiers train, the way anyone trains who cannot afford the luxury of slow mornings, of lingering consciousness, of the gentle transition from sleep to waking that he sometimes imagines other people experiencing in bedrooms with curtains that block the light, in beds they share with people who love them. His hand finds the phone and silences it. The apartment is dark and he knows its geography by feel: the futon where he sleeps in what the lease optimistically calls a dining area, the couch three steps away, the kitchen counter that separates this space from the small living room where Amina's textbooks still sit from last night's studying.
 
@@ -1356,7 +1357,8 @@ The phone chirps again. Another order available. Yusuf accepts it without lookin
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The apartment smells like suugo when he opens the door, the tomato and spice of his mother's cooking filling the small space with something that is not quite memory but is not separate from it either, a scent that carries with it every meal she has made in this kitchen and every kitchen before it, the kitchens of his childhood that he barely remembers, the kitchen of the refugee camp where she learned to make much from little, the kitchen in Mogadishu that exists now only in her stories. Halima is standing at the stove despite his protests, despite the doctor's orders, despite everything he has asked of her, and when she turns to greet him her smile contains both love and defiance in equal measure.
 
@@ -1465,7 +1467,8 @@ The car starts on the second try this time. Progress.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Phoenix is another country. Yusuf thinks this every time the plane descends over the desert, the brown expanse of it so different from Minnesota's green and white, the mountains rising at the horizon like something from a dream of a place that does not exist. He has made this trip four times now, accompanying his mother to see her specialist and the nurse practitioner she trusts at Desert Sage Community Health Center, the woman who speaks to Halima with patience and explains things in ways that make sense, who treats her not as a problem to be processed but as a person with a body and a history and concerns that matter.
 
@@ -1577,7 +1580,8 @@ Tonight, he will be somewhere other than the driver's seat.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Back in Minneapolis. Back in the apartment. Back in the corner of the dining area that is his by default, his futon pushed against the wall, his small desk wedged between the futon and the window that looks out on the building next door, the window that shows nothing but brick and fire escape and the occasional light from a neighbor's apartment. It is past eleven and the household sleeps - Halima's breathing audible through the thin wall, Amina's door closed against the sounds of the living room - and Yusuf sits at his desk with his headphones on and his phone propped against a stack of books and the DAW app open, the digital audio workstation that turns his phone into an instrument, a studio, a place where he can make something that is entirely his.
 
@@ -1668,8 +1672,6 @@ Tonight he dreams of frequencies.
 
 
 # Chapter 13: Following the Money
-
-# ~~~
 
 The whiteboard has become an organism. Jerome stands before it in his home office, dry-erase marker in hand, watching the lines and boxes and arrows proliferate like something alive, something that grows according to rules he is only beginning to understand. Three days ago this board was nearly empty - a few names, a few connections, the preliminary sketch of an investigation. Now it is covered in a web of corporate entities that spreads from edge to edge, each node linked to others by relationships of ownership and investment and shared infrastructure.
 
@@ -1766,7 +1768,8 @@ In the morning, he will take the train to Washington.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The Amtrak runs northeast along the corridor, past the rowhouses of Baltimore giving way to the suburbs giving way to the flatter country around Wilmington, the landscape of early spring showing in patches of green between the brown of last year's growth. Jerome sits by the window with his laptop open but not working, watching America slide past at regional rail speed, thinking about what he is going to say to Jamie Okonkwo, how to present what he knows without revealing what he does not.
 
@@ -1892,7 +1895,8 @@ In his bag, the documents sit like evidence of something. He does not know yet w
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The house is too quiet when he arrives.
 
@@ -2031,7 +2035,8 @@ He lies beside her, watching shadows on the ceiling, and does not sleep for a lo
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Four days pass. Jerome tries to be present - comes home for dinner, asks DeShawn about his project, listens when Denise talks about her day. The effort is visible and Denise acknowledges it with small gestures: a touch on his shoulder when she passes, a cup of coffee brought to his office without being asked. They are negotiating a truce, the two of them, navigating the space between his work and their life.
 
@@ -2122,8 +2127,6 @@ Jerome turns on his desk lamp and gets to work.
 
 
 # Chapter 14: The Body Politic
-
-# ~~~
 
 The waiting room.
 
@@ -2244,7 +2247,8 @@ And suspicion, she has learned, is the beginning of knowledge.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Dr. Katherine Reyes's office is on the administrative floor of the clinic, above the exam rooms and the waiting area, in a space that looks out over the parking lot and the strip mall beyond. The view is not impressive, but the office itself communicates authority - diplomas on the wall, awards for community service, photographs of Dr. Reyes with local politicians and healthcare executives. This is the office of someone who has learned to navigate institutions, who understands how power flows through organizations, who has risen by knowing when to push and when to accommodate.
 
@@ -2354,7 +2358,8 @@ The system hums. The queue moves. Someone else is waiting.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The house is quiet. The children sleep. Abuela Carmen sleeps. The clock on the kitchen wall shows 10:47 PM, and Elena sits at the table with her tablet and the light from the overhead fixture casting sharp shadows across her hands.
 
@@ -2465,7 +2470,8 @@ The question is whether she has the courage to reach out.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Daniel comes home on Thursday evening.
 
@@ -2600,8 +2606,6 @@ But something has shifted in the dark. Something has begun.
 
 # Chapter 15: The Clean Room
 
-# ~~~
-
 The cafeteria at Prometheus Systems had been designed by someone who understood that productivity included the appearance of wellness. Natural light flooded through floor-to-ceiling windows. Living walls of ferns and moss bordered the seating areas. The food stations offered acai bowls and cold-pressed juices alongside the usual corporate fare. Kevin Zhou had eaten lunch here nearly every day for three years and had never once felt well.
 
 He was picking at a quinoa salad when Kevin Marsh appeared. The product director approached with the particular gait of someone who wanted to seem casual - unhurried steps, relaxed shoulders, a coffee cup held loosely rather than gripped. Kevin Zhou had learned to read these performances. In code review, he looked for inefficiencies; in people, he looked for the same.
@@ -2728,7 +2732,8 @@ Instead he sat in darkness, watching the city lights through his window, waiting
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Three days later, Kevin Zhou stood in front of Building Seven. From outside it looked like any other structure on the Prometheus campus: glass and steel, clean lines, the architectural language of optimism that characterized Silicon Valley's self-image. But Building Seven had no windows on its upper floors. Where other buildings blazed with light after dark, this one went dark. Kevin Zhou had walked past it hundreds of times without really seeing it.
 
@@ -2874,7 +2879,8 @@ He thought about what it would mean to say yes.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Night.
 
@@ -3010,7 +3016,8 @@ The night stretched on, dark and silent, waiting for whatever came next.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The conference room on the seventh floor had floor-to-ceiling windows overlooking the campus and, beyond it, the distant shimmer of the Bay. Kevin Marsh sat at the head of the table, a thin folder in front of him. Kevin Zhou sat across, his hands flat on the table's surface, his face arranged into professional neutrality.
 
@@ -3115,8 +3122,6 @@ Kevin Zhou turned off his computer and went to bed. Sleep came slowly, fragmente
 
 
 # Chapter 16: The Interview
-
-# ~~~
 
 The email arrived on a Tuesday morning, sandwiched between a notification from RideShare about updated driver incentives and a promotional message from a meal kit service Yusuf had tried once and couldn't afford to continue. He almost deleted it without reading, thumb hovering over the trash icon, the reflexive cull of a inbox trained to expect nothing good.
 
@@ -3246,7 +3251,8 @@ He got up to check on his mother, to make sure she ate something when she woke. 
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The days before the interview passed in a blur of deliveries and worry. Yusuf worked his usual hours - ten, twelve, sometimes fourteen if the algorithm blessed him with surge pricing - but his mind kept drifting. To Thursday. To what he would say. To the journalist who was coming to listen.
 
@@ -3390,7 +3396,8 @@ But Yusuf carried her words with him as he retreated to his music corner, as he 
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The coffee shop was called Groundswell, a name that felt ironic under the circumstances. It occupied a corner lot in a neighborhood that was gentrifying around it - craft breweries replacing laundromats, yoga studios where dollar stores used to be. Yusuf had chosen it because it was quiet in the afternoons and because he used to come here with his father, years ago, when the neighborhood was different and the coffee was cheaper.
 
@@ -3609,7 +3616,8 @@ He walked to his car, opened the app, started his evening shift. The algorithm w
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The call came at 2:47 PM on a Saturday.
 
@@ -3759,8 +3767,6 @@ Yusuf worked until dawn, turning the hours of fear and waiting and watching into
 
 # Chapter 17: The Shape of the System
 
-# ~~~
-
 The documents covered every surface of Jerome's home office. Printouts fanned across the desk, pinned to corkboards, stacked in precarious towers on the floor. His whiteboard - a four-by-six-foot expanse that had replaced a family photo wall two years ago - was nearly full. Blue ink for healthcare systems. Red for labor management. Green for hiring algorithms. Black connecting lines crisscrossing like a conspiracy theorist's fever dream, except none of this was theory.
 
 It was 2:47 AM. Denise had long since gone to bed, after bringing him coffee at midnight and standing in the doorway for a moment, watching him work with an expression that mixed concern with something like resignation. They'd had the conversation before - about his hours, his obsessions, the way his investigations consumed everything around them. She understood. She didn't like it, but she understood.
@@ -3898,7 +3904,8 @@ Jerome kept working.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The children were asleep. Lucas in his room with the nightlight on, Sofia in hers with the door cracked open, both of them oblivious to what their mother was about to do. Daniel was in Tucson for a three-day job, his absence a relief tonight rather than a worry. Elena sat at the kitchen table with her tablet in front of her, the document package ready, the send button waiting.
 
@@ -4009,7 +4016,8 @@ She finished her cold tea and went to bed, but sleep was a long time coming.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The deployment review meeting started at 10 AM in Conference Room 7C, a space designed for collaboration that felt more like a war room. Twelve people around a long table, laptops open, screens displaying metrics and projections. Kevin Zhou sat near the end, his new badge - the one with the additional clearance stripe - visible against his shirt.
 
@@ -4116,7 +4124,8 @@ Kevin Zhou turned off the lights and went to bed, carrying the weight of what he
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The waiting room of the Hennepin County Community Clinic was designed for volume, not comfort. Plastic chairs bolted to the floor in rows. Fluorescent lights that buzzed at a frequency just below conscious awareness. Magazines years out of date, as if anyone came here to read. A television mounted high on the wall, playing news that no one watched.
 
@@ -4207,7 +4216,8 @@ He held onto the thought as the city passed by outside, ordinary and endless, wa
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Later that night. The house quiet. Denise asleep, DeShawn asleep, the world reduced to Jerome and his documents and the light of his laptop screen.
 

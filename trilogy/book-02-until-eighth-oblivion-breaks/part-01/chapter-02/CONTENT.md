@@ -1,5 +1,3 @@
-# ~~~
-
 The alarm never sounded because Elena woke before it, as she always did, her body trained to surfaces that her conscious mind had stopped registering, the circadian rhythm of caregiving that had replaced the circadian rhythm of rest. Four-thirty-two by the red numbers on the nightstand. The house held its breath around her - Daniel's side of the bed cool and flat because Daniel was in Tucson, third week on the commercial site, coming home Friday if the schedule held, which it never did. She lay still for a moment, inventory taking shape before movement: Mateo had cried at eleven but settled; Sofia had called out around two, something about a dream, and Elena had gone to her and stroked her hair until the breathing slowed; Gloria had coughed in the early hours, that dry cough that Elena tracked with clinical attention because Gloria would never mention it herself.
 
 The house needed her to be quiet. Elena swung her legs out and set her feet on the thin carpet they'd bought three years ago when the previous carpet had given up, this carpet also showing wear now in the paths most traveled, from bed to bathroom, from hallway to kitchen. She could navigate in the dark. She had been navigating in the dark for nine months of double shifts and staggered schedules, learning the geography of her own home by touch, by absence, by the shape of what wasn't there.
@@ -61,7 +59,8 @@ She gathered her things and walked toward the door.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The waiting room held thirty-seven people by seven-fifteen, and Elena knew they would see fifty before noon. The chairs were orange plastic, bolted to the floor in rows, the institutional aesthetic of places designed to process rather than comfort. A television mounted high on the wall played the news with the sound off, captions scrolling beneath images of politicians and economists speaking from podiums, the world of policy that seemed disconnected from the bodies filling these seats.
 
@@ -184,13 +183,13 @@ They shared a laugh - the dark humor that sustained healthcare workers, the joke
 
 "Amara."
 
-"I'm not being cynical. I'm being accurate. We don't save people here, Elena. We slow down the damage. We give them a few more good days, a few more years if we're lucky. The saving - that would require changing the systems that are breaking them. And we don't do that. We can't do that from here."
+"I'm not being cynical. I'm being accurate. We don't save people here, Elena. We slow down the damage. We give them a few more good days, a few more years if we're lucky. The saving - that would require changing the systems that are breaking them. And we don't do that. We can't do that from here. We're downstream of the poison. The most we can do is filter it as it passes through."
 
 Elena wanted to argue, but she didn't have the energy, and she wasn't sure Amara was wrong. She returned to the exam rooms, to the queue that never emptied, to the bodies that arrived carrying more than she could treat. The diabetic grandmother, the construction worker, the anxious teenager - they would go home to lives the clinic couldn't touch, to economic pressures and environmental stressors and the accumulated weight of a system designed to extract rather than sustain.
 
 She saw fourteen more patients before break. She documented every one. She ordered tests and wrote referrals and adjusted medications and listened - the listening was the part insurance didn't reimburse but the part that sometimes mattered most.
 
-By noon she was hollowed out, running on coffee and habit, ready for the brief rest that wouldn't be enough.
+By noon she was hollowed out, running on coffee and habit and the sertraline that kept her steady enough to function, ready for the brief rest that wouldn't be enough but would have to be.
 
 
 ---
@@ -198,7 +197,8 @@ By noon she was hollowed out, running on coffee and habit, ready for the brief r
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The break room was windowless and small, a converted closet with a microwave, a coffee maker that produced something coffee-adjacent, and a couch that had been donated by someone who no longer wanted it. Elena sank into the couch with her phone and her bad coffee, feeling the brief permission to stop moving.
 
@@ -241,13 +241,13 @@ Elena listened to Gloria move, the muffled sounds of negotiation, Mateo's wail s
 
 "Don't apologize to me. I'm not the one who needs you."
 
-The words landed harder than Gloria probably intended. Elena felt them settle into the guilt she carried always, the sense that she was failing everyone - her patients, her children, her husband, herself.
+The words landed harder than Gloria probably intended, or perhaps exactly as hard as she intended - Gloria's generation didn't soften truths. Elena felt them settle into the guilt she carried always, the guilt that had become a second skeleton inside her, the sense that she was failing everyone - her patients, her children, her husband, herself - in different ways at different hours but always, always failing.
 
 "I have to go back," Elena said. "My break is almost over."
 
 "Take care of yourself, mija. You can't pour from an empty cup."
 
-It was something Gloria said often, a kitchen-magnet wisdom that Elena knew was true and couldn't follow. She was pouring from an empty cup every day. She had been empty for months. The medication kept her functional, but functional was not full.
+It was something Gloria said often, a kitchen-magnet wisdom that Elena knew was true and couldn't follow. She was pouring from an empty cup every day. She had been empty for months. The medication kept her functional, kept the edges from sharpening into crisis, but functional was not full, and she wondered sometimes what would happen when the cup finally cracked.
 
 After she hung up, she sat with the phone in her hand, the break room humming with fluorescent silence. She thought about the early years with Daniel, before Sofia, before Mateo, before the jobs that consumed them both. They had met at a community health fair - Elena doing blood pressure screenings, Daniel building the tent structures, both of them young and certain that hard work would be enough.
 
@@ -264,9 +264,9 @@ She couldn't remember.
 
 She took her phone and scrolled through news headlines while the coffee cooled to undrinkable. A story about Prometheus Systems caught her eye: "Tech Giant Celebrates One Year of 'Ethical AI' Initiative." The headline was accompanied by a photo of serious-looking executives in a glass-walled conference room, the aesthetic of responsible innovation. Elena had a vague memory of the crisis last year, the congressional hearings, the wave of concern that had crested and receded. It had seemed important at the time. Now it seemed like weather from another country.
 
-What did AI ethics have to do with Mrs. Delgado's insulin costs? What did regulatory frameworks have to do with Ray Torres's broken arm?
+What did AI ethics have to do with Mrs. Delgado's insulin costs? What did regulatory frameworks have to do with Ray Torres's broken arm? What did any of it have to do with Jaylen Mitchell drowning in feelings that were entirely appropriate responses to a world that had revealed its carelessness?
 
-She scrolled past. The news that mattered to her wasn't news at all - it was the daily accumulation of bodies and needs, unreported because it was too ordinary to count.
+She scrolled past. The news that mattered to her wasn't news at all - it was the daily accumulation of bodies and needs, unreported because it was too ordinary to count, too structural to be a story, too much like weather to be an event.
 
 
 ---
@@ -287,7 +287,7 @@ Elena didn't recognize the name, but that wasn't unusual - she saw too many pati
 
 She dumped the cold coffee, pocketed her phone, and walked back toward the exam rooms. The break had been forty minutes. It had not been enough. It was never enough. But the queue was waiting, and the bodies were waiting, and the system demanded her presence whether she had anything left to give.
 
-She paused at the bathroom on the way, not because she needed it but because she needed thirty seconds to herself. She looked in the mirror: Elena Varga, thirty-six years old, dark circles under her eyes, hair pulled back in the ponytail she'd worn since residency because there was no time for anything else. She had wanted to be a healer. She had become a processor, moving bodies through a system designed to fail them.
+She paused at the bathroom on the way, not because she needed it but because she needed thirty seconds to herself. She looked in the mirror: Elena Varga, thirty-six years old, dark circles under her eyes, hair pulled back in the ponytail she'd worn since residency because there was no time for anything else. She had wanted to be a healer. She had become a processor, moving bodies through a system designed to fail them, a system that manufactured illness and then charged for the treatment.
 
 She washed her hands with the automatic soap dispenser, dried them on the rough paper towels. The afternoon waited. She went to meet it.
 
@@ -297,9 +297,10 @@ She washed her hands with the automatic soap dispenser, dried them on the rough 
 
 
 
-# ~~~
 
-The afternoon came at her like a wave. An urgent case arrived at one-fifteen - a man in his sixties, chest pain, sweating, the classic presentation that could be cardiac arrest or could be anxiety or could be both. Elena stabilized him while Amara called for transport to the hospital, the clinic's equipment insufficient for what he needed. He left in an ambulance, status unknown, another patient whose outcome she might never learn.
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
+
+The afternoon came at her like a wave that had been gathering force offshore all morning, waiting to crash. An urgent case arrived at one-fifteen - a man in his sixties, chest pain, sweating, the classic presentation that could be cardiac arrest or could be anxiety or could be both. Elena stabilized him while Amara called for transport to the hospital, the clinic's equipment insufficient for what he needed. He left in an ambulance, status unknown, another patient whose outcome she might never learn.
 
 Jaylen Mitchell returned at two. His mother called from the parking lot - he was having a panic attack, couldn't get out of the car, couldn't breathe. Elena walked out to them, the Phoenix sun already brutal, and found Jaylen hyperventilating in the back seat while his mother stood helpless beside the open door.
 
@@ -309,7 +310,7 @@ She talked him down using the techniques she had learned in residency and refine
 
 "This happens sometimes after you start addressing it," she said. "The feelings you've been pushing down come up. It doesn't mean you're getting worse. It means you're becoming aware of what was already there."
 
-"It doesn't feel like awareness. It feels like dying."
+"It doesn't feel like awareness. It feels like dying. It feels like everyone else is going about their day and I'm the only one who knows we're all going to die."
 
 "I know. But you're not dying. You're feeling."
 
@@ -322,13 +323,13 @@ She stayed with him until he was stable, then called the sliding-scale counselor
 
 "You won't be alone. Your mom is here. And you can call the crisis line - I'll give you the number. If it gets bad, you come back. We're here until eight."
 
-She wrote down the crisis number, made him put it in his phone, extracted a promise that he would call rather than suffer in silence. It was the best she could do. It was not enough.
+She wrote down the crisis number, made him put it in his phone, extracted a promise that he would call rather than suffer in silence. It was the best she could do. It was not enough. Nothing she did here was ever enough, and yet not doing it was unthinkable.
 
 By three o'clock, the queue had grown rather than shrunk - people who had left work early, children out of school, the afternoon rush of need that reflected the schedules of people who couldn't miss morning shifts. Elena moved through them with the efficiency of practice: listen, examine, diagnose, treat, document, repeat. Each patient got eight to twelve minutes. Each patient deserved more.
 
 At four-fifteen, Fatima Hassan came through the door.
 
-She was in her late fifties, Elena guessed, wearing a hijab and a coat too heavy for Phoenix weather, as if she couldn't quite believe the desert wouldn't turn cold. Her face was lined in ways that suggested hard work and harder worries, but her eyes were sharp, watching Elena with the assessment of someone who had learned to size up professionals quickly.
+She was in her late fifties, Elena guessed, wearing a hijab and a coat too heavy for Phoenix weather, as if she carried a different climate inside her, a cold she couldn't shake. Her face was lined in ways that suggested hard work and harder worries, but her eyes were sharp, watching Elena with the assessment of someone who had learned to size up professionals quickly.
 
 "Mrs. Hassan? Maria said you asked for me."
 
@@ -351,7 +352,7 @@ Elena listened, took notes, examined. Fatima's blood pressure was 168 over 104 -
 
 "How long have you been feeling like this?"
 
-"The headaches started in the fall. The rest - " Fatima shrugged. "I don't remember when it started. It just became."
+"The headaches started in the fall. The rest - " Fatima shrugged. "I don't remember when it started. It just became." She paused, and Elena saw something flicker across her face - not self-pity but something closer to wonder at what the body could endure and still function. "The body finds a way to keep going. Until it doesn't."
 
 "Do you have insurance?"
 
@@ -372,7 +373,7 @@ While the blood draw was happening, Elena sat with Fatima. The older woman's wal
 
 "You carry a lot," Elena said.
 
-"I carry what there is to carry. It's not optional."
+"I carry what there is to carry. It's not optional." Her voice was matter-of-fact, the tone of someone who had long ago stopped expecting the world to be fair and was simply dealing with what was.
 
 Elena recognized the philosophy. She lived it herself - the refusal to collapse because collapse was not permitted, the work that continued because stopping meant falling.
 
@@ -399,7 +400,7 @@ Fatima nodded, folding the instructions into her pocket. At the door, she paused
 
 No, Elena thought. It wasn't.
 
-The shift continued. Five more patients after Fatima. A medication refill, straightforward. A rash that was probably allergic dermatitis. A pregnant woman whose prenatal vitamins had run out. An elderly man whose son had brought him in because he was forgetting things - the early stages of something Elena could not fix but could at least name, could at least document for the journey ahead. A child with an ear infection, crying while Elena examined her, the mother exhausted and apologetic.
+The shift continued. Five more patients after Fatima. A medication refill, straightforward. A rash that was probably allergic dermatitis. A pregnant woman whose prenatal vitamins had run out - Elena gave her samples and tried not to think about what kind of prenatal care cost-nothing bought. An elderly man whose son had brought him in because he was forgetting things - the early stages of something Elena could not fix but could at least name, could at least document for the journey ahead, the long diminishment that was waiting for so many of them. A child with an ear infection, crying while Elena examined her, the mother exhausted and apologetic in the way mothers always were, as if their children's illnesses were failures of love rather than biology.
 
 Six o'clock came. Then six-thirty. The shift officially ended at seven, but there were still patients waiting, and Elena saw them all, staying until the queue was clear because that was what she did, because that was who she had become.
 
@@ -409,11 +410,12 @@ Six o'clock came. Then six-thirty. The shift officially ended at seven, but ther
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Dark.
 
-The Phoenix sky had drained its color while Elena was inside, and now the city spread around her in headlights and streetlamps, the grid of roads that carried people to wherever they went when they weren't waiting for care.
+The Phoenix sky had drained its color while Elena was inside, had gone from brutal afternoon to blank evening, and now the city spread around her in headlights and streetlamps, the grid of roads that carried people to wherever they went when they weren't waiting for care, when they weren't sick or scared or wondering how to pay.
 
 She started the car. The radio was tuned to public broadcasting, a podcast she'd been meaning to listen to about the crisis - the anniversary approaching, the retrospectives beginning. A voice she didn't recognize spoke about systemic risk and regulatory capture.
 
@@ -427,7 +429,7 @@ She turned onto the highway. The podcast continued, two experts debating governa
 
 Elena thought about bodies.
 
-The systems they analyzed had become the bodies she treated. The policy failures landed as inflammation, as fractures that couldn't heal, as anxiety that came from knowing true things. She was standing at the end of a pipeline, catching what the pipeline produced, unable to reach back and turn off the flow.
+The systems they analyzed had become the bodies she treated. The policy failures landed as inflammation, as fractures that couldn't heal, as anxiety that came from knowing true things. She was standing at the end of a pipeline, catching what the pipeline produced, unable to reach back and turn off the flow. And the people designing the pipeline, the people who could turn it off, were somewhere far away in glass-walled conference rooms, discussing ethics.
 
 
 ---
@@ -442,9 +444,9 @@ Sofia's room. The door still cracked. The horse-patterned comforter rising and f
 
 She thought: I am treating symptoms.
 
-She thought: The disease is everything.
+She thought: The disease is everything. The disease is the system. The disease is the air we breathe.
 
-She thought: What would it mean to heal something I can't even name?
+She thought: What would it mean to heal something I can't even name? What would it take to become something other than a witness to damage?
 
 Sofia stirred, murmured something unintelligible, settled back into sleep. Elena reached through the door and touched her daughter's hair, just barely, a contact Sofia wouldn't register.
 
@@ -454,7 +456,7 @@ For now, this.
 
 The dark house. The sleeping child. The weight she carried.
 
-For now, this was enough. It had to be.
+For now, this was enough. It had to be. It was all she had.
 
 
 ---

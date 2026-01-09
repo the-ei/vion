@@ -1,5 +1,3 @@
-# ~~~
-
 Priya stood in the doorway holding a manila folder thick with papers. Behind her, her bags were packed and waiting, the physical evidence of departure that would happen in two days. Ananya had expected a normal visit, perhaps some last-minute college preparations, conversation about the life Priya was about to begin.
 
 The folder said otherwise.
@@ -171,7 +169,8 @@ Priya's pen hovered over her notebook. "That's what I can't understand. Five yea
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 They ordered food neither of them wanted to eat. Indian takeout, a shared favorite, the containers cooling on the kitchen counter while they talked. The formality had broken down somewhat - Priya had set aside her folder, was listening now rather than interrogating - but the tension remained.
 
@@ -365,7 +364,8 @@ The microwave beeped. Neither of them had put anything else in it. A ghost in th
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 They made tea. The ritual was familiar, automatic - water boiling, leaves steeping, the particular cups Ananya had brought from her grandmother's house decades ago. By now the apartment was dark except for the stove light and a single lamp, the city glittering beyond the windows.
 

@@ -1,5 +1,3 @@
-# ~~~
-
 The files were on a drive the size of her thumb. Ananya held it in her palm, feeling its weight—not physical weight, which was nothing, but the weight of what it contained. Projections, timelines, capability assessments, safety audits. The internal truth of Prometheus Systems, extracted and portable, waiting to be released into the world.
 
 She sat at her kitchen table in the early morning light. The coffee she had made an hour ago was cold. She had not slept more than three hours, and even those hours had been broken by the particular anxiety of someone preparing to do something irreversible.
@@ -131,7 +129,8 @@ She typed a message to Jerome: *Tonight. I'm ready.*
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The meeting at Prometheus was like every other meeting she had attended there. Conference room B, third floor, the windows overlooking the courtyard where employees ate lunch when the weather was good. Ananya sat in her usual seat, reviewed the usual materials, asked the usual questions. No one looked at her with suspicion. No one knew.
 
@@ -287,7 +286,8 @@ It wasn't redemption. It wasn't even courage. It was just the only option left.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Night.
 

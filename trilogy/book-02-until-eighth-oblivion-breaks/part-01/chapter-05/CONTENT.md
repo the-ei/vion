@@ -1,5 +1,3 @@
-# ~~~
-
 The cherry blossoms were at peak bloom, the Tidal Basin ringed with tourists and the whole city performing its annual ritual of beauty. Jerome Washington had seen forty-two springs in D.C. and had learned to navigate around the crowds, to find the side streets and the off-hours when the city was just itself, neither monument nor spectacle. But today he had meetings on Capitol Hill, and Capitol Hill did not yield to scheduling preferences.
 
 The Russell Senate Office Building held its usual morning traffic - staffers with badges moving purposefully, lobbyists with suits moving strategically, tourists with cameras moving bewilderedly. Jerome signed in at security, collected his visitor pass, and made his way to the office of Senator Patricia Holbrook, Chair of the Senate Judiciary Committee. He had been requesting this meeting for three weeks. He had finally received fifteen minutes with her chief counsel.
@@ -96,7 +94,8 @@ He needed to see his mother. He needed to remember what care looked like, what l
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The house on Edmondson Avenue had been in the family for forty-three years, since Jerome's father bought it with a VA loan in 1991, a year before Jerome was born. It was a Baltimore rowhouse like thousands of others - brick facade, white marble steps, a front porch narrow enough that two people had to stand sideways to pass each other. The neighborhood had changed and changed again in those decades, cycles of decline and renewal that his father had weathered with the particular stubbornness of Black homeownership, the refusal to leave what had been earned.
 
@@ -243,7 +242,8 @@ He drove back to D.C. as the sun set, carrying all of it with him.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Politics and Prose occupied a corner of Connecticut Avenue that had been a bookstore for decades, surviving the digital revolutions that had closed so many others through a combination of community loyalty and strategic adaptation. Jerome had attended dozens of events here - book launches, author talks, the particular gatherings where D.C.'s intellectual class came to reassure itself that ideas still mattered.
 
@@ -342,7 +342,8 @@ He left the bookstore and walked into the D.C. night, the conversation settling 
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The next morning, Jerome met Martin Reyes at a coffee shop near Dupont Circle. Martin had been one of his best sources during the crisis - a legislative aide with access to committee documents and the willingness to leak them when the story required it. He had taken risks, real risks, and Jerome had protected him carefully, never revealing his identity even when editors pushed for more transparency.
 
@@ -424,7 +425,8 @@ He hung up and sat on the bench for a long time, letting the morning pass around
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The hotel room.
 

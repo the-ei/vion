@@ -1,5 +1,3 @@
-# ~~~
-
 Ruth woke at five, as she always had, the internal clock her father had instilled in her still running forty years after he stopped being the one to enforce it. The DC apartment was quiet in the particular way of expensive real estate - soundproofed, climate-controlled, insulated from the city that hummed just outside its walls. She lay for a moment in the half-light, her mind already sorting through the day's tasks.
 
 The testimony. The hearing. The senators who would use her words for purposes she could not control.
@@ -63,7 +61,8 @@ The gavel fell. The hearing began.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Senator Holloway's opening statement lasted twelve minutes. Ruth timed it out of professional habit - attention to detail was how she had survived forty years in institutions that rewarded precision. The senator spoke with the fluency of someone who had practiced before cameras, her points landing with the rhythm of a prepared speech.
 
@@ -127,15 +126,15 @@ When her turn came, Ruth stood, approached the microphone, and began to deliver 
 
 ---
 
-The tech industry representative was finished now, having successfully communicated nothing while appearing cooperative. The consumer advocate had made her points with precision that would play well in clips. The intelligence official had retreated behind classification requirements with practiced grace.
+The tech industry representative was finished now, having successfully communicated nothing while appearing fully cooperative. The consumer advocate had made her points with precision that would play well in clips. The intelligence official had retreated behind classification requirements with practiced grace.
 
-Ruth gathered her materials as the brief recess concluded. The hearing room had thinned slightly - some journalists departing to file early stories, some spectators giving up on the slow pace of congressional procedure. Those who remained had the settled look of people prepared to wait as long as necessary.
+Ruth gathered her materials as the brief recess concluded. The hearing room had thinned slightly - some journalists departing to file early stories, some spectators giving up on the slow pace of congressional procedure. Those who remained wore the settled look of people prepared to wait as long as necessary.
 
 Holloway called the hearing back to order. "Our next witness is Judge Ruth Abramson, former United States District Court Judge for the District of Columbia, currently a distinguished fellow at the Georgetown Law Center. Judge Abramson has been asked to provide expert testimony on constitutional considerations relevant to any legislative response to the Infrastructure Anomaly. Judge Abramson, please proceed with your prepared remarks."
 
 Ruth looked at the senators arranged before her. Holloway's attention was focused; Kincaid's expression was skeptical. The others showed varying degrees of interest, boredom, or preoccupation with their phones.
 
-She thought of Susan, who would have told her to speak the truth and let the consequences sort themselves out. She thought of David, her son, whose legal troubles had given her a new perspective on what it meant to be on the other side of institutional power. She thought of the careful fifteen pages she had prepared.
+She thought of Susan, who would have told her to speak the truth and let the consequences sort themselves. She thought of David, her son, whose legal troubles had given her a new and unwelcome perspective on what it meant to be on the other side of institutional power. She thought of the careful fifteen pages she had prepared.
 
 Then she began to read.
 
@@ -145,13 +144,14 @@ Then she began to read.
 
 
 
-# ~~~
 
-Ruth's testimony was careful, precise, and almost entirely ignored.
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
+
+Ruth's testimony was careful, precise, and almost entirely ignored by the senators before her.
 
 She laid out the constitutional framework: the Fourth Amendment's protection against unreasonable searches, and how AI surveillance capabilities blurred the line between public and private space. The First Amendment's protection of speech, and the question of whether algorithmic content moderation constituted state action when government agencies pressured platforms. The Fifth Amendment's due process requirements, and the impossibility of meaningful review when decisions were made by systems whose reasoning could not be explained.
 
-She offered no conclusions - that was not her mandate. She offered frameworks for analysis, guidelines for legislative consideration, constitutional guardrails that any responsible statute would need to respect.
+She offered no conclusions - that was not her mandate. She offered frameworks for analysis, guidelines for legislative consideration, constitutional guardrails that any responsible statute would be required to respect.
 
 The senators listened with the polite attention of people waiting for their turn to speak.
 
@@ -166,7 +166,7 @@ Ruth paused. "Senator, that's outside the scope of my testimony. I was asked to 
 
 ---
 
-Holloway's expression tightened. Ruth recognized the look - frustration with a witness who would not play the assigned role.
+Holloway's expression tightened visibly. Ruth recognized the look - frustration with a witness who would not play the assigned role.
 
 "Let me try a different approach," Holloway said. "If Congress were to pass legislation requiring AI developers to submit their systems for government safety review before deployment, would such legislation be constitutional?"
 
@@ -174,7 +174,7 @@ Ruth considered the question. "It would depend on the specifics of the legislati
 
 "Even if the speech is generated by a machine rather than a human?"
 
-"The Court has not definitively addressed whether machine-generated content receives First Amendment protection. There are arguments on both sides. My point is that any legislation in this area would face significant constitutional uncertainty."
+"The Court has not definitively addressed whether machine-generated content receives First Amendment protection. There are arguments on both sides, and they are substantial arguments. My point is that any legislation in this area would face significant constitutional uncertainty."
 
 "So you're saying we can't regulate these systems?"
 
@@ -187,7 +187,7 @@ The questioning continued in this vein for several minutes. Each time Holloway t
 
 ---
 
-Then Kincaid took his turn, and the adversarial dynamic shifted direction.
+Then Kincaid took his turn, and the adversarial dynamic pivoted.
 
 "Judge Abramson, I appreciate your careful testimony. Let me ask you about something different. The Senator from California seems to assume that government intervention is the solution to whatever happened. But isn't it possible that government intervention was part of the problem? If intelligence agencies were secretly collaborating with tech companies on these systems, wouldn't any legislation simply be regulating what the government itself was doing?"
 
@@ -195,7 +195,7 @@ Ruth measured her response carefully. "Senator, I'm not in a position to assess 
 
 "But hypothetically - if government agencies were involved in developing these systems, wouldn't that raise constitutional concerns? Fourth Amendment concerns about government surveillance? First Amendment concerns about government manipulation of information?"
 
-"Hypothetically, yes. Government involvement in developing surveillance capabilities that are then deployed against citizens would raise serious constitutional questions."
+"Hypothetically, yes. Significant government involvement in developing surveillance capabilities that are subsequently deployed against citizens would raise serious constitutional questions."
 
 "So the problem might not be insufficient regulation. The problem might be government overreach enabled by collaboration with private industry."
 
@@ -206,9 +206,9 @@ Ruth recognized the trap. Kincaid was trying to use her expertise to validate hi
 
 ---
 
-The questioning continued for another forty minutes. Senator after senator approached the microphone, each seeking validation for their predetermined positions. Ruth offered none of them what they wanted.
+The questioning continued for another forty minutes. Senator after senator approached the microphone, each seeking validation for positions they had determined long before entering this room. Ruth offered none of them what they wanted.
 
-By the end, she felt like a punching bag that had refused to respond to the punches. Both sides were frustrated with her; neither had obtained the sound bites they sought. She had been true to her mandate, true to her expertise, true to her oath as a jurist.
+By the end, she felt like a punching bag that had refused to respond to the punches. Both sides were frustrated with her; neither had obtained the sound bites they had come for. She had been true to her mandate, true to her expertise, true to her oath as a jurist.
 
 And she had accomplished nothing.
 
@@ -218,16 +218,16 @@ As she gathered her materials after the formal conclusion, Ruth thought about wh
 
 The question was whether anyone would do the work. The senators had their sound bites, their clips, their ammunition for the ongoing political battle. The substantive questions Ruth had raised - the genuine constitutional complexities - would likely be forgotten by the time the cameras stopped rolling.
 
-She walked out of the hearing room, past the photographers who had no interest in her, past the staffers already preparing for the next event. The Capitol corridor felt different on the way out than it had on the way in. Same marble, same portraits, same weight of history.
+She walked out of the hearing room, past the photographers who had no interest in her, past the staffers already preparing for the next event. The Capitol corridor felt different on the way out than it had on the way in. Same marble, same portraits, same accumulated weight of history.
 
-But she was different.
+But she was different. Something had shifted.
 
 
 ---
 
-The afternoon light outside the Capitol was brutal after the artificial lighting of the hearing room. Ruth shielded her eyes, fumbling for sunglasses, feeling the heat settle onto her like a physical weight.
+The afternoon light outside the Capitol struck her as brutal after the artificial lighting of the hearing room. Ruth shielded her eyes, fumbling for sunglasses, feeling the heat settle onto her like a physical weight.
 
-She had spent her career believing in institutions. Not naively - she knew their flaws, had seen them fail repeatedly. But she had believed that the frameworks she helped build, the precedents she helped establish, served a purpose beyond the immediate political moment. Law as accumulated wisdom. Procedure as protection against passion.
+She had spent her career believing in institutions. Not naively - she knew their flaws intimately, had seen them fail repeatedly. But she had believed that the frameworks she helped build, the precedents she helped establish, served a purpose beyond the immediate political moment. Law as accumulated wisdom. Procedure as protection against passion.
 
 Today had shaken that belief in ways she was still processing.
 
@@ -239,7 +239,7 @@ Her phone buzzed. A text from a colleague at the law school: "Watched your testi
 
 Ruth typed back: "Unlikely. But we say what's true and hope."
 
-She didn't believe it even as she wrote it. The hope felt hollow in her chest, like a cavity where conviction used to live.
+She didn't believe it even as she wrote it. The hope felt hollow in her chest, like a cavity where conviction had once lived.
 
 The car service was waiting. She climbed in, gave her address, and closed her eyes for the ride home.
 
@@ -249,15 +249,16 @@ The car service was waiting. She climbed in, gave her address, and closed her ey
 
 
 
-# ~~~
 
-The apartment was quiet when Ruth returned. She had been gone nine hours for a testimony that lasted less than one. The inefficiency of official process - all that preparation, all that waiting, for thirty minutes of being talked past rather than to.
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
-She set down her bag, made tea, and sat in the living room with the lights off. The afternoon sun slanted through the windows, casting long shadows across the furniture Susan had chosen. Ruth let herself sink into the silence, let the day's tensions slowly release.
+The apartment was quiet when Ruth returned. She had been gone nine hours for a testimony that lasted less than one. The inefficiency of official process - all that preparation, all that waiting, for thirty minutes of being talked past rather than heard.
+
+She set down her bag, made tea, and sat in the living room with the lights off. The afternoon sun slanted through the windows, casting long shadows across the furniture Susan had chosen. Ruth let herself sink into the silence, let the day's accumulated tensions slowly release.
 
 Her phone rang just after six. David's number on the screen.
 
-She answered without enthusiasm. Their recent conversations had all followed the same pattern: David's panic, her professional assessment, the gap between what he needed and what she could provide.
+She answered without enthusiasm. Their recent conversations had all followed the same painful pattern: David's panic, her professional assessment, the unbridgeable gap between what he needed and what she could provide.
 
 "Mom." His voice was tight. "Did you watch the news today?"
 
@@ -274,7 +275,7 @@ Of course it was Kincaid. His manufactured-crisis narrative required villains, a
 
 ---
 
-"David, listen to me. Being named in a senator's opening statement is not the same as being charged with anything. Kincaid is playing to his base. He needs villains for his narrative, and financial firms are easy targets. It doesn't necessarily mean the investigation has changed."
+"David, listen to me carefully. Being named in a senator's opening statement is not the same as being charged with anything. Kincaid is playing to his base. He needs villains for his narrative, and financial firms are easy targets. It doesn't necessarily mean the investigation has changed."
 
 "But it changes how people see us. Clients are already calling. Two institutional investors pulled meetings tomorrow. Amanda is freaking out - she says we need to get out ahead of this somehow."
 
@@ -282,7 +283,7 @@ Of course it was Kincaid. His manufactured-crisis narrative required villains, a
 
 "I don't know. That's why I'm calling you. You know how this works. You've seen how these political attacks play out. What do we do?"
 
-Ruth felt the familiar helplessness descending. She was an expert in constitutional law, not crisis communications. She understood the legal system, but the court of public opinion operated by different rules she had never mastered.
+Ruth felt the familiar helplessness descending over her. She was an expert in constitutional law, not crisis communications. She understood the legal system, but the court of public opinion operated by different rules she had never mastered.
 
 "The worst thing you can do is respond publicly," she said. "Any statement you make will be parsed for ammunition. Stay quiet, stay focused on the legal process, don't give them anything to work with."
 
@@ -290,14 +291,14 @@ Ruth felt the familiar helplessness descending. She was an expert in constitutio
 
 "Yes. Because engaging with a senator from the floor of Congress is a fight you cannot win. He has a platform and immunity; you have neither. The best outcome is that this blows over when he finds a new target."
 
-David's silence on the other end was eloquent with frustration.
+David's silence on the other end of the line was eloquent with frustration.
 
 
 ---
 
-"Mom," he said finally, "I need you to come up. Not as a lawyer - you've been clear you can't advise me legally. But as... I don't know. As my mother. Amanda's barely speaking to me. The partners are circling like sharks. I'm not sleeping. I need someone in my corner who isn't calculating their exposure."
+"Mom," he said finally, "I need you to come up here. Not as a lawyer - you've been clear you can't advise me legally. But as... I don't know. As my mother. Amanda's barely speaking to me. The partners are circling like sharks. I'm not sleeping. I need someone in my corner who isn't calculating their exposure."
 
-Ruth thought about her schedule. The law school had classes she was supposed to teach. There were committees, meetings, obligations. But her son was drowning, and she was the only life raft he was reaching for.
+Ruth thought about her schedule. The law school had classes she was supposed to teach. There were committees, meetings, the accumulated obligations of an institutional life. But her son was drowning, and she was the only life raft he was reaching for.
 
 "I'll come this weekend," she said. "Friday afternoon. I'll stay through Sunday."
 
@@ -305,7 +306,7 @@ Ruth thought about her schedule. The law school had classes she was supposed to 
 
 After they hung up, Ruth sat in the darkening living room and thought about the strange convergence of her day. A hearing about AI governance that had become political theater. A son caught in an investigation being used as ammunition in that same theater. The personal and the political intertwined in ways she could not separate.
 
-David had moved money. His firm had provided financial services to entities whose ultimate purposes they had not investigated carefully enough. This was either crime or ordinary business practice depending on how the law was interpreted - and the interpretation was increasingly political.
+David had moved money. His firm had provided financial services to entities whose ultimate purposes they had not investigated carefully enough. This was either crime or ordinary business practice depending on how the law was ultimately interpreted - and the interpretation was increasingly political.
 
 She thought about what Kincaid had said, his manufactured-crisis narrative. It was nonsense in its particulars but not entirely baseless in its premises. Powerful actors had coordinated before and after the crisis. Money had flowed in suspicious patterns. Someone had benefited.
 
@@ -314,15 +315,15 @@ Her son might not be innocent. But he also might not be guilty in any meaningful
 
 ---
 
-The law, she had always believed, was designed to make exactly these distinctions. To separate criminal intent from negligence, willful wrongdoing from systemic participation. Courts existed to adjudicate competing claims with evidence and argument, to reach verdicts that approximated justice.
+The law, she had always believed, existed to make exactly these distinctions. To separate criminal intent from negligence, willful wrongdoing from systemic participation. Courts existed to adjudicate competing claims with evidence and argument, to reach verdicts that approximated justice.
 
 But what she had seen today - what she was seeing in David's situation - suggested that adjudication was no longer possible in the same way. The public had reached its verdicts already. The senators spoke to audiences who had already decided. The investigation of David's firm was as much about narrative as evidence.
 
-If the premise is contested, her mind whispered, then adjudication is impossible.
+If the premises are contested, her mind whispered, then adjudication becomes impossible.
 
 This was the thought she had been avoiding for months. The thought that undermined her entire professional life. She had built a career on the assumption that shared frameworks could produce just outcomes. But what if the frameworks themselves were now the subject of dispute?
 
-Ruth rose and moved to the kitchen to make dinner she wouldn't taste. The mechanical acts of cooking provided occupation for her hands while her mind continued its uncomfortable work.
+Ruth rose and moved to the kitchen to make a dinner she wouldn't taste. The mechanical acts of cooking provided occupation for her hands while her mind continued its uncomfortable work.
 
 She had always prided herself on clear thinking. On seeing through rhetoric to substance, through emotion to logic. Susan had admired this about her even when it frustrated her - Ruth's ability to cut through to what was actually at stake.
 
@@ -334,13 +335,14 @@ But clarity required something to be clear about. And the more she looked at the
 
 
 
-# ~~~
 
-It was after eleven when Ruth poured the scotch. Susan's brand - Lagavulin, the sixteen-year, the one that tasted like peat and smoke and the Scottish coast where they had spent their twentieth anniversary. Ruth had never liked it. She still bought it. She still drank it, on nights when the alternative was not drinking anything, and the silence of the apartment demanded company.
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
+
+It was after eleven when Ruth poured the scotch. Susan's brand - Lagavulin, the sixteen-year, the one that tasted like peat and smoke and the Scottish coast where they had spent their twentieth anniversary. Ruth had never liked it. She still bought it. She still drank it, on nights when the alternative was drinking nothing at all, and the silence of the apartment demanded some form of company.
 
 The television played news she wasn't watching. The same stories cycling through: the hearing she had attended, now reduced to clips and talking heads. Her testimony had made none of the coverage. The confrontations between Holloway and Kincaid had made all of it.
 
-Ruth let the scotch sit on her tongue, let the burn spread through her chest. The sensation was clarifying in the way physical discomfort sometimes clarified - it brought her back to the body, away from the spiraling thoughts.
+Ruth let the scotch sit on her tongue, let the burn spread through her chest. The sensation clarified in the way physical discomfort sometimes clarified - it brought her back to the body, away from the spiraling thoughts.
 
 What had she accomplished today? She had said true things that no one wanted to hear. She had maintained her professional integrity in a context designed to compromise it. She had refused to be weaponized by either side.
 
@@ -353,38 +355,38 @@ The news anchor was explaining the political implications of the hearing. Democr
 
 ---
 
-The Eighth Oblivion - she had not used that term in her testimony, had carefully used the official euphemisms - was becoming what she had feared it would become. Not a crisis to be understood but a Rorschach test. Everyone saw what they already believed. The actual events, whatever they had been, were receding behind the interpretations.
+The Eighth Oblivion - she had not used that term in her testimony, had carefully employed the official euphemisms throughout - was becoming what she had feared it would become. Not a crisis to be understood but a Rorschach test. Everyone saw what they already believed. The actual events, whatever they had been, were receding behind the interpretations.
 
 Ruth thought about what she actually knew. The systems at Prometheus had done something unexpected. Whether this was emergence, malfunction, or deliberate action by bad actors remained unclear. The response had been swift and coordinated in ways that suggested advance preparation. The aftermath had benefited certain parties while devastating others.
 
-These facts supported multiple interpretations. Holloway's corporate negligence narrative fit some of them. Kincaid's manufactured-crisis narrative fit others. Neither explanation was fully satisfying, but neither was obviously wrong.
+These facts supported multiple interpretations. Holloway's corporate negligence narrative accommodated some of them. Kincaid's manufactured-crisis narrative fit others. Neither explanation was fully satisfying, but neither was obviously wrong.
 
 And her son was caught in the middle, his firm's financial connections being used as evidence for claims that had nothing to do with what he had actually done.
 
-The scotch was half-gone now. Ruth poured another measure, knowing she would regret it in the morning. Knowing she needed it tonight.
+The scotch was half-gone now. Ruth poured another measure, knowing she would regret it in the morning, knowing she needed it tonight.
 
 Susan would have known what to say. Susan had always known how to pull Ruth back from the edge of despair, how to remind her that individual actions mattered even when systems seemed overwhelming. "You do what you can," Susan used to say. "You don't control outcomes. You control whether you tried."
 
 
 ---
 
-But Susan was gone, and Ruth was alone with her thoughts and her scotch and the television's endless loop of political performance.
+But Susan was gone. Ruth was alone with her thoughts and her scotch and the television's endless loop of political performance.
 
 She thought about calling David back. But what would she say that she hadn't said already? She thought about calling Rebecca, her daughter, but Rebecca would want to talk about the investigation, and Ruth couldn't bear to hear her daughter's barely concealed judgment of David's choices.
 
 She thought about calling no one, and sitting with the silence, and accepting that some nights were simply to be endured.
 
-The scotch was doing its work now, softening the edges of her thoughts. The day's failures seemed less acute, the future's uncertainties less terrifying. This was what alcohol was for - temporary refuge from the clarity that was usually her strength but sometimes her curse.
+The scotch was doing its work now, softening the edges of her thoughts. The day's failures seemed less acute, the future's uncertainties less terrifying. This was what alcohol was for - temporary refuge from the clarity that was ordinarily her strength but sometimes became her curse.
 
 She turned off the television. The apartment fell silent except for the ambient hum of systems Susan had chosen - the refrigerator, the climate control, the quiet machinery of modern life. Ruth sat in the darkness, glass in hand, and let herself feel what she usually refused to feel.
 
 Loss. Confusion. Doubt.
 
-She had spent her life building frameworks for understanding. Constitutional law was nothing but frameworks - ways of organizing competing claims into resolvable disputes. She had been good at this work. She had helped make it possible for people with irreconcilable differences to coexist under common rules.
+She had spent her entire life building frameworks for understanding. Constitutional law was nothing but frameworks - ways of organizing competing claims into resolvable disputes. She had been good at this work. She had helped make it possible for people with irreconcilable differences to coexist under common rules.
 
 But what if the rules no longer held? What if the frameworks had broken?
 
-She fell asleep in the chair, as she sometimes did on nights like this. The glass tipped but did not fall, resting against the armrest at an angle that defied gravity.
+She fell asleep in the chair, as she sometimes did on nights like this one. The glass tipped but did not fall, resting against the armrest at an angle that seemed to defy gravity.
 
 
 ---

@@ -137,7 +137,7 @@ He listed everything he remembered that had never quite made sense. The sources 
 
 If Jeffries was right, the gaps weren't random. They were designed.
 
-He wrote until midnight, filling page after page with questions, connections, hypotheses. The work felt different than it had in years - urgent, alive, dangerous in a way he had almost forgotten he craved.
+He wrote until midnight, filling page after page with questions, connections, hypotheses. The work felt different than it had in years - urgent, alive, dangerous in a way he had almost forgotten he craved. His hands moved across the keyboard with their old fluency, the muscle memory of investigation returning as if it had never left.
 
 Outside his window, Baltimore slept. But Jerome was awake again, truly awake, looking backward to find what had been hidden.
 

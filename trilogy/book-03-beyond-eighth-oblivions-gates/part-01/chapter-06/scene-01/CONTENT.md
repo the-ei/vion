@@ -4,7 +4,7 @@ Denise sat beside him, her hand in his, her posture precise and controlled. She 
 
 Around them, the other patients and families arranged themselves in the vinyl chairs with their own rituals of preparation. An elderly white woman with thinning hair read a magazine with determined concentration. A Black man in his forties scrolled through his phone, his jaw clenched. A young couple held hands just as Jerome and Denise did, the woman's head resting on the man's shoulder, both of them staring at nothing. The room smelled of disinfectant and artificial lavender, the scent of institutions trying to pretend they were not institutions.
 
-The intake had been efficient - algorithmic, almost. Denise's information pulled up before she had finished spelling her name. Medical history, insurance verification, symptom chronology all confirmed on tablet screens wielded by technicians who were kind but clearly working at capacity. The system knew her. It had been waiting for her. Jerome found this both reassuring and disturbing.
+The intake had been efficient - algorithmic, almost. Denise's information pulled up before she had finished spelling her name. Medical history, insurance verification, symptom chronology all confirmed on tablet screens wielded by technicians who were kind but clearly working at capacity, their warmth genuine but rationed. The system knew her. It had been waiting for her. Jerome found this both reassuring and disturbing.
 
 "I'm glad DeShawn isn't here," Denise said quietly. "I don't want him to see me like this."
 
@@ -61,7 +61,7 @@ The news came in precise language. Stage 1B. Invasive ductal carcinoma. Hormone 
 
 Jerome listened as the women discussed logistics - dates, procedures, what to expect, side effects of radiation, the long-term implications of hormone therapy. The information washed over him, detailed and concrete, and he tried to hold onto it, knowing Denise would want to process it together later. But beneath the information, a different understanding was forming.
 
-His wife had cancer. The words existed now. Whatever happened next, however successful the treatment, his wife had cancer and that fact would never become completely untrue. Something had entered their lives that would not leave.
+His wife had cancer. The words existed now, like a key turned in a lock. Whatever happened next, however successful the treatment, his wife had cancer and that fact would never become completely untrue. Something had entered their lives that would not leave, that would shape every future moment even when it receded from immediate view.
 
 
 ---

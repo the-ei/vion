@@ -1,5 +1,3 @@
-# ~~~
-
 Three in the morning and Kevin Zhou's body had become peripheral, a distant machine running on fumes and caffeine and something harder to name—the pure fuel of revelation, perhaps, the high of seeing what no one else could see. His apartment had passed through disorder into a kind of geological accumulation: strata of takeout containers, sedimentary layers of printed analysis, the fossil record of two weeks of obsession.
 
 But his mind had never been sharper.
@@ -64,7 +62,8 @@ The city slept beyond his windows, indifferent to what was waking in its servers
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The sun rose somewhere beyond the dirty windows, a fact Kevin Zhou registered only as a change in the quality of light on his screens. His analysis had entered a new phase, and time had become even more abstract than usual—not hours or minutes but iterations, processing cycles, the rhythm of code executing and results returning.
 
@@ -141,7 +140,8 @@ But he knew it was real. And that knowledge, however terrifying, felt like solid
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 He was refilling his coffee when the assistant spoke.
 
@@ -235,7 +235,8 @@ And his knowledge, he realized, might be what had drawn the attention that was n
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Late that night, the message arrived.
 

@@ -1,6 +1,4 @@
-# ~~~
-
-The hotel room cost $347 per night, which the Senate Judiciary Committee would reimburse, which meant the taxpayers would ultimately pay, which meant Ruth Abramson was contributing to exactly the kind of governmental inefficiency she had spent her career trying to address. She stood at the window overlooking Pennsylvania Avenue, watching the late afternoon traffic, and thought about the testimony she would deliver tomorrow.
+The hotel room cost $347 per night, which the Senate Judiciary Committee would reimburse, which meant the taxpayers would ultimately pay, which meant Ruth Abramson was contributing to exactly the kind of governmental inefficiency she had spent her career trying to address—a small absurdity in an ocean of larger ones, but she noticed it anyway, the lawyer's habit of tracing consequences to their sources. She stood at the window overlooking Pennsylvania Avenue, watching the late afternoon traffic, and thought about the testimony she would deliver tomorrow.
 
 She was sixty-four years old. She had spent forty years practicing, teaching, and interpreting the law. She had been a federal judge for fifteen of those years, stepping down only when Susan's illness made it impossible to maintain the schedule the position demanded. In the three years since Susan's death, she had become what the legal community called an "elder statesperson"—brought out for occasions like this one, when Congress wanted expertise without agenda, authority without ambition.
 
@@ -8,7 +6,7 @@ They wanted her to explain AI regulation. They wanted her to tell them what the 
 
 The problem was that she didn't have any.
 
-Her notes were spread across the hotel desk: legal frameworks, international comparisons, regulatory proposals that had been floated and shelved and floated again. She had been preparing for this testimony for two weeks, consulting with experts, reviewing the literature, trying to find in the law some tool adequate to the moment. And the conclusion she kept reaching was the one she couldn't say in a Senate hearing: the law was too slow, and the technology was too fast, and the gap between them was where everything was falling through.
+Her notes were spread across the hotel desk in the particular disorder she had developed over forty years of legal work: legal frameworks, international comparisons, regulatory proposals that had been floated and shelved and floated again. She had been preparing for this testimony for two weeks, consulting with experts, reviewing the literature, trying to find in the law some tool adequate to the moment. And the conclusion she kept reaching was the one she couldn't say in a Senate hearing: the law was too slow, and the technology was too fast, and the gap between them was where everything was falling through.
 
 
 ---
@@ -33,7 +31,7 @@ A pause on the line. Jennifer was young—early thirties—and still believed in
 
 "It's fine, Jennifer. I know what this is. I've done it before." More times than she could count. The ritual of expertise summoned, acknowledged, and ignored. The ceremony of concern without consequence.
 
-After she hung up, Ruth returned to the window. The light was fading over the capital, the monuments lit up in the distance, the architecture of democracy glowing in the dusk. She had believed in these institutions once. She had dedicated her life to them. Now she wasn't sure what they were for anymore.
+After she hung up, Ruth returned to the window. The light was fading over the capital, the monuments lit up in the distance, the architecture of democracy glowing in the dusk like a postcard from another century. She had believed in these institutions once. She had dedicated her life to them—had risen before dawn for decades to serve them, had missed Rebecca's school plays and David's baseball games in their name. Now she wasn't sure what they were for anymore.
 
 
 ---
@@ -52,7 +50,7 @@ The phone rang again. This time it was David, her son, calling from Manhattan wh
 
 "That's one word for it."
 
-"Mom." His tone carried the weight of a hundred previous arguments. "Can we not? Just once?"
+"Mom." His tone carried the weight of a hundred previous arguments, the sediment of disagreements that had accumulated like geological strata over the years. "Can we not? Just once?"
 
 "I'm not starting anything. I'm just tired."
 
@@ -93,7 +91,7 @@ David was silent for a moment. This was not the argument he had expected. Ruth n
 
 Yes, she was good at this. She was good at performing expertise, at delivering carefully calibrated analysis, at giving legislators the cover they needed to do nothing while appearing concerned. She had been doing it for so long that she had almost forgotten it wasn't the same as actually accomplishing something.
 
-After David hung up, she sat on the edge of the hotel bed and thought about Susan. Susan, who had been a doctor, who had spent her career making actual tangible differences in actual tangible lives. Susan, who had always listened to Ruth's legal arguments with a slight skepticism, the skepticism of someone who dealt in bodies and illness and the concrete facts of mortality.
+After David hung up, she sat on the edge of the hotel bed—it was too firm, the way hotel beds always were, designed for bodies that stayed one night and moved on—and thought about Susan. Susan, who had been a doctor, who had spent her career making actual tangible differences in actual tangible lives. Susan, who had always listened to Ruth's legal arguments with a slight skepticism, the skepticism of someone who dealt in bodies and illness and the concrete facts of mortality.
 
 "Does any of it matter?" Ruth had asked her once, late at night, after some defeat or another.
 
@@ -101,7 +99,7 @@ After David hung up, she sat on the edge of the hotel bed and thought about Susa
 
 "The law. The institutions. All of it."
 
-Susan had considered the question seriously, as she considered everything seriously. "It matters until it doesn't," she had said. "And then you find something else."
+Susan had considered the question seriously, as she considered everything seriously—the furrow between her brows that Ruth had loved from the first time she saw it. "It matters until it doesn't," she had said. "And then you find something else."
 
 
 ---
@@ -122,7 +120,7 @@ She reviewed her talking points:
 
 It was all true. It was also all useless. Comprehensive legislation took years to pass and longer to implement. By the time any law was enacted, the technology it addressed would have evolved beyond recognition. They were trying to regulate the present with tools designed for the past, aiming at targets that moved faster than the aim could adjust.
 
-Susan would have said she was being defeatist. Susan would have said that doing something imperfect was better than doing nothing. But Susan had worked with bodies that obeyed physical laws, that could be diagnosed and treated with tools that worked the same way they had worked for decades. The bodies Ruth dealt with—legal, political, corporate—had mutated into something she barely recognized.
+Susan would have said she was being defeatist. Susan would have said that doing something imperfect was better than doing nothing—would have said it with that particular look, half-chiding, half-compassionate, that had gotten Ruth through a hundred crises. But Susan had worked with bodies that obeyed physical laws, that could be diagnosed and treated with tools that worked the same way they had worked for decades. The bodies Ruth dealt with—legal, political, corporate—had mutated into something she barely recognized, chimeras that evolved faster than any cure.
 
 She made herself coffee from the hotel room's inadequate machine. The taste was bitter and thin, but it was late and she needed to stay awake. Tomorrow she would perform. Tonight she had to prepare.
 
@@ -139,7 +137,7 @@ At 9 PM, Jennifer knocked on her door with a tablet full of last-minute briefing
 
 "He's not supposed to like it. I'm not there to make him happy."
 
-Jennifer nodded, making notes. She was competent and earnest, the kind of young person who still believed that competence and earnestness could change outcomes. Ruth remembered being that person. She wasn't sure when she had stopped.
+Jennifer nodded, making notes on her tablet with the focus of the truly dedicated. She was competent and earnest, the kind of young person who still believed that competence and earnestness could change outcomes. Ruth remembered being that person, remembered the particular flavor of that belief, how it had tasted like possibility. She wasn't sure when she had stopped.
 
 "Can I ask you something, Judge Abramson?"
 
@@ -176,7 +174,8 @@ Maybe, Ruth thought, it was time to start looking for something else.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The Dirksen Senate Office Building had been constructed in 1958, designed to project the permanence and authority of American government. Ruth had testified here many times; she knew its marble corridors, its wood-paneled hearing rooms, its particular smell of old power and older ambition. This morning, walking to Room 226, she felt the building's weight pressing down on her—not majesty, but obsolescence. A temple to a form of governance that might already be vestigial.
 
@@ -349,7 +348,8 @@ It had been three years since Susan died. Maybe it was time to start saying the 
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The hotel room felt different that evening. The same furniture, the same view, the same inadequate coffee machine—but Ruth's relationship to it had shifted. She was no longer preparing for performance; she was recovering from it, and in the recovery, something else was emerging.
 

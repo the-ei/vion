@@ -6,7 +6,7 @@ She began drafting in her study on a Tuesday evening, Susan's photograph watchin
 
 The post-crisis frameworks had been presented as reform. They were called the restoration of public trust, the reassertion of democratic control over technologies that had grown too powerful. But Ruth had been watching these frameworks for years now, tracing their implementation, noting their gaps. What she saw was not reform but its simulation - the appearance of change designed to prevent actual change.
 
-She typed: The PCAIGA was passed in the aftermath of crisis, when public demand for accountability was at its height. But the law that emerged from Congress was already compromised - shaped by the very interests it was meant to constrain, written in language that left fundamental questions of liability and enforcement to future interpretation.
+She typed: The PCAIGA was passed in the aftermath of crisis, when public demand for accountability was at its height. Congress acted with apparent urgency, legislators speaking of never again and restoration of trust. But the law that emerged was already compromised - shaped by the very interests it was meant to constrain, written in language that left fundamental questions of liability and enforcement to future interpretation by courts that might or might not prove sympathetic.
 
 
 ---
@@ -128,6 +128,8 @@ They could indeed. Ruth spent Monday fielding interview requests, declining most
 By Tuesday, the conversation had moved on to other things. The news cycle churn absorbed her op-ed and produced new controversies, new outrages, the endless river of content that constituted public discourse in 2037. But Ruth knew the piece hadn't disappeared - it had become part of the record. When the Henderson case was argued before the Supreme Court, when the decision came down, when the frameworks were debated again in Congress, her words would still be there. Available. Quotable. A position she could not retract.
 
 She had crossed a line. The crossing was complete.
+
+Somewhere, she knew, others were doing similar work - documenting what had been hidden, preparing to speak what had been suppressed. She didn't know their names yet. But she suspected their paths would cross.
 
 Now she waited to see what came next.
 

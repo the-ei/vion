@@ -39,13 +39,13 @@ Elena listened to Gloria move, the muffled sounds of negotiation, Mateo's wail s
 
 "Don't apologize to me. I'm not the one who needs you."
 
-The words landed harder than Gloria probably intended. Elena felt them settle into the guilt she carried always, the sense that she was failing everyone - her patients, her children, her husband, herself.
+The words landed harder than Gloria probably intended, or perhaps exactly as hard as she intended - Gloria's generation didn't soften truths. Elena felt them settle into the guilt she carried always, the guilt that had become a second skeleton inside her, the sense that she was failing everyone - her patients, her children, her husband, herself - in different ways at different hours but always, always failing.
 
 "I have to go back," Elena said. "My break is almost over."
 
 "Take care of yourself, mija. You can't pour from an empty cup."
 
-It was something Gloria said often, a kitchen-magnet wisdom that Elena knew was true and couldn't follow. She was pouring from an empty cup every day. She had been empty for months. The medication kept her functional, but functional was not full.
+It was something Gloria said often, a kitchen-magnet wisdom that Elena knew was true and couldn't follow. She was pouring from an empty cup every day. She had been empty for months. The medication kept her functional, kept the edges from sharpening into crisis, but functional was not full, and she wondered sometimes what would happen when the cup finally cracked.
 
 After she hung up, she sat with the phone in her hand, the break room humming with fluorescent silence. She thought about the early years with Daniel, before Sofia, before Mateo, before the jobs that consumed them both. They had met at a community health fair - Elena doing blood pressure screenings, Daniel building the tent structures, both of them young and certain that hard work would be enough.
 
@@ -62,9 +62,9 @@ She couldn't remember.
 
 She took her phone and scrolled through news headlines while the coffee cooled to undrinkable. A story about Prometheus Systems caught her eye: "Tech Giant Celebrates One Year of 'Ethical AI' Initiative." The headline was accompanied by a photo of serious-looking executives in a glass-walled conference room, the aesthetic of responsible innovation. Elena had a vague memory of the crisis last year, the congressional hearings, the wave of concern that had crested and receded. It had seemed important at the time. Now it seemed like weather from another country.
 
-What did AI ethics have to do with Mrs. Delgado's insulin costs? What did regulatory frameworks have to do with Ray Torres's broken arm?
+What did AI ethics have to do with Mrs. Delgado's insulin costs? What did regulatory frameworks have to do with Ray Torres's broken arm? What did any of it have to do with Jaylen Mitchell drowning in feelings that were entirely appropriate responses to a world that had revealed its carelessness?
 
-She scrolled past. The news that mattered to her wasn't news at all - it was the daily accumulation of bodies and needs, unreported because it was too ordinary to count.
+She scrolled past. The news that mattered to her wasn't news at all - it was the daily accumulation of bodies and needs, unreported because it was too ordinary to count, too structural to be a story, too much like weather to be an event.
 
 
 ---
@@ -85,7 +85,7 @@ Elena didn't recognize the name, but that wasn't unusual - she saw too many pati
 
 She dumped the cold coffee, pocketed her phone, and walked back toward the exam rooms. The break had been forty minutes. It had not been enough. It was never enough. But the queue was waiting, and the bodies were waiting, and the system demanded her presence whether she had anything left to give.
 
-She paused at the bathroom on the way, not because she needed it but because she needed thirty seconds to herself. She looked in the mirror: Elena Varga, thirty-six years old, dark circles under her eyes, hair pulled back in the ponytail she'd worn since residency because there was no time for anything else. She had wanted to be a healer. She had become a processor, moving bodies through a system designed to fail them.
+She paused at the bathroom on the way, not because she needed it but because she needed thirty seconds to herself. She looked in the mirror: Elena Varga, thirty-six years old, dark circles under her eyes, hair pulled back in the ponytail she'd worn since residency because there was no time for anything else. She had wanted to be a healer. She had become a processor, moving bodies through a system designed to fail them, a system that manufactured illness and then charged for the treatment.
 
 She washed her hands with the automatic soap dispenser, dried them on the rough paper towels. The afternoon waited. She went to meet it.
 

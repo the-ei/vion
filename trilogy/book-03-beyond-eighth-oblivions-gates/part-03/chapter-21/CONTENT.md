@@ -1,5 +1,3 @@
-# ~~~
-
 The building did not look like a tomb. That was the first thing Yusuf noticed as they pulled into the parking lot, Amina driving because his hands were shaking too much to hold the wheel. The Threshold—its new name, painted on a glass door that had replaced the industrial metal of his memory—was bright, open, welcoming in a way that felt like a betrayal. New windows had been cut into the old brick walls, flooding the interior with afternoon light. A mural covered the eastern face: hands reaching upward, figures in motion, colors that had no right to exist on a building where his father had died.
 
 "It's beautiful," Amina said.
@@ -138,7 +136,8 @@ They left the building, walking past the mural and the new windows and all the e
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The sound check was scheduled for six, two hours before the doors would open. Yusuf returned to The Threshold with his guitar case and his fear, Amina trailing behind with the quiet support she had been offering all day. The space had changed again in the hours they were gone: chairs set up in rows, lights focused on the stage, a mixing board installed at the back of the room where a young woman with headphones was adjusting levels.
 
@@ -299,7 +298,8 @@ In an hour, he would sing. In an hour, he would give away what he had been holdi
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The room was full. Maybe a hundred and fifty people, folding chairs occupied and standing room crowded, the community that had built this space coming together to celebrate its opening. Yusuf stood in the wings—if a converted warehouse could be said to have wings—and felt his heart trying to escape his chest.
 

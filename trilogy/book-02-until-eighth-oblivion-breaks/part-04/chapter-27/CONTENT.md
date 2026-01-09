@@ -1,5 +1,3 @@
-# ~~~
-
 Elena woke at 4:45, as she had every weekday morning for the past six years, her body's clock so perfectly calibrated to this hour that the alarm on her phone was merely confirmation, a formality she maintained out of some residual anxiety that one day the internal mechanism would fail. The bedroom was dark, the blackout curtains she had installed three years ago still doing their work against the Phoenix streetlights, and beside her Daniel breathed with the slow heavy rhythm of a man who had another hour of sleep before his own alarm would sound. She lay still for a moment, as she always did, feeling the warmth of the bed against her back, the particular weight of the comforter they had bought together at a department store whose name she could no longer remember, back when they were first married and believed that purchasing household items together was an act of profound significance.
 
 She rose without turning on the lamp, navigating by memory through the familiar darkness to the bathroom, where she closed the door before switching on the light. The face in the mirror was forty-three years old, the gray at her temples more pronounced than it had been a year ago, the lines around her eyes carved deeper than she wanted to acknowledge. She brushed her teeth, washed her face with the cold water she preferred to warm, and dressed in the scrubs she had laid out the night before, a habit she had developed in nursing school and never abandoned. Navy blue today, her favorite color, though she could not have said why.
@@ -54,7 +52,8 @@ She poured herself another cup of coffee from the break room pot and stood by th
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Mrs. Gutierrez was sitting in the waiting room when Elena came out to call her name, a small woman in her sixties with silver hair pulled back in a neat bun and the patient expression of someone who had spent a lifetime waiting in places like this. Elena escorted her to Exam Room 2, the one with the window that looked out on the parking lot, and went through the familiar routine of vital signs: blood pressure first, 138 over 82, slightly elevated but not alarmingly so; then pulse, 76, steady and strong; then temperature, 98.4, normal. Mrs. Gutierrez answered Elena's questions about her diet and exercise with the same gentle evasions she always used, admitting to "occasional" sweets that Elena suspected were more than occasional, describing walks around the block that may or may not have actually occurred.
 
@@ -166,7 +165,8 @@ Outside, the sky was bright now, the full blazing light of a March morning in Ph
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The waiting room filled.
 
@@ -278,7 +278,8 @@ She called the next name on the list and tried not to think about her phone, sil
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 By eleven o'clock, Dr. Okonkwo had given up trying to reach anyone at the hospital, the health department, or the regional emergency coordinator. She sat in her office with the door open, staring at a phone that connected to nothing, a computer that displayed nothing, a silence where the institutional support structure used to be.
 

@@ -1,5 +1,3 @@
-# ~~~
-
 The UCLA School of Theater, Film and Television occupied a building that had been renovated three times since Delphine's own college years, each renovation adding screens and removing character. She stood in the lobby studying the posters on the walls—student productions, faculty screenings, retrospectives—looking for something familiar and finding nothing.
 
 She was forty-two years old. The work she had made when she was thirty-five was now part of a curriculum.
@@ -118,7 +116,8 @@ Delphine was not sure she was ready. But she walked to the front anyway.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 "Did you feel compromised making this?"
 
@@ -270,7 +269,8 @@ Delphine was exhausted. She was also not ready to be alone with what had happene
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The hotel room was generic in the way all hotel rooms are generic: clean sheets, empty closet, television no one would watch. Delphine sat on the bed with her phone, not yet ready to make the call but knowing she needed to.
 

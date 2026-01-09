@@ -1,5 +1,3 @@
-# ~~~
-
 The warehouse was on the edge of Northeast Minneapolis, a brick building that had once manufactured something—machines, maybe, or furniture—and now sat mostly empty except for the occasional artist collective or underground event. Tonight it held about forty people in folding chairs, facing a makeshift stage made of shipping pallets, drinking coffee from a large urn that someone had brought.
 
 Yusuf arrived late, slipping in the back, finding a seat near the wall. He recognized some faces from the church basement meeting—the same energy of displaced workers, the same mix of fear and determination—but there were others too. People who didn't fit the profile of gig-economy refugees.
@@ -134,7 +132,8 @@ Yusuf walked home through the warm night, feeling something new taking shape ins
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The letter had arrived three days ago, but Amina had waited until dinner to share the news. Their mother had made injera and a vegetable stew, the smell of berbere filling the apartment, the same meal she made every Friday when they were growing up in St. Paul and money was tighter than it was now.
 
@@ -288,7 +287,8 @@ Yusuf went to his own room, lay down without sleeping, and waited for the world 
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The call came at 2:47 AM. Yusuf was sleeping, or trying to sleep, when his phone screamed into the darkness. Amina's voice was panicked: "It's Hooyo. She collapsed. We're calling an ambulance."
 

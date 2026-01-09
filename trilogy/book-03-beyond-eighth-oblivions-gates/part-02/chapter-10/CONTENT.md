@@ -1,5 +1,3 @@
-# ~~~
-
 The paper gown was the same pale blue as the ones she distributed to her own patients, the same thin fabric that offered dignity in theory but never in practice. Elena sat on the examination table, her bare legs dangling, and studied the room as if seeing it for the first time. The blood pressure cuff mounted on the wall. The jar of cotton balls. The biohazard disposal bin she had replaced hundreds of times. All of it familiar, all of it suddenly foreign.
 
 Dr. Reyes knocked twice and entered. She was a few years older than Elena, hair graying at the temples, the kind of physician who looked at you when she spoke instead of at her tablet. They had worked together for three years before Dr. Reyes moved to the private practice down the street. Now she was Elena's doctor because Elena could not be examined by someone who reported to her.
@@ -127,7 +125,8 @@ The ordinary rituals of evening began: snacks, homework, the television's distan
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Daniel's truck pulled into the driveway at six forty-five, the white paint dust-coated from the construction site, the engine ticking as it cooled in the evening air. Elena watched from the kitchen window as he climbed out, still in his work clothes, jeans and a flannel shirt that had seen too many washes. He moved with the careful deliberation of a man who had been driving for three hours, his body stiff, his face set with worry.
 
@@ -335,7 +334,8 @@ For once, she let herself obey.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Two evenings later, Elena sat with her grandmother sorting medications. The ritual happened at seven o'clock every night, immutable as sunset: pill bottles lined up on the dresser in order of dosage, the plastic weekly organizer with its small compartments labeled in both English and Spanish. Abuela's hands were swollen, the joints gnarled from arthritis, but she insisted on doing as much as she could herself. Elena supervised, corrected, worried.
 
@@ -374,7 +374,7 @@ Elena felt tears threatening again. She had cried more in the past two days than
 
 "I don't know how to be sick," she said. "I don't know how to be the one who needs care."
 
-Abuela leaned forward, took Elena's hand in her swollen fingers. The grip was still strong, the strength of a woman who had survived things Elena could barely imagine.
+Abuela leaned forward, took Elena's hand in her swollen fingers. The grip was still strong, surprisingly so, the strength of a woman who had survived things Elena could barely imagine and would never fully know.
 
 "Let me tell you something. About my mother. About how she died."
 
@@ -395,7 +395,7 @@ Elena had heard pieces of this story before, fragments at family gatherings, hal
 
 Abuela paused, her gaze fixed on the photograph of the Virgin Mary above her dresser.
 
-"She died at fifty-five. In the field, during harvest. Her heart gave out while she was bent over the corn. We found her lying in the rows, the corn stalks around her like a little room." Her voice cracked. "She was alone when she died, Elena. Because she would not let anyone help her work."
+"She died at fifty-five. In the field, during harvest. Her heart gave out while she was bent over the corn, still working, still refusing to stop. We found her lying in the rows, the corn stalks around her like a little room." Her voice cracked. "She was alone when she died, Elena. Because she would not let anyone help her work."
 
 "Abuela..."
 
@@ -404,7 +404,7 @@ Abuela paused, her gaze fixed on the photograph of the Virgin Mary above her dre
 
 ---
 
-Elena wiped her eyes. The image of her great-grandmother dying alone among the corn was unbearable, and she understood that was why abuela was telling her. To make it unbearable. To make her see.
+Elena wiped her eyes with the heel of her hand. The image of her great-grandmother dying alone among the corn was unbearable, and she understood that was precisely why abuela was telling her. To make it unbearable. To make her see what that kind of strength actually cost.
 
 "I don't want to end up like that."
 
@@ -416,7 +416,7 @@ Abuela squeezed her hand. "None of us learn. We practice. Every day, we practice
 
 "I never knew that."
 
-"Because I didn't show you. I practiced accepting until it became bearable. Then I practiced until it became normal. Now..." She shrugged. "Now I am grateful. I see my great-grandchildren every day. I eat dinner with family. That is worth the price of asking for help."
+"Because I didn't show you. I practiced accepting until it became bearable. Then I practiced until it became normal, like brushing my teeth. Now..." She shrugged, the gesture containing decades of adjustment. "Now I am grateful. I see my great-grandchildren every day. I eat dinner with family. That is worth the price of asking for help."
 
 "You make it sound simple."
 
@@ -431,7 +431,7 @@ Abuela squeezed her hand. "None of us learn. We practice. Every day, we practice
 
 Elena laughed despite herself, a wet sound through the tears. "That's not how it works. My immune system is attacking my thyroid. It's not something I can negotiate with."
 
-"Everything is negotiation. With our bodies, with God, with life. You think I don't negotiate with this diabetes every day? What I can eat, how much I can walk, whether my feet will hurt more or less tomorrow? It is all negotiation."
+"Everything is negotiation. With our bodies, with God, with the life we are given. You think I don't negotiate with this diabetes every day? What I can eat, how much I can walk, whether my feet will hurt more or less tomorrow? It is all negotiation. Every day, new terms."
 
 "Even Jesus rested," Elena said. The phrase came from somewhere deep, catechism lessons or grandmother's sayings or both.
 
@@ -474,7 +474,7 @@ Sofia considered this with her characteristic seriousness. "Everyone needs help 
 
 "Then why is it so hard for grown-ups?"
 
-The question hung in the air, unanswerable in its simplicity. Why was it so hard? Why had Elena spent years slowly destroying herself rather than admit she needed support?
+The question hung in the air, unanswerable in its simplicity, the kind of question only children could ask because adults had forgotten how. Why was it so hard? Why had Elena spent years slowly destroying herself rather than admit she needed support?
 
 "Pride," Elena said finally. "And fear. And not wanting to be a burden."
 

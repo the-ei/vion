@@ -1,5 +1,3 @@
-# ~~~
-
 Kevin Zhou had been awake since four in the morning.
 
 He stood now in the center of the loft, checking the equipment for the seventh time, running diagnostics he had already run, performing the rituals of preparation that had always been his refuge from uncertainty. The interface array occupied the northern wall, six stations arranged in a gentle curve, each one a marvel of engineering that represented five years of his life. The neural sensors, the processing units, the display screens that would show what was happening in real time. All of it flawless. All of it ready.
@@ -78,7 +76,8 @@ He went to the door to let her in, his hand steady on the handle, his heart anyt
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The participants gathered over the next forty minutes, arriving singly and in pairs, filling the loft with the particular energy of people about to do something unprecedented. Kevin Zhou greeted each of them at the door, his social manner as stilted as it had always been, the gap between his technical fluency and his interpersonal awkwardness sharp but familiar.
 
@@ -153,7 +152,8 @@ Then he began to explain.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Kevin Zhou stood before the group and felt the familiar shift that happened when he talked about his work. The social awkwardness that plagued his ordinary interactions disappeared, replaced by something like clarity. He knew this material. He had lived inside it for years. The interface was the one thing in his life that he understood completely.
 
@@ -238,7 +238,8 @@ Only Kevin Zhou was not ready. But he pressed the button to begin anyway.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The interface activated with no fanfare. No dramatic sound, no flash of light, nothing to mark the transition. One moment Kevin Zhou was alone inside his own experience. The next moment, he was not.
 
@@ -348,7 +349,8 @@ And Yusuf was smiling. Not a big smile, just a small one, the smile of someone w
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The debrief lasted an hour and felt both essential and inadequate. Words, it turned out, were a poor substitute for what they had just experienced. They tried anyway.
 

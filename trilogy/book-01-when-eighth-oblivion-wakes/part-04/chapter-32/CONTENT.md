@@ -1,5 +1,3 @@
-# ~~~
-
 The phone rang at 7:42 in the morning, which was the first indication that something had shifted. Serious offers came through formal channels, scheduled calls with assistants clearing the calendar weeks in advance. Informal calls came late at night, when the whiskey had softened reservations and people said what they actually meant. But 7:42 on a Tuesday morning suggested something else entirely: urgency dressed as casualness, the pretense that this was just one professional reaching out to another, no big deal, happened to be thinking of you.
 
 Jerome recognized the number. Walter Simmons, deputy editor at the Tribune, the man who'd been in the room when Jerome left eight years ago, who'd said nothing at the time but sent a text afterward: "For what it's worth, I thought you were right."
@@ -94,7 +92,8 @@ His coffee had gone cold. The house remained quiet. Somewhere upstairs, DeShawn 
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 DeShawn appeared in the kitchen at three in the afternoon, which was early for winter break. He was wearing the oversized hoodie he'd claimed from Jerome's closet two years ago, the one with the Georgetown logo faded to illegibility, and he moved with the particular languor of a teenager who has decided that consciousness is a temporary concession to biology.
 
@@ -237,7 +236,8 @@ He didn't have an answer. But he knew he had to find one. And he knew that whate
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 They made dinner together, which was how it had always been in the years after the children were old enough to not require supervision. Jerome chopped vegetables while Denise stood at the stove, stirring the pot of soup she made every winter, the recipe inherited from her grandmother and modified over decades until it bore little resemblance to its origin except in intent. The kitchen filled with the smell of garlic and thyme, and for a while neither of them spoke about the things that needed speaking about.
 
@@ -373,7 +373,8 @@ She reached across the table, took his hand again. The soup was cooling, the kit
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The day of publication arrived with the kind of ordinary morning light that felt incongruous to its significance. Jerome had been up since four, running through the final checks: the verification of every claim, the placement of every document, the careful architecture of the story built over months now ready to enter the world. His office glowed with the light of multiple screens, each showing a different piece of what was about to become public.
 

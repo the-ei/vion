@@ -1,7 +1,5 @@
 # Chapter 27: The First Dominoes
 
-# ~~~
-
 Elena woke at 4:45, as she had every weekday morning for the past six years, her body's clock so perfectly calibrated to this hour that the alarm on her phone was merely confirmation, a formality she maintained out of some residual anxiety that one day the internal mechanism would fail. The bedroom was dark, the blackout curtains she had installed three years ago still doing their work against the Phoenix streetlights, and beside her Daniel breathed with the slow heavy rhythm of a man who had another hour of sleep before his own alarm would sound. She lay still for a moment, as she always did, feeling the warmth of the bed against her back, the particular weight of the comforter they had bought together at a department store whose name she could no longer remember, back when they were first married and believed that purchasing household items together was an act of profound significance.
 
 She rose without turning on the lamp, navigating by memory through the familiar darkness to the bathroom, where she closed the door before switching on the light. The face in the mirror was forty-three years old, the gray at her temples more pronounced than it had been a year ago, the lines around her eyes carved deeper than she wanted to acknowledge. She brushed her teeth, washed her face with the cold water she preferred to warm, and dressed in the scrubs she had laid out the night before, a habit she had developed in nursing school and never abandoned. Navy blue today, her favorite color, though she could not have said why.
@@ -56,7 +54,8 @@ She poured herself another cup of coffee from the break room pot and stood by th
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Mrs. Gutierrez was sitting in the waiting room when Elena came out to call her name, a small woman in her sixties with silver hair pulled back in a neat bun and the patient expression of someone who had spent a lifetime waiting in places like this. Elena escorted her to Exam Room 2, the one with the window that looked out on the parking lot, and went through the familiar routine of vital signs: blood pressure first, 138 over 82, slightly elevated but not alarmingly so; then pulse, 76, steady and strong; then temperature, 98.4, normal. Mrs. Gutierrez answered Elena's questions about her diet and exercise with the same gentle evasions she always used, admitting to "occasional" sweets that Elena suspected were more than occasional, describing walks around the block that may or may not have actually occurred.
 
@@ -168,7 +167,8 @@ Outside, the sky was bright now, the full blazing light of a March morning in Ph
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The waiting room filled.
 
@@ -280,7 +280,8 @@ She called the next name on the list and tried not to think about her phone, sil
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 By eleven o'clock, Dr. Okonkwo had given up trying to reach anyone at the hospital, the health department, or the regional emergency coordinator. She sat in her office with the door open, staring at a phone that connected to nothing, a computer that displayed nothing, a silence where the institutional support structure used to be.
 
@@ -394,8 +395,6 @@ Elena put the phone away and went back to work.
 
 # Chapter 28: The Silence Between
 
-# ~~~
-
 Jerome woke at six as he always did, his body calibrated to the rhythm of deadlines and morning news cycles, and reached for his phone before his eyes were fully open, the gesture so automatic it preceded thought. The screen lit at his touch, the familiar glow in the darkness of the bedroom, and he swiped to check the overnight notifications, the emails from editors, the breaking news alerts, the aggregated feeds that told him each morning what the world had done while he slept.
 
 Nothing loaded.
@@ -491,7 +490,8 @@ It was the question she always asked, the teacher's instinct to organize informa
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 By eight o'clock, Jerome had filled three pages of the legal pad. He wrote in the handwriting he had almost forgotten he possessed, the cursive script his mother had insisted he learn forty years ago, before keyboards made handwriting seem like an affectation of the elderly. He wrote what the radio said: outages reported. systems affected. the following areas. stay tuned for updates. He wrote what the radio didn't say: anything about cause, scope, duration, or meaning.
 
@@ -508,20 +508,20 @@ He had a legal pad and a battery-powered radio and his own observations, which w
 
 Jerome stared at his notes. He had organized them by category: RADIO REPORTS, OBSERVATIONS, TIMELINE, QUESTIONS. The QUESTIONS list was longest. What caused this? How widespread? How long will it last? Is this a cyberattack? Who is responsible? What do the authorities know?
 
-He realized he was writing questions because he could not write answers. He was performing the gestures of journalism without the substance. It was like a dancer going through movements with no music, no audience, no stage.
+He realized he was writing questions because he could not write answers. He was performing the gestures of journalism without the substance. It was like a dancer going through movements with no music, no audience, no stage, no floor beneath the feet.
 
 The radio continued to burble fragments. A station from Delaware that faded in and out. An announcer from Pennsylvania reading prepared emergency messages that clearly had not been prepared for this specific emergency. A religious station promising that God's plan would be revealed.
 
-He stood up and went to the window. The street below looked normal. Cars passed. A woman walked her dog. The morning proceeded, indifferent to the collapse of the information systems that Jerome had spent his career understanding. The gap between what he knew was happening and what he could see was disorienting, almost nauseating. The crisis was real but invisible. It existed in the silicon and fiber optics, in the server farms and routing tables, in a world that could not be photographed or touched.
+He stood up and went to the window. The street below looked normal. Cars passed. A woman walked her dog. The morning proceeded, indifferent to the collapse of the information systems that Jerome had spent his career understanding. The gap between what he knew was happening and what he could see was disorienting, almost nauseating. The crisis was real but invisible. It existed in the silicon and fiber optics, in the server farms and routing tables, in a world that could not be photographed or touched or smelled or tasted, a world of pure abstraction made suddenly, catastrophically concrete.
 
 He thought about his years of investigation. The sources who had warned him about systemic fragility. The engineers who had spoken off the record about single points of failure. The executives who had dismissed risks as theoretical. He had written articles and reports and op-eds. He had testified before a congressional subcommittee. He had appeared on panels and podcasts.
 
-None of it had mattered.
+None of it had mattered. Not one word.
 
 
 ---
 
-The systems had failed anyway. The fragility he had documented was manifesting exactly as he had predicted, and his predictions had done nothing to prevent it. The gap between knowing and acting, between journalism and change, had never felt wider or more painful.
+The systems had failed anyway. The fragility he had documented was manifesting exactly as he had predicted, and his predictions had done nothing to prevent it. The gap between knowing and acting, between journalism and change, between truth and consequence, had never felt wider or more painful.
 
 He sat back down and tried to write something that felt like journalism. He tried to compose a lead paragraph in his head, the way he had done a thousand times before.
 
@@ -529,7 +529,7 @@ He sat back down and tried to write something that felt like journalism. He trie
 
 But who would read it? How would he publish it? Even if he wrote the definitive account of this crisis, there was no way to transmit it to anyone. The channels were closed. The platforms were dark. The readers were as isolated as he was.
 
-He thought about shouting out the window. He thought about printing his notes and stapling them to telephone poles. He thought about walking door to door like a town crier, announcing the news to anyone who would listen. These thoughts felt absurd, the desperate fantasies of a man whose tools had been taken away.
+He thought about shouting out the window. He thought about printing his notes and stapling them to telephone poles. He thought about walking door to door like a town crier, announcing the news to anyone who would listen. These thoughts felt absurd, the desperate fantasies of a man whose tools had been taken away, who had forgotten that tools were not hands.
 
 The radio said something about hospitals. He wrote it down. The radio said something about the National Guard. He wrote that down too. The radio went to static, then music, then back to static. He adjusted the dial and found another voice, another fragment, another piece of a puzzle he could not solve.
 
@@ -544,7 +544,7 @@ Denise appeared in the doorway again, dressed now, her teacher's bag over her sh
 
 "Should you be sitting here taking notes about something you can't affect?"
 
-It was a sharper response than Denise usually offered, and Jerome felt it land. She was right. He was doing what he always did, retreating into the work that defined him, even when the work had become impossible.
+It was a sharper response than Denise usually offered, and Jerome felt it land like a slap. She was right. He was doing what he always did, retreating into the work that defined him, even when the work had become impossible.
 
 "I'll try DeShawn again while you're gone," he said.
 
@@ -558,7 +558,7 @@ The apartment felt larger without her. The radio crackled. The coffee grew cold 
 
 He tried to call DeShawn. The call connected, rang once, died. He tried again. The same result. He texted: "Checking in. Let us know you're okay when you can." The message showed SENDING for thirty seconds, then DELIVERED. But delivered to what? The networks were clearly damaged. DELIVERED might mean nothing.
 
-His son was somewhere in this broken system, working for a company that interfaced with the very infrastructure now failing. DeShawn, who had chosen technology over the analog values Jerome had tried to instill. DeShawn, who believed in the promise of the digital future Jerome had spent years questioning.
+His son was somewhere in this broken system, working for a company that interfaced with the very infrastructure now failing. DeShawn, who had chosen technology over the analog values Jerome had tried and failed to instill. DeShawn, who believed in the promise of the digital future Jerome had spent years questioning and DeShawn had spent years defending.
 
 Where was he now?
 
@@ -567,13 +567,13 @@ Where was he now?
 
 Jerome went to the window again and looked out at the unchanged street. A delivery truck passed, then another. The morning traffic was lighter than usual, perhaps, but not absent. People were still moving through the city, still going about their routines, still living as if this were an ordinary Tuesday in an ordinary world. Maybe they didn't know yet. Maybe they thought it was just their own phone, their own computer, a local outage that would be fixed by noon.
 
-He envied them. He envied the not-knowing, the possibility of believing this was temporary and minor. He knew too much to find comfort in ignorance. He had spent three years learning exactly how dependent modern life was on systems that had just failed, and that knowledge was not protection. It was only fear, sharper and more informed than the fear his neighbors might be feeling, but no more useful.
+He envied them, these neighbors he had barely spoken to in twenty years of hallway nods. He envied the not-knowing, the possibility of believing this was temporary and minor. He knew too much to find comfort in ignorance. He had spent three years learning exactly how dependent modern life was on systems that had just failed, and that knowledge was not protection. It was only fear, sharper and more informed than the fear his neighbors might be feeling, but no more useful.
 
 The radio found another station. A woman's voice, tired and professional, reading a prepared statement.
 
 "...authorities are asking residents to conserve water and electricity where possible. If you have elderly or medically vulnerable neighbors, please check on them. If you experience a medical emergency, go directly to your nearest hospital. Do not attempt to call 911 as the system is experiencing unprecedented congestion..."
 
-Jerome wrote it down. He wrote everything down, not because it would become journalism, but because the act of writing was the only thing keeping him from screaming into the silence his phone had become.
+Jerome wrote it down. He wrote everything down, not because it would become journalism, not because anyone would ever read it, but because the act of writing was the only thing keeping him from screaming into the silence his phone had become.
 
 The morning stretched on. The radio talked. Jerome listened and wrote and waited for something to make sense, and nothing did.
 
@@ -583,9 +583,10 @@ The morning stretched on. The radio talked. Jerome listened and wrote and waited
 
 
 
-# ~~~
 
-Denise returned at noon. She had not made it to the school; the traffic lights on 33rd Street were out, causing gridlock, and when she finally reached the building she found it locked, a paper sign on the door saying CLOSED UNTIL FURTHER NOTICE in hasty handwriting.
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
+
+Denise returned at noon, her face flushed from the heat outside. She had not made it to the school; the traffic lights on 33rd Street were out, causing gridlock that stretched for blocks, and when she finally reached the building she found it locked, a paper sign on the door saying CLOSED UNTIL FURTHER NOTICE in hasty handwriting, the letters uneven as if the hand that wrote them had been shaking.
 
 "Someone taped that up this morning," she said. "Handwritten. No one knows anything."
 
@@ -597,7 +598,7 @@ She moved through the apartment with purpose, opening cabinets, taking inventory
 
 "You think this is going to last that long?"
 
-"I think we don't know how long it's going to last. I think we should assume the worst and be grateful if it's better."
+"I think we don't know how long it's going to last, and that's the point. I think we should assume the worst and be grateful if it's better."
 
 She was right, of course. She was usually right about practical matters, the things that required action rather than analysis. Jerome had spent the morning trying to understand, and Denise was spending the afternoon preparing. They had always been this way, complementary in their approaches, and he had always admired her practicality even when it made him feel like a dreamer lost in abstractions.
 
@@ -618,7 +619,7 @@ Denise resumed her inventory, but her movements had slowed, become more delibera
 
 "I know."
 
-They both knew they were saying these things because they needed to say them, not because they believed them. DeShawn was twenty-six years old, a grown man, capable and intelligent. But he was also their son, the child they had raised and worried over and disagreed with and loved through every phase of his life. The distance between Baltimore and the Bay Area, where DeShawn worked, had never felt so vast.
+They both knew they were saying these things because they needed to say them, because the alternative was to say nothing and let the fear take shape in the silence between them. DeShawn was twenty-six years old, a grown man, capable and intelligent. But he was also their son, the child they had raised and worried over and disagreed with and loved through every phase of his life. The distance between Baltimore and the Bay Area, where DeShawn worked, had never felt so vast, so uncrossable, so much like an ocean that could not be navigated.
 
 "Mrs. Patterson," Denise said, shifting topics. "Have you checked on her?"
 
@@ -651,7 +652,7 @@ She was quiet for a moment, organizing cans in the pantry, her back to him.
 
 "Nothing was going to prevent this. You said so yourself. The systems were too fragile, too interconnected, too dependent on things that couldn't be protected. You told the truth about that. Whether anyone acted on it wasn't up to you."
 
-It was the absolution he needed, and he resented needing it. He had always believed that journalism could change things, that informing the public was the first step toward reform, that light and truth would lead to action. And maybe it had, sometimes, in small ways. But here, now, with the systems failing exactly as he had predicted, the light and truth felt like nothing more than a record of a disaster no one had bothered to avert.
+It was the absolution he needed, and he resented needing it, resented her for giving it, resented himself for accepting it. He had always believed that journalism could change things, that informing the public was the first step toward reform, that light and truth would lead to action. And maybe it had, sometimes, in small ways, in cases no one remembered, in reforms that came too late. But here, now, with the systems failing exactly as he had predicted, the light and truth felt like nothing more than a record of a disaster no one had bothered to avert, a chronicle of a collapse no one had bothered to prevent.
 
 "Go see Mrs. Patterson," Denise said. "Help someone. It'll be good for you."
 
@@ -678,7 +679,7 @@ The door was ajar, propped open with a book, a thick hardcover that looked like 
 
 "I don't know. Travel might be affected."
 
-Mrs. Patterson nodded, unsurprised. She had lived through enough to know that uncertainty was the natural state of the world, that plans were always provisional, that the future was never guaranteed.
+Mrs. Patterson nodded, unsurprised. She had lived through enough to know that uncertainty was the natural state of the world, that plans were always provisional, that the future was never guaranteed, only borrowed.
 
 "Would you like some tea?" she asked. "The stove still works. Gas, you know. Old-fashioned."
 
@@ -688,17 +689,18 @@ Mrs. Patterson nodded, unsurprised. She had lived through enough to know that un
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Back in his apartment, Jerome sat with the phone in his hand and thought about his son.
 
 DeShawn had been ten years old when Jerome wrote his first major piece on digital privacy, an investigation into data brokers that had won recognition but changed little. DeShawn had been proud of his father then, in the uncomplicated way children are proud before they learn to evaluate and judge. He had brought a printed copy of the article to school for show-and-tell. He had told his classmates that his dad was a famous journalist who protected people from bad guys with computers.
 
-That was the last time DeShawn had seen journalism as heroic. By the time he was fifteen, he had his own ideas about technology, ideas that diverged sharply from his father's warnings and skepticism. He saw potential where Jerome saw risk. He saw innovation where Jerome saw fragility. They argued at the dinner table, in the car, during awkward holiday gatherings where Denise tried to steer the conversation toward neutral ground.
+That was the last time DeShawn had seen journalism as heroic, the last time he had looked at his father's work with uncomplicated pride. By the time he was fifteen, he had his own ideas about technology, ideas that diverged sharply from his father's warnings and skepticism. He saw potential where Jerome saw risk. He saw innovation where Jerome saw fragility. He saw the future where Jerome saw only the past's shadow. They argued at the dinner table, in the car, during awkward holiday gatherings where Denise tried to steer the conversation toward neutral ground.
 
 And then DeShawn had taken the job. A startup in the Bay Area, one of Kevin Zhou's ventures, a company that did something with distributed systems and predictive infrastructure management. The details were vague because DeShawn had stopped trying to explain and Jerome had stopped trying to understand. The salary was good, the work was exciting, the future was bright.
 
-Jerome had written about Kevin Zhou twice. Both pieces had been critical. Both pieces had been accurate. And both pieces had meant that his son now worked for someone Jerome had publicly called a danger to democratic society.
+Jerome had written about Kevin Zhou twice. Both pieces had been critical. Both pieces had been accurate. Both pieces had been ignored by the people with power to change anything. And both pieces had meant that his son now worked for someone Jerome had publicly called a danger to democratic society.
 
 
 ---
@@ -707,7 +709,7 @@ He tried calling again. The phone rang once, a thin distant sound, then silence.
 
 He tried texting. "Son, please let us know you're okay. We're worried. Love, Dad."
 
-SENDING. The word sat there for a full minute before changing to DELIVERED. But delivered where? To what server, in what state of function or failure? The word meant nothing now. It was a leftover from a world where systems could be trusted to do what they claimed.
+SENDING. The word sat there for a full minute, patient as a held breath, before changing to DELIVERED. But delivered where? To what server, in what state of function or failure? The word meant nothing now. It was a leftover from a world where systems could be trusted to do what they claimed, where promises were kept by machines.
 
 Jerome thought about what DeShawn might be experiencing. If the infrastructure was failing nationally, then his company, the one that managed and monitored and predicted infrastructure behavior, would be in the center of it. They might be working around the clock to restore systems. They might be scrambling to understand what had happened. They might be discovering that their own products had contributed to the failure, that the optimization and automation they sold had created new vulnerabilities no one had anticipated.
 
@@ -715,7 +717,7 @@ Or DeShawn might be fine. He might be in his apartment in Oakland, wondering why
 
 Jerome didn't know. He couldn't know. The silence between them was absolute.
 
-He remembered teaching DeShawn to ride a bicycle, the way the boy had fallen and gotten up, fallen and gotten up, refusing to quit until he could circle the block without wobbling. He remembered driving DeShawn to college, the twelve hours of highway and awkward silence, the hug in the dormitory parking lot that had lasted longer than either of them expected.
+He remembered teaching DeShawn to ride a bicycle, the way the boy had fallen and gotten up, fallen and gotten up, his knees bloody and his face determined, refusing to quit until he could circle the block without wobbling. He remembered driving DeShawn to college, the twelve hours of highway and awkward silence, the hug in the dormitory parking lot that had lasted longer than either of them expected, that had said everything words could not.
 
 
 ---
@@ -724,7 +726,7 @@ He remembered the argument at Thanksgiving two years ago, the one that had almos
 
 "I'm not tearing anything down. I'm warning people about—"
 
-"Warning them about the future. About technology. About the world that people like me are trying to make better. You're so afraid of change that you can't see anything good in it."
+"Warning them about the future. About technology. About the world that people like me are actually trying to make better while you sit on the sidelines and criticize. You're so afraid of change that you can't see anything good in it."
 
 "I'm not afraid of change. I'm afraid of power without accountability. I'm afraid of systems that—"
 
@@ -732,18 +734,18 @@ He remembered the argument at Thanksgiving two years ago, the one that had almos
 
 Denise had intervened then, had steered the conversation elsewhere, had smoothed over the rift with dessert and coffee and small talk about neighbors and weather. But the argument had never really ended. It had just gone underground, shaping every interaction they had since, every phone call that was slightly too short, every visit that felt slightly too careful.
 
-Now Jerome sat with his silent phone and wondered if that argument would be the last real conversation he ever had with his son. The thought was unbearable. He pushed it away. DeShawn was fine. DeShawn was a grown man who could take care of himself. The networks were down, not the world.
+Now Jerome sat with his silent phone and wondered if that argument would be the last real conversation he ever had with his son. The thought was unbearable, so unbearable that he could hold it only for seconds before his mind flinched away from it. He pushed it away. DeShawn was fine. DeShawn was a grown man who could take care of himself. The networks were down, not the world. The networks were down, not the world. He repeated it like a prayer he didn't believe.
 
 
 ---
 
-But the networks were the world now. That was the whole point. That was what Jerome had been trying to say for years, what DeShawn had never been willing to hear. The infrastructure was not separate from life. It was life. It was how people communicated, worked, bought food, received medical care, navigated from place to place. It was the nervous system of civilization, and when it failed, everything failed with it.
+But the networks were the world now. That was the whole point, the thing Jerome had been trying to say for years, the truth DeShawn had never been willing to hear because hearing it would have meant questioning everything he'd chosen. The infrastructure was not separate from life. It was life. It was how people communicated, worked, bought food, received medical care, navigated from place to place. It was the nervous system of civilization, and when it failed, everything failed with it.
 
 And DeShawn was inside that failure, somewhere three thousand miles away, unreachable and unknown.
 
 Jerome put the phone down and walked to the window. The afternoon light was golden now, the March sun slanting through the bare trees. Baltimore looked peaceful from here, looked ordinary, looked like a city where nothing was wrong. But he knew better. He knew that behind every window, people were trying and failing to connect to each other, trying and failing to understand what was happening, trying and failing to reach the people they loved.
 
-He thought about calling DeShawn again. He thought about trying different numbers, his work line, his girlfriend's phone, the main number for the company. But he didn't have those numbers memorized. They were saved in his contacts, which were synced to a cloud that no longer responded. The convenience that was supposed to make his life easier had made him dependent on systems he couldn't control.
+He thought about calling DeShawn again. He thought about trying different numbers, his work line, his girlfriend's phone, the main number for the company. But he didn't have those numbers memorized. They were saved in his contacts, which were synced to a cloud that no longer responded. The convenience that was supposed to make his life easier had made him dependent on systems he couldn't control, systems that had now, without warning, stopped controlling anything at all.
 
 "Jerome?" Denise was in the doorway. "You've been staring out that window for twenty minutes. Come have some lunch."
 
@@ -757,11 +759,12 @@ He thought about calling DeShawn again. He thought about trying different number
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 At four o'clock, Jerome went back upstairs to check on Mrs. Patterson. The tea she had offered earlier had been surprisingly good, a loose-leaf blend her late husband used to buy from a shop that had closed years ago. She had talked about Gerald Patterson for an hour, about his job at the steel plant before it closed, about the garden he used to keep on the roof of the building, about the way he would sit by this same window in the evenings and watch the city settle into darkness.
 
-Jerome had listened. He had not taken notes. He had not thought about how to structure the story or what angle would make it newsworthy. He had simply sat with an old woman who was afraid and alone, and he had let her talk about the man she had loved for fifty-three years.
+Jerome had listened. He had not taken notes. He had not thought about how to structure the story or what angle would make it newsworthy or which publication might be interested. He had simply sat with an old woman who was afraid and alone, and he had let her talk about the man she had loved for fifty-three years, and for the first time all day, he had felt like a human being instead of a malfunctioning machine.
 
 Now he was back, carrying a plate of the sandwiches Denise had made, and Mrs. Patterson's face lit up when she saw him.
 
@@ -773,7 +776,7 @@ Now he was back, carrying a plate of the sandwiches Denise had made, and Mrs. Pa
 
 "I know."
 
-He sat down in the chair across from her, the same chair he had occupied that morning. The oxygen concentrator hummed its steady hum. The apartment was small and crowded with decades of accumulated life: photographs on every surface, shelves of books and figurines, a clock on the wall that ticked with an old-fashioned mechanical sound.
+He sat down in the chair across from her, the same chair he had occupied that morning. The oxygen concentrator hummed its steady hum. The apartment was small and crowded with decades of accumulated life: photographs on every surface, shelves of books and porcelain figurines, a clock on the wall that ticked with an old-fashioned mechanical sound, marking time the way time had always been marked, indifferent to the digital catastrophe outside.
 
 "Have you heard anything more?" Mrs. Patterson asked. "On the radio?"
 
@@ -786,7 +789,7 @@ He sat down in the chair across from her, the same chair he had occupied that mo
 
 "He was probably right."
 
-"He was right about most things. Didn't stop me from arguing with him." She smiled, the expression transforming her face, taking years from it. "Fifty-three years of arguing. Best years of my life."
+"He was right about most things. Didn't stop me from arguing with him." She smiled, the expression transforming her face, taking decades from it, showing the young woman she had been beneath the old woman she had become. "Fifty-three years of arguing. Best years of my life."
 
 Jerome thought about his own marriage, the thirty years of partnership and negotiation and occasional sharp words that had made him who he was. He thought about Denise downstairs, taking inventory, preparing for an emergency she couldn't predict, doing the practical work while he sat upstairs listening to an old woman's stories.
 
@@ -794,7 +797,7 @@ Jerome thought about his own marriage, the thirty years of partnership and negot
 
 She pointed to the closet by the bedroom door. "In there. Gerald set up a whole system. Three tanks, color-coded. Green is full, yellow is partial, red is empty. He made labels."
 
-Jerome opened the closet and found the tanks, neatly arranged on a small rack. Two green, one yellow. He checked the regulator on the first green tank, the connections and gauges. It looked functional, but he had no idea what he was doing.
+Jerome opened the closet and found the tanks, neatly arranged on a small rack. Two green, one yellow. Gerald's system, still working, still ready, still holding the breath his wife needed to survive. He checked the regulator on the first green tank, the connections and gauges. It looked functional, but he had no idea what he was doing.
 
 "I can't remember how to switch from the machine to the tank," Mrs. Patterson said. "My granddaughter showed me, but it was months ago."
 
@@ -803,7 +806,7 @@ Jerome opened the closet and found the tanks, neatly arranged on a small rack. T
 
 ---
 
-She looked at him with an expression he couldn't quite read. Gratitude, maybe. Or something deeper, some recognition of the connection that forms when strangers choose to take care of each other.
+She looked at him with an expression he couldn't quite read. Gratitude, maybe. Or something deeper, some recognition of the connection that forms between strangers when the world forces them to stop being strangers, when the systems that keep people apart stop functioning and leave only the humans behind.
 
 "You're a good neighbor, Jerome. I always thought so. Even when you were too busy to talk in the hallway, I could tell."
 
@@ -817,12 +820,12 @@ He sat back down, and for a while they didn't talk. The concentrator hummed. The
 
 Jerome thought about his legal pad downstairs, the notes that would never become an article. He thought about the career he had built, the awards and the recognition and the sense that he was doing something meaningful, something that mattered. He thought about how quickly all of that had become irrelevant. The systems he had spent three years investigating were failing, and he was sitting in an old woman's apartment, making promises about oxygen tanks.
 
-It should have felt like a comedown. A journalist who had won a Pulitzer, reduced to checking on neighbors and carrying sandwiches. But it didn't feel that way. It felt, for the first time since the morning, like something he could actually do.
+It should have felt like a comedown, a diminishment, a surrender. A journalist who had won a Pulitzer, reduced to checking on neighbors and carrying sandwiches, learning how oxygen tanks worked. But it didn't feel that way. It felt, for the first time since the morning, like something he could actually do, like something that might actually matter to someone, somewhere, today.
 
 
 ---
 
-By evening, the radio had begun to repeat itself. The same announcements, the same fragments, the same unhelpful advice. Jerome sat in his own apartment, the legal pad on the table in front of him, and made a decision.
+By evening, the radio had begun to repeat itself, the loop of uncertainty tightening. The same announcements, the same fragments, the same unhelpful advice, as if the announcers had run out of new ways to say they didn't know anything. Jerome sat in his own apartment, the legal pad on the table in front of him, and made a decision.
 
 He picked up the pad, flipped to a fresh page, and wrote: THINGS I CAN DO.
 
@@ -838,7 +841,7 @@ Denise looked up from the couch, where she was reading by the last of the daylig
 
 "Giving up on the story?"
 
-"There is no story. Or there's nothing but story, with no way to tell it. Either way, I can't do anything about it. But I can help Mrs. Patterson. I can help you. I can be here instead of trying to be everywhere."
+"There is no story. Or there's nothing but story, with no way to tell it. Either way, I can't do anything about it." He paused, letting the truth of it settle. "But I can help Mrs. Patterson. I can help you. I can be here instead of trying to be everywhere."
 
 She put down her book and looked at him with something that might have been relief.
 
@@ -848,7 +851,7 @@ She put down her book and looked at him with something that might have been reli
 
 "For choosing. For being present."
 
-The darkness was coming now, the March evening settling over Baltimore. Jerome sat next to his wife on the couch and listened to the quiet of a city that had stopped talking to itself.
+The darkness was coming now, the March evening settling over Baltimore like a hand pressing down. Jerome sat next to his wife on the couch and listened to the quiet of a city that had stopped talking to itself, a city that had fallen silent for the first time in living memory, a city that was, perhaps, learning to listen again.
 
 
 ---
@@ -860,8 +863,6 @@ The darkness was coming now, the March evening settling over Baltimore. Jerome s
 
 
 # Chapter 29: Among the First Affected
-
-# ~~~
 
 Seventeen percent.
 
@@ -941,7 +942,8 @@ The wind blew. The scooter's wheels clicked against the pavement. Somewhere in t
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The hands were what he remembered most. His father's hands, rough from years of work at the warehouse, callused and cracked and always warm when they held Yusuf's smaller hands on the walk to school. Those hands had lifted boxes for a decade, had moved pallets and inventory and the endless material flow of American commerce, had come home each night smelling of cardboard and machine oil and exhaustion.
 
@@ -996,7 +998,8 @@ He left the scooter at a bike rack outside a coffee shop that was dark and close
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The truck pulled over three blocks later, an old pickup with rust spots on its fenders and a hand-lettered sign in the back window that said PETERSON PLUMBING.
 
@@ -1112,7 +1115,8 @@ He stepped into the apartment, into the familiar smell of spices and laundry and
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Amina had walked three miles from her school to the apartment. The buses had stopped running around eleven, she said, and the school had gone into lockdown, and then someone had decided that keeping hundreds of teenagers trapped in a building with no way to contact their families was worse than letting them go. They had released students by neighborhood, in groups, with instructions to walk together and stay safe.
 
@@ -1203,7 +1207,8 @@ Five days. Maybe six. The countdown had begun.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The church was called Hope Lutheran, though the sign out front had lost several letters and now read only HOPE UT ERAN. It had become, in the day and a half since the systems failed, a kind of unofficial community center, a place where people gathered to share information and resources in the absence of any other coordination.
 
@@ -1271,8 +1276,6 @@ Yusuf thought about his mother, about the five days of medication, about the hos
 
 
 # Chapter 30: The Stories We Tell
-
-# ~~~
 
 The timer on the wall showed 44:37 and counting down. Forty-four minutes and thirty-seven seconds until the satellite window closed, until their link to whatever audience remained went dark again, until they were just another building full of people with generators and nothing to say to the world.
 
@@ -1359,7 +1362,8 @@ She thought about Theo, four years old, asking about his iPad. She thought about
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The whiteboard in the conference room was covered with narrative fragments, handwritten in different colors, organized into rough categories that Delphine had created that morning while trying to make sense of what the world was telling itself.
 
@@ -1449,7 +1453,8 @@ And for the first time in her career, she wasn't sure she could trust herself to
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The house in Silverlake still had power. The grid was holding in this part of the city, some quirk of infrastructure that no one could explain, and when Delphine walked through the front door at eight that evening, the lights were on and the refrigerator was humming and the illusion of normalcy was almost painful.
 
@@ -1548,7 +1553,8 @@ Jessie looked at Delphine, the question still in her eyes, the answer not yet ag
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Lawrence had a vision. He had spent the night in the office, Delphine learned when she arrived Saturday morning, and the time had not been wasted. On the wall behind his desk, he had assembled a presentation: graphics, bullet points, a whole branding package for the crisis they were living through.
 
@@ -1633,7 +1639,8 @@ He left her alone in the conference room, with the graphics on the wall and the 
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The broadcast she wrote was not what Lawrence wanted. It was not dramatic. It was not branded. It was not the kind of content that would build an audience or establish dominance or make their company the voice of the crisis.
 
@@ -1761,8 +1768,6 @@ She watched until she couldn't see them anymore. Then she went inside to prepare
 
 # Chapter 31: Triage
 
-# ~~~
-
 The list was written on the back of a pharmaceutical pamphlet, the kind that used to arrive by the boxful, glossy paper extolling the virtues of medications Elena could no longer obtain. She had torn off the cover image - a smiling woman holding her grandchild, presumably free of joint pain - and turned to the blank reverse side. There, in her own handwriting, which had grown smaller and more precise over the past week as if compressing each letter might somehow conserve the ink, she had written the names.
 
 Thirty-seven names. Thirty-seven people whose continued existence depended on substances that were running out or already gone.
@@ -1841,7 +1846,8 @@ If there was anything left to return to.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 She was changing the dressing on a child's infected scrape - a boy, maybe eight, who had fallen from a tree while his mother was distracted by something more urgent - when she looked up and saw him in the doorway.
 
@@ -1917,7 +1923,8 @@ He did not answer. But he squeezed her hand once, tight, and that was enough.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 By noon, Maria Gutierrez had stopped being able to keep water down.
 
@@ -2023,7 +2030,8 @@ Something was hardening inside her. Something cold and clear. She did not know y
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The man's name was Jerome Wallace, and he had walked eight miles to deliver the news.
 
@@ -2106,7 +2114,8 @@ They were stealing. She knew that. But the word had lost its meaning somewhere i
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 They returned to the clinic at ten.
 
@@ -2224,8 +2233,6 @@ Something that would not forget.
 
 # Chapter 32: The Dark Before
 
-# ~~~
-
 The community center had been a recreation hall before the crisis - basketball court, afterschool programs, weekend bingo for the elderly. Now it was the information hub of West Baltimore, the place where news aggregated from sources that Jerome Washington would never have considered journalism before two weeks ago.
 
 He sat in a folding chair in the corner, legal pad on his knee, watching the room operate. Ham radio operators had set up three stations along the far wall, their equipment powered by a generator that coughed and sputtered but kept running. A bulletin board near the entrance displayed handwritten notices: who was looking for whom, what supplies were available where, which roads were passable and which were blocked. A woman named Ruth had appointed herself information coordinator, sorting through the reports and creating daily summaries that people photographed with whatever cameras still had battery life.
@@ -2297,7 +2304,8 @@ She walked away, back to her clipboard and her bulletins. Jerome looked at his l
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The report from Europe came through at 11:23 AM, relayed through a chain of ham operators across the Atlantic. Jerome wrote down the timestamp; he had become precise about timestamps, as if the exact moment when information arrived might somehow prove significant.
 
@@ -2408,7 +2416,8 @@ But he kept writing anyway.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The name emerged just after two o'clock, in a report from someone who had been in San Francisco when the crisis began.
 
@@ -2522,7 +2531,8 @@ He could not write. He could not even think clearly. All he could do was sit aga
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 He left the hub around five. He told Ruth he was going home. He started walking in what he believed was the right direction.
 
@@ -2607,7 +2617,8 @@ He sat in the dark and waited for something he could not name.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 He did not hear her approach. He did not see the flashlight beam sweeping the street, did not notice the footsteps that paused and then quickened. He was somewhere deep inside himself, lost in the loop, when her hands touched his face.
 
@@ -2704,8 +2715,6 @@ The darkness was not lifted. But it was shared.
 
 # Chapter 33: What Remains
 
-# ~~~
-
 Twelve breaths per minute. Yusuf counted them in the dim gray of early morning, his mother's chest rising and falling beneath the thin blanket. The rhythm was slower than it should have been. Yesterday it had been fourteen, the day before fifteen. He was watching her body forget how to breathe.
 
 He sat in the chair they had pulled close to her bed, his elbows on his knees, his hands loose between them. He had been here for three hours, since Amina finally fell asleep on the couch in the other room. The apartment was silent except for Habiba's breathing and the occasional creak of the building settling around them.
@@ -2791,7 +2800,8 @@ He made breakfast anyway. It was the only thing he could do.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Nathaniel arrived at eight, carrying a backpack and a piece of paper folded into a careful square. He looked different from when Yusuf had first found him - less polished, more worn, his expensive outdoor jacket dirty and his beard growing in patchy and uneven.
 
@@ -2925,7 +2935,8 @@ She was right. He hated that she was right.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Yusuf stepped outside to think. The March air was cold, not quite freezing but carrying the edge of winter that Minneapolis couldn't seem to shake even as spring approached. He sat on the concrete steps of their building, the same steps where he had sat a thousand times before, and tried to make his mind work.
 
@@ -3000,7 +3011,8 @@ He knew what his father would want him to do.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 He found Amina in their mother's room, sitting in the same chair where he had spent the morning. Habiba was asleep, her breathing still slow, still steady, still wrong. Amina looked up when he entered.
 
@@ -3113,7 +3125,8 @@ Then he walked to the door, where Nathaniel was waiting.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Yusuf did not look back.
 
@@ -3221,8 +3234,6 @@ He always came back for family.
 
 # Chapter 34: Unexpected Light
 
-# ~~~
-
 The generator coughed twice and died.
 
 Elena stood in the clinic's hallway, one hand on the wall, waiting for the familiar hum to resume. It didn't. The silence spread outward from the machine room, filling the building like water, drowning the sounds she had stopped noticing: the refrigeration unit for the medications, the exhaust fan in the bathroom, the subtle vibration that meant the systems were still working.
@@ -3316,7 +3327,8 @@ Now they did. And something was forming from that dependence.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The soup was bean and vegetable, seasoned with something Mrs. Williams called "emergency spices" - the collection of half-used bottles she had cleaned out of her cabinet when the crisis began, reasoning that if food was going to be uncertain, it might as well taste good.
 
@@ -3428,7 +3440,8 @@ Both were true.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The network had rules. Unwritten rules, evolved over twelve days of necessity, but rules nonetheless.
 
@@ -3546,7 +3559,8 @@ It wasn't enough. But it was something. And something was more than she had expe
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Near midnight, someone brought out a radio.
 
@@ -3651,7 +3665,8 @@ She didn't know if it was true. But she wanted it to be.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Elena walked to the edge of the parking lot, away from the dying fire. The night was cool, the stars visible in a way they never were when the city lights were on. She stood alone for a moment, her arms crossed, looking at nothing in particular.
 
@@ -3735,8 +3750,6 @@ Her work was just beginning.
 
 
 # Chapter 35: The Return
-
-# ~~~
 
 The convoy appeared on the main road just after ten in the morning: three military trucks painted in olive drab, followed by two white vans marked with the logo of the Federal Emergency Management Agency. Elena stood in the clinic's doorway and watched them approach, the rumble of diesel engines breaking the quiet that had settled over the neighborhood.
 
@@ -3835,7 +3848,8 @@ The break was ending. Something else was beginning.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The apartment door was unlocked. Yusuf turned the handle and stepped inside, and the first thing he saw was Amina asleep in the chair beside their mother's bed.
 
@@ -3961,7 +3975,8 @@ But his mother was alive, and his sister was safe, and they were together. For n
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The knock came at three in the afternoon.
 
@@ -4073,7 +4088,8 @@ DeShawn squeezed his hand once, tight, and did not let go.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The car pulled into the driveway just after four in the afternoon.
 
@@ -4162,7 +4178,8 @@ The crisis was over. Her work was just beginning.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 A mother in Phoenix:
 

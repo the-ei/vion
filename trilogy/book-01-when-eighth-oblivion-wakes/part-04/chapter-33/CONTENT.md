@@ -1,5 +1,3 @@
-# ~~~
-
 The phone woke her at 5:47 AM.
 
 She thought, in that first confused moment, that it was the clinic—an emergency, a patient, the familiar weight of being needed. But the notifications kept coming, a cascade that made the phone vibrate continuously on the nightstand, the buzz blending into a single sustained tone.
@@ -165,7 +163,8 @@ The conversation had begun. The consequences were arriving. And Elena, sitting i
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The kitchen table had held many conversations over the years. Elena remembered the first time she and Daniel had sat at this table in this house, the realtor's key still in her hand, talking about whether they could afford the mortgage and whether the neighborhood was safe and whether their imagined children would be happy here. She remembered the conversation when she was pregnant with Sofia, the joy shot through with terror, the future suddenly requiring a vocabulary she hadn't known she needed. And the conversation when her father died, four years ago, the call coming at dawn, Daniel holding her hand across this same table while she tried to understand what it meant that he was gone.
 
@@ -296,7 +295,8 @@ The decision was made. The family understood. Tomorrow, she would return to the 
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The next morning, Elena returned to the clinic.
 
@@ -416,7 +416,8 @@ The house waited, lights on, family inside. Elena got out of the car and went ho
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The children were already in bed when Elena finished her conversation with Yusuf Hassan. She sat on the couch, phone in hand, the weight of what he'd said still pressing on her chest. Daniel sat beside her, close enough to touch but not touching, giving her the space to process.
 

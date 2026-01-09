@@ -1,5 +1,3 @@
-# ~~~
-
 The story went live at 6 PM Eastern.
 
 Jerome sat in his home office, refreshing the page, watching the numbers climb. Shares. Comments. Reactions. The machinery of the attention economy ingesting his work, transforming it into something that moved.
@@ -124,7 +122,8 @@ Write.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Ananya watched.
 
@@ -270,7 +269,8 @@ But she was always listening for it.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The essay went live at noon Eastern, six hours after Jerome's story.
 
@@ -414,7 +414,8 @@ That was worth something too.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Yusuf heard about the story the way everyone heard about things now—fragments on his phone, overheard conversations, the ambient noise of information that was everywhere and nowhere at once.
 

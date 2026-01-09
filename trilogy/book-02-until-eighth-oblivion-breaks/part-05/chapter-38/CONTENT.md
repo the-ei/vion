@@ -1,5 +1,3 @@
-# ~~~
-
 The keycard still worked. Kevin held it against the sensor and the door clicked open and he walked into the space that had been his home for five years, the place where he had spent more waking hours than anywhere else, the center of everything he had believed himself to be building.
 
 The lights were off. He found the switch and the overheads flickered on, one by one, illuminating an emptiness that seemed larger than the room's actual dimensions. Half the desks were cleared. The servers were gone, requisitioned for the emergency deployment that had transformed his company from what it was into what the government needed it to be. Where there had been thirty-two workstations there were now seventeen, and of those seventeen, only three showed any signs of recent use.
@@ -80,7 +78,8 @@ Eventually he turned off the lights and left. The keycard still worked on the wa
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The documentation arrived in his inbox the next morning, forwarded by someone whose name he did not recognize, subject line: DEPLOYMENT SUMMARY - CLASSIFIED - CLEARED FOR ORIGINATOR. He opened it at his kitchen table with coffee going cold beside him, the morning light pale and unconvincing through the apartment's windows.
 
@@ -145,7 +144,8 @@ He sat in the cold light of his kitchen and felt the weight of what he had made 
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 He lay in bed that night with his phone glowing in the darkness, the screen showing the message thread with Yusuf Hassan. Seven messages sent. Zero replies.
 
@@ -212,7 +212,8 @@ He did not sleep for a long time.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The call came in the morning, when Kevin was sitting at his kitchen counter with his third cup of coffee, staring at nothing. The name on the screen made him pause: Ananya Ramaswamy. They had served on the same industry ethics board for two years. They had disagreed about nearly everything. He had not spoken to her since before the crisis.
 
@@ -299,7 +300,8 @@ He was not ready to decide. But he was ready to consider deciding, which was fur
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 That night Kevin sat at his desk and tried to code. The laptop was open, the development environment loaded, the familiar interface that had been his primary mode of thought for fifteen years waiting for him to type something. He had always been able to code. Coding had been his refuge, his meditation, the place where the chaos of human interaction simplified into clean logic. When everything else failed, he could open an editor and make something, and the making would quiet his mind.
 

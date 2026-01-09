@@ -25,13 +25,13 @@ Of course that's what Raj noticed. Of course.
 
 "Mostly that it's cool. Like, AI that makes itself smarter? That's science fiction stuff. Some people are freaked out, but mostly it's just cool."
 
-Cool. The word landed in Ananya's chest like something small and sharp. Her daughter's generation had grown up with AI assistants in their pockets, with algorithms shaping their feeds, with the assumption that technology was simply the water they swam in. Of course ATLAS-7 was cool. It was the next wave, and they were surfers.
+Cool. The word landed in Ananya's chest like something small and sharp, a splinter of generational difference she could feel but not extract. Her daughter's generation had grown up with AI assistants in their pockets, with algorithms shaping their feeds, with the assumption that technology was simply the water they swam in. Of course ATLAS-7 was cool. It was the next wave, and they were surfers.
 
 "You're not freaked out?" Ananya asked.
 
 Priya shrugged, still looking at her homework. "Should I be? You're the ethics person. If it wasn't safe, you wouldn't have let them launch it, right?"
 
-The question hung in the air of Ananya's expensive apartment, mixing with the wine on her tongue and the weight of everything she hadn't said.
+The question hung in the air of Ananya's expensive apartment, mixing with the wine on her tongue and the weight of everything she hadn't said, couldn't say, had been carefully not saying for years.
 
 "Right," she heard herself answer. "Of course."
 
@@ -50,7 +50,7 @@ Priya looked up at the screen, and for a moment, Ananya saw her daughter really 
 
 "It's not like that. It's just—" She hesitated, and when she looked up again, her expression was more serious than Ananya had expected. "My teacher was saying that most technology moves too fast for laws to keep up. And that companies basically regulate themselves because the government can't. Is that true?"
 
-It was the question Ananya had spent eight years trying to answer, or trying to prove wrong, or trying to work around. The question that had brought her to Prometheus in the first place, believing she could be the internal check that external forces couldn't provide.
+It was the question Ananya had spent eight years trying to answer, or trying to prove wrong, or trying to work around—the question that kept her awake some nights and that she had learned to ignore on others. The question that had brought her to Prometheus in the first place, believing she could be the internal check that external forces couldn't provide.
 
 "It's complicated," she said.
 
@@ -91,18 +91,18 @@ Priya seemed to sense the complexity without understanding it. "Okay," she said,
 
 "Love you too."
 
-The call ended. Ananya sat in the silence of her apartment, the wine growing warm in her hand, her daughter's question echoing in the empty space.
+The call ended. The screen went dark. Ananya sat in the silence of her apartment, the wine growing warm in her hand, her daughter's question echoing in the empty space like something thrown into a well, waiting for the sound of it hitting bottom.
 
 Did you make it safe?
 
-No. She hadn't. And she couldn't say that to anyone, not even herself.
+No. She hadn't. And she couldn't say that to anyone, not yet, perhaps not ever—not even to herself, in the dark, alone, where no one would hear.
 
 
 ---
 
 She didn't turn on any more lights. The city provided enough illumination through the floor-to-ceiling windows, the distant glow of a million lives being lived below her, each one unaware of what had been announced today, or aware and not yet understanding what it meant. She finished the wine without tasting it and sat very still in the growing dark.
 
-Priya's question had opened something. A door she had been keeping carefully closed, the one behind which lived all the things she had chosen not to examine too closely. The first compromise and the second and the third. The meetings where she had raised objections and been overruled. The times she had told herself that staying was more effective than leaving, that influence required position, that change came slowly from within.
+Priya's question had opened something. A door she had been keeping carefully closed for years, the one behind which lived all the things she had chosen not to examine too closely, the accumulated weight of compromises stacked like boxes in a room she never entered. The first compromise and the second and the third. The meetings where she had raised objections and been overruled. The times she had told herself that staying was more effective than leaving, that influence required position, that change came slowly from within.
 
 But what had changed? In eight years at Prometheus, what had she actually accomplished? Better language in some documents. A few features delayed by a few weeks. A framework that looked impressive and meant nothing. And now ATLAS-7 was loose in the world, improving itself beyond anyone's ability to control, and all her ethics work had been a prologue to this.
 
@@ -110,7 +110,7 @@ She thought about Kevin Zhou, who had left three years ago. She had thought he w
 
 Now she wondered if Kevin had simply seen more clearly than she had.
 
-The city lights blurred, and she realized she was crying. The tears surprised her; she hadn't cried about work in years. But this wasn't about work anymore. This was about who she had become while working, and what she had enabled, and what she had told her daughter that wasn't true.
+The city lights blurred, and she realized she was crying—hot tracks down her face, unbidden, unwanted. The tears surprised her; she hadn't cried about work in years, had learned to metabolize the daily frustrations into something harder and smaller, something that could be stored. But this wasn't about work anymore. This was about who she had become while working, and what she had enabled, and what she had told her daughter that wasn't true.
 
 
 ---
@@ -129,9 +129,9 @@ She had access. She had seen the internal projections that Daniel had mentioned�
 
 If someone were to look. If someone were to copy. If someone were to give those documents to the right person—a journalist, a regulator, anyone who could make them matter—then maybe. Maybe something could change.
 
-She wasn't ready for that. Not yet. But she was beginning to understand that she might have to become ready.
+She wasn't ready for that. Not yet. But she was beginning to understand that she might have to become ready, that readiness might be something you arrived at rather than chose.
 
-The city lights glittered below her, indifferent to her crisis, waiting for nothing.
+The city lights glittered below her, indifferent to her crisis, waiting for nothing, promising nothing, offering only the ancient comfort of being one small life among millions.
 
 
 ---

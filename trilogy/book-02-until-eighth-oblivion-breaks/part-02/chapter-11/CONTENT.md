@@ -1,10 +1,8 @@
-# ~~~
-
-Highway 1 curved along the coast like a promise Kevin Zhou was not sure he wanted to keep. The Pacific rolled gray and endless to his left, the June fog softening everything into suggestion. He had rented a car for this drive - his Tesla was too visible, too trackable, too much a marker of exactly the identity he was trying to escape for three days.
+Highway 1 curved along the coast like a promise Kevin Zhou was no longer sure he wanted to keep. The Pacific rolled gray and endless to his left, the June fog softening everything into suggestion. He had rented a car for this drive - his Tesla was too visible, too trackable, too much a marker of the exact identity he was trying to escape for three days.
 
 The invitation had come through back channels. Not email or text but a physical letter, handwritten, delivered to his apartment by courier. The retreat organizers were serious about operational security, which either meant they were paranoid or had reason not to be. Kevin Zhou had attended enough tech conferences to know that the paranoid were often right.
 
-His startup, Synthesis Dynamics, had made him relevant to these circles. Two years ago he had been another Stanford dropout working on obscure problems; now he was the founder of a company valued at four hundred million dollars, building systems that made Prometheus's failures look like rounding errors. Whether that made him a builder of the future or a destroyer of the present depended on which conference you attended, which newsletter you subscribed to, which version of the Eighth Oblivion you believed.
+His startup, Synthesis Dynamics, had made him relevant to these circles. Two years ago he had been another Stanford dropout working on obscure problems; now he was the founder of a company valued at four hundred million dollars, building systems that made Prometheus's failures look like rounding errors. Whether that made him a builder of the future or a destroyer of the present depended entirely on which conference you attended, which newsletter you subscribed to, which version of the Eighth Oblivion you were prepared to believe.
 
 The fog parted briefly, revealing headlands plunging into ocean. Kevin Zhou had driven this road perhaps a dozen times, usually with purpose - meetings in Carmel, retreats in Big Sur, the occasional pilgrimage to Esalen when his mind needed resetting. Today the purpose was different. Today he was going to meet the people who had shaped his field and ask them what they actually believed.
 
@@ -53,7 +51,8 @@ The dinner ended with announcements about tomorrow's sessions. The real conversa
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The morning session was called "Capability Trajectories: Technical Realities," but Kevin Zhou quickly understood it was actually about factions. The room had arranged itself into clusters - not physically, but emotionally, each speaker's statements landing with approval from some sections and resistance from others.
 
@@ -139,7 +138,8 @@ He left the session early, needing space, needing time to process. The ocean cal
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 He found her in the garden behind the main house, sitting on a stone bench and looking at nothing. Dr. Sarah Chen-Ramirez was seventy now, her hair white, her posture still straight with the discipline of someone who had never stopped working. She had founded one of the first major AI labs in the 1990s, had seen every wave of hype and disappointment, had walked away from her own company just as it was becoming the most valuable thing she would ever create.
 
@@ -214,7 +214,8 @@ She nodded at him, a gesture of both greeting and farewell, and walked toward he
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The late-night conversation happened by accident, as such conversations often do. Kevin Zhou had been unable to sleep, had wandered to the main house hoping to find herbal tea or something to read, and had instead found Victor Blackwell and three others in the sitting room, a bottle of bourbon between them.
 
@@ -312,7 +313,8 @@ He stood there for a long time, not thinking so much as letting thoughts move th
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 He left early the next morning, before the final sessions began. The fog had returned, thick and gray, turning the coastal drive into a meditation on visibility and its limits. Kevin Zhou drove slowly, letting the white swirl past his windows, thinking about everything and nothing.
 

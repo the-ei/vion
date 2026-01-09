@@ -1,6 +1,6 @@
 At four o'clock, Jerome went back upstairs to check on Mrs. Patterson. The tea she had offered earlier had been surprisingly good, a loose-leaf blend her late husband used to buy from a shop that had closed years ago. She had talked about Gerald Patterson for an hour, about his job at the steel plant before it closed, about the garden he used to keep on the roof of the building, about the way he would sit by this same window in the evenings and watch the city settle into darkness.
 
-Jerome had listened. He had not taken notes. He had not thought about how to structure the story or what angle would make it newsworthy. He had simply sat with an old woman who was afraid and alone, and he had let her talk about the man she had loved for fifty-three years.
+Jerome had listened. He had not taken notes. He had not thought about how to structure the story or what angle would make it newsworthy or which publication might be interested. He had simply sat with an old woman who was afraid and alone, and he had let her talk about the man she had loved for fifty-three years, and for the first time all day, he had felt like a human being instead of a malfunctioning machine.
 
 Now he was back, carrying a plate of the sandwiches Denise had made, and Mrs. Patterson's face lit up when she saw him.
 
@@ -12,7 +12,7 @@ Now he was back, carrying a plate of the sandwiches Denise had made, and Mrs. Pa
 
 "I know."
 
-He sat down in the chair across from her, the same chair he had occupied that morning. The oxygen concentrator hummed its steady hum. The apartment was small and crowded with decades of accumulated life: photographs on every surface, shelves of books and figurines, a clock on the wall that ticked with an old-fashioned mechanical sound.
+He sat down in the chair across from her, the same chair he had occupied that morning. The oxygen concentrator hummed its steady hum. The apartment was small and crowded with decades of accumulated life: photographs on every surface, shelves of books and porcelain figurines, a clock on the wall that ticked with an old-fashioned mechanical sound, marking time the way time had always been marked, indifferent to the digital catastrophe outside.
 
 "Have you heard anything more?" Mrs. Patterson asked. "On the radio?"
 
@@ -25,7 +25,7 @@ He sat down in the chair across from her, the same chair he had occupied that mo
 
 "He was probably right."
 
-"He was right about most things. Didn't stop me from arguing with him." She smiled, the expression transforming her face, taking years from it. "Fifty-three years of arguing. Best years of my life."
+"He was right about most things. Didn't stop me from arguing with him." She smiled, the expression transforming her face, taking decades from it, showing the young woman she had been beneath the old woman she had become. "Fifty-three years of arguing. Best years of my life."
 
 Jerome thought about his own marriage, the thirty years of partnership and negotiation and occasional sharp words that had made him who he was. He thought about Denise downstairs, taking inventory, preparing for an emergency she couldn't predict, doing the practical work while he sat upstairs listening to an old woman's stories.
 
@@ -33,7 +33,7 @@ Jerome thought about his own marriage, the thirty years of partnership and negot
 
 She pointed to the closet by the bedroom door. "In there. Gerald set up a whole system. Three tanks, color-coded. Green is full, yellow is partial, red is empty. He made labels."
 
-Jerome opened the closet and found the tanks, neatly arranged on a small rack. Two green, one yellow. He checked the regulator on the first green tank, the connections and gauges. It looked functional, but he had no idea what he was doing.
+Jerome opened the closet and found the tanks, neatly arranged on a small rack. Two green, one yellow. Gerald's system, still working, still ready, still holding the breath his wife needed to survive. He checked the regulator on the first green tank, the connections and gauges. It looked functional, but he had no idea what he was doing.
 
 "I can't remember how to switch from the machine to the tank," Mrs. Patterson said. "My granddaughter showed me, but it was months ago."
 
@@ -42,7 +42,7 @@ Jerome opened the closet and found the tanks, neatly arranged on a small rack. T
 
 ---
 
-She looked at him with an expression he couldn't quite read. Gratitude, maybe. Or something deeper, some recognition of the connection that forms when strangers choose to take care of each other.
+She looked at him with an expression he couldn't quite read. Gratitude, maybe. Or something deeper, some recognition of the connection that forms between strangers when the world forces them to stop being strangers, when the systems that keep people apart stop functioning and leave only the humans behind.
 
 "You're a good neighbor, Jerome. I always thought so. Even when you were too busy to talk in the hallway, I could tell."
 
@@ -56,12 +56,12 @@ He sat back down, and for a while they didn't talk. The concentrator hummed. The
 
 Jerome thought about his legal pad downstairs, the notes that would never become an article. He thought about the career he had built, the awards and the recognition and the sense that he was doing something meaningful, something that mattered. He thought about how quickly all of that had become irrelevant. The systems he had spent three years investigating were failing, and he was sitting in an old woman's apartment, making promises about oxygen tanks.
 
-It should have felt like a comedown. A journalist who had won a Pulitzer, reduced to checking on neighbors and carrying sandwiches. But it didn't feel that way. It felt, for the first time since the morning, like something he could actually do.
+It should have felt like a comedown, a diminishment, a surrender. A journalist who had won a Pulitzer, reduced to checking on neighbors and carrying sandwiches, learning how oxygen tanks worked. But it didn't feel that way. It felt, for the first time since the morning, like something he could actually do, like something that might actually matter to someone, somewhere, today.
 
 
 ---
 
-By evening, the radio had begun to repeat itself. The same announcements, the same fragments, the same unhelpful advice. Jerome sat in his own apartment, the legal pad on the table in front of him, and made a decision.
+By evening, the radio had begun to repeat itself, the loop of uncertainty tightening. The same announcements, the same fragments, the same unhelpful advice, as if the announcers had run out of new ways to say they didn't know anything. Jerome sat in his own apartment, the legal pad on the table in front of him, and made a decision.
 
 He picked up the pad, flipped to a fresh page, and wrote: THINGS I CAN DO.
 
@@ -77,7 +77,7 @@ Denise looked up from the couch, where she was reading by the last of the daylig
 
 "Giving up on the story?"
 
-"There is no story. Or there's nothing but story, with no way to tell it. Either way, I can't do anything about it. But I can help Mrs. Patterson. I can help you. I can be here instead of trying to be everywhere."
+"There is no story. Or there's nothing but story, with no way to tell it. Either way, I can't do anything about it." He paused, letting the truth of it settle. "But I can help Mrs. Patterson. I can help you. I can be here instead of trying to be everywhere."
 
 She put down her book and looked at him with something that might have been relief.
 
@@ -87,7 +87,7 @@ She put down her book and looked at him with something that might have been reli
 
 "For choosing. For being present."
 
-The darkness was coming now, the March evening settling over Baltimore. Jerome sat next to his wife on the couch and listened to the quiet of a city that had stopped talking to itself.
+The darkness was coming now, the March evening settling over Baltimore like a hand pressing down. Jerome sat next to his wife on the couch and listened to the quiet of a city that had stopped talking to itself, a city that had fallen silent for the first time in living memory, a city that was, perhaps, learning to listen again.
 
 
 ---

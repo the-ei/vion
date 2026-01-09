@@ -1,5 +1,3 @@
-# ~~~
-
 The museum smelled of fresh paint and the particular staleness of climate-controlled air, the temperature precisely calibrated to preserve objects that were meant to persist beyond the lives of those who made them. Delphine held Theo's hand as they walked through the gallery space, picking their way between installation workers and half-assembled displays, the exhibition taking shape around them like a memory crystallizing into matter.
 
 "After the Wave: Culture and Crisis 2032-2037." The title was being painted on the entrance wall by a young woman on a stepladder, the letters emerging in a shade of blue that Delphine had argued about for weeks: not too dark, not too bright, something that suggested depth without drowning.
@@ -191,7 +189,8 @@ She took out her phone and made a note: "More helpers. More resilience. Balance 
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Jessie arrived at four, still in her work clothes, the particular energy of a writers' room clinging to her like a scent. She found them in the cafe, Theo absorbed in a game on Delphine's tablet, Delphine staring at her coffee as if it might reveal something.
 
@@ -340,7 +339,8 @@ That was transmission. That was inheritance. She could not control what they too
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The house was quiet by eleven. Theo asleep after ice cream and bath and the ritual of bedtime stories that he insisted he was too old for but still wanted. Jessie reading in bed, the light from her tablet casting blue shadows on her face, the argument from earlier still present between them but softened now, smoothed by the domestic rhythms that had outlasted all their conflicts.
 

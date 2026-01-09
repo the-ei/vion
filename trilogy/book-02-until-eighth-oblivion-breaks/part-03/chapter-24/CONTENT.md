@@ -1,5 +1,3 @@
-# ~~~
-
 The phone was new. Ruth had purchased it two days ago at a store in Arlington, paid cash, registered it under a prepaid plan that required no name. The young man behind the counter had looked at her—sixty-four years old, obviously comfortable, obviously not the usual prepaid customer—with curiosity he was polite enough not to voice.
 
 Now she sat in her home office, the phone in her hands, waiting for it to ring. Jerome had given her precise instructions: Signal app, specific time, don't say names. The protocols of secrecy that a younger generation seemed to navigate instinctively but that she was learning late, with effort.
@@ -150,7 +148,8 @@ She began to write.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Rebecca arrived on Saturday morning, the train from New York pulling into Union Station just before ten. Ruth met her at the platform, watching her daughter emerge from the crowd—forty-two years old now, her father's height and her other mother's eyes, carrying the same canvas bag she had carried since college.
 
@@ -326,7 +325,8 @@ It was enough to keep going.
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 After Rebecca left on Sunday, Ruth returned to the essay. The apartment was quiet in the particular way of empty houses, the absence of another person making the silence deeper. She made tea, settled at her desk, opened the document she had been working on for weeks.
 

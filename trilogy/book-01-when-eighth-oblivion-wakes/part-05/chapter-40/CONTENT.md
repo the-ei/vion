@@ -1,5 +1,3 @@
-# ~~~
-
 The law firm occupied the seventh floor of a building on University Avenue that Ananya had passed hundreds of times without ever noticing. That was its function, she understood now. A building designed to be passed. A building that existed precisely because no one would remember seeing it. The lobby smelled faintly of lemon cleaning solution and old coffee, and the elevator made a sound like metal breathing as it rose.
 
 Sandra Oyelaran's office was smaller than Ananya had expected, though she wasn't sure what she'd expected. A window overlooking the street. Diplomas on the wall - Stanford Law, state bar admission, something from the American Bar Association. Bookshelves with the kind of books no one reads but everyone displays. A desk neither too clean nor too cluttered.
@@ -119,7 +117,8 @@ Driving home, she passed the Prometheus campus - glass and steel and landscaping
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Priya arrived on a Tuesday afternoon, stepping off the train from her father's place with a backpack too heavy for her frame and the particular expression she wore when transitioning between households. Not unhappy, exactly. Just recalibrating. Ananya recognized the look because she'd felt it herself, once, shuttling between divorced parents in a suburb outside Chennai before her family moved to the States.
 
@@ -295,7 +294,8 @@ She walked back to her car through the fading light, the week already becoming m
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The first offer came Monday morning, before Ananya had finished her coffee. A consulting firm in Menlo Park - TechSafe Partners, the kind of name that told you exactly nothing - had somehow obtained her personal email and wanted to discuss opportunities. Their CEO, a man named Daniel Reeves, spoke with the brisk enthusiasm of someone who saw the world as a series of problems requiring solutions and fees.
 
@@ -414,7 +414,8 @@ Ananya made herself dinner - rice, dal, the familiar routine - and ate alone at 
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Saturday evening. Priya back at her father's, the house returned to its particular silence. Ananya sat in her home office with the documents arrayed on her desk - actual printed pages, which felt almost anachronistic, but she had wanted to see them all at once, to hold them, to remember that they were physical things with weight and texture.
 
