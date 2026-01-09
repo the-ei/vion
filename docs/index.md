@@ -8,17 +8,7 @@
 2. [Until Eighth Oblivion Breaks](book-02-until-eighth-oblivion-breaks/)
 3. [Beyond Eighth Oblivion's Gates](book-03-beyond-eighth-oblivions-gates/)
 
-## Project Status
-
-- [Planning Documents](planning/)
-- [Word Counts & Reading Times](stats.md)
-- [Full Trilogy Content](trilogy-content.md)
-
-### Current Progress
-
-- **Words written:** 628,382
-- **Pages:** 2,285 / 2,700
-- **Progress:** 84%
+[Read the Full Trilogy](trilogy-content.md)
 
 
 ---

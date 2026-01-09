@@ -115,3 +115,39 @@ Or maybe there was no explanation. Maybe survival was luck.
 
 ---
 
+She closed the laptop without closing the tabs. Robert's face remained in a browser window somewhere, frozen in a publicity photo from 2036. He was smiling, unaware that his work would not survive him.
+
+Delphine lay back on the hotel bed and stared at the ceiling. Theo's question echoed: Are you famous now?
+
+Not famous. Surviving. Her work was surviving, despite her intentions, despite her compromises, despite the corporate logo that had once appeared at the end. The archive had chosen her for reasons she could not understand or control.
+
+Maybe that was the lesson. You make things and you let them go. You cannot determine what resonates or why. You cannot ensure your best work survives or predict which compromises become defining images. You can only make things and release them into the world and accept that their meaning belongs to whoever inherits them.
+
+It was a difficult acceptance. Delphine had spent her career trying to control narrative, to shape how audiences understood what they saw. The idea that her own work's meaning was beyond her control felt like failure.
+
+But maybe it was also freedom. Maybe letting go of control meant letting go of guilt—for the compromises she had made, for the things she had cut, for all the ways her work fell short of what she had imagined.
+
+The archive had its own logic. Fighting it was futile.
+
+
+---
+
+She thought about Tomás, somewhere in the world, probably not thinking about the film that had documented his life seven years ago. She thought about the students who would teach her work to other students, building meanings she never intended. She thought about Theo, who wanted pizza and did not care about archives, who would inherit the world his mothers had shaped without knowing how they had shaped it.
+
+Inheritance was not control. You could not choose what survived. You could only make things with whatever honesty you could muster and hope they meant something to someone.
+
+Delphine reached for her phone and typed a note to herself:
+
+Make the next thing. Let this one go.
+
+It was not resolution. She would probably continue to oscillate between guilt and acceptance, between dismissing her compromises and finding unexpected value in them. That was her pattern. That was, perhaps, the pattern of anyone who made things for a living.
+
+But for tonight, in this anonymous hotel room, watching the cursor blink at the end of her note, she felt something close to peace.
+
+The work existed. It meant things she had not intended. It was being taught to people who were not born when she made it. This was not fame, and it was not success in any conventional sense.
+
+It was survival. Maybe that was enough.
+
+
+---
+

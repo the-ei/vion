@@ -50,3 +50,35 @@ She recognized her own words from months ago, echoed back to her. Something in h
 
 ---
 
+The sun was setting by the time they reached the mountains. The sky turned orange and pink and purple, a gradual spectacular change that Elena had seen a thousand times and still found beautiful. The pines darkened into silhouettes against the fading light. The air coming through the cracked window was cooler now, mountain air, the smell of resin and cold rock.
+
+She thought about Sofia and Mateo waiting in Flagstaff with Daniel's mother. Her children who had been through so much in the past year, who had absorbed their parents' stress and fear and uncertainty without fully understanding it. What would she tell them? How would she explain that their mother had quit her job to join a scrappy network of activists, that their lives were about to become less stable in some ways and more honest in others?
+
+She would tell them the truth, she decided. Age-appropriate truth, but truth nonetheless. That their mother had learned something during the crisis, something important about how the world worked and how it could be changed. That she was going to try to make things better, not just for their family but for everyone. That it would be hard and uncertain and maybe scary sometimes, but it was the right thing to do.
+
+Mateo would have questions. He always had questions. He would want to know the specifics, the plan, the timeline. Elena would have to admit she did not have those answers yet.
+
+Sofia would understand in a different way. She was older, more attuned to the emotional undercurrents of adult decisions. She had seen her mother crying in the bathroom during the worst of it. She had heard the arguments through the walls. She would know that this change meant something had healed, or started to heal.
+
+
+---
+
+They came down the mountain into Flagstaff as the last light faded from the sky. The town looked smaller than Phoenix, quieter, more manageable. Daniel's mother's house was on the north side, a modest place with a covered porch where Elena had sat many evenings watching the children play in the yard.
+
+"Almost home," Daniel said.
+
+Home. The word meant something different now. Not the apartment they had just emptied. Not any single building. Home was where the people she loved were, where the work she believed in was, where she could become who she was supposed to become.
+
+As they turned onto the final street, Elena felt something she had not felt in months, maybe years. A lightness in her chest, a loosening of the knot that had been there so long she had forgotten it was not normal. It was not happiness exactly - there was too much uncertainty for happiness. But it was something adjacent. Something like hope.
+
+The porch light was on. Through the window, she could see movement: Sofia's silhouette, Mateo running to the door. The children had heard the car.
+
+Daniel parked in the driveway. Elena got out, her legs stiff from the drive, her body tired from the day's work and emotion. But when the front door opened and her children came running toward her, she found she had energy after all.
+
+She held them both, one in each arm, breathing in the smell of their hair and feeling the warmth of their small bodies against hers. Whatever came next, she had this. She had them, and she had Daniel, and she had a direction to move in.
+
+For the first time since the crisis began, that felt like enough.
+
+
+---
+

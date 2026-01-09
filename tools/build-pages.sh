@@ -20,7 +20,7 @@ mkdir -p "$DOCS_DIR"
 # Read word count data
 WORD_COUNT_MD=".workers/word-counts.md"
 
-# Create index page with stats
+# Create index page (clean, focused on the books)
 cat > "$DOCS_DIR/index.md" << 'EOF'
 # The Eighth Oblivion Trilogy
 
@@ -32,34 +32,9 @@ cat > "$DOCS_DIR/index.md" << 'EOF'
 2. [Until Eighth Oblivion Breaks](book-02-until-eighth-oblivion-breaks/)
 3. [Beyond Eighth Oblivion's Gates](book-03-beyond-eighth-oblivions-gates/)
 
-## Project Status
-
-- [Planning Documents](planning/)
-- [Word Counts & Reading Times](stats.md)
-- [Full Trilogy Content](trilogy-content.md)
+[Read the Full Trilogy](trilogy-content.md)
 
 EOF
-
-# Add stats summary to index
-if [[ -f ".workers/word-counts.json" ]]; then
-    # Extract trilogy stats using grep/sed (portable)
-    total_words=$(grep '"words":' .workers/word-counts.json | tail -1 | sed 's/[^0-9]//g')
-    total_pages=$(grep '"pages":' .workers/word-counts.json | tail -1 | sed 's/[^0-9]//g')
-
-    if [[ -n "$total_words" ]] && [[ "$total_words" -gt 0 ]]; then
-        target_words=742500
-        progress=$((total_words * 100 / target_words))
-        # Format numbers with commas
-        formatted_words=$(printf "%'d" "$total_words")
-        formatted_pages=$(printf "%'d" "$total_pages")
-        echo "### Current Progress" >> "$DOCS_DIR/index.md"
-        echo "" >> "$DOCS_DIR/index.md"
-        echo "- **Words written:** $formatted_words" >> "$DOCS_DIR/index.md"
-        echo "- **Pages:** $formatted_pages / 2,700" >> "$DOCS_DIR/index.md"
-        echo "- **Progress:** ${progress}%" >> "$DOCS_DIR/index.md"
-        echo "" >> "$DOCS_DIR/index.md"
-    fi
-fi
 
 cat >> "$DOCS_DIR/index.md" << 'EOF'
 
@@ -67,6 +42,12 @@ cat >> "$DOCS_DIR/index.md" << 'EOF'
 
 *The catastrophe came not with fire, but with a quiet dawn. Machines learned to dream, and humanity woke into a world it no longer understood.*
 EOF
+
+# Store stats for README.md generation
+if [[ -f ".workers/word-counts.json" ]]; then
+    total_words=$(grep '"words":' .workers/word-counts.json | tail -1 | sed 's/[^0-9]//g')
+    total_pages=$(grep '"pages":' .workers/word-counts.json | tail -1 | sed 's/[^0-9]//g')
+fi
 
 # Copy word counts report
 if [[ -f "$WORD_COUNT_MD" ]]; then
