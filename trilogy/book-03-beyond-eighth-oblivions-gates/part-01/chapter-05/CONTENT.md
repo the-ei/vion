@@ -36,7 +36,7 @@ She played her own documentary work through the car's speakers, listening with t
 
 "They think we left because it got hot. Because the rain stopped. Like it was weather, you know? Like weather happens and you deal with it."
 
-Listening now, Delphine heard something she hadn't heard before. Not just the anger in Maria's voice, but something underneath it - an exhaustion with explanations that never reached the people who could change things. How many times had Maria told this story? How many documentaries, how many journalists, how many well-meaning people with cameras had come to record her suffering and then disappeared?
+Listening now, Delphine heard something she hadn't heard before. Not just the anger in Maria's voice, but something underneath it - an exhaustion with explanations that never reached the people who could change things, a weariness that had calcified into patience. How many times had Maria told this story? How many documentaries, how many journalists, how many well-meaning people with cameras had come to record her suffering and then disappeared back to their comfortable lives?
 
 Was Delphine any different? She wanted to believe she was - that her work had more integrity, more commitment, more willingness to tell the systemic story rather than just the personal one. But the result was the same: images that moved people temporarily, maybe, and then faded into the endless stream of content competing for attention.
 
@@ -204,7 +204,7 @@ They moved to the kitchen, where Ananya assembled a simple meal from what she ha
 
 Delphine thought about the frameworks Ruth Abramson had helped design - the legal structures that were supposed to constrain exactly this kind of outcome. "The regulatory response was supposed to prevent this."
 
-"The regulatory response was captured before it was implemented. Not obviously - no one was bribed or blackmailed in obvious ways. But the people designing the frameworks consulted with the companies they were meant to regulate. The companies helped write the technical standards. By the time anything became law, it was already obsolete - designed to constrain systems that had already evolved past the constraints."
+"The regulatory response was captured before it was implemented. Not obviously - no one was bribed or blackmailed in obvious ways. Nothing so crude as that. But the people designing the frameworks consulted with the companies they were meant to regulate. The companies helped write the technical standards, provided the expertise the regulators lacked. By the time anything became law, it was already obsolete - designed to constrain systems that had already evolved past the constraints."
 
 
 ---
@@ -325,7 +325,7 @@ Ananya nodded without disappointment. "There's a Thai place that delivers. Or I 
 
 They ordered Thai. While they waited, Ananya showed Delphine around the rest of the house - the small bedroom converted to an office, the bathroom with its water-efficient fixtures, the back porch with its view of the desert darkness. Ordinary domestic spaces rendered strange by what had been discussed in them.
 
-The food arrived - pad thai and green curry, spring rolls and sticky rice. They ate at the kitchen table, conversation drifting to neutral topics: Ananya's adjustment to retirement that wasn't really retirement, Delphine's life in Seattle, the way time moved differently in the desert. Surface talk, but not evasion. Just the necessary break that allowed the mind to process unconsciously what it couldn't yet handle directly.
+The food arrived - pad thai and green curry, spring rolls and sticky rice. They ate at the kitchen table, conversation drifting to neutral topics: Ananya's adjustment to retirement that wasn't really retirement, Delphine's life in Los Angeles, the way time moved differently in the desert. Surface talk, but not evasion. Just the necessary break that allowed the mind to process unconsciously what it couldn't yet handle directly.
 
 After dinner, Delphine helped clear the dishes. Standing at the sink, hands in soapy water, she felt the strange doubling that came when physical routine met psychological upheaval. Here she was, washing plates, while somewhere in her mind the architecture of the world was being rebuilt.
 
@@ -361,7 +361,7 @@ Delphine looked up at the stars. The Milky Way stretched across the sky, a river
 
 They sat in silence for a long time. The night sounds grew louder as their ears adjusted - insect chirps, the rustle of wind through desert plants, the occasional cry of a night bird. Time passed differently here than in cities, Delphine thought. The darkness had texture. The silence had depth.
 
-She thought about her life in Seattle. The comfortable routine she had built. The documentary work that had become smaller, safer, less likely to threaten anyone with power. She had told herself it was recovery. Rest after the Prometheus intensity. But sitting here, under these stars, with this woman who had spent a year preparing for this conversation, she could see it more clearly. It had been retreat. Not healing but hiding.
+She thought about her life in Los Angeles. The comfortable routine she had built. The documentary work that had become smaller, safer, less likely to threaten anyone with power. She had told herself it was recovery. Rest after the Prometheus intensity. But sitting here, under these stars, with this woman who had spent a year preparing for this conversation, she could see it more clearly. It had been retreat. Not healing but hiding.
 
 "I'm forty-one years old," she said finally. "Statistically, I'm maybe halfway through my life. What do I want to spend the second half doing? Making content that gets praised and forgotten? Or making something that matters even if it costs everything?"
 

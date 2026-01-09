@@ -1,4 +1,4 @@
-The hospice room had a window that looked onto nothing in particular - a parking lot, a strip of grass, the back of another building. Jerome had spent enough hours in this room to know every detail of that view: the way the light changed through the day, the birds that sometimes landed on the grass, the cars that came and went in patterns that suggested shift changes, visiting hours, the schedules of dying.
+The hospice room had a window that looked onto nothing in particular - a parking lot, a strip of dead grass, the back of another building. Jerome had spent enough hours in this room to know every detail of that view: the way the light changed through the day, the birds that sometimes landed on the grass, the cars that came and went in patterns that suggested shift changes, visiting hours, the schedules of dying.
 
 His mother lay in the bed, her breathing shallow and regular, the monitors beside her tracking rhythms that meant less and less as each day passed. She had been in this twilight for two weeks now, present but not present, her eyes sometimes opening to focus on nothing, her lips moving occasionally without sound.
 
@@ -8,7 +8,7 @@ Not the vague gaze of the dementia-clouded, not the searching look of someone tr
 
 "Jerome," she said. Her voice was thin but certain. "When did you get here?"
 
-He moved closer to the bed, taking her hand, the bones of it so delicate now, the skin paper-thin. He had been here for hours. He had been here every day. But something in him understood not to say that, to accept the question as she meant it.
+He moved to the bedside, taking her hand, the bones of it so delicate now, the skin paper-thin. He had been here for hours. He had been here every day. But something in him understood not to say that, to accept the question as she meant it.
 
 "Just now, Mama. How are you feeling?"
 
@@ -23,7 +23,7 @@ She nodded, and something in the gesture told him she understood more than she w
 
 "Tell me what you're doing," she said. "Your work. I forget what you told me."
 
-Jerome felt his throat tighten. How do you explain a career to someone who is dying? How do you summarize the decades of investigations, the sources protected, the stories told and ignored, the truth that mattered or didn't matter depending on who was listening?
+Jerome felt his throat tighten. How do you explain a career to someone who is dying? How do you compress decades of investigations, sources protected, stories told and ignored, truth that mattered or didn't matter depending on who was listening?
 
 "I'm a journalist, Mama. I write about technology, mostly. About how it affects people's lives."
 
@@ -42,7 +42,7 @@ The question landed in his chest. Did you do right. Fifty-nine years of life, de
 
 "That's all anyone can do." She squeezed his hand with surprising strength. "Trying is doing. Your father used to say that."
 
-His father, dead now almost thirty years, a man Jerome remembered in fragments: the hands that could fix anything, the voice that sang in church, the anger that sometimes surfaced when work was scarce and money was tight. His mother had been a widow longer than she had been a wife, had raised the children mostly alone, had made herself into someone who needed no one.
+His father, dead now nearly thirty years, a man Jerome remembered only in fragments: the hands that could fix anything, the voice that sang in church, the anger that surfaced when work was scarce and money tight. His mother had been a widow longer than she had been a wife, had raised the children mostly alone, had made herself into someone who needed no one.
 
 And now she was here, in this bed, needing everything.
 
@@ -65,7 +65,7 @@ She was quiet for a moment, her eyes still clear but her attention seeming to tu
 
 ---
 
-"I remember when you were born," she said. "The hospital was different then. I had to wait all day before anyone would see me. Your father was so angry. He wanted to fight everyone." She smiled at the memory. "But then you came, and he was so gentle. Held you like you might break. Like you were made of something precious."
+"I remember when you were born," she said. "The hospital was different then. I had to wait all day before anyone would see me. Your father was so angry. Wanted to fight everyone." She smiled at the memory. "But then you came, and he was so gentle. Held you like you might break. Like you were made of something precious."
 
 Jerome had heard this story before, many times, in the years before the dementia took it and everything else. But hearing it now, in her voice recovered from the fog, it felt new. It felt like something being given to him.
 
@@ -84,7 +84,7 @@ This was the kind of thing she had said when he was young, the faith she had rai
 
 ---
 
-The question cut through everything. Did they listen. Jerome thought of the investigations he had spent months on, the sources who had risked their careers and sometimes their safety to share information, the articles that had been read and shared and discussed and then forgotten. He thought of the surveillance systems he had exposed that were still in operation, the algorithmic injustices he had documented that continued to harm people, the truth that had not set anyone free.
+The question cut through everything. Did they listen. Jerome thought of investigations he had spent months pursuing, sources who had risked their careers and sometimes their safety to share information, articles that had been read and shared and discussed and then forgotten. He thought of the surveillance systems he had exposed that were still in operation, the algorithmic injustices he had documented that continued to harm people, the truth that had not set anyone free.
 
 "Some of them," he said. "Sometimes."
 
@@ -105,7 +105,7 @@ The monitors beeped their steady rhythms. Outside the window, the parking lot he
 
 Jerome sat holding his mother's hand as she drifted back into the fog, the lucidity receding like a tide. He did not know if she would return again, if there would be another window. The doctors had said these moments were unpredictable, could be singular or repeated, could mean the end was near or could precede weeks more of this twilight state.
 
-He thought about calling Denise, calling DeShawn, calling his sister. But something held him in the chair, unwilling to break the connection even as his mother slept. She had given him something in that window, something he would need to carry forward: the permission to have tried, the acknowledgment that trying was enough, the blessing from the woman who had made him.
+He considered calling Denise, calling DeShawn, calling his sister. But something held him in the chair, unwilling to break the connection even as his mother slept. She had given him something in that window, something he would need to carry forward: the permission to have tried, the acknowledgment that trying was enough, the blessing from the woman who had made him.
 
 Did you do right, Jerome?
 

@@ -1,4 +1,4 @@
-The paper gown was the same blue as the ones she distributed to her own patients, the same thin fabric that offered dignity in theory but not in practice. Elena sat on the examination table, her bare legs dangling, and studied the room as if seeing it for the first time. The blood pressure cuff mounted on the wall. The jar of cotton balls. The biohazard disposal bin she had replaced hundreds of times. All of it familiar, all of it suddenly foreign.
+The paper gown was the same pale blue as the ones she distributed to her own patients, the same thin fabric that offered dignity in theory but never in practice. Elena sat on the examination table, her bare legs dangling, and studied the room as if seeing it for the first time. The blood pressure cuff mounted on the wall. The jar of cotton balls. The biohazard disposal bin she had replaced hundreds of times. All of it familiar, all of it suddenly foreign.
 
 Dr. Reyes knocked twice and entered. She was a few years older than Elena, hair graying at the temples, the kind of physician who looked at you when she spoke instead of at her tablet. They had worked together for three years before Dr. Reyes moved to the private practice down the street. Now she was Elena's doctor because Elena could not be examined by someone who reported to her.
 
@@ -12,12 +12,12 @@ Not cancer. The word Elena had been carrying for two weeks, since the blood draw
 
 "Autoimmune," Elena said. Her voice sounded clinical, detached. As if she were discussing someone else's results.
 
-"Yes. Your immune system is attacking your thyroid."
+"Yes. Your own immune system is attacking your thyroid."
 
 
 ---
 
-Dr. Reyes continued explaining - medication, monitoring, the long-term management required - but Elena's mind was already turning the information over, examining it with the clinical eye she had developed across a decade of nursing. Autoimmune thyroiditis. Chronic, not acute. Manageable, not terminal. But the word that stayed with her was attacking. Her body at war with itself.
+Dr. Reyes continued explaining - medication, monitoring, the long-term management required - but Elena's mind was already turning the information over, examining it with the clinical eye she had developed across a decade of nursing. Autoimmune thyroiditis. Chronic, not acute. Manageable, not terminal. But the word that lodged in her mind was attacking. Her body at war with itself, an insurgency she had not known was brewing.
 
 "Elena?" Dr. Reyes leaned forward. "Are you with me?"
 
@@ -31,7 +31,7 @@ Dr. Reyes continued explaining - medication, monitoring, the long-term managemen
 
 Elena almost laughed. The past few years. The pandemic that broke something in her. The caregiving that became her identity, then her prison. The medication for anxiety that she had started and never stopped. The sleep she had sacrificed because someone always needed something.
 
-"Stressful," she said.
+"Stressful," she said. The word seemed laughably inadequate.
 
 "I'm going to refer you to an endocrinologist. In the meantime, I want you to take two weeks off work."
 
@@ -54,12 +54,12 @@ It was the question patients always asked, the one she answered carefully, with 
 
 After the appointment, Elena walked to her car. The Phoenix afternoon was bright and hot, February warmth that Midwesterners would have found impossible, but she had lived here long enough to appreciate the winter sun. She unlocked the Honda, sat in the driver's seat, and did not start the engine.
 
-Her body was attacking itself. The metaphor felt too obvious, too poetic, and yet she couldn't escape it. Years of neglecting herself, of pushing through, of caring for everyone else, and now her immune system had turned inward, found the enemy within.
+Her body was attacking itself. The metaphor felt too obvious, too convenient in its symbolism, and yet she couldn't escape it. Years of neglecting herself, of pushing through exhaustion and pain and warning signs, of caring for everyone else while leaving nothing for herself, and now her immune system had turned inward, found the enemy within.
 
 
 ---
 
-She drove home through traffic that seemed designed to test her. Every red light an obstacle, every slow driver a conspiracy. She caught herself gripping the steering wheel so tightly her knuckles whitened and made herself loosen her fingers. Stress is inflammatory, Dr. Reyes had said. This moment, right now, her body flooding with cortisol because someone cut her off on the highway - this was part of it. This was the accumulation that had brought her here.
+She drove home through traffic that seemed designed to test her. Every red light an obstacle, every slow driver a personal affront designed to test her. She caught herself gripping the steering wheel so tightly her knuckles whitened and made herself loosen her fingers. Stress is inflammatory, Dr. Reyes had said. This moment, right now, her body flooding with cortisol because someone cut her off on the highway - this was part of it. This was the accumulation that had brought her here.
 
 The house was quiet when she arrived. Abuela had taken Sofia and Mateo to the park. A blessing or a curse, Elena couldn't decide. She needed the solitude to process, and she was terrified of what processing might reveal.
 
@@ -74,7 +74,7 @@ She thought of all the meals she had skipped because someone needed something. T
 
 The anxiety medication she had started six years ago and never stopped because stopping felt like failure, like admitting she couldn't handle what life required.
 
-The pills were in the cabinet. She took one now, swallowed it dry, felt the familiar calm settling in. Or was it calm? Maybe it was just numbness. Maybe she had been numb for so long she had forgotten what actual feeling was.
+The pills were in the cabinet above the sink. She took one now, swallowed it dry, felt the familiar calm settling over her thoughts like a blanket dropped on fire. Or was it calm? Maybe it was just numbness. Maybe she had been numb for so long she had forgotten what actual feeling was.
 
 Her phone buzzed. Daniel: *Abuela says you're home early. Everything ok?*
 
@@ -84,7 +84,7 @@ The three dots appeared immediately. Then: *Leaving now. Be there in 3 hours.*
 
 He was in Tucson, working a commercial build. Three hours was too long and also not long enough. She wasn't ready to explain this to him. Wasn't ready to see the fear in his eyes, the guilt she knew he carried about being away so much.
 
-She put the phone down and looked at her hands. The same hands that had started IVs, dressed wounds, held dying patients' fingers as they slipped away. Strong hands. Capable hands. Now these hands belonged to someone whose body was failing, quietly, invisibly, from the inside out.
+She put the phone down and looked at her hands. The same hands that had started thousands of IVs, dressed wounds that would have made most people faint, held dying patients' fingers as they slipped from this world into whatever came next. Strong hands. Capable hands. Now these hands belonged to someone whose body was failing, quietly, invisibly, from the inside out.
 
 For the first time in years, she had nowhere to direct her care but inward. The unfamiliarity of it was almost worse than the diagnosis.
 
@@ -95,7 +95,7 @@ She heard the front door open. Sofia's voice calling out, Mateo's feet pounding 
 
 "Mama! Mama, we saw a dog with three legs!"
 
-Mateo launched himself into her arms. Six years old and still small enough to lift, though lifting sent a twinge through her back. She held him, inhaled the boy-sweat smell of him, and felt tears prick at her eyes.
+Mateo launched himself into her arms. Six years old and still small enough to lift, though lifting sent a familiar twinge through her lower back, another complaint from a body she had ignored for too long. She held him, inhaled the boy-sweat smell of him, and felt tears prick at her eyes.
 
 "That's amazing, mijo. Was he happy?"
 

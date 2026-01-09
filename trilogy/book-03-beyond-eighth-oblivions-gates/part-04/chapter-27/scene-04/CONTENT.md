@@ -13,7 +13,7 @@ She did not look away.
 
 ---
 
-The apartment waited around her as she gathered what she would need. Phone, wallet, keys. A notebook she had carried for years, filled with notes from meetings she no longer remembered, questions she had never answered. She put it in her bag without knowing why, a talisman from a life that was about to change.
+The apartment waited around her as she gathered what she would need. Phone, wallet, keys. A notebook she had carried for years, filled with notes from meetings she no longer remembered, questions she had never resolved. She put it in her bag without knowing why, a talisman from a life that was about to change.
 
 The morning had brightened fully now. Through her window, San Francisco gleamed in the winter light, the towers of the financial district catching the sun, the bay visible in the distance where it curved toward the Golden Gate. She had watched this view for six years, had learned its moods and seasons, had come to think of it as hers in the way that long familiarity creates possession.
 
@@ -30,7 +30,7 @@ She sent it before she could reconsider, and then she stood for a moment holding
 
 At the door of her apartment, she paused.
 
-Behind her, the accumulated objects of her life: the awards turned to face the wall, the photographs of Priya at various ages, the ceramic bowl glazed an uneven blue, the mug from a company that no longer existed. The novel about surveillance lying open on the coffee table. The view of a city she had helped transform.
+Behind her, the accumulated objects of her life: the awards turned to face the wall, the photographs of Priya at various ages, the ceramic bowl glazed an uneven blue, the mug from a company that no longer existed. The novel about surveillance splayed open on the coffee table. The view of a city she had helped transform.
 
 In front of her, the hallway, the elevator, the parking garage, the highway south.
 
@@ -42,14 +42,14 @@ She thought about the word threshold. The strip of wood or stone at the bottom o
 
 She was standing at a threshold now. Had been standing at it for years, perhaps, without recognizing it. The message from Delphine had not created the threshold; it had only made it visible, had illuminated the choice she had been avoiding.
 
-To cross or not to cross. To speak or to remain silent. To become someone who told the truth about her life, or to remain someone who had told the truth only in fragments, only in carefully controlled contexts, only in ways that did not threaten the careful architecture of her professional identity.
+To cross or not to cross. To speak or to remain silent. To become someone who told the truth about her life, or to remain someone who had told the truth only in fragments, only in carefully controlled contexts, only in ways that left intact the careful architecture of her professional identity.
 
 
 ---
 
 She stepped through the door.
 
-The sound it made as it closed behind her was soft, mechanical, ordinary. A latch engaging, a lock turning. Nothing dramatic, nothing that would be audible to anyone passing in the hallway.
+The sound it made as it closed behind her was soft, mechanical, ordinary. A latch engaging, a lock clicking home. Nothing dramatic, nothing that would be audible to anyone passing in the hallway.
 
 But to Ananya, standing in the corridor with her bag over her shoulder and her car keys in her hand, the sound felt like something ending and something beginning at once.
 

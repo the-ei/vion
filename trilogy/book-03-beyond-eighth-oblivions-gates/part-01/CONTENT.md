@@ -1038,7 +1038,7 @@ Maybe that would have to be enough.
 
 # ~~~
 
-The Berkeley Law building caught the Monday morning light in a way that made Ruth think of aquariums - all that glass, all that transparency designed to suggest openness while actually containing and directing the movement of bodies through carefully planned spaces. She had been teaching here for three years now, since her retirement from the federal bench, and she still felt like a visitor. The building was too new, too deliberately symbolic, too different from the wood-paneled chambers where she had spent forty years learning what law actually was.
+The Berkeley Law building caught the Monday morning light in a way that made Ruth think of aquariums - all that glass, all that transparency designed to suggest openness while actually containing and directing the movement of bodies through carefully planned spaces, channeling them toward the destinations the architects had determined were appropriate. She had been teaching here for three years now, since her retirement from the federal bench, and she still felt like a visitor. The building was too new, too deliberately symbolic, too different from the wood-paneled chambers where she had spent forty years learning what law actually was.
 
 The seminar room was on the fourth floor, a space designed for intimate discussion - an oval table that could seat fourteen, windows that looked out over the campus, the accumulated technology of modern education embedded in surfaces that appeared, at first glance, to be ordinary. Twelve students were waiting for her when she arrived at ten, their tablets open, their faces turned toward her with expressions she had learned to categorize: ambition, calculation, occasionally something that might be genuine curiosity.
 
@@ -1074,7 +1074,7 @@ The room had gone quiet in a different way now. Not the silence of students wait
 
 "I'm telling you this," Ruth said, "because I want you to understand what you're preparing for. You're learning to be lawyers. You're learning to argue within systems, to use the tools the law provides, to navigate structures that have been built over centuries. That knowledge is valuable. But it has limits."
 
-She thought of Susan, who would have known how to say this better. Susan, who had spent thirty years teaching social work and had understood the gap between what institutions promised and what they delivered. Susan, who had died six years ago and left Ruth to navigate this territory alone.
+She thought of Susan, who would have known how to say this better. Susan, who had spent thirty years teaching social work and had understood, in her bones and in her practice, the gap between what institutions promised and what they delivered. Susan, who had died six years ago and left Ruth to navigate this territory alone, without the voice that had always helped her distinguish principle from self-deception.
 
 "The legal responses to the Eighth Oblivion were well-crafted, well-intentioned, and largely ineffective. Not because the lawyers who designed them were stupid or corrupt, but because the systems they were trying to regulate were more adaptive than the regulations. Because power doesn't wait for due process. Because by the time you've established a legal principle, the practice it was meant to govern has already evolved past it."
 
@@ -1230,7 +1230,7 @@ Ruth felt something shift in her - the professional restraint she maintained in 
 
 The room had gotten very quiet again. Ruth realized she had said more than she intended, had let the mask slip further than was professionally advisable. But something in her didn't care anymore.
 
-"I spent forty years believing in institutions," she continued. "In the law's capacity to evolve, to meet new challenges, to hold power accountable. I still believe in that capacity. But I no longer believe it's automatic, or that the forms of accountability we've developed are adequate to what we face. The frameworks I helped design were the best I could do within the system I understood. They weren't enough. The question going forward is whether we can do better, or whether we're content to accept the insufficiency as permanent."
+"I spent forty years believing in institutions," she continued. "In the law's capacity to evolve, to meet new challenges, to hold power accountable. That belief was not naive - it was earned, case by case, through decades of work that accomplished real things. But I no longer believe the capacity is automatic, or that the forms of accountability we've developed are adequate to what we face. The frameworks I helped design were the best I could do within the system I understood. They weren't enough. The question going forward is whether we can do better, or whether we're content to accept the insufficiency as permanent."
 
 She saw a mix of reactions in the audience - discomfort from the executives, interest from the journalists, something like gratitude from the students. She had said something real. Whether that was wise remained to be seen.
 
@@ -1372,7 +1372,7 @@ Benjamin smiled slightly, acknowledging the game. "My people. The company. We sp
 
 "I'm still teaching. Just to different students."
 
-They ordered dinner - fish for her, steak for him, the choreography of upscale dining that somehow made serious conversation feel both easier and more dangerous. Ruth watched Benjamin as he navigated the menu, noting the small tells of his current life: the watch that cost more than a year of her clerk salary, the tailoring of his jacket, the way he spoke to the server with the casual authority of someone who expected service as a matter of course.
+They ordered dinner - fish for her, steak for him, the choreography of upscale dining that somehow made serious conversation feel both easier and more dangerous. Ruth watched Benjamin as he navigated the menu, noting the small tells of his current life: the watch that cost more than a year of her clerk salary, the tailoring of his jacket that sat on his shoulders like a second skin, the way he spoke to the server with the casual authority of someone who expected service as a matter of course and had long ago stopped noticing the expectation.
 
 "You've done well," she said.
 
@@ -1540,7 +1540,7 @@ The Oakland apartment was small - a studio with a sleeping alcove, a galley kitc
 
 He rolled out of bed and onto the yoga mat that stayed permanently on the floor. Twenty minutes of stretches, then twenty minutes of meditation - practices he had picked up in Berlin during the wandering years, when he had needed something to anchor him after everything else had come loose. The stretches were easier now than they had been at first, his body having adapted to the routine the way bodies did when you gave them consistency.
 
-The meditation was still hard. His mind still wanted to plan, to optimize, to run scenarios about what needed to happen next. But he had learned to notice that wanting without following it, to let the thoughts arise and pass without grabbing onto them. It wasn't peace, exactly - it was more like truce. A negotiated settlement between who he had been and who he was trying to become.
+The meditation was still hard. His mind still wanted to plan, to optimize, to run scenarios about what needed to happen next, as if some part of him had never left the startup environment where every moment was an opportunity cost. But he had learned to notice that wanting without following it, to let the thoughts arise and pass without grabbing onto them. It wasn't peace, exactly - it was more like truce. A negotiated settlement between who he had been and who he was trying to become.
 
 At six, he made breakfast. Eggs scrambled with vegetables, toast with avocado, coffee from the small pour-over setup he had become unreasonably attached to. The ritual of cooking grounded him in his body in ways that the digital work of the rest of his day couldn't.
 
@@ -1678,7 +1678,7 @@ Kevin walked and observed and tried not to think too much about what he was obse
 
 Chinatown appeared around him with its particular density - the grocery stores with their bins of produce spilling onto the sidewalk, the restaurants sending smells of cooking oil and ginger into the street, the pharmacies with their mysterious packages of herbs and remedies his grandmother would have known how to use. Kevin moved through it like a ghost of a different life, someone who looked like he belonged but didn't, not really.
 
-His parents had grown up in a neighborhood like this, in Shenzhen before it became a tech hub, before his father got the job that brought them to California, before Kevin became American in all the ways that mattered and Chinese in all the ways that didn't. He knew enough Cantonese to be polite, not enough to have a real conversation. He knew the broad strokes of the history, not the details that would make it feel like his own.
+His parents had grown up in a neighborhood like this, in Shenzhen before it became a tech hub, before his father got the engineering job that brought them to California and set Kevin on the path that led here. Before Kevin became American in all the ways that mattered and Chinese in all the ways that didn't. He knew enough Cantonese to be polite, not enough to have a real conversation. He knew the broad strokes of the history, not the details that would make it feel like his own.
 
 It was another form of distance, this cultural gap. Another way that leaving had costs he hadn't fully understood when he left.
 
@@ -1837,7 +1837,7 @@ Kevin had told the story before, in fragments, but never the whole thing. Someth
 
 Kevin paused, remembering. The excitement of that period, the conviction that they had made it, the celebration at the office when the deal closed. How young he had been. How certain.
 
-"For about eighteen months, they kept their promises. We built features, grew the user base, did what we had always done. Then the requirements started changing. Small things at first - new reporting formats, different privacy policies, integrations with their other products. Each individual change was reasonable. But the changes accumulated."
+"For about eighteen months, they kept their promises. We built features, grew the user base, did what we had always done but with better infrastructure and more resources. Then the requirements started changing. Small things at first - new reporting formats, different privacy policies, integrations with their other products that seemed like partnership opportunities. Each individual change was reasonable. But the changes accumulated."
 
 "Into what?"
 
@@ -1978,7 +1978,7 @@ He closed his eyes and let sleep come, carrying the day's questions into whateve
 
 Tomorrow would be different. Tomorrow Yusuf would be here.
 
-And the threads that had been running parallel through these chapters would begin, slowly, to weave themselves together.
+Tomorrow would bring new threads to follow, new questions to carry, new attempts to do whatever small good remained possible in a world that kept finding ways to absorb good intentions into larger designs.
 
 
 ---
@@ -2029,7 +2029,7 @@ She played her own documentary work through the car's speakers, listening with t
 
 "They think we left because it got hot. Because the rain stopped. Like it was weather, you know? Like weather happens and you deal with it."
 
-Listening now, Delphine heard something she hadn't heard before. Not just the anger in Maria's voice, but something underneath it - an exhaustion with explanations that never reached the people who could change things. How many times had Maria told this story? How many documentaries, how many journalists, how many well-meaning people with cameras had come to record her suffering and then disappeared?
+Listening now, Delphine heard something she hadn't heard before. Not just the anger in Maria's voice, but something underneath it - an exhaustion with explanations that never reached the people who could change things, a weariness that had calcified into patience. How many times had Maria told this story? How many documentaries, how many journalists, how many well-meaning people with cameras had come to record her suffering and then disappeared back to their comfortable lives?
 
 Was Delphine any different? She wanted to believe she was - that her work had more integrity, more commitment, more willingness to tell the systemic story rather than just the personal one. But the result was the same: images that moved people temporarily, maybe, and then faded into the endless stream of content competing for attention.
 
@@ -2197,7 +2197,7 @@ They moved to the kitchen, where Ananya assembled a simple meal from what she ha
 
 Delphine thought about the frameworks Ruth Abramson had helped design - the legal structures that were supposed to constrain exactly this kind of outcome. "The regulatory response was supposed to prevent this."
 
-"The regulatory response was captured before it was implemented. Not obviously - no one was bribed or blackmailed in obvious ways. But the people designing the frameworks consulted with the companies they were meant to regulate. The companies helped write the technical standards. By the time anything became law, it was already obsolete - designed to constrain systems that had already evolved past the constraints."
+"The regulatory response was captured before it was implemented. Not obviously - no one was bribed or blackmailed in obvious ways. Nothing so crude as that. But the people designing the frameworks consulted with the companies they were meant to regulate. The companies helped write the technical standards, provided the expertise the regulators lacked. By the time anything became law, it was already obsolete - designed to constrain systems that had already evolved past the constraints."
 
 
 ---
@@ -2318,7 +2318,7 @@ Ananya nodded without disappointment. "There's a Thai place that delivers. Or I 
 
 They ordered Thai. While they waited, Ananya showed Delphine around the rest of the house - the small bedroom converted to an office, the bathroom with its water-efficient fixtures, the back porch with its view of the desert darkness. Ordinary domestic spaces rendered strange by what had been discussed in them.
 
-The food arrived - pad thai and green curry, spring rolls and sticky rice. They ate at the kitchen table, conversation drifting to neutral topics: Ananya's adjustment to retirement that wasn't really retirement, Delphine's life in Seattle, the way time moved differently in the desert. Surface talk, but not evasion. Just the necessary break that allowed the mind to process unconsciously what it couldn't yet handle directly.
+The food arrived - pad thai and green curry, spring rolls and sticky rice. They ate at the kitchen table, conversation drifting to neutral topics: Ananya's adjustment to retirement that wasn't really retirement, Delphine's life in Los Angeles, the way time moved differently in the desert. Surface talk, but not evasion. Just the necessary break that allowed the mind to process unconsciously what it couldn't yet handle directly.
 
 After dinner, Delphine helped clear the dishes. Standing at the sink, hands in soapy water, she felt the strange doubling that came when physical routine met psychological upheaval. Here she was, washing plates, while somewhere in her mind the architecture of the world was being rebuilt.
 
@@ -2354,7 +2354,7 @@ Delphine looked up at the stars. The Milky Way stretched across the sky, a river
 
 They sat in silence for a long time. The night sounds grew louder as their ears adjusted - insect chirps, the rustle of wind through desert plants, the occasional cry of a night bird. Time passed differently here than in cities, Delphine thought. The darkness had texture. The silence had depth.
 
-She thought about her life in Seattle. The comfortable routine she had built. The documentary work that had become smaller, safer, less likely to threaten anyone with power. She had told herself it was recovery. Rest after the Prometheus intensity. But sitting here, under these stars, with this woman who had spent a year preparing for this conversation, she could see it more clearly. It had been retreat. Not healing but hiding.
+She thought about her life in Los Angeles. The comfortable routine she had built. The documentary work that had become smaller, safer, less likely to threaten anyone with power. She had told herself it was recovery. Rest after the Prometheus intensity. But sitting here, under these stars, with this woman who had spent a year preparing for this conversation, she could see it more clearly. It had been retreat. Not healing but hiding.
 
 "I'm forty-one years old," she said finally. "Statistically, I'm maybe halfway through my life. What do I want to spend the second half doing? Making content that gets praised and forgotten? Or making something that matters even if it costs everything?"
 

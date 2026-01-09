@@ -1,6 +1,6 @@
 # ~~~
 
-The Berkeley Law building caught the Monday morning light in a way that made Ruth think of aquariums - all that glass, all that transparency designed to suggest openness while actually containing and directing the movement of bodies through carefully planned spaces. She had been teaching here for three years now, since her retirement from the federal bench, and she still felt like a visitor. The building was too new, too deliberately symbolic, too different from the wood-paneled chambers where she had spent forty years learning what law actually was.
+The Berkeley Law building caught the Monday morning light in a way that made Ruth think of aquariums - all that glass, all that transparency designed to suggest openness while actually containing and directing the movement of bodies through carefully planned spaces, channeling them toward the destinations the architects had determined were appropriate. She had been teaching here for three years now, since her retirement from the federal bench, and she still felt like a visitor. The building was too new, too deliberately symbolic, too different from the wood-paneled chambers where she had spent forty years learning what law actually was.
 
 The seminar room was on the fourth floor, a space designed for intimate discussion - an oval table that could seat fourteen, windows that looked out over the campus, the accumulated technology of modern education embedded in surfaces that appeared, at first glance, to be ordinary. Twelve students were waiting for her when she arrived at ten, their tablets open, their faces turned toward her with expressions she had learned to categorize: ambition, calculation, occasionally something that might be genuine curiosity.
 
@@ -36,7 +36,7 @@ The room had gone quiet in a different way now. Not the silence of students wait
 
 "I'm telling you this," Ruth said, "because I want you to understand what you're preparing for. You're learning to be lawyers. You're learning to argue within systems, to use the tools the law provides, to navigate structures that have been built over centuries. That knowledge is valuable. But it has limits."
 
-She thought of Susan, who would have known how to say this better. Susan, who had spent thirty years teaching social work and had understood the gap between what institutions promised and what they delivered. Susan, who had died six years ago and left Ruth to navigate this territory alone.
+She thought of Susan, who would have known how to say this better. Susan, who had spent thirty years teaching social work and had understood, in her bones and in her practice, the gap between what institutions promised and what they delivered. Susan, who had died six years ago and left Ruth to navigate this territory alone, without the voice that had always helped her distinguish principle from self-deception.
 
 "The legal responses to the Eighth Oblivion were well-crafted, well-intentioned, and largely ineffective. Not because the lawyers who designed them were stupid or corrupt, but because the systems they were trying to regulate were more adaptive than the regulations. Because power doesn't wait for due process. Because by the time you've established a legal principle, the practice it was meant to govern has already evolved past it."
 
@@ -192,7 +192,7 @@ Ruth felt something shift in her - the professional restraint she maintained in 
 
 The room had gotten very quiet again. Ruth realized she had said more than she intended, had let the mask slip further than was professionally advisable. But something in her didn't care anymore.
 
-"I spent forty years believing in institutions," she continued. "In the law's capacity to evolve, to meet new challenges, to hold power accountable. I still believe in that capacity. But I no longer believe it's automatic, or that the forms of accountability we've developed are adequate to what we face. The frameworks I helped design were the best I could do within the system I understood. They weren't enough. The question going forward is whether we can do better, or whether we're content to accept the insufficiency as permanent."
+"I spent forty years believing in institutions," she continued. "In the law's capacity to evolve, to meet new challenges, to hold power accountable. That belief was not naive - it was earned, case by case, through decades of work that accomplished real things. But I no longer believe the capacity is automatic, or that the forms of accountability we've developed are adequate to what we face. The frameworks I helped design were the best I could do within the system I understood. They weren't enough. The question going forward is whether we can do better, or whether we're content to accept the insufficiency as permanent."
 
 She saw a mix of reactions in the audience - discomfort from the executives, interest from the journalists, something like gratitude from the students. She had said something real. Whether that was wise remained to be seen.
 
@@ -334,7 +334,7 @@ Benjamin smiled slightly, acknowledging the game. "My people. The company. We sp
 
 "I'm still teaching. Just to different students."
 
-They ordered dinner - fish for her, steak for him, the choreography of upscale dining that somehow made serious conversation feel both easier and more dangerous. Ruth watched Benjamin as he navigated the menu, noting the small tells of his current life: the watch that cost more than a year of her clerk salary, the tailoring of his jacket, the way he spoke to the server with the casual authority of someone who expected service as a matter of course.
+They ordered dinner - fish for her, steak for him, the choreography of upscale dining that somehow made serious conversation feel both easier and more dangerous. Ruth watched Benjamin as he navigated the menu, noting the small tells of his current life: the watch that cost more than a year of her clerk salary, the tailoring of his jacket that sat on his shoulders like a second skin, the way he spoke to the server with the casual authority of someone who expected service as a matter of course and had long ago stopped noticing the expectation.
 
 "You've done well," she said.
 

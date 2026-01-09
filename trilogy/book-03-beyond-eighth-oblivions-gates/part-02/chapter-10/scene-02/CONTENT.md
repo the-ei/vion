@@ -1,4 +1,4 @@
-Daniel's truck pulled into the driveway at six forty-five, dust-coated from the construction site, the engine ticking as it cooled. Elena watched from the kitchen window as he climbed out, still in his work clothes, jeans and a flannel shirt that had seen too many washes. He moved with the careful deliberation of a man who had been driving for three hours, his body stiff, his face set with worry.
+Daniel's truck pulled into the driveway at six forty-five, the white paint dust-coated from the construction site, the engine ticking as it cooled in the evening air. Elena watched from the kitchen window as he climbed out, still in his work clothes, jeans and a flannel shirt that had seen too many washes. He moved with the careful deliberation of a man who had been driving for three hours, his body stiff, his face set with worry.
 
 She met him at the door. They stood looking at each other across the threshold, two people who had been married for eleven years and lately felt like strangers sharing a house.
 
@@ -14,14 +14,14 @@ He stepped inside and she was in his arms, pressing her face into his chest, inh
 
 "Okay." He pulled back, looked at her face. "Tell me."
 
-She led him to their bedroom, closed the door. The intimacy of the space felt almost foreign - when was the last time they had been in this room together for anything other than sleep? Their conversations happened in the kitchen, in the car, in the moments stolen between other obligations.
+She led him to their bedroom, closed the door. The intimacy of the space felt almost foreign - when was the last time they had been in this room together for anything other than sleep? Their conversations happened in the kitchen, in the car, in the moments stolen between other obligations, never here where intimacy once lived.
 
 "Autoimmune thyroiditis," she said. "Hashimoto's. My immune system is attacking my thyroid."
 
 
 ---
 
-Daniel sat on the edge of the bed. His hands hung between his knees, work-roughened hands that had built houses, held their babies, touched her in ways that now felt like distant memory.
+Daniel sat on the edge of the bed, the mattress dipping under his weight. His hands hung between his knees, work-roughened hands that had built houses, held their babies, touched her in ways that now felt like distant memory.
 
 "What does that mean? Is it - how bad is it?"
 
@@ -43,7 +43,7 @@ The silence that followed was heavy with things unsaid. Daniel ran a hand over h
 
 "Not that much. Not all those jobs. I could have said no to some of them."
 
-Elena felt something crack inside her chest. The admission she had been wanting, the acknowledgment she hadn't allowed herself to ask for. "Why didn't you?"
+Elena felt something crack inside her chest, a fissure running through the wall she had built around her resentment. The admission she had been wanting, the acknowledgment she hadn't allowed herself to ask for. "Why didn't you?"
 
 "Because being here felt like failing." His voice was rough. "You were handling everything. The kids, your abuela, your job. And I'd come home and there was nothing for me to do. Nothing I could do that you weren't already doing better."
 
@@ -56,11 +56,11 @@ Elena felt something crack inside her chest. The admission she had been wanting,
 
 "You were useful here, Daniel. Just being here would have been useful."
 
-"I didn't know how to be here." His voice broke on the last word. "You had a system. A way everything worked. Every time I tried to help, I messed it up. Put the dishes in the wrong place, forgot someone's schedule. After a while it seemed easier to just - not."
+"I didn't know how to be here." His voice broke on the last word. "You had a system. A way everything worked, everything had its place. Every time I tried to help, I messed it up. Put the dishes in the wrong cabinet, forgot someone's schedule, did the laundry wrong. After a while it seemed easier to just - not."
 
 Elena stood up and walked to the window. The backyard was dark now, the children's swing set a shadow against the sky. She could hear, distantly, the sound of abuela's television, the children's voices raised in play.
 
-"I was drowning," she said. "For years. I was drowning and you weren't here to see it."
+"I was drowning," she said. "For years, Daniel. I was drowning and you weren't here to see it."
 
 "I know."
 
@@ -79,7 +79,7 @@ She was crying now, the tears hot on her face, her breath coming in gasps. Danie
 
 "Okay." He stood back, hands at his sides. "I'm listening."
 
-"I'm so tired." The words came out as a whisper. "I'm tired in my bones. I'm tired in ways sleep doesn't fix. And now my body is literally falling apart, attacking itself, because I couldn't ask for help. Because I convinced myself I had to be strong, had to hold everything together, because that's what I do, that's who I am."
+"I'm so tired." The words came out barely above a whisper. "I'm tired in my bones, Daniel. I'm tired in ways sleep doesn't fix, hasn't fixed for years. And now my body is literally falling apart, attacking itself, because I couldn't ask for help. Because I convinced myself I had to be strong, had to hold everything together, because that's what I do, that's who I am."
 
 "You could have asked."
 
@@ -100,7 +100,7 @@ Daniel sat back down on the bed. The distance between them felt measured in year
 
 "Says who?"
 
-"Says everyone. Says the whole world." She wiped her face with the back of her hand. "The good mother. The devoted nurse. The daughter who takes care of her grandmother. The wife who manages the household while her husband works. That's who I'm supposed to be."
+"Says everyone. Says the whole world." She wiped her face with the back of her hand, an angry gesture. "The good mother. The devoted nurse. The daughter who takes care of her grandmother. The wife who manages the household while her husband works. That's who I'm supposed to be. That's all I'm supposed to be."
 
 "You don't have to be-"
 
@@ -135,7 +135,7 @@ Sofia nodded, seeming to file this away for later processing. "Abuela made enchi
 
 ---
 
-Dinner was an exercise in performing normalcy. Enchiladas that abuela had made from memory, Mateo talking about school, Sofia quiet and watchful. Daniel sat beside Elena, their knees touching under the table, a small reconnection amid the larger distance.
+Dinner was an exercise in performing normalcy for an audience of three. Enchiladas that abuela had made from memory, Mateo talking about school, Sofia quiet and watchful as always. Daniel sat beside Elena, their knees touching under the table, a small reconnection amid the larger distance.
 
 After the children were in bed, they sat on the back porch with glasses of wine that Elena wasn't supposed to drink but allowed herself anyway. The Phoenix night was cool, stars visible despite the light pollution.
 
@@ -153,7 +153,7 @@ He took her hand. His palm was calloused, warm. "What do we do now?"
 
 "Can we?"
 
-She thought about it. The years of parallel existence, of logistics masquerading as marriage. The love that had been buried under obligation but had never quite disappeared.
+She thought about it. The years of parallel existence, of logistics masquerading as marriage, of efficiency crowding out intimacy. The love that had been buried under obligation but had never, somehow, quite disappeared.
 
 "I think so. If we're both willing to try."
 
@@ -180,7 +180,7 @@ He pulled her closer. "Maybe you get to find out."
 
 "Then we figure it out together. Isn't that what this is? Marriage?"
 
-She thought about that word, marriage, what it was supposed to mean and what it had actually been for them. A partnership, in theory. A tag-team arrangement, in practice. She passing off responsibilities to him as he walked through the door, he disappearing before she could hand them back.
+She thought about that word, marriage, what it was supposed to mean and what it had actually been for them. A partnership, in theory. A tag-team arrangement, in practice, with decreasing overlap. She passing off responsibilities to him as he walked through the door, he disappearing before she could hand them back.
 
 "I want it to be different," she said.
 

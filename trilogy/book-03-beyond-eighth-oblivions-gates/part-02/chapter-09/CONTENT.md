@@ -483,7 +483,7 @@ Priya was quiet for a long time. Outside, a siren wailed past, fading into the n
 
 "The prompt doesn't say it has to be positive. It just says to write about someone who influenced my values."
 
-Ananya looked at her daughter, this person she had made and raised and was now losing to adulthood. Priya had always been perceptive. But this was something else, something harder: the willingness to sit with uncomfortable truths rather than looking away.
+Ananya looked at her daughter, this person she had made and raised and was now losing to the necessary process of becoming separate. Priya had always been perceptive. But this was something else, something harder and more admirable: the willingness to sit with uncomfortable truths rather than looking away from them.
 
 "If you write that, admissions committees might not know what to do with it."
 

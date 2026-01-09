@@ -4,7 +4,7 @@ The Oakland apartment was small - a studio with a sleeping alcove, a galley kitc
 
 He rolled out of bed and onto the yoga mat that stayed permanently on the floor. Twenty minutes of stretches, then twenty minutes of meditation - practices he had picked up in Berlin during the wandering years, when he had needed something to anchor him after everything else had come loose. The stretches were easier now than they had been at first, his body having adapted to the routine the way bodies did when you gave them consistency.
 
-The meditation was still hard. His mind still wanted to plan, to optimize, to run scenarios about what needed to happen next. But he had learned to notice that wanting without following it, to let the thoughts arise and pass without grabbing onto them. It wasn't peace, exactly - it was more like truce. A negotiated settlement between who he had been and who he was trying to become.
+The meditation was still hard. His mind still wanted to plan, to optimize, to run scenarios about what needed to happen next, as if some part of him had never left the startup environment where every moment was an opportunity cost. But he had learned to notice that wanting without following it, to let the thoughts arise and pass without grabbing onto them. It wasn't peace, exactly - it was more like truce. A negotiated settlement between who he had been and who he was trying to become.
 
 At six, he made breakfast. Eggs scrambled with vegetables, toast with avocado, coffee from the small pour-over setup he had become unreasonably attached to. The ritual of cooking grounded him in his body in ways that the digital work of the rest of his day couldn't.
 

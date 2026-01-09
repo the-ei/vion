@@ -65,7 +65,7 @@ Ananya nodded without disappointment. "There's a Thai place that delivers. Or I 
 
 They ordered Thai. While they waited, Ananya showed Delphine around the rest of the house - the small bedroom converted to an office, the bathroom with its water-efficient fixtures, the back porch with its view of the desert darkness. Ordinary domestic spaces rendered strange by what had been discussed in them.
 
-The food arrived - pad thai and green curry, spring rolls and sticky rice. They ate at the kitchen table, conversation drifting to neutral topics: Ananya's adjustment to retirement that wasn't really retirement, Delphine's life in Seattle, the way time moved differently in the desert. Surface talk, but not evasion. Just the necessary break that allowed the mind to process unconsciously what it couldn't yet handle directly.
+The food arrived - pad thai and green curry, spring rolls and sticky rice. They ate at the kitchen table, conversation drifting to neutral topics: Ananya's adjustment to retirement that wasn't really retirement, Delphine's life in Los Angeles, the way time moved differently in the desert. Surface talk, but not evasion. Just the necessary break that allowed the mind to process unconsciously what it couldn't yet handle directly.
 
 After dinner, Delphine helped clear the dishes. Standing at the sink, hands in soapy water, she felt the strange doubling that came when physical routine met psychological upheaval. Here she was, washing plates, while somewhere in her mind the architecture of the world was being rebuilt.
 
@@ -101,7 +101,7 @@ Delphine looked up at the stars. The Milky Way stretched across the sky, a river
 
 They sat in silence for a long time. The night sounds grew louder as their ears adjusted - insect chirps, the rustle of wind through desert plants, the occasional cry of a night bird. Time passed differently here than in cities, Delphine thought. The darkness had texture. The silence had depth.
 
-She thought about her life in Seattle. The comfortable routine she had built. The documentary work that had become smaller, safer, less likely to threaten anyone with power. She had told herself it was recovery. Rest after the Prometheus intensity. But sitting here, under these stars, with this woman who had spent a year preparing for this conversation, she could see it more clearly. It had been retreat. Not healing but hiding.
+She thought about her life in Los Angeles. The comfortable routine she had built. The documentary work that had become smaller, safer, less likely to threaten anyone with power. She had told herself it was recovery. Rest after the Prometheus intensity. But sitting here, under these stars, with this woman who had spent a year preparing for this conversation, she could see it more clearly. It had been retreat. Not healing but hiding.
 
 "I'm forty-one years old," she said finally. "Statistically, I'm maybe halfway through my life. What do I want to spend the second half doing? Making content that gets praised and forgotten? Or making something that matters even if it costs everything?"
 

@@ -395,7 +395,7 @@ The overhead light flickered once and everyone tensed. Then it steadied, and the
 
 ---
 
-Elena thought about the patient with the broken arm. He had come in during the second day, maybe the third, when the clinic was at its most overwhelmed and every available surface had become a treatment space. His arm had been broken by something falling, a shelf, a cabinet, something in his home that had toppled when the tremors hit, though whether the tremors were seismic or something else entirely had never been explained to her satisfaction. But his arm was not what he wanted to talk about. His arm was secondary to the question he kept asking, the question that had become a kind of fever in him: his daughter, his daughter, had anyone heard from his daughter, she had been downtown when it started, she had been in one of the buildings.
+Elena thought about the patient with the broken arm. He had come in during the second day, maybe the third, when the clinic was at its most overwhelmed and every available surface had become a treatment space. His arm had been broken by something falling, a shelf, a cabinet, something in his home that had toppled when the tremors hit, though whether the tremors were seismic or something else entirely had never been explained to her satisfaction. But his arm was not what he wanted to talk about. His arm was secondary to the question he kept asking, the question that had become a kind of fever in him, more urgent than any physical pain: his daughter, his daughter, had anyone heard from his daughter, she had been downtown when it started, she had been in one of the buildings that might have fallen or might have held.
 
 Elena had set his arm. She had done a good job, clean reduction, appropriate splinting. She had told him someone would help him find information about his daughter, and then she had moved on to the next patient because there were always next patients, and she had never seen him again. She did not know his name. She did not know his daughter's name. She did not know if his daughter was alive or dead, and now she would never know, and this not-knowing had lodged in her like a splinter, small but impossible to ignore.
 
@@ -420,7 +420,7 @@ They sat with that for a while. On the television, the news had changed to somet
 
 The evening had arrived without anyone noticing. Through the window, the parking lot lights had come on, creating pools of yellow in the darkness. Someone would need to lock the doors. Someone would need to make decisions about tomorrow. But not yet. Not in this moment. In this moment there was only sitting, only the accumulated weight of a day that would not resolve, a crisis that had ended without ending anything.
 
-Elena sat. She breathed. She waited for something that had already passed to feel like it had passed. Outside, the city continued its silent convalescence, and somewhere her children slept, and somewhere patients waited, and she sat very still and let the time move around her like water around a stone.
+Elena sat. She breathed. She waited for something that had already passed to feel like it had passed, for the ending to catch up with the event it was meant to conclude. Outside, the city continued its silent convalescence, and somewhere her children slept in unfamiliar beds, and somewhere patients waited for care she was not giving them, and she sat very still and let the time move around her like water around a stone, eroding nothing, changing nothing, simply passing.
 
 
 ---
@@ -435,13 +435,13 @@ Elena sat. She breathed. She waited for something that had already passed to fee
 
 # ~~~
 
-The notification came at seven in the morning, the familiar chime that Yusuf had not heard in six days. He looked at his phone and saw the app icon, the little delivery bag with its cheerful green checkmark, and beneath it the message: READY TO EARN? HIGH DEMAND IN YOUR AREA. The algorithm did not know what had happened. The algorithm did not know anything. It simply calculated that people were requesting deliveries and drivers were available and the connection should be made. This was, Yusuf thought as he stared at the screen, the purest expression of capitalism he had ever encountered: the absolute refusal to acknowledge that anything had changed.
+The notification arrived at seven in the morning, the familiar chime that Yusuf had not heard in six days, its cheerfulness grotesque against the silence of aftermath. He looked at his phone and saw the app icon, the little delivery bag with its cheerful green checkmark, and beneath it the message: READY TO EARN? HIGH DEMAND IN YOUR AREA. The algorithm did not know what had happened. The algorithm did not know anything. It simply calculated that people were requesting deliveries and drivers were available and the connection should be made. This was, Yusuf thought as he stared at the screen, the purest expression of capitalism he had ever encountered: the absolute refusal to acknowledge that anything had changed.
 
 He took the delivery.
 
 He took it because the rent was still due on the first, because the power company would still want payment, because his mother's medications cost what they cost regardless of whether the world had almost ended. He took it because sitting in the apartment waiting for his mind to stop replaying what he had seen was worse than driving, and driving at least gave him something to do with his hands.
 
-The first request was a pharmacy run. The map showed an address in Powderhorn, a neighborhood he knew well from a thousand previous deliveries, and the customer notes said simply: BLOOD PRESSURE MEDICATION - URGENT. Yusuf drove through streets that looked almost normal and streets that looked like disaster zones, the damage distributed according to some logic he could not discern. A boarded window here, an intact storefront there. A pile of debris on one corner, children walking to school on the next.
+The first request was a pharmacy run. The map showed an address in Powderhorn, a neighborhood he knew well from a thousand previous deliveries, and the customer notes said simply: BLOOD PRESSURE MEDICATION - URGENT. Yusuf drove through streets that looked almost normal and streets that looked like disaster footage, the damage distributed according to some logic he could not discern, some algorithm of destruction that made no more sense than the one routing him to delivery addresses. A boarded window here, an intact storefront there. A pile of debris on one corner, children walking to school on the next, their backpacks bright against the gray morning.
 
 
 ---
@@ -450,7 +450,7 @@ The pharmacy was operating on emergency hours, a handwritten sign taped to the d
 
 The man who answered was in his seventies, wearing a bathrobe at ten in the morning, his eyes tired but alert. He took the bag from Yusuf and looked inside, and something in his face released.
 
-"I ran out during," he said, and did not finish the sentence. During did not need specification. There was only one during now.
+"I ran out during," he said, and did not finish the sentence. During required no specification. There was only one during now, and it would be the only during for a long time.
 
 "Are you doing okay otherwise?" Yusuf asked, and did not know why he asked, because this was not part of the job, because the job was deliver and leave and move to the next request.
 
@@ -458,7 +458,7 @@ The man who answered was in his seventies, wearing a bathrobe at ten in the morn
 
 Yusuf nodded and returned to his car. The app was already pinging with another request. He accepted it and drove.
 
-The second delivery was groceries to a family in Phillips. The address existed, which was more than could be said for some of the requests the app was generating - he had seen three already that pointed to buildings now uninhabitable, the algorithm cheerfully routing drivers to addresses where no one could live. This one was real: a woman in her thirties met him at the door with two children clutching her legs, all three of them with the particular alertness of people who had recently been afraid.
+The second delivery was groceries to a family in Phillips. The address existed, which was more than could be said for some of the requests the app was generating - he had seen three already that pointed to buildings now uninhabitable, the algorithm cheerfully routing drivers to addresses where no one could live. This one was real: a woman in her thirties met him at the door with two children clutching her legs, all three of them carrying the particular alertness of people whose bodies had not yet forgotten fear.
 
 
 ---
@@ -467,7 +467,7 @@ The second delivery was groceries to a family in Phillips. The address existed, 
 
 It was still here. Yusuf could see through the door that the interior was intact, lived-in, the children's toys scattered as if they had left in a hurry and returned to find everything waiting. The woman tipped him ten dollars through the app, which was generous, which was more than she could probably afford, and he accepted it because refusing would be strange and because his own bills did not care about his principles.
 
-Snow had begun to fall. Light flakes that melted on contact with the windshield, the first snow since before the crisis, the sky remembering its patterns even if nothing else had returned to normal. Yusuf drove and watched the snow and tried not to think about anything except the next address, the next delivery, the simple mechanics of motion.
+Snow had begun to fall. Light flakes that dissolved on contact with the windshield, the first snow since before the crisis, the sky remembering its patterns even when nothing else had returned to normal, even when normal had revealed itself as a story they had all been telling themselves. Yusuf drove and watched the snow and tried not to think about anything except the next address, the next delivery, the simple mechanics of motion.
 
 The app offered him a surge-priced delivery to an address in Northeast. He looked at the map and recognized the neighborhood - one of the evacuation zones, officially still closed, but the app did not know this. Someone had requested delivery to a place that was not supposed to have anyone in it. Yusuf accepted the request anyway, curious, and drove across the river.
 

@@ -33,7 +33,7 @@ Benjamin smiled slightly, acknowledging the game. "My people. The company. We sp
 
 "I'm still teaching. Just to different students."
 
-They ordered dinner - fish for her, steak for him, the choreography of upscale dining that somehow made serious conversation feel both easier and more dangerous. Ruth watched Benjamin as he navigated the menu, noting the small tells of his current life: the watch that cost more than a year of her clerk salary, the tailoring of his jacket, the way he spoke to the server with the casual authority of someone who expected service as a matter of course.
+They ordered dinner - fish for her, steak for him, the choreography of upscale dining that somehow made serious conversation feel both easier and more dangerous. Ruth watched Benjamin as he navigated the menu, noting the small tells of his current life: the watch that cost more than a year of her clerk salary, the tailoring of his jacket that sat on his shoulders like a second skin, the way he spoke to the server with the casual authority of someone who expected service as a matter of course and had long ago stopped noticing the expectation.
 
 "You've done well," she said.
 

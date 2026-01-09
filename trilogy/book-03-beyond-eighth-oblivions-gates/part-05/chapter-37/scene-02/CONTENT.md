@@ -1,4 +1,4 @@
-Denise arrived first, still in her teaching clothes, her coat pulled on over a cardigan, her bag full of ungraded papers she would not look at tonight. She came into the hospice room with the particular competence of someone who had done this before, who knew the geography of medical crisis, who could navigate the emotions of hospitals without losing herself.
+Denise arrived first, still in her teaching clothes, her coat pulled on over a cardigan, her bag heavy with ungraded papers she would not look at tonight. She came into the hospice room with the particular competence of someone who had done this before, who knew the geography of medical crisis, who could navigate the emotions of hospitals without losing herself.
 
 "Any change?" she asked, settling into the chair beside Jerome.
 
@@ -37,7 +37,7 @@ Patricia looked at Jerome. "I heard she woke up. Talked to you."
 
 "You didn't know it would happen." Patricia sat in the chair on the other side of the bed, creating a geometry of vigil with Jerome and Denise. "The doctors said these windows come when they come. You can't plan for them."
 
-The tension in the room was old, familiar, the sibling friction of unequal burdens borne. Jerome had spent his career chasing stories across the country and the world while Patricia stayed rooted, grounded, present for their mother in ways he had not been. He had sent money and made visits and told himself that was enough, and perhaps it was enough, and perhaps it wasn't, and it was too late now to change any of it.
+The tension in the room was old and familiar, the sibling friction of unequal burdens borne. Jerome had spent his career chasing stories across the country and the world while Patricia stayed rooted, grounded, present for their mother in ways he had not been. He had sent money and made visits and told himself that was enough, and perhaps it was enough, and perhaps it wasn't, and it was too late now to change any of it.
 
 
 ---
@@ -48,7 +48,7 @@ DeShawn arrived last, just before nine, looking rumpled from the flight from San
 
 "Resting," Patricia said. "She had a good moment earlier. She talked to your father."
 
-DeShawn moved to the bed, looked down at the woman who had been his grandmother for twenty-four years. Jerome watched his son's face, trying to read it. DeShawn had never been easy to read, had grown up in the space between Jerome's demanding career and the normal pressures of childhood, had become someone careful, guarded, skilled at managing emotions.
+DeShawn moved to the bed, looked down at the woman who had been his grandmother for twenty-four years. Jerome studied his son's face, trying to read it. DeShawn had never been easy to read, had grown up in the space between Jerome's demanding career and the ordinary pressures of childhood, had become someone careful, guarded, skilled at managing his emotions.
 
 "Hey, Grandma," DeShawn said softly. "I'm here. I flew in from California."
 
@@ -58,7 +58,7 @@ No response. But he stayed there, looking at her, his hand touching the blanket 
 
 DeShawn shrugged. "Some things are more important than work."
 
-This was a barb, possibly, or possibly just a statement of fact. Jerome had not always made that choice. Had missed recitals and games and birthdays, had been on assignment when Denise had needed him, had prioritized the story over the presence. DeShawn had grown up with that, had internalized it in ways Jerome couldn't fully see, had become someone who worked in tech with an intensity that might have been learned from watching his father.
+This was a barb, possibly, or possibly just a statement. Jerome had not always made that choice. Had missed recitals and games and birthdays, had been on assignment when Denise had needed him, had prioritized the story over the presence. DeShawn had grown up with that, had internalized it in ways Jerome couldn't fully see, had become someone who worked in tech with an intensity that might have been learned from watching his father.
 
 
 ---

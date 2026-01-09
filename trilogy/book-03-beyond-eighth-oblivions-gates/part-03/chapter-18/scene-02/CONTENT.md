@@ -115,7 +115,7 @@ A gap in the text. Then:
 
 ---
 
-Elena closed the prayer book. She could not read more, not now, not with Sofia watching. There were pages she had not reached, entries she had not seen, the story incomplete as all stories are incomplete, fragments that would never cohere into the whole truth.
+Elena closed the prayer book. She could not read more, not now, not with Sofia watching. There were pages she had not reached, entries she had not seen, the story incomplete as all stories are, fragments that would never cohere into whole truth.
 
 "There might be another person in our family," she said finally. "Someone I never knew about. Someone who lives far away."
 
@@ -129,7 +129,7 @@ Sofia's eyes widened. "Can we meet him?"
 
 The afternoon light was changing again, moving toward the gold of early evening. Somewhere in the house, Mateo was quiet, probably sitting with the rosary, talking to himself or to no one or to a bisabuela who could no longer answer.
 
-Elena looked at the prayer book in her hands, at San Judas Tadeo with his patient face, the saint of desperate cases and lost causes. Her abuela had prayed to him all her life. Had she prayed about this? Had she asked for the courage to tell Elena the truth and been denied, or had she asked for permission to keep silent and been granted it?
+Elena looked at the prayer book in her hands, at San Judas Tadeo with his patient face, patron of desperate cases and lost causes. Her abuela had prayed to him all her life. Had she prayed about this? Had she asked for courage to tell Elena the truth and been denied, or had she asked for permission to keep silent and been granted it?
 
 There was no way to know. The dead do not explain themselves. They leave objects and letters and memories, and the living must sort through them, making meaning where they can, accepting mystery where they cannot.
 
@@ -144,15 +144,15 @@ There was no way to know. The dead do not explain themselves. They leave objects
 
 She did. Elena and Daniel had tried to raise the children bilingual, with varying success. Sofia understood more than she could speak; Mateo spoke freely but with an American accent that would have made abuela laugh.
 
-"Someday," Elena said. "When you're older. There are some things in here that are hard to understand."
+"Someday," Elena said. "When you're older. Some things in here are hard to understand."
 
 "Because of the language?"
 
 "Because of the sadness."
 
-Sofia nodded, accepting this. She was wise enough already to know that adults kept things from children, and that sometimes this keeping was a form of love.
+Sofia nodded, accepting this. She was wise enough already to know that adults kept things from children, and sometimes this keeping was its own form of love.
 
-They sat together in the dimming room, mother and daughter, the letter unfinished between them. Elena thought about her mother, about the woman she had known who had also been a woman she had not known at all. She thought about the brother who existed somewhere, probably, shaped by the abandonment she had not even been aware of, carrying a story that was also her story though they had never shared a word.
+They sat together in the dimming room, mother and daughter, the letter unfinished between them. Elena thought about her mother, about the woman she had known who had also been a woman she had not known at all. She thought about the brother who existed somewhere, probably, shaped by the abandonment she had not even been aware of, carrying a story that was also her story though they had never exchanged a word.
 
 And she thought about Sofia, about what she would pass on, about the gaps in her own knowledge that would become gaps in Sofia's, an inheritance of absences handed down like the linens and the photographs and the debts.
 

@@ -1,4 +1,4 @@
-Two evenings later, Elena sat with her grandmother sorting medications. The ritual happened at seven o'clock every night: pill bottles lined up on the dresser, the plastic weekly organizer with its small compartments labeled in both English and Spanish. Abuela's hands were swollen, the joints gnarled from arthritis, but she insisted on doing as much as she could herself. Elena supervised, corrected, worried.
+Two evenings later, Elena sat with her grandmother sorting medications. The ritual happened at seven o'clock every night, immutable as sunset: pill bottles lined up on the dresser in order of dosage, the plastic weekly organizer with its small compartments labeled in both English and Spanish. Abuela's hands were swollen, the joints gnarled from arthritis, but she insisted on doing as much as she could herself. Elena supervised, corrected, worried.
 
 "The metformin first," Elena said. "Then the lisinopril."
 
@@ -8,7 +8,7 @@ Two evenings later, Elena sat with her grandmother sorting medications. The ritu
 
 "You worry. It's your nature." Abuela dropped a white pill into its compartment with practiced precision. "But tonight, I think maybe we talk about you instead."
 
-Elena watched her grandmother's hands move from bottle to bottle. The skin was thin, almost translucent, veins visible like rivers on a map. These were hands that had worked in fields, washed other people's clothes, raised four children and helped raise their children too. Hands that knew labor in ways Elena's generation could barely imagine.
+Elena watched her grandmother's hands move from bottle to bottle. The skin was thin, almost translucent, veins visible like rivers on a map. These were hands that had worked in fields before dawn, washed other people's clothes for money, raised four children and helped raise their children and their children's children too. Hands that knew labor in ways Elena's generation could barely imagine, though they carried its inheritance.
 
 "Daniel told me about the tests," abuela said. "He was very upset."
 
@@ -25,7 +25,7 @@ Abuela laughed, a dry sound. "Mija, I am seventy-eight years old. Worrying about
 
 Elena helped her close the last compartment. Friday, the final day of the week. They sat back, abuela in her recliner with its crocheted blanket, Elena on the edge of the bed. The room was cluttered with the accumulations of a long life: photographs on every surface, religious icons, a collection of ceramic figurines sent by relatives still in Mexico.
 
-"Your thyroid," abuela said. "That is nothing. I have diabetes, high blood pressure, arthritis. My kidneys are not so good anymore. The body falls apart, mija. This is what it does."
+"Your thyroid," abuela said, dismissing decades of medical anxiety with a wave of her swollen hand. "That is nothing. I have diabetes, high blood pressure, arthritis. My kidneys are not so good anymore. The body falls apart, mija. This is what it does. This is what bodies are for."
 
 "But I'm only thirty-seven."
 

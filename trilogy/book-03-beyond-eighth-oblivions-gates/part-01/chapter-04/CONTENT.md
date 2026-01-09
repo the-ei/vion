@@ -6,7 +6,7 @@ The Oakland apartment was small - a studio with a sleeping alcove, a galley kitc
 
 He rolled out of bed and onto the yoga mat that stayed permanently on the floor. Twenty minutes of stretches, then twenty minutes of meditation - practices he had picked up in Berlin during the wandering years, when he had needed something to anchor him after everything else had come loose. The stretches were easier now than they had been at first, his body having adapted to the routine the way bodies did when you gave them consistency.
 
-The meditation was still hard. His mind still wanted to plan, to optimize, to run scenarios about what needed to happen next. But he had learned to notice that wanting without following it, to let the thoughts arise and pass without grabbing onto them. It wasn't peace, exactly - it was more like truce. A negotiated settlement between who he had been and who he was trying to become.
+The meditation was still hard. His mind still wanted to plan, to optimize, to run scenarios about what needed to happen next, as if some part of him had never left the startup environment where every moment was an opportunity cost. But he had learned to notice that wanting without following it, to let the thoughts arise and pass without grabbing onto them. It wasn't peace, exactly - it was more like truce. A negotiated settlement between who he had been and who he was trying to become.
 
 At six, he made breakfast. Eggs scrambled with vegetables, toast with avocado, coffee from the small pour-over setup he had become unreasonably attached to. The ritual of cooking grounded him in his body in ways that the digital work of the rest of his day couldn't.
 
@@ -144,7 +144,7 @@ Kevin walked and observed and tried not to think too much about what he was obse
 
 Chinatown appeared around him with its particular density - the grocery stores with their bins of produce spilling onto the sidewalk, the restaurants sending smells of cooking oil and ginger into the street, the pharmacies with their mysterious packages of herbs and remedies his grandmother would have known how to use. Kevin moved through it like a ghost of a different life, someone who looked like he belonged but didn't, not really.
 
-His parents had grown up in a neighborhood like this, in Shenzhen before it became a tech hub, before his father got the job that brought them to California, before Kevin became American in all the ways that mattered and Chinese in all the ways that didn't. He knew enough Cantonese to be polite, not enough to have a real conversation. He knew the broad strokes of the history, not the details that would make it feel like his own.
+His parents had grown up in a neighborhood like this, in Shenzhen before it became a tech hub, before his father got the engineering job that brought them to California and set Kevin on the path that led here. Before Kevin became American in all the ways that mattered and Chinese in all the ways that didn't. He knew enough Cantonese to be polite, not enough to have a real conversation. He knew the broad strokes of the history, not the details that would make it feel like his own.
 
 It was another form of distance, this cultural gap. Another way that leaving had costs he hadn't fully understood when he left.
 
@@ -303,7 +303,7 @@ Kevin had told the story before, in fragments, but never the whole thing. Someth
 
 Kevin paused, remembering. The excitement of that period, the conviction that they had made it, the celebration at the office when the deal closed. How young he had been. How certain.
 
-"For about eighteen months, they kept their promises. We built features, grew the user base, did what we had always done. Then the requirements started changing. Small things at first - new reporting formats, different privacy policies, integrations with their other products. Each individual change was reasonable. But the changes accumulated."
+"For about eighteen months, they kept their promises. We built features, grew the user base, did what we had always done but with better infrastructure and more resources. Then the requirements started changing. Small things at first - new reporting formats, different privacy policies, integrations with their other products that seemed like partnership opportunities. Each individual change was reasonable. But the changes accumulated."
 
 "Into what?"
 
@@ -444,7 +444,7 @@ He closed his eyes and let sleep come, carrying the day's questions into whateve
 
 Tomorrow would be different. Tomorrow Yusuf would be here.
 
-And the threads that had been running parallel through these chapters would begin, slowly, to weave themselves together.
+Tomorrow would bring new threads to follow, new questions to carry, new attempts to do whatever small good remained possible in a world that kept finding ways to absorb good intentions into larger designs.
 
 
 ---

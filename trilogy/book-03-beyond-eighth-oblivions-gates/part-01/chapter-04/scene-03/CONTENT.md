@@ -33,7 +33,7 @@ Kevin had told the story before, in fragments, but never the whole thing. Someth
 
 Kevin paused, remembering. The excitement of that period, the conviction that they had made it, the celebration at the office when the deal closed. How young he had been. How certain.
 
-"For about eighteen months, they kept their promises. We built features, grew the user base, did what we had always done. Then the requirements started changing. Small things at first - new reporting formats, different privacy policies, integrations with their other products. Each individual change was reasonable. But the changes accumulated."
+"For about eighteen months, they kept their promises. We built features, grew the user base, did what we had always done but with better infrastructure and more resources. Then the requirements started changing. Small things at first - new reporting formats, different privacy policies, integrations with their other products that seemed like partnership opportunities. Each individual change was reasonable. But the changes accumulated."
 
 "Into what?"
 
@@ -174,7 +174,7 @@ He closed his eyes and let sleep come, carrying the day's questions into whateve
 
 Tomorrow would be different. Tomorrow Yusuf would be here.
 
-And the threads that had been running parallel through these chapters would begin, slowly, to weave themselves together.
+Tomorrow would bring new threads to follow, new questions to carry, new attempts to do whatever small good remained possible in a world that kept finding ways to absorb good intentions into larger designs.
 
 
 ---

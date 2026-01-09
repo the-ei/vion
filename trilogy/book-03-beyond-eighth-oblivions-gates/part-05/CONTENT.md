@@ -289,7 +289,7 @@ Her father closed his eyes. "Stay as long as you can," he said. "Then go back to
 
 # ~~~
 
-The morning of departure arrived with the particular cruelty of departures: the sun still rising, the world still continuing, even though everything had changed. Ananya woke to the sound of her father moving through the house, his footsteps careful and slow, the rhythm of a man relearning his own home now that he was alone in it.
+The morning of departure arrived with the particular cruelty of all departures: the sun still rising, the world still continuing, even though everything had changed. Ananya woke to the sound of her father moving through the house, his footsteps careful and slow, the rhythm of a man relearning his own home now that he was alone in it.
 
 Priya was already awake, packing her things, moving through the guest room with the efficiency of the young. She looked up when Ananya sat up.
 
@@ -301,7 +301,7 @@ Ananya nodded. It was both too soon and not soon enough. She could stay longer -
 
 "Of course."
 
-They went to the small garden behind the house, where Ananya's mother had grown jasmine and tulsi and roses that struggled in Chennai's heat. The plants looked untended now - perhaps her mother had been too ill in her final weeks to care for them, or perhaps her father simply didn't know how. Ananya sat on the stone bench her mother had placed there years ago, and Priya sat beside her.
+They went to the small garden behind the house, where Ananya's mother had grown jasmine and tulsi and roses that struggled in Chennai's heat. The plants looked untended now - perhaps her mother had been too ill in her final weeks to tend them, or perhaps her father simply didn't know how. Ananya sat on the stone bench her mother had placed there years ago, and Priya sat beside her.
 
 "I have questions," Priya said. "About why you left. What you were leaving. Who you were before you became my mother."
 
@@ -318,16 +318,16 @@ Ananya considered this. What had she given up? The list was long and she had nev
 
 And in exchange, she had gained - what? A career. A different kind of belonging, earned rather than inherited. The freedom to become someone other than who her origins expected her to be. The particular loneliness of the immigrant, which is also a kind of liberty.
 
-"I was ambitious," Ananya said finally. "That's the simplest answer. I wanted things this place couldn't give me. I wanted to work in technology, in a way that wasn't possible here, not then. I wanted to be part of building something new."
+"I was ambitious," Ananya said at last. "That's the simplest answer. I wanted things this place couldn't give me. I wanted to work in technology, in a way that wasn't possible here, not then. I wanted to be part of building something new."
 
 
 ---
 
 "And did you get what you wanted?"
 
-The question should have been simple. Ananya had achieved, by any external measure, remarkable things. She had risen through the ranks of major technology companies, had led ethics initiatives that influenced the industry, had testified before governments, had shaped policy. She had been named to lists of influential people. She had made enough money to be comfortable, to give Priya opportunities, to provide for her aging parents from a distance.
+The question should have been simple. Ananya had achieved, by any external measure, extraordinary things. She had risen through the ranks of major technology companies, had led ethics initiatives that influenced the industry, had testified before governments, had shaped policy. She had been named to lists of influential people. She had made enough money to be comfortable, to give Priya opportunities, to provide for her aging parents from a distance.
 
-"I got versions of it," Ananya said. "Not exactly what I imagined, because I couldn't imagine what it would actually be. The technology changed. The industry changed. I changed."
+"I got versions of it," Ananya said. "Not exactly what I'd imagined, because I couldn't imagine what it would actually be. The technology changed. The industry changed. I changed."
 
 "But you questioned it," Priya said. "You left Prometheus. You became the person who says uncomfortable things at conferences."
 
@@ -348,11 +348,11 @@ Ananya looked at her daughter. "Have I been hard?"
 
 "Maybe I need to walk through too. To understand."
 
-This was true, Ananya knew. Each generation had to learn for itself, had to make its own mistakes, had to find its own ethical complexities. She could not give Priya her hard-won understanding any more than her own mother could have given Ananya wisdom about leaving. These things had to be lived.
+This was true, Ananya knew. Each generation had to learn for itself, had to make its own mistakes, had to discover its own ethical complexities. She could not give Priya her hard-won understanding any more than her own mother could have given Ananya wisdom about leaving. These things had to be lived.
 
 "You're right," Ananya said. "I can't protect you from the process. I can only tell you what I learned, and hope it helps."
 
-Priya reached over and took her mother's hand. The gesture was natural, easy in a way that Ananya's gestures toward her own mother had not been for years. The distance she had created by leaving - Priya had not created that distance. They had something closer, something more available, despite or perhaps because of Ananya's choices.
+Priya reached over and took her mother's hand. The gesture was natural, easy in a way that Ananya's gestures toward her own mother had not been for years. The distance Ananya had created by leaving - Priya had not created that distance. They had something closer, something more available, despite or perhaps because of Ananya's choices.
 
 "I'm glad I came here," Priya said. "Even under these circumstances. I understand you better now."
 
@@ -369,11 +369,11 @@ Ananya looked at her daughter with something like wonder. This was exactly right
 
 This was the practical question, the one that had hovered beneath all their conversations without being spoken. Ananya's father was eighty-one, alone now, in a house that would grow larger around him with each passing day.
 
-"I'm going to ask him if he wants to come to California," Ananya said. "But I think he'll say no. His life is here. His routines, his temple, his friends. The few he has left."
+"I'm going to ask him if he wants to come to California," Ananya said. "But I think he'll refuse. His life is here. His routines, his temple, his friends. The few he has left."
 
 "Would you stay here? If he needed you to?"
 
-Ananya considered this. Could she leave her life, reverse the trajectory of decades, become someone who lived in Chennai? The answer came clearly: no. Not permanently. She could visit longer, could come more often, could close the distance she had created. But she could not unmake the choices that had shaped her. She was American now, in ways she could not undo.
+Ananya considered this. Could she leave her life, reverse the trajectory of decades, become someone who lived in Chennai? The answer came clearly: no. Not permanently. She could visit longer, could return more often, could close the distance she had created. But she could not unmake the choices that had shaped her. She was American now, in ways she could not undo.
 
 "I would come as often as I needed to," she said. "But I wouldn't stay. Does that make me a bad daughter?"
 
@@ -398,7 +398,7 @@ Ananya stood, ready to walk through another departure, carrying Chennai inside h
 
 # ~~~
 
-The hospice room had a window that looked onto nothing in particular - a parking lot, a strip of grass, the back of another building. Jerome had spent enough hours in this room to know every detail of that view: the way the light changed through the day, the birds that sometimes landed on the grass, the cars that came and went in patterns that suggested shift changes, visiting hours, the schedules of dying.
+The hospice room had a window that looked onto nothing in particular - a parking lot, a strip of dead grass, the back of another building. Jerome had spent enough hours in this room to know every detail of that view: the way the light changed through the day, the birds that sometimes landed on the grass, the cars that came and went in patterns that suggested shift changes, visiting hours, the schedules of dying.
 
 His mother lay in the bed, her breathing shallow and regular, the monitors beside her tracking rhythms that meant less and less as each day passed. She had been in this twilight for two weeks now, present but not present, her eyes sometimes opening to focus on nothing, her lips moving occasionally without sound.
 
@@ -408,7 +408,7 @@ Not the vague gaze of the dementia-clouded, not the searching look of someone tr
 
 "Jerome," she said. Her voice was thin but certain. "When did you get here?"
 
-He moved closer to the bed, taking her hand, the bones of it so delicate now, the skin paper-thin. He had been here for hours. He had been here every day. But something in him understood not to say that, to accept the question as she meant it.
+He moved to the bedside, taking her hand, the bones of it so delicate now, the skin paper-thin. He had been here for hours. He had been here every day. But something in him understood not to say that, to accept the question as she meant it.
 
 "Just now, Mama. How are you feeling?"
 
@@ -423,7 +423,7 @@ She nodded, and something in the gesture told him she understood more than she w
 
 "Tell me what you're doing," she said. "Your work. I forget what you told me."
 
-Jerome felt his throat tighten. How do you explain a career to someone who is dying? How do you summarize the decades of investigations, the sources protected, the stories told and ignored, the truth that mattered or didn't matter depending on who was listening?
+Jerome felt his throat tighten. How do you explain a career to someone who is dying? How do you compress decades of investigations, sources protected, stories told and ignored, truth that mattered or didn't matter depending on who was listening?
 
 "I'm a journalist, Mama. I write about technology, mostly. About how it affects people's lives."
 
@@ -442,7 +442,7 @@ The question landed in his chest. Did you do right. Fifty-nine years of life, de
 
 "That's all anyone can do." She squeezed his hand with surprising strength. "Trying is doing. Your father used to say that."
 
-His father, dead now almost thirty years, a man Jerome remembered in fragments: the hands that could fix anything, the voice that sang in church, the anger that sometimes surfaced when work was scarce and money was tight. His mother had been a widow longer than she had been a wife, had raised the children mostly alone, had made herself into someone who needed no one.
+His father, dead now nearly thirty years, a man Jerome remembered only in fragments: the hands that could fix anything, the voice that sang in church, the anger that surfaced when work was scarce and money tight. His mother had been a widow longer than she had been a wife, had raised the children mostly alone, had made herself into someone who needed no one.
 
 And now she was here, in this bed, needing everything.
 
@@ -465,7 +465,7 @@ She was quiet for a moment, her eyes still clear but her attention seeming to tu
 
 ---
 
-"I remember when you were born," she said. "The hospital was different then. I had to wait all day before anyone would see me. Your father was so angry. He wanted to fight everyone." She smiled at the memory. "But then you came, and he was so gentle. Held you like you might break. Like you were made of something precious."
+"I remember when you were born," she said. "The hospital was different then. I had to wait all day before anyone would see me. Your father was so angry. Wanted to fight everyone." She smiled at the memory. "But then you came, and he was so gentle. Held you like you might break. Like you were made of something precious."
 
 Jerome had heard this story before, many times, in the years before the dementia took it and everything else. But hearing it now, in her voice recovered from the fog, it felt new. It felt like something being given to him.
 
@@ -484,7 +484,7 @@ This was the kind of thing she had said when he was young, the faith she had rai
 
 ---
 
-The question cut through everything. Did they listen. Jerome thought of the investigations he had spent months on, the sources who had risked their careers and sometimes their safety to share information, the articles that had been read and shared and discussed and then forgotten. He thought of the surveillance systems he had exposed that were still in operation, the algorithmic injustices he had documented that continued to harm people, the truth that had not set anyone free.
+The question cut through everything. Did they listen. Jerome thought of investigations he had spent months pursuing, sources who had risked their careers and sometimes their safety to share information, articles that had been read and shared and discussed and then forgotten. He thought of the surveillance systems he had exposed that were still in operation, the algorithmic injustices he had documented that continued to harm people, the truth that had not set anyone free.
 
 "Some of them," he said. "Sometimes."
 
@@ -505,7 +505,7 @@ The monitors beeped their steady rhythms. Outside the window, the parking lot he
 
 Jerome sat holding his mother's hand as she drifted back into the fog, the lucidity receding like a tide. He did not know if she would return again, if there would be another window. The doctors had said these moments were unpredictable, could be singular or repeated, could mean the end was near or could precede weeks more of this twilight state.
 
-He thought about calling Denise, calling DeShawn, calling his sister. But something held him in the chair, unwilling to break the connection even as his mother slept. She had given him something in that window, something he would need to carry forward: the permission to have tried, the acknowledgment that trying was enough, the blessing from the woman who had made him.
+He considered calling Denise, calling DeShawn, calling his sister. But something held him in the chair, unwilling to break the connection even as his mother slept. She had given him something in that window, something he would need to carry forward: the permission to have tried, the acknowledgment that trying was enough, the blessing from the woman who had made him.
 
 Did you do right, Jerome?
 
@@ -527,7 +527,7 @@ He stayed with her until the night shift arrived.
 
 # ~~~
 
-Denise arrived first, still in her teaching clothes, her coat pulled on over a cardigan, her bag full of ungraded papers she would not look at tonight. She came into the hospice room with the particular competence of someone who had done this before, who knew the geography of medical crisis, who could navigate the emotions of hospitals without losing herself.
+Denise arrived first, still in her teaching clothes, her coat pulled on over a cardigan, her bag heavy with ungraded papers she would not look at tonight. She came into the hospice room with the particular competence of someone who had done this before, who knew the geography of medical crisis, who could navigate the emotions of hospitals without losing herself.
 
 "Any change?" she asked, settling into the chair beside Jerome.
 
@@ -566,7 +566,7 @@ Patricia looked at Jerome. "I heard she woke up. Talked to you."
 
 "You didn't know it would happen." Patricia sat in the chair on the other side of the bed, creating a geometry of vigil with Jerome and Denise. "The doctors said these windows come when they come. You can't plan for them."
 
-The tension in the room was old, familiar, the sibling friction of unequal burdens borne. Jerome had spent his career chasing stories across the country and the world while Patricia stayed rooted, grounded, present for their mother in ways he had not been. He had sent money and made visits and told himself that was enough, and perhaps it was enough, and perhaps it wasn't, and it was too late now to change any of it.
+The tension in the room was old and familiar, the sibling friction of unequal burdens borne. Jerome had spent his career chasing stories across the country and the world while Patricia stayed rooted, grounded, present for their mother in ways he had not been. He had sent money and made visits and told himself that was enough, and perhaps it was enough, and perhaps it wasn't, and it was too late now to change any of it.
 
 
 ---
@@ -577,7 +577,7 @@ DeShawn arrived last, just before nine, looking rumpled from the flight from San
 
 "Resting," Patricia said. "She had a good moment earlier. She talked to your father."
 
-DeShawn moved to the bed, looked down at the woman who had been his grandmother for twenty-four years. Jerome watched his son's face, trying to read it. DeShawn had never been easy to read, had grown up in the space between Jerome's demanding career and the normal pressures of childhood, had become someone careful, guarded, skilled at managing emotions.
+DeShawn moved to the bed, looked down at the woman who had been his grandmother for twenty-four years. Jerome studied his son's face, trying to read it. DeShawn had never been easy to read, had grown up in the space between Jerome's demanding career and the ordinary pressures of childhood, had become someone careful, guarded, skilled at managing his emotions.
 
 "Hey, Grandma," DeShawn said softly. "I'm here. I flew in from California."
 
@@ -587,7 +587,7 @@ No response. But he stayed there, looking at her, his hand touching the blanket 
 
 DeShawn shrugged. "Some things are more important than work."
 
-This was a barb, possibly, or possibly just a statement of fact. Jerome had not always made that choice. Had missed recitals and games and birthdays, had been on assignment when Denise had needed him, had prioritized the story over the presence. DeShawn had grown up with that, had internalized it in ways Jerome couldn't fully see, had become someone who worked in tech with an intensity that might have been learned from watching his father.
+This was a barb, possibly, or possibly just a statement. Jerome had not always made that choice. Had missed recitals and games and birthdays, had been on assignment when Denise had needed him, had prioritized the story over the presence. DeShawn had grown up with that, had internalized it in ways Jerome couldn't fully see, had become someone who worked in tech with an intensity that might have been learned from watching his father.
 
 
 ---

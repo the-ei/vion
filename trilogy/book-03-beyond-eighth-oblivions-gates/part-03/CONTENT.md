@@ -257,7 +257,7 @@ A gap in the text. Then:
 
 ---
 
-Elena closed the prayer book. She could not read more, not now, not with Sofia watching. There were pages she had not reached, entries she had not seen, the story incomplete as all stories are incomplete, fragments that would never cohere into the whole truth.
+Elena closed the prayer book. She could not read more, not now, not with Sofia watching. There were pages she had not reached, entries she had not seen, the story incomplete as all stories are, fragments that would never cohere into whole truth.
 
 "There might be another person in our family," she said finally. "Someone I never knew about. Someone who lives far away."
 
@@ -271,7 +271,7 @@ Sofia's eyes widened. "Can we meet him?"
 
 The afternoon light was changing again, moving toward the gold of early evening. Somewhere in the house, Mateo was quiet, probably sitting with the rosary, talking to himself or to no one or to a bisabuela who could no longer answer.
 
-Elena looked at the prayer book in her hands, at San Judas Tadeo with his patient face, the saint of desperate cases and lost causes. Her abuela had prayed to him all her life. Had she prayed about this? Had she asked for the courage to tell Elena the truth and been denied, or had she asked for permission to keep silent and been granted it?
+Elena looked at the prayer book in her hands, at San Judas Tadeo with his patient face, patron of desperate cases and lost causes. Her abuela had prayed to him all her life. Had she prayed about this? Had she asked for courage to tell Elena the truth and been denied, or had she asked for permission to keep silent and been granted it?
 
 There was no way to know. The dead do not explain themselves. They leave objects and letters and memories, and the living must sort through them, making meaning where they can, accepting mystery where they cannot.
 
@@ -286,15 +286,15 @@ There was no way to know. The dead do not explain themselves. They leave objects
 
 She did. Elena and Daniel had tried to raise the children bilingual, with varying success. Sofia understood more than she could speak; Mateo spoke freely but with an American accent that would have made abuela laugh.
 
-"Someday," Elena said. "When you're older. There are some things in here that are hard to understand."
+"Someday," Elena said. "When you're older. Some things in here are hard to understand."
 
 "Because of the language?"
 
 "Because of the sadness."
 
-Sofia nodded, accepting this. She was wise enough already to know that adults kept things from children, and that sometimes this keeping was a form of love.
+Sofia nodded, accepting this. She was wise enough already to know that adults kept things from children, and sometimes this keeping was its own form of love.
 
-They sat together in the dimming room, mother and daughter, the letter unfinished between them. Elena thought about her mother, about the woman she had known who had also been a woman she had not known at all. She thought about the brother who existed somewhere, probably, shaped by the abandonment she had not even been aware of, carrying a story that was also her story though they had never shared a word.
+They sat together in the dimming room, mother and daughter, the letter unfinished between them. Elena thought about her mother, about the woman she had known who had also been a woman she had not known at all. She thought about the brother who existed somewhere, probably, shaped by the abandonment she had not even been aware of, carrying a story that was also her story though they had never exchanged a word.
 
 And she thought about Sofia, about what she would pass on, about the gaps in her own knowledge that would become gaps in Sofia's, an inheritance of absences handed down like the linens and the photographs and the debts.
 
@@ -308,26 +308,26 @@ The letter would wait. But it would not stop asking its questions.
 
 # ~~~
 
-The house settled into its nighttime sounds: the creak of cooling walls, the hum of the refrigerator, the particular silence that meant the children were finally asleep. Elena sat at her abuela's small desk, the one where bills had been paid and letters had been written and prayers had been copied out from books in handwriting that grew shakier each year.
+The house settled into its nighttime sounds: the creak of cooling walls, the hum of the refrigerator, the particular silence that meant the children were finally asleep. Elena sat at her abuela's small desk, the one where bills had been paid and letters written and prayers copied out from books in handwriting that grew shakier each year.
 
 On the desk before her: a blank page. The same blue-lined paper her abuela had used.
 
-She had taken her medication an hour ago—the sertraline that kept her functional, that smoothed the sharp edges of her anxiety into something she could manage. She did not like to think about this too often, about the small white pill that she swallowed each morning, about what it meant that she could not manage her own mind without chemical assistance. Her abuela had never taken anything for her moods. Her mother hadn't either. They had prayed and endured and kept their darkness to themselves, and Elena had inherited that tendency toward silence even as she rejected its religious framework.
+She had taken her medication an hour ago—the sertraline that kept her functional, that smoothed the sharp edges of her anxiety into something manageable. She did not like to think about this too often, about the small white pill she swallowed each morning, about what it meant that she could not manage her own mind without chemical assistance. Her abuela had never taken anything for her moods. Her mother hadn't either. They had prayed and endured and kept their darkness to themselves, and Elena had inherited that tendency toward silence even as she rejected its religious framework.
 
-But she had also inherited something else: the diabetes that had taken her mother and that lurked in Elena's own bloodwork, the numbers creeping upward at each annual physical. The exhaustion that she attributed to work but that felt sometimes like something deeper, something cellular. The way her body held stress in her shoulders and her jaw, manifesting as pain she ignored until it became impossible to ignore.
+But she had also inherited something else: the diabetes that had taken her mother and that lurked in Elena's own bloodwork, the numbers creeping upward at each annual physical. The exhaustion she attributed to work but that felt sometimes like something deeper, something cellular. The way her body held stress in her shoulders and her jaw, manifesting as pain she ignored until ignoring became impossible.
 
 What else would she pass on?
 
 
 ---
 
-The question sat with her in the quiet room. Through the window, Phoenix spread out in lights, the city her abuela had chosen, the desert that had accepted them. Daniel would be home in two hours, tired from the drive back from Scottsdale, and she would tell him about the letter, about the brother, about the weight of what she had learned. He would listen the way he always listened, with patience and without judgment, and she would feel less alone in the knowing.
+The question sat with her in the quiet room. Through the window, Phoenix spread in lights, the city her abuela had chosen, the desert that had accepted them. Daniel would be home in two hours, tired from the drive back from Scottsdale, and she would tell him about the letter, about the brother, about the weight of what she had learned. He would listen the way he always listened, with patience and without judgment, and she would feel less alone in the knowing.
 
 But for now she sat with it alone.
 
 Sofia had said it that afternoon: *That's why you get so mad sometimes. At work.*
 
-The child had seen. Of course she had seen. Elena thought about all the times she had bitten back her fury at the dinner table, the times she had ranted to Daniel in whispers after bedtime, the times she had come home from shifts with a particular set to her jaw that the children must have learned to read. She thought about Sofia's school essays, which she had glimpsed on the laptop, full of words like *unfair* and *helping* and *fighting*, vocabulary that came from somewhere, that had been absorbed through exposure even when Elena tried to contain herself.
+The child had seen. Of course she had. Elena thought about all the times she had bitten back her fury at the dinner table, the times she had ranted to Daniel in whispers after bedtime, the times she had come home from shifts with a particular set to her jaw that the children must have learned to read. She thought about Sofia's school essays, glimpsed on the laptop, full of words like *unfair* and *helping* and *fighting*, vocabulary that came from somewhere, absorbed through exposure even when Elena tried to contain herself.
 
 She was transmitting her rage whether she meant to or not.
 
@@ -338,9 +338,9 @@ Her abuela had kept her fury banked, hidden beneath the prayers and the patience
 
 ---
 
-Elena did not want to swallow it anymore. That had been the transformation of these last years, the radicalization (if that was the right word) that had come from watching too many patients die of conditions they could not afford to treat, from sitting with too many families as they chose between medication and rent. She had stopped being quiet. She had started speaking at meetings, organizing with other nurses, writing letters to administrators and politicians that went unanswered but that she sent anyway because silence felt like complicity.
+Elena did not want to swallow it anymore. That had been the transformation of these last years, the radicalization (if that was the right word) that had come from watching too many patients die of conditions they could not afford to treat, from sitting with too many families as they chose between medication and rent. She had stopped being quiet. She had started speaking at meetings, organizing with other nurses, writing letters to administrators and politicians that went unanswered but she sent anyway because silence felt like complicity.
 
-Daniel supported her. He had his own version of this, his own quiet fury at the construction industry that treated workers as disposable, that skimped on safety to save money, that had killed men he knew. They were building something together, she and Daniel, a household of controlled rage and active hope, and their children were growing up inside it.
+Daniel supported her. He had his own version of this, his own quiet fury at the construction industry that treated workers as disposable, that skimped on safety to save money, that had killed men he knew. They were building something together, she and Daniel—a household of controlled rage and active hope—and their children were growing up inside it.
 
 But what would the children do with this inheritance?
 
@@ -351,9 +351,9 @@ She thought about Sofia asking about the medical bills, connecting dots that Ele
 
 ---
 
-The house that surrounded Elena now was itself an inheritance: shelter and burden, memory and mortgage. She and Daniel had talked about what to do with it, whether to sell and use the money for the children's education, whether to keep it as a foothold in an increasingly unaffordable city, whether to rent it out and let strangers live among her abuela's ghosts. The decisions multiplied, each one weighted with meaning she did not want to carry.
+The house surrounding Elena now was itself an inheritance: shelter and burden, memory and mortgage. She and Daniel had talked about what to do with it, whether to sell and use the money for the children's education, whether to keep it as a foothold in an increasingly unaffordable city, whether to rent it out and let strangers live among her abuela's ghosts. The decisions multiplied, each weighted with meaning she did not want to carry.
 
-Her abuela had not owned this house free and clear. That was another thing Elena had learned from the papers: a second mortgage taken out during the 2008 crisis, monthly payments that must have strained the social security checks, a reverse mortgage negotiated with a company whose fine print made Elena's stomach turn. The equity that should have been an inheritance was tangled in predatory instruments, and untangling it would take lawyers and time and money Elena did not have.
+Her abuela had not owned this house free and clear. That was another discovery from the papers: a second mortgage taken out during the 2008 crisis, monthly payments that must have strained the social security checks, a reverse mortgage negotiated with a company whose fine print made Elena's stomach turn. The equity that should have been inheritance was tangled in predatory instruments, and untangling it would require lawyers and time and money Elena did not have.
 
 This too was transmission. The systems that had extracted value from her grandmother's aging body would extract value from Elena's as well, and from her children after that, unless something changed. Unless someone broke the pattern.
 
@@ -368,7 +368,7 @@ She began:
 
 ---
 
-She stopped. That wasn't right. She wasn't writing to strangers. She wasn't writing to an abstract future. She was writing to Sofia and Mateo, to the people they would become, though she could not know who those people would be.
+She stopped. That wasn't right. She wasn't writing to strangers. She wasn't writing to an abstract future. She was writing to Sofia and Mateo, to the people they would become, though she could not yet know who those people would be.
 
 She started again:
 
@@ -378,18 +378,18 @@ She started again:
 
 She paused, reading what she had written. The words seemed inadequate. But her abuela's letter had been inadequate too—fragmented, unfinished, full of gaps where meaning should have been. Maybe that was all any letter could be: an attempt, a gesture toward the truth, incomplete by necessity.
 
-*The first thing I want you to know is this: I got angry. I spent a lot of your childhoods angry about things that happened to people you never met, angry about systems that are hard to explain, angry in ways that probably confused you. I tried to hide it, but I know you saw. Sofia, you told me once that you understood why I was mad at work. You were ten. I didn't know how to answer you.*
+*The first thing I want you to know is this: I got angry. I spent much of your childhoods angry about things that happened to people you never met, angry about systems that are hard to explain, angry in ways that probably confused you. I tried to hide it, but I know you saw. Sofia, you told me once that you understood why I was mad at work. You were ten. I didn't know how to answer you.*
 
 *So here is the answer: I was angry because people were suffering and it didn't have to be that way. I was angry because the suffering was built into the system on purpose. And I was angry because I couldn't fix it, not really, not in ways that mattered.*
 
 
 ---
 
-*I don't know if anger is something I should have passed on to you. Sometimes I wonder if I gave you too much of it, if you'll spend your lives fighting battles that will exhaust you the way they've exhausted me. Other times I think the anger is a kind of love, the only rational response to a world that hurts people for no good reason.*
+*I don't know if anger is something I should have passed on to you. Sometimes I wonder if I gave you too much of it, if you'll spend your lives fighting battles that will exhaust you as they've exhausted me. Other times I think the anger is a kind of love, the only rational response to a world that hurts people for no good reason.*
 
 *Maybe it's both. Maybe everything is both.*
 
-Elena set down the pen. Her hand was cramping; she had been gripping too tightly, pressing too hard, the way she did everything. She flexed her fingers and looked around the room at her abuela's things, at the crucifix on the wall that she would not keep but could not bring herself to discard, at the small Madonna on the dresser that Sofia had asked to have.
+Elena set down the pen. Her hand was cramping; she had been gripping too tightly, pressing too hard, the way she did everything. She flexed her fingers and looked around the room at her abuela's things—the crucifix on the wall she would not keep but could not bring herself to discard, the small Madonna on the dresser Sofia had asked to have.
 
 The medication was working, she thought. The words were coming without the undertow of panic that sometimes accompanied her attempts to articulate what mattered. That was its own kind of inheritance: the brain chemistry that made living difficult, the pill that made it manageable, the shame she still felt about needing help that should not have been shameful at all.
 
@@ -402,11 +402,11 @@ There. Something useful. Something practical. The kind of thing she wished someo
 
 ---
 
-She wrote more: about her abuela, about the brother she had just learned of, about the house and its mortgages and what the children might inherit or might not. She wrote about Daniel, about the partnership they had built, about the fights they had survived and the ways they had learned to hold each other through the hard times. She wrote about her work, about patients whose names she still remembered, about the ones she had saved and the ones she had lost and the ones who occupied the gray space between where most of medicine happened.
+She wrote more: about her abuela, about the brother she had just learned of, about the house and its mortgages and what the children might inherit or might not. She wrote about Daniel, about the partnership they had built, about the fights they had survived and the ways they had learned to hold each other through hard times. She wrote about her work, about patients whose names she still remembered, about the ones she had saved and the ones she had lost and the ones occupying the gray space between where most of medicine happened.
 
 The letter grew. Pages accumulated. The night deepened around her.
 
-And finally, past midnight, she stopped. Not because she was finished—she would never be finished, the letter could grow forever if she let it—but because there was a limit to what could be transmitted through words on paper. Some things could only be learned by living. Some things could only be passed on through presence, through the daily accumulation of meals shared and arguments weathered and bedtimes and mornings and the ten thousand small moments that made up a childhood.
+And finally, past midnight, she stopped. Not because she was finished—she would never be finished, the letter could grow forever if she let it—but because there was a limit to what words on paper could transmit. Some things could only be learned by living. Some things could only be passed on through presence, through the daily accumulation of meals shared and arguments weathered and bedtimes and mornings and the ten thousand small moments that composed a childhood.
 
 She gathered the pages and folded them. She did not seal them, not yet. There would be more to add, more to explain, more attempts to say what could not quite be said.
 
