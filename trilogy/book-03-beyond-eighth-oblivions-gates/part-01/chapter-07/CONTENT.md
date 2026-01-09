@@ -1,4 +1,4 @@
-# Scene 01
+# ~~~
 
 The amicus brief sprawled across three legal pads and two laptop screens. Ruth's Berkeley office had become a war room - books stacked in precarious towers, case law highlighted and tabbed, the accumulated evidence of a month's obsessive work. Her three collaborators occupied the corners: Professor Hannah Reyes at the window, Dr. Samuel Okonjo by the bookshelves, and Emeritus Professor Morris Brennan settled into the worn leather chair Ruth had inherited from her predecessor.
 
@@ -127,7 +127,7 @@ But she was already paying costs. She might as well pay for something that matte
 
 
 
-# Scene 02
+# ~~~
 
 The Senate hearing room in the Rayburn Building was designed for theater. Elevated dais where the senators sat, able to look down at witnesses. Gallery seating for press and public, the architecture of democratic spectacle. Ruth had testified before Congress twice during her career, both times as a sitting judge on non-controversial judicial matters. This was different. This was political.
 
@@ -277,7 +277,7 @@ That was something. That was perhaps everything.
 
 
 
-# Scene 03
+# ~~~
 
 The op-ed request came from the Atlantic, forwarded by a colleague who knew the editors. Would Professor Abramson be willing to write 2,500 words on the implications of Henderson v. Prometheus for American democracy? The piece would run the week before the Supreme Court heard oral arguments, positioned to shape public conversation around the case.
 

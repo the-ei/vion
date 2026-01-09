@@ -1,12 +1,12 @@
-# Part 01
+# Part 1: New Arrangements
 
-# Chapter 01
+# Chapter 1: The Arrangement of Light
 
-# Scene 01
+# ~~~
 
 She woke to the house already awake.
 
-Not in any dramatic sense - no sounds of coffee grinding or automated blinds rising, nothing so obvious as a machine performing morning. But the air had shifted overnight, the ambient system reading the quality of her sleep and adjusting temperature, humidity, the spectrum of light now filtering through the climate-adaptive glass. Delphine lay still for a moment, feeling the particular weight of consciousness returning, the way it always took longer now than it had at thirty, at twenty-five, the gradual reassembly of self from the scattered fragments of dream.
+Not in any dramatic sense - no sounds of coffee grinding or automated blinds rising, nothing so obvious as a machine performing morning. But the air had shifted overnight, the ambient system reading the quality of her sleep through some combination of motion sensors and breath analysis, adjusting temperature, humidity, the spectrum of light now filtering through the climate-adaptive glass. Delphine lay still for a moment, feeling the particular weight of consciousness returning, the way it always took longer now than it had at thirty, at twenty-five, the gradual reassembly of self from the scattered fragments of dream.
 
 Forty-one years old. Three years since everything changed.
 
@@ -33,7 +33,7 @@ He turned to her with the specific delight that still, after seven years, made s
 
 "The gravity thing. It made sense in the dream."
 
-She sat on the edge of his bed and he crawled into her lap, fitting himself against her body with the practiced ease of a child who'd been held exactly this way ten thousand times. His warmth, his weight, the smell of his hair - these were the things the systems couldn't replicate, couldn't optimize, couldn't learn their way toward. She held him and watched the Los Angeles light shift through his window, thinking about breakfast, about the day ahead, about all the small negotiations that made a morning possible.
+She sat on the edge of his bed and he crawled into her lap, fitting himself against her body with the practiced ease of a child who'd been held exactly this way ten thousand times. His warmth, his weight, the smell of his hair - detangler and sleep-sweat and something underneath that was just him, unmistakably - these were the things the systems couldn't replicate, couldn't optimize, couldn't learn their way toward. She held him and watched the Los Angeles light shift through his window, thinking about breakfast, about the day ahead, about all the small negotiations that made a morning possible.
 
 
 ---
@@ -146,7 +146,7 @@ She sat down and began.
 
 
 
-# Scene 02
+# ~~~
 
 The home office was a converted second bedroom, and Delphine had spent considerable effort making it feel separate from the house's domestic rhythms. Different lighting temperature. A door that actually closed. A view of the back garden rather than the street, so the endless parade of autonomous vehicles didn't distract her from the work of making meaning out of other people's suffering.
 
@@ -154,7 +154,7 @@ She sat at her desk and pulled up the day's calendar. The foundation call was in
 
 But first, the empty time. The minutes before the schedule started, when she could sit with her coffee and look at the garden through the climate-treated glass.
 
-Jessie had planted those roses. Five years ago, before Theo was old enough to help, before the crisis, when weekend mornings had been for gardening and cooking elaborate breakfasts and making love before the world demanded their attention. Delphine remembered Jessie on her knees in the dirt, hair tied back, explaining the difference between grafted roots and own-root plants, and how her own eyes had glazed over while her heart had swelled with love for this person who cared so deeply about things Delphine would never fully understand.
+Jessie had planted those roses. Five years ago, before Theo was old enough to help, before the crisis, when weekend mornings had stretched open for gardening and cooking elaborate breakfasts and making love before the world demanded their attention. Delphine remembered Jessie on her knees in the dirt, hair tied back, explaining the difference between grafted roots and own-root plants, her hands dark with soil, and how Delphine's own eyes had glazed over while her heart had swelled with love for this person who cared so deeply about things she would never fully understand.
 
 The roses were struggling now. The water restrictions made it harder to keep anything alive that wasn't drought-adapted, and Jessie wasn't here to do the careful work of coaxing survival from hostile conditions.
 
@@ -296,7 +296,7 @@ She saved her files and closed her laptop and went to the kitchen to prepare som
 
 
 
-# Scene 03
+# ~~~
 
 The call with her mother was scheduled for two o'clock, which was ten in the evening in London, the hour when Nkechi had always been most herself - dinner finished, the day's obligations discharged, a glass of wine in hand and opinions ready to be dispensed.
 
@@ -394,7 +394,7 @@ Delphine read it twice, standing in her kitchen with a head of romaine in one ha
 
 "I need to talk to you about what Prometheus is planning. Not over any network. Can we meet?"
 
-The words sat on her screen like unexploded ordinance. Prometheus. The company Ananya had left - or been pushed from - in the aftermath of the crisis. The company whose technology had been at the center of so much that had gone wrong. The company that had, by all official accounts, reformed itself under the new regulatory frameworks.
+The words sat on her screen like unexploded ordnance. Prometheus. The company Ananya had left - or been pushed from - in the aftermath of the crisis. The company whose technology had been at the center of so much that had gone wrong. The company that had, by all official accounts, reformed itself under the new regulatory frameworks.
 
 And Ananya, who had been inside it, who had seen whatever there was to see, who was asking Delphine to meet in person, not on any network, as if the networks themselves could not be trusted.
 
@@ -482,11 +482,11 @@ The roses rustled in a breeze she couldn't feel, and the city hummed around her,
 
 
 
-# Chapter 02
+# Chapter 2: What the Record Shows
 
-# Scene 01
+# ~~~
 
-The drive from his house in Roland Park to Grace's place in Northwood took twenty-three minutes on a good day, and Jerome made it every morning regardless of what else demanded his time. Traffic moved differently now than it had five years ago - the autonomous vehicles flowing in algorithmic patterns that were more efficient but somehow less human, as if the city itself had become a machine optimizing throughput without understanding what the throughput was for.
+The drive from his house in Roland Park to Grace's place in Northwood took twenty-three minutes on a good day, and Jerome made it every morning regardless of what else demanded his time. Traffic moved differently now than it had five years ago - the autonomous vehicles flowing in algorithmic patterns that were more efficient but somehow less human, as if the city itself had become a machine optimizing throughput without understanding what the throughput was for, what it meant to move bodies through space toward places they needed to be.
 
 He pulled into Grace's driveway at 7:15, the same time he always arrived. Her house was a modest colonial, white trim needing paint, the kind of place their parents would have saved for years to afford and considered a triumph. Now Grace owned it outright, had moved their mother here three years ago when the dementia made living alone impossible, had converted the dining room into a bedroom with hospital equipment and a view of the backyard where nothing grew that required attention.
 
@@ -538,7 +538,7 @@ It wasn't Saturday. Jerome didn't correct her. Instead he went to the kitchen an
 
 "He had to leave early. I made you this instead."
 
-She accepted the substitution without protest, eating slowly, carefully, with the concentration of someone for whom the act of lifting a spoon had become work. Jerome watched her and thought about the person she had been - Evelyn Washington, retired schoolteacher, church deacon, the woman who had raised him and Grace through the years when Black families in Baltimore did everything twice as well to get half as far. She had taught him to read before kindergarten. She had sat with him through homework he didn't want to do, through college applications he didn't think he deserved, through the early years of his career when rejection letters outnumbered assignments and he considered giving up.
+She accepted the substitution without protest, eating slowly, carefully, with the concentration of someone for whom the act of lifting a spoon had become work. Jerome watched her and thought about the person she had been - Evelyn Washington, retired schoolteacher, church deacon, the woman who had raised him and Grace through the years when Black families in Baltimore did everything twice as well to get half as far. She had taught him to read before kindergarten, sitting with him at the kitchen table in the apartment they'd shared in West Baltimore, sounding out words from books she'd bought at yard sales and thrift stores. She had sat with him through homework he didn't want to do, through college applications he didn't think he deserved, through the early years of his career when rejection letters outnumbered assignments and he considered giving up.
 
 Now she didn't know his name. Now she lived in a world where his father was still alive and Saturdays meant pancakes and the nice young man who came to visit was kind but unfamiliar.
 
@@ -648,7 +648,7 @@ She came around the island and kissed him, a brief touch that carried twenty-fiv
 
 
 
-# Scene 02
+# ~~~
 
 The home studio was in the basement - a space Jerome had converted five years ago when the pandemic before the crisis had made remote work mandatory and staying productive had required physical separation from the domestic rhythms upstairs. Soundproofing on the walls, a professional microphone setup, a background of bookshelves carefully arranged to suggest scholarship without ostentation. The apparatus of serious conversation.
 
@@ -679,7 +679,7 @@ Jerome had answered this question a hundred times, had a polished version ready 
 
 Timothy looked slightly startled, as if guests weren't supposed to turn the interview's lens back on the interviewer. "I suppose I'm asking what it felt like. To uncover something that big."
 
-"It felt like work. It felt like reading documents at three in the morning and making phone calls no one wanted to answer. It felt like watching my sources get nervous and knowing that their nervousness meant I was close to something real." Jerome shook his head. "The mythology of investigative journalism makes it sound dramatic. Heroes exposing villains. The truth setting people free. But the actual work is tedious and exhausting and uncertain, and most of the time you don't know if what you're doing matters at all."
+"It felt like work. It felt like reading documents at three in the morning, my eyes burning, cross-referencing dates and figures and making phone calls no one wanted to answer. It felt like watching my sources get nervous and knowing that their nervousness meant I was close to something real." Jerome shook his head. "The mythology of investigative journalism makes it sound dramatic. Heroes exposing villains. The truth setting people free. But the actual work is tedious and exhausting and uncertain, and most of the time you don't know if what you're doing matters at all."
 
 "But it did matter. Your coverage changed the conversation."
 
@@ -828,9 +828,9 @@ Some things couldn't be written. They had to be lived through first.
 
 
 
-# Scene 03
+# ~~~
 
-DeShawn arrived at six-thirty, twenty minutes late, with the particular energy of someone who was always moving toward the next thing. He came through the front door like a disruption - tall, handsome, carrying himself with a confidence that Jerome recognized as both inheritance and difference. His son, but not his son. A person shaped by forces Jerome had documented but never fully understood.
+DeShawn arrived at six-thirty, twenty minutes late, with the particular energy of someone who was always moving toward the next thing. He came through the front door like a disruption - tall, handsome, carrying himself with a confidence that Jerome recognized as both inheritance and something else entirely, something that belonged only to DeShawn and his generation. His son, but not his son. A person shaped by forces Jerome had documented but never fully understood.
 
 "Sorry I'm late. Investor call ran over."
 
@@ -1036,9 +1036,9 @@ Maybe that would have to be enough.
 
 
 
-# Chapter 03
+# Chapter 3: The Weight of Chambers
 
-# Scene 01
+# ~~~
 
 The Berkeley Law building caught the Monday morning light in a way that made Ruth think of aquariums - all that glass, all that transparency designed to suggest openness while actually containing and directing the movement of bodies through carefully planned spaces. She had been teaching here for three years now, since her retirement from the federal bench, and she still felt like a visitor. The building was too new, too deliberately symbolic, too different from the wood-paneled chambers where she had spent forty years learning what law actually was.
 
@@ -1165,7 +1165,7 @@ She opened her notes for the lecture and began, for the first time, to consider 
 
 
 
-# Scene 02
+# ~~~
 
 The Stanford campus was designed to intimidate. Ruth had lectured here before, had walked these paths designed by Stanford himself to evoke European grandeur transplanted to California sunshine, but the effect never entirely wore off. The sandstone arches, the red-tiled roofs, the quad that stretched toward horizons of accumulated prestige - it was architecture as argument, a physical assertion that the people educated here were destined to lead.
 
@@ -1337,7 +1337,7 @@ Susan would have said that was the beginning of something. Ruth hoped she was ri
 
 
 
-# Scene 03
+# ~~~
 
 The restaurant Benjamin had chosen was in the Financial District, the kind of place where executives took clients they wanted to impress - understated elegance, prices that didn't appear on the menu, servers who moved like ghosts through the careful lighting. Ruth had let him pick because she didn't know San Francisco the way she once had, and because something about meeting him on his territory felt appropriate for the conversation they were about to have.
 
@@ -1532,9 +1532,9 @@ It was the direction Susan would have pushed her toward, all along.
 
 
 
-# Chapter 04
+# Chapter 4: The Quiet Build
 
-# Scene 01
+# ~~~
 
 Kevin woke at 5:14, two minutes before his alarm, the way he always did now. His body had learned the rhythm over three years of deliberate practice, the careful reconstruction of a life that had once been optimized for productivity and was now optimized for something harder to name. Sanity, maybe. Or just sustainability.
 
@@ -1663,7 +1663,7 @@ It wasn't enough. But it was what he could do without becoming what he had fled 
 
 
 
-# Scene 02
+# ~~~
 
 The walk started at one, after lunch and a brief call with one of his teammates about a bug that had shown up in the testing environment. He took the route he had come to think of as his thinking loop - down from Temescal toward Lake Merritt, through the Chinatown streets where the signs were in languages his parents spoke and he had never fully learned, then around the lake itself, watching the other walkers and joggers and the occasional person who seemed to have nowhere particular to go.
 
@@ -1802,7 +1802,7 @@ Maybe there was something Kevin could do after all.
 
 
 
-# Scene 03
+# ~~~
 
 The video call with DeShawn that evening had a different quality than the morning's conversation. Something in the younger man's voice had shifted - not convinced, exactly, but less certain than he had been. Kevin hoped that was good sign. He feared it might be irritation.
 
@@ -1991,9 +1991,9 @@ And the threads that had been running parallel through these chapters would begi
 
 
 
-# Chapter 05
+# Chapter 5: The Documentary Gaze
 
-# Scene 01
+# ~~~
 
 She chose to drive because flying would have been too fast.
 
@@ -2112,7 +2112,7 @@ Ananya took a breath. "The second phase. What happened after the crisis. What's 
 
 
 
-# Scene 02
+# ~~~
 
 Before getting to the urgent matter, they caught up. It was a strange kind of small talk - two women who barely knew each other personally, who had only met through the networks of professional obligation that had connected them during the crisis, now sitting in a living room in Tucson trying to remember how to be human with each other before becoming co-conspirators.
 
@@ -2251,7 +2251,7 @@ Delphine read. She looked at charts showing integration points. She followed the
 
 
 
-# Scene 03
+# ~~~
 
 The evening deepened around them as Ananya continued her explanation. Outside, the Tucson sky shifted from gold to orange to the particular purple that came before desert darkness. Inside, the air-gapped screen glowed with evidence of something Delphine was still trying to comprehend.
 
@@ -2421,9 +2421,9 @@ Sleep came eventually, carrying dreams she wouldn't remember - shapes moving in 
 
 
 
-# Chapter 06
+# Chapter 6: The Historian's Silence
 
-# Scene 01
+# ~~~
 
 The oncology waiting room at Johns Hopkins existed in its own time zone, Jerome thought, watching the second hand of the wall clock make its slow circuit. Not faster or slower than ordinary time, but differently textured - each second containing more than seconds usually did. He had been in many waiting rooms in his life, but never one like this. Here, everyone was waiting for information that would divide their lives into before and after.
 
@@ -2569,7 +2569,7 @@ They sat together on the couch, not talking, just present. The afternoon light m
 
 
 
-# Scene 02
+# ~~~
 
 DeShawn arrived the next evening, having driven down from Philadelphia after Jerome called. He stood in the doorway of the family home with a duffel bag over his shoulder, looking younger than his twenty years and older at the same time - the face of the child they had raised visible beneath the face of the young man he had become, overlaid with an expression of fear that he was trying to control.
 
@@ -2739,7 +2739,7 @@ They lay together in the dark, the house quiet around them, their son asleep dow
 
 
 
-# Scene 03
+# ~~~
 
 Three days later, DeShawn had returned to Philadelphia and the house had settled into a new rhythm. Denise's pre-operative appointments were scheduled; she was deep in research about recovery times and dietary adjustments and all the practical details that gave her a sense of control. Jerome had taken over more of the household tasks, trying to lighten her load without making her feel diminished.
 
@@ -2893,9 +2893,9 @@ Outside his window, Baltimore slept. But Jerome was awake again, truly awake, lo
 
 
 
-# Chapter 07
+# Chapter 7: The Doctrine of Necessity
 
-# Scene 01
+# ~~~
 
 The amicus brief sprawled across three legal pads and two laptop screens. Ruth's Berkeley office had become a war room - books stacked in precarious towers, case law highlighted and tabbed, the accumulated evidence of a month's obsessive work. Her three collaborators occupied the corners: Professor Hannah Reyes at the window, Dr. Samuel Okonjo by the bookshelves, and Emeritus Professor Morris Brennan settled into the worn leather chair Ruth had inherited from her predecessor.
 
@@ -3024,7 +3024,7 @@ But she was already paying costs. She might as well pay for something that matte
 
 
 
-# Scene 02
+# ~~~
 
 The Senate hearing room in the Rayburn Building was designed for theater. Elevated dais where the senators sat, able to look down at witnesses. Gallery seating for press and public, the architecture of democratic spectacle. Ruth had testified before Congress twice during her career, both times as a sitting judge on non-controversial judicial matters. This was different. This was political.
 
@@ -3174,7 +3174,7 @@ That was something. That was perhaps everything.
 
 
 
-# Scene 03
+# ~~~
 
 The op-ed request came from the Atlantic, forwarded by a colleague who knew the editors. Would Professor Abramson be willing to write 2,500 words on the implications of Henderson v. Prometheus for American democracy? The piece would run the week before the Supreme Court heard oral arguments, positioned to shape public conversation around the case.
 
@@ -3318,9 +3318,9 @@ Now she waited to see what came next.
 
 
 
-# Chapter 08
+# Chapter 8: The Architecture of Aftermath
 
-# Scene 01
+# ~~~
 
 The message came at nine in the morning, DeShawn's name lighting up Kevin Zhou's phone with an urgency that was new. They usually communicated in considered exchanges - questions about technical problems, updates on development progress, the measured back-and-forth of mentor and protege. This was different. This was excitement barely contained.
 
@@ -3437,7 +3437,7 @@ Building small, building local, building accountable - these weren't just techni
 
 
 
-# Scene 02
+# ~~~
 
 Yusuf stepped off the bus at the Lake Merritt station, and Kevin Zhou felt the particular strangeness of seeing someone you knew well but had never met in person. They had been thrown together during the crisis - an unlikely alliance between a tech founder and a community organizer, both trying to help people survive algorithmic chaos. Since then, they had maintained the connection through texts and occasional calls, the friendship becoming real despite its unconventional origin.
 
@@ -3594,7 +3594,7 @@ Yusuf went to the guest room. Kevin Zhou stayed on the balcony, looking at the l
 
 
 
-# Scene 03
+# ~~~
 
 After Yusuf left for the airport in the early morning, Kevin Zhou sat with his coffee and thought about what he was about to do. The apartment felt quieter now, the echo of friendship replaced by the hum of the city outside. He had twenty-four hours of Yusuf's visit settling into memory, the conversations and walks and shared meals becoming part of who he was.
 
@@ -3752,13 +3752,13 @@ The night held the city. The threads continued weaving. And Part 1 came to its c
 
 
 
-# Part 02
+# Part 2: Reckoning
 
-# Chapter 09
+# Chapter 9: The Weight of Presence
 
-# Scene 01
+# ~~~
 
-The light through the bay windows had that particular quality of late October mornings in San Francisco, soft and diffuse, the fog having burned off an hour earlier but the sun not yet committed to anything as assertive as warmth. Ananya stood at the kitchen counter with her second cup of coffee, watching the street below where a woman walked a golden retriever past the row of Victorian facades. The dog stopped at every tree. The woman waited, phone pressed to her ear. A ordinary Tuesday, the kind of morning she had learned to appreciate in the eighteen months since leaving Prometheus, these small moments of nothing happening, of time not accelerating toward some deadline or deliverable.
+The light through the bay windows had that particular quality of late October mornings in San Francisco, soft and diffuse, the fog having burned off an hour earlier but the sun not yet committed to anything as assertive as warmth. Ananya stood at the kitchen counter with her second cup of coffee, watching the street below where a woman walked a golden retriever past the row of Victorian facades. The dog stopped at every tree. The woman waited, phone pressed to her ear. An ordinary Tuesday, the kind of morning she had learned to appreciate in the eighteen months since leaving Prometheus, these small moments of nothing happening, of time not accelerating toward some deadline or deliverable.
 
 She had been reviewing consulting proposals when the intercom buzzed. The building had a concierge, but deliveries came directly to doors. She pressed the button without thinking, heard the static of street noise, a voice saying something about a delivery requiring signature.
 
@@ -3811,7 +3811,7 @@ The complaint did not mention the modifications. Did not mention the hundreds of
 
 She reached page thirty before she had to stop.
 
-The individual plaintiff statements. Names she didn't recognize attached to stories that felt unbearable. A teenager hospitalized after an AI-driven content recommendation spiral. A young professional who lost his job after developing a compulsive relationship with a Prometheus productivity app that measured and gamified every aspect of his workday. An elderly woman whose AI companion was deprecated without warning, the loss registering as grief.
+The individual plaintiff statements. Names she didn't recognize attached to stories that felt unbearable. A teenager hospitalized after an AI-driven content recommendation spiral. A young professional who lost his job after developing a compulsive relationship with a Prometheus productivity app that measured and gamified every aspect of his workday. An elderly woman whose AI companion had been deprecated without warning, the loss registering as grief indistinguishable from any other.
 
 Ananya walked to the window. The fog was returning, tendrils of it reaching in from the bay. The street below was empty now, the woman with the dog long gone.
 
@@ -3848,7 +3848,7 @@ Silence on the line. Not judgment, Ananya knew. Delphine processing, the way she
 
 "Then give yourself time to not know."
 
-Outside, a cable car climbed the hill, the mechanical grind of it carrying up to her window. Tourists hung from the sides, phones raised. Documenting everything, preserving nothing.
+Outside, a cable car climbed the hill, the mechanical grind of its gears carrying up to her window. Tourists hung from the sides, phones raised. Documenting everything, preserving nothing.
 
 "They quote my memos," Ananya said. "The warnings I wrote. The language I chose so carefully, thinking I was building a record, creating accountability. They use it to prove I knew. That I knew and kept approving anyway."
 
@@ -3873,7 +3873,7 @@ The question Delphine would ask. Direct, unsparing, but asked with love rather t
 
 "That's exactly the kind of distinction I spent a decade making. At what cost."
 
-Delphine didn't respond to that. There was nothing to say. They both knew the cost, had watched it accumulate year by year, the way Ananya's certainty eroded, the way her marriage ended not with drama but with the quiet recognition that she had become someone neither she nor Vikram could fully see anymore.
+Delphine didn't respond to that. There was nothing to say. They both knew the cost, had watched it accumulate year by year, the way Ananya's certainty eroded grain by grain, the way her marriage ended not with drama but with the quiet recognition that she had become someone neither she nor Vikram could fully see anymore.
 
 "What are you going to do?" Delphine asked finally.
 
@@ -3896,7 +3896,7 @@ She thought about calling Vikram. He would need to know, for Priya's sake if not
 
 She would call him tomorrow. Or the day after. When she had found a lawyer, when she had some sense of what this would mean practically.
 
-For now, she gathered the pages back into their envelope. Set it on her desk where she would see it. A reminder that the reckoning she had been waiting for had finally arrived, that all those years of telling herself stories about ethics and impact and incremental change would now be tested against evidence.
+For now, she gathered the pages back into their envelope. Set it on her desk where she would see it every time she sat down to work. A reminder that the reckoning she had been waiting for had finally arrived, that all those years of telling herself stories about ethics and impact and incremental change would now be tested against evidence.
 
 The woman with the golden retriever walked past again, heading the other direction now. The dog's tail wagged. The woman laughed at something on her phone.
 
@@ -3908,11 +3908,11 @@ Ananya watched them disappear around the corner and tried to remember the last t
 
 
 
-# Scene 02
+# ~~~
 
 That evening, after Delphine left and the apartment grew quiet, Ananya opened her laptop and navigated to the folder she had not touched in eighteen months. Prometheus Archives. Twelve hundred files spanning eight years. Memos, meeting notes, presentation slides, emails she had forwarded to her personal account when she still believed documentation might matter.
 
-The folder icon sat gray against her desktop. She clicked.
+The folder icon sat gray against her desktop like a door she had nailed shut. She clicked.
 
 The first file alphabetically: *2028-06-15_Engagement_Ethics_Framework_v1.docx*. Her original proposal for the role, written before she accepted the position, when she still imagined she was negotiating from strength. She had demanded that title, Chief Ethics Officer, insisted on reporting directly to David Park, believed that structural position would translate to actual power.
 
@@ -3920,14 +3920,14 @@ She did not open that file. Some illusions were too painful to revisit.
 
 Instead she searched for the date from the complaint. March 14, 2029. The memo they had quoted. She found it: *2029-03-14_Engagement_Optimization_Review_FINAL.docx*.
 
-The conference room had been called Horizon. Glass walls, eleventh floor, a view of the South Bay that on clear days extended to San Jose. That morning the fog had pressed against the windows like something wanting in. Eight people around the table, most of them engineers, two product managers, herself. David Park presiding from the head of the table, his coffee cup bearing the Prometheus logo, a stylized flame that she had always found vaguely ominous.
+The conference room had been called Horizon. Glass walls, eleventh floor, a view of the South Bay that on clear days extended to San Jose. That morning the fog had pressed against the windows like something wanting in. Eight people around the table, most of them engineers, two product managers, herself. David Park presiding from the head of the table, his coffee cup bearing the Prometheus logo, a stylized flame that she had always found vaguely menacing in its implications.
 
 
 ---
 
 "Walk us through the findings," David had said. Not a question, not quite a command. The particular tone he used when he already knew what you were going to say and was calculating how to neutralize it.
 
-Ananya had practiced. She had data, charts, user surveys, academic literature. She had anticipated objections and prepared responses. She was thirty-four years old and still believed that being right would be enough.
+Ananya had practiced. She had data, charts, user surveys, academic literature. She had anticipated objections and prepared responses. She was thirty-four years old and still believed that being right, demonstrably and meticulously right, would be enough.
 
 "The engagement optimization system is working as designed," she began. "Users are spending thirty-seven percent more time on the platform compared to our baseline. Session frequency is up twenty-two percent. These are the metrics we optimized for, and they're performing well."
 
@@ -3952,7 +3952,7 @@ D. Park, 9:52 AM: "And if we make these changes, what's the projected impact on 
 
 A. Ramaswamy, 9:53 AM: "Our modeling suggests a twelve to eighteen percent reduction in time-on-platform."
 
-She remembered the silence that followed. The quality of it. Not shock, not opposition. Just a kind of settling, as if the air in the room had grown denser. Everyone understood what she had just said. She had put a number on the cost of ethics, and the number was eighteen percent of their primary growth metric.
+She remembered the silence that followed. The quality of it. Not shock, not opposition, not even calculation. Just a kind of settling, as if the air in the room had grown denser, heavier, more difficult to breathe. Everyone understood what she had just said. She had put a number on the cost of ethics, and the number was eighteen percent of their primary growth metric.
 
 In the present, sitting in her dim apartment, Ananya scrolled to the next page of her notes. The conversation that followed, the one that should have told her everything she needed to know about what her role actually was.
 
@@ -3961,7 +3961,7 @@ In the present, sitting in her dim apartment, Ananya scrolled to the next page o
 
 D. Park, 9:55 AM: "These are thoughtful recommendations. Really thoughtful. This is exactly the kind of rigorous analysis we brought you on to do."
 
-She had felt, in that moment, a flush of something she would later identify as shame. Gratitude that he was praising her work. As if his approval validated her concerns, when in fact his approval was the first move in making those concerns disappear.
+She had felt, in that moment, a flush of something she would later identify as shame but which felt at the time like relief, like gratitude that he was praising her work. As if his approval validated her concerns, when in fact his approval was the first move in making those concerns disappear.
 
 D. Park, 9:56 AM: "Let's do this. Let's have Ananya's team do a deeper dive on the notification piece. That feels like low-hanging fruit, something we could adjust without major impact. The break feature is interesting but we'd need to study user reactions. And the transparency dashboard is definitely worth exploring for a future release."
 
@@ -3984,7 +3984,7 @@ She jumped ahead. 2031. The board presentation.
 
 She had titled it herself, that phrase, ethics as competitive advantage. The framing that made ethics legible to people who thought only in terms of market position. She had believed, then, that meeting them where they were was a form of strategic wisdom rather than surrender.
 
-The board room was different from Horizon, smaller, darker, wood-paneled in a way that suggested permanence. The faces around the table represented thirty billion dollars in fiduciary responsibility. She had fifteen minutes to make the case for treating users like people rather than engagement metrics.
+The board room was different from Horizon, smaller, darker, wood-paneled in a way that suggested permanence. The faces around the table represented thirty billion dollars in fiduciary responsibility and exactly zero obligation to anyone harmed by the products generating that value. She had fifteen minutes to make the case for treating users like people rather than engagement metrics.
 
 "The landscape is shifting," she had told them. "Regulatory pressure in Europe. Growing consumer awareness. Competitors positioning themselves as the ethical alternative. Companies that get ahead of this curve will have significant advantages."
 
@@ -4013,7 +4013,7 @@ She had waited for the but.
 
 David leaned forward. Advocate. "Ananya, I think what Robert is saying is that your role needs to evolve. We've built the foundation. Now we need to integrate ethics into the product development process rather than making it a separate review stage."
 
-Integration. The word that meant dissolution. Making ethics everyone's job was how you made it no one's job.
+Integration. The word that meant dissolution. She had heard it before, in other contexts, always with the same outcome. Making ethics everyone's job was how you made it no one's job.
 
 
 ---
@@ -4030,11 +4030,11 @@ The file opened. Her own words from three years ago:
 
 *And what do I do with what I know? Everything I've documented, everything I've tried to fix - does it just disappear?*
 
-*I tell myself I'm making it incrementally better. Reducing harm at the margins. That the modifications I've negotiated have helped even if they haven't solved anything.*
+*I tell myself I'm making it incrementally better. Reducing harm at the margins. That the modifications I've negotiated have helped someone, somewhere, even if they haven't solved anything.*
 
 *Maybe that's true. Maybe I'm just telling myself stories so I can sleep at night.*
 
-*I don't know anymore. I used to know.*
+*I don't know anymore. I used to know. That certainty feels very far away.*
 
 She closed the laptop. Outside her window, the city lights had come on, the fog reflecting them into a general glow. She had stayed another year after writing that. Another year of approvals, of compromises, of telling herself the stories that had brought her here, to this apartment, to this lawsuit, to this reckoning she could no longer avoid.
 
@@ -4045,7 +4045,7 @@ The files contained everything the plaintiffs' lawyers would need to prove their
 
 They also contained evidence of the other story, the one the complaint didn't tell. The modifications that reduced harm, even if they didn't eliminate it. The products she had blocked entirely, the ones too dangerous to approve even for someone as compromised as she had become. The small victories that had felt, at the time, like progress.
 
-Both stories were true. That was the thing she could not figure out how to explain, not to a court, not to Delphine, not to herself. She had tried to do good and she had failed. She had also succeeded, in ways that were invisible because success meant harm that never happened. She had been complicit and she had been resistant. She had stayed too long and she had done work that mattered.
+Both stories were true. That was the thing she could not figure out how to explain, not to a court, not to Delphine, not to Priya when she inevitably asked, not to herself. She had tried to do good and she had failed. She had also succeeded, in ways that were invisible because success meant harm that never happened. She had been complicit and she had been resistant. She had stayed too long and she had done work that mattered.
 
 None of this resolved into a clean verdict. None of this told her what to do now.
 
@@ -4057,15 +4057,15 @@ She looked at the envelope on her desk, the complaint she would have to answer. 
 
 
 
-# Scene 03
+# ~~~
 
-Three days later, Priya arrived with her overnight bag slung over one shoulder and her laptop clutched to her chest like a shield. She had Ananya's eyes but Vikram's bone structure, the combination producing a face that could shift from open to guarded in the space of a breath.
+Three days later, Priya arrived with her overnight bag slung over one shoulder and her laptop clutched to her chest like armor. She had Ananya's eyes but Vikram's bone structure, the combination producing a face that could shift from open to guarded in the space of a single breath.
 
 "I have to finish my essays," she announced, dropping the bag by the door. "Can we not have a whole thing tonight?"
 
 "No whole thing," Ananya promised. She had not told Priya about the lawsuit. She would have to, eventually. Not tonight.
 
-They made dinner together, the way they had been doing since the divorce, since Priya started shuttling between apartments and Ananya became determined to make their weeks together feel like home rather than visitation. Pasta with the sauce Priya liked, garlic bread from the bakery down the street, salad that Ananya ate and Priya ignored.
+They made dinner together, the way they had been doing since the divorce, since Priya started shuttling between apartments and Ananya became determined to make their weeks together feel like home rather than visitation. Pasta with the marinara Priya had liked since childhood, garlic bread from the bakery down the street, salad that Ananya ate and Priya ignored.
 
 "Which essay are you working on?"
 
@@ -4086,7 +4086,7 @@ Priya's expression flickered. "Dad's values are pretty obvious. Make money, inve
 
 ---
 
-Ananya did not answer. The marriage had ended in part because she could not reconcile her ethics work with Vikram's enthusiastic funding of companies whose business models depended on the same dynamics she was trying to constrain. They had learned not to discuss work. The silence had expanded until it filled the whole house.
+Ananya did not answer. The marriage had ended in part because she could not reconcile her ethics work with Vikram's enthusiastic funding of companies whose business models depended on the same dynamics she was supposed to be constraining. They had learned not to discuss work. The silence had expanded until it filled the whole house.
 
 "I was thinking maybe you," Priya said.
 
@@ -4135,7 +4135,7 @@ Ananya set down her glass. "I have documents. Internal records. Evidence of the 
 
 "No. I tried. I made changes at the margins. But I didn't stop it."
 
-Priya looked up from her laptop. Her eyes, Ananya's own eyes, held something new. Not accusation, not yet. Something more like the first recognition of complexity, the dawning awareness that her mother was not simply heroic.
+Priya looked up from her laptop. Her eyes, Ananya's own eyes staring back at her, held something new. Not accusation, not yet. Something more like the first recognition of complexity, the dawning awareness that her mother was not simply heroic, had never been simply anything.
 
 "Then what was the point?"
 
@@ -4162,7 +4162,7 @@ She explained. The complaint, the allegations, her name on the defendant list al
 
 "Did you stay because you believed that? Or because it was comfortable?"
 
-The question from the college essay prompt, transformed. Ananya felt tears prick at her eyes and blinked them back. She would not make this about her emotions. Priya deserved answers, not performance.
+The question from the college essay prompt, transformed into something that cut. Ananya felt tears prick at her eyes and blinked them back. She would not make this about her emotions. Priya deserved answers, not performance.
 
 "Both. I told myself I was staying for ethical reasons, but staying also meant money, status, influence. A career. It's hard to separate the parts."
 
@@ -4173,7 +4173,7 @@ The question from the college essay prompt, transformed. Ananya felt tears prick
 
 ---
 
-Priya stood up, walked to the window, stood where Ananya had stood three days ago watching the fog roll in. Her back was straight, her shoulders tense.
+Priya stood, walked to the window, stood where Ananya had stood three days ago watching the fog roll in. Her back was straight, her shoulders held with a tension that seemed to come from somewhere deep in her chest.
 
 "I used to tell people my mom worked in ethics," Priya said. "When they asked what you did. I was proud of it. It sounded important. Like you were making sure the technology was good."
 
@@ -4185,7 +4185,7 @@ The word hung between them. Ananya did not argue. Could not argue.
 
 "Not completely. But in the ways that mattered most, yes. I failed."
 
-Priya turned around. Her face was wet, tears she hadn't wiped away, and the sight of them broke something in Ananya's chest.
+Priya turned around. Her face was wet, tears she hadn't bothered to wipe away, and the sight of them broke something in Ananya's chest that she had not known was still intact.
 
 "Then why should I write about you? If you just failed?"
 
@@ -4208,7 +4208,7 @@ Priya wiped her face with her sleeve. A gesture from childhood, the five-year-ol
 
 ---
 
-Priya came back to the couch. Sat down, but farther away than before. The distance between them measured in cushions, in years, in the accumulated weight of stories Ananya had told about her work that were turning out to be incomplete.
+Priya came back to the couch. Sat down, but farther away than before, at the far end where the arm curved. The distance between them measured in cushions, in years, in the accumulated weight of stories Ananya had told about her work that were now revealed as incomplete.
 
 "Here's what I don't understand," Priya said. "If you knew you were failing, why didn't you just quit?"
 
@@ -4218,7 +4218,7 @@ Priya came back to the couch. Sat down, but farther away than before. The distan
 
 "Because I thought I might still change things. Because I was afraid of what would happen if someone worse took over. Because I had built my whole identity around being the ethical one, and leaving felt like admitting I wasn't."
 
-"That last part is about you, though. Not about actually being ethical."
+"That last part is about you, though. Not about actually being ethical. It's just about feeling ethical."
 
 Ananya closed her eyes. "Yes. You're right."
 
@@ -4268,9 +4268,9 @@ Ananya thought of the files on her laptop, the archived evidence of a decade's w
 
 
 
-# Chapter 10
+# Chapter 10: Bodies Remember
 
-# Scene 01
+# ~~~
 
 The paper gown was the same blue as the ones she distributed to her own patients, the same thin fabric that offered dignity in theory but not in practice. Elena sat on the examination table, her bare legs dangling, and studied the room as if seeing it for the first time. The blood pressure cuff mounted on the wall. The jar of cotton balls. The biohazard disposal bin she had replaced hundreds of times. All of it familiar, all of it suddenly foreign.
 
@@ -4399,7 +4399,7 @@ The ordinary rituals of evening began: snacks, homework, the television's distan
 
 
 
-# Scene 02
+# ~~~
 
 Daniel's truck pulled into the driveway at six forty-five, dust-coated from the construction site, the engine ticking as it cooled. Elena watched from the kitchen window as he climbed out, still in his work clothes, jeans and a flannel shirt that had seen too many washes. He moved with the careful deliberation of a man who had been driving for three hours, his body stiff, his face set with worry.
 
@@ -4607,7 +4607,7 @@ For once, she let herself obey.
 
 
 
-# Scene 03
+# ~~~
 
 Two evenings later, Elena sat with her grandmother sorting medications. The ritual happened at seven o'clock every night: pill bottles lined up on the dresser, the plastic weekly organizer with its small compartments labeled in both English and Spanish. Abuela's hands were swollen, the joints gnarled from arthritis, but she insisted on doing as much as she could herself. Elena supervised, corrected, worried.
 
@@ -4765,9 +4765,9 @@ It was, perhaps, the first step of peace talks with a body she had fought for to
 
 
 
-# Chapter 11
+# Chapter 11: The Ledger
 
-# Scene 01
+# ~~~
 
 The address was a house in Edina, one of those suburb-within-a-suburb neighborhoods where the lawns were immaculate and the houses all looked like they'd been designed by the same AI. Yusuf pulled up to the curb, checked the order on his phone - Thai food, forty-seven dollars, the customer had tipped eighteen percent in advance - and jogged to the door with the bag swinging.
 
@@ -4908,7 +4908,7 @@ He hung up and sat in the silence. The cascade hadn't stopped. But something els
 
 
 
-# Scene 02
+# ~~~
 
 Amina came through the door carrying a backpack and a duffel bag, wearing a University of Minnesota sweatshirt and the kind of white sneakers that cost more than Yusuf made in a shift. She dropped everything in the hallway and wrapped her arms around him, squeezing hard enough to hurt.
 
@@ -5098,7 +5098,7 @@ He pushed the door open and walked in.
 
 
 
-# Scene 03
+# ~~~
 
 The lobby smelled the same. That particular mix of cigarette smoke and audio equipment, of late nights and creative desperation. The walls were covered with album artwork, most of it from artists Yusuf didn't recognize but some from people he knew, people he had worked alongside in the years before everything changed.
 
@@ -5272,9 +5272,9 @@ He went back into the control room and asked Darnell about booking regular sessi
 
 
 
-# Chapter 12
+# Chapter 12: The Faith of Structures
 
-# Scene 01
+# ~~~
 
 The apartment held too much silence. Ruth had lived in this Dupont Circle space for thirty years, the last six of them alone, and she still found herself surprised by the quiet when she entered - the absence of Susan's voice calling from the kitchen, the absence of piano music drifting from the living room, the absence of the particular quality of air that meant another person was present.
 
@@ -5399,7 +5399,7 @@ Then she went to bed, alone in the room she had shared with Susan for twenty-eig
 
 
 
-# Scene 02
+# ~~~
 
 The hearing room was designed to impress. Wood paneling the color of old money, flags standing sentinel behind the dais, the great seal of the United States dominating the wall like a promise no one could keep. Ruth had testified in rooms like this before, many times, always as expert witness or invited scholar. This was different. This was reckoning.
 
@@ -5537,7 +5537,7 @@ In a few hours, David and Rebecca would arrive, each with their own response to 
 
 
 
-# Scene 03
+# ~~~
 
 The restaurant was meant to be neutral ground. Italian, midscale, the kind of place where families gathered for occasions that weren't quite celebrations. Ruth had chosen it deliberately: not her apartment, not weighted with Susan's presence, not the stage where her testimony had just been delivered.
 
@@ -5690,9 +5690,9 @@ She set down her pen and looked at the letter. Tomorrow she would decide whether
 
 
 
-# Chapter 13
+# Chapter 13: What the Daughter Knows
 
-# Scene 01
+# ~~~
 
 Priya stood in the doorway holding a manila folder thick with papers. Behind her, her bags were packed and waiting, the physical evidence of departure that would happen in two days. Ananya had expected a normal visit, perhaps some last-minute college preparations, conversation about the life Priya was about to begin.
 
@@ -5865,7 +5865,7 @@ Priya's pen hovered over her notebook. "That's what I can't understand. Five yea
 
 
 
-# Scene 02
+# ~~~
 
 They ordered food neither of them wanted to eat. Indian takeout, a shared favorite, the containers cooling on the kitchen counter while they talked. The formality had broken down somewhat - Priya had set aside her folder, was listening now rather than interrogating - but the tension remained.
 
@@ -6059,7 +6059,7 @@ The microwave beeped. Neither of them had put anything else in it. A ghost in th
 
 
 
-# Scene 03
+# ~~~
 
 They made tea. The ritual was familiar, automatic - water boiling, leaves steeping, the particular cups Ananya had brought from her grandmother's house decades ago. By now the apartment was dark except for the stove light and a single lamp, the city glittering beyond the windows.
 
@@ -6251,9 +6251,9 @@ Ananya thanked her friend, hung up, and sat in the dark kitchen until sleep beca
 
 
 
-# Chapter 14
+# Chapter 14: The Caregiver Receives
 
-# Scene 01
+# ~~~
 
 The waiting room had the same magazines it had held a month ago, the same faded posters about hand-washing and vaccine schedules. Elena had sat in rooms like this ten thousand times as a provider, guiding patients through anxious waits, but she had never fully understood the particular quality of time when you were the one waiting. Each minute stretched, became elastic, seemed to hold more seconds than physics should allow.
 
@@ -6414,7 +6414,7 @@ She couldn't promise. No one could promise anything about bodies and time. But s
 
 
 
-# Scene 02
+# ~~~
 
 Daniel cooked with the same attention he brought to construction - measuring, leveling, ensuring everything was precisely where it needed to be. The kitchen filled with the smell of his grandmother's recipes: chiles roasting on the burner, beans simmering on the back, the particular spice blend he'd learned before she died.
 
@@ -6587,7 +6587,7 @@ The marriage had bent. It had nearly broken. But here, in the kitchen that smell
 
 
 
-# Scene 03
+# ~~~
 
 Her abuela's cane made a sound against the sidewalk that Elena had never noticed before. Click. Pause. Click. The rhythm of a body negotiating with concrete, with gravity, with the accumulated weight of seventy-eight years. They walked together down the street where Elena had grown up, past the Martinez house with its chain-link fence, past the lot where Mr. Dominguez used to work on cars before his hands gave out, past the corner where she had waited for the school bus every morning for twelve years.
 
@@ -6738,9 +6738,9 @@ That night, after the children were in bed, Elena sat in her own bed with a note
 
 
 
-# Chapter 15
+# Chapter 15: The Offer
 
-# Scene 01
+# ~~~
 
 Kevin Zhou walked into the coffee shop like he was entering hostile territory. Which, Yusuf supposed, he was. This neighborhood had gentrified faster than the people who made it interesting could afford to stay, and Kevin - with his obvious tech money clothes that tried hard not to look expensive, his confident stance that came from never having to wonder if he belonged - was exactly the kind of person who had displaced them.
 
@@ -6886,7 +6886,7 @@ He had one week to decide.
 
 
 
-# Scene 02
+# ~~~
 
 Amina was washing dishes when Yusuf finally told her. Their mother had retreated to the bedroom with her evening tea and her phone, scrolling through news from Mogadishu that she never talked about but never stopped reading. The apartment was small enough that they could hear the water running in the bathroom, the neighbor's television through the wall, the particular settling sounds of a building that had been tired since before they moved in.
 
@@ -7078,7 +7078,7 @@ It was the thing she always said. Tomorrow will be different. Sometimes it was a
 
 
 
-# Scene 03
+# ~~~
 
 The studio smelled like dust and old cables and whatever the previous band had eaten for lunch. Yusuf set up in the live room while Marcus - the owner, a man who had aged like his equipment, both still functional if showing wear - adjusted levels in the control room behind the glass. The headphones hung around Yusuf's neck, not yet needed. He wasn't sure what he was here to record.
 
@@ -7251,9 +7251,9 @@ They stood there in the kitchen, holding each other, while the onions softened i
 
 
 
-# Chapter 16
+# Chapter 16: The Decision
 
-# Scene 01
+# ~~~
 
 The law office was in Oakland, which Sarah Okonkwo had explained was deliberate. Not San Francisco, not the corporate territory where Prometheus's shadow fell across every building and every conversation. Here, across the bay, there was enough distance to breathe. The conference room had large windows facing west, and the winter rain drew soft lines down the glass.
 
@@ -7383,7 +7383,7 @@ The rain fell. The bridge lights reflected on the wet road. Ananya drove toward 
 
 
 
-# Scene 02
+# ~~~
 
 The restaurant was one they had been coming to since the early days of their friendship, back when Delphine was still figuring out how to be married and Ananya was still pretending that her job at Prometheus meant something. Small place, Chilean food, a back table they had claimed enough times that the servers no longer asked where they wanted to sit.
 
@@ -7523,7 +7523,7 @@ She knew what she was going to do. She had always known. The only question now w
 
 
 
-# Scene 03
+# ~~~
 
 The cooperation agreement sat on her desk, twelve pages of legal language that reduced moral choice to signatures and initials. Ananya had read it three times. She understood what it meant: she would provide testimony, produce documents, answer questions under oath. In exchange, she would receive limited immunity for her own conduct - not absolution, just protection. The law's version of accountability.
 
@@ -7655,9 +7655,9 @@ But it was something.
 
 
 
-# Chapter 17
+# Chapter 17: The Reckoning Complete
 
-# Scene 01
+# ~~~
 
 The phone rang at four in the morning, and Elena knew before she answered. Knew the way anyone knows when the phone rings in the dark hours, when the body understands before the mind has time to construct defenses. She reached for it on the nightstand, Daniel already stirring beside her, and said hello into the darkness of their bedroom.
 
@@ -7743,7 +7743,7 @@ She didn't know if her grandmother could hear. But she said it anyway. There wou
 
 
 
-# Scene 02
+# ~~~
 
 Yusuf woke at six-thirty, his phone alarm set earlier than it had been in years. Not for a delivery, not for a shift that the algorithm had assigned him, but for something he had chosen. His first day at a real job.
 
@@ -7827,7 +7827,7 @@ Outside, the December sun was setting already, the winter solstice claiming its 
 
 
 
-# Scene 03
+# ~~~
 
 Ruth sat at the desk where she had written legal opinions for forty years, but she was not writing legal opinions now. The desk faced the window, the way it always had, and through the glass she could see the December street, the bare trees, the sky that would begin darkening again in just a few hours. The shortest day of the year. The longest night coming.
 
@@ -7901,7 +7901,7 @@ Ruth set down her pen and flexed her hand, the ache familiar and almost welcome.
 
 
 
-# Scene 04
+# ~~~
 
 Ananya found the house by the number of cars parked along the street, the way you find a gathering even when you've never been there before. The neighborhood was unfamiliar - Phoenix sprawl, a kind of suburban architecture she associated with families and space and a life very different from her San Francisco apartment. She had flown in that morning, rental car from the airport, directions from her phone. The lawsuit news had arrived while she was boarding: Prometheus's lawyers had filed a motion to compel, a response designed to intimidate. It felt very far away now.
 
@@ -8020,19 +8020,19 @@ None of it was resolved. But all of it was sufficient to proceed. The longest ni
 
 
 
-# Part 03
+# Part 3: Inheritances
 
-# Chapter 18
+# Chapter 18: What Remains
 
-# Scene 01
+# ~~~
 
-The cedar chest had been sitting in abuela's bedroom for as long as Elena could remember, its brass corners oxidized to a greenish patina that she used to trace with her fingertip when she was Sofia's age, following the metal's edge as if it were a map to somewhere she had never been. Now she knelt before it in the February light, the room still holding the particular silence that comes after a death, not emptiness exactly but a different quality of presence, as if the air itself had reorganized around an absence.
+The cedar chest had stood in abuela's bedroom for as long as Elena could remember, its brass corners oxidized to a greenish patina that she used to trace with her fingertip when she was Sofia's age, following the metal's edge as if it were a map to somewhere she had never been. Now she knelt before it in the February light, the room still holding the particular silence that descends after a death, not emptiness exactly but a different quality of presence, as if the air itself had reorganized around an absence.
 
 Sofia sat cross-legged on the floor beside her, a cardboard box labeled DONATE in her lap, though they had not yet put anything in it.
 
 Three weeks since the hospital. Three weeks since Elena had stood in the fluorescent corridor and listened to a doctor she had never met before explain what she already knew from the way the monitors had looked when she arrived, from the particular set of the nurses' shoulders, from the silence that had replaced the mechanical rhythms. She had understood before he spoke, but she had let him speak anyway, because that was the ritual, because words had to be said even when they meant nothing, because her abuela deserved the ceremony of official pronouncement even if her body had stopped listening hours before.
 
-The chest opened with a sound like a sigh. Inside: linens, folded so precisely that the creases had become permanent, yellow-white now though Elena remembered them as bright when her abuela had embroidered them, tiny flowers in thread the color of marigolds, stitched in the hours before Elena's mother was born, in a house in Sonora that Elena had never seen except in the single photograph that sat on abuela's dresser, fading now into sepia suggestion.
+The chest opened with a sound like a sigh. Inside: linens, folded so precisely the creases had become permanent, yellow-white now though Elena remembered them as bright when her abuela had embroidered them, tiny flowers in thread the color of marigolds, stitched in the hours before Elena's mother was born, in a house in Sonora that Elena had never seen except in the single photograph on abuela's dresser, fading now into sepia suggestion.
 
 
 ---
@@ -8043,7 +8043,7 @@ The chest opened with a sound like a sigh. Inside: linens, folded so precisely t
 
 "Can I keep one?"
 
-Elena looked at her daughter, at the serious set of her mouth that was so much like Daniel's, at the eyes that were entirely her own mother's, dark and watchful. She had explained death to Sofia before, of course, the goldfish and the neighbor's elderly cat and the great-uncle who had passed before Sofia could remember him. But this was different. This was the woman who had braided Sofia's hair, who had taught her the words to songs in Spanish that Sofia only half-understood, who had smelled of rose water and garlic and something else, something Elena could not name but would recognize anywhere.
+Elena studied her daughter, the serious set of her mouth so much like Daniel's, the eyes entirely her own mother's—dark and watchful. She had explained death to Sofia before, of course, the goldfish and the neighbor's elderly cat and the great-uncle who had passed before Sofia could remember him. But this was different. This was the woman who had braided Sofia's hair, who had taught her the words to songs in Spanish that Sofia only half-understood, who had smelled of rose water and garlic and something else beneath those, something Elena could not name but would recognize anywhere.
 
 "Yes," Elena said. "We'll keep several."
 
@@ -8064,13 +8064,13 @@ Elena realized she had stopped moving, the stack of bills heavy in her hands. "N
 
 "Did Bisabuela have to pay a lot of money?"
 
-The question was so simple, so direct, the way children's questions always were. Elena could hear Mateo in the other room, the soft thud of his feet as he wandered through the house that would now belong to them, this house where Elena had spent her summers, where she had learned to cook and to pray and to be silent in a particular way that meant respect. He was eight and processing this differently, moving through the space as if he could memorize it with his body, touching walls and doorframes like a blind person learning a new room.
+The question was so simple, so direct, the way children's questions always were. Elena could hear Mateo in the other room, the soft thud of his feet as he wandered through the house that would now belong to them, this house where Elena had spent her summers, where she had learned to cook and to pray and to be silent in the particular way that meant respect. He was eight and processing this differently, moving through the space as if to memorize it with his body, touching walls and doorframes like a blind person learning a new room.
 
 "Yes," Elena said finally. "She did. More than she should have."
 
 "Why?"
 
-Because the system is broken. Because we treat sickness like a personal failure and healing like a luxury. Because your great-grandmother came to this country believing in something and spent her life paying for that belief in ways she never expected.
+Because the system is broken. Because we treat sickness as personal failure and healing as luxury. Because your great-grandmother came to this country believing in something and spent her life paying for that belief in ways she never expected.
 
 "Because taking care of people costs money," Elena said instead, "and sometimes the money isn't there."
 
@@ -8079,7 +8079,7 @@ Sofia was quiet for a moment, her small hands still resting on the embroidered l
 
 ---
 
-Elena looked at her daughter and felt something shift in her chest, a recognition that was also a kind of grief. She had tried to protect Sofia from the fury, from the late-night rants to Daniel about prior authorizations and insurance denials and the particular cruelty of making people prove they deserved to be well. She had bitten her tongue at dinner tables, had saved her sharpest observations for after bedtime, had tried to give her children a childhood unmarked by the knowledge that the world was arranged against people like them.
+Elena looked at her daughter and felt something shift in her chest, a recognition that was also a kind of grief. She had tried to shield Sofia from the fury, from the late-night rants to Daniel about prior authorizations and insurance denials and the particular cruelty of forcing people to prove they deserved to be well. She had bitten her tongue at dinner tables, saved her sharpest observations for after bedtime, tried to give her children a childhood unmarked by the knowledge that the world was arranged against people like them.
 
 But children see. Children hear. Children absorb what their parents try to hide, and they make their own meaning from the fragments.
 
@@ -8087,9 +8087,9 @@ But children see. Children hear. Children absorb what their parents try to hide,
 
 They returned to the sorting. Photographs emerged next, dozens of them, some in frames and some loose, some with names and dates written on the back and some with nothing at all. Faces Elena did not recognize, men and women in formal clothes from another era, children squinting against Mexican sun. Her abuela had never explained all of them, and now no one was left who could.
 
-"Who's that?" Sofia asked, pointing to a young woman in a white dress, flowers in her dark hair.
+"Who's that?" Sofia asked, pointing to a young woman in a white dress, flowers woven through her dark hair.
 
-"I don't know," Elena admitted, and the words felt like a door closing. These faces would become anonymous now, their stories lost. This was another kind of death, she understood, the death of memory, the death of context. The woman in the photograph would continue to exist only as an image, unmoored from the life she had lived.
+"I don't know," Elena admitted, and the words felt like a door closing. These faces would become anonymous now, their stories lost. This was another kind of death, she understood—the death of memory, the death of context. The woman in the photograph would continue to exist only as an image, unmoored from the life she had lived.
 
 
 ---
@@ -8100,7 +8100,7 @@ She set aside the photographs she could identify. Her mother as a child, serious
 
 "You look like her," Elena corrected, touching the image of her younger self. "And like her." She pointed to her abuela. "The same eyes. The same shape of face."
 
-Inheritance made visible. Elena thought about what else she had inherited from this woman: the early-morning rhythms of a working body, the hands that knew how to make masa and how to hold a dying person. The faith that had been her abuela's foundation and Elena's complicated ambivalence. The fury that she now understood had been there all along, hidden beneath the prayers and the patience, a slow fire that her abuela had banked rather than expressed.
+Inheritance made visible. Elena thought about what else she had inherited from this woman: the early-morning rhythms of a working body, hands that knew how to make masa and how to hold a dying person. The faith that had been her abuela's foundation and Elena's complicated ambivalence. The fury that she now understood had been there all along, banked beneath the prayers and the patience, a slow fire her abuela had tended rather than expressed.
 
 Mateo appeared in the doorway, holding something in his hands. A rosary, Elena saw, the beads the color of clouded jade.
 
@@ -8110,14 +8110,14 @@ Mateo appeared in the doorway, holding something in his hands. A rosary, Elena s
 
 "Can I have it?"
 
-He was not asking because he believed in what the rosary represented. He was asking because it had been hers, because holding it was a way of holding her. Elena understood this perfectly. The objects we keep after people die are rarely about their function; they are about the weight of them in our hands, the way they carry the shape of the ones who held them before.
+He was not asking because he believed in what the rosary represented. He was asking because it had been hers, because holding it was a way of holding her. Elena understood this perfectly. The objects we keep after people die are never about function; they are about the weight of them in our hands, the way they carry the shape of those who held them before.
 
 
 ---
 
 "Yes," Elena said. "Keep it."
 
-Mateo retreated back into the hallway, the rosary clutched against his chest, and Elena returned to the cedar chest. Near the bottom now: a shoebox, its corners soft with age. Inside, letters in envelopes addressed in different hands, some in Spanish and some in English. Immigration documents, yellow and fragile. A marriage certificate. A birth certificate for Elena's mother, issued in Tucson, the ink faded but still legible.
+Mateo retreated into the hallway, the rosary clutched against his chest, and Elena returned to the cedar chest. Near the bottom now: a shoebox, its corners soft with age. Inside, letters in envelopes addressed in different hands, some in Spanish and some in English. Immigration documents, yellow and fragile. A marriage certificate. A birth certificate for Elena's mother, issued in Tucson, the ink faded but legible still.
 
 And something else. An envelope with Elena's name on it, in her abuela's handwriting.
 
@@ -8135,7 +8135,7 @@ Elena turned the envelope over. It was sealed but the glue had dried, the flap l
 
 "Neither did I."
 
-The room felt different now, charged with something. The February light through the window had shifted, becoming the longer gold of late morning. Elena could hear Mateo somewhere else in the house, still wandering, still absorbing. She could hear the traffic on the street outside, the ordinary sounds of a Phoenix morning, the world continuing its rotation as if nothing had changed even though everything had.
+The room felt different now, charged with something. The February light through the window had shifted, lengthening into the gold of late morning. Elena could hear Mateo somewhere else in the house, still wandering, still absorbing. She could hear traffic on the street outside, the ordinary sounds of a Phoenix morning, the world continuing its rotation as if nothing had changed though everything had.
 
 She would read this letter. But not yet. Not while Sofia was watching with those dark eyes that saw too much, that asked questions Elena wasn't ready to answer.
 
@@ -8146,7 +8146,7 @@ She would read this letter. But not yet. Not while Sofia was watching with those
 
 Sofia nodded, though Elena suspected she was not hungry so much as ready to be elsewhere, to return to the world of the living where people ate lunch and talked about school and did not have to sort through the belongings of the dead.
 
-They left the room together, the cedar chest still open behind them, its contents half-excavated like an archaeological dig interrupted. In the kitchen, Elena made sandwiches with the bread a neighbor had brought, the kind of practical food that appeared after funerals, casseroles and bread and fruit that no one had asked for but everyone needed. Sofia ate in silence, looking out the window at the yard where her bisabuela had grown tomatoes and herbs and roses that somehow survived the Phoenix heat.
+They left the room together, the cedar chest still open behind them, its contents half-excavated like an archaeological dig interrupted. In the kitchen, Elena made sandwiches with bread a neighbor had brought, the kind of practical food that appeared after funerals—casseroles and bread and fruit that no one had asked for but everyone needed. Sofia ate in silence, looking out the window at the yard where her bisabuela had grown tomatoes and herbs and roses that somehow survived the Phoenix heat.
 
 The letter was a weight in Elena's pocket, a gravity she could not ignore. But she moved through the rituals of feeding her daughter, of calling Daniel to check on his progress with the construction job that had taken him to Scottsdale today, of answering Mateo's questions about whether they would keep the house and what would happen to the garden and where Bisabuela was now.
 
@@ -8162,13 +8162,15 @@ He accepted this, the way children accept what they cannot understand, filing it
 
 
 
-# Scene 02
+# ~~~
 
-She found the prayer book tucked behind a stack of old missals on the bedroom shelf: San Judas Tadeo on the cover, his face worn soft by decades of handling. The letter had slipped deeper into the envelope, which she had moved from her pocket to her palm to the bedside table over the course of the afternoon. But the prayer book held other pages. More letters, unfinished. Fragments.
+She found the prayer book tucked behind a stack of old missals on the bedroom shelf: San Judas Tadeo on the cover, his face worn soft by decades of handling. The letter had slipped deeper into the envelope, which she had moved from her pocket to her palm to the bedside table over the course of the afternoon. But the prayer book held other pages. More letters, unfinished.
+
+Fragments.
 
 She sat on abuela's bed, the mattress giving beneath her in the familiar way, and opened the book.
 
-The handwriting changed across the pages. Some passages firm, the letters upright and even. Others shaky, written by a hand that no longer held steady. Years of writing, Elena realized. This letter had been composed in pieces, across years, never finished, never sent.
+The handwriting changed across the pages. Some passages firm, letters upright and even. Others shaky, written by a hand that no longer held steady. Years of writing, Elena realized. This letter had been composed in pieces, across years, never finished, never sent.
 
 *Elenita—*
 
@@ -8193,7 +8195,7 @@ Elena looked at her daughter, at the openness of her face. What to share? What t
 
 "Sit with me," she said.
 
-Sofia crossed the room and settled beside her on the bed, close enough that Elena could smell her daughter's shampoo, the strawberry scent that reminded her absurdly of normalcy, of mornings before school, of the life that continued beyond this room full of the dead.
+Sofia crossed the room and settled beside her on the bed, close enough that Elena caught her daughter's shampoo, the strawberry scent that reminded her absurdly of normalcy, of mornings before school, of the life that continued beyond this room dense with the dead.
 
 She turned the page.
 
@@ -8214,7 +8216,7 @@ The sentence ended there. Crossed out, the ink heavy as if the pen had been pres
 
 "What does it say?" Sofia asked.
 
-A brother. Her mother had left a child behind. Elena had a brother she had never known about, a person who existed or had existed, who might be alive somewhere, who might have children of his own—
+A brother. Her mother had left a child behind. Elena had a brother she had never known, a person who existed or had existed, who might be alive somewhere, who might have children of his own—
 
 "It's about family," Elena managed. "About things that happened before I was born."
 
@@ -8224,7 +8226,7 @@ A brother. Her mother had left a child behind. Elena had a brother she had never
 
 She continued reading:
 
-*She meant to go back for him. You have to understand this. She meant to work for a year, save money, bring him across properly, with papers. But then she got pregnant with you, and the plans changed. And then she got sick. And then time passed the way it passes, and before she knew it ten years had gone by, and the child she left was a man she didn't know anymore.*
+*She meant to go back for him. You have to understand this. She meant to work for a year, save money, bring him across properly, with papers. But then she got pregnant with you, and the plans changed. Then she got sick. Then time passed the way it passes, and before she knew it ten years had gone by, and the child she left was a man she didn't know anymore.*
 
 *She wrote him letters. He didn't answer. His grandmother—my sister—told us he was angry. That he felt abandoned. That he wanted nothing to do with us.*
 
@@ -8237,7 +8239,7 @@ The letter blurred. Elena realized she was crying, tears falling onto the blue-l
 
 She had a brother.
 
-Had. Maybe had. Somewhere in Mexico, a man who shared her mother's blood, who had grown up knowing he was left behind, who had built a life out of that abandonment. Was he alive? Did he have children? Did he ever think about the sister he never met, the girl who got the life he should have had?
+Had. Maybe had. Somewhere in Mexico, a man who shared her mother's blood, who had grown up knowing he was left behind, who had built a life from that abandonment. Was he alive? Did he have children? Did he ever think about the sister he never met, the girl who got the life he should have had?
 
 "Mom, you're crying."
 
@@ -8251,7 +8253,7 @@ Sofia's hand found hers, small fingers wrapping around Elena's larger ones, the 
 
 "Is it about Bisabuela?"
 
-"It's about your great-grandmother. My mother. She—" Elena stopped. How to explain this? How to tell a ten-year-old that borders are not just lines on maps, that families are torn apart by policies written in distant offices, that the woman she called Grandmother had carried a grief so large she couldn't speak of it?
+"It's about your great-grandmother. My mother. She—" Elena stopped. How to explain this? How to tell a ten-year-old that borders are not just lines on maps, that families are torn apart by policies written in distant offices, that the woman she called Grandmother had carried a grief so vast she couldn't speak of it?
 
 "She had to make a hard choice once. The letter tells me about it."
 
@@ -8262,7 +8264,7 @@ Sofia's hand found hers, small fingers wrapping around Elena's larger ones, the 
 
 The question hung in the air, waiting.
 
-*I don't know why I'm writing this now. Maybe because I can feel myself getting older. Maybe because the doctors keep finding new things wrong, and the medicine costs so much, and I think about the money I've spent trying to stay alive when there are so many other things I could have done with it.*
+*I don't know why I'm writing this now. Maybe because I can feel myself getting older. Maybe because the doctors keep finding new things wrong, and the medicine costs so much, and I think about the money I've spent trying to stay alive when there were so many other things I could have done with it.*
 
 *But that's a different letter.*
 
@@ -8270,7 +8272,7 @@ The question hung in the air, waiting.
 
 A gap in the text. Then:
 
-*I tried to find him. After your mother died. I wrote to my sister, but she was dead too by then. I wrote to the address we had for him, but the letter came back. I hired someone, once, a man who said he could find people. He took my money and I never heard from him again.*
+*I tried to find him. After your mother died. I wrote to my sister, but she was dead too by then. I wrote to the address we had for him, but the letter came back. I hired a man once who said he could find people. He took my money and I never heard from him again.*
 
 *Maybe it's better. What would I say? Here is the sister you never met. Here is the life your mother built after she left you.*
 
@@ -8328,7 +8330,7 @@ The letter would wait. But it would not stop asking its questions.
 
 
 
-# Scene 03
+# ~~~
 
 The house settled into its nighttime sounds: the creak of cooling walls, the hum of the refrigerator, the particular silence that meant the children were finally asleep. Elena sat at her abuela's small desk, the one where bills had been paid and letters had been written and prayers had been copied out from books in handwriting that grew shakier each year.
 
@@ -8447,9 +8449,9 @@ That would have to be enough.
 
 
 
-# Chapter 19
+# Chapter 19: The Archive
 
-# Scene 01
+# ~~~
 
 The boxes were heavier than he remembered. Two banker's boxes, standard legal size, the cardboard reinforced at the corners but still giving slightly under the weight of paper, of years, of a career that had once seemed like it would change something. Jerome set them on the reception desk and signed the visitor log while the aide—Darnell, the same aide who had been here every Tuesday and Thursday for the past three years—nodded in recognition.
 
@@ -8630,7 +8632,7 @@ Jerome nodded, watching the city roll by, holding in his hands the boxes full of
 
 
 
-# Scene 02
+# ~~~
 
 DeShawn arrived in a car that cost more than Jerome's first three cars combined. Electric, sleek, the color of money, pulling into the facility's visitor lot with the particular hush of expensive machinery. Jerome watched from the lobby window, feeling something twist in his chest that he did not want to name.
 
@@ -8834,7 +8836,7 @@ They walked out together, the familiar route through the facility, past the resi
 
 
 
-# Scene 03
+# ~~~
 
 The dinner had been better than he expected. They had avoided the large topics, sticking to safer ground: DeShawn's apartment in Austin, Jerome's plans for partial retirement, the places Denise wanted to travel now that money was less tight. By dessert, something had loosened between them. Not resolution—there was too much history for that—but a temporary truce, a willingness to occupy the same space without combat.
 
@@ -8995,9 +8997,9 @@ He settled into the chair, prepared to keep vigil through the night. His mother 
 
 
 
-# Chapter 20
+# Chapter 20: Vessels
 
-# Scene 01
+# ~~~
 
 The museum smelled of fresh paint and the particular staleness of climate-controlled air, the temperature precisely calibrated to preserve objects that were meant to persist beyond the lives of those who made them. Delphine held Theo's hand as they walked through the gallery space, picking their way between installation workers and half-assembled displays, the exhibition taking shape around them like a memory crystallizing into matter.
 
@@ -9190,7 +9192,7 @@ She took out her phone and made a note: "More helpers. More resilience. Balance 
 
 
 
-# Scene 02
+# ~~~
 
 Jessie arrived at four, still in her work clothes, the particular energy of a writers' room clinging to her like a scent. She found them in the cafe, Theo absorbed in a game on Delphine's tablet, Delphine staring at her coffee as if it might reveal something.
 
@@ -9339,7 +9341,7 @@ That was transmission. That was inheritance. She could not control what they too
 
 
 
-# Scene 03
+# ~~~
 
 The house was quiet by eleven. Theo asleep after ice cream and bath and the ritual of bedtime stories that he insisted he was too old for but still wanted. Jessie reading in bed, the light from her tablet casting blue shadows on her face, the argument from earlier still present between them but softened now, smoothed by the domestic rhythms that had outlasted all their conflicts.
 
@@ -9520,9 +9522,9 @@ That was inheritance too. Perhaps the most important kind.
 
 
 
-# Chapter 21
+# Chapter 21: What He Left
 
-# Scene 01
+# ~~~
 
 The building did not look like a tomb. That was the first thing Yusuf noticed as they pulled into the parking lot, Amina driving because his hands were shaking too much to hold the wheel. The Threshold—its new name, painted on a glass door that had replaced the industrial metal of his memory—was bright, open, welcoming in a way that felt like a betrayal. New windows had been cut into the old brick walls, flooding the interior with afternoon light. A mural covered the eastern face: hands reaching upward, figures in motion, colors that had no right to exist on a building where his father had died.
 
@@ -9662,7 +9664,7 @@ They left the building, walking past the mural and the new windows and all the e
 
 
 
-# Scene 02
+# ~~~
 
 The sound check was scheduled for six, two hours before the doors would open. Yusuf returned to The Threshold with his guitar case and his fear, Amina trailing behind with the quiet support she had been offering all day. The space had changed again in the hours they were gone: chairs set up in rows, lights focused on the stage, a mixing board installed at the back of the room where a young woman with headphones was adjusting levels.
 
@@ -9823,7 +9825,7 @@ In an hour, he would sing. In an hour, he would give away what he had been holdi
 
 
 
-# Scene 03
+# ~~~
 
 The room was full. Maybe a hundred and fifty people, folding chairs occupied and standing room crowded, the community that had built this space coming together to celebrate its opening. Yusuf stood in the wings—if a converted warehouse could be said to have wings—and felt his heart trying to escape his chest.
 
@@ -10002,9 +10004,9 @@ That was transmission. That was inheritance transformed. It was not the same as 
 
 
 
-# Chapter 22
+# Chapter 22: Mother Tongue
 
-# Scene 01
+# ~~~
 
 The gymnasium smelled of industrial cleaner and the particular musk of children's bodies, the combination familiar to anyone who had spent time in elementary schools. Elena and Daniel found seats in the middle section, close enough to see the stage but far enough to survey the room. Around them, other parents settled into folding chairs, exchanging greetings and complaints about parking, the ordinary social rituals of school events.
 
@@ -10119,7 +10121,7 @@ Elena wiped her face with the back of her hand, not caring who saw.
 
 
 
-# Scene 02
+# ~~~
 
 The question period was brief—a teacher asked Sofia to say more about the house she had inherited, and Sofia described it simply: a small house in a neighborhood that had changed a lot, with a yard where her bisabuela had grown tomatoes and roses. Another parent asked about the fighting metaphor, and Sofia said, carefully, that she meant fighting for fairness, not fighting with fists.
 
@@ -10334,7 +10336,7 @@ That was inheritance done right. Not control, but trust. Not repetition, but tra
 
 
 
-# Scene 03
+# ~~~
 
 Sunday morning arrived with the particular slowness of a day without obligations. Elena made breakfast while the children drifted through the house in various states of wakefulness, Daniel reading the news on his tablet at the kitchen table, the ordinary choreography of family life.
 
@@ -10495,9 +10497,9 @@ For now, it was enough.
 
 
 
-# Chapter 23
+# Chapter 23: The Verdict
 
-# Scene 01
+# ~~~
 
 The Austin Convention Center was a cathedral of screens and light, its atrium rising three stories and covered in displays advertising companies Jerome had never heard of. He stood in the registration line behind a group of young people whose conversation consisted entirely of terms he did not understand: scalability, MVP iteration, synergistic ecosystem development. They spoke with the confidence of those who believed they were building the future, and perhaps they were, though it was not a future Jerome felt any ownership of.
 
@@ -10631,7 +10633,7 @@ Maybe rejection and transformation were not the same thing. Maybe inheritance co
 
 
 
-# Scene 02
+# ~~~
 
 Jerome did not move from his seat. The crowd around DeShawn ebbed and flowed like tide—investors, engineers, potential partners, each wanting something from his son that Jerome could not name. He watched from his position in the back row, still processing what he had heard, still recalibrating.
 
@@ -10769,7 +10771,7 @@ The echo was intentional. Father and son, using each other's words.
 
 
 
-# Scene 03
+# ~~~
 
 They talked for ninety minutes. The coffee went cold; neither of them noticed. DeShawn explained Verity's architecture—how they were building transparency into AI decision-making systems at the code level, making every algorithmic choice auditable in real time. Jerome asked questions, genuine ones, probing for understanding rather than weakness.
 
@@ -10928,9 +10930,9 @@ Inheritance, continuing in shapes the previous generation could not predict.
 
 
 
-# Chapter 24
+# Chapter 24: Surviving Work
 
-# Scene 01
+# ~~~
 
 The UCLA School of Theater, Film and Television occupied a building that had been renovated three times since Delphine's own college years, each renovation adding screens and removing character. She stood in the lobby studying the posters on the walls—student productions, faculty screenings, retrospectives—looking for something familiar and finding nothing.
 
@@ -11050,7 +11052,7 @@ Delphine was not sure she was ready. But she walked to the front anyway.
 
 
 
-# Scene 02
+# ~~~
 
 "Did you feel compromised making this?"
 
@@ -11202,7 +11204,7 @@ Delphine was exhausted. She was also not ready to be alone with what had happene
 
 
 
-# Scene 03
+# ~~~
 
 The hotel room was generic in the way all hotel rooms are generic: clean sheets, empty closet, television no one would watch. Delphine sat on the bed with her phone, not yet ready to make the call but knowing she needed to.
 
@@ -11363,9 +11365,9 @@ It was survival. Maybe that was enough.
 
 
 
-# Chapter 25
+# Chapter 25: Breaking the Pattern
 
-# Scene 01
+# ~~~
 
 The envelope arrived on Thursday morning, delivered by a regular mail carrier who did not know what she was carrying. Yusuf held it for a long moment before opening it, feeling the weight of the single page inside.
 
@@ -11524,7 +11526,7 @@ Somewhere between the two, Yusuf would have to find his answer.
 
 
 
-# Scene 02
+# ~~~
 
 The community center basement smelled like burnt coffee and institutional cleaner. Yusuf had been coming here for four years—first as a gig worker looking for solidarity, then as an organizer building it. The folding chairs were arranged in a rough circle, approximately fifteen people present, all of them drivers or warehouse pickers or delivery workers.
 
@@ -11696,7 +11698,7 @@ Maybe that was enough for now.
 
 
 
-# Scene 03
+# ~~~
 
 The walk took him through Phillips, through the blocks where he had grown up. October afternoon light slanted between buildings that had been there longer than he had been alive, their brick facades weathered by Minnesota winters, their storefronts cycling through businesses that opened hopeful and closed quietly.
 
@@ -11853,9 +11855,9 @@ The pattern was breaking. Something was tearing. Something else was beginning.
 
 
 
-# Chapter 26
+# Chapter 26: Letters to the Future
 
-# Scene 01
+# ~~~
 
 The house was quiet in the way houses are quiet when children have finally slept and husbands have followed them into rest. Elena sat at the kitchen table with the laptop open, its glow the only light in the room. She had been staring at the blank document for twenty minutes.
 
@@ -12027,7 +12029,7 @@ It was not control. She understood that now. It was offering. You could not make
 
 
 
-# Scene 02
+# ~~~
 
 Daniel's parents' house in Tempe was built for gatherings—a rambling single-story with a backyard that opened onto desert landscape, its kitchen large enough for multiple cooks to work without collision. Elena had been coming here for twelve years now, since she and Daniel started dating, and the space still surprised her with its capacity to absorb children.
 
@@ -12199,7 +12201,7 @@ All she could do was offer, and hope, and keep writing.
 
 
 
-# Scene 03
+# ~~~
 
 The final night of letter-writing came in December, a week before Christmas. Elena had been returning to the letters on and off for weeks—adding sections, revising, trying to say what could not quite be said. Now she sat at the kitchen table again, the house quiet again, the pen in her hand ready to write to Mateo.
 
@@ -12327,13 +12329,13 @@ Elena let sleep come at last. The letters were written. The words were given. Wh
 
 
 
-# Part 04
+# Part 4: Thresholds
 
-# Chapter 27
+# Chapter 27: The Return
 
-# Scene 01
+# ~~~
 
-She woke before the light, as she had for months now, her body refusing the permission of sleep past four in the morning. The ceiling above her bed was gray in the darkness, and she lay still for a moment, watching the faint glow from the street below create shadows that shifted as cars passed, rare at this hour, their headlights sweeping across the walls of her bedroom like searchlights looking for something that was not there.
+She woke before the light, as she had for months now, her body refusing the permission of sleep past four in the morning. The ceiling above her bed was gray in the darkness, and she lay still, watching the faint glow from the street below create shadows that shifted as cars passed, rare at this hour, their headlights sweeping across the walls of her bedroom like searchlights hunting for something that was not there.
 
 Ananya Ramaswamy. Forty-seven years old. Chief Ethics Officer at Prometheus Systems for eleven years. These facts arranged themselves in her mind as they did every morning, a kind of inventory she performed without willing it, as though her unconscious needed to confirm that she was still the person she had been when she fell asleep.
 
@@ -12344,18 +12346,18 @@ On her nightstand, her phone glowed faintly. Delphine's message. She had read it
 
 ---
 
-She did not reach for the phone. Not yet. There was a ritual to mornings like this, a sequence of small actions that she had developed over years, and she would not break it even now, even with the message waiting, its words already burned into her memory.
+She did not reach for the phone. Not yet. There was a ritual to mornings like this, a sequence of small actions she had developed over years, and she would not break it even now, even with the message waiting, its words already seared into her memory.
 
 The light was beginning to change. She could see it through the gap in the curtains, the darkness softening almost imperceptibly toward gray, toward the blue-gray that preceded dawn in San Francisco, when the fog that had rolled in overnight began to glow faintly with the promise of sun that might or might not arrive.
 
 She sat up slowly, feeling the familiar complaint of her lower back, the stiffness in her neck that had become her morning companion. The body at forty-seven was a negotiation, she had learned, a daily conversation between what she wanted to do and what her joints and muscles would permit. She swung her legs over the side of the bed and placed her feet on the hardwood floor, cool even in this mild winter, and she sat there for a moment, hands on her knees, breathing.
 
-The apartment was hers, had been hers for six years now, since the divorce was finalized and she had taken her share of their accumulated life and found this place, smaller than the house in Palo Alto but adequate, even elegant in its proportions. Two bedrooms, one of which she used as an office, a living room with a view of the city, a kitchen where she prepared meals for one with the precision of someone who had learned to find satisfaction in solitude.
+The apartment was hers, had been hers for six years now, since the divorce was finalized and she had taken her share of their accumulated life and found this place, smaller than the house in Palo Alto but adequate, even elegant in its proportions. Two bedrooms, one of which she used as an office, a living room with a view of the city, a kitchen where she prepared meals for one with the precision of someone who had learned to extract satisfaction from solitude.
 
 
 ---
 
-She stood and walked to the bathroom, not turning on the light, navigating by memory and the faint glow from the window. The cold water on her face was a shock she welcomed, a small violence that pushed the residue of sleep away. She looked at herself in the mirror, her face emerging from the darkness as her eyes adjusted, and she saw the woman she had become: gray threading through black hair she no longer bothered to dye, lines around her eyes and mouth that she had stopped noticing years ago, the particular set of her jaw that Priya had inherited, along with her impatience and her tendency to speak before thinking.
+She stood and walked to the bathroom, not turning on the light, navigating by memory and the faint glow from the window. The cold water on her face was a shock she welcomed, a small violence that scoured the residue of sleep away. She looked at herself in the mirror, her face emerging from the darkness as her eyes adjusted, and she saw the woman she had become: gray threading through black hair she no longer bothered to dye, lines around her eyes and mouth that she had stopped noticing years ago, the particular set of her jaw that Priya had inherited, along with her impatience and her tendency to speak before thinking.
 
 In the kitchen, she began the ritual of coffee. Beans from a roaster in the Mission, ground fresh each morning, water filtered and heated to exactly ninety-six degrees. She had learned this precision from a colleague at Prometheus who had since left the company, one of many who had departed over the years, their exits marked by farewell emails that said nothing about why they were really leaving. The coffee maker hummed, and she stood watching it, her arms crossed over her chest, waiting.
 
@@ -12364,7 +12366,7 @@ The apartment was full of objects that had accumulated meaning through years of 
 
 ---
 
-She poured the coffee into a mug that bore the logo of a company that no longer existed, acquired by Prometheus three years ago and dissolved into its larger apparatus. The mug had been a gift from the CEO of that company, a woman named Sarah who had believed Ananya's promises about ethical integration, about how the acquisition would preserve the values they had built. Sarah had left six months after the deal closed. The mug remained.
+She poured the coffee into a mug bearing the logo of a company that no longer existed, acquired by Prometheus three years ago and dissolved into its larger apparatus. The mug had been a gift from the CEO of that company, a woman named Sarah who had believed Ananya's promises about ethical integration, about how the acquisition would preserve the values they had built. Sarah had left six months after the deal closed. The mug remained.
 
 Ananya carried her coffee to the window and looked out at San Francisco waking beneath her. The city had changed so much in the years she had lived here, the skyline bristling with new towers, the streets below transformed by technologies that Prometheus had helped create. She could trace the company's influence in the delivery drones that crossed the sky at dawn, in the autonomous vehicles that had begun to appear on the roads, in the subtle ways that people moved through public space, their attention divided between the physical world and the digital layer that Prometheus maintained.
 
@@ -12375,7 +12377,7 @@ The coffee was too hot. She sipped it anyway, feeling the slight burn on her ton
 
 ---
 
-On the bookshelf near the window, a row of awards she had stopped displaying but could not bring herself to discard. Plaques from ethics organizations, a crystal statue from a technology conference, certificates in frames that had accumulated dust until she moved them here, to this shelf where they faced the wall, their inscriptions hidden. She had earned each one by doing work that she had believed in, or told herself she believed in, or told herself that believing in was less important than the work itself.
+On the bookshelf near the window, a row of awards she had stopped displaying but could not bring herself to discard. Plaques from ethics organizations, a crystal obelisk from a technology conference, certificates in frames that had accumulated dust until she moved them here, to this shelf where they faced the wall, their inscriptions hidden. She had earned each one by doing work that she had believed in, or told herself she believed in, or told herself that believing in was less important than the work itself.
 
 There was a book on the coffee table, left open from where she had been reading last night before Delphine's message arrived. A novel about a woman who discovers that her entire life has been a performance, that she has been observed without knowing it, her every action recorded and analyzed. Ananya had been reading it as research, or so she told herself, but the pages had begun to feel less like fiction and more like diagnosis.
 
@@ -12386,7 +12388,7 @@ She thought about the day ahead. The meeting with Delphine, if she decided to go
 
 ---
 
-She moved through the apartment, touching things. The habit had developed in recent months, a need to confirm the reality of objects, to feel their weight and texture against her fingers. The back of a chair, smooth wood worn by years of contact. The edge of her desk, where a stack of papers waited, reports she was supposed to review, analyses she was supposed to approve. The frame of a photograph, Priya at eighteen, graduating from high school, her smile uncertain in a way that Ananya had not understood then and understood too well now.
+She moved through the apartment, touching things. The habit had developed in recent months, a need to confirm the reality of objects, to feel their weight and texture beneath her fingers. The back of a chair, smooth wood worn by years of contact. The edge of her desk, where a stack of papers waited, reports she was supposed to review, analyses she was supposed to approve. The frame of a photograph, Priya at eighteen, graduating from high school, her smile uncertain in a way that Ananya had not understood then and understood too well now.
 
 In the years since that photograph was taken, Priya had become a stranger. Not hostile, not distant in the way that implied anger or rejection, but careful, deliberate, as though she had learned to navigate around certain subjects the way one learns to walk around furniture in the dark. They spoke every few weeks, conversations that covered the surface of their lives without ever breaking through to what lay beneath. Priya's work in climate policy, Ananya's work at Prometheus, the weather, the news, the small currencies of family exchange.
 
@@ -12397,7 +12399,7 @@ The sun was rising now, light flooding the apartment, transforming the shadows i
 
 ---
 
-The morning felt different from other mornings. She could not say why, could not point to any specific change in the light or the silence or the arrangement of objects, but something had shifted, some quality of the air or of her own perception that made everything seem slightly heightened, slightly more present than usual. It was the message, she knew. Delphine's words sitting in her phone like a weight that distorted the space around it.
+The morning felt different from other mornings. She could not say why, could not identify any specific change in the light or the silence or the arrangement of objects, but something had shifted, some quality of the air or of her own perception that made everything seem slightly heightened, slightly more present than usual. It was the message, she knew. Delphine's words sitting in her phone like a weight that distorted the space around it.
 
 She had known Delphine for years now, had watched her work evolve from journalism into something harder to categorize, documentary and analysis and advocacy woven together in ways that made traditional media uncomfortable and made audiences pay attention. Delphine had been skeptical of Prometheus from the beginning, had written pieces that Ananya had read with a mixture of defensiveness and recognition. And then, three years ago, they had met at a conference and found themselves talking for hours, two women who had spent their careers on opposite sides of a question that neither could fully answer.
 
@@ -12413,7 +12415,7 @@ The phone waited on the nightstand. The morning waited around her. The threshold
 
 
 
-# Scene 02
+# ~~~
 
 She picked up the phone.
 
@@ -12427,7 +12429,7 @@ I've been working on this documentary for two years now. You know that. What you
 
 She stopped reading. The words "reasonable people" sat in her mind like an accusation, or like an invitation, she could not tell which.
 
-Outside, a siren wailed, the sound rising and then fading as an ambulance passed somewhere below, and Ananya thought about all the emergencies she had never witnessed, all the harm she had never seen directly, the distance that her position at Prometheus had maintained between her and the consequences of the systems she had approved.
+Outside, a siren wailed, the sound rising and then fading as an ambulance passed somewhere below, and Ananya thought about all the emergencies she had never witnessed, all the harm she had never seen directly, the distance her position at Prometheus had maintained between her and the consequences of the systems she had approved.
 
 
 ---
@@ -12442,7 +12444,7 @@ The word repeated in her mind. Ready. As though Delphine could see something in 
 
 She remembered the first time she and Delphine had spoken honestly with each other, at a dinner after that conference in Seattle, both of them slightly drunk on wine and exhaustion, the professional facades falling away. Delphine had asked her directly: do you believe you've done any good? And Ananya had answered with something she had never said aloud: I don't know anymore.
 
-That was the moment the alliance had begun. Not collaboration, exactly, and not friendship in any simple sense. Something more like recognition. Two women who had spent their careers trying to shape narratives around technology, one from outside and one from within, discovering that they had arrived at the same questions by different routes.
+That was the moment the alliance had begun. Not collaboration, exactly, and not friendship in any simple sense. Something closer to recognition. Two women who had spent their careers trying to shape narratives around technology, one from outside and one from within, discovering they had arrived at the same questions by different routes.
 
 
 ---
@@ -12453,7 +12455,7 @@ I'm not asking you to betray anything. I'm not asking for secrets or internal do
 
 The questions struck her one at a time, each one landing like a small blow.
 
-What did it feel like. She thought about the conference rooms at Prometheus, the sleek tables and the screens displaying data, the faces of colleagues who had become family and then become strangers as the years passed and the company grew and the stakes became something none of them had anticipated. It had felt like drowning in slow motion, she thought. Like watching a flood rise and being unable to do anything but keep your head above water and hope someone would notice and throw a rope.
+What did it feel like. She thought about the conference rooms at Prometheus, the sleek tables and the screens displaying data, the faces of colleagues who had become family and then become strangers as the years passed and the company grew and the stakes became something none of them had anticipated. It had felt like drowning in slow motion, she thought. Like watching a flood rise and being unable to do anything but keep her head above water and hope someone would notice and throw a rope.
 
 What did you tell yourself. She had told herself many things. That her presence slowed the harm, that without her it would have been worse, that the frameworks she developed were better than nothing, that incremental progress was still progress, that the perfect was the enemy of the good. She had told herself these things every morning and every night, a liturgy of justification that had kept her functional, that had allowed her to look at herself in the mirror without flinching.
 
@@ -12466,7 +12468,7 @@ She set the phone down and walked to the window again, her arms crossed, watchin
 
 Honesty.
 
-Delphine was asking for honesty, and Ananya did not know if she was capable of providing it. Not because she wanted to lie, but because she was no longer sure what the truth was. The truth about her years at Prometheus had so many layers, so many qualifications and contexts and competing perspectives, that trying to reduce it to statements she could speak aloud felt like trying to describe a color to someone who had never seen light.
+Delphine was asking for honesty, and Ananya did not know if she was capable of providing it. Not because she wanted to lie, but because she was no longer sure what the truth was. The truth about her years at Prometheus had so many layers, so many qualifications and contexts and competing perspectives, that reducing it to statements she could speak aloud felt like trying to describe a color to someone who had never seen light.
 
 And yet.
 
@@ -12491,7 +12493,7 @@ See what I've been building.
 
 The phrases repeated in her mind, taking on different inflections with each repetition. An invitation. A challenge. A door standing open that she could walk through or walk away from.
 
-She thought about Delphine's home in the hills above Los Angeles, which she had never visited, which she knew only from photographs and from Delphine's descriptions. Jessie and Theo, the family Delphine had made, the life that existed alongside and intertwined with the work. Ananya had a dim sense of what she would find there: creative chaos, documentary footage playing on screens, the evidence of years of investigation into the very company Ananya had served.
+She thought about Delphine's home in the hills above Los Angeles, which she had never visited, which she knew only from photographs and Delphine's descriptions. Jessie and Theo, the family Delphine had made, the life that existed alongside and intertwined with the work. Ananya had a dim sense of what she would find there: creative chaos, documentary footage playing on screens, the evidence of years of investigation into the very company Ananya had served.
 
 The implicit accusation in being asked. That was what she kept returning to. Delphine was not accusing her of anything, not directly, but the request itself contained an accusation, or perhaps a recognition that Ananya had accused herself long ago and was only now ready to speak the charges aloud.
 
@@ -12505,13 +12507,13 @@ Then she began to compose a reply.
 
 
 
-# Scene 03
+# ~~~
 
 Before she could finish the reply, she stopped. Her thumb hovered over the screen, paralyzed by a thought that had surfaced without warning.
 
 Priya.
 
-If she did this, if she spoke honestly to Delphine's cameras, if she allowed the documentary to record her admission of complicity, Priya would see it. Priya, who had stopped asking questions about her mother's work years ago. Priya, who worked in climate policy and knew better than most what the technology sector had done to the world she was trying to save. Priya, whose silence on the subject had become its own kind of statement, an eloquent refusal to engage that said more than accusation ever could.
+If she did this, if she spoke honestly to Delphine's cameras, if she allowed the documentary to record her admission of complicity, Priya would see it. Priya, who had stopped asking questions about her mother's work years ago. Priya, who worked in climate policy and understood better than most what the technology sector had done to the world she was trying to save. Priya, whose silence on the subject had become its own kind of statement, an eloquent refusal to engage that said more than accusation ever could.
 
 Ananya set the phone down again and sat on the couch, her hands in her lap, staring at nothing.
 
@@ -12522,7 +12524,7 @@ Their last conversation had been two weeks ago. A Sunday afternoon, Ananya's tim
 
 What they had not discussed: Prometheus. The Eighth Oblivion. The years of crisis that had shaped the world Priya now worked to repair. The role Ananya had played in creating the conditions Priya spent her days trying to address.
 
-The silence around these subjects had developed gradually, like scar tissue forming over a wound. Priya had asked questions, once. In her late teens, in the years when the full scope of what Prometheus had built was becoming public, she had asked her mother directly: what do you do there? What are you responsible for? How can you work for them when you know what they're doing?
+The silence around these subjects had developed gradually, like scar tissue accreting over a wound. Priya had asked questions, once. In her late teens, in the years when the full scope of what Prometheus had built was becoming public, she had asked her mother directly: what do you do there? What are you responsible for? How can you work for them when you know what they're doing?
 
 Ananya had answered with the careful language she had developed for such occasions. Complexity. Nuance. The difference between being inside a system and being responsible for it. The importance of voices that pushed for better outcomes, even when those outcomes were not achieved. She had talked about ethics as a practice rather than a destination, about the value of incremental change, about how walking away would only mean being replaced by someone with fewer scruples.
 
@@ -12531,7 +12533,7 @@ Priya had listened. Had nodded. Had asked follow-up questions that revealed she 
 
 ---
 
-Ananya remembered a moment from that last phone call, a pause in the conversation when the silence stretched just slightly too long, and she had felt the presence of everything they were not saying pressing against the words they were saying, a weight that both of them carried without acknowledging.
+Ananya remembered a moment from that last phone call, a pause in the conversation when the silence stretched slightly too long, and she had felt the presence of everything they were not saying pressing against the words they were saying, a weight both of them carried without acknowledging.
 
 How's work? Priya had asked, the question so carefully general that it could have meant anything.
 
@@ -12539,7 +12541,7 @@ Busy, Ananya had said. You know how it is.
 
 And Priya had said yes, I do, and the conversation had moved on, skating over the surface of their lives like a stone skipping across water, touching down briefly before lifting again.
 
-What would Priya want to hear? That was the question Ananya could not answer. If she did what Delphine was asking, if she spoke honestly about her years at Prometheus, would Priya experience it as vindication or betrayal? Would she be relieved that her mother had finally admitted what she must have suspected all along? Or would she feel exposed, implicated by association, her own career shadowed by her mother's confession?
+What would Priya want to hear? That was the question Ananya could not answer. If she did what Delphine was asking, if she spoke honestly about her years at Prometheus, would Priya experience it as vindication or as betrayal? Would she be relieved that her mother had finally admitted what she must have suspected all along? Or would she feel exposed, implicated by association, her own career shadowed by her mother's confession?
 
 Ananya did not know her daughter well enough anymore to predict her response. That was the painful truth she had been avoiding, the price of the careful distance they had maintained. Somewhere in the years of silence and surface conversation, she had lost access to Priya's interior life, had stopped being able to guess what her daughter was thinking or feeling. They loved each other, she was certain of that. But love without understanding was a precarious thing, easily disrupted by revelations that the other person was not who you thought they were.
 
@@ -12550,7 +12552,7 @@ She thought about calling Priya now. Picking up the phone, not to reply to Delph
 
 But what would she say? Where would she even begin?
 
-The truth was not a single thing she could hand over like a package. It was a tangle of decisions and justifications, of moments when she had spoken up and been ignored and moments when she had remained silent because speaking seemed pointless. It was the grants she had secured for ethics research that had been cited in product decisions as evidence of due diligence. It was the frameworks she had developed that had been praised publicly and circumvented privately. It was the slow erosion of belief, the gradual replacement of hope with habit, the morning when she had looked at herself in the mirror and realized she no longer recognized the person looking back.
+The truth was not a single thing she could hand over like a package. It was a tangle of decisions and justifications, of moments when she had spoken up and been ignored and moments when she had remained silent because speaking seemed pointless. It was the grants she had secured for ethics research, cited in product decisions as evidence of due diligence. It was the frameworks she had developed that had been praised publicly and circumvented privately. It was the slow erosion of belief, the gradual replacement of hope with habit, the morning when she had looked at herself in the mirror and realized she no longer recognized the person looking back.
 
 How do you tell your daughter that you spent a decade providing cover for harm you could not prevent?
 
@@ -12561,7 +12563,7 @@ How do you explain that staying felt like the only option, and leaving felt like
 
 Ananya stood and walked to the bookshelf where she kept photographs. Priya as a baby, held in Vikram's arms, both of them laughing at something outside the frame. Priya at five, at ten, at fifteen. Priya at her college graduation, standing between her parents who had already begun the slow process of separation, smiling for the camera while the family unraveled around her.
 
-The photographs told a story of a daughter she had raised and loved and somehow lost track of, not through any single failure but through the accumulation of small distances, the way that busy lives and difficult subjects create gaps that widen over time.
+The photographs told a story of a daughter she had raised and loved and somehow lost track of, not through any single failure but through the accumulation of small distances, the way busy lives and difficult subjects create gaps that widen imperceptibly until they are uncrossable.
 
 If she did this documentary, Priya would see it. Would watch her mother admit to things she had never admitted aloud. Would have to reckon with a version of Ananya that the surface conversations had carefully avoided.
 
@@ -12579,11 +12581,11 @@ And that whatever she decided, she could not decide without thinking about Priya
 
 
 
-# Scene 04
+# ~~~
 
 She went to her closet.
 
-The simple act of selecting clothes became freighted with meaning, each choice a statement about who she intended to be when she walked into Delphine's house. Professional or casual. Armored or vulnerable. The version of herself that had survived eleven years at Prometheus, or someone she had not yet fully become.
+The simple act of selecting clothes became freighted with meaning, each choice a declaration about who she intended to be when she walked into Delphine's house. Professional or casual. Armored or vulnerable. The version of herself that had survived eleven years at Prometheus, or someone she had not yet fully become.
 
 She chose a blouse the color of slate, neither bright nor dull. Dark pants that were comfortable enough for the drive to Los Angeles. Shoes she could walk in, practical and unassuming. The uniform of a woman who had stopped performing and was not yet sure what came next.
 
@@ -12657,9 +12659,9 @@ She pulled out of the garage and into the morning light, and San Francisco reced
 
 
 
-# Chapter 28
+# Chapter 28: Abuela's Hands
 
-# Scene 01
+# ~~~
 
 The hospice room smelled of antiseptic and something else, something softer, the particular scent of a body preparing to let go. Elena Varga sat in the chair beside her grandmother's bed, her hands folded in her lap, watching the rise and fall of the thin chest beneath the white sheet.
 
@@ -12736,7 +12738,7 @@ She held abuela's hand and waited, feeling something shift inside her that she c
 
 
 
-# Scene 02
+# ~~~
 
 The children arrived in the afternoon. Sofia came through the door first, fourteen years old and trying to look older, her face arranged in an expression of practiced composure that Elena recognized as borrowed from somewhere, television or the internet or the careful observation of adults managing difficult situations.
 
@@ -12840,7 +12842,7 @@ And now she would go back, and she would keep the vigil, and she would wait for 
 
 
 
-# Scene 03
+# ~~~
 
 She returned to the hospice that night, unable to stay home, unable to sleep in her own bed while abuela lay in this room. Daniel had the children; he understood without her having to explain. He had always understood the things she could not say, which was part of why she had married him and part of why she loved him still, despite everything that the years had worn away.
 
@@ -12946,7 +12948,7 @@ I understand now, she said quietly, to abuela or to herself, she was not sure wh
 
 
 
-# Scene 04
+# ~~~
 
 Dawn.
 
@@ -13085,9 +13087,9 @@ She carried abuela's hands with her, and everything they had held.
 
 
 
-# Chapter 29
+# Chapter 29: The Song He Never Finished
 
-# Scene 01
+# ~~~
 
 The cold was a living thing. It pressed against the windows of Yusuf's car, crept through the seals around the doors, settled into the upholstery with the patience of something that knew it would eventually win. The heater was running at full blast, making noises that suggested it would not survive another winter, but the warmth it produced barely reached the driver's seat.
 
@@ -13170,7 +13172,7 @@ He hummed into the cold car, the melody stronger now, taking shape despite every
 
 
 
-# Scene 02
+# ~~~
 
 He stopped for a break around ten, pulling into the parking lot of a gas station that stayed open all night. The fluorescent lights buzzed above empty pumps. Inside, a clerk watched something on a phone propped behind the counter.
 
@@ -13262,7 +13264,7 @@ But the decision was already forming somewhere beneath his conscious thought, li
 
 
 
-# Scene 03
+# ~~~
 
 He drove to his mother's apartment without planning to. The route was automatic, the turns he had taken thousands of times, the building that had been home before it became the place where his mother lived alone.
 
@@ -13360,7 +13362,7 @@ You know, she said. You have always known.
 
 
 
-# Scene 04
+# ~~~
 
 He stayed at his mother's apartment for another hour, the conversation drifting to other subjects, the tea going cold in their cups. When he finally left, the night had grown even colder, the kind of cold that made you question whether spring would ever arrive.
 
@@ -13454,7 +13456,7 @@ But first, there was something else he needed to do. Something that could not wa
 
 
 
-# Scene 05
+# ~~~
 
 The sky was beginning to lighten when he pulled into the parking lot of the grocery store near his apartment. It was closed at this hour, the lot empty except for his car, the streetlights still burning against the slow approach of dawn.
 
@@ -13550,9 +13552,9 @@ Then he went inside, to sleep, to wait for whatever came next, carrying the song
 
 
 
-# Chapter 30
+# Chapter 30: The Interface
 
-# Scene 01
+# ~~~
 
 The apartment was beautiful. That was the first thing anyone noticed, and the last thing that mattered.
 
@@ -13647,7 +13649,7 @@ Outside, the city continued without him, as it had for years, as it might for ye
 
 
 
-# Scene 02
+# ~~~
 
 The memories came without invitation, as they did most mornings, surfacing through the work like rocks appearing through receding water.
 
@@ -13725,7 +13727,7 @@ But the question itself was a change. The asking was a threshold he had already 
 
 
 
-# Scene 03
+# ~~~
 
 He opened the video app.
 
@@ -13804,7 +13806,7 @@ The thought sat in his chest like a stone, and he worked through the morning, tr
 
 
 
-# Scene 04
+# ~~~
 
 The cafe was crowded with the lunch rush, tech workers and freelancers filling the small tables, the steady hum of conversation and espresso machines creating a wall of sound that was both anonymous and intimate.
 
@@ -13881,7 +13883,7 @@ But first Kevin Zhou would have to let someone feel what he felt. The builder wo
 
 
 
-# Scene 05
+# ~~~
 
 Back in his apartment, Kevin Zhou sat at his desk and opened a blank message.
 
@@ -13995,9 +13997,9 @@ Kevin Zhou sat in his apartment and waited, alone as he had always been, but for
 
 
 
-# Chapter 31
+# Chapter 31: What We Made
 
-# Scene 01
+# ~~~
 
 The drive from San Francisco to Los Angeles had taken six hours, the highway unreeling through the Central Valley and then climbing over the Grapevine, the landscape shifting from brown to green to brown again as the miles accumulated.
 
@@ -14101,7 +14103,7 @@ Delphine nodded and moved toward the screens, and the afternoon began in earnest
 
 
 
-# Scene 02
+# ~~~
 
 The screens came to life with footage from another era.
 
@@ -14222,7 +14224,7 @@ Ananya turned back from the window. Then let's talk about what that actually mea
 
 
 
-# Scene 03
+# ~~~
 
 They moved to the living room as evening fell. Jessie had made dinner and tactfully withdrawn with Theo to another part of the house, giving them space for the conversation that needed to happen.
 
@@ -14349,7 +14351,7 @@ It's not, Delphine said. It's never too late. It's just harder, the longer you w
 
 
 
-# Scene 04
+# ~~~
 
 Someone turned on a lamp. The sudden light made them both blink, and Ananya realized how long they had been sitting in the dark, how far the conversation had traveled.
 
@@ -14436,7 +14438,7 @@ But tonight, she would eat pasta and drink wine and exist in a space where she w
 
 
 
-# Scene 05
+# ~~~
 
 The night had deepened by the time Ananya stood in the entryway, preparing to leave for the guest room.
 
@@ -14542,9 +14544,9 @@ And somewhere, in the silence between mother and daughter, something had begun t
 
 
 
-# Chapter 32
+# Chapter 32: After the Funeral
 
-# Scene 01
+# ~~~
 
 The clinic was empty when Elena arrived, the parking lot holding only her Corolla and the ancient pickup that belonged to the custodian. Six-fifteen in the morning, Phoenix already warming toward another day that would reach a hundred and seven by afternoon, but for now the air still carried something of the night's reprieve. She sat in the car for a moment after cutting the engine, her hands on the wheel, not ready yet to go inside but not able to stay away either.
 
@@ -14602,7 +14604,7 @@ She was ready. Something in her had shifted, and she was ready.
 
 
 
-# Scene 02
+# ~~~
 
 The doors opened at seven and by seven-fifteen every chair in the waiting room was full.
 
@@ -14688,7 +14690,7 @@ The rage flared and she let it. The care flowed and she let that too. Both at on
 
 
 
-# Scene 03
+# ~~~
 
 The break room at one-thirty was full of nurses trying to eat quickly. Lorena from pediatrics was heating something in the microwave that smelled like last night's dinner. Tomas from urgent care was slumped on the couch, his eyes closed, stealing a few minutes of rest before the afternoon rush. At the table, Destiny and Patricia were sharing a bag of chips and complaining about scheduling.
 
@@ -14771,7 +14773,7 @@ The break room timer beeped. Fifteen minutes gone. The afternoon was waiting.
 
 
 
-# Scene 04
+# ~~~
 
 She called Daniel during her four o'clock break, stepping outside into the heat to have privacy. The parking lot shimmered in the afternoon sun, the asphalt so hot she could feel it through her shoes. She leaned against the clinic's east wall, in the sliver of shade it still offered, and listened to his phone ring three times before he picked up.
 
@@ -14855,7 +14857,7 @@ Neither of them hung up for a moment, holding the connection open, the intimacy 
 
 
 
-# Scene 05
+# ~~~
 
 The nursing student appeared at six-thirty, when Elena was charting in the back and half the lights in the clinic had already been dimmed for the evening. She was shadowing Lorena, a wide-eyed young woman with her hair in a bun and a notebook clutched against her chest like armor. Her name tag said Aaliyah. Her face said terrified.
 
@@ -14973,9 +14975,9 @@ She got out of the car and walked toward the light.
 
 
 
-# Chapter 33
+# Chapter 33: Recording
 
-# Scene 01
+# ~~~
 
 The warehouse was on the north side of Minneapolis, in a neighborhood that had once been industrial and was now the kind of place where artists could afford rent. Yusuf parked his borrowed car across the street and sat for a moment, looking at the building. Red brick, three stories, windows that had been replaced with modern glass. A sign on the door said Threshold Audio in modest lettering, the kind of understatement that cost money.
 
@@ -15059,7 +15061,7 @@ Through the window, Terrell gave a thumbs up. The levels were good. The session 
 
 
 
-# Scene 02
+# ~~~
 
 The sound check took longer than Yusuf expected. Terrell was meticulous, adjusting the microphone position by centimeters, asking Yusuf to sing the same phrase again and again while he listened for something Yusuf couldn't identify. The phrase was from one of his unfinished songs, just four words - "the dawn keeps breaking" - but by the twentieth repetition it had become meaningless, just sounds moving through air.
 
@@ -15153,7 +15155,7 @@ The sound check was over. The recording was about to begin.
 
 
 
-# Scene 03
+# ~~~
 
 The red light came on and everything changed.
 
@@ -15266,7 +15268,7 @@ The door buzzed. Amina was coming. The session wasn't over. And for the first ti
 
 
 
-# Scene 04
+# ~~~
 
 Amina stood in the control room like someone visiting a foreign country. She worked in finance, in an office with fluorescent lights and cubicles, a world as far from this one as Yusuf could imagine. But she looked around the studio with the same curiosity she had brought to everything since childhood, the willingness to be surprised that had survived their difficult upbringing.
 
@@ -15371,7 +15373,7 @@ Then she was gone, and Yusuf was alone with the music again, ready to continue.
 
 
 
-# Scene 05
+# ~~~
 
 The night changed everything.
 
@@ -15456,9 +15458,9 @@ The threshold had been crossed. He was on the other side.
 
 
 
-# Chapter 34
+# Chapter 34: The Bridge
 
-# Scene 01
+# ~~~
 
 Kevin Zhou had been awake since four in the morning.
 
@@ -15538,7 +15540,7 @@ He went to the door to let her in, his hand steady on the handle, his heart anyt
 
 
 
-# Scene 02
+# ~~~
 
 The participants gathered over the next forty minutes, arriving singly and in pairs, filling the loft with the particular energy of people about to do something unprecedented. Kevin Zhou greeted each of them at the door, his social manner as stilted as it had always been, the gap between his technical fluency and his interpersonal awkwardness sharp but familiar.
 
@@ -15613,7 +15615,7 @@ Then he began to explain.
 
 
 
-# Scene 03
+# ~~~
 
 Kevin Zhou stood before the group and felt the familiar shift that happened when he talked about his work. The social awkwardness that plagued his ordinary interactions disappeared, replaced by something like clarity. He knew this material. He had lived inside it for years. The interface was the one thing in his life that he understood completely.
 
@@ -15698,7 +15700,7 @@ Only Kevin Zhou was not ready. But he pressed the button to begin anyway.
 
 
 
-# Scene 04
+# ~~~
 
 The interface activated with no fanfare. No dramatic sound, no flash of light, nothing to mark the transition. One moment Kevin Zhou was alone inside his own experience. The next moment, he was not.
 
@@ -15808,7 +15810,7 @@ And Yusuf was smiling. Not a big smile, just a small one, the smile of someone w
 
 
 
-# Scene 05
+# ~~~
 
 The debrief lasted an hour and felt both essential and inadequate. Words, it turned out, were a poor substitute for what they had just experienced. They tried anyway.
 
@@ -15923,9 +15925,9 @@ But tonight, for the first time in as long as he could remember, he was not alon
 
 
 
-# Chapter 35
+# Chapter 35: Different Gates
 
-# Scene 01
+# ~~~
 
 Ananya woke early, as she had been waking early since the conversation with Priya. The apartment was quiet, San Francisco still mostly sleeping, the summer light just beginning to reach through the windows. She lay in bed for a moment and let herself feel the strange new weight that was not quite burden and not quite relief.
 
@@ -15989,7 +15991,7 @@ She began to prepare for the day.
 
 
 
-# Scene 02
+# ~~~
 
 Elena's living room had been rearranged. The couch pushed against the wall, folding chairs borrowed from the church down the street, a whiteboard she had found at a garage sale leaning against the bookshelf. The room that usually held her family's ordinary life now held seven nursing students and young nurses, sitting in a semicircle, watching her with the mixture of exhaustion and hope that marked everyone in their profession.
 
@@ -16075,7 +16077,7 @@ She closed her eyes and slept, finally, the exhaustion claiming her. Tomorrow wa
 
 
 
-# Scene 03
+# ~~~
 
 The EP had been live for three days, and Yusuf still had not listened to it on the streaming platform.
 
@@ -16167,7 +16169,7 @@ That was enough. For now, that was enough.
 
 
 
-# Scene 04
+# ~~~
 
 Kevin Zhou sat in his apartment with his phone in his hand, the contact information for his parents glowing on the screen. He had been staring at it for twenty minutes.
 
@@ -16238,7 +16240,7 @@ Tomorrow there would be more work. The technology needed refinement, the ethics 
 
 
 
-# Scene 05
+# ~~~
 
 The news arrived in the late afternoon.
 
@@ -16343,15 +16345,15 @@ Different gates. Same destination. The human condition, unchanged by technology 
 
 
 
-# Part 05
+# Part 5: Gates
 
-# Chapter 36
+# Chapter 36: The Weight of Having Lived
 
-# Scene 01
+# ~~~
 
-The Chennai airport had changed. Ananya stood at the edge of the arrivals hall, Priya beside her with both their carry-on bags, and looked at what had been built since she last walked through this space. The ceiling arched higher now, glass and steel where she remembered concrete. The light fell differently. But beneath the renovation, beneath the gleaming floor tiles and the digital signage cycling through Tamil and English and Hindi, something remained that her body knew before her mind could name it.
+The Chennai airport had changed. Ananya stood at the edge of the arrivals hall, Priya beside her shouldering both their carry-on bags, and looked at what had been built since she last walked through this space. The ceiling arched higher now, glass and steel where she remembered concrete. The light fell differently. But beneath the renovation, beneath the gleaming floor tiles and the digital signage cycling through Tamil and English and Hindi, something remained that her body recognized before her mind could name it.
 
-The humidity. That was what hit her first. Not unpleasant, not the assault she had braced for, but familiar in a way that made her chest tighten. The air here had weight, had texture. It pressed against her skin like a hand she had forgotten was missing.
+The humidity. That was what struck her first. Not unpleasant, not the assault she had braced for, but familiar in a way that made her chest tighten. The air here had weight, had texture. It pressed against her skin like a hand she had forgotten was missing.
 
 "Amma?" Priya touched her elbow. "You okay?"
 
@@ -16364,11 +16366,11 @@ And now she was a daughter whose mother had died.
 
 ---
 
-They moved through customs, Ananya's American passport examined with the particular attention that marked her as one who had left, who had chosen elsewhere, who was now returning for reasons the officer didn't need to know. Priya's passport got a different look entirely - the officer glanced at the San Francisco birthplace, the face that was half her father's Irish features and half Ananya's own, and something shifted in his expression. The diaspora's child. The generation that didn't know what they had lost because they had never held it.
+They moved through customs, Ananya's American passport examined with the particular scrutiny that marked her as one who had left, who had chosen elsewhere, who was now returning for reasons the officer didn't need to know. Priya's passport got a different look entirely - the officer glanced at the San Francisco birthplace, the face that was half her father's Irish features and half Ananya's own, and something shifted in his expression. The diaspora's child. The generation that didn't know what they had lost because they had never held it.
 
 "First time in India?" he asked Priya in English.
 
-"Yes," she said, and Ananya felt the word land strangely. All those years of meaning to bring her, of planning trips that never materialized, of saying next summer, next year, when things settle down. And now Priya's first experience of her mother's homeland would be a funeral.
+"Yes," she said, and Ananya felt the word land like a stone in water. All those years of meaning to bring her, of planning trips that never materialized, of saying next summer, next year, when things settle down. And now Priya's first experience of her mother's homeland would be a funeral.
 
 They emerged into the main hall and the wall of sound hit them. Tamil everywhere, the cadence of it, the music of it, voices layered over voices in negotiation and greeting and argument. Ananya's ears adjusted before her mind did. She found herself understanding fragments: where is the taxi, how much, my daughter is coming, the flight was delayed.
 
@@ -16379,7 +16381,7 @@ Ananya's uncle Venkat stood at the center, thinner than she remembered, his hair
 
 ---
 
-They converged on her with grief and welcome intermingled, the two emotions impossible to separate. Uncle Venkat embraced her with surprising strength, and she felt his body shake with weeping he was trying to suppress. Her mother's youngest brother. The baby of that generation, now an old man.
+They converged on her with grief and welcome intermingled, the two emotions impossible to separate. Uncle Venkat embraced her with surprising strength, and she felt his body shudder with weeping he was trying to suppress. Her mother's youngest brother. The baby of that generation, now an old man.
 
 "Ananya," he said, her name in his accent landing differently than she heard it in California. The vowels were right here. The syllables had their proper weight.
 
@@ -16387,7 +16389,7 @@ They converged on her with grief and welcome intermingled, the two emotions impo
 
 Lakshmi was already hugging Priya, explaining who she was, orienting this American grandchild who stood bewildered and polite in the midst of relatives she had never met. Someone took their bags. Someone was steering them toward the exit. Ananya moved through it in a kind of fog, her body walking while her mind lagged behind, still processing the fact of arrival.
 
-The drive through Chennai completed what the airport had begun. The city assaulted her with its density, its motion, its absolute refusal to be what she had become accustomed to. Traffic that operated by rules she had forgotten, the constant negotiation of space between cars and autorickshaws and motorcycles and pedestrians who walked into the flow as if protected by faith alone. Billboards she could read, suddenly, the Tamil script resolving into meaning without effort. The smell of exhaust and jasmine and frying food, the particular urban perfume that had no equivalent anywhere she had lived since.
+The drive through Chennai completed what the airport had begun. The city overwhelmed her with its density, its motion, its absolute refusal to be what she had become accustomed to. Traffic that operated by rules she had forgotten, the constant negotiation of space between cars and autorickshaws and motorcycles and pedestrians who walked into the flow as if protected by faith alone. Billboards she could read, suddenly, the Tamil script resolving into meaning without effort. The smell of exhaust and jasmine and frying food, the particular urban perfume that had no equivalent anywhere she had lived since.
 
 Priya sat silent beside her in the car, watching through the window, trying to take it in.
 
@@ -16398,9 +16400,9 @@ Priya sat silent beside her in the car, watching through the window, trying to t
 
 "Not this part. The neighborhood I knew is further south. But yes." Ananya paused, watching a woman on a scooter navigate between two buses with her sari end flying behind her. "This is where I'm from."
 
-The words felt both true and false. She was from Chennai the way a river is from its source - the origin remained, but what flowed from it had traveled so far, had mixed with so many other waters, that the original composition was nearly undetectable. She had become something else. And yet, as the car turned onto narrower streets and the architecture shifted from commercial to residential, something in her began to hum with recognition.
+The words felt both true and false. She was from Chennai the way a river is from its source - the origin remained, but what flowed from it had traveled so far, had mingled with so many other waters, that the original composition was nearly undetectable. She had become something else. And yet, as the car turned onto narrower streets and the architecture shifted from commercial to residential, something in her began to hum with recognition.
 
-There. That temple. She remembered walking past it on her way to school, the bells ringing, the smell of incense drifting into the street. And there, the corner where the old sweet shop had been, now a mobile phone store but the building unchanged. Her body was navigating before her mind caught up, and she realized she knew exactly how many turns remained before they would reach her parents' house.
+There. That temple. She remembered walking past it on her way to school, the bells tolling, the smell of incense drifting into the street. And there, the corner where the old sweet shop had been, now a mobile phone store but the building unchanged. Her body was navigating before her mind caught up, and she realized she knew exactly how many turns remained before they would reach her parents' house.
 
 Her father's house, now. Just her father's.
 
@@ -16413,7 +16415,7 @@ Her mother had lived in that house for forty-seven years. Had come there as a yo
 
 The car stopped. The house looked smaller than she remembered, but every house does, seen through adult eyes. The gate was new, metal instead of the wooden one she had known, but the bougainvillea climbing the wall was the same, or its descendant, the same impossible magenta flowers cascading over the compound wall. Someone had painted the house more recently - cream now instead of the yellow she remembered - but the proportions, the windows, the front porch where she had sat with her mother shelling peas, all of that remained.
 
-People were already there. Cars parked along the street, relatives and neighbors gathered. The news had traveled as news does. Ananya saw faces she almost recognized, saw them registering her arrival, saw the particular expression that attends the return of someone who left and is now required to return.
+People were already there. Cars parked along the street, relatives and neighbors gathered. The news had traveled as news does. Ananya saw faces she almost recognized, saw them registering her arrival, saw the particular expression reserved for someone who left and is now required to return.
 
 Priya took her hand. This small gesture from her twenty-three-year-old daughter, this reversal of a thousand childhood moments when Ananya had reached for Priya's hand in crowds, in airports, in difficult moments - it undid something in Ananya. Her breath caught.
 
@@ -16431,9 +16433,9 @@ Ananya stood at the threshold, Priya's hand still in hers, and let the fact of i
 
 
 
-# Scene 02
+# ~~~
 
-The cremation ground lay at the edge of the city, where Chennai frayed into something less defined. They arrived in a convoy of white cars - Ananya, Priya, her father, her brother Suresh who had flown in from Bangalore, the aunts and uncles and cousins who would witness this ending. The morning was already hot, the sun insistent through a haze that might have been humidity or pollution or simply the atmosphere of grief.
+The cremation ground lay at the edge of the city, where Chennai dissolved into something less defined. They arrived in a convoy of white cars - Ananya, Priya, her father, her brother Suresh who had flown in from Bangalore, the aunts and uncles and cousins who would witness this ending. The morning was already hot, the sun insistent through a haze that might have been humidity or pollution or simply the atmosphere of grief.
 
 Ananya's mother's body traveled in the vehicle ahead, wrapped now in white cotton, adorned with marigolds. Ananya watched the car's taillights through the windshield of the car behind it and tried to hold in her mind the fact that her mother was in that vehicle, that this was real, that they were driving toward fire.
 
@@ -16441,14 +16443,14 @@ The electric crematorium was a low concrete building, functional rather than bea
 
 She understood now even less than she had then. The words were sounds, were rhythm, were the container for something that didn't require comprehension.
 
-Her father walked ahead, bent in a way she had never seen him, his spine curved under a weight that had nothing to do with the body. He was eighty-one years old and he had just lost the woman he had been married to for fifty-three years. Ananya watched him move toward the building where his wife's body would be turned to ash, and she saw in his posture something she recognized: the particular devastation of the one who remains.
+Her father walked ahead, bent in a way she had never seen him, his spine curved under a weight that had nothing to do with the body. He was eighty-one years old and he had just lost the woman he had been married to for fifty-three years. Ananya watched him move toward the building where his wife's body would become ash, and she saw in his posture something she recognized: the particular devastation of the one who remains.
 
 
 ---
 
-Priya stayed close to Ananya as they entered the building, navigating between clusters of mourners, finding their place in the geography of grief that the priest directed. There was a room where the body was placed, and chairs arranged in rows, and a window through which the flames would be visible when the time came. Everything was organized, procedural, designed to hold the chaos of death within manageable boundaries.
+Priya stayed close to Ananya as they entered the building, navigating between clusters of mourners, finding their place in the geography of grief that the priest directed. There was a room where the body was placed, and chairs arranged in rows, and a window through which the flames would be visible when the time came. Everything was organized, procedural, designed to contain the chaos of death within manageable boundaries.
 
-Ananya's brother stood at her other side, his face set in the expression of a man trying not to feel. Suresh had always been like this, even as a child - the contained one, the one who processed internally, who would weep later in private or not at all. His wife had stayed home with their children. He stood alone, and Ananya reached for his hand without thinking.
+Ananya's brother stood at her other side, his face fixed in the expression of a man trying not to feel. Suresh had always been like this, even as a child - the contained one, the one who processed internally, who would weep later in private or not at all. His wife had stayed home with their children. He stood alone, and Ananya reached for his hand without thinking.
 
 He took it. Held it. They were children again, briefly, in the presence of their mother's ending.
 
@@ -16463,11 +16465,11 @@ The eldest daughter. A category Ananya had not thought about in years. There had
 
 ---
 
-She stood where Lakshmi placed her, near the body, near the platform that would slide into the chamber. The priest handed her a small vessel of water, and she poured it where he indicated, feeling the gesture's meaning without knowing its name. Her mother's face was visible still, arranged in the calm that death provides, the features settling into something peaceful or simply still.
+She stood where Lakshmi placed her, near the body, near the platform that would slide into the chamber. The priest pressed a small vessel of water into her hands, and she poured it where he indicated, feeling the gesture's meaning without knowing its name. Her mother's face was visible still, arranged in the calm that death provides, the features settling into something peaceful or simply still.
 
 Ananya looked at that face. Her mother had been beautiful, once - she remembered photographs from the wedding, the young bride with her heavy jewelry and serious eyes. Age had softened and creased that beauty without erasing it. Even now, in death, there was something in the arrangement of features that Ananya recognized as the source of her own face, the template she had modified but not escaped.
 
-She remembered her mother's hands. That was what came to her now, unbidden and specific: the way her mother's hands had moved through domestic space, chopping vegetables, grinding spices, arranging flowers for the small home altar. Hands that had braided Ananya's hair for school, had checked her forehead for fever, had waved goodbye when she left for America and then, years later, had folded themselves in her lap during video calls, thinner each year, age-spotted and trembling.
+She remembered her mother's hands. That was what came to her now, unbidden and precise: the way her mother's hands had moved through domestic space, chopping vegetables, grinding spices, arranging flowers for the small home altar. Hands that had braided Ananya's hair for school, had checked her forehead for fever, had waved goodbye when she left for America and then, years later, had folded themselves in her lap during video calls, thinner each year, age-spotted and trembling.
 
 Those hands were still now. Everything was still.
 
@@ -16478,7 +16480,7 @@ The chanting continued, rose toward something, and Ananya felt the moment approa
 
 Priya was crying. Ananya heard it before she saw it - the small sounds of her daughter's grief, expressed in a way Ananya's own body refused to allow. Priya had met her grandmother only through screens, had known her through the mediated reality of video calls and photographs and stories Ananya told. And yet she wept, and the weeping was real, was for something real.
 
-What do we grieve when we grieve someone we barely knew? Perhaps we grieve the knowing itself, the relationship that might have been, the grandmother and granddaughter who might have spent afternoons together in that Chennai house if geography and ambition and the relentless forward motion of Ananya's American life had not placed an ocean between them.
+What do we grieve when we grieve someone we barely knew? Perhaps we grieve the knowing itself, the relationship that might have been, the grandmother and granddaughter who might have spent afternoons together in that Chennai house if geography and ambition and the relentless forward motion of Ananya's American life had not set an ocean between them.
 
 The platform moved. Ananya watched it slide toward the chamber doors, watched those doors open to reveal the space where transformation would occur. The heat was already present, radiating outward, and she understood suddenly that her mother was about to become fire.
 
@@ -16497,7 +16499,7 @@ Ash.
 
 ---
 
-Time passed strangely. Ananya stood and then sat and then stood again. Relatives spoke to her, and she responded, though she could not afterward remember what was said. The cremation took hours - this she had not known, had not thought about, the duration of fire. They waited in that building while the transformation completed itself, while her mother's body became reduced to what fire could not consume.
+Time passed strangely. Ananya stood and then sat and then stood again. Relatives spoke to her, and she responded, though she could not afterward recall what was said. The cremation took hours - this she had not known, had not thought about, the duration of fire. They waited in that building while the transformation completed itself, while her mother's body became reduced to what fire could not consume.
 
 Her father sat in a plastic chair, not speaking. Someone brought him water. Someone brought Ananya water. The rituals continued in waves, the priest returning at intervals to guide them through whatever came next.
 
@@ -16514,7 +16516,7 @@ Ananya's throat closed.
 
 ---
 
-Ananya had not known that. She had not known so many things. The shape of her mother's life, the daily reality of it, the small decisions and moments and accumulations that had made up the fifty-plus years since Ananya had left this city - all of it was opaque to her. She had received the highlights through phone calls and video calls, had constructed an idea of her mother's life from fragments and updates, but the actual texture of it, the quotidian truth of how her mother had lived, had been invisible to her.
+Ananya had not known that. She had not known so many things. The shape of her mother's daily life, the texture of it, the small decisions and moments and accumulations that had made up the decades since Ananya had left this city - all of it was opaque to her. She had received the highlights through phone calls and video calls, had constructed an idea of her mother's life from fragments and updates, but the actual texture of it, the quotidian truth of how her mother had lived, had been invisible to her.
 
 And now it was too late to see it. Now her mother was ash.
 
@@ -16532,7 +16534,7 @@ Ananya stood in the sunlight and felt the weight of it: her mother was gone, and
 
 
 
-# Scene 03
+# ~~~
 
 The house was full of people and then, eventually, it wasn't. Ananya watched the relatives disperse through the evening, the neighbors returning to their homes, the cousins heading back to their own lives in Bangalore and Hyderabad and Mumbai. The rituals of the day had been observed. The condolences had been offered. What remained was the family itself, contracted now to its essential core: Ananya, Priya, her father, her brother who would fly back tomorrow.
 
@@ -16542,7 +16544,7 @@ Ananya walked through it in the evening light, touching surfaces her hands remem
 
 The house smelled like incense and marigolds and grief. Under those scents, something fainter: the particular smell of her mother's cooking, trapped in the walls, in the curtains, in the fiber of the place itself. That smell would fade. Everything fades.
 
-Priya had gone to the room they were sharing, tired from travel and emotion. Ananya was tired too, but the tiredness had passed through exhaustion into something else, a wired alertness that would not let her rest. She found herself in what had been her childhood bedroom, now converted to a guest room, and sat on the edge of the bed that was not her childhood bed, looking at walls that had been repainted, at furniture that had been replaced.
+Priya had gone to the room they were sharing, tired from travel and emotion. Ananya was tired too, but the tiredness had passed through exhaustion into something beyond, a wired alertness that would not let her rest. She found herself in what had been her childhood bedroom, now converted to a guest room, and sat on the edge of the bed that was not her childhood bed, looking at walls that had been repainted, at furniture that had been replaced.
 
 
 ---
@@ -16551,7 +16553,7 @@ Her phone buzzed. A message from Delphine.
 
 *Thinking of you. How are you holding up?*
 
-Ananya looked at the words on the screen, the friendship that had grown over years of professional alliance transformed into something more intimate, more essential. Delphine in Los Angeles, her own life, her documentary finished, her questions about meaning and complicity not so different from Ananya's. They had found each other in the wreckage of the Prometheus years, two women trying to understand what ethical action meant in a world that made ethics difficult.
+Ananya looked at the words on the screen, the friendship that had grown from years of professional alliance into something more intimate, more essential. Delphine in Los Angeles, her own life, her documentary finished, her questions about meaning and complicity not so different from Ananya's. They had found each other in the wreckage of the Prometheus years, two women trying to understand what ethical action meant in a world that made ethics difficult.
 
 *I'm here*, Ananya typed back. *At my mother's house. My father is asleep. Or not sleeping. I don't know.*
 
@@ -16563,14 +16565,14 @@ The conversation continued in fragments, the particular shorthand of deep friend
 
 Ananya set the phone down and opened the closet. Her mother had kept things. That was immediately clear. The closet was full of boxes, stacked carefully, labeled in her mother's handwriting - handwriting Ananya recognized instantly, the particular slant of those Tamil letters, the precision of them.
 
-She pulled out a box at random. Inside: Ananya's school notebooks from fifth standard. Mathematics. English. Tamil. The pages yellowed, the ink faded, but still legible. Her childhood handwriting, practicing cursive, solving equations, writing short essays about the monsoon.
+She pulled out a box at random. Inside: Ananya's school notebooks from fifth standard. Mathematics. English. Tamil. The pages yellowed, the ink faded, but legible still. Her childhood handwriting, practicing cursive, solving equations, writing short essays about the monsoon.
 
 
 ---
 
 She had written an essay about what she wanted to be when she grew up. She found it in the English notebook, dated 1984, when she would have been ten years old. "I want to be a scientist," she had written. "I want to discover things that nobody has discovered before. I want to help people with my discoveries."
 
-Forty years ago. A child who could not have imagined the shape her life would take, the companies she would work for, the technologies she would help build and then question, the ethical tangles she would spend decades trying to untie. That child had wanted to help people. That child had believed discovery was pure, was good, was the straightforward application of intelligence to problems.
+Forty years ago. A child who could not have imagined the shape her life would take, the companies she would work for, the technologies she would help build and then question, the ethical knots she would spend decades trying to untie. That child had wanted to help people. That child had believed discovery was pure, was good, was the straightforward application of intelligence to problems.
 
 What would that child think of what she had become?
 
@@ -16585,7 +16587,7 @@ There was another box. Photographs. She opened it and found herself looking at h
 
 There she was with Priya as an infant, visiting Chennai when Priya was only months old. That trip felt distant, almost mythical now - the journey with a baby, her mother's joy at holding her grandchild, the promises Ananya had made about returning often, visiting regularly, maintaining the connection across the ocean.
 
-She had broken those promises. Not dramatically, not intentionally, but in the way that all such promises break: slowly, through the accumulation of demands and delays, through the tyranny of the immediate over the important. Work had always seemed urgent. Priya's school, Priya's activities, the divorce, the rebuilding - everything had seemed to require her presence elsewhere. And her mother had been patient, had understood, had said next time, next year, when you can.
+She had broken those promises. Not dramatically, not intentionally, but in the way all such promises break: slowly, through the accumulation of demands and delays, through the tyranny of the immediate over the important. Work had always seemed urgent. Priya's school, Priya's activities, the divorce, the rebuilding - everything had seemed to require her presence elsewhere. And her mother had been patient, had understood, had said next time, next year, when you can.
 
 Ananya's phone buzzed again. Delphine.
 
@@ -16610,13 +16612,13 @@ Her father appeared in the doorway. She hadn't heard him approach.
 
 "You found the boxes," he said.
 
-Ananya looked up at him. He seemed smaller than she remembered, though perhaps he had always been this size and her memory had enlarged him. Fathers loom large in childhood. Then you grow up and they become human-sized, and then eventually, if you live long enough, you watch them become small.
+Ananya looked up at him. He seemed smaller than she remembered, though perhaps he had always been this size and memory had enlarged him. Fathers loom large in childhood. Then you grow up and they become human-sized, and then eventually, if you live long enough, you watch them become small.
 
 "She kept everything," Ananya said.
 
 "Yes." Her father came into the room, his movements careful, conserving energy. He sat in the chair near the window. "She always said she would organize it, throw away what wasn't needed. But she never could. Everything reminded her of something."
 
-The silence between them was not uncomfortable but it was full. Full of everything they had not said over the decades, full of the letters that became phone calls that became video calls, each medium a little more efficient and a little less intimate. Full of the grandchildren her father had known only through screens, full of the life Ananya had built that he could understand in theory but not in texture.
+The silence between them was not uncomfortable, but it was full. Full of everything they had not said over the decades, full of the letters that became phone calls that became video calls, each medium more efficient and less intimate than the last. Full of the grandchildren her father had known only through screens, full of the life Ananya had built that he could understand in theory but not in texture.
 
 "The funeral was done well," he said finally. "Your mother would have approved."
 
@@ -16634,7 +16636,7 @@ Her father closed his eyes. "Stay as long as you can," he said. "Then go back to
 
 
 
-# Scene 04
+# ~~~
 
 The morning of departure arrived with the particular cruelty of departures: the sun still rising, the world still continuing, even though everything had changed. Ananya woke to the sound of her father moving through the house, his footsteps careful and slow, the rhythm of a man relearning his own home now that he was alone in it.
 
@@ -16741,9 +16743,9 @@ Ananya stood, ready to walk through another departure, carrying Chennai inside h
 
 
 
-# Chapter 37
+# Chapter 37: What the Truth Became
 
-# Scene 01
+# ~~~
 
 The hospice room had a window that looked onto nothing in particular - a parking lot, a strip of grass, the back of another building. Jerome had spent enough hours in this room to know every detail of that view: the way the light changed through the day, the birds that sometimes landed on the grass, the cars that came and went in patterns that suggested shift changes, visiting hours, the schedules of dying.
 
@@ -16872,7 +16874,7 @@ He stayed with her until the night shift arrived.
 
 
 
-# Scene 02
+# ~~~
 
 Denise arrived first, still in her teaching clothes, her coat pulled on over a cardigan, her bag full of ungraded papers she would not look at tonight. She came into the hospice room with the particular competence of someone who had done this before, who knew the geography of medical crisis, who could navigate the emotions of hospitals without losing herself.
 
@@ -16988,7 +16990,7 @@ The coffee grew cold. The night deepened. The family waited.
 
 
 
-# Scene 03
+# ~~~
 
 The night took on the quality that only vigils have: suspended, stretched, both endless and too fast. They rotated between the bedside and the waiting room, two at a time keeping watch while the others tried to rest on couches that were not designed for sleeping. Jerome stayed mostly at the bed, unwilling to miss another window if one came.
 
@@ -17094,7 +17096,7 @@ The body was prepared for transport. The room was cleared. The window that looke
 
 
 
-# Scene 04
+# ~~~
 
 Jerome walked out of the hospice building into Baltimore's winter morning. The air was sharp, cold in a way that felt clarifying after the overheated stillness of the death room. He stood on the sidewalk and breathed it in, feeling his lungs expand, feeling his body confirm that it was still alive, still working, still breathing without effort.
 
@@ -17203,9 +17205,9 @@ He turned and walked toward them, back into his life, carrying his mother with h
 
 
 
-# Chapter 38
+# Chapter 38: The Story That Tells Itself
 
-# Scene 01
+# ~~~
 
 Delphine woke to the sound of Theo making breakfast, which meant Jessie was letting him use the stove again, which meant Jessie had decided that twelve was old enough for scrambled eggs. The smell of butter and burning bread drifted through the bedroom door, and Delphine lay for a moment in the gray Los Angeles morning, not ready to face the day.
 
@@ -17292,7 +17294,7 @@ She opened her laptop and began writing the remarks she would give afterward, th
 
 
 
-# Scene 02
+# ~~~
 
 The theater was in Silver Lake, a restored art-deco building that had become a venue for independent film. Delphine arrived with Jessie and Theo an hour early, needing time to adjust to the space, to see the screen where her work would be projected, to check the sound levels one more time even though everything had already been checked.
 
@@ -17417,7 +17419,7 @@ They moved together toward the reception, Ananya's hand on Delphine's back, the 
 
 
 
-# Scene 03
+# ~~~
 
 The reception was in a gallery space adjacent to the theater, white walls hung with art Delphine didn't have the attention to look at. Wine circulated, small bites on trays, the industry performance of post-screening socializing. People approached her in waves, and she responded with the part of herself that knew how to do this, the professional mask she had worn for twenty years.
 
@@ -17545,7 +17547,7 @@ Delphine felt the tears she had been holding back threatening again. She blinked
 
 
 
-# Scene 04
+# ~~~
 
 Home, finally. Theo asleep upstairs, the house quiet around them. Delphine and Jessie sat on the couch in the living room, not touching, each processing the evening in their own way. The premiere was over. The film was out in the world. What came next was the question Delphine had been avoiding.
 
@@ -17693,9 +17695,9 @@ This was its own kind of art.
 
 
 
-# Chapter 39
+# Chapter 39: The Law's Last Word
 
-# Scene 01
+# ~~~
 
 The hotel room was nicer than Ruth needed, but the university had insisted. A suite at the Omni, overlooking the New Haven Green, the kind of accommodation reserved for distinguished lecturers who had earned the right to be comfortable. Ruth sat at the desk in the early morning light, reviewing her notes for the last time, and tried to remember when comfort had begun to feel like obligation.
 
@@ -17770,7 +17772,7 @@ Ruth nodded to no one, closed her notes, and began to pace the room, rehearsing 
 
 
 
-# Scene 02
+# ~~~
 
 The lecture hall was a modern addition to the law school, all glass and light wood, designed to signal that Yale was not trapped in its traditions even as it honored them. Ruth stood at the podium looking out at a room that was nearly full - faculty in the front rows, students behind them, then visitors, observers, the curious public who had come to hear what she would say.
 
@@ -17890,7 +17892,7 @@ The applause continued, and Ruth allowed herself, finally, to feel what she had 
 
 
 
-# Scene 03
+# ~~~
 
 The Q&A session followed the applause, moderated by a young professor Ruth did not know well but who handled the microphone duties with competence. Hands went up throughout the audience, and Ruth prepared herself for the questions that would test what she had said.
 
@@ -17998,7 +18000,7 @@ The reception pulled her forward, the crowd still wanting pieces of her attentio
 
 
 
-# Scene 04
+# ~~~
 
 Ruth walked Yale's campus in the evening light, alone for the first time since morning. The lecture was over, the reception had wound down, her children had departed for their hotels with promises to have breakfast together before flying home. What remained was this: the campus at dusk, the place where her career had begun, the paths she had walked fifty years ago as a student believing everything was possible.
 
@@ -18081,9 +18083,9 @@ She had given what she had. The rest was beyond her reach.
 
 
 
-# Chapter 40
+# Chapter 40: What Singing Is For
 
-# Scene 01
+# ~~~
 
 The venue was called The Current, a converted warehouse in northeast Minneapolis that had been hosting shows for two decades. Yusuf had been here before as an audience member, had stood in the crowd watching musicians he admired, had dreamed of standing where he now stood: on the stage, testing the monitors, running through the set one more time before the doors opened.
 
@@ -18167,7 +18169,7 @@ He waited.
 
 
 
-# Scene 02
+# ~~~
 
 From the wings, Yusuf watched his mother arrive. Amina guided her through the crowd that was beginning to fill the venue, found the seats they had reserved near the front, helped her settle with the careful attention of a daughter who had learned to be caregiver.
 
@@ -18275,7 +18277,7 @@ And he began to play.
 
 
 
-# Scene 03
+# ~~~
 
 The first notes rang out into the room, and something shifted. The anxiety that had been building for hours didn't disappear, but it transformed - became energy, became focus, became the particular fuel that performance required. Yusuf's fingers found the chords they had found a thousand times in practice, but now the chords were amplified, now they filled a space, now they were received by ears that weren't his own.
 
@@ -18380,7 +18382,7 @@ His mother was waiting. That was the only thing that mattered.
 
 
 
-# Scene 04
+# ~~~
 
 His mother rose when he entered the green room, her movements slow but her face radiant with something Yusuf had never seen before. She opened her arms and he went into them, folding himself down to fit against her diminished frame, becoming her child again in that embrace.
 
@@ -18501,9 +18503,9 @@ He played one more chord, let it ring, let it fade, and finally stood to go home
 
 
 
-# Chapter 41
+# Chapter 41: What We Carried
 
-# Scene 01
+# ~~~
 
 The symposium was called "Understanding the Eighth Oblivion: A Decade in Retrospect," and it was being held at a conference center in Washington DC, the kind of neutral space where academics and policymakers and journalists gathered to historicize what the rest of the world was still living through.
 
@@ -18619,7 +18621,7 @@ This was what it meant to be historicized: to speak about your own life as if it
 
 
 
-# Scene 02
+# ~~~
 
 Jerome sat in the audience with his notebook open, the habit of decades unbroken even now. He was here as a journalist, technically - commissioned to write about the symposium for a magazine that still published long-form pieces - but also as a witness, as someone whose work was being cited on the panels, as a person who had lived through what the academics were now analyzing.
 
@@ -18723,7 +18725,7 @@ The truth mattered. It would have to be enough.
 
 
 
-# Scene 03
+# ~~~
 
 The reception was in a high-ceilinged room adjacent to the main conference hall, the kind of space designed for exactly this purpose: drinks, small plates, the circulation of bodies and ideas that was the real work of academic conferences. Delphine moved through it as an observer now, no longer the participant she would have been a year ago, before the documentary, before the decision to step back.
 
@@ -18852,7 +18854,7 @@ Tonight, she would go back to her hotel room and call her family. That was enoug
 
 
 
-# Scene 04
+# ~~~
 
 The room held them all now, these people who had lived through the decade and were beginning to understand that they would spend the rest of their lives trying to understand it. Ananya saw Jerome across the reception space, his notebook closed for once, talking with a young academic who was probably explaining his own work to him. She saw Delphine near the windows, caught in golden late-afternoon light, her wine glass half-full and forgotten in her hand as she listened to something Amina was saying.
 
@@ -18975,9 +18977,9 @@ The reception was over. Time to disperse.
 
 
 
-# Chapter 42
+# Chapter 42: Beyond
 
-# Scene 01
+# ~~~
 
 The morning was gray and soft, the kind of Washington spring morning that couldn't decide if it wanted to rain. Ananya stood in the hotel lobby with her carry-on, watching the slow choreography of departure - conference attendees checking out, calling rideshares, gathering in small clusters for final conversations before dispersing to their separate cities.
 
@@ -19125,7 +19127,7 @@ Her phone buzzed. A text from Priya: *Landed safely. Call tonight?*
 
 
 
-# Scene 02
+# ~~~
 
 Jerome pressed his forehead against the airplane window and watched the clouds move below him, white and gray and infinite in the way that clouds always were, the way they had been before the Eighth Oblivion and would be after whatever came next. The plane hummed its mechanical song. Around him, passengers slept or watched screens or stared into middle distance with the particular vacant attention of air travel.
 
@@ -19205,7 +19207,7 @@ She closed her eyes and let the afternoon sun warm her face. Tomorrow there woul
 
 
 
-# Scene 03
+# ~~~
 
 Elena was washing dishes when Jerome called. The familiar rhythm of her Phoenix evening - Daniel reading in the living room, Sofia and Mateo somewhere in the house doing their teenager things, the desert light fading to purple through the kitchen window - and then the phone buzzing on the counter with Jerome's name on the screen.
 
@@ -19370,7 +19372,7 @@ Tonight, he was home.
 
 
 
-# Scene 04
+# ~~~
 
 Jerome sat at his desk in the Baltimore rowhouse, the evening settling around him like something familiar, something earned. Denise was in the kitchen, and he could hear her moving through the space - the clink of dishes, the hum of the radio she kept on while cooking, the particular sounds of a life being lived in the room next door.
 

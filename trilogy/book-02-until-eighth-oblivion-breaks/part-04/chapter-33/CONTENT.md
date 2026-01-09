@@ -1,4 +1,4 @@
-# Scene 01
+# ~~~
 
 Twelve breaths per minute. Yusuf counted them in the dim gray of early morning, his mother's chest rising and falling beneath the thin blanket. The rhythm was slower than it should have been. Yesterday it had been fourteen, the day before fifteen. He was watching her body forget how to breathe.
 
@@ -85,7 +85,7 @@ He made breakfast anyway. It was the only thing he could do.
 
 
 
-# Scene 02
+# ~~~
 
 Nathaniel arrived at eight, carrying a backpack and a piece of paper folded into a careful square. He looked different from when Yusuf had first found him - less polished, more worn, his expensive outdoor jacket dirty and his beard growing in patchy and uneven.
 
@@ -219,7 +219,7 @@ She was right. He hated that she was right.
 
 
 
-# Scene 03
+# ~~~
 
 Yusuf stepped outside to think. The March air was cold, not quite freezing but carrying the edge of winter that Minneapolis couldn't seem to shake even as spring approached. He sat on the concrete steps of their building, the same steps where he had sat a thousand times before, and tried to make his mind work.
 
@@ -294,7 +294,7 @@ He knew what his father would want him to do.
 
 
 
-# Scene 04
+# ~~~
 
 He found Amina in their mother's room, sitting in the same chair where he had spent the morning. Habiba was asleep, her breathing still slow, still steady, still wrong. Amina looked up when he entered.
 
@@ -407,7 +407,7 @@ Then he walked to the door, where Nathaniel was waiting.
 
 
 
-# Scene 05
+# ~~~
 
 Yusuf did not look back.
 

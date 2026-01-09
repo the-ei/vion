@@ -1,4 +1,4 @@
-# Scene 01
+# ~~~
 
 The oncology waiting room at Johns Hopkins existed in its own time zone, Jerome thought, watching the second hand of the wall clock make its slow circuit. Not faster or slower than ordinary time, but differently textured - each second containing more than seconds usually did. He had been in many waiting rooms in his life, but never one like this. Here, everyone was waiting for information that would divide their lives into before and after.
 
@@ -144,7 +144,7 @@ They sat together on the couch, not talking, just present. The afternoon light m
 
 
 
-# Scene 02
+# ~~~
 
 DeShawn arrived the next evening, having driven down from Philadelphia after Jerome called. He stood in the doorway of the family home with a duffel bag over his shoulder, looking younger than his twenty years and older at the same time - the face of the child they had raised visible beneath the face of the young man he had become, overlaid with an expression of fear that he was trying to control.
 
@@ -314,7 +314,7 @@ They lay together in the dark, the house quiet around them, their son asleep dow
 
 
 
-# Scene 03
+# ~~~
 
 Three days later, DeShawn had returned to Philadelphia and the house had settled into a new rhythm. Denise's pre-operative appointments were scheduled; she was deep in research about recovery times and dietary adjustments and all the practical details that gave her a sense of control. Jerome had taken over more of the household tasks, trying to lighten her load without making her feel diminished.
 

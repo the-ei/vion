@@ -1,4 +1,4 @@
-# Scene 01
+# ~~~
 
 The convoy appeared on the main road just after ten in the morning: three military trucks painted in olive drab, followed by two white vans marked with the logo of the Federal Emergency Management Agency. Elena stood in the clinic's doorway and watched them approach, the rumble of diesel engines breaking the quiet that had settled over the neighborhood.
 
@@ -97,7 +97,7 @@ The break was ending. Something else was beginning.
 
 
 
-# Scene 02
+# ~~~
 
 The apartment door was unlocked. Yusuf turned the handle and stepped inside, and the first thing he saw was Amina asleep in the chair beside their mother's bed.
 
@@ -223,7 +223,7 @@ But his mother was alive, and his sister was safe, and they were together. For n
 
 
 
-# Scene 03
+# ~~~
 
 The knock came at three in the afternoon.
 
@@ -335,7 +335,7 @@ DeShawn squeezed his hand once, tight, and did not let go.
 
 
 
-# Scene 04
+# ~~~
 
 The car pulled into the driveway just after four in the afternoon.
 
@@ -424,7 +424,7 @@ The crisis was over. Her work was just beginning.
 
 
 
-# Scene 05
+# ~~~
 
 A mother in Phoenix:
 

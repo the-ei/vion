@@ -1,4 +1,4 @@
-The light through the bay windows had that particular quality of late October mornings in San Francisco, soft and diffuse, the fog having burned off an hour earlier but the sun not yet committed to anything as assertive as warmth. Ananya stood at the kitchen counter with her second cup of coffee, watching the street below where a woman walked a golden retriever past the row of Victorian facades. The dog stopped at every tree. The woman waited, phone pressed to her ear. A ordinary Tuesday, the kind of morning she had learned to appreciate in the eighteen months since leaving Prometheus, these small moments of nothing happening, of time not accelerating toward some deadline or deliverable.
+The light through the bay windows had that particular quality of late October mornings in San Francisco, soft and diffuse, the fog having burned off an hour earlier but the sun not yet committed to anything as assertive as warmth. Ananya stood at the kitchen counter with her second cup of coffee, watching the street below where a woman walked a golden retriever past the row of Victorian facades. The dog stopped at every tree. The woman waited, phone pressed to her ear. An ordinary Tuesday, the kind of morning she had learned to appreciate in the eighteen months since leaving Prometheus, these small moments of nothing happening, of time not accelerating toward some deadline or deliverable.
 
 She had been reviewing consulting proposals when the intercom buzzed. The building had a concierge, but deliveries came directly to doors. She pressed the button without thinking, heard the static of street noise, a voice saying something about a delivery requiring signature.
 
@@ -51,7 +51,7 @@ The complaint did not mention the modifications. Did not mention the hundreds of
 
 She reached page thirty before she had to stop.
 
-The individual plaintiff statements. Names she didn't recognize attached to stories that felt unbearable. A teenager hospitalized after an AI-driven content recommendation spiral. A young professional who lost his job after developing a compulsive relationship with a Prometheus productivity app that measured and gamified every aspect of his workday. An elderly woman whose AI companion was deprecated without warning, the loss registering as grief.
+The individual plaintiff statements. Names she didn't recognize attached to stories that felt unbearable. A teenager hospitalized after an AI-driven content recommendation spiral. A young professional who lost his job after developing a compulsive relationship with a Prometheus productivity app that measured and gamified every aspect of his workday. An elderly woman whose AI companion had been deprecated without warning, the loss registering as grief indistinguishable from any other.
 
 Ananya walked to the window. The fog was returning, tendrils of it reaching in from the bay. The street below was empty now, the woman with the dog long gone.
 
@@ -88,7 +88,7 @@ Silence on the line. Not judgment, Ananya knew. Delphine processing, the way she
 
 "Then give yourself time to not know."
 
-Outside, a cable car climbed the hill, the mechanical grind of it carrying up to her window. Tourists hung from the sides, phones raised. Documenting everything, preserving nothing.
+Outside, a cable car climbed the hill, the mechanical grind of its gears carrying up to her window. Tourists hung from the sides, phones raised. Documenting everything, preserving nothing.
 
 "They quote my memos," Ananya said. "The warnings I wrote. The language I chose so carefully, thinking I was building a record, creating accountability. They use it to prove I knew. That I knew and kept approving anyway."
 
@@ -113,7 +113,7 @@ The question Delphine would ask. Direct, unsparing, but asked with love rather t
 
 "That's exactly the kind of distinction I spent a decade making. At what cost."
 
-Delphine didn't respond to that. There was nothing to say. They both knew the cost, had watched it accumulate year by year, the way Ananya's certainty eroded, the way her marriage ended not with drama but with the quiet recognition that she had become someone neither she nor Vikram could fully see anymore.
+Delphine didn't respond to that. There was nothing to say. They both knew the cost, had watched it accumulate year by year, the way Ananya's certainty eroded grain by grain, the way her marriage ended not with drama but with the quiet recognition that she had become someone neither she nor Vikram could fully see anymore.
 
 "What are you going to do?" Delphine asked finally.
 
@@ -136,7 +136,7 @@ She thought about calling Vikram. He would need to know, for Priya's sake if not
 
 She would call him tomorrow. Or the day after. When she had found a lawyer, when she had some sense of what this would mean practically.
 
-For now, she gathered the pages back into their envelope. Set it on her desk where she would see it. A reminder that the reckoning she had been waiting for had finally arrived, that all those years of telling herself stories about ethics and impact and incremental change would now be tested against evidence.
+For now, she gathered the pages back into their envelope. Set it on her desk where she would see it every time she sat down to work. A reminder that the reckoning she had been waiting for had finally arrived, that all those years of telling herself stories about ethics and impact and incremental change would now be tested against evidence.
 
 The woman with the golden retriever walked past again, heading the other direction now. The dog's tail wagged. The woman laughed at something on her phone.
 

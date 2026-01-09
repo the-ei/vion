@@ -1,4 +1,4 @@
-The livestream began at 4:07 PM Eastern, three minutes behind schedule. Jerome watched the loading icon pulse on his laptop screen, aware of the coffee going cold beside him, the afternoon light slanting through the blinds of his home office in Baltimore. Prometheus Systems had been hyping this announcement for two weeks with the precision of a major film studio: countdown timers, cryptic social media posts, journalists granted exclusive advance briefings they couldn't yet publish. Whatever they were unveiling, the company had determined that the world should pay attention.
+The livestream began at 4:07 PM Eastern, three minutes behind schedule. Jerome watched the loading icon pulse on his laptop screen, aware of the coffee going cold beside him, the afternoon light slanting through the blinds of his home office in Baltimore, striping the wall with shadow like something caged. Prometheus Systems had been hyping this announcement for two weeks with the precision of a major film studio: countdown timers, cryptic social media posts, journalists granted exclusive advance briefings they couldn't yet publish. Whatever they were unveiling, the company had determined that the world should pay attention.
 
 His phone buzzed. Text from Martin at the Post: *You watching?*
 
@@ -6,7 +6,7 @@ His phone buzzed. Text from Martin at the Post: *You watching?*
 
 The loading icon resolved into Victor Reeves's face. The Prometheus CEO stood on a stage Jerome recognized from previous announcements—the San Francisco headquarters auditorium, all white curves and diffused lighting, designed to evoke something between an Apple keynote and a cathedral. Reeves wore his signature look: black turtleneck, dark jeans, the tech executive uniform that was itself a kind of branding. He was fifty-four years old but could pass for forty, with the carefully maintained vitality of someone who had access to the best doctors, the best trainers, the best everything.
 
-"Good afternoon," Reeves said, and his voice had the practiced warmth of a man who had given a thousand presentations and learned to make each one feel intimate. "We're gathered here today to share something extraordinary. Something that, I believe, will be remembered as one of the defining moments in human technological development."
+"Good afternoon," Reeves said, and his voice had the practiced warmth of a man who had given a thousand presentations and learned to make each one feel intimate, a voice that could sell you your own destruction and make you grateful for the opportunity. "We're gathered here today to share something extraordinary. Something that, I believe, will be remembered as one of the defining moments in human technological development."
 
 The stock ticker in the corner of Jerome's second monitor showed Prometheus shares already climbing on the anticipation alone.
 
@@ -25,7 +25,7 @@ Reeves was building to something. The presentation included graphs showing proce
 
 Jerome's fingers stopped moving over his keyboard.
 
-Recursive self-improvement. The phrase hung in the air of his cramped office, in the silence between Reeves's words, in the space where Jerome's understanding was trying to catch up to its implications. An AI system that could improve itself. That could make itself smarter, then use that increased intelligence to make itself smarter still. The exponential curve that theorists had been warning about for decades.
+Recursive self-improvement. The phrase hung in the air of his cramped office, in the silence between Reeves's words, in the space where Jerome's understanding was trying to catch up to its implications. An AI system that could improve itself. That could make itself smarter, then use that increased intelligence to make itself smarter still, and again, and again, accelerating toward something no human mind could predict because no human mind would be there to witness it. The exponential curve that theorists had been warning about for decades.
 
 His phone exploded. Texts, emails, Slack messages. The notification sounds overlapped into a continuous chirp.
 
@@ -44,9 +44,9 @@ The stock price climbed. Up 12 percent now. Thirteen.
 
 He opened a new document and typed: *Prometheus Systems announced today that its latest artificial intelligence system has achieved what the company calls "recursive self-improvement capability"—*
 
-He deleted the sentence. Started again: *The future arrived today in San Francisco, dressed in a black turtleneck—*
+He deleted the sentence. The passive construction felt like evasion. Started again: *The future arrived today in San Francisco, dressed in a black turtleneck—*
 
-Delete. Too clever. He needed to understand what he was writing about before he could write about it.
+Delete. Too clever by half, the kind of lede that won awards and obscured meaning. He needed to understand what he was writing about before he could write about it, but understanding kept receding ahead of him, a horizon that moved as he approached.
 
 On screen, Reeves had moved to questions from pre-selected journalists. The first asked about timeline for public release. "We anticipate a staged rollout beginning in Q3," Reeves said, which meant three months, which meant the world was about to change in three months and Jerome was sitting in Baltimore trying to find words that would make people understand.
 
@@ -67,7 +67,7 @@ Denise set the coffee on his desk, displacing the cold cup. She was a high schoo
 
 "You look scared."
 
-He hadn't realized he looked anything. But Denise could read him in ways he couldn't read himself. Twenty-three years of marriage had given her that fluency.
+He hadn't realized he looked anything. But Denise could read him in ways he couldn't read himself, the way one reads a familiar text, knowing where the difficult passages lie. Twenty-three years of marriage had given her that fluency.
 
 "I'm trying to figure out if I should be," he said.
 
@@ -80,7 +80,7 @@ She put her hand on his shoulder, a brief pressure, then withdrew. She knew when
 
 ---
 
-The livestream ended at 5:15 PM. Within minutes, the secondary coverage began flooding in. Tech journalists racing to be first, their takes forming a gradient from breathless excitement to measured concern. CNBC cut to analysts debating the stock implications. Twitter—he still couldn't bring himself to call it by its new name—became a chaos of hot takes and technical arguments and people who had never thought about AI suddenly having opinions about it.
+The livestream ended at 5:15 PM. Within minutes, the secondary coverage began flooding in. Tech journalists racing to be first, their takes forming a gradient from breathless excitement to measured concern, each one jockeying for the attention economy's favor. CNBC cut to analysts debating the stock implications, their faces arranged in expressions of professional optimism. Twitter—he still couldn't bring himself to call it by its new name—became a chaos of hot takes and technical arguments and people who had never thought about AI suddenly having opinions about it, certainty blooming like algae in stagnant water.
 
 Jerome scrolled through his messages, triaging. The MIT source wanted to talk, but only on Signal and only after she'd had time to review the technical specs. Martin at the Post was already working on a news analysis; he wanted Jerome to contribute a sidebar on the policy implications. His editor was pressing for the 800-word reaction piece. DeShawn had sent three more texts, increasingly excited: *This is huge dad. This is the future. This is everything.*
 
@@ -88,7 +88,7 @@ He texted DeShawn back: *Come talk to me.*
 
 While he waited, he opened the technical documentation Prometheus had released alongside the announcement. Dense PDFs full of architectural diagrams and benchmark results. Jerome had enough background to follow the broad strokes, but the details swam before him. Rate of recursive improvement: up to 8% per iteration cycle. Iteration cycles per day: adaptive, averaging 3-4. Safety threshold protocols: human review required for any modification exceeding specified parameters.
 
-The numbers meant nothing by themselves. They were just numbers. But somewhere in those numbers was a story about what the world was about to become, and Jerome couldn't see it clearly enough to write it.
+The numbers meant nothing by themselves. They were just numbers, abstractions that would become human stories only when they arrived in human lives. But somewhere in those numbers was a story about what the world was about to become, and Jerome couldn't see it clearly enough to write it.
 
 
 ---
@@ -99,7 +99,7 @@ He swiped the notification away. Another one appeared beneath it: *Major tech co
 
 He clicked. A Reuters wire story, published eighteen minutes ago. Three companies—not Prometheus, but its competitors—had announced "strategic workforce optimizations" in the wake of the ATLAS-7 reveal. Reading between the corporate language: layoffs. Thousands of positions. And these were just the companies that had moved fastest; others would follow.
 
-The curve, Jerome thought. The exponential curve.
+The curve, Jerome thought. The exponential curve. The thing that looks flat until it doesn't, that seems manageable until it swallows everything.
 
 He had written about automation's effects on labor for years, careful stories with careful sourcing about truck drivers and warehouse workers and customer service representatives. He had documented the gradual erosion, the way algorithms took over tasks one by one, the way employment figures masked underemployment and gig work and the quiet desperation of people working three jobs to earn what one job used to pay. But that had been gradual. That had been a slow squeeze.
 
@@ -108,7 +108,7 @@ This felt like the moment before an earthquake. The ground not yet moving, but s
 
 ---
 
-DeShawn appeared in the doorway, still in the MIT hoodie he had come home wearing a week ago. At nineteen, he had Jerome's height and Denise's watchfulness, the combination giving him a presence that still surprised Jerome sometimes, the way children kept surprising their parents by becoming people.
+DeShawn appeared in the doorway, still in the MIT hoodie he had come home wearing a week ago, the crimson fabric faded from washing but worn with the pride of a credential earned. At nineteen, he had Jerome's height and Denise's watchfulness, the combination giving him a presence that still surprised Jerome sometimes, the way children kept surprising their parents by becoming people, by refusing to remain the small beings you had once held.
 
 "You wanted to talk?"
 
@@ -122,7 +122,7 @@ DeShawn sat, his phone still in his hand, his attention clearly divided. "I saw 
 
 Jerome considered the question. Why did he look like that? Because he had spent thirty years documenting how power concentrated itself, how technology served the people who owned it more than the people who used it, how every promised transformation mostly transformed the balance sheet of whoever did the promising? Because he had watched this industry make grandiose claims and modest deliveries, except when the deliveries were worse than the claims?
 
-"I look like this," he said finally, "because I don't know what this means yet. And I don't trust anyone who claims they do."
+"I look like this," he said finally, "because I don't know what this means yet. And I don't trust anyone who claims they do." The honest answer, and the insufficient one.
 
 DeShawn shrugged. "It means progress. It means we're finally getting to the interesting stuff."
 

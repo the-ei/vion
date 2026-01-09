@@ -1,4 +1,4 @@
-Mr. Gutierrez was seventy-four years old and severely dehydrated. His chart said this. Elena read the chart and saw the numbers and began the treatment protocol: IV access, saline bolus, electrolyte panel, monitor for cardiac complications. His skin was loose over the bones of his hands, and when she touched him to find a vein she thought of her abuela's hands, though her abuela's hands were darker, softer, though the comparison made no sense except that everything was making connections now, her mind sliding between present and past without her permission.
+Mr. Gutierrez was seventy-four years old and severely dehydrated. His chart said this, the numbers spelling out a story of neglect that was not his fault, that was no one's fault, that was simply what happened when systems failed and bodies were left to their own devices. Elena read the chart and saw the numbers and began the treatment protocol: IV access, saline bolus, electrolyte panel, monitor for cardiac complications. His skin was loose over the bones of his hands, and when she touched him to find a vein she thought of her abuela's hands, though her abuela's hands were darker, softer, though the comparison made no sense except that everything was making connections now, her mind sliding between present and past without her permission.
 
 She found the vein. She started the drip. Mr. Gutierrez watched her with eyes that were the particular pale brown of creek beds in summer.
 
@@ -17,7 +17,7 @@ She blinked. The fluorescent lights were on. The room was bright. Mr. Gutierrez 
 
 *The generator stuttered. This was the second night, or the third. The stutter lasted four seconds, which was long enough for Elena to think: this is it, this is how we lose them, all of them, the ones on ventilators, the ones whose medications required refrigeration, the ones for whom the fragile technological membrane between living and dying was about to dissolve.*
 
-*Four seconds. Then the generator caught and the lights came back and someone was crying, someone was always crying, the sound had become a background frequency she had stopped noticing except when it stopped.*
+*Four seconds. Then the generator caught and the lights shuddered back into existence and someone was crying, someone was always crying, the sound had become a background frequency she had stopped noticing except when it stopped, and its absence was always worse than its presence.*
 
 Mr. Gutierrez was telling her about his wife. His wife had died three years ago. Elena listened with the part of her brain that still functioned socially, the part that could nod and make sympathetic sounds, while the rest of her was elsewhere, was somewhen.
 
@@ -36,7 +36,7 @@ Mr. Gutierrez was telling her about his wife. His wife had died three years ago.
 
 *She had survived. Probably. Elena had sent her home, after, with instructions she knew wouldn't be followed because how could they be followed, what was home anymore, what were instructions?*
 
-The pattern of the curtain around Mr. Gutierrez's bed was blue flowers on a white background. Elena had looked at this curtain thousands of times over the years. She had never noticed the flowers were morning glories. She noticed now. She could not stop noticing. The morning glories seemed significant in a way that refused to resolve into meaning.
+The pattern of the curtain around Mr. Gutierrez's bed was blue flowers on a white background. Elena had looked at this curtain thousands of times over the years of her practice, had passed her eyes over its surface without ever actually seeing it. She had never noticed the flowers were morning glories. She noticed now. She could not stop noticing. The morning glories seemed significant in a way that refused to resolve into meaning, their blue petals opening toward a light source that did not exist.
 
 "Are you all right, dear?" Mr. Gutierrez asked.
 
@@ -55,7 +55,7 @@ She did not believe him. She smiled anyway, because the smile was a kind of medi
 
 *Dr. Okonkwo's voice over the emergency radio, calm even when calm was impossible:* We're losing the south wing. Redirect all resources. *And she had redirected, had moved through the chaos with a purpose that felt like walking through water, every step an effort, every step a choice not to stop.*
 
-*A child crying. Not Sofia, not Mateo, someone else's child, but the sound had cracked something in her chest all the same, the sound of a child afraid in the darkness, and she had gone to find them but the crying had stopped before she could, had stopped in a way that might have meant comfort and might have meant something else, and she had never found out which.*
+*A child crying. Not Sofia, not Mateo, someone else's child, but the sound had cracked something in her chest all the same, had found the fault line she had thought was hidden, and she had gone to find them but the crying had stopped before she could, had stopped in a way that might have meant comfort and might have meant something else entirely, and she had never found out which, would never find out, the not-knowing now permanent.*
 
 She added electrolytes to Mr. Gutierrez's IV. Potassium, magnesium. The small corrections that a body needs. His eyes had closed; he was dozing now, the particular light sleep of the hospital patient, never quite unconscious, never quite at rest.
 
@@ -82,7 +82,7 @@ Her hands were steady.
 
 Her mind was not.
 
-The morning glories on the curtain swayed slightly in the air conditioning, though there was no breeze, though the air conditioning probably wasn't working properly, though everything was probably not working properly and they were all just pretending, just moving through the motions of function while inside nothing functioned at all.
+The morning glories on the curtain swayed slightly in the recycled air, though there was no breeze, though the ventilation system probably wasn't working properly, though everything was probably not working properly and they were all just pretending, just moving through the motions of function while inside nothing functioned at all, the appearance of normalcy requiring more effort than normalcy itself ever had.
 
 *The young woman with the braids. Her name was.*
 

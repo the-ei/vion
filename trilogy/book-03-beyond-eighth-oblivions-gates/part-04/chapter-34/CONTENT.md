@@ -1,4 +1,4 @@
-# Scene 01
+# ~~~
 
 Kevin Zhou had been awake since four in the morning.
 
@@ -78,7 +78,7 @@ He went to the door to let her in, his hand steady on the handle, his heart anyt
 
 
 
-# Scene 02
+# ~~~
 
 The participants gathered over the next forty minutes, arriving singly and in pairs, filling the loft with the particular energy of people about to do something unprecedented. Kevin Zhou greeted each of them at the door, his social manner as stilted as it had always been, the gap between his technical fluency and his interpersonal awkwardness sharp but familiar.
 
@@ -153,7 +153,7 @@ Then he began to explain.
 
 
 
-# Scene 03
+# ~~~
 
 Kevin Zhou stood before the group and felt the familiar shift that happened when he talked about his work. The social awkwardness that plagued his ordinary interactions disappeared, replaced by something like clarity. He knew this material. He had lived inside it for years. The interface was the one thing in his life that he understood completely.
 
@@ -238,7 +238,7 @@ Only Kevin Zhou was not ready. But he pressed the button to begin anyway.
 
 
 
-# Scene 04
+# ~~~
 
 The interface activated with no fanfare. No dramatic sound, no flash of light, nothing to mark the transition. One moment Kevin Zhou was alone inside his own experience. The next moment, he was not.
 
@@ -348,7 +348,7 @@ And Yusuf was smiling. Not a big smile, just a small one, the smile of someone w
 
 
 
-# Scene 05
+# ~~~
 
 The debrief lasted an hour and felt both essential and inadequate. Words, it turned out, were a poor substitute for what they had just experienced. They tried anyway.
 

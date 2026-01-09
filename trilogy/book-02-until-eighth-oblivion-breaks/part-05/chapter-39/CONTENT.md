@@ -1,4 +1,4 @@
-# Scene 01
+# ~~~
 
 The road climbed out of the desert and into the mountains, and Elena watched the landscape transform through the windshield of the borrowed car. First the saguaros thinning, then disappearing entirely, replaced by juniper and then pine, the air cooling as the elevation rose. She had made this drive before, dozens of times, weekend trips to Flagstaff for the cooler summers, holiday visits to Daniel's sister. But today the familiar route felt alien, as if she were traveling between dimensions rather than cities.
 
@@ -71,7 +71,7 @@ She held Mateo and looked at Sofia and felt the weight of the choices she had ma
 
 
 
-# Scene 02
+# ~~~
 
 The children were asleep. It had taken hours to settle them, Mateo refusing to sleep anywhere but next to Elena, Sofia insisting on reading three extra books, both of them resisting the end of the day that would take their mother away, even if only into another room. But finally they slept, Mateo's small body curled against Elena's side, Sofia in the twin bed across the room, her face peaceful in a way it had not been when awake.
 
@@ -185,7 +185,7 @@ She fell asleep in her husband's arms, in a borrowed bed, in a house on a mounta
 
 
 
-# Scene 03
+# ~~~
 
 The next afternoon, while Mateo napped and Daniel helped his sister with groceries, Elena sat with Sofia in the living room. The coffee table was covered with drawings, crayon and marker on printer paper, the output of weeks of a six-year-old trying to process what she did not have words for.
 
@@ -286,7 +286,7 @@ Elena held the drawing and felt her heart break and mend in the same moment, the
 
 
 
-# Scene 04
+# ~~~
 
 She could not sleep. The house was quiet, everyone else resting, but Elena's body would not surrender to stillness. At two in the morning she gave up, dressed quietly, and slipped out the back door into the Flagstaff night.
 
@@ -355,7 +355,7 @@ She did not know what came next. But she knew she could not go back to what she 
 
 
 
-# Scene 05
+# ~~~
 
 Elena came in through the back door just as dawn was breaking, expecting to slip into bed without waking anyone. But her grandmother was sitting at the kitchen table, a cup of tea in her hands, watching the door as if she had known exactly when Elena would return.
 

@@ -4,7 +4,7 @@ She sat at her desk and pulled up the day's calendar. The foundation call was in
 
 But first, the empty time. The minutes before the schedule started, when she could sit with her coffee and look at the garden through the climate-treated glass.
 
-Jessie had planted those roses. Five years ago, before Theo was old enough to help, before the crisis, when weekend mornings had been for gardening and cooking elaborate breakfasts and making love before the world demanded their attention. Delphine remembered Jessie on her knees in the dirt, hair tied back, explaining the difference between grafted roots and own-root plants, and how her own eyes had glazed over while her heart had swelled with love for this person who cared so deeply about things Delphine would never fully understand.
+Jessie had planted those roses. Five years ago, before Theo was old enough to help, before the crisis, when weekend mornings had stretched open for gardening and cooking elaborate breakfasts and making love before the world demanded their attention. Delphine remembered Jessie on her knees in the dirt, hair tied back, explaining the difference between grafted roots and own-root plants, her hands dark with soil, and how Delphine's own eyes had glazed over while her heart had swelled with love for this person who cared so deeply about things she would never fully understand.
 
 The roses were struggling now. The water restrictions made it harder to keep anything alive that wasn't drought-adapted, and Jessie wasn't here to do the careful work of coaxing survival from hostile conditions.
 

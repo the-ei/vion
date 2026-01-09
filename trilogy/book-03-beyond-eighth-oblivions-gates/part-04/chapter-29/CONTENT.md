@@ -1,4 +1,4 @@
-# Scene 01
+# ~~~
 
 The cold was a living thing. It pressed against the windows of Yusuf's car, crept through the seals around the doors, settled into the upholstery with the patience of something that knew it would eventually win. The heater was running at full blast, making noises that suggested it would not survive another winter, but the warmth it produced barely reached the driver's seat.
 
@@ -81,7 +81,7 @@ He hummed into the cold car, the melody stronger now, taking shape despite every
 
 
 
-# Scene 02
+# ~~~
 
 He stopped for a break around ten, pulling into the parking lot of a gas station that stayed open all night. The fluorescent lights buzzed above empty pumps. Inside, a clerk watched something on a phone propped behind the counter.
 
@@ -173,7 +173,7 @@ But the decision was already forming somewhere beneath his conscious thought, li
 
 
 
-# Scene 03
+# ~~~
 
 He drove to his mother's apartment without planning to. The route was automatic, the turns he had taken thousands of times, the building that had been home before it became the place where his mother lived alone.
 
@@ -271,7 +271,7 @@ You know, she said. You have always known.
 
 
 
-# Scene 04
+# ~~~
 
 He stayed at his mother's apartment for another hour, the conversation drifting to other subjects, the tea going cold in their cups. When he finally left, the night had grown even colder, the kind of cold that made you question whether spring would ever arrive.
 
@@ -365,7 +365,7 @@ But first, there was something else he needed to do. Something that could not wa
 
 
 
-# Scene 05
+# ~~~
 
 The sky was beginning to lighten when he pulled into the parking lot of the grocery store near his apartment. It was closed at this hour, the lot empty except for his car, the streetlights still burning against the slow approach of dawn.
 

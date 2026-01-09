@@ -1,4 +1,4 @@
-# Scene 01
+# ~~~
 
 The encrypted message arrived the next morning, exactly as promised. Jerome read it over breakfast, the domestic normalcy of coffee and toast contrasting sharply with the content on his screen.
 
@@ -72,7 +72,7 @@ The meeting was in twelve hours. The answers he had been seeking were finally wi
 
 
 
-# Scene 02
+# ~~~
 
 The Nevada desert stretched ahead in waves of heat shimmer, the highway a black ribbon cutting through brown and ochre and the distant purple of mountains. Kevin Zhou drove his rental car through the emptiness, feeling the strangeness of landscape after weeks of urban enclosure.
 
@@ -134,7 +134,7 @@ The desert held its breath. And Kevin Zhou watched the horizon, waiting for what
 
 
 
-# Scene 03
+# ~~~
 
 The news came in fragments, the way news always did now - not as a complete picture but as shards of information that had to be assembled.
 
@@ -191,7 +191,7 @@ Outside her window, Los Angeles continued its endless activity, millions of peop
 
 
 
-# Scene 04
+# ~~~
 
 Jerome stood in the doorway of his bedroom, watching Denise sleep in the early morning darkness. She had stayed up with him until midnight, talking about the meeting, about the risks, about what might happen and what might not. Then she had gone to bed, and he had stayed awake, waiting for the hour when he would need to leave.
 
@@ -256,7 +256,7 @@ She sat across from him, placing her coffee between them, her expression carryin
 
 
 
-# Scene 05
+# ~~~
 
 Virginia. Night.
 

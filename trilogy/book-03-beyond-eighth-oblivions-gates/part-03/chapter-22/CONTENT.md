@@ -1,4 +1,4 @@
-# Scene 01
+# ~~~
 
 The gymnasium smelled of industrial cleaner and the particular musk of children's bodies, the combination familiar to anyone who had spent time in elementary schools. Elena and Daniel found seats in the middle section, close enough to see the stage but far enough to survey the room. Around them, other parents settled into folding chairs, exchanging greetings and complaints about parking, the ordinary social rituals of school events.
 
@@ -113,7 +113,7 @@ Elena wiped her face with the back of her hand, not caring who saw.
 
 
 
-# Scene 02
+# ~~~
 
 The question period was brief—a teacher asked Sofia to say more about the house she had inherited, and Sofia described it simply: a small house in a neighborhood that had changed a lot, with a yard where her bisabuela had grown tomatoes and roses. Another parent asked about the fighting metaphor, and Sofia said, carefully, that she meant fighting for fairness, not fighting with fists.
 
@@ -328,7 +328,7 @@ That was inheritance done right. Not control, but trust. Not repetition, but tra
 
 
 
-# Scene 03
+# ~~~
 
 Sunday morning arrived with the particular slowness of a day without obligations. Elena made breakfast while the children drifted through the house in various states of wakefulness, Daniel reading the news on his tablet at the kitchen table, the ordinary choreography of family life.
 

@@ -10,7 +10,7 @@ I've been working on this documentary for two years now. You know that. What you
 
 She stopped reading. The words "reasonable people" sat in her mind like an accusation, or like an invitation, she could not tell which.
 
-Outside, a siren wailed, the sound rising and then fading as an ambulance passed somewhere below, and Ananya thought about all the emergencies she had never witnessed, all the harm she had never seen directly, the distance that her position at Prometheus had maintained between her and the consequences of the systems she had approved.
+Outside, a siren wailed, the sound rising and then fading as an ambulance passed somewhere below, and Ananya thought about all the emergencies she had never witnessed, all the harm she had never seen directly, the distance her position at Prometheus had maintained between her and the consequences of the systems she had approved.
 
 
 ---
@@ -25,7 +25,7 @@ The word repeated in her mind. Ready. As though Delphine could see something in 
 
 She remembered the first time she and Delphine had spoken honestly with each other, at a dinner after that conference in Seattle, both of them slightly drunk on wine and exhaustion, the professional facades falling away. Delphine had asked her directly: do you believe you've done any good? And Ananya had answered with something she had never said aloud: I don't know anymore.
 
-That was the moment the alliance had begun. Not collaboration, exactly, and not friendship in any simple sense. Something more like recognition. Two women who had spent their careers trying to shape narratives around technology, one from outside and one from within, discovering that they had arrived at the same questions by different routes.
+That was the moment the alliance had begun. Not collaboration, exactly, and not friendship in any simple sense. Something closer to recognition. Two women who had spent their careers trying to shape narratives around technology, one from outside and one from within, discovering they had arrived at the same questions by different routes.
 
 
 ---
@@ -36,7 +36,7 @@ I'm not asking you to betray anything. I'm not asking for secrets or internal do
 
 The questions struck her one at a time, each one landing like a small blow.
 
-What did it feel like. She thought about the conference rooms at Prometheus, the sleek tables and the screens displaying data, the faces of colleagues who had become family and then become strangers as the years passed and the company grew and the stakes became something none of them had anticipated. It had felt like drowning in slow motion, she thought. Like watching a flood rise and being unable to do anything but keep your head above water and hope someone would notice and throw a rope.
+What did it feel like. She thought about the conference rooms at Prometheus, the sleek tables and the screens displaying data, the faces of colleagues who had become family and then become strangers as the years passed and the company grew and the stakes became something none of them had anticipated. It had felt like drowning in slow motion, she thought. Like watching a flood rise and being unable to do anything but keep her head above water and hope someone would notice and throw a rope.
 
 What did you tell yourself. She had told herself many things. That her presence slowed the harm, that without her it would have been worse, that the frameworks she developed were better than nothing, that incremental progress was still progress, that the perfect was the enemy of the good. She had told herself these things every morning and every night, a liturgy of justification that had kept her functional, that had allowed her to look at herself in the mirror without flinching.
 
@@ -49,7 +49,7 @@ She set the phone down and walked to the window again, her arms crossed, watchin
 
 Honesty.
 
-Delphine was asking for honesty, and Ananya did not know if she was capable of providing it. Not because she wanted to lie, but because she was no longer sure what the truth was. The truth about her years at Prometheus had so many layers, so many qualifications and contexts and competing perspectives, that trying to reduce it to statements she could speak aloud felt like trying to describe a color to someone who had never seen light.
+Delphine was asking for honesty, and Ananya did not know if she was capable of providing it. Not because she wanted to lie, but because she was no longer sure what the truth was. The truth about her years at Prometheus had so many layers, so many qualifications and contexts and competing perspectives, that reducing it to statements she could speak aloud felt like trying to describe a color to someone who had never seen light.
 
 And yet.
 
@@ -74,7 +74,7 @@ See what I've been building.
 
 The phrases repeated in her mind, taking on different inflections with each repetition. An invitation. A challenge. A door standing open that she could walk through or walk away from.
 
-She thought about Delphine's home in the hills above Los Angeles, which she had never visited, which she knew only from photographs and from Delphine's descriptions. Jessie and Theo, the family Delphine had made, the life that existed alongside and intertwined with the work. Ananya had a dim sense of what she would find there: creative chaos, documentary footage playing on screens, the evidence of years of investigation into the very company Ananya had served.
+She thought about Delphine's home in the hills above Los Angeles, which she had never visited, which she knew only from photographs and Delphine's descriptions. Jessie and Theo, the family Delphine had made, the life that existed alongside and intertwined with the work. Ananya had a dim sense of what she would find there: creative chaos, documentary footage playing on screens, the evidence of years of investigation into the very company Ananya had served.
 
 The implicit accusation in being asked. That was what she kept returning to. Delphine was not accusing her of anything, not directly, but the request itself contained an accusation, or perhaps a recognition that Ananya had accused herself long ago and was only now ready to speak the charges aloud.
 

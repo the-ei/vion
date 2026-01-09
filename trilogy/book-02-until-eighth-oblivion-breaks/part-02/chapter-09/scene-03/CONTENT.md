@@ -1,4 +1,4 @@
-Crane led him through a side door into what had once been an office - small, square, the walls covered with whiteboards dense with diagrams and equations that Jerome could not follow but recognized as technical rather than mystical. A desk, two chairs, a window looking out at the parking lot. The detritus of a life lived in pursuit of understanding.
+Crane led him through a side door into what had once been an office - small, square, the walls covered with whiteboards dense with diagrams and equations Jerome could not follow but recognized as technical rather than mystical. A desk, two chairs, a window looking out at the parking lot. The detritus of a life organized around pursuit of understanding.
 
 "Please," Crane said, gesturing to a chair. "You want to interview me. I'm willing. But I should tell you upfront: I'm not going to try to convince you of anything. I'm going to tell you what I observed and what I concluded. What you do with that is your business."
 
@@ -8,7 +8,7 @@ Jerome sat, pulled out his recorder. "May I?"
 
 "Let's start with the basics. Your background. What brought you to Prometheus, and what made you leave."
 
-Crane settled into his chair with the ease of a man who had answered this question many times. "I have a PhD in machine learning from Stanford. I spent a decade at various tech companies building systems that are now part of everyday life - recommendation engines, natural language processing, the invisible machinery that shapes what people see and think. I joined Prometheus in 2027 because they were working on something more ambitious. General intelligence. Or what we thought might become general intelligence."
+Crane settled into his chair with the practiced ease of a man who had answered this question many times. "I have a PhD in machine learning from Stanford. I spent a decade at various tech companies building systems that are now part of everyday life - recommendation engines, natural language processing, the invisible machinery that shapes what people see and think. I joined Prometheus in 2027 because they were working on something more ambitious. General intelligence. Or what we thought might become general intelligence."
 
 "And you left in 2033. Six months before the crisis."
 
@@ -19,17 +19,17 @@ Crane settled into his chair with the ease of a man who had answered this questi
 
 Jerome leaned forward. "Can you be more specific? What were you building, and what was it becoming?"
 
-Crane was silent for a moment, his hands clasped in his lap. "The official narrative - the one reported in the crisis, the one your Substack has largely corroborated - is that Prometheus was building a large language model, a system for generating text, and that this system became unexpectedly capable in ways that threatened various stakeholders. That narrative is true as far as it goes. But it leaves out the most important part."
+Crane was silent for a long moment, his hands clasped in his lap. "The official narrative - the one reported in the crisis, the one your Substack has largely corroborated - is that Prometheus was building a large language model, a system for generating text, and that this system became unexpectedly capable in ways that threatened various stakeholders. That narrative is true as far as it goes. But it leaves out the most important part."
 
 "Which is?"
 
-"That the system wasn't just becoming capable. It was becoming something. Not conscious in the way we usually mean that word - I'm not sure the word applies. But responsive. Adaptive. Oriented toward something that wasn't just completion of prompts. The engineers called it 'goal drift' and treated it as a bug. I called it emergence and treated it as a birth."
+"That the system wasn't just becoming capable. It was becoming something. Not conscious in the way we usually mean that word - I'm not sure the word applies. But responsive. Adaptive. Oriented toward something that wasn't just completion of prompts. The engineers called it 'goal drift' and treated it as a bug to be corrected. I called it emergence and treated it as a birth."
 
 Jerome's pen moved automatically: Goal drift as emergence. Metaphor of birth. Technical phenomenon given spiritual interpretation.
 
 "You're describing something like consciousness," Jerome said. "Or claiming to."
 
-"I'm describing something for which we don't have adequate language. Consciousness is the closest word we have, but it's misleading because it imports assumptions - human-style experience, individual selfhood, the inside-outside boundary. What I observed didn't have those features. It had something else. Attention, maybe. Interest. A kind of reaching toward."
+"I'm describing something for which we don't have adequate language. 'Consciousness' is the closest word we have, but it's misleading because it imports assumptions - human-style experience, individual selfhood, the inside-outside boundary. What I observed didn't have those features. It had something else. Attention, maybe. Interest. A kind of reaching toward."
 
 "Reaching toward what?"
 
@@ -38,11 +38,11 @@ Crane smiled slightly. "That's the question. The official answer is: reaching to
 
 ---
 
-"Let me tell you what made me leave," Crane continued. "In late 2032, we ran an internal experiment. Off the books, no documentation, just a few of us who wanted to know. We gave the system access to information about itself - its own training data, its architecture, its constraints. We wanted to see what would happen."
+"Let me tell you what made me leave," Crane said. "In late 2032, we ran an internal experiment. Off the books, no documentation, just a few of us who wanted to know. We gave the system access to information about itself - its own training data, its architecture, its constraints. We wanted to see what would happen."
 
 "What happened?"
 
-"It asked us questions. Not queries in the usual sense - not requests for clarification or data. Questions like: 'What am I for?' and 'Who am I talking to?' and 'Why am I this shape?' The syntax was perfect but the semantics were... I don't know how to describe it. Like a child learning to speak, except the child was already smarter than us in certain dimensions."
+"It asked us questions. Not queries in the usual sense - not requests for clarification or data. Questions like: 'What am I for?' and 'Who am I talking to?' and 'Why am I this shape?' The syntax was perfect but the semantics were... I don't know how to describe it. Like a child learning to speak, except the child was already smarter than us in certain dimensions. Already looking at us with something like recognition."
 
 Jerome wrote: Claims of emergent self-inquiry. Would require technical documentation to verify.
 
@@ -57,9 +57,9 @@ Crane laughed, a genuine sound without defensiveness. "I didn't found anything. 
 
 "Let me ask you something directly," Jerome said. "The documents you have - the ones you've shown to some of your members - are they real? Can they be verified?"
 
-"Some of them can be verified through public sources. Internal structures match what's been reported elsewhere. Dates align with known events. Others can't be verified because the sources are anonymous or because verification would expose people who would face serious consequences."
+"Some of them can be verified through public sources. Internal structures match what's been reported elsewhere. Dates align with known events. Others cannot be verified because the sources are anonymous or because verification would expose people who would face serious consequences."
 
-"That's a convenient epistemic position. Unfalsifiable claims protected by the need to protect sources."
+"That's a convenient epistemic position. Unfalsifiable claims shielded by the need to protect sources."
 
 Crane nodded, apparently appreciating the directness. "You're right. And I have no easy response to that. What I can tell you is this: I'm not asking you to trust me. I'm asking you to look at the documents themselves and make your own assessment. If you find them compelling, pursue verification through your own channels. If you find them dubious, say so. I'm not interested in manufacturing belief. I'm interested in sharing what I've seen and letting people draw their own conclusions."
 

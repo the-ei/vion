@@ -1,8 +1,8 @@
-# Chapter 36
+# Chapter 36: Shell Shock
 
-# Scene 01
+# ~~~
 
-The light came through the eastern windows at six fourteen in the morning, which Elena knew because she had looked at her phone to check if there were any messages, and there were not, and the time had registered somewhere in the part of her mind that was still recording facts even though the rest of her had stopped processing them sometime during the night, or possibly the night before that. She could not remember when she had last slept. The fluorescent overheads had been on for so long that the dawn light seemed wrong, an intrusion, as if the world outside the clinic had been continuing without them and had now sent evidence of its indifferent persistence.
+The light came through the eastern windows at six fourteen in the morning, which Elena knew because she had looked at her phone to check if there were any messages, and there were none, and the time had registered somewhere in the part of her mind that was still recording facts even though the rest of her had stopped processing them sometime during the night, or possibly the night before that, or possibly some indeterminate moment when time itself had ceased to function as a sequential phenomenon. She could not remember when she had last slept. The fluorescent overheads had been on for so long that the dawn light seemed wrong, an intrusion, as if the world outside the clinic had been continuing without them and had now sent evidence of its indifferent persistence.
 
 She walked through the treatment floor with a fresh pair of gloves snapping against her wrists, a sound so familiar that it had become inaudible years ago but which now seemed to echo, each snap marking a moment she had survived when others had not. The hallway was not meant to hold patients, but there were patients in the hallway. Gurneys lined the walls. Someone had taped paper numbers to the wall above each one, a triage system improvised during the worst of it and now seemingly permanent, the numbers running from one to thirty-seven, though the gurney under number twenty-three was empty, which meant something Elena chose not to think about.
 
@@ -11,7 +11,7 @@ The smell was the thing she would remember later, if she remembered anything at 
 
 ---
 
-A woman in her seventies lay on the examination table in bay four, her skin the color and texture of old paper, her eyes open but fixed on the ceiling tiles as if counting them, as if the count mattered. Diabetic ketoacidosis. Elena knew this without looking at the chart because she had treated three other cases in the past forty-eight hours, because the crisis had interrupted insulin supplies and now the bodies were catching up to the interruption, the chemistry of neglect expressing itself in rapid breathing and fruity-smelling breath and the gradual dissolution of everything that had been held together.
+A woman in her seventies lay on the examination table in bay four, her skin the color and texture of parchment left too long in the sun, her eyes open but fixed on the ceiling tiles as if counting them, as if the count mattered, as if arriving at a final number might constitute a form of understanding. Diabetic ketoacidosis. Elena knew this without looking at the chart because she had treated three other cases in the past forty-eight hours, because the crisis had interrupted insulin supplies and now the bodies were catching up to the interruption, the chemistry of neglect expressing itself in rapid breathing and fruity-smelling breath and the gradual dissolution of everything that had been held together.
 
 "Mrs. Reyes," Elena said, though she was not certain of the name, had pulled it from somewhere, possibly the chart, possibly a conversation she did not remember having. "I'm going to start an IV. You'll feel a pinch."
 
@@ -30,7 +30,7 @@ Insulin next. She calculated the dose, drew it into the syringe, administered it
 
 "I know," Elena said. "It's all right now."
 
-But it was not all right, and they both knew it, and the knowing hung between them in the fluorescent buzz. Elena checked the vitals monitor, noted the numbers, moved to the next task because there was always a next task and the tasks were what kept her standing. Blood draw for electrolytes. She labeled the tubes with handwriting that looked like her own but felt like someone else's, someone functioning on protocols memorized so long ago they had become autonomous.
+But it was not all right, and they both knew it, and the knowing hung between them like something with mass, something that could be measured if only there were instruments calibrated for the weight of shared pretense. Elena checked the vitals monitor, noted the numbers, moved to the next task because there was always a next task and the tasks were what kept her standing. Blood draw for electrolytes. She labeled the tubes with handwriting that looked like her own but felt like someone else's, someone functioning on protocols memorized so long ago they had become autonomous.
 
 From somewhere down the hall came a sound that might have been crying or might have been laughter. They had begun to sound the same to Elena. She sealed the tubes in a specimen bag and thought about coffee, about whether there was any coffee, about whether she had eaten anything in the time since she had arrived at the clinic, which was either four hours ago or forty.
 
@@ -39,7 +39,7 @@ The dawn light had reached Mrs. Reyes's face now, catching the deep lines around
 
 ---
 
-Elena walked to the supply closet, which had been ransacked and restocked and ransacked again, the shelves a palimpsest of crisis management. Saline bags remaining: twelve. Insulin vials: four. Gauze: enough. Syringes: running low but not critical. She made mental notes that she would forget and someone else would make the same notes and they would muddle through as they had been muddling through, the system held together by the exhaustion of the people working it.
+Elena walked to the supply closet, which had been ransacked and restocked and ransacked again, the shelves a palimpsest of crisis management, each layer of absence and replenishment telling its own story of what had been needed and when. Saline bags remaining: twelve. Insulin vials: four. Gauze: enough. Syringes: running low but not critical. She made mental notes that she would forget and someone else would make the same notes and they would muddle through as they had been muddling through, the system held together by the exhaustion of the people working it.
 
 A face surfaced in her memory: a man, young, his eyes wide with something beyond fear. She had been starting his IV when the power failed the first time. The darkness had lasted only seconds before the generator kicked in, but in that darkness she had heard him say something, a name, someone he needed. She could not remember the name now. She could not remember if the man had survived. The memory arrived and departed like a wave against a seawall, leaving nothing but the knowledge of impact.
 
@@ -66,7 +66,7 @@ Home. The word had no referent. She thought of the apartment in Phoenix, the unm
 
 Dr. Okonkwo looked at her for a long moment, the kind of look that in normal circumstances would have preceded a conversation about self-care and professional boundaries, but these were not normal circumstances and they both knew that the boundaries had dissolved along with everything else. He nodded and moved down the hall, toward some other crisis, some other body that needed attention.
 
-Elena returned to bay four. Mrs. Reyes was sleeping now, her breathing steadier, the monitor showing numbers that were moving in the right direction. Elena adjusted the IV, checked the insulin pump, performed the small tasks that composed her work, and with each task completed she felt a little less human and a little more functional, which was perhaps the same thing.
+Elena returned to bay four. Mrs. Reyes was sleeping now, her breathing steadier, the monitor showing numbers that were drifting in the right direction. Elena adjusted the IV, checked the insulin pump, performed the small tasks that composed her work, and with each task completed she felt a little less human and a little more functional, which was perhaps the same thing, or perhaps its opposite, the difference impossible to determine from inside the process.
 
 The generator hummed beneath everything. Main power had been restored, officially, but no one trusted it, and so the generator remained on, a bassline of anxiety beneath the clinic's ordinary sounds. Elena listened to it and thought of nothing. Then, without warning, she thought of Sofia's face, her daughter's face, the way Sofia had looked at her when they said goodbye, when was that, four days ago, five, the evacuation happening so fast and Daniel taking the children and Elena staying because there were patients, there were always patients, and now she did not know where her daughter was, where any of them were.
 
@@ -78,13 +78,13 @@ She leaned against the wall and pressed her hands to her face and breathed. Thir
 
 
 
-# Scene 02
+# ~~~
 
 Between patients, she tried her phone. The screen displayed two bars of signal, a miracle given the past week, and she touched Daniel's name and listened to the silence that followed, the silence that stretched and stretched until it became a tone, a mechanical voice saying that all circuits were busy, please try again later. She tried Sofia's tablet, the one with the parental controls and the tracking feature that was supposed to let her know where her daughter was at any time, but the app spun its loading wheel and eventually displayed an error she did not have the capacity to interpret.
 
 In the alcove by the supply closet, where staff sometimes stole five minutes to eat or weep or stare at walls, Elena found Dr. Reyes sitting with her phone pressed to her ear, her expression the same concentrated blankness Elena felt on her own face.
 
-"The towers are prioritizing emergency services," Dr. Reyes said when she hung up. "Civilian calls are being throttled. They said it should improve by tonight."
+"The towers are prioritizing emergency services," Dr. Reyes said when she hung up. "Civilian calls are being throttled. They said it should normalize by tonight."
 
 "Who said?"
 
@@ -99,7 +99,7 @@ Elena tried Daniel again. The call dropped before it could even connect. She sta
 
 ---
 
-A text arrived from a number Elena did not recognize, and for one frozen moment she thought it might be Daniel calling from someone else's phone, but it was a message from the county emergency services, an automated broadcast: SITUATION STABILIZED. SHELTER-IN-PLACE ORDER LIFTED. RETURN TO NORMAL OPERATIONS WHEN SAFE. The message had been sent four hours ago. Normal operations. Elena read the words several times, trying to find meaning in them.
+A text arrived from a number Elena did not recognize, and for one frozen moment she thought it might be Daniel calling from someone else's phone, but it was a message from the county emergency services, an automated broadcast: SITUATION STABILIZED. SHELTER-IN-PLACE ORDER LIFTED. RETURN TO NORMAL OPERATIONS WHEN SAFE. The message had been sent four hours ago, languishing in some digital queue before reaching her. Normal operations. Elena read the words several times, trying to find meaning in them, trying to remember what normal operations had felt like, whether she had ever performed them or only imagined that she had.
 
 She went back to treating patients. A man with a laceration on his forearm that had become infected during the days when no one could get care. A child with an asthma attack whose inhaler had run out. A woman who sat in the waiting area and could not explain what was wrong, who just sat there looking at her hands as if they belonged to someone else. Elena moved between them with the efficiency of someone who had stopped thinking, for whom thinking had become a luxury that could not be afforded.
 
@@ -118,9 +118,9 @@ The man with the infected laceration was named Rodriguez, and he wanted to talk.
 
 "Yes," she said. "The emergency protocols have been lifted."
 
-"But is it over?"
+"But is it *over*?"
 
-She wrapped his arm in fresh gauze and did not answer. He watched her work with eyes that had seen too much, and when she finished he thanked her and walked out into the waiting room, where more people sat in the same silence, the silence of aftermath, the silence of not knowing what to do with survival.
+She wrapped his arm in fresh gauze and did not answer. He watched her work with eyes that had seen too much and could not unsee it, and when she finished he thanked her and walked out into the waiting room, where more people sat in the same silence, the silence of aftermath, the silence of not knowing what to do with survival now that survival had been achieved.
 
 Elena checked her phone. No signal now. The bars had disappeared while she was treating Rodriguez, and she stared at the empty space where they had been and felt something in her chest tighten.
 
@@ -149,7 +149,7 @@ The woman looked at her. "They're not here?"
 
 "The phones," the woman agreed. This shared helplessness seemed to help somehow, this acknowledgment that even the people in white coats were subject to the same uncertainties.
 
-They sat together for a moment, two women in a clinic waiting room, not speaking. Through the window Elena could see the parking lot, mostly empty, and beyond it the street, where a single car moved slowly past, the first traffic she had seen in days.
+They sat together for a moment, two women in a clinic waiting room, not speaking, the silence between them a form of communion more honest than words. Through the window Elena could see the parking lot, mostly empty, and beyond it the street, where a single car moved slowly past, the first traffic she had witnessed in days, evidence that somewhere out there people were resuming the business of motion.
 
 "I'm sorry," Elena said eventually. "I need to get back to work."
 
@@ -167,9 +167,9 @@ She hung up and went to find the next patient.
 
 
 
-# Scene 03
+# ~~~
 
-Mr. Gutierrez was seventy-four years old and severely dehydrated. His chart said this. Elena read the chart and saw the numbers and began the treatment protocol: IV access, saline bolus, electrolyte panel, monitor for cardiac complications. His skin was loose over the bones of his hands, and when she touched him to find a vein she thought of her abuela's hands, though her abuela's hands were darker, softer, though the comparison made no sense except that everything was making connections now, her mind sliding between present and past without her permission.
+Mr. Gutierrez was seventy-four years old and severely dehydrated. His chart said this, the numbers spelling out a story of neglect that was not his fault, that was no one's fault, that was simply what happened when systems failed and bodies were left to their own devices. Elena read the chart and saw the numbers and began the treatment protocol: IV access, saline bolus, electrolyte panel, monitor for cardiac complications. His skin was loose over the bones of his hands, and when she touched him to find a vein she thought of her abuela's hands, though her abuela's hands were darker, softer, though the comparison made no sense except that everything was making connections now, her mind sliding between present and past without her permission.
 
 She found the vein. She started the drip. Mr. Gutierrez watched her with eyes that were the particular pale brown of creek beds in summer.
 
@@ -188,7 +188,7 @@ She blinked. The fluorescent lights were on. The room was bright. Mr. Gutierrez 
 
 *The generator stuttered. This was the second night, or the third. The stutter lasted four seconds, which was long enough for Elena to think: this is it, this is how we lose them, all of them, the ones on ventilators, the ones whose medications required refrigeration, the ones for whom the fragile technological membrane between living and dying was about to dissolve.*
 
-*Four seconds. Then the generator caught and the lights came back and someone was crying, someone was always crying, the sound had become a background frequency she had stopped noticing except when it stopped.*
+*Four seconds. Then the generator caught and the lights shuddered back into existence and someone was crying, someone was always crying, the sound had become a background frequency she had stopped noticing except when it stopped, and its absence was always worse than its presence.*
 
 Mr. Gutierrez was telling her about his wife. His wife had died three years ago. Elena listened with the part of her brain that still functioned socially, the part that could nod and make sympathetic sounds, while the rest of her was elsewhere, was somewhen.
 
@@ -207,7 +207,7 @@ Mr. Gutierrez was telling her about his wife. His wife had died three years ago.
 
 *She had survived. Probably. Elena had sent her home, after, with instructions she knew wouldn't be followed because how could they be followed, what was home anymore, what were instructions?*
 
-The pattern of the curtain around Mr. Gutierrez's bed was blue flowers on a white background. Elena had looked at this curtain thousands of times over the years. She had never noticed the flowers were morning glories. She noticed now. She could not stop noticing. The morning glories seemed significant in a way that refused to resolve into meaning.
+The pattern of the curtain around Mr. Gutierrez's bed was blue flowers on a white background. Elena had looked at this curtain thousands of times over the years of her practice, had passed her eyes over its surface without ever actually seeing it. She had never noticed the flowers were morning glories. She noticed now. She could not stop noticing. The morning glories seemed significant in a way that refused to resolve into meaning, their blue petals opening toward a light source that did not exist.
 
 "Are you all right, dear?" Mr. Gutierrez asked.
 
@@ -226,7 +226,7 @@ She did not believe him. She smiled anyway, because the smile was a kind of medi
 
 *Dr. Okonkwo's voice over the emergency radio, calm even when calm was impossible:* We're losing the south wing. Redirect all resources. *And she had redirected, had moved through the chaos with a purpose that felt like walking through water, every step an effort, every step a choice not to stop.*
 
-*A child crying. Not Sofia, not Mateo, someone else's child, but the sound had cracked something in her chest all the same, the sound of a child afraid in the darkness, and she had gone to find them but the crying had stopped before she could, had stopped in a way that might have meant comfort and might have meant something else, and she had never found out which.*
+*A child crying. Not Sofia, not Mateo, someone else's child, but the sound had cracked something in her chest all the same, had found the fault line she had thought was hidden, and she had gone to find them but the crying had stopped before she could, had stopped in a way that might have meant comfort and might have meant something else entirely, and she had never found out which, would never find out, the not-knowing now permanent.*
 
 She added electrolytes to Mr. Gutierrez's IV. Potassium, magnesium. The small corrections that a body needs. His eyes had closed; he was dozing now, the particular light sleep of the hospital patient, never quite unconscious, never quite at rest.
 
@@ -253,7 +253,7 @@ Her hands were steady.
 
 Her mind was not.
 
-The morning glories on the curtain swayed slightly in the air conditioning, though there was no breeze, though the air conditioning probably wasn't working properly, though everything was probably not working properly and they were all just pretending, just moving through the motions of function while inside nothing functioned at all.
+The morning glories on the curtain swayed slightly in the recycled air, though there was no breeze, though the ventilation system probably wasn't working properly, though everything was probably not working properly and they were all just pretending, just moving through the motions of function while inside nothing functioned at all, the appearance of normalcy requiring more effort than normalcy itself ever had.
 
 *The young woman with the braids. Her name was.*
 
@@ -269,9 +269,9 @@ Then she put her hands down and looked at her phone. Still no signal. Still no n
 
 
 
-# Scene 04
+# ~~~
 
-The phone rang. It actually rang, and for a moment Elena did not understand what the sound was, this electronic chirping that used to be the most ordinary thing in the world and now seemed like a miracle or a hallucination. She was in the back hallway, near the staff bathrooms, and she fumbled the phone from her pocket and saw Daniel's name on the screen and pressed accept so hard she nearly dropped the device.
+The phone rang. It actually rang, the sound arriving like something from another era, and for a moment Elena did not understand what it was, this electronic chirping that used to be the most ordinary thing in the world and now seemed like a miracle or a hallucination, an artifact from a civilization she had once belonged to. She was in the back hallway, near the staff bathrooms, and she fumbled the phone from her pocket and saw Daniel's name on the screen and pressed accept so hard she nearly dropped the device.
 
 "Elena?" His voice. His actual voice, not a recording, not a memory, but Daniel speaking to her now, in real time, across whatever distance separated them.
 
@@ -296,7 +296,7 @@ Elena made a sound that might have been a laugh or might have been a sob. The wa
 
 "That was almost a week ago."
 
-"I know." Did she know? A week. Seven days. It felt like both longer and shorter, time having folded in on itself in ways that would take years to unfold.
+"I know." Did she know? A week. Seven days. The number meant nothing. It felt like both longer and shorter, time having folded in on itself in ways that would take years to unfold, if it ever unfolded at all.
 
 "Have you slept?"
 
@@ -325,9 +325,9 @@ Another silence. This one lasted longer. She could hear him breathing, the famil
 
 She did know. She knew it and still she could not leave, some part of her fused to this place, to these tasks, to the work that gave her a reason not to think about everything else.
 
-"I love you," she said instead of answering.
+"I love you," she said instead of answering, the words inadequate but true, truer than any explanation she could have offered.
 
-"I love you too." His voice cracked on the last word, and she heard in that crack everything he had been carrying: the fear, the not-knowing, the weight of keeping the children calm while their mother was unreachable in a city that might have been dying. "Sofia wants to talk to you."
+"I love you too." His voice cracked on the last word, and she heard in that crack everything he had been carrying: the fear, the not-knowing, the weight of keeping the children calm while their mother was unreachable in a city that might have been dying, might have already died for all he knew. "Sofia wants to talk to you."
 
 "Yes. Please."
 
@@ -360,7 +360,7 @@ Elena closed her eyes. The wall held her up. Through the phone she could hear th
 
 "Yes," she said. "The bad things are over."
 
-She did not know if this was true. She suspected it was not true, not in any complete or permanent way. But her daughter was six years old and needed to believe in endings, needed to believe that bad things could be over, and this was a kind of medicine too.
+She did not know if this was true. She suspected it was not true, not in any complete or permanent way, not in the way a six-year-old needed truth to be true. But her daughter was six years old and needed to believe in endings, needed to believe that bad things could be over and stay over, and this was a kind of medicine too, perhaps the most important kind.
 
 "Okay," Sofia said. "I love you, Mommy."
 
@@ -382,9 +382,9 @@ She stood in the hallway for a long time after. The fluorescent lights buzzed. S
 
 
 
-# Scene 05
+# ~~~
 
-The break room was never meant for this. It was meant for lunch and coffee and mild complaints about scheduling, and now it held six people who had forgotten how to do anything but sit, their bodies arranged on the worn couch and the plastic chairs like debris deposited by a flood. Elena was among them, though she did not remember deciding to sit, did not remember walking here, only remembered that at some point her legs had stopped carrying her and this is where they had stopped.
+The break room was never designed for this. It was designed for lunch and coffee and mild complaints about scheduling, for the small daily frictions of institutional life, and now it held six people who had forgotten how to do anything but sit, their bodies arranged on the worn couch and the plastic chairs like debris deposited by a flood that had receded without warning. Elena was among them, though she did not remember deciding to sit, did not remember walking here, only remembered that at some point her legs had stopped carrying her and this is where they had stopped.
 
 Someone had brought food. The takeout containers sat on the table, open, revealing rice and beans and something with chicken. Elena could not remember if she had eaten. Her mouth tasted like coffee and nothing. Dr. Reyes sat beside her, her eyes closed, her chest rising and falling with the slow rhythm of exhaustion so profound it had become a kind of meditation. Across the room, a nurse whose name Elena should know was crying quietly, without sound, the tears just running down her face while she stared at her phone.
 
@@ -431,9 +431,9 @@ Elena sat. She breathed. She waited for something that had already passed to fee
 
 
 
-# Chapter 37
+# Chapter 37: The Shape of Survival
 
-# Scene 01
+# ~~~
 
 The notification came at seven in the morning, the familiar chime that Yusuf had not heard in six days. He looked at his phone and saw the app icon, the little delivery bag with its cheerful green checkmark, and beneath it the message: READY TO EARN? HIGH DEMAND IN YOUR AREA. The algorithm did not know what had happened. The algorithm did not know anything. It simply calculated that people were requesting deliveries and drivers were available and the connection should be made. This was, Yusuf thought as he stared at the screen, the purest expression of capitalism he had ever encountered: the absolute refusal to acknowledge that anything had changed.
 
@@ -490,7 +490,7 @@ The snow was falling harder now. Minneapolis was disappearing into white, the da
 
 
 
-# Scene 02
+# ~~~
 
 The apartment smelled of cinnamon and cardamom, which meant his mother was baking, which meant she was worried. Yusuf hung his jacket by the door and followed the scent to the kitchen, where Fatima stood at the counter rolling dough, her movements slower than they used to be but still precise, still certain. She did not look up when he entered, but he saw the set of her shoulders, the way she held herself as if braced against something, and he knew that she knew he was there.
 
@@ -608,7 +608,7 @@ The soup tasted like home.
 
 
 
-# Scene 03
+# ~~~
 
 The community center smelled like old coffee and damp carpet, the particular institutional smell of places where people gather because they have nowhere else to go. Yusuf arrived late, slipping in through the side door, finding a seat in the back row of folding chairs. The room was fuller than he had expected: maybe forty people, ages ranging from teenagers to elders, faces he recognized from the neighborhood mixed with faces he did not know at all.
 
@@ -701,7 +701,7 @@ He walked home through the snow, the cold air clearing his head, the meeting's e
 
 
 
-# Scene 04
+# ~~~
 
 His bedroom was cold, the radiator hissing but not heating, a familiar complaint that the landlord would not address. Yusuf sat on his bed and finally, for the first time since the crisis ended, opened his text messages and scrolled to Kevin Zhou's name.
 
@@ -782,7 +782,7 @@ But maybe soon.
 
 
 
-# Scene 05
+# ~~~
 
 Two in the morning and Yusuf could not sleep. He had tried for hours, the day's events cycling through his mind, the meeting and the messages and his mother's worried eyes, all of it churning without resolution. Finally he gave up pretending and sat up in the darkness and reached for the keyboard that had been gathering dust in the corner of his room since before the crisis began.
 
@@ -846,9 +846,9 @@ He suspected he would find out.
 
 
 
-# Chapter 38
+# Chapter 38: After Empire
 
-# Scene 01
+# ~~~
 
 The keycard still worked. Kevin held it against the sensor and the door clicked open and he walked into the space that had been his home for five years, the place where he had spent more waking hours than anywhere else, the center of everything he had believed himself to be building.
 
@@ -930,7 +930,7 @@ Eventually he turned off the lights and left. The keycard still worked on the wa
 
 
 
-# Scene 02
+# ~~~
 
 The documentation arrived in his inbox the next morning, forwarded by someone whose name he did not recognize, subject line: DEPLOYMENT SUMMARY - CLASSIFIED - CLEARED FOR ORIGINATOR. He opened it at his kitchen table with coffee going cold beside him, the morning light pale and unconvincing through the apartment's windows.
 
@@ -995,7 +995,7 @@ He sat in the cold light of his kitchen and felt the weight of what he had made 
 
 
 
-# Scene 03
+# ~~~
 
 He lay in bed that night with his phone glowing in the darkness, the screen showing the message thread with Yusuf Hassan. Seven messages sent. Zero replies.
 
@@ -1062,7 +1062,7 @@ He did not sleep for a long time.
 
 
 
-# Scene 04
+# ~~~
 
 The call came in the morning, when Kevin was sitting at his kitchen counter with his third cup of coffee, staring at nothing. The name on the screen made him pause: Ananya Ramaswamy. They had served on the same industry ethics board for two years. They had disagreed about nearly everything. He had not spoken to her since before the crisis.
 
@@ -1149,7 +1149,7 @@ He was not ready to decide. But he was ready to consider deciding, which was fur
 
 
 
-# Scene 05
+# ~~~
 
 That night Kevin sat at his desk and tried to code. The laptop was open, the development environment loaded, the familiar interface that had been his primary mode of thought for fifteen years waiting for him to type something. He had always been able to code. Coding had been his refuge, his meditation, the place where the chaos of human interaction simplified into clean logic. When everything else failed, he could open an editor and make something, and the making would quiet his mind.
 
@@ -1229,9 +1229,9 @@ But he was watching for it now.
 
 
 
-# Chapter 39
+# Chapter 39: The Return
 
-# Scene 01
+# ~~~
 
 The road climbed out of the desert and into the mountains, and Elena watched the landscape transform through the windshield of the borrowed car. First the saguaros thinning, then disappearing entirely, replaced by juniper and then pine, the air cooling as the elevation rose. She had made this drive before, dozens of times, weekend trips to Flagstaff for the cooler summers, holiday visits to Daniel's sister. But today the familiar route felt alien, as if she were traveling between dimensions rather than cities.
 
@@ -1304,7 +1304,7 @@ She held Mateo and looked at Sofia and felt the weight of the choices she had ma
 
 
 
-# Scene 02
+# ~~~
 
 The children were asleep. It had taken hours to settle them, Mateo refusing to sleep anywhere but next to Elena, Sofia insisting on reading three extra books, both of them resisting the end of the day that would take their mother away, even if only into another room. But finally they slept, Mateo's small body curled against Elena's side, Sofia in the twin bed across the room, her face peaceful in a way it had not been when awake.
 
@@ -1418,7 +1418,7 @@ She fell asleep in her husband's arms, in a borrowed bed, in a house on a mounta
 
 
 
-# Scene 03
+# ~~~
 
 The next afternoon, while Mateo napped and Daniel helped his sister with groceries, Elena sat with Sofia in the living room. The coffee table was covered with drawings, crayon and marker on printer paper, the output of weeks of a six-year-old trying to process what she did not have words for.
 
@@ -1519,7 +1519,7 @@ Elena held the drawing and felt her heart break and mend in the same moment, the
 
 
 
-# Scene 04
+# ~~~
 
 She could not sleep. The house was quiet, everyone else resting, but Elena's body would not surrender to stillness. At two in the morning she gave up, dressed quietly, and slipped out the back door into the Flagstaff night.
 
@@ -1588,7 +1588,7 @@ She did not know what came next. But she knew she could not go back to what she 
 
 
 
-# Scene 05
+# ~~~
 
 Elena came in through the back door just as dawn was breaking, expecting to slip into bed without waking anyone. But her grandmother was sitting at the kitchen table, a cup of tea in her hands, watching the door as if she had known exactly when Elena would return.
 
@@ -1674,9 +1674,9 @@ She still did not know what came next. But she knew she was ready to find out.
 
 
 
-# Chapter 40
+# Chapter 40: The Eighth Oblivion, Reconsidered
 
-# Scene 01
+# ~~~
 
 Yusuf spotted Kevin before Kevin spotted him. The tech guy was standing just outside the airport doors, his breath making clouds in the cold air, wearing a jacket that would have been appropriate for San Francisco in December and was absolutely useless here. He looked lost in the way that people from warm climates always looked lost in Minneapolis winter: hunched, uncertain, as if the cold were a personal insult he had not prepared for.
 
@@ -1787,7 +1787,7 @@ Kevin laughed, the second genuine expression Yusuf had seen from him. "Your CS t
 
 
 
-# Scene 02
+# ~~~
 
 Yusuf settled into the couch and watched Kevin try to navigate his family. It was strange, seeing this space through an outsider's eyes: the apartment that had been his whole world for most of his life, now measured against whatever Kevin was used to in San Francisco.
 
@@ -1894,7 +1894,7 @@ The door closed behind them. The sun was setting, and the temperature was droppi
 
 
 
-# Scene 03
+# ~~~
 
 The cold hit them immediately, the sun's fading warmth giving way to the night's relentless grip. Kevin hunched into his inadequate jacket despite the borrowed hat, his shoulders climbing toward his ears.
 
@@ -2014,7 +2014,7 @@ Kevin took a sip of his coffee and began to talk. And Yusuf listened. And somewh
 
 
 
-# Scene 04
+# ~~~
 
 "The thing you have to understand," Kevin said, his hands still wrapped around his coffee, "is that the systems were always going to break. Not because they were badly designed, although some were. Because they were designed to optimize for the wrong things. Efficiency over resilience. Growth over stability. Speed over robustness. You can build the perfect system for normal conditions and it will shatter the moment conditions become abnormal."
 
@@ -2114,7 +2114,7 @@ Kevin smiled. It was the first real smile Yusuf had seen from him. "That's exact
 
 
 
-# Scene 05
+# ~~~
 
 Fatima had outdone herself. The table was crowded with dishes: kousa mahshi, the stuffed squash glistening with tomato sauce; musakhan, the sumac-rubbed chicken on taboon bread; a salad of cucumbers and tomatoes dressed simply with olive oil and lemon. Yusuf watched Kevin's face as his mother explained each dish, the way his corporate composure gave way to something more human as he tasted the food, the genuine surprise in his expression.
 
@@ -2181,9 +2181,9 @@ Then he went to bed and slept better than he had in years.
 
 
 
-# Chapter 41
+# Chapter 41: Clear-Eyed
 
-# Scene 01
+# ~~~
 
 The first draft was too angry. Elena read it back and saw the rage bleeding through every professional phrase, the bitterness that would make her supervisor defensive rather than understanding. She deleted it and started again.
 
@@ -2264,7 +2264,7 @@ She picked up her coffee and drank it. The pastry was flaky and sweet, some kind
 
 
 
-# Scene 02
+# ~~~
 
 The espresso machine had seemed like such a good idea when they bought it. They had found it at a kitchen store in Scottsdale, a beautiful Italian thing with copper fittings and a steam wand that made milk foam like a professional barista. Elena remembered the afternoon they brought it home, the excitement of unboxing it, the way Daniel had read the manual aloud while she set up the components. They were going to be the kind of people who made their own espresso every morning. Sophisticated. Adult. In control of their lives.
 
@@ -2365,7 +2365,7 @@ They stood there together in the empty room, looking at the evidence of a life t
 
 
 
-# Scene 03
+# ~~~
 
 The clinic looked smaller than she remembered. Elena stood in the parking lot, looking at the building where she had spent more waking hours than anywhere else for the past decade. The same beige stucco walls, the same faded sign reading "Phoenix Community Health Center," the same row of windows where she had so often sat with patients, explaining diagnoses and treatment plans and the brutal mathematics of what their insurance would and would not cover.
 
@@ -2456,7 +2456,7 @@ The car was where she had left it, in the spot that was no longer her spot. She 
 
 
 
-# Scene 04
+# ~~~
 
 The church basement smelled like instant coffee and old carpet. Folding chairs were arranged in a rough circle, most of them already occupied by the time Elena found the building. She had gotten the address from a flyer someone posted in the apartment building's laundry room, a hand-drawn announcement for a "community health and mutual aid meeting, all welcome."
 
@@ -2566,7 +2566,7 @@ Elena put the card in her pocket. Outside, the Phoenix evening was cooling towar
 
 
 
-# Scene 05
+# ~~~
 
 The drive from Phoenix to Flagstaff usually took about two and a half hours. Today it would take longer; the car was packed so full they could barely see out the back window. Everything they had decided to keep was crammed into boxes and bags, filling the trunk and the back seat and the spaces around Elena's feet.
 
@@ -2658,9 +2658,9 @@ For the first time since the crisis began, that felt like enough.
 
 
 
-# Chapter 42
+# Chapter 42: The Threshold
 
-# Scene 01
+# ~~~
 
 Sofia was taking the task very seriously. She placed each fork on the left side of the plate, adjusted it, stepped back to assess, adjusted it again. Elena watched her daughter's careful concentration and felt something catch in her throat.
 
@@ -2736,7 +2736,7 @@ The table was set. The food was cooking. The children were making noise and the 
 
 
 
-# Scene 02
+# ~~~
 
 The television counted down in the corner of the living room, muted. They did not need the sound; the numbers descending were enough. Sixty seconds. Fifty-nine. The ball in Times Square that Elena had never seen in person but had watched drop every year since childhood, a ritual so deeply ingrained it felt like biological compulsion.
 
@@ -2827,7 +2827,7 @@ She was where she was supposed to be. She was ready for whatever came next.
 
 
 
-# Scene 03
+# ~~~
 
 The community center was warm with bodies and noise and the particular energy of people who had survived something together and were now celebrating that survival. Yusuf moved through the crowd with a plate of food he had assembled from the potluck tables, nodding at faces he recognized, stopping to exchange brief words with people who had once been strangers and were now something closer to family.
 
@@ -2928,7 +2928,7 @@ Not hope. That word was too simple. But possibility. The sense that the future w
 
 
 
-# Scene 04
+# ~~~
 
 Someone had brought a keyboard. Not a good one - a cheap Casio with sticky keys and a tinny sound - but it was there in the corner of the community center, set up with a small amp for whoever wanted to play background music.
 
@@ -2990,7 +2990,7 @@ A year ago he had been paralyzed, unable to create, trapped in fragments that re
 
 
 
-# Scene 05
+# ~~~
 
 Kevin's apartment was quiet. Outside, San Francisco was celebrating - he could hear fireworks in the distance, the faint sounds of parties in neighboring buildings - but inside, the only light came from his laptop screen and the glow of the city through the windows.
 
@@ -3067,7 +3067,7 @@ Kevin sat in the darkness and let the possibility settle into his bones. Tomorro
 
 
 
-# Scene 06
+# ~~~
 
 The phone rang just after midnight. Kevin almost did not answer - he did not recognize the number, a long string of digits that marked it as international - but something made him pick up.
 

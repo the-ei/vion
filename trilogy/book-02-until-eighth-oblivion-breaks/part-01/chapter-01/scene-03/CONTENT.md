@@ -1,4 +1,4 @@
-The cafe where Ruth met Rebecca occupied a corner lot in a neighborhood that had been transitioning for as long as Ruth could remember, always moving toward something it never quite became. The buildings mixed Victorian facades with newer construction, barbershops next to artisanal coffee roasters, a check-cashing place across from a yoga studio. Oakland had always been this way, Ruth thought - a city of coexistence, not quite gentrified, not quite stable, holding its contradictions in visible tension.
+The cafe where Ruth met Rebecca occupied a corner lot in a neighborhood that had been transitioning for as long as Ruth could remember, always moving toward something it never quite became. The buildings mixed Victorian facades with newer construction, barbershops next to artisanal coffee roasters, a check-cashing place across from a yoga studio. Oakland had always been this way, Ruth thought - a city of coexistence, not quite gentrified, not quite stable, holding its contradictions in visible tension, refusing the false resolution of becoming one thing or another.
 
 Rebecca was already seated when Ruth arrived, at a table near the window where the afternoon light fell across the remains of a sandwich she'd clearly eaten too quickly. Her daughter looked tired in a way that went beyond sleep - the particular exhaustion of people who spend their days in the gap between what should be possible and what is. Ruth recognized it because she had seen it in Susan, years ago, in the public defender trenches. The work that consumed you because the need was bottomless.
 
@@ -6,7 +6,7 @@ Rebecca was already seated when Ruth arrived, at a table near the window where t
 
 "I had fifteen minutes before a home visit," Rebecca said. "I used it for lunch. That's the job now."
 
-Ruth ordered coffee from a waitress who seemed too young to be working afternoons, then turned her full attention to her daughter. Rebecca was forty-one, unmarried, childless - not by choice, she had once admitted, but by the accumulated choices of a career that left no room for anything else.
+Ruth ordered coffee from a waitress who seemed too young to be working afternoons, then turned her full attention to her daughter. Rebecca was forty-one, unmarried, childless - not by choice, she had once admitted, but by the accumulated choices of a career that left no room for anything else, each urgent case displacing the possibility of another kind of life until the displacement became permanent.
 
 
 ---
@@ -17,7 +17,7 @@ Rebecca exhaled. "Family of four. Dad lost his job in the layoffs after the - yo
 
 "What can you do?"
 
-"Not enough. I can connect them with resources that are all over capacity. I can document the situation so that when it gets worse - and it will get worse - there's a paper trail. I can be one more person who sees them and doesn't have the power to actually change anything."
+"Not enough. I can connect them with resources that are all over capacity. I can document the situation so that when it gets worse - and it will get worse - there's a paper trail. I can be one more person who sees them and doesn't have the power to actually change anything." She paused, and Ruth saw something cross her daughter's face that looked like the beginning of tears held back by will. "I can witness. That's what the job has become. Professional witnessing."
 
 The coffee arrived. Ruth wrapped her hands around the cup, feeling the warmth that couldn't reach the cold that had settled somewhere deeper.
 

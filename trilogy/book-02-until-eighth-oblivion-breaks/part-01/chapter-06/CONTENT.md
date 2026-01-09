@@ -1,4 +1,4 @@
-# Scene 01
+# ~~~
 
 The phone alarm sounded at five forty-five, the same tone it used to signal everything: wake up, new delivery, rating received, account warning. Yusuf reached for it before his eyes fully opened, the gesture automatic after two years of gig work, his thumb already swiping to dismiss before his mind caught up with his body.
 
@@ -68,7 +68,7 @@ Then the light changed, and they went their separate ways, each one alone with t
 
 
 
-# Scene 02
+# ~~~
 
 Yusuf switched to rideshare at eleven, the delivery orders slowing as the morning rush ended and office workers settled into their routines. The rideshare app was a different game: longer trips, more interaction, the performance of friendliness that the rating system demanded.
 
@@ -131,7 +131,7 @@ He accepted it. What else was there to do?
 
 
 
-# Scene 03
+# ~~~
 
 The furniture assembly was in Eden Prairie, a development where the houses all looked the same and the driveways held SUVs that cost more than Yusuf would earn in a year. He pulled up at two-fifteen, the task app showing his assignment: IKEA bed frame and dresser, estimated time three hours, payment fifty dollars.
 
@@ -182,7 +182,7 @@ He turned onto his street and parked behind the building, the engine ticking as 
 
 
 
-# Scene 04
+# ~~~
 
 The apartment smelled of cumin and onions when Yusuf opened the door, the particular fragrance of his mother's cooking that meant she was home, that she had found the energy after her own day of work to make something real instead of reheating yesterday's leftovers. He stood in the doorway for a moment, letting the smell settle into him, feeling the tension of the day begin to release.
 
@@ -270,7 +270,7 @@ The hope in her voice was precise and painful. She had learned, watching their m
 
 
 
-# Scene 05
+# ~~~
 
 Midnight. The apartment silent.
 

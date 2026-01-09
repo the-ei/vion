@@ -1,8 +1,8 @@
-# Scene 01
+# ~~~
 
 She woke to the house already awake.
 
-Not in any dramatic sense - no sounds of coffee grinding or automated blinds rising, nothing so obvious as a machine performing morning. But the air had shifted overnight, the ambient system reading the quality of her sleep and adjusting temperature, humidity, the spectrum of light now filtering through the climate-adaptive glass. Delphine lay still for a moment, feeling the particular weight of consciousness returning, the way it always took longer now than it had at thirty, at twenty-five, the gradual reassembly of self from the scattered fragments of dream.
+Not in any dramatic sense - no sounds of coffee grinding or automated blinds rising, nothing so obvious as a machine performing morning. But the air had shifted overnight, the ambient system reading the quality of her sleep through some combination of motion sensors and breath analysis, adjusting temperature, humidity, the spectrum of light now filtering through the climate-adaptive glass. Delphine lay still for a moment, feeling the particular weight of consciousness returning, the way it always took longer now than it had at thirty, at twenty-five, the gradual reassembly of self from the scattered fragments of dream.
 
 Forty-one years old. Three years since everything changed.
 
@@ -29,7 +29,7 @@ He turned to her with the specific delight that still, after seven years, made s
 
 "The gravity thing. It made sense in the dream."
 
-She sat on the edge of his bed and he crawled into her lap, fitting himself against her body with the practiced ease of a child who'd been held exactly this way ten thousand times. His warmth, his weight, the smell of his hair - these were the things the systems couldn't replicate, couldn't optimize, couldn't learn their way toward. She held him and watched the Los Angeles light shift through his window, thinking about breakfast, about the day ahead, about all the small negotiations that made a morning possible.
+She sat on the edge of his bed and he crawled into her lap, fitting himself against her body with the practiced ease of a child who'd been held exactly this way ten thousand times. His warmth, his weight, the smell of his hair - detangler and sleep-sweat and something underneath that was just him, unmistakably - these were the things the systems couldn't replicate, couldn't optimize, couldn't learn their way toward. She held him and watched the Los Angeles light shift through his window, thinking about breakfast, about the day ahead, about all the small negotiations that made a morning possible.
 
 
 ---
@@ -142,7 +142,7 @@ She sat down and began.
 
 
 
-# Scene 02
+# ~~~
 
 The home office was a converted second bedroom, and Delphine had spent considerable effort making it feel separate from the house's domestic rhythms. Different lighting temperature. A door that actually closed. A view of the back garden rather than the street, so the endless parade of autonomous vehicles didn't distract her from the work of making meaning out of other people's suffering.
 
@@ -150,7 +150,7 @@ She sat at her desk and pulled up the day's calendar. The foundation call was in
 
 But first, the empty time. The minutes before the schedule started, when she could sit with her coffee and look at the garden through the climate-treated glass.
 
-Jessie had planted those roses. Five years ago, before Theo was old enough to help, before the crisis, when weekend mornings had been for gardening and cooking elaborate breakfasts and making love before the world demanded their attention. Delphine remembered Jessie on her knees in the dirt, hair tied back, explaining the difference between grafted roots and own-root plants, and how her own eyes had glazed over while her heart had swelled with love for this person who cared so deeply about things Delphine would never fully understand.
+Jessie had planted those roses. Five years ago, before Theo was old enough to help, before the crisis, when weekend mornings had stretched open for gardening and cooking elaborate breakfasts and making love before the world demanded their attention. Delphine remembered Jessie on her knees in the dirt, hair tied back, explaining the difference between grafted roots and own-root plants, her hands dark with soil, and how Delphine's own eyes had glazed over while her heart had swelled with love for this person who cared so deeply about things she would never fully understand.
 
 The roses were struggling now. The water restrictions made it harder to keep anything alive that wasn't drought-adapted, and Jessie wasn't here to do the careful work of coaxing survival from hostile conditions.
 
@@ -292,7 +292,7 @@ She saved her files and closed her laptop and went to the kitchen to prepare som
 
 
 
-# Scene 03
+# ~~~
 
 The call with her mother was scheduled for two o'clock, which was ten in the evening in London, the hour when Nkechi had always been most herself - dinner finished, the day's obligations discharged, a glass of wine in hand and opinions ready to be dispensed.
 
@@ -390,7 +390,7 @@ Delphine read it twice, standing in her kitchen with a head of romaine in one ha
 
 "I need to talk to you about what Prometheus is planning. Not over any network. Can we meet?"
 
-The words sat on her screen like unexploded ordinance. Prometheus. The company Ananya had left - or been pushed from - in the aftermath of the crisis. The company whose technology had been at the center of so much that had gone wrong. The company that had, by all official accounts, reformed itself under the new regulatory frameworks.
+The words sat on her screen like unexploded ordnance. Prometheus. The company Ananya had left - or been pushed from - in the aftermath of the crisis. The company whose technology had been at the center of so much that had gone wrong. The company that had, by all official accounts, reformed itself under the new regulatory frameworks.
 
 And Ananya, who had been inside it, who had seen whatever there was to see, who was asking Delphine to meet in person, not on any network, as if the networks themselves could not be trusted.
 

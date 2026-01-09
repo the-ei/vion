@@ -1,4 +1,4 @@
-# Scene 01
+# ~~~
 
 The radio was playing anniversary coverage when Elena came into the living room. One year ago today, the announcer said, in a voice calibrated for historical significance. One year since the revelations that shook the technology industry, since the congressional hearings, since the brief moment when it seemed like everything might change.
 
@@ -65,7 +65,7 @@ She parked her car and went inside.
 
 
 
-# Scene 02
+# ~~~
 
 The waiting room was already full when Elena took over from the day shift nurse. Twenty-three patients on the list, which was high for a Tuesday evening, higher than it should have been for a clinic that was supposed to handle routine care rather than emergencies. She scanned the names and chief complaints: chest tightness, difficulty sleeping, anxiety, headache, chest tightness again, fatigue, abdominal pain that sounded stress-related.
 
@@ -143,7 +143,7 @@ The anniversary played out on the television in the waiting room, visible throug
 
 
 
-# Scene 03
+# ~~~
 
 The ambulance call came at ten-fifteen. Overdose, female, thirty-two, found by her husband in their bathroom. The paramedics were bringing her in rather than taking her to the emergency room because the ER was overwhelmed and the community health center had capacity - the kind of decision that reflected how strained the entire system had become.
 
@@ -227,7 +227,7 @@ The work continued.
 
 
 
-# Scene 04
+# ~~~
 
 Daniel's text arrived at midnight: Can't sleep. Are you okay?
 
@@ -302,7 +302,7 @@ The anniversary clock on the wall clicked past one a.m. Five more hours until da
 
 
 
-# Scene 05
+# ~~~
 
 Dawn.
 

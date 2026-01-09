@@ -1,6 +1,6 @@
 The waiting room filled.
 
-They came with stories. A man whose bank had locked him out of his account, the app showing only an error message, the automated phone line playing silence. A woman whose car had stalled at an intersection when the onboard computer crashed, who had walked the last mile to the clinic because she could not get the vehicle to restart. A family of four who had been turned away from the urgent care across town, the whole building evacuated when their systems failed and they could no longer monitor patients on life support.
+They came with stories, and the stories kept growing. A man whose bank had locked him out of his account, the app showing only an error message, the automated phone line playing silence. A woman whose car had stalled at an intersection when the onboard computer crashed, who had walked the last mile to the clinic because she could not get the vehicle to restart. A family of four who had been turned away from the urgent care across town, the whole building evacuated when their systems failed and they could no longer monitor patients on life support.
 
 Elena moved from room to room, taking vitals by hand, writing everything on paper forms, doing the work of medicine the way it had been done for a century before computers transformed it into something faster and more fragile. Each patient brought another piece of the picture. Each story widened the scope.
 
@@ -14,7 +14,7 @@ Nothing.
 
 She tried to text.
 
-SENDING. The word sat there, patient and useless, refusing to change to DELIVERED.
+SENDING. The word sat there on the screen, patient and useless, refusing to change to DELIVERED, a small accusation.
 
 She tried to call home, to check on Abuela and the children.
 
@@ -25,7 +25,7 @@ Three hours away, Daniel was at a construction site in Mesa, building something 
 
 ---
 
-Rosario had set up a kind of triage system at the front desk, sorting patients by urgency based on their descriptions: chest pain goes first, difficulty breathing goes first, everything else waits. It was the kind of improvised protocol they had drilled for during disaster preparedness exercises, never quite believing they would need it. Now Rosario implemented it with the calm efficiency of someone who had been waiting her whole life for exactly this moment.
+Rosario had set up a kind of triage system at the front desk, sorting patients by urgency based on their descriptions: chest pain goes first, difficulty breathing goes first, everything else waits. It was the kind of improvised protocol they had drilled for during disaster preparedness exercises, never quite believing they would need it, the drills always feeling slightly absurd, slightly theatrical. Now Rosario implemented it with the calm efficiency of someone who had been waiting her whole life for exactly this moment, her whole body focused and still.
 
 "Hospital is completely unreachable," she told Elena during a brief gap between patients. "Landline, cell, nothing. Carla from scheduling lives near Banner, she drove over. Says there's a line out the door, people being triaged in the parking lot."
 
@@ -33,7 +33,7 @@ Rosario had set up a kind of triage system at the front desk, sorting patients b
 
 "Dispatch is down. 911 routes through a system that isn't working. People are driving themselves in. Or they're not coming at all."
 
-Elena thought about her children at school, about Abuela alone in the house with the insulin pump that depended on wireless connectivity to transmit its data. The pump itself would keep working, she told herself. It had its own battery, its own programming. It did not need the network to function. But the alerts, the data that usually streamed to Elena's phone so she could monitor from anywhere, all of that would be gone.
+Elena thought about her children at school, about Abuela alone in the house with the insulin pump that depended on wireless connectivity to transmit its data to Elena's phone, the invisible thread that let her know her mother-in-law was safe from three miles away. The pump itself would keep working, she told herself. It had its own battery, its own programming. It did not need the network to function. But the alerts, the data that usually streamed to Elena's phone so she could monitor from anywhere, all of that would be gone.
 
 "I need to check on my family," she said to Rosario.
 
@@ -44,7 +44,7 @@ But Elena did not go. There were patients in the exam rooms, patients in the wai
 
 ---
 
-She called home again. The silence was worse than a busy signal, worse than an error message. Silence meant the call had gone somewhere and found nothing. Silence meant the systems that were supposed to route her voice from this phone to that one had failed at some point along the chain, and there was no way to know where or why.
+She called home again. The silence on the line was worse than a busy signal, worse than an error message. Silence meant the call had gone somewhere and found nothing. Silence meant the systems that were supposed to route her voice from this phone to that one had failed at some point along the invisible chain, and there was no way to know where or why or whether her voice had traveled ten feet or ten miles before vanishing into the void.
 
 Sofia would be at school. Mateo would be at school. The schools would take care of them if something was wrong. That was what schools did. That was the whole point of the systems they had built, the institutions they had created, the elaborate web of responsibilities that let parents go to work knowing their children were safe.
 
@@ -54,12 +54,12 @@ Elena made herself stop. This was catastrophizing. This was the kind of spiralin
 
 She picked up the next chart. Paper chart. Handwritten. A man with chest tightness and shortness of breath. She called his name and watched him rise from his chair with difficulty, his face gray, his breathing labored.
 
-This was real. This was in front of her. This she could do something about.
+This was real. This was in front of her. This she could do something about. This was medicine.
 
 
 ---
 
-The man's name was Robert Okonkwo, no relation to Dr. Okonkwo, and he was sixty-one years old with a history of cardiac problems that he could only partially remember. He had been having chest pains since the night before, had planned to go to the hospital this morning, but when he arrived at the emergency room the line had stretched out the door and down the block and no one seemed to know what was happening.
+The man's name was Robert Okonkwo, no relation to Dr. Okonkwo, and he was sixty-one years old with a history of cardiac problems that he could only partially remember, the details scattered across medical records he had never thought to memorize. He had been having chest pains since the night before, had planned to go to the hospital this morning, but when he arrived at the emergency room the line had stretched out the door and down the block and no one seemed to know what was happening.
 
 "They said it might be hours," he told Elena, his voice wheezing slightly. "Someone told me this clinic was closer. So I came here."
 
@@ -73,7 +73,7 @@ Elena took his vitals: blood pressure 168 over 102, pulse 94 and irregular, oxyg
 
 "I can't drive. My car won't start. The computer thing."
 
-Elena looked at him, at his gray face and labored breathing, and felt the full weight of the situation settle on her. She could not call an ambulance. She could not reach the hospital. She had a patient who might be dying in front of her and no way to get him the care he needed.
+Elena looked at him, at his gray face and labored breathing, and felt the full weight of the morning settle on her shoulders like a physical thing. She could not call an ambulance. She could not reach the hospital. She had a patient who might be dying in front of her and no way to get him the care he needed, no way to summon the apparatus that was supposed to exist for exactly this moment.
 
 "Wait here," she said. "I'll be right back."
 

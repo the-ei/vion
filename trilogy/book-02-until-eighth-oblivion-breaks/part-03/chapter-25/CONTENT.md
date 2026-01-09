@@ -1,4 +1,4 @@
-# Scene 01
+# ~~~
 
 The warehouse was on the edge of Northeast Minneapolis, a brick building that had once manufactured something—machines, maybe, or furniture—and now sat mostly empty except for the occasional artist collective or underground event. Tonight it held about forty people in folding chairs, facing a makeshift stage made of shipping pallets, drinking coffee from a large urn that someone had brought.
 
@@ -134,7 +134,7 @@ Yusuf walked home through the warm night, feeling something new taking shape ins
 
 
 
-# Scene 02
+# ~~~
 
 The letter had arrived three days ago, but Amina had waited until dinner to share the news. Their mother had made injera and a vegetable stew, the smell of berbere filling the apartment, the same meal she made every Friday when they were growing up in St. Paul and money was tighter than it was now.
 
@@ -288,7 +288,7 @@ Yusuf went to his own room, lay down without sleeping, and waited for the world 
 
 
 
-# Scene 03
+# ~~~
 
 The call came at 2:47 AM. Yusuf was sleeping, or trying to sleep, when his phone screamed into the darkness. Amina's voice was panicked: "It's Hooyo. She collapsed. We're calling an ambulance."
 

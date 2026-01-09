@@ -1,4 +1,4 @@
-# Scene 01
+# ~~~
 
 The generator coughed twice and died.
 
@@ -93,7 +93,7 @@ Now they did. And something was forming from that dependence.
 
 
 
-# Scene 02
+# ~~~
 
 The soup was bean and vegetable, seasoned with something Mrs. Williams called "emergency spices" - the collection of half-used bottles she had cleaned out of her cabinet when the crisis began, reasoning that if food was going to be uncertain, it might as well taste good.
 
@@ -205,7 +205,7 @@ Both were true.
 
 
 
-# Scene 03
+# ~~~
 
 The network had rules. Unwritten rules, evolved over twelve days of necessity, but rules nonetheless.
 
@@ -323,7 +323,7 @@ It wasn't enough. But it was something. And something was more than she had expe
 
 
 
-# Scene 04
+# ~~~
 
 Near midnight, someone brought out a radio.
 
@@ -428,7 +428,7 @@ She didn't know if it was true. But she wanted it to be.
 
 
 
-# Scene 05
+# ~~~
 
 Elena walked to the edge of the parking lot, away from the dying fire. The night was cool, the stars visible in a way they never were when the city lights were on. She stood alone for a moment, her arms crossed, looking at nothing in particular.
 

@@ -1,4 +1,4 @@
-# Scene 01
+# ~~~
 
 Ananya woke early, as she had been waking early since the conversation with Priya. The apartment was quiet, San Francisco still mostly sleeping, the summer light just beginning to reach through the windows. She lay in bed for a moment and let herself feel the strange new weight that was not quite burden and not quite relief.
 
@@ -62,7 +62,7 @@ She began to prepare for the day.
 
 
 
-# Scene 02
+# ~~~
 
 Elena's living room had been rearranged. The couch pushed against the wall, folding chairs borrowed from the church down the street, a whiteboard she had found at a garage sale leaning against the bookshelf. The room that usually held her family's ordinary life now held seven nursing students and young nurses, sitting in a semicircle, watching her with the mixture of exhaustion and hope that marked everyone in their profession.
 
@@ -148,7 +148,7 @@ She closed her eyes and slept, finally, the exhaustion claiming her. Tomorrow wa
 
 
 
-# Scene 03
+# ~~~
 
 The EP had been live for three days, and Yusuf still had not listened to it on the streaming platform.
 
@@ -240,7 +240,7 @@ That was enough. For now, that was enough.
 
 
 
-# Scene 04
+# ~~~
 
 Kevin Zhou sat in his apartment with his phone in his hand, the contact information for his parents glowing on the screen. He had been staring at it for twenty minutes.
 
@@ -311,7 +311,7 @@ Tomorrow there would be more work. The technology needed refinement, the ethics 
 
 
 
-# Scene 05
+# ~~~
 
 The news arrived in the late afternoon.
 

@@ -1,6 +1,6 @@
 She went to her closet.
 
-The simple act of selecting clothes became freighted with meaning, each choice a statement about who she intended to be when she walked into Delphine's house. Professional or casual. Armored or vulnerable. The version of herself that had survived eleven years at Prometheus, or someone she had not yet fully become.
+The simple act of selecting clothes became freighted with meaning, each choice a declaration about who she intended to be when she walked into Delphine's house. Professional or casual. Armored or vulnerable. The version of herself that had survived eleven years at Prometheus, or someone she had not yet fully become.
 
 She chose a blouse the color of slate, neither bright nor dull. Dark pants that were comfortable enough for the drive to Los Angeles. Shoes she could walk in, practical and unassuming. The uniform of a woman who had stopped performing and was not yet sure what came next.
 

@@ -1,4 +1,4 @@
-# Scene 01
+# ~~~
 
 The numbers climbed.
 
@@ -86,7 +86,7 @@ Somewhere in the building, people were celebrating. She could hear distant voice
 
 
 
-# Scene 02
+# ~~~
 
 Cameron Estes appeared in her doorway like a manifestation of everything she dreaded. He was Head of Growth, a title that had always struck Delphine as slightly absurd, as if growth were a department rather than an outcome. But Cameron believed in his title. He believed in metrics and engagement and the inexorable expansion of the company's reach. Right now, he was beaming.
 
@@ -137,7 +137,7 @@ She hit send before she could talk herself out of it.
 
 
 
-# Scene 03
+# ~~~
 
 Jerome's phone buzzed just as he was finishing his afternoon coffee, the cold dregs of a pot he had made hours earlier. The message was from a number his phone recognized but hadn't displayed in months: Delphine Okafor-Barnes from Nexus Digital. "Jerome - Delphine from Nexus. I think we need to talk."
 
@@ -255,7 +255,7 @@ He saved his notes and began planning his next moves.
 
 
 
-# Scene 04
+# ~~~
 
 Delphine came home late. The LA traffic had been brutal, the freeway a parking lot of red lights stretching toward a sunset that she barely registered. By the time she pulled into the driveway, the sky had darkened to that peculiar purple that Los Angeles offered as consolation for its other failings.
 

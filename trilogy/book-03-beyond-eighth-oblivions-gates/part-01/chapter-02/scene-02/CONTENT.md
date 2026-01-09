@@ -27,7 +27,7 @@ Jerome had answered this question a hundred times, had a polished version ready 
 
 Timothy looked slightly startled, as if guests weren't supposed to turn the interview's lens back on the interviewer. "I suppose I'm asking what it felt like. To uncover something that big."
 
-"It felt like work. It felt like reading documents at three in the morning and making phone calls no one wanted to answer. It felt like watching my sources get nervous and knowing that their nervousness meant I was close to something real." Jerome shook his head. "The mythology of investigative journalism makes it sound dramatic. Heroes exposing villains. The truth setting people free. But the actual work is tedious and exhausting and uncertain, and most of the time you don't know if what you're doing matters at all."
+"It felt like work. It felt like reading documents at three in the morning, my eyes burning, cross-referencing dates and figures and making phone calls no one wanted to answer. It felt like watching my sources get nervous and knowing that their nervousness meant I was close to something real." Jerome shook his head. "The mythology of investigative journalism makes it sound dramatic. Heroes exposing villains. The truth setting people free. But the actual work is tedious and exhausting and uncertain, and most of the time you don't know if what you're doing matters at all."
 
 "But it did matter. Your coverage changed the conversation."
 

@@ -1,6 +1,6 @@
-# Scene 01
+# ~~~
 
-The drive from his house in Roland Park to Grace's place in Northwood took twenty-three minutes on a good day, and Jerome made it every morning regardless of what else demanded his time. Traffic moved differently now than it had five years ago - the autonomous vehicles flowing in algorithmic patterns that were more efficient but somehow less human, as if the city itself had become a machine optimizing throughput without understanding what the throughput was for.
+The drive from his house in Roland Park to Grace's place in Northwood took twenty-three minutes on a good day, and Jerome made it every morning regardless of what else demanded his time. Traffic moved differently now than it had five years ago - the autonomous vehicles flowing in algorithmic patterns that were more efficient but somehow less human, as if the city itself had become a machine optimizing throughput without understanding what the throughput was for, what it meant to move bodies through space toward places they needed to be.
 
 He pulled into Grace's driveway at 7:15, the same time he always arrived. Her house was a modest colonial, white trim needing paint, the kind of place their parents would have saved for years to afford and considered a triumph. Now Grace owned it outright, had moved their mother here three years ago when the dementia made living alone impossible, had converted the dining room into a bedroom with hospital equipment and a view of the backyard where nothing grew that required attention.
 
@@ -52,7 +52,7 @@ It wasn't Saturday. Jerome didn't correct her. Instead he went to the kitchen an
 
 "He had to leave early. I made you this instead."
 
-She accepted the substitution without protest, eating slowly, carefully, with the concentration of someone for whom the act of lifting a spoon had become work. Jerome watched her and thought about the person she had been - Evelyn Washington, retired schoolteacher, church deacon, the woman who had raised him and Grace through the years when Black families in Baltimore did everything twice as well to get half as far. She had taught him to read before kindergarten. She had sat with him through homework he didn't want to do, through college applications he didn't think he deserved, through the early years of his career when rejection letters outnumbered assignments and he considered giving up.
+She accepted the substitution without protest, eating slowly, carefully, with the concentration of someone for whom the act of lifting a spoon had become work. Jerome watched her and thought about the person she had been - Evelyn Washington, retired schoolteacher, church deacon, the woman who had raised him and Grace through the years when Black families in Baltimore did everything twice as well to get half as far. She had taught him to read before kindergarten, sitting with him at the kitchen table in the apartment they'd shared in West Baltimore, sounding out words from books she'd bought at yard sales and thrift stores. She had sat with him through homework he didn't want to do, through college applications he didn't think he deserved, through the early years of his career when rejection letters outnumbered assignments and he considered giving up.
 
 Now she didn't know his name. Now she lived in a world where his father was still alive and Saturdays meant pancakes and the nice young man who came to visit was kind but unfamiliar.
 
@@ -162,7 +162,7 @@ She came around the island and kissed him, a brief touch that carried twenty-fiv
 
 
 
-# Scene 02
+# ~~~
 
 The home studio was in the basement - a space Jerome had converted five years ago when the pandemic before the crisis had made remote work mandatory and staying productive had required physical separation from the domestic rhythms upstairs. Soundproofing on the walls, a professional microphone setup, a background of bookshelves carefully arranged to suggest scholarship without ostentation. The apparatus of serious conversation.
 
@@ -193,7 +193,7 @@ Jerome had answered this question a hundred times, had a polished version ready 
 
 Timothy looked slightly startled, as if guests weren't supposed to turn the interview's lens back on the interviewer. "I suppose I'm asking what it felt like. To uncover something that big."
 
-"It felt like work. It felt like reading documents at three in the morning and making phone calls no one wanted to answer. It felt like watching my sources get nervous and knowing that their nervousness meant I was close to something real." Jerome shook his head. "The mythology of investigative journalism makes it sound dramatic. Heroes exposing villains. The truth setting people free. But the actual work is tedious and exhausting and uncertain, and most of the time you don't know if what you're doing matters at all."
+"It felt like work. It felt like reading documents at three in the morning, my eyes burning, cross-referencing dates and figures and making phone calls no one wanted to answer. It felt like watching my sources get nervous and knowing that their nervousness meant I was close to something real." Jerome shook his head. "The mythology of investigative journalism makes it sound dramatic. Heroes exposing villains. The truth setting people free. But the actual work is tedious and exhausting and uncertain, and most of the time you don't know if what you're doing matters at all."
 
 "But it did matter. Your coverage changed the conversation."
 
@@ -342,9 +342,9 @@ Some things couldn't be written. They had to be lived through first.
 
 
 
-# Scene 03
+# ~~~
 
-DeShawn arrived at six-thirty, twenty minutes late, with the particular energy of someone who was always moving toward the next thing. He came through the front door like a disruption - tall, handsome, carrying himself with a confidence that Jerome recognized as both inheritance and difference. His son, but not his son. A person shaped by forces Jerome had documented but never fully understood.
+DeShawn arrived at six-thirty, twenty minutes late, with the particular energy of someone who was always moving toward the next thing. He came through the front door like a disruption - tall, handsome, carrying himself with a confidence that Jerome recognized as both inheritance and something else entirely, something that belonged only to DeShawn and his generation. His son, but not his son. A person shaped by forces Jerome had documented but never fully understood.
 
 "Sorry I'm late. Investor call ran over."
 

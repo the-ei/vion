@@ -1,4 +1,4 @@
-# Scene 01
+# ~~~
 
 The piece went live at 8:00 AM Eastern.
 
@@ -131,7 +131,7 @@ What he needed, Jerome realized, was to stop measuring his work in numbers. To f
 
 
 
-# Scene 02
+# ~~~
 
 The kitchen was warm with the smell of something simmering - chicken and vegetables, the kind of simple dinner Denise made when she was too tired to be ambitious but still wanted to feed her family properly. Jerome stood at the counter chopping onions while she stirred the pot, a choreography they'd developed over years of sharing this space.
 
@@ -282,7 +282,7 @@ Denise squeezed his hand. "That's what I'm here for."
 
 
 
-# Scene 03
+# ~~~
 
 Saturday afternoon. Denise had gone to visit her sister in Catonsville, leaving Jerome and DeShawn alone in the house. This happened occasionally - the two of them in parallel orbits, aware of each other but not quite intersecting. Jerome in his office, DeShawn in his room. Doors open but conversations minimal.
 
@@ -448,7 +448,7 @@ Maybe that was how the two of them could work together.
 
 
 
-# Scene 04
+# ~~~
 
 Evening had settled over the house when Jerome returned to his office. Denise was home from her sister's, and dinner had been simple - leftovers, conversation about her visit, the ordinary rhythm of Saturday evening. DeShawn had eaten with them, contributing more to the conversation than he had in months. Something had shifted.
 

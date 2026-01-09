@@ -1,4 +1,4 @@
-# Scene 01
+# ~~~
 
 The notification came at seven in the morning, the familiar chime that Yusuf had not heard in six days. He looked at his phone and saw the app icon, the little delivery bag with its cheerful green checkmark, and beneath it the message: READY TO EARN? HIGH DEMAND IN YOUR AREA. The algorithm did not know what had happened. The algorithm did not know anything. It simply calculated that people were requesting deliveries and drivers were available and the connection should be made. This was, Yusuf thought as he stared at the screen, the purest expression of capitalism he had ever encountered: the absolute refusal to acknowledge that anything had changed.
 
@@ -55,7 +55,7 @@ The snow was falling harder now. Minneapolis was disappearing into white, the da
 
 
 
-# Scene 02
+# ~~~
 
 The apartment smelled of cinnamon and cardamom, which meant his mother was baking, which meant she was worried. Yusuf hung his jacket by the door and followed the scent to the kitchen, where Fatima stood at the counter rolling dough, her movements slower than they used to be but still precise, still certain. She did not look up when he entered, but he saw the set of her shoulders, the way she held herself as if braced against something, and he knew that she knew he was there.
 
@@ -173,7 +173,7 @@ The soup tasted like home.
 
 
 
-# Scene 03
+# ~~~
 
 The community center smelled like old coffee and damp carpet, the particular institutional smell of places where people gather because they have nowhere else to go. Yusuf arrived late, slipping in through the side door, finding a seat in the back row of folding chairs. The room was fuller than he had expected: maybe forty people, ages ranging from teenagers to elders, faces he recognized from the neighborhood mixed with faces he did not know at all.
 
@@ -266,7 +266,7 @@ He walked home through the snow, the cold air clearing his head, the meeting's e
 
 
 
-# Scene 04
+# ~~~
 
 His bedroom was cold, the radiator hissing but not heating, a familiar complaint that the landlord would not address. Yusuf sat on his bed and finally, for the first time since the crisis ended, opened his text messages and scrolled to Kevin Zhou's name.
 
@@ -347,7 +347,7 @@ But maybe soon.
 
 
 
-# Scene 05
+# ~~~
 
 Two in the morning and Yusuf could not sleep. He had tried for hours, the day's events cycling through his mind, the meeting and the messages and his mother's worried eyes, all of it churning without resolution. Finally he gave up pretending and sat up in the darkness and reached for the keyboard that had been gathering dust in the corner of his room since before the crisis began.
 

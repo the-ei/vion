@@ -1,4 +1,4 @@
-# Scene 01
+# ~~~
 
 The conference room at Nexus Digital occupied a corner of the sixteenth floor, glass walls on two sides offering views of Los Angeles that nobody in the meeting was looking at. Delphine Okafor-Barnes sat three seats from the head of the table, her laptop open, her notes organized, her face arranged in the expression of engaged neutrality she had perfected over twelve years in media production. Around her, her colleagues occupied similar postures: bodies present, devices active, attention fragmented across the room and the screens and the invisible networks that connected them to everything else.
 
@@ -87,7 +87,7 @@ Time to see what was real.
 
 
 
-# Scene 02
+# ~~~
 
 Delphine closed her office door and pulled up the video on her largest monitor. She had professional analysis tools at her disposal: sentiment tracking software, engagement prediction algorithms, narrative mapping applications that could dissect content into its component persuasion elements. These were the instruments of her craft, honed through years of creating content designed to move people. Now she would use them to understand content that had moved her.
 
@@ -153,7 +153,7 @@ She saved her analysis document, closed her laptop, and checked the time. Five-t
 
 
 
-# Scene 03
+# ~~~
 
 Theo's bedtime routine had evolved over four years into an elaborate ritual: bath, pajamas, three books (exactly three, never two, never four), a glass of water, one stuffed animal rearrangement, and a negotiation about whether the nightlight stayed on or off. Delphine had done this routine hundreds of times. Tonight, she held onto every moment of it.
 
@@ -243,7 +243,7 @@ They sat together in the summer darkness, holding hands, not speaking. Somewhere
 
 
 
-# Scene 04
+# ~~~
 
 The Nexus offices at midnight were a different country. The daytime bustle of content production gave way to empty workstations, screens in standby, the hum of servers and air conditioning the only sound. Security had waved Delphine through without comment—late nights were common enough in the attention economy that her presence raised no questions. She rode the elevator alone, watching her reflection fragment in the polished doors, and wondered what she was doing here.
 

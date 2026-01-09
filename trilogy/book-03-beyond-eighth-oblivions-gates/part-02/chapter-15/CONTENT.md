@@ -1,4 +1,4 @@
-# Scene 01
+# ~~~
 
 Kevin Zhou walked into the coffee shop like he was entering hostile territory. Which, Yusuf supposed, he was. This neighborhood had gentrified faster than the people who made it interesting could afford to stay, and Kevin - with his obvious tech money clothes that tried hard not to look expensive, his confident stance that came from never having to wonder if he belonged - was exactly the kind of person who had displaced them.
 
@@ -144,7 +144,7 @@ He had one week to decide.
 
 
 
-# Scene 02
+# ~~~
 
 Amina was washing dishes when Yusuf finally told her. Their mother had retreated to the bedroom with her evening tea and her phone, scrolling through news from Mogadishu that she never talked about but never stopped reading. The apartment was small enough that they could hear the water running in the bathroom, the neighbor's television through the wall, the particular settling sounds of a building that had been tired since before they moved in.
 
@@ -336,7 +336,7 @@ It was the thing she always said. Tomorrow will be different. Sometimes it was a
 
 
 
-# Scene 03
+# ~~~
 
 The studio smelled like dust and old cables and whatever the previous band had eaten for lunch. Yusuf set up in the live room while Marcus - the owner, a man who had aged like his equipment, both still functional if showing wear - adjusted levels in the control room behind the glass. The headphones hung around Yusuf's neck, not yet needed. He wasn't sure what he was here to record.
 

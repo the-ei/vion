@@ -1,4 +1,4 @@
-# Scene 01
+# ~~~
 
 The warehouse was on the north side of Minneapolis, in a neighborhood that had once been industrial and was now the kind of place where artists could afford rent. Yusuf parked his borrowed car across the street and sat for a moment, looking at the building. Red brick, three stories, windows that had been replaced with modern glass. A sign on the door said Threshold Audio in modest lettering, the kind of understatement that cost money.
 
@@ -82,7 +82,7 @@ Through the window, Terrell gave a thumbs up. The levels were good. The session 
 
 
 
-# Scene 02
+# ~~~
 
 The sound check took longer than Yusuf expected. Terrell was meticulous, adjusting the microphone position by centimeters, asking Yusuf to sing the same phrase again and again while he listened for something Yusuf couldn't identify. The phrase was from one of his unfinished songs, just four words - "the dawn keeps breaking" - but by the twentieth repetition it had become meaningless, just sounds moving through air.
 
@@ -176,7 +176,7 @@ The sound check was over. The recording was about to begin.
 
 
 
-# Scene 03
+# ~~~
 
 The red light came on and everything changed.
 
@@ -289,7 +289,7 @@ The door buzzed. Amina was coming. The session wasn't over. And for the first ti
 
 
 
-# Scene 04
+# ~~~
 
 Amina stood in the control room like someone visiting a foreign country. She worked in finance, in an office with fluorescent lights and cubicles, a world as far from this one as Yusuf could imagine. But she looked around the studio with the same curiosity she had brought to everything since childhood, the willingness to be surprised that had survived their difficult upbringing.
 
@@ -394,7 +394,7 @@ Then she was gone, and Yusuf was alone with the music again, ready to continue.
 
 
 
-# Scene 05
+# ~~~
 
 The night changed everything.
 

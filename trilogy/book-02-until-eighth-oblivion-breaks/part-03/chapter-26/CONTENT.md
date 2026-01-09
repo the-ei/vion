@@ -1,4 +1,4 @@
-# Scene 01
+# ~~~
 
 The story went live at 6 PM Eastern.
 
@@ -124,7 +124,7 @@ Write.
 
 
 
-# Scene 02
+# ~~~
 
 Ananya watched.
 
@@ -270,7 +270,7 @@ But she was always listening for it.
 
 
 
-# Scene 03
+# ~~~
 
 The essay went live at noon Eastern, six hours after Jerome's story.
 
@@ -414,7 +414,7 @@ That was worth something too.
 
 
 
-# Scene 04
+# ~~~
 
 Yusuf heard about the story the way everyone heard about things now—fragments on his phone, overheard conversations, the ambient noise of information that was everywhere and nowhere at once.
 

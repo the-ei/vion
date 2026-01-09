@@ -1,4 +1,4 @@
-# Scene 01
+# ~~~
 
 The community center had been a recreation hall before the crisis - basketball court, afterschool programs, weekend bingo for the elderly. Now it was the information hub of West Baltimore, the place where news aggregated from sources that Jerome Washington would never have considered journalism before two weeks ago.
 
@@ -71,7 +71,7 @@ She walked away, back to her clipboard and her bulletins. Jerome looked at his l
 
 
 
-# Scene 02
+# ~~~
 
 The report from Europe came through at 11:23 AM, relayed through a chain of ham operators across the Atlantic. Jerome wrote down the timestamp; he had become precise about timestamps, as if the exact moment when information arrived might somehow prove significant.
 
@@ -182,7 +182,7 @@ But he kept writing anyway.
 
 
 
-# Scene 03
+# ~~~
 
 The name emerged just after two o'clock, in a report from someone who had been in San Francisco when the crisis began.
 
@@ -296,7 +296,7 @@ He could not write. He could not even think clearly. All he could do was sit aga
 
 
 
-# Scene 04
+# ~~~
 
 He left the hub around five. He told Ruth he was going home. He started walking in what he believed was the right direction.
 
@@ -381,7 +381,7 @@ He sat in the dark and waited for something he could not name.
 
 
 
-# Scene 05
+# ~~~
 
 He did not hear her approach. He did not see the flashlight beam sweeping the street, did not notice the footsteps that paused and then quickened. He was somewhere deep inside himself, lost in the loop, when her hands touched his face.
 

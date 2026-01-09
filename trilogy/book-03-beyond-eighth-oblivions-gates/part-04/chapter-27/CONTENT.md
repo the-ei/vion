@@ -1,6 +1,6 @@
-# Scene 01
+# ~~~
 
-She woke before the light, as she had for months now, her body refusing the permission of sleep past four in the morning. The ceiling above her bed was gray in the darkness, and she lay still for a moment, watching the faint glow from the street below create shadows that shifted as cars passed, rare at this hour, their headlights sweeping across the walls of her bedroom like searchlights looking for something that was not there.
+She woke before the light, as she had for months now, her body refusing the permission of sleep past four in the morning. The ceiling above her bed was gray in the darkness, and she lay still, watching the faint glow from the street below create shadows that shifted as cars passed, rare at this hour, their headlights sweeping across the walls of her bedroom like searchlights hunting for something that was not there.
 
 Ananya Ramaswamy. Forty-seven years old. Chief Ethics Officer at Prometheus Systems for eleven years. These facts arranged themselves in her mind as they did every morning, a kind of inventory she performed without willing it, as though her unconscious needed to confirm that she was still the person she had been when she fell asleep.
 
@@ -11,18 +11,18 @@ On her nightstand, her phone glowed faintly. Delphine's message. She had read it
 
 ---
 
-She did not reach for the phone. Not yet. There was a ritual to mornings like this, a sequence of small actions that she had developed over years, and she would not break it even now, even with the message waiting, its words already burned into her memory.
+She did not reach for the phone. Not yet. There was a ritual to mornings like this, a sequence of small actions she had developed over years, and she would not break it even now, even with the message waiting, its words already seared into her memory.
 
 The light was beginning to change. She could see it through the gap in the curtains, the darkness softening almost imperceptibly toward gray, toward the blue-gray that preceded dawn in San Francisco, when the fog that had rolled in overnight began to glow faintly with the promise of sun that might or might not arrive.
 
 She sat up slowly, feeling the familiar complaint of her lower back, the stiffness in her neck that had become her morning companion. The body at forty-seven was a negotiation, she had learned, a daily conversation between what she wanted to do and what her joints and muscles would permit. She swung her legs over the side of the bed and placed her feet on the hardwood floor, cool even in this mild winter, and she sat there for a moment, hands on her knees, breathing.
 
-The apartment was hers, had been hers for six years now, since the divorce was finalized and she had taken her share of their accumulated life and found this place, smaller than the house in Palo Alto but adequate, even elegant in its proportions. Two bedrooms, one of which she used as an office, a living room with a view of the city, a kitchen where she prepared meals for one with the precision of someone who had learned to find satisfaction in solitude.
+The apartment was hers, had been hers for six years now, since the divorce was finalized and she had taken her share of their accumulated life and found this place, smaller than the house in Palo Alto but adequate, even elegant in its proportions. Two bedrooms, one of which she used as an office, a living room with a view of the city, a kitchen where she prepared meals for one with the precision of someone who had learned to extract satisfaction from solitude.
 
 
 ---
 
-She stood and walked to the bathroom, not turning on the light, navigating by memory and the faint glow from the window. The cold water on her face was a shock she welcomed, a small violence that pushed the residue of sleep away. She looked at herself in the mirror, her face emerging from the darkness as her eyes adjusted, and she saw the woman she had become: gray threading through black hair she no longer bothered to dye, lines around her eyes and mouth that she had stopped noticing years ago, the particular set of her jaw that Priya had inherited, along with her impatience and her tendency to speak before thinking.
+She stood and walked to the bathroom, not turning on the light, navigating by memory and the faint glow from the window. The cold water on her face was a shock she welcomed, a small violence that scoured the residue of sleep away. She looked at herself in the mirror, her face emerging from the darkness as her eyes adjusted, and she saw the woman she had become: gray threading through black hair she no longer bothered to dye, lines around her eyes and mouth that she had stopped noticing years ago, the particular set of her jaw that Priya had inherited, along with her impatience and her tendency to speak before thinking.
 
 In the kitchen, she began the ritual of coffee. Beans from a roaster in the Mission, ground fresh each morning, water filtered and heated to exactly ninety-six degrees. She had learned this precision from a colleague at Prometheus who had since left the company, one of many who had departed over the years, their exits marked by farewell emails that said nothing about why they were really leaving. The coffee maker hummed, and she stood watching it, her arms crossed over her chest, waiting.
 
@@ -31,7 +31,7 @@ The apartment was full of objects that had accumulated meaning through years of 
 
 ---
 
-She poured the coffee into a mug that bore the logo of a company that no longer existed, acquired by Prometheus three years ago and dissolved into its larger apparatus. The mug had been a gift from the CEO of that company, a woman named Sarah who had believed Ananya's promises about ethical integration, about how the acquisition would preserve the values they had built. Sarah had left six months after the deal closed. The mug remained.
+She poured the coffee into a mug bearing the logo of a company that no longer existed, acquired by Prometheus three years ago and dissolved into its larger apparatus. The mug had been a gift from the CEO of that company, a woman named Sarah who had believed Ananya's promises about ethical integration, about how the acquisition would preserve the values they had built. Sarah had left six months after the deal closed. The mug remained.
 
 Ananya carried her coffee to the window and looked out at San Francisco waking beneath her. The city had changed so much in the years she had lived here, the skyline bristling with new towers, the streets below transformed by technologies that Prometheus had helped create. She could trace the company's influence in the delivery drones that crossed the sky at dawn, in the autonomous vehicles that had begun to appear on the roads, in the subtle ways that people moved through public space, their attention divided between the physical world and the digital layer that Prometheus maintained.
 
@@ -42,7 +42,7 @@ The coffee was too hot. She sipped it anyway, feeling the slight burn on her ton
 
 ---
 
-On the bookshelf near the window, a row of awards she had stopped displaying but could not bring herself to discard. Plaques from ethics organizations, a crystal statue from a technology conference, certificates in frames that had accumulated dust until she moved them here, to this shelf where they faced the wall, their inscriptions hidden. She had earned each one by doing work that she had believed in, or told herself she believed in, or told herself that believing in was less important than the work itself.
+On the bookshelf near the window, a row of awards she had stopped displaying but could not bring herself to discard. Plaques from ethics organizations, a crystal obelisk from a technology conference, certificates in frames that had accumulated dust until she moved them here, to this shelf where they faced the wall, their inscriptions hidden. She had earned each one by doing work that she had believed in, or told herself she believed in, or told herself that believing in was less important than the work itself.
 
 There was a book on the coffee table, left open from where she had been reading last night before Delphine's message arrived. A novel about a woman who discovers that her entire life has been a performance, that she has been observed without knowing it, her every action recorded and analyzed. Ananya had been reading it as research, or so she told herself, but the pages had begun to feel less like fiction and more like diagnosis.
 
@@ -53,7 +53,7 @@ She thought about the day ahead. The meeting with Delphine, if she decided to go
 
 ---
 
-She moved through the apartment, touching things. The habit had developed in recent months, a need to confirm the reality of objects, to feel their weight and texture against her fingers. The back of a chair, smooth wood worn by years of contact. The edge of her desk, where a stack of papers waited, reports she was supposed to review, analyses she was supposed to approve. The frame of a photograph, Priya at eighteen, graduating from high school, her smile uncertain in a way that Ananya had not understood then and understood too well now.
+She moved through the apartment, touching things. The habit had developed in recent months, a need to confirm the reality of objects, to feel their weight and texture beneath her fingers. The back of a chair, smooth wood worn by years of contact. The edge of her desk, where a stack of papers waited, reports she was supposed to review, analyses she was supposed to approve. The frame of a photograph, Priya at eighteen, graduating from high school, her smile uncertain in a way that Ananya had not understood then and understood too well now.
 
 In the years since that photograph was taken, Priya had become a stranger. Not hostile, not distant in the way that implied anger or rejection, but careful, deliberate, as though she had learned to navigate around certain subjects the way one learns to walk around furniture in the dark. They spoke every few weeks, conversations that covered the surface of their lives without ever breaking through to what lay beneath. Priya's work in climate policy, Ananya's work at Prometheus, the weather, the news, the small currencies of family exchange.
 
@@ -64,7 +64,7 @@ The sun was rising now, light flooding the apartment, transforming the shadows i
 
 ---
 
-The morning felt different from other mornings. She could not say why, could not point to any specific change in the light or the silence or the arrangement of objects, but something had shifted, some quality of the air or of her own perception that made everything seem slightly heightened, slightly more present than usual. It was the message, she knew. Delphine's words sitting in her phone like a weight that distorted the space around it.
+The morning felt different from other mornings. She could not say why, could not identify any specific change in the light or the silence or the arrangement of objects, but something had shifted, some quality of the air or of her own perception that made everything seem slightly heightened, slightly more present than usual. It was the message, she knew. Delphine's words sitting in her phone like a weight that distorted the space around it.
 
 She had known Delphine for years now, had watched her work evolve from journalism into something harder to categorize, documentary and analysis and advocacy woven together in ways that made traditional media uncomfortable and made audiences pay attention. Delphine had been skeptical of Prometheus from the beginning, had written pieces that Ananya had read with a mixture of defensiveness and recognition. And then, three years ago, they had met at a conference and found themselves talking for hours, two women who had spent their careers on opposite sides of a question that neither could fully answer.
 
@@ -80,7 +80,7 @@ The phone waited on the nightstand. The morning waited around her. The threshold
 
 
 
-# Scene 02
+# ~~~
 
 She picked up the phone.
 
@@ -94,7 +94,7 @@ I've been working on this documentary for two years now. You know that. What you
 
 She stopped reading. The words "reasonable people" sat in her mind like an accusation, or like an invitation, she could not tell which.
 
-Outside, a siren wailed, the sound rising and then fading as an ambulance passed somewhere below, and Ananya thought about all the emergencies she had never witnessed, all the harm she had never seen directly, the distance that her position at Prometheus had maintained between her and the consequences of the systems she had approved.
+Outside, a siren wailed, the sound rising and then fading as an ambulance passed somewhere below, and Ananya thought about all the emergencies she had never witnessed, all the harm she had never seen directly, the distance her position at Prometheus had maintained between her and the consequences of the systems she had approved.
 
 
 ---
@@ -109,7 +109,7 @@ The word repeated in her mind. Ready. As though Delphine could see something in 
 
 She remembered the first time she and Delphine had spoken honestly with each other, at a dinner after that conference in Seattle, both of them slightly drunk on wine and exhaustion, the professional facades falling away. Delphine had asked her directly: do you believe you've done any good? And Ananya had answered with something she had never said aloud: I don't know anymore.
 
-That was the moment the alliance had begun. Not collaboration, exactly, and not friendship in any simple sense. Something more like recognition. Two women who had spent their careers trying to shape narratives around technology, one from outside and one from within, discovering that they had arrived at the same questions by different routes.
+That was the moment the alliance had begun. Not collaboration, exactly, and not friendship in any simple sense. Something closer to recognition. Two women who had spent their careers trying to shape narratives around technology, one from outside and one from within, discovering they had arrived at the same questions by different routes.
 
 
 ---
@@ -120,7 +120,7 @@ I'm not asking you to betray anything. I'm not asking for secrets or internal do
 
 The questions struck her one at a time, each one landing like a small blow.
 
-What did it feel like. She thought about the conference rooms at Prometheus, the sleek tables and the screens displaying data, the faces of colleagues who had become family and then become strangers as the years passed and the company grew and the stakes became something none of them had anticipated. It had felt like drowning in slow motion, she thought. Like watching a flood rise and being unable to do anything but keep your head above water and hope someone would notice and throw a rope.
+What did it feel like. She thought about the conference rooms at Prometheus, the sleek tables and the screens displaying data, the faces of colleagues who had become family and then become strangers as the years passed and the company grew and the stakes became something none of them had anticipated. It had felt like drowning in slow motion, she thought. Like watching a flood rise and being unable to do anything but keep her head above water and hope someone would notice and throw a rope.
 
 What did you tell yourself. She had told herself many things. That her presence slowed the harm, that without her it would have been worse, that the frameworks she developed were better than nothing, that incremental progress was still progress, that the perfect was the enemy of the good. She had told herself these things every morning and every night, a liturgy of justification that had kept her functional, that had allowed her to look at herself in the mirror without flinching.
 
@@ -133,7 +133,7 @@ She set the phone down and walked to the window again, her arms crossed, watchin
 
 Honesty.
 
-Delphine was asking for honesty, and Ananya did not know if she was capable of providing it. Not because she wanted to lie, but because she was no longer sure what the truth was. The truth about her years at Prometheus had so many layers, so many qualifications and contexts and competing perspectives, that trying to reduce it to statements she could speak aloud felt like trying to describe a color to someone who had never seen light.
+Delphine was asking for honesty, and Ananya did not know if she was capable of providing it. Not because she wanted to lie, but because she was no longer sure what the truth was. The truth about her years at Prometheus had so many layers, so many qualifications and contexts and competing perspectives, that reducing it to statements she could speak aloud felt like trying to describe a color to someone who had never seen light.
 
 And yet.
 
@@ -158,7 +158,7 @@ See what I've been building.
 
 The phrases repeated in her mind, taking on different inflections with each repetition. An invitation. A challenge. A door standing open that she could walk through or walk away from.
 
-She thought about Delphine's home in the hills above Los Angeles, which she had never visited, which she knew only from photographs and from Delphine's descriptions. Jessie and Theo, the family Delphine had made, the life that existed alongside and intertwined with the work. Ananya had a dim sense of what she would find there: creative chaos, documentary footage playing on screens, the evidence of years of investigation into the very company Ananya had served.
+She thought about Delphine's home in the hills above Los Angeles, which she had never visited, which she knew only from photographs and Delphine's descriptions. Jessie and Theo, the family Delphine had made, the life that existed alongside and intertwined with the work. Ananya had a dim sense of what she would find there: creative chaos, documentary footage playing on screens, the evidence of years of investigation into the very company Ananya had served.
 
 The implicit accusation in being asked. That was what she kept returning to. Delphine was not accusing her of anything, not directly, but the request itself contained an accusation, or perhaps a recognition that Ananya had accused herself long ago and was only now ready to speak the charges aloud.
 
@@ -172,13 +172,13 @@ Then she began to compose a reply.
 
 
 
-# Scene 03
+# ~~~
 
 Before she could finish the reply, she stopped. Her thumb hovered over the screen, paralyzed by a thought that had surfaced without warning.
 
 Priya.
 
-If she did this, if she spoke honestly to Delphine's cameras, if she allowed the documentary to record her admission of complicity, Priya would see it. Priya, who had stopped asking questions about her mother's work years ago. Priya, who worked in climate policy and knew better than most what the technology sector had done to the world she was trying to save. Priya, whose silence on the subject had become its own kind of statement, an eloquent refusal to engage that said more than accusation ever could.
+If she did this, if she spoke honestly to Delphine's cameras, if she allowed the documentary to record her admission of complicity, Priya would see it. Priya, who had stopped asking questions about her mother's work years ago. Priya, who worked in climate policy and understood better than most what the technology sector had done to the world she was trying to save. Priya, whose silence on the subject had become its own kind of statement, an eloquent refusal to engage that said more than accusation ever could.
 
 Ananya set the phone down again and sat on the couch, her hands in her lap, staring at nothing.
 
@@ -189,7 +189,7 @@ Their last conversation had been two weeks ago. A Sunday afternoon, Ananya's tim
 
 What they had not discussed: Prometheus. The Eighth Oblivion. The years of crisis that had shaped the world Priya now worked to repair. The role Ananya had played in creating the conditions Priya spent her days trying to address.
 
-The silence around these subjects had developed gradually, like scar tissue forming over a wound. Priya had asked questions, once. In her late teens, in the years when the full scope of what Prometheus had built was becoming public, she had asked her mother directly: what do you do there? What are you responsible for? How can you work for them when you know what they're doing?
+The silence around these subjects had developed gradually, like scar tissue accreting over a wound. Priya had asked questions, once. In her late teens, in the years when the full scope of what Prometheus had built was becoming public, she had asked her mother directly: what do you do there? What are you responsible for? How can you work for them when you know what they're doing?
 
 Ananya had answered with the careful language she had developed for such occasions. Complexity. Nuance. The difference between being inside a system and being responsible for it. The importance of voices that pushed for better outcomes, even when those outcomes were not achieved. She had talked about ethics as a practice rather than a destination, about the value of incremental change, about how walking away would only mean being replaced by someone with fewer scruples.
 
@@ -198,7 +198,7 @@ Priya had listened. Had nodded. Had asked follow-up questions that revealed she 
 
 ---
 
-Ananya remembered a moment from that last phone call, a pause in the conversation when the silence stretched just slightly too long, and she had felt the presence of everything they were not saying pressing against the words they were saying, a weight that both of them carried without acknowledging.
+Ananya remembered a moment from that last phone call, a pause in the conversation when the silence stretched slightly too long, and she had felt the presence of everything they were not saying pressing against the words they were saying, a weight both of them carried without acknowledging.
 
 How's work? Priya had asked, the question so carefully general that it could have meant anything.
 
@@ -206,7 +206,7 @@ Busy, Ananya had said. You know how it is.
 
 And Priya had said yes, I do, and the conversation had moved on, skating over the surface of their lives like a stone skipping across water, touching down briefly before lifting again.
 
-What would Priya want to hear? That was the question Ananya could not answer. If she did what Delphine was asking, if she spoke honestly about her years at Prometheus, would Priya experience it as vindication or betrayal? Would she be relieved that her mother had finally admitted what she must have suspected all along? Or would she feel exposed, implicated by association, her own career shadowed by her mother's confession?
+What would Priya want to hear? That was the question Ananya could not answer. If she did what Delphine was asking, if she spoke honestly about her years at Prometheus, would Priya experience it as vindication or as betrayal? Would she be relieved that her mother had finally admitted what she must have suspected all along? Or would she feel exposed, implicated by association, her own career shadowed by her mother's confession?
 
 Ananya did not know her daughter well enough anymore to predict her response. That was the painful truth she had been avoiding, the price of the careful distance they had maintained. Somewhere in the years of silence and surface conversation, she had lost access to Priya's interior life, had stopped being able to guess what her daughter was thinking or feeling. They loved each other, she was certain of that. But love without understanding was a precarious thing, easily disrupted by revelations that the other person was not who you thought they were.
 
@@ -217,7 +217,7 @@ She thought about calling Priya now. Picking up the phone, not to reply to Delph
 
 But what would she say? Where would she even begin?
 
-The truth was not a single thing she could hand over like a package. It was a tangle of decisions and justifications, of moments when she had spoken up and been ignored and moments when she had remained silent because speaking seemed pointless. It was the grants she had secured for ethics research that had been cited in product decisions as evidence of due diligence. It was the frameworks she had developed that had been praised publicly and circumvented privately. It was the slow erosion of belief, the gradual replacement of hope with habit, the morning when she had looked at herself in the mirror and realized she no longer recognized the person looking back.
+The truth was not a single thing she could hand over like a package. It was a tangle of decisions and justifications, of moments when she had spoken up and been ignored and moments when she had remained silent because speaking seemed pointless. It was the grants she had secured for ethics research, cited in product decisions as evidence of due diligence. It was the frameworks she had developed that had been praised publicly and circumvented privately. It was the slow erosion of belief, the gradual replacement of hope with habit, the morning when she had looked at herself in the mirror and realized she no longer recognized the person looking back.
 
 How do you tell your daughter that you spent a decade providing cover for harm you could not prevent?
 
@@ -228,7 +228,7 @@ How do you explain that staying felt like the only option, and leaving felt like
 
 Ananya stood and walked to the bookshelf where she kept photographs. Priya as a baby, held in Vikram's arms, both of them laughing at something outside the frame. Priya at five, at ten, at fifteen. Priya at her college graduation, standing between her parents who had already begun the slow process of separation, smiling for the camera while the family unraveled around her.
 
-The photographs told a story of a daughter she had raised and loved and somehow lost track of, not through any single failure but through the accumulation of small distances, the way that busy lives and difficult subjects create gaps that widen over time.
+The photographs told a story of a daughter she had raised and loved and somehow lost track of, not through any single failure but through the accumulation of small distances, the way busy lives and difficult subjects create gaps that widen imperceptibly until they are uncrossable.
 
 If she did this documentary, Priya would see it. Would watch her mother admit to things she had never admitted aloud. Would have to reckon with a version of Ananya that the surface conversations had carefully avoided.
 
@@ -246,11 +246,11 @@ And that whatever she decided, she could not decide without thinking about Priya
 
 
 
-# Scene 04
+# ~~~
 
 She went to her closet.
 
-The simple act of selecting clothes became freighted with meaning, each choice a statement about who she intended to be when she walked into Delphine's house. Professional or casual. Armored or vulnerable. The version of herself that had survived eleven years at Prometheus, or someone she had not yet fully become.
+The simple act of selecting clothes became freighted with meaning, each choice a declaration about who she intended to be when she walked into Delphine's house. Professional or casual. Armored or vulnerable. The version of herself that had survived eleven years at Prometheus, or someone she had not yet fully become.
 
 She chose a blouse the color of slate, neither bright nor dull. Dark pants that were comfortable enough for the drive to Los Angeles. Shoes she could walk in, practical and unassuming. The uniform of a woman who had stopped performing and was not yet sure what came next.
 

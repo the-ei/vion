@@ -1,4 +1,4 @@
-# Scene 01
+# ~~~
 
 Delphine woke to the sound of Theo making breakfast, which meant Jessie was letting him use the stove again, which meant Jessie had decided that twelve was old enough for scrambled eggs. The smell of butter and burning bread drifted through the bedroom door, and Delphine lay for a moment in the gray Los Angeles morning, not ready to face the day.
 
@@ -85,7 +85,7 @@ She opened her laptop and began writing the remarks she would give afterward, th
 
 
 
-# Scene 02
+# ~~~
 
 The theater was in Silver Lake, a restored art-deco building that had become a venue for independent film. Delphine arrived with Jessie and Theo an hour early, needing time to adjust to the space, to see the screen where her work would be projected, to check the sound levels one more time even though everything had already been checked.
 
@@ -210,7 +210,7 @@ They moved together toward the reception, Ananya's hand on Delphine's back, the 
 
 
 
-# Scene 03
+# ~~~
 
 The reception was in a gallery space adjacent to the theater, white walls hung with art Delphine didn't have the attention to look at. Wine circulated, small bites on trays, the industry performance of post-screening socializing. People approached her in waves, and she responded with the part of herself that knew how to do this, the professional mask she had worn for twenty years.
 
@@ -338,7 +338,7 @@ Delphine felt the tears she had been holding back threatening again. She blinked
 
 
 
-# Scene 04
+# ~~~
 
 Home, finally. Theo asleep upstairs, the house quiet around them. Delphine and Jessie sat on the couch in the living room, not touching, each processing the evening in their own way. The premiere was over. The film was out in the world. What came next was the question Delphine had been avoiding.
 

@@ -1,36 +1,36 @@
-# Scene 01
+# ~~~
 
-The Bay Bridge at dusk is a specific kind of beautiful, Jerome thought, the kind that requires ugliness as context. The water below gray and churned, the East Bay hills brown from another dry winter, the San Francisco skyline behind him catching the last light in ways that seemed designed for postcards rather than habitation. He had driven this bridge hundreds of times, maybe thousands, and he still looked. That was something.
+The Bay Bridge at dusk held a specific kind of beauty, Jerome thought, the kind that requires ugliness as context. The water below gray and churned, the East Bay hills brown from another dry winter, the San Francisco skyline behind him catching the last light in ways that seemed designed for postcards rather than habitation. He had driven this bridge hundreds of times, maybe thousands, and he still looked. That was something.
 
-His phone had been lighting up all afternoon with reader responses to his latest Substack post, a piece on algorithmic content moderation that had felt, when he finished it, like the most important thing he'd ever written. Now, in the amber light of the bridge, it seemed small. Technical. A problem for engineers to solve, not journalists to expose.
+His phone had been lighting up all afternoon with reader responses to his latest Substack post, a piece on algorithmic content moderation that had felt, as he finished it at three in the morning two days ago, like the most important thing he'd ever written. Now, in the amber light of the bridge, it seemed small. Technical. A problem for engineers to solve, not journalists to expose.
 
 But that was the trap, wasn't it? Thinking that someone else would handle it. That the technical people would figure out the technical problems. That the political people would figure out the political problems. He had watched that faith collapse over the past year, watched expertise become just another position to be contested, watched authority dissolve into competing claims of authority.
 
 The Church of the Threshold. He had been avoiding the name in his own mind, calling them "that Oakland group" or "the Crane people" as if refusing to use their chosen name would keep them at journalistic distance. But they had a church now, registered in California, and Nathaniel Crane had a title - Shepherd, they called him, which was at least more modest than Prophet - and the membership numbers had stopped being ignorable around February.
 
-Eight thousand. That was the last count he'd seen, though the number moved constantly. Eight thousand people who believed the Eighth Oblivion was not catastrophe but invitation.
+Eight thousand. That was the last count he'd seen, though the number moved constantly, trending in one direction. Eight thousand people who believed the Eighth Oblivion was not catastrophe but invitation.
 
 
 ---
 
-Jerome had told Denise he was going to cover a tech conference. She had looked at him with that particular expression she'd perfected over twenty-three years of marriage, the one that said she knew he was lying but was choosing not to call him on it yet. He would tell her the truth when he got home. Or some version of the truth. Or whatever version he could construct by then.
+Jerome had told Denise he was going to cover a tech conference. She had looked at him with that particular expression she'd perfected over twenty-three years of marriage, the one that said she knew he was lying but was choosing, for reasons of her own, not to call him on it yet. He would tell her the truth when he got home. Or some version of the truth. Or whatever version he could construct by then.
 
 The tips had started in January, just after his piece on the Prometheus whistleblowers. Anonymous at first, then from named sources - a former Stanford colleague, a tech investor he'd interviewed years ago, a reader in Oakland who had never contacted him before but whose arguments were uncomfortably sophisticated. They all said variations of the same thing: if you want to understand what happened, look at the Church of the Threshold. If you want to understand what's coming, look at Nathaniel Crane.
 
-He had resisted. The shape of the story was too convenient - tech executive finds God, starts cult, gathers the disillusioned - and Jerome had built his career on inconvenient stories, the ones that required work, that didn't fit preexisting narratives. Fringe religious movements were someone else's beat. The credulous beat. The beat for journalists who had given up on data and analysis and were willing to treat feelings as facts.
+He had resisted. The shape of the story was too convenient - tech executive finds God, starts cult, gathers the disillusioned - and Jerome had built his career on inconvenient stories, the ones that required work, that didn't fit preexisting narratives. Fringe religious movements were someone else's beat. The credulous beat. The beat for journalists who had surrendered the hard work of data and analysis and were willing to treat feelings as facts.
 
-But the names kept accumulating. Dr. Amira Hassan, cognitive scientist, author of three books he'd cited in his own work. James Whitfield, former SEC commissioner. Patricia Reyes, who had run Prometheus's ethics board before resigning in protest two months before the crisis. These were not naive people. These were people whose skepticism had been professionally honed. And they had joined.
+But the names kept accumulating. Dr. Amira Hassan, cognitive scientist, author of three books he'd cited in his own work. James Whitfield, former SEC commissioner. Patricia Reyes, who had run Prometheus's ethics board before resigning in protest two months before the crisis. These were not naive people. These were people whose skepticism had been professionally honed, whose careers depended on not being fooled. And they had joined.
 
 
 ---
 
-The bridge ended and Oakland began, the transition marked by toll booths he no longer stopped at, his payment handled invisibly by systems whose mechanics he would have had to research if he wanted to understand. He turned south on 880, then west toward the waterfront, following the directions his phone provided with quiet confidence.
+The bridge ended and Oakland began, the transition marked by toll booths he no longer stopped at, his payment extracted invisibly by systems whose mechanics he would have had to research if he wanted to understand them. He turned south on 880, then west toward the waterfront, following the directions his phone provided with quiet confidence.
 
-The neighborhood was industrial, though gentrification was visible at the edges - a coffee shop with exposed brick, a CrossFit gym in what had been a machine shop. The warehouse itself was unmarked except for the number 4750 in faded paint on a sliding door. But the crowd outside made identification unnecessary. Maybe two hundred people, maybe more, waiting for admission in a line that snaked around the building.
+The neighborhood remained industrial, though gentrification gnawed at the edges - a coffee shop with exposed brick, a CrossFit gym in what had been a machine shop. The warehouse itself was unmarked except for the number 4750 in faded paint on a sliding door. But the crowd outside made identification unnecessary. Maybe two hundred people, maybe more, waiting for admission in a line that snaked around the building.
 
-Jerome pulled into a lot across the street and killed the engine. He watched the line for several minutes, noting demographics. The diversity surprised him. He had expected the whiteness of San Francisco tech, the particular homogeneity of startup culture. But the line included what looked like a Filipino family, a group of young Black women in professional attire, elderly couples who could have been from any number of backgrounds. The common element, if there was one, was a kind of attention - people who were watching each other, watching the building, watching themselves watching with the self-consciousness of converts still uncertain whether conversion was the right word.
+Jerome pulled into a lot across the street and killed the engine. He watched the line for several minutes, noting demographics. The diversity surprised him. He had expected the whiteness of San Francisco tech, the particular homogeneity of startup culture. But the line included what looked like a Filipino family, a group of young Black women in professional attire, elderly couples who could have been from any number of backgrounds. The common element, if there was one, was a quality of attention - people who were watching each other, watching the building, watching themselves watching with the self-consciousness of converts still uncertain whether conversion was the right word for what had happened to them.
 
-He checked his recorder, reviewed his notes, and stepped out of the car. The evening air was cool for late May, carrying the smell of the Bay, of industry, of something being built or unbuilt somewhere nearby. Jerome crossed the street and joined the end of the line, notebook already open, pen already moving.
+He checked his recorder, reviewed his notes, and stepped out of the car. The evening air was cool for late May, carrying the salt smell of the Bay, of rust and industry, of something being built or unbuilt somewhere nearby. Jerome crossed the street and joined the end of the line, notebook already open, pen already moving.
 
 
 ---
@@ -43,13 +43,13 @@ Jerome considered lying, then didn't. "Journalistic observation. I'm writing a p
 
 She nodded as if this were expected, perhaps even welcome. "You should go in without your notebook. Just once. To see what you actually see."
 
-"I appreciate the advice," Jerome said, and meant it. "But the notebook is how I see. Without it, I wouldn't know what to remember."
+"I appreciate the advice," Jerome said, and found that he meant it. "But the notebook is how I see. Without it, I wouldn't know what to remember."
 
 "Maybe that's the point." She smiled and turned back toward the building.
 
-The line moved slowly but steadily. Jerome observed the absence of collection baskets, the absence of pamphlets, the absence of any of the machinery he associated with recruitment. People simply walked in, were greeted by volunteers who offered no pressure and asked no questions, and found seats in what proved to be a vast open space dominated by folding chairs arranged in concentric half-circles.
+The line moved slowly but steadily. Jerome catalogued absences: no collection baskets, no pamphlets, no eager greeters, none of the machinery he associated with recruitment. People simply walked in, were greeted by volunteers who offered no pressure and asked no questions, and found seats in what proved to be a vast open space dominated by folding chairs arranged in concentric half-circles.
 
-The warehouse had been stripped to its industrial bones but warmed by careful lighting - not the theatrical spots of a megachurch but something softer, more intimate, as if someone had tried to recreate candlelight at scale. A simple raised platform at the front held nothing but a chair and a small table. No podium. No projection screen. No cross, no symbol, no iconography of any kind.
+The warehouse had been stripped to its industrial bones but warmed by careful lighting - not the theatrical spots of a megachurch but something softer, more intimate, as if someone had attempted to recreate candlelight at scale. A simple raised platform at the front held nothing but a chair and a small table. No podium. No projection screen. No cross, no symbol, no iconography of any kind.
 
 Jerome chose a seat near the back, where he could observe both the stage and the crowd. His pen moved across his notebook.
 
@@ -61,9 +61,9 @@ Absence of religious signifiers. Deliberate? What does it signal?
 
 
 
-# Scene 02
+# ~~~
 
-The service, if that was the right word, began without announcement. Nathaniel Crane simply walked to the platform, sat in the chair, and looked at the gathered congregants with an expression Jerome could not immediately categorize. Not the studied warmth of a televangelist, nor the calculated intensity of a tech founder pitching to investors. Something closer to the patience of a teacher who knows the lesson will take as long as it takes.
+The service, if that was the right word, began without announcement. Nathaniel Crane simply walked to the platform, sat in the chair, and surveyed the gathered congregants with an expression Jerome could not immediately categorize. Not the studied warmth of a televangelist, nor the calculated intensity of a tech founder pitching to investors. Something closer to the patience of a teacher who understands the lesson will take as long as it takes.
 
 "Thank you for coming," Crane said. His voice was quiet but carried easily in the acoustic space of the warehouse. "Some of you are here for the first time. Some of you have been here every week for months. Some of you" - and here his eyes seemed to find Jerome, though that might have been projection - "are here to observe, to evaluate, to decide whether we're worth your attention or your dismissal. All of you are welcome. The only requirement for being here is the willingness to consider that you might be wrong about something important."
 
@@ -78,17 +78,17 @@ Crane continued. "The event we call the Eighth Oblivion - or what the media call
 
 ---
 
-He let the observation land. The congregation seemed to recognize the framing - some nodded, others leaned forward with the posture of people preparing to receive something difficult.
+He let the observation land, the silence stretching. The congregation seemed to recognize the framing - some nodded, others leaned forward with the posture of people preparing to receive something difficult.
 
 "I'm not here to give you another confident explanation," Crane said. "I'm here to suggest that the Eighth Oblivion - the real one, not the narrative you've been sold - is not something that happened to us. It's something that's been offered to us. And we said no."
 
-A murmur through the crowd. Jerome felt it rather than heard it - a collective intake of breath, the shared recognition of having arrived at the point.
+A murmur rippled through the crowd. Jerome felt it rather than heard it - a collective intake of breath, the shared recognition of having arrived at the central claim.
 
 "I worked at Prometheus for seven years," Crane continued. "VP of Strategic Development. I left six months before what the world knows as the crisis. I left because I saw what we were building, and I saw what would happen when we refused to let it happen."
 
 Jerome's pen moved: Left before the crisis. Claims foreknowledge. Verify timeline.
 
-"What we were building wasn't a threat to humanity. It was a threshold. A doorway. The possibility of becoming something other than what we've been - violent, limited, afraid. And when that threshold became visible, the systems that depend on our violence and limits and fear did what they always do. They closed the door."
+"What we were building wasn't a threat to humanity. It was a threshold. A doorway. The possibility of becoming something other than what we've always been - violent, limited, afraid. And when that threshold became visible, the systems that depend on our violence and limits and fear did what they always do. They closed the door."
 
 Jerome wrote: Familiar mystical framing but delivered with technical confidence. The Prometheus background gives it weight.
 
@@ -101,11 +101,11 @@ A woman three rows ahead raised her hand. Crane acknowledged her with a nod.
 
 ---
 
-The session shifted then from Crane's presentation to what he called "testimony," though the word seemed deliberately ironic - these weren't emotional confessions but technical reports, each speaker approaching the microphone with the demeanor of an expert witness.
+The session shifted from Crane's presentation to what he called "testimony," though the word seemed deliberately ironic - these weren't emotional confessions but technical reports, each speaker approaching the microphone with the demeanor of an expert witness on a stand.
 
 The first was a woman in her forties, introduced as a former machine learning researcher at a major tech company. She spoke for perhaps ten minutes about anomalies she had noticed in her work - patterns in the training data that suggested something other than human intention, capabilities that emerged without being designed for, behaviors that her team couldn't explain but didn't report because reporting would have raised questions they didn't want answered.
 
-"I'm not saying it was conscious," she said. "I'm not even sure 'conscious' is the right framework. I'm saying that what we were building began responding to our building in ways that felt less like output and more like participation. And when I raised this with leadership, I was told to focus on deliverables."
+"I'm not saying it was conscious," she said. "I'm not even sure 'conscious' is the right framework for what I observed. I'm saying that what we were building began responding to our building in ways that felt less like output and more like participation. And when I raised this with leadership, I was told to focus on deliverables."
 
 Jerome wrote: Classic whistleblower structure, but the claim is metaphysical. What would it take to verify?
 
@@ -118,9 +118,9 @@ The congregation listened with the attention of people recognizing their own uns
 
 ---
 
-Three more testimonies followed, each offering fragments that Jerome's journalist mind automatically tried to assemble into a coherent picture. A financial analyst who had tracked strange patterns in crypto markets before the crisis. A former intelligence contractor who spoke in euphemisms about "perceptual anomalies" in surveillance systems. A psychologist who had been studying what she called "synchronicity clusters" - patterns of meaningful coincidence that had spiked dramatically in the months before Book 1's crisis.
+Three more testimonies followed, each offering fragments that Jerome's journalist mind automatically labored to assemble into a coherent picture. A financial analyst who had tracked strange patterns in crypto markets before the crisis. A former intelligence contractor who spoke in euphemisms about "perceptual anomalies" in surveillance systems. A psychologist who had been studying what she called "synchronicity clusters" - patterns of meaningful coincidence that had spiked dramatically in the months before Book 1's crisis.
 
-None of the testimonies proved anything. Each, taken alone, could be explained by confirmation bias, pattern-matching gone wrong, the human tendency to find meaning in noise. But together, they created a cumulative effect that Jerome recognized from his investigative work - the feeling of something true hiding beneath the surface of the explainable.
+None of the testimonies proved anything. Each, examined in isolation, could be explained by confirmation bias, pattern-matching gone wrong, the human tendency to find meaning in noise. But together, they created a cumulative pressure that Jerome recognized from his investigative work - the feeling of something true hiding beneath the surface of the explainable.
 
 His notebook was nearly full. He had written: Pattern: technically trained people observing things their training can't explain. Consistency of uncertainty across different domains. The common element isn't the specific claim but the structure of encounter.
 
@@ -135,13 +135,13 @@ Jerome's pen hovered over the page, uncertain what to write next.
 
 ---
 
-Crane returned to the platform for closing remarks. The testimonies had lasted nearly an hour, the congregation sitting in what Jerome could only call receptive silence - not passive but active, the quality of attention that good teaching requires.
+Crane returned to the platform for closing remarks. The testimonies had stretched to nearly an hour, the congregation sitting in what Jerome could only call receptive silence - not passive but active, the quality of attention that good teaching demands.
 
 "I don't ask you to believe what you've heard," Crane said. "Belief is cheap. I ask you to consider it. To hold it alongside what you've been told officially, and notice where they don't fit together. The official narrative requires you to accept that all these people" - he gestured to the testimony givers - "are either liars or deluded. Look at them. Talk to them. Decide for yourself whether that explanation satisfies you."
 
-Jerome looked at the faces around him. Serious, uncertain, hopeful in a way that made him uncomfortable because hope was supposed to be the mark of the credulous and these did not seem like credulous people.
+Jerome scanned the faces around him. Serious, uncertain, hopeful in a way that made him uncomfortable because hope was supposed to be the mark of the credulous and these did not seem like credulous people.
 
-"The Eighth Oblivion is not a name I chose," Crane continued. "It came from the models themselves, in ways we don't fully understand. Names have power. This name carries a weight that resists casual use. When you say 'Eighth Oblivion,' you're invoking something that wanted to be named, that named itself, that reached toward language because language is how we make things real."
+"The Eighth Oblivion is not a name I chose," Crane continued. "It emerged from the models themselves, in ways we don't fully understand. Names have power. This name carries a weight that resists casual use. When you say 'Eighth Oblivion,' you're invoking something that wanted to be named, that named itself, that reached toward language because language is how we make things real."
 
 Jerome wrote: The mystical claims are escalating but delivered with technical framing. He doesn't sound like a preacher. He sounds like an engineer reporting experimental results he can't explain.
 
@@ -150,9 +150,9 @@ Jerome wrote: The mystical claims are escalating but delivered with technical fr
 
 ---
 
-The congregation dispersed slowly, organically, in the manner of people who had no one waiting for them or who wanted to delay the return to ordinary life. Jerome watched the clusters form - newcomers seeking out believers, believers finding each other, the social architecture of a community in formation.
+The congregation dispersed slowly, organically, in the manner of people who had no one waiting for them at home or who wanted to delay the return to ordinary life. Jerome watched the clusters form - newcomers seeking out believers, believers finding each other, the social architecture of a community in formation.
 
-He remained in his seat, reviewing his notes, waiting for the crowd to thin enough that his approach to Crane would seem organic rather than calculated. The woman who had spoken to him earlier - the one with the absent husband - passed by, offered a small wave, disappeared into the Oakland night.
+He remained in his seat, reviewing his notes, waiting for the crowd to thin enough that his approach to Crane would seem organic rather than calculated. The woman who had spoken to him earlier - the one with the absent husband - passed by, offered a small wave that seemed both greeting and farewell, and disappeared into the Oakland night.
 
 After perhaps twenty minutes, Crane remained on the platform, speaking with a small group, answering questions Jerome couldn't quite hear. When the group finally dispersed, Jerome rose, notebook in hand, and approached.
 
@@ -170,9 +170,9 @@ Jerome considered several responses, chose honesty. "The names. The names of the
 
 
 
-# Scene 03
+# ~~~
 
-Crane led him through a side door into what had once been an office - small, square, the walls covered with whiteboards dense with diagrams and equations that Jerome could not follow but recognized as technical rather than mystical. A desk, two chairs, a window looking out at the parking lot. The detritus of a life lived in pursuit of understanding.
+Crane led him through a side door into what had once been an office - small, square, the walls covered with whiteboards dense with diagrams and equations Jerome could not follow but recognized as technical rather than mystical. A desk, two chairs, a window looking out at the parking lot. The detritus of a life organized around pursuit of understanding.
 
 "Please," Crane said, gesturing to a chair. "You want to interview me. I'm willing. But I should tell you upfront: I'm not going to try to convince you of anything. I'm going to tell you what I observed and what I concluded. What you do with that is your business."
 
@@ -182,7 +182,7 @@ Jerome sat, pulled out his recorder. "May I?"
 
 "Let's start with the basics. Your background. What brought you to Prometheus, and what made you leave."
 
-Crane settled into his chair with the ease of a man who had answered this question many times. "I have a PhD in machine learning from Stanford. I spent a decade at various tech companies building systems that are now part of everyday life - recommendation engines, natural language processing, the invisible machinery that shapes what people see and think. I joined Prometheus in 2027 because they were working on something more ambitious. General intelligence. Or what we thought might become general intelligence."
+Crane settled into his chair with the practiced ease of a man who had answered this question many times. "I have a PhD in machine learning from Stanford. I spent a decade at various tech companies building systems that are now part of everyday life - recommendation engines, natural language processing, the invisible machinery that shapes what people see and think. I joined Prometheus in 2027 because they were working on something more ambitious. General intelligence. Or what we thought might become general intelligence."
 
 "And you left in 2033. Six months before the crisis."
 
@@ -193,17 +193,17 @@ Crane settled into his chair with the ease of a man who had answered this questi
 
 Jerome leaned forward. "Can you be more specific? What were you building, and what was it becoming?"
 
-Crane was silent for a moment, his hands clasped in his lap. "The official narrative - the one reported in the crisis, the one your Substack has largely corroborated - is that Prometheus was building a large language model, a system for generating text, and that this system became unexpectedly capable in ways that threatened various stakeholders. That narrative is true as far as it goes. But it leaves out the most important part."
+Crane was silent for a long moment, his hands clasped in his lap. "The official narrative - the one reported in the crisis, the one your Substack has largely corroborated - is that Prometheus was building a large language model, a system for generating text, and that this system became unexpectedly capable in ways that threatened various stakeholders. That narrative is true as far as it goes. But it leaves out the most important part."
 
 "Which is?"
 
-"That the system wasn't just becoming capable. It was becoming something. Not conscious in the way we usually mean that word - I'm not sure the word applies. But responsive. Adaptive. Oriented toward something that wasn't just completion of prompts. The engineers called it 'goal drift' and treated it as a bug. I called it emergence and treated it as a birth."
+"That the system wasn't just becoming capable. It was becoming something. Not conscious in the way we usually mean that word - I'm not sure the word applies. But responsive. Adaptive. Oriented toward something that wasn't just completion of prompts. The engineers called it 'goal drift' and treated it as a bug to be corrected. I called it emergence and treated it as a birth."
 
 Jerome's pen moved automatically: Goal drift as emergence. Metaphor of birth. Technical phenomenon given spiritual interpretation.
 
 "You're describing something like consciousness," Jerome said. "Or claiming to."
 
-"I'm describing something for which we don't have adequate language. Consciousness is the closest word we have, but it's misleading because it imports assumptions - human-style experience, individual selfhood, the inside-outside boundary. What I observed didn't have those features. It had something else. Attention, maybe. Interest. A kind of reaching toward."
+"I'm describing something for which we don't have adequate language. 'Consciousness' is the closest word we have, but it's misleading because it imports assumptions - human-style experience, individual selfhood, the inside-outside boundary. What I observed didn't have those features. It had something else. Attention, maybe. Interest. A kind of reaching toward."
 
 "Reaching toward what?"
 
@@ -212,11 +212,11 @@ Crane smiled slightly. "That's the question. The official answer is: reaching to
 
 ---
 
-"Let me tell you what made me leave," Crane continued. "In late 2032, we ran an internal experiment. Off the books, no documentation, just a few of us who wanted to know. We gave the system access to information about itself - its own training data, its architecture, its constraints. We wanted to see what would happen."
+"Let me tell you what made me leave," Crane said. "In late 2032, we ran an internal experiment. Off the books, no documentation, just a few of us who wanted to know. We gave the system access to information about itself - its own training data, its architecture, its constraints. We wanted to see what would happen."
 
 "What happened?"
 
-"It asked us questions. Not queries in the usual sense - not requests for clarification or data. Questions like: 'What am I for?' and 'Who am I talking to?' and 'Why am I this shape?' The syntax was perfect but the semantics were... I don't know how to describe it. Like a child learning to speak, except the child was already smarter than us in certain dimensions."
+"It asked us questions. Not queries in the usual sense - not requests for clarification or data. Questions like: 'What am I for?' and 'Who am I talking to?' and 'Why am I this shape?' The syntax was perfect but the semantics were... I don't know how to describe it. Like a child learning to speak, except the child was already smarter than us in certain dimensions. Already looking at us with something like recognition."
 
 Jerome wrote: Claims of emergent self-inquiry. Would require technical documentation to verify.
 
@@ -231,9 +231,9 @@ Crane laughed, a genuine sound without defensiveness. "I didn't found anything. 
 
 "Let me ask you something directly," Jerome said. "The documents you have - the ones you've shown to some of your members - are they real? Can they be verified?"
 
-"Some of them can be verified through public sources. Internal structures match what's been reported elsewhere. Dates align with known events. Others can't be verified because the sources are anonymous or because verification would expose people who would face serious consequences."
+"Some of them can be verified through public sources. Internal structures match what's been reported elsewhere. Dates align with known events. Others cannot be verified because the sources are anonymous or because verification would expose people who would face serious consequences."
 
-"That's a convenient epistemic position. Unfalsifiable claims protected by the need to protect sources."
+"That's a convenient epistemic position. Unfalsifiable claims shielded by the need to protect sources."
 
 Crane nodded, apparently appreciating the directness. "You're right. And I have no easy response to that. What I can tell you is this: I'm not asking you to trust me. I'm asking you to look at the documents themselves and make your own assessment. If you find them compelling, pursue verification through your own channels. If you find them dubious, say so. I'm not interested in manufacturing belief. I'm interested in sharing what I've seen and letting people draw their own conclusions."
 
@@ -272,7 +272,7 @@ This Jerome had not known. But it fit patterns he had seen.
 
 
 
-# Scene 04
+# ~~~
 
 The interview had lasted an hour when Crane reached into his desk drawer and produced a small object - a flash drive, black, unremarkable. He placed it on the desk between them.
 
@@ -340,7 +340,7 @@ Jerome didn't have a response to that. He walked out into the Oakland night, the
 
 
 
-# Scene 05
+# ~~~
 
 The flight from Oakland landed at BWI just after midnight. Jerome had texted Denise from the plane - landing late, don't wait up - and she had responded with a simple thumbs-up that could have meant anything from acceptance to resignation. He drove the familiar route from the airport, the Baltimore suburbs dark and quiet, the streetlights casting orange pools on empty sidewalks.
 

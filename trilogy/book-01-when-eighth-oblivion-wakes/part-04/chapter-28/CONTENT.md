@@ -1,4 +1,4 @@
-# Scene 01
+# ~~~
 
 The eggs were burning. Jerome smelled it before he saw it, the particular char of neglected breakfast, and he moved to the stove just as the smoke began to rise. His mother sat at the kitchen table in her housecoat, watching him with the mild confusion that had become her default expression over the past two years.
 
@@ -138,7 +138,7 @@ He was already in the car when the first source call came through, the story beg
 
 
 
-# Scene 02
+# ~~~
 
 The coffee shop in downtown Baltimore was chosen for its reliable wifi and relative anonymity - a place Jerome had used before when he needed to work away from the usual spots. He claimed a corner table, plugged in his laptop, and began the process of trying to understand what was happening.
 
@@ -299,7 +299,7 @@ Jerome didn't know what to call it either. But he was going to find out.
 
 
 
-# Scene 03
+# ~~~
 
 Elena Varga responded to his message at 2:14 PM.
 
@@ -417,7 +417,7 @@ On the walk to the station, he passed a pharmacy with a handwritten sign on the 
 
 
 
-# Scene 04
+# ~~~
 
 The train left Baltimore at 6:15 PM, sliding through the gray November evening toward Washington. Jerome found a window seat and opened his laptop, but for a long time he just watched the landscape pass - the industrial edges of the city giving way to suburbs, the suburbs to the liminal spaces of highway infrastructure that connected one place to another.
 

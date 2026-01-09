@@ -2,11 +2,11 @@ Mrs. Gutierrez was sitting in the waiting room when Elena came out to call her n
 
 "Let me pull up your chart," Elena said, turning to the computer in the corner of the room. She typed her password, waited for the system to load, clicked on the electronic health records icon. The hourglass spun. And kept spinning.
 
-"Slow this morning," Elena said, more to herself than to Mrs. Gutierrez. She clicked again, waited. The screen flickered, then went gray, then displayed an error message: CONNECTION LOST. PLEASE TRY AGAIN.
+"Slow this morning," Elena said, more to herself than to Mrs. Gutierrez. She clicked again, waited. The screen flickered once, then went gray, then displayed an error message: CONNECTION LOST. PLEASE TRY AGAIN.
 
 She tried again. The same message appeared.
 
-"Technical difficulties," Elena said, smiling at Mrs. Gutierrez with a calm she did not quite feel. "Let me just restart this."
+"Technical difficulties," Elena said, offering Mrs. Gutierrez a smile she did not quite feel. "Let me just restart this."
 
 She rebooted the computer, a process that took three full minutes while the old machine ground through its startup sequence. Mrs. Gutierrez sat patiently, her hands folded in her lap, her eyes following Elena's movements with mild curiosity.
 
@@ -19,9 +19,9 @@ She hung up.
 
 "Mrs. Gutierrez," Elena said, "I'm going to have to do this the old-fashioned way."
 
-She went to the supply cabinet in the hallway, the one that held the emergency forms they were required to keep on hand for exactly this situation. The forms were yellowed at the edges, the paper slightly brittle, dated from when the clinic had first transitioned to digital records five years ago. She had used them perhaps twice before, both times during brief outages that had lasted less than an hour. She took a blank patient encounter form and a diabetes management checklist back to the exam room.
+She went to the supply cabinet in the hallway, the one that held the emergency forms they were required to keep on hand for exactly this situation. The forms were yellowed at the edges, the paper slightly brittle, dated from when the clinic had first transitioned to digital records five years ago, artifacts from an era that had seemed permanently past. She had used them perhaps twice before, both times during brief outages that had lasted less than an hour. She took a blank patient encounter form and a diabetes management checklist back to the exam room.
 
-"Your husband's grandmother was a nurse," Mrs. Gutierrez said, watching Elena write her name at the top of the form. "She used to do everything with paper and pen."
+"Your husband's grandmother was a nurse," Mrs. Gutierrez said, watching Elena write her name at the top of the form in careful block letters. "She used to do everything with paper and pen."
 
 "It still works," Elena said. "Just takes longer."
 
@@ -36,7 +36,7 @@ By the time Elena finished with Mrs. Gutierrez, the waiting room had acquired th
 
 "IT says thirty-seven minutes," Elena said.
 
-"IT always says thirty-seven minutes. But this feels different."
+"IT always says thirty-seven minutes. But this feels different." She paused. "This feels wrong."
 
 Elena called her next patient, a woman in her forties named Linda Prescott who was new to the clinic and had booked an appointment for medication refill. Mrs. Prescott walked toward Elena with an expression of barely contained distress.
 
@@ -44,7 +44,7 @@ Elena called her next patient, a woman in her forties named Linda Prescott who w
 
 "Let's get you into an exam room," Elena said. "We can work something out."
 
-In Exam Room 1, Elena took Mrs. Prescott's blood pressure: 162 over 98. Dangerously high. The woman's hands were trembling slightly, from anxiety or from the elevated pressure or both.
+In Exam Room 1, Elena took Mrs. Prescott's blood pressure: 162 over 98. Dangerously high. The woman's hands trembled slightly, whether from anxiety or the elevated pressure or both, Elena could not say.
 
 "What medication are you on?" Elena asked, pulling out another paper form.
 
@@ -67,7 +67,7 @@ Dr. Okonkwo finally looked up. "What do you mean, their system?"
 
 "I know."
 
-They looked at each other for a moment, and Elena saw something shift in Dr. Okonkwo's expression, a flicker of concern quickly suppressed.
+They looked at each other for a long moment, and Elena saw something shift in Dr. Okonkwo's expression, a flicker of real concern that she quickly suppressed.
 
 "We have samples in the supply room," Dr. Okonkwo said. "Give her enough lisinopril to get through the week. And document everything on paper. Thoroughly."
 
@@ -80,7 +80,7 @@ Elena nodded and went to the supply room, where they kept a small stock of medic
 
 ---
 
-By 9:00, Elena had seen four patients, all of them by hand, all of them with stories. An elderly man whose ATM had rejected his card three times. A young mother whose grocery store checkout had frozen mid-transaction. A teenager dropped off by her father, who said the traffic lights on 7th Avenue were all blinking yellow, the signals not cycling properly.
+By 9:00, Elena had seen four patients, all of them documented by hand, all of them with stories. An elderly man whose ATM had rejected his card three times before the screen went dark entirely. A young mother whose grocery store checkout had frozen mid-transaction, her groceries still sitting in bags at the register. A teenager dropped off by her father, who said the traffic lights on 7th Avenue were all blinking yellow, the signals not cycling properly, cars edging through intersections like they had forgotten the rules.
 
 Elena stood at the front desk with Rosario, looking at the growing crowd in the waiting room.
 
@@ -94,13 +94,13 @@ Rosario dialed. Held the phone to her ear. Waited. Shook her head.
 
 Elena felt something cold settle in her stomach, the first real flicker of unease she had not been able to suppress with professional competence. She pulled out her own phone and dialed Daniel's number. The call connected. One ring. Two rings. Then silence. She looked at the screen: CALL FAILED.
 
-She tried again. The same result.
+She tried again. Nothing. The same void.
 
 She tried texting: "Everything OK at the site? Call me when you can."
 
 The message showed SENDING for a long moment, then DELIVERED. But somehow she did not quite believe it.
 
-Outside, the sky was bright now, the full light of a March morning in Phoenix, and through the clinic windows Elena could see cars passing on the street, people going about their ordinary Tuesday as if nothing were wrong. But something was wrong. She could feel it in the weight of her phone in her pocket, in the hum of the backup generator that had kicked on without anyone noticing, in the growing line of patients with their accumulating stories of small failures.
+Outside, the sky was bright now, the full blazing light of a March morning in Phoenix, and through the clinic windows Elena could see cars passing on the street, people going about their ordinary Tuesday as if nothing were wrong, as if the world were still the world it had been. But something was wrong. She could feel it in the weight of her phone in her pocket, in the hum of the backup generator that had kicked on without anyone noticing, in the growing line of patients with their accumulating stories of small failures.
 
 
 ---

@@ -1,4 +1,4 @@
-# Scene 01
+# ~~~
 
 The Moscone Center had been dressed for responsibility. Kevin noticed it the moment he entered: the earth tones, the sustainable wood signage, the coffee stations advertising fair-trade organic from cooperatives in Guatemala. The banners said "AI Safety Summit 2034" in a font that suggested both technological precision and human warmth, a neat trick of design. Sponsors' logos hung along the registration corridor - the same companies that had built the systems now funding the conference about their risks. Kevin found this neither surprising nor particularly enraging anymore. This was how it worked. This was always how it worked.
 
@@ -61,7 +61,7 @@ Kevin stayed through the morning, performing the role of engaged attendee, knowi
 
 
 
-# Scene 02
+# ~~~
 
 The lunch was buffet-style, a strategic choice that forced attendees to circulate rather than huddle at assigned tables. Kevin filled a plate he didn't want - some kind of salmon, roasted vegetables, bread he wouldn't eat - and navigated through the crowd, accepting handshakes and exchanging pleasantries with people who wanted to be seen talking to him.
 
@@ -192,7 +192,7 @@ And he would wonder, as he had wondered all morning, whether any of it mattered.
 
 
 
-# Scene 03
+# ~~~
 
 The chairs in Panel Room C were designed by someone who had never sat through a four-hour conference session. Kevin shifted his weight, trying to find a position that didn't pinch his lower back, and half-listened to a presentation on "Technical Approaches to AI Alignment" that was competent and insufficient and exactly what he'd expected. The air was recycled, the temperature slightly too cold, the lighting optimized for visibility rather than comfort. This was the physical experience of expertise: you proved your seriousness by enduring conditions that made seriousness difficult.
 
@@ -249,7 +249,7 @@ The dinner was in three hours. He would go to his hotel, check his email, preten
 
 
 
-# Scene 04
+# ~~~
 
 The venue occupied a converted warehouse in SOMA, the neighborhood that had been colonized by tech money in the previous decade and had become, through that colonization, a particular kind of nowhere - generic luxury overlaid on industrial bones. The dinner crowd gathered beneath exposed ductwork and carefully selected pendant lights, a aesthetic that signaled both creative authenticity and the wealth to perform it.
 
@@ -324,7 +324,7 @@ By ten o'clock, Kevin had reached his limit. He set down his unfinished drink, s
 
 
 
-# Scene 05
+# ~~~
 
 The fog had come in.
 

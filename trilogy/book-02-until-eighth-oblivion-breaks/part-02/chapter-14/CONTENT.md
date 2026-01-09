@@ -1,4 +1,4 @@
-# Scene 01
+# ~~~
 
 The video call began with exactly the kind of corporate enthusiasm that made Delphine want to close her laptop and take a very long walk. Rachel Stein, VP of Original Content at StreamForward, smiled from a perfectly lit office with a view of the Hollywood Hills, flanked by two junior executives who nodded at appropriate moments.
 
@@ -103,7 +103,7 @@ Delphine smiled despite herself. "You're right. That is almost the same."
 
 
 
-# Scene 02
+# ~~~
 
 The research phase began before she formally accepted the commission. Delphine had learned that you couldn't decide whether to take on a project until you understood what the project actually was, and understanding required investigation.
 
@@ -209,7 +209,7 @@ She started making it anyway.
 
 
 
-# Scene 03
+# ~~~
 
 The coffee shop in DC was nondescript by design - a place where conversations could happen without being overheard. Delphine had flown out that morning, leaving Theo with Jessie's parents and the documentary schedule that was already feeling impossible.
 
@@ -321,7 +321,7 @@ She was going to try anyway.
 
 
 
-# Scene 04
+# ~~~
 
 Theo was asleep by the time Delphine got home, his small body curled around the stuffed elephant in ways that defied comfort but apparently worked for him. She stood in his doorway for a moment, watching him breathe, feeling the particular weight of parenthood that arrived unexpectedly at moments like this.
 
@@ -408,7 +408,7 @@ She saved the draft and went to bed, dreaming of whiteboards and competing color
 
 
 
-# Scene 05
+# ~~~
 
 The treatment was finished by Thursday - earlier than she had expected, later than the platform wanted. Delphine read through it one final time, checking for the places where her own bias might be showing through, adjusting language that leaned too heavily toward any single interpretation.
 

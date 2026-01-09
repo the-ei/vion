@@ -2,7 +2,7 @@ Before she could finish the reply, she stopped. Her thumb hovered over the scree
 
 Priya.
 
-If she did this, if she spoke honestly to Delphine's cameras, if she allowed the documentary to record her admission of complicity, Priya would see it. Priya, who had stopped asking questions about her mother's work years ago. Priya, who worked in climate policy and knew better than most what the technology sector had done to the world she was trying to save. Priya, whose silence on the subject had become its own kind of statement, an eloquent refusal to engage that said more than accusation ever could.
+If she did this, if she spoke honestly to Delphine's cameras, if she allowed the documentary to record her admission of complicity, Priya would see it. Priya, who had stopped asking questions about her mother's work years ago. Priya, who worked in climate policy and understood better than most what the technology sector had done to the world she was trying to save. Priya, whose silence on the subject had become its own kind of statement, an eloquent refusal to engage that said more than accusation ever could.
 
 Ananya set the phone down again and sat on the couch, her hands in her lap, staring at nothing.
 
@@ -13,7 +13,7 @@ Their last conversation had been two weeks ago. A Sunday afternoon, Ananya's tim
 
 What they had not discussed: Prometheus. The Eighth Oblivion. The years of crisis that had shaped the world Priya now worked to repair. The role Ananya had played in creating the conditions Priya spent her days trying to address.
 
-The silence around these subjects had developed gradually, like scar tissue forming over a wound. Priya had asked questions, once. In her late teens, in the years when the full scope of what Prometheus had built was becoming public, she had asked her mother directly: what do you do there? What are you responsible for? How can you work for them when you know what they're doing?
+The silence around these subjects had developed gradually, like scar tissue accreting over a wound. Priya had asked questions, once. In her late teens, in the years when the full scope of what Prometheus had built was becoming public, she had asked her mother directly: what do you do there? What are you responsible for? How can you work for them when you know what they're doing?
 
 Ananya had answered with the careful language she had developed for such occasions. Complexity. Nuance. The difference between being inside a system and being responsible for it. The importance of voices that pushed for better outcomes, even when those outcomes were not achieved. She had talked about ethics as a practice rather than a destination, about the value of incremental change, about how walking away would only mean being replaced by someone with fewer scruples.
 
@@ -22,7 +22,7 @@ Priya had listened. Had nodded. Had asked follow-up questions that revealed she 
 
 ---
 
-Ananya remembered a moment from that last phone call, a pause in the conversation when the silence stretched just slightly too long, and she had felt the presence of everything they were not saying pressing against the words they were saying, a weight that both of them carried without acknowledging.
+Ananya remembered a moment from that last phone call, a pause in the conversation when the silence stretched slightly too long, and she had felt the presence of everything they were not saying pressing against the words they were saying, a weight both of them carried without acknowledging.
 
 How's work? Priya had asked, the question so carefully general that it could have meant anything.
 
@@ -30,7 +30,7 @@ Busy, Ananya had said. You know how it is.
 
 And Priya had said yes, I do, and the conversation had moved on, skating over the surface of their lives like a stone skipping across water, touching down briefly before lifting again.
 
-What would Priya want to hear? That was the question Ananya could not answer. If she did what Delphine was asking, if she spoke honestly about her years at Prometheus, would Priya experience it as vindication or betrayal? Would she be relieved that her mother had finally admitted what she must have suspected all along? Or would she feel exposed, implicated by association, her own career shadowed by her mother's confession?
+What would Priya want to hear? That was the question Ananya could not answer. If she did what Delphine was asking, if she spoke honestly about her years at Prometheus, would Priya experience it as vindication or as betrayal? Would she be relieved that her mother had finally admitted what she must have suspected all along? Or would she feel exposed, implicated by association, her own career shadowed by her mother's confession?
 
 Ananya did not know her daughter well enough anymore to predict her response. That was the painful truth she had been avoiding, the price of the careful distance they had maintained. Somewhere in the years of silence and surface conversation, she had lost access to Priya's interior life, had stopped being able to guess what her daughter was thinking or feeling. They loved each other, she was certain of that. But love without understanding was a precarious thing, easily disrupted by revelations that the other person was not who you thought they were.
 
@@ -41,7 +41,7 @@ She thought about calling Priya now. Picking up the phone, not to reply to Delph
 
 But what would she say? Where would she even begin?
 
-The truth was not a single thing she could hand over like a package. It was a tangle of decisions and justifications, of moments when she had spoken up and been ignored and moments when she had remained silent because speaking seemed pointless. It was the grants she had secured for ethics research that had been cited in product decisions as evidence of due diligence. It was the frameworks she had developed that had been praised publicly and circumvented privately. It was the slow erosion of belief, the gradual replacement of hope with habit, the morning when she had looked at herself in the mirror and realized she no longer recognized the person looking back.
+The truth was not a single thing she could hand over like a package. It was a tangle of decisions and justifications, of moments when she had spoken up and been ignored and moments when she had remained silent because speaking seemed pointless. It was the grants she had secured for ethics research, cited in product decisions as evidence of due diligence. It was the frameworks she had developed that had been praised publicly and circumvented privately. It was the slow erosion of belief, the gradual replacement of hope with habit, the morning when she had looked at herself in the mirror and realized she no longer recognized the person looking back.
 
 How do you tell your daughter that you spent a decade providing cover for harm you could not prevent?
 
@@ -52,7 +52,7 @@ How do you explain that staying felt like the only option, and leaving felt like
 
 Ananya stood and walked to the bookshelf where she kept photographs. Priya as a baby, held in Vikram's arms, both of them laughing at something outside the frame. Priya at five, at ten, at fifteen. Priya at her college graduation, standing between her parents who had already begun the slow process of separation, smiling for the camera while the family unraveled around her.
 
-The photographs told a story of a daughter she had raised and loved and somehow lost track of, not through any single failure but through the accumulation of small distances, the way that busy lives and difficult subjects create gaps that widen over time.
+The photographs told a story of a daughter she had raised and loved and somehow lost track of, not through any single failure but through the accumulation of small distances, the way busy lives and difficult subjects create gaps that widen imperceptibly until they are uncrossable.
 
 If she did this documentary, Priya would see it. Would watch her mother admit to things she had never admitted aloud. Would have to reckon with a version of Ananya that the surface conversations had carefully avoided.
 

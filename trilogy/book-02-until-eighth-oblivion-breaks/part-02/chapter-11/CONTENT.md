@@ -1,4 +1,4 @@
-# Scene 01
+# ~~~
 
 Highway 1 curved along the coast like a promise Kevin Zhou was not sure he wanted to keep. The Pacific rolled gray and endless to his left, the June fog softening everything into suggestion. He had rented a car for this drive - his Tesla was too visible, too trackable, too much a marker of exactly the identity he was trying to escape for three days.
 
@@ -53,7 +53,7 @@ The dinner ended with announcements about tomorrow's sessions. The real conversa
 
 
 
-# Scene 02
+# ~~~
 
 The morning session was called "Capability Trajectories: Technical Realities," but Kevin Zhou quickly understood it was actually about factions. The room had arranged itself into clusters - not physically, but emotionally, each speaker's statements landing with approval from some sections and resistance from others.
 
@@ -139,7 +139,7 @@ He left the session early, needing space, needing time to process. The ocean cal
 
 
 
-# Scene 03
+# ~~~
 
 He found her in the garden behind the main house, sitting on a stone bench and looking at nothing. Dr. Sarah Chen-Ramirez was seventy now, her hair white, her posture still straight with the discipline of someone who had never stopped working. She had founded one of the first major AI labs in the 1990s, had seen every wave of hype and disappointment, had walked away from her own company just as it was becoming the most valuable thing she would ever create.
 
@@ -214,7 +214,7 @@ She nodded at him, a gesture of both greeting and farewell, and walked toward he
 
 
 
-# Scene 04
+# ~~~
 
 The late-night conversation happened by accident, as such conversations often do. Kevin Zhou had been unable to sleep, had wandered to the main house hoping to find herbal tea or something to read, and had instead found Victor Blackwell and three others in the sitting room, a bottle of bourbon between them.
 
@@ -312,7 +312,7 @@ He stood there for a long time, not thinking so much as letting thoughts move th
 
 
 
-# Scene 05
+# ~~~
 
 He left early the next morning, before the final sessions began. The fog had returned, thick and gray, turning the coastal drive into a meditation on visibility and its limits. Kevin Zhou drove slowly, letting the white swirl past his windows, thinking about everything and nothing.
 

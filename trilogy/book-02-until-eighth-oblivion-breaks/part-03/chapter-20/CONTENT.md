@@ -1,4 +1,4 @@
-# Scene 01
+# ~~~
 
 The hotel room cost $347 per night, which the Senate Judiciary Committee would reimburse, which meant the taxpayers would ultimately pay, which meant Ruth Abramson was contributing to exactly the kind of governmental inefficiency she had spent her career trying to address. She stood at the window overlooking Pennsylvania Avenue, watching the late afternoon traffic, and thought about the testimony she would deliver tomorrow.
 
@@ -176,7 +176,7 @@ Maybe, Ruth thought, it was time to start looking for something else.
 
 
 
-# Scene 02
+# ~~~
 
 The Dirksen Senate Office Building had been constructed in 1958, designed to project the permanence and authority of American government. Ruth had testified here many times; she knew its marble corridors, its wood-paneled hearing rooms, its particular smell of old power and older ambition. This morning, walking to Room 226, she felt the building's weight pressing down on her—not majesty, but obsolescence. A temple to a form of governance that might already be vestigial.
 
@@ -349,7 +349,7 @@ It had been three years since Susan died. Maybe it was time to start saying the 
 
 
 
-# Scene 03
+# ~~~
 
 The hotel room felt different that evening. The same furniture, the same view, the same inadequate coffee machine—but Ruth's relationship to it had shifted. She was no longer preparing for performance; she was recovering from it, and in the recovery, something else was emerging.
 

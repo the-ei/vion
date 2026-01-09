@@ -94,7 +94,7 @@ Delphine read it twice, standing in her kitchen with a head of romaine in one ha
 
 "I need to talk to you about what Prometheus is planning. Not over any network. Can we meet?"
 
-The words sat on her screen like unexploded ordinance. Prometheus. The company Ananya had left - or been pushed from - in the aftermath of the crisis. The company whose technology had been at the center of so much that had gone wrong. The company that had, by all official accounts, reformed itself under the new regulatory frameworks.
+The words sat on her screen like unexploded ordnance. Prometheus. The company Ananya had left - or been pushed from - in the aftermath of the crisis. The company whose technology had been at the center of so much that had gone wrong. The company that had, by all official accounts, reformed itself under the new regulatory frameworks.
 
 And Ananya, who had been inside it, who had seen whatever there was to see, who was asking Delphine to meet in person, not on any network, as if the networks themselves could not be trusted.
 

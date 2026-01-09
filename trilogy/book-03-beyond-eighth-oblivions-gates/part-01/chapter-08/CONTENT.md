@@ -1,4 +1,4 @@
-# Scene 01
+# ~~~
 
 The message came at nine in the morning, DeShawn's name lighting up Kevin Zhou's phone with an urgency that was new. They usually communicated in considered exchanges - questions about technical problems, updates on development progress, the measured back-and-forth of mentor and protege. This was different. This was excitement barely contained.
 
@@ -115,7 +115,7 @@ Building small, building local, building accountable - these weren't just techni
 
 
 
-# Scene 02
+# ~~~
 
 Yusuf stepped off the bus at the Lake Merritt station, and Kevin Zhou felt the particular strangeness of seeing someone you knew well but had never met in person. They had been thrown together during the crisis - an unlikely alliance between a tech founder and a community organizer, both trying to help people survive algorithmic chaos. Since then, they had maintained the connection through texts and occasional calls, the friendship becoming real despite its unconventional origin.
 
@@ -272,7 +272,7 @@ Yusuf went to the guest room. Kevin Zhou stayed on the balcony, looking at the l
 
 
 
-# Scene 03
+# ~~~
 
 After Yusuf left for the airport in the early morning, Kevin Zhou sat with his coffee and thought about what he was about to do. The apartment felt quieter now, the echo of friendship replaced by the hum of the city outside. He had twenty-four hours of Yusuf's visit settling into memory, the conversations and walks and shared meals becoming part of who he was.
 

@@ -1,4 +1,4 @@
-# Scene 01
+# ~~~
 
 The message arrived at 9:47 AM, encrypted, from Rachel Stern's private channel—a secure protocol they had established years ago when she was still at the Post and he was still doing work that required secure protocols. Jerome Washington hadn't heard from her in months. The header contained no subject line, only two words in the body:
 
@@ -74,7 +74,7 @@ He picked up his phone and called Rachel back. "I need to know where this came f
 
 
 
-# Scene 02
+# ~~~
 
 Rachel could not tell him where the video came from. She had found it in a private forum she monitored for tech industry leaks, posted by an anonymous account that had no other activity. The account had been deleted within hours of her viewing it. She had only been able to save the link because she had archived it immediately, an old journalist's reflex.
 
@@ -161,7 +161,7 @@ Rachel called as he was staring at the accumulated evidence.
 
 
 
-# Scene 03
+# ~~~
 
 Denise had made her grandmother's jerk chicken, the recipe she only pulled out when she wanted to bring Jerome back from wherever his work had taken him. The smell of it filled the house, spices and slow-cooked meat, and for a moment when he came down from his office he was simply a man coming to dinner, simply a husband and father entering the warmth of his family.
 
@@ -251,7 +251,7 @@ He ate the chicken. He cleared the table. He told Denise the meal was wonderful.
 
 
 
-# Scene 04
+# ~~~
 
 At eleven o'clock, with the house quiet around him—Denise reading in bed, DeShawn's room dark and silent behind a closed door—Jerome opened his investigation files and began the work of comparison. He had done this kind of analysis hundreds of times in his career: taking two sets of claims and laying them side by side, looking for correspondence and contradiction, for the points where different sources either confirmed or challenged each other. It was the basic methodology of verification. It was what he knew how to do.
 

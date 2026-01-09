@@ -1,4 +1,4 @@
-# Scene 01
+# ~~~
 
 The paper gown was the same blue as the ones she distributed to her own patients, the same thin fabric that offered dignity in theory but not in practice. Elena sat on the examination table, her bare legs dangling, and studied the room as if seeing it for the first time. The blood pressure cuff mounted on the wall. The jar of cotton balls. The biohazard disposal bin she had replaced hundreds of times. All of it familiar, all of it suddenly foreign.
 
@@ -127,7 +127,7 @@ The ordinary rituals of evening began: snacks, homework, the television's distan
 
 
 
-# Scene 02
+# ~~~
 
 Daniel's truck pulled into the driveway at six forty-five, dust-coated from the construction site, the engine ticking as it cooled. Elena watched from the kitchen window as he climbed out, still in his work clothes, jeans and a flannel shirt that had seen too many washes. He moved with the careful deliberation of a man who had been driving for three hours, his body stiff, his face set with worry.
 
@@ -335,7 +335,7 @@ For once, she let herself obey.
 
 
 
-# Scene 03
+# ~~~
 
 Two evenings later, Elena sat with her grandmother sorting medications. The ritual happened at seven o'clock every night: pill bottles lined up on the dresser, the plastic weekly organizer with its small compartments labeled in both English and Spanish. Abuela's hands were swollen, the joints gnarled from arthritis, but she insisted on doing as much as she could herself. Elena supervised, corrected, worried.
 

@@ -1,10 +1,10 @@
-# Chapter 36
+# Chapter 36: The Weight of Having Lived
 
-# Scene 01
+# ~~~
 
-The Chennai airport had changed. Ananya stood at the edge of the arrivals hall, Priya beside her with both their carry-on bags, and looked at what had been built since she last walked through this space. The ceiling arched higher now, glass and steel where she remembered concrete. The light fell differently. But beneath the renovation, beneath the gleaming floor tiles and the digital signage cycling through Tamil and English and Hindi, something remained that her body knew before her mind could name it.
+The Chennai airport had changed. Ananya stood at the edge of the arrivals hall, Priya beside her shouldering both their carry-on bags, and looked at what had been built since she last walked through this space. The ceiling arched higher now, glass and steel where she remembered concrete. The light fell differently. But beneath the renovation, beneath the gleaming floor tiles and the digital signage cycling through Tamil and English and Hindi, something remained that her body recognized before her mind could name it.
 
-The humidity. That was what hit her first. Not unpleasant, not the assault she had braced for, but familiar in a way that made her chest tighten. The air here had weight, had texture. It pressed against her skin like a hand she had forgotten was missing.
+The humidity. That was what struck her first. Not unpleasant, not the assault she had braced for, but familiar in a way that made her chest tighten. The air here had weight, had texture. It pressed against her skin like a hand she had forgotten was missing.
 
 "Amma?" Priya touched her elbow. "You okay?"
 
@@ -17,11 +17,11 @@ And now she was a daughter whose mother had died.
 
 ---
 
-They moved through customs, Ananya's American passport examined with the particular attention that marked her as one who had left, who had chosen elsewhere, who was now returning for reasons the officer didn't need to know. Priya's passport got a different look entirely - the officer glanced at the San Francisco birthplace, the face that was half her father's Irish features and half Ananya's own, and something shifted in his expression. The diaspora's child. The generation that didn't know what they had lost because they had never held it.
+They moved through customs, Ananya's American passport examined with the particular scrutiny that marked her as one who had left, who had chosen elsewhere, who was now returning for reasons the officer didn't need to know. Priya's passport got a different look entirely - the officer glanced at the San Francisco birthplace, the face that was half her father's Irish features and half Ananya's own, and something shifted in his expression. The diaspora's child. The generation that didn't know what they had lost because they had never held it.
 
 "First time in India?" he asked Priya in English.
 
-"Yes," she said, and Ananya felt the word land strangely. All those years of meaning to bring her, of planning trips that never materialized, of saying next summer, next year, when things settle down. And now Priya's first experience of her mother's homeland would be a funeral.
+"Yes," she said, and Ananya felt the word land like a stone in water. All those years of meaning to bring her, of planning trips that never materialized, of saying next summer, next year, when things settle down. And now Priya's first experience of her mother's homeland would be a funeral.
 
 They emerged into the main hall and the wall of sound hit them. Tamil everywhere, the cadence of it, the music of it, voices layered over voices in negotiation and greeting and argument. Ananya's ears adjusted before her mind did. She found herself understanding fragments: where is the taxi, how much, my daughter is coming, the flight was delayed.
 
@@ -32,7 +32,7 @@ Ananya's uncle Venkat stood at the center, thinner than she remembered, his hair
 
 ---
 
-They converged on her with grief and welcome intermingled, the two emotions impossible to separate. Uncle Venkat embraced her with surprising strength, and she felt his body shake with weeping he was trying to suppress. Her mother's youngest brother. The baby of that generation, now an old man.
+They converged on her with grief and welcome intermingled, the two emotions impossible to separate. Uncle Venkat embraced her with surprising strength, and she felt his body shudder with weeping he was trying to suppress. Her mother's youngest brother. The baby of that generation, now an old man.
 
 "Ananya," he said, her name in his accent landing differently than she heard it in California. The vowels were right here. The syllables had their proper weight.
 
@@ -40,7 +40,7 @@ They converged on her with grief and welcome intermingled, the two emotions impo
 
 Lakshmi was already hugging Priya, explaining who she was, orienting this American grandchild who stood bewildered and polite in the midst of relatives she had never met. Someone took their bags. Someone was steering them toward the exit. Ananya moved through it in a kind of fog, her body walking while her mind lagged behind, still processing the fact of arrival.
 
-The drive through Chennai completed what the airport had begun. The city assaulted her with its density, its motion, its absolute refusal to be what she had become accustomed to. Traffic that operated by rules she had forgotten, the constant negotiation of space between cars and autorickshaws and motorcycles and pedestrians who walked into the flow as if protected by faith alone. Billboards she could read, suddenly, the Tamil script resolving into meaning without effort. The smell of exhaust and jasmine and frying food, the particular urban perfume that had no equivalent anywhere she had lived since.
+The drive through Chennai completed what the airport had begun. The city overwhelmed her with its density, its motion, its absolute refusal to be what she had become accustomed to. Traffic that operated by rules she had forgotten, the constant negotiation of space between cars and autorickshaws and motorcycles and pedestrians who walked into the flow as if protected by faith alone. Billboards she could read, suddenly, the Tamil script resolving into meaning without effort. The smell of exhaust and jasmine and frying food, the particular urban perfume that had no equivalent anywhere she had lived since.
 
 Priya sat silent beside her in the car, watching through the window, trying to take it in.
 
@@ -51,9 +51,9 @@ Priya sat silent beside her in the car, watching through the window, trying to t
 
 "Not this part. The neighborhood I knew is further south. But yes." Ananya paused, watching a woman on a scooter navigate between two buses with her sari end flying behind her. "This is where I'm from."
 
-The words felt both true and false. She was from Chennai the way a river is from its source - the origin remained, but what flowed from it had traveled so far, had mixed with so many other waters, that the original composition was nearly undetectable. She had become something else. And yet, as the car turned onto narrower streets and the architecture shifted from commercial to residential, something in her began to hum with recognition.
+The words felt both true and false. She was from Chennai the way a river is from its source - the origin remained, but what flowed from it had traveled so far, had mingled with so many other waters, that the original composition was nearly undetectable. She had become something else. And yet, as the car turned onto narrower streets and the architecture shifted from commercial to residential, something in her began to hum with recognition.
 
-There. That temple. She remembered walking past it on her way to school, the bells ringing, the smell of incense drifting into the street. And there, the corner where the old sweet shop had been, now a mobile phone store but the building unchanged. Her body was navigating before her mind caught up, and she realized she knew exactly how many turns remained before they would reach her parents' house.
+There. That temple. She remembered walking past it on her way to school, the bells tolling, the smell of incense drifting into the street. And there, the corner where the old sweet shop had been, now a mobile phone store but the building unchanged. Her body was navigating before her mind caught up, and she realized she knew exactly how many turns remained before they would reach her parents' house.
 
 Her father's house, now. Just her father's.
 
@@ -66,7 +66,7 @@ Her mother had lived in that house for forty-seven years. Had come there as a yo
 
 The car stopped. The house looked smaller than she remembered, but every house does, seen through adult eyes. The gate was new, metal instead of the wooden one she had known, but the bougainvillea climbing the wall was the same, or its descendant, the same impossible magenta flowers cascading over the compound wall. Someone had painted the house more recently - cream now instead of the yellow she remembered - but the proportions, the windows, the front porch where she had sat with her mother shelling peas, all of that remained.
 
-People were already there. Cars parked along the street, relatives and neighbors gathered. The news had traveled as news does. Ananya saw faces she almost recognized, saw them registering her arrival, saw the particular expression that attends the return of someone who left and is now required to return.
+People were already there. Cars parked along the street, relatives and neighbors gathered. The news had traveled as news does. Ananya saw faces she almost recognized, saw them registering her arrival, saw the particular expression reserved for someone who left and is now required to return.
 
 Priya took her hand. This small gesture from her twenty-three-year-old daughter, this reversal of a thousand childhood moments when Ananya had reached for Priya's hand in crowds, in airports, in difficult moments - it undid something in Ananya. Her breath caught.
 
@@ -84,9 +84,9 @@ Ananya stood at the threshold, Priya's hand still in hers, and let the fact of i
 
 
 
-# Scene 02
+# ~~~
 
-The cremation ground lay at the edge of the city, where Chennai frayed into something less defined. They arrived in a convoy of white cars - Ananya, Priya, her father, her brother Suresh who had flown in from Bangalore, the aunts and uncles and cousins who would witness this ending. The morning was already hot, the sun insistent through a haze that might have been humidity or pollution or simply the atmosphere of grief.
+The cremation ground lay at the edge of the city, where Chennai dissolved into something less defined. They arrived in a convoy of white cars - Ananya, Priya, her father, her brother Suresh who had flown in from Bangalore, the aunts and uncles and cousins who would witness this ending. The morning was already hot, the sun insistent through a haze that might have been humidity or pollution or simply the atmosphere of grief.
 
 Ananya's mother's body traveled in the vehicle ahead, wrapped now in white cotton, adorned with marigolds. Ananya watched the car's taillights through the windshield of the car behind it and tried to hold in her mind the fact that her mother was in that vehicle, that this was real, that they were driving toward fire.
 
@@ -94,14 +94,14 @@ The electric crematorium was a low concrete building, functional rather than bea
 
 She understood now even less than she had then. The words were sounds, were rhythm, were the container for something that didn't require comprehension.
 
-Her father walked ahead, bent in a way she had never seen him, his spine curved under a weight that had nothing to do with the body. He was eighty-one years old and he had just lost the woman he had been married to for fifty-three years. Ananya watched him move toward the building where his wife's body would be turned to ash, and she saw in his posture something she recognized: the particular devastation of the one who remains.
+Her father walked ahead, bent in a way she had never seen him, his spine curved under a weight that had nothing to do with the body. He was eighty-one years old and he had just lost the woman he had been married to for fifty-three years. Ananya watched him move toward the building where his wife's body would become ash, and she saw in his posture something she recognized: the particular devastation of the one who remains.
 
 
 ---
 
-Priya stayed close to Ananya as they entered the building, navigating between clusters of mourners, finding their place in the geography of grief that the priest directed. There was a room where the body was placed, and chairs arranged in rows, and a window through which the flames would be visible when the time came. Everything was organized, procedural, designed to hold the chaos of death within manageable boundaries.
+Priya stayed close to Ananya as they entered the building, navigating between clusters of mourners, finding their place in the geography of grief that the priest directed. There was a room where the body was placed, and chairs arranged in rows, and a window through which the flames would be visible when the time came. Everything was organized, procedural, designed to contain the chaos of death within manageable boundaries.
 
-Ananya's brother stood at her other side, his face set in the expression of a man trying not to feel. Suresh had always been like this, even as a child - the contained one, the one who processed internally, who would weep later in private or not at all. His wife had stayed home with their children. He stood alone, and Ananya reached for his hand without thinking.
+Ananya's brother stood at her other side, his face fixed in the expression of a man trying not to feel. Suresh had always been like this, even as a child - the contained one, the one who processed internally, who would weep later in private or not at all. His wife had stayed home with their children. He stood alone, and Ananya reached for his hand without thinking.
 
 He took it. Held it. They were children again, briefly, in the presence of their mother's ending.
 
@@ -116,11 +116,11 @@ The eldest daughter. A category Ananya had not thought about in years. There had
 
 ---
 
-She stood where Lakshmi placed her, near the body, near the platform that would slide into the chamber. The priest handed her a small vessel of water, and she poured it where he indicated, feeling the gesture's meaning without knowing its name. Her mother's face was visible still, arranged in the calm that death provides, the features settling into something peaceful or simply still.
+She stood where Lakshmi placed her, near the body, near the platform that would slide into the chamber. The priest pressed a small vessel of water into her hands, and she poured it where he indicated, feeling the gesture's meaning without knowing its name. Her mother's face was visible still, arranged in the calm that death provides, the features settling into something peaceful or simply still.
 
 Ananya looked at that face. Her mother had been beautiful, once - she remembered photographs from the wedding, the young bride with her heavy jewelry and serious eyes. Age had softened and creased that beauty without erasing it. Even now, in death, there was something in the arrangement of features that Ananya recognized as the source of her own face, the template she had modified but not escaped.
 
-She remembered her mother's hands. That was what came to her now, unbidden and specific: the way her mother's hands had moved through domestic space, chopping vegetables, grinding spices, arranging flowers for the small home altar. Hands that had braided Ananya's hair for school, had checked her forehead for fever, had waved goodbye when she left for America and then, years later, had folded themselves in her lap during video calls, thinner each year, age-spotted and trembling.
+She remembered her mother's hands. That was what came to her now, unbidden and precise: the way her mother's hands had moved through domestic space, chopping vegetables, grinding spices, arranging flowers for the small home altar. Hands that had braided Ananya's hair for school, had checked her forehead for fever, had waved goodbye when she left for America and then, years later, had folded themselves in her lap during video calls, thinner each year, age-spotted and trembling.
 
 Those hands were still now. Everything was still.
 
@@ -131,7 +131,7 @@ The chanting continued, rose toward something, and Ananya felt the moment approa
 
 Priya was crying. Ananya heard it before she saw it - the small sounds of her daughter's grief, expressed in a way Ananya's own body refused to allow. Priya had met her grandmother only through screens, had known her through the mediated reality of video calls and photographs and stories Ananya told. And yet she wept, and the weeping was real, was for something real.
 
-What do we grieve when we grieve someone we barely knew? Perhaps we grieve the knowing itself, the relationship that might have been, the grandmother and granddaughter who might have spent afternoons together in that Chennai house if geography and ambition and the relentless forward motion of Ananya's American life had not placed an ocean between them.
+What do we grieve when we grieve someone we barely knew? Perhaps we grieve the knowing itself, the relationship that might have been, the grandmother and granddaughter who might have spent afternoons together in that Chennai house if geography and ambition and the relentless forward motion of Ananya's American life had not set an ocean between them.
 
 The platform moved. Ananya watched it slide toward the chamber doors, watched those doors open to reveal the space where transformation would occur. The heat was already present, radiating outward, and she understood suddenly that her mother was about to become fire.
 
@@ -150,7 +150,7 @@ Ash.
 
 ---
 
-Time passed strangely. Ananya stood and then sat and then stood again. Relatives spoke to her, and she responded, though she could not afterward remember what was said. The cremation took hours - this she had not known, had not thought about, the duration of fire. They waited in that building while the transformation completed itself, while her mother's body became reduced to what fire could not consume.
+Time passed strangely. Ananya stood and then sat and then stood again. Relatives spoke to her, and she responded, though she could not afterward recall what was said. The cremation took hours - this she had not known, had not thought about, the duration of fire. They waited in that building while the transformation completed itself, while her mother's body became reduced to what fire could not consume.
 
 Her father sat in a plastic chair, not speaking. Someone brought him water. Someone brought Ananya water. The rituals continued in waves, the priest returning at intervals to guide them through whatever came next.
 
@@ -167,7 +167,7 @@ Ananya's throat closed.
 
 ---
 
-Ananya had not known that. She had not known so many things. The shape of her mother's life, the daily reality of it, the small decisions and moments and accumulations that had made up the fifty-plus years since Ananya had left this city - all of it was opaque to her. She had received the highlights through phone calls and video calls, had constructed an idea of her mother's life from fragments and updates, but the actual texture of it, the quotidian truth of how her mother had lived, had been invisible to her.
+Ananya had not known that. She had not known so many things. The shape of her mother's daily life, the texture of it, the small decisions and moments and accumulations that had made up the decades since Ananya had left this city - all of it was opaque to her. She had received the highlights through phone calls and video calls, had constructed an idea of her mother's life from fragments and updates, but the actual texture of it, the quotidian truth of how her mother had lived, had been invisible to her.
 
 And now it was too late to see it. Now her mother was ash.
 
@@ -185,7 +185,7 @@ Ananya stood in the sunlight and felt the weight of it: her mother was gone, and
 
 
 
-# Scene 03
+# ~~~
 
 The house was full of people and then, eventually, it wasn't. Ananya watched the relatives disperse through the evening, the neighbors returning to their homes, the cousins heading back to their own lives in Bangalore and Hyderabad and Mumbai. The rituals of the day had been observed. The condolences had been offered. What remained was the family itself, contracted now to its essential core: Ananya, Priya, her father, her brother who would fly back tomorrow.
 
@@ -195,7 +195,7 @@ Ananya walked through it in the evening light, touching surfaces her hands remem
 
 The house smelled like incense and marigolds and grief. Under those scents, something fainter: the particular smell of her mother's cooking, trapped in the walls, in the curtains, in the fiber of the place itself. That smell would fade. Everything fades.
 
-Priya had gone to the room they were sharing, tired from travel and emotion. Ananya was tired too, but the tiredness had passed through exhaustion into something else, a wired alertness that would not let her rest. She found herself in what had been her childhood bedroom, now converted to a guest room, and sat on the edge of the bed that was not her childhood bed, looking at walls that had been repainted, at furniture that had been replaced.
+Priya had gone to the room they were sharing, tired from travel and emotion. Ananya was tired too, but the tiredness had passed through exhaustion into something beyond, a wired alertness that would not let her rest. She found herself in what had been her childhood bedroom, now converted to a guest room, and sat on the edge of the bed that was not her childhood bed, looking at walls that had been repainted, at furniture that had been replaced.
 
 
 ---
@@ -204,7 +204,7 @@ Her phone buzzed. A message from Delphine.
 
 *Thinking of you. How are you holding up?*
 
-Ananya looked at the words on the screen, the friendship that had grown over years of professional alliance transformed into something more intimate, more essential. Delphine in Los Angeles, her own life, her documentary finished, her questions about meaning and complicity not so different from Ananya's. They had found each other in the wreckage of the Prometheus years, two women trying to understand what ethical action meant in a world that made ethics difficult.
+Ananya looked at the words on the screen, the friendship that had grown from years of professional alliance into something more intimate, more essential. Delphine in Los Angeles, her own life, her documentary finished, her questions about meaning and complicity not so different from Ananya's. They had found each other in the wreckage of the Prometheus years, two women trying to understand what ethical action meant in a world that made ethics difficult.
 
 *I'm here*, Ananya typed back. *At my mother's house. My father is asleep. Or not sleeping. I don't know.*
 
@@ -216,14 +216,14 @@ The conversation continued in fragments, the particular shorthand of deep friend
 
 Ananya set the phone down and opened the closet. Her mother had kept things. That was immediately clear. The closet was full of boxes, stacked carefully, labeled in her mother's handwriting - handwriting Ananya recognized instantly, the particular slant of those Tamil letters, the precision of them.
 
-She pulled out a box at random. Inside: Ananya's school notebooks from fifth standard. Mathematics. English. Tamil. The pages yellowed, the ink faded, but still legible. Her childhood handwriting, practicing cursive, solving equations, writing short essays about the monsoon.
+She pulled out a box at random. Inside: Ananya's school notebooks from fifth standard. Mathematics. English. Tamil. The pages yellowed, the ink faded, but legible still. Her childhood handwriting, practicing cursive, solving equations, writing short essays about the monsoon.
 
 
 ---
 
 She had written an essay about what she wanted to be when she grew up. She found it in the English notebook, dated 1984, when she would have been ten years old. "I want to be a scientist," she had written. "I want to discover things that nobody has discovered before. I want to help people with my discoveries."
 
-Forty years ago. A child who could not have imagined the shape her life would take, the companies she would work for, the technologies she would help build and then question, the ethical tangles she would spend decades trying to untie. That child had wanted to help people. That child had believed discovery was pure, was good, was the straightforward application of intelligence to problems.
+Forty years ago. A child who could not have imagined the shape her life would take, the companies she would work for, the technologies she would help build and then question, the ethical knots she would spend decades trying to untie. That child had wanted to help people. That child had believed discovery was pure, was good, was the straightforward application of intelligence to problems.
 
 What would that child think of what she had become?
 
@@ -238,7 +238,7 @@ There was another box. Photographs. She opened it and found herself looking at h
 
 There she was with Priya as an infant, visiting Chennai when Priya was only months old. That trip felt distant, almost mythical now - the journey with a baby, her mother's joy at holding her grandchild, the promises Ananya had made about returning often, visiting regularly, maintaining the connection across the ocean.
 
-She had broken those promises. Not dramatically, not intentionally, but in the way that all such promises break: slowly, through the accumulation of demands and delays, through the tyranny of the immediate over the important. Work had always seemed urgent. Priya's school, Priya's activities, the divorce, the rebuilding - everything had seemed to require her presence elsewhere. And her mother had been patient, had understood, had said next time, next year, when you can.
+She had broken those promises. Not dramatically, not intentionally, but in the way all such promises break: slowly, through the accumulation of demands and delays, through the tyranny of the immediate over the important. Work had always seemed urgent. Priya's school, Priya's activities, the divorce, the rebuilding - everything had seemed to require her presence elsewhere. And her mother had been patient, had understood, had said next time, next year, when you can.
 
 Ananya's phone buzzed again. Delphine.
 
@@ -263,13 +263,13 @@ Her father appeared in the doorway. She hadn't heard him approach.
 
 "You found the boxes," he said.
 
-Ananya looked up at him. He seemed smaller than she remembered, though perhaps he had always been this size and her memory had enlarged him. Fathers loom large in childhood. Then you grow up and they become human-sized, and then eventually, if you live long enough, you watch them become small.
+Ananya looked up at him. He seemed smaller than she remembered, though perhaps he had always been this size and memory had enlarged him. Fathers loom large in childhood. Then you grow up and they become human-sized, and then eventually, if you live long enough, you watch them become small.
 
 "She kept everything," Ananya said.
 
 "Yes." Her father came into the room, his movements careful, conserving energy. He sat in the chair near the window. "She always said she would organize it, throw away what wasn't needed. But she never could. Everything reminded her of something."
 
-The silence between them was not uncomfortable but it was full. Full of everything they had not said over the decades, full of the letters that became phone calls that became video calls, each medium a little more efficient and a little less intimate. Full of the grandchildren her father had known only through screens, full of the life Ananya had built that he could understand in theory but not in texture.
+The silence between them was not uncomfortable, but it was full. Full of everything they had not said over the decades, full of the letters that became phone calls that became video calls, each medium more efficient and less intimate than the last. Full of the grandchildren her father had known only through screens, full of the life Ananya had built that he could understand in theory but not in texture.
 
 "The funeral was done well," he said finally. "Your mother would have approved."
 
@@ -287,7 +287,7 @@ Her father closed his eyes. "Stay as long as you can," he said. "Then go back to
 
 
 
-# Scene 04
+# ~~~
 
 The morning of departure arrived with the particular cruelty of departures: the sun still rising, the world still continuing, even though everything had changed. Ananya woke to the sound of her father moving through the house, his footsteps careful and slow, the rhythm of a man relearning his own home now that he was alone in it.
 
@@ -394,9 +394,9 @@ Ananya stood, ready to walk through another departure, carrying Chennai inside h
 
 
 
-# Chapter 37
+# Chapter 37: What the Truth Became
 
-# Scene 01
+# ~~~
 
 The hospice room had a window that looked onto nothing in particular - a parking lot, a strip of grass, the back of another building. Jerome had spent enough hours in this room to know every detail of that view: the way the light changed through the day, the birds that sometimes landed on the grass, the cars that came and went in patterns that suggested shift changes, visiting hours, the schedules of dying.
 
@@ -525,7 +525,7 @@ He stayed with her until the night shift arrived.
 
 
 
-# Scene 02
+# ~~~
 
 Denise arrived first, still in her teaching clothes, her coat pulled on over a cardigan, her bag full of ungraded papers she would not look at tonight. She came into the hospice room with the particular competence of someone who had done this before, who knew the geography of medical crisis, who could navigate the emotions of hospitals without losing herself.
 
@@ -641,7 +641,7 @@ The coffee grew cold. The night deepened. The family waited.
 
 
 
-# Scene 03
+# ~~~
 
 The night took on the quality that only vigils have: suspended, stretched, both endless and too fast. They rotated between the bedside and the waiting room, two at a time keeping watch while the others tried to rest on couches that were not designed for sleeping. Jerome stayed mostly at the bed, unwilling to miss another window if one came.
 
@@ -747,7 +747,7 @@ The body was prepared for transport. The room was cleared. The window that looke
 
 
 
-# Scene 04
+# ~~~
 
 Jerome walked out of the hospice building into Baltimore's winter morning. The air was sharp, cold in a way that felt clarifying after the overheated stillness of the death room. He stood on the sidewalk and breathed it in, feeling his lungs expand, feeling his body confirm that it was still alive, still working, still breathing without effort.
 
@@ -856,9 +856,9 @@ He turned and walked toward them, back into his life, carrying his mother with h
 
 
 
-# Chapter 38
+# Chapter 38: The Story That Tells Itself
 
-# Scene 01
+# ~~~
 
 Delphine woke to the sound of Theo making breakfast, which meant Jessie was letting him use the stove again, which meant Jessie had decided that twelve was old enough for scrambled eggs. The smell of butter and burning bread drifted through the bedroom door, and Delphine lay for a moment in the gray Los Angeles morning, not ready to face the day.
 
@@ -945,7 +945,7 @@ She opened her laptop and began writing the remarks she would give afterward, th
 
 
 
-# Scene 02
+# ~~~
 
 The theater was in Silver Lake, a restored art-deco building that had become a venue for independent film. Delphine arrived with Jessie and Theo an hour early, needing time to adjust to the space, to see the screen where her work would be projected, to check the sound levels one more time even though everything had already been checked.
 
@@ -1070,7 +1070,7 @@ They moved together toward the reception, Ananya's hand on Delphine's back, the 
 
 
 
-# Scene 03
+# ~~~
 
 The reception was in a gallery space adjacent to the theater, white walls hung with art Delphine didn't have the attention to look at. Wine circulated, small bites on trays, the industry performance of post-screening socializing. People approached her in waves, and she responded with the part of herself that knew how to do this, the professional mask she had worn for twenty years.
 
@@ -1198,7 +1198,7 @@ Delphine felt the tears she had been holding back threatening again. She blinked
 
 
 
-# Scene 04
+# ~~~
 
 Home, finally. Theo asleep upstairs, the house quiet around them. Delphine and Jessie sat on the couch in the living room, not touching, each processing the evening in their own way. The premiere was over. The film was out in the world. What came next was the question Delphine had been avoiding.
 
@@ -1346,9 +1346,9 @@ This was its own kind of art.
 
 
 
-# Chapter 39
+# Chapter 39: The Law's Last Word
 
-# Scene 01
+# ~~~
 
 The hotel room was nicer than Ruth needed, but the university had insisted. A suite at the Omni, overlooking the New Haven Green, the kind of accommodation reserved for distinguished lecturers who had earned the right to be comfortable. Ruth sat at the desk in the early morning light, reviewing her notes for the last time, and tried to remember when comfort had begun to feel like obligation.
 
@@ -1423,7 +1423,7 @@ Ruth nodded to no one, closed her notes, and began to pace the room, rehearsing 
 
 
 
-# Scene 02
+# ~~~
 
 The lecture hall was a modern addition to the law school, all glass and light wood, designed to signal that Yale was not trapped in its traditions even as it honored them. Ruth stood at the podium looking out at a room that was nearly full - faculty in the front rows, students behind them, then visitors, observers, the curious public who had come to hear what she would say.
 
@@ -1543,7 +1543,7 @@ The applause continued, and Ruth allowed herself, finally, to feel what she had 
 
 
 
-# Scene 03
+# ~~~
 
 The Q&A session followed the applause, moderated by a young professor Ruth did not know well but who handled the microphone duties with competence. Hands went up throughout the audience, and Ruth prepared herself for the questions that would test what she had said.
 
@@ -1651,7 +1651,7 @@ The reception pulled her forward, the crowd still wanting pieces of her attentio
 
 
 
-# Scene 04
+# ~~~
 
 Ruth walked Yale's campus in the evening light, alone for the first time since morning. The lecture was over, the reception had wound down, her children had departed for their hotels with promises to have breakfast together before flying home. What remained was this: the campus at dusk, the place where her career had begun, the paths she had walked fifty years ago as a student believing everything was possible.
 
@@ -1734,9 +1734,9 @@ She had given what she had. The rest was beyond her reach.
 
 
 
-# Chapter 40
+# Chapter 40: What Singing Is For
 
-# Scene 01
+# ~~~
 
 The venue was called The Current, a converted warehouse in northeast Minneapolis that had been hosting shows for two decades. Yusuf had been here before as an audience member, had stood in the crowd watching musicians he admired, had dreamed of standing where he now stood: on the stage, testing the monitors, running through the set one more time before the doors opened.
 
@@ -1820,7 +1820,7 @@ He waited.
 
 
 
-# Scene 02
+# ~~~
 
 From the wings, Yusuf watched his mother arrive. Amina guided her through the crowd that was beginning to fill the venue, found the seats they had reserved near the front, helped her settle with the careful attention of a daughter who had learned to be caregiver.
 
@@ -1928,7 +1928,7 @@ And he began to play.
 
 
 
-# Scene 03
+# ~~~
 
 The first notes rang out into the room, and something shifted. The anxiety that had been building for hours didn't disappear, but it transformed - became energy, became focus, became the particular fuel that performance required. Yusuf's fingers found the chords they had found a thousand times in practice, but now the chords were amplified, now they filled a space, now they were received by ears that weren't his own.
 
@@ -2033,7 +2033,7 @@ His mother was waiting. That was the only thing that mattered.
 
 
 
-# Scene 04
+# ~~~
 
 His mother rose when he entered the green room, her movements slow but her face radiant with something Yusuf had never seen before. She opened her arms and he went into them, folding himself down to fit against her diminished frame, becoming her child again in that embrace.
 
@@ -2154,9 +2154,9 @@ He played one more chord, let it ring, let it fade, and finally stood to go home
 
 
 
-# Chapter 41
+# Chapter 41: What We Carried
 
-# Scene 01
+# ~~~
 
 The symposium was called "Understanding the Eighth Oblivion: A Decade in Retrospect," and it was being held at a conference center in Washington DC, the kind of neutral space where academics and policymakers and journalists gathered to historicize what the rest of the world was still living through.
 
@@ -2272,7 +2272,7 @@ This was what it meant to be historicized: to speak about your own life as if it
 
 
 
-# Scene 02
+# ~~~
 
 Jerome sat in the audience with his notebook open, the habit of decades unbroken even now. He was here as a journalist, technically - commissioned to write about the symposium for a magazine that still published long-form pieces - but also as a witness, as someone whose work was being cited on the panels, as a person who had lived through what the academics were now analyzing.
 
@@ -2376,7 +2376,7 @@ The truth mattered. It would have to be enough.
 
 
 
-# Scene 03
+# ~~~
 
 The reception was in a high-ceilinged room adjacent to the main conference hall, the kind of space designed for exactly this purpose: drinks, small plates, the circulation of bodies and ideas that was the real work of academic conferences. Delphine moved through it as an observer now, no longer the participant she would have been a year ago, before the documentary, before the decision to step back.
 
@@ -2505,7 +2505,7 @@ Tonight, she would go back to her hotel room and call her family. That was enoug
 
 
 
-# Scene 04
+# ~~~
 
 The room held them all now, these people who had lived through the decade and were beginning to understand that they would spend the rest of their lives trying to understand it. Ananya saw Jerome across the reception space, his notebook closed for once, talking with a young academic who was probably explaining his own work to him. She saw Delphine near the windows, caught in golden late-afternoon light, her wine glass half-full and forgotten in her hand as she listened to something Amina was saying.
 
@@ -2628,9 +2628,9 @@ The reception was over. Time to disperse.
 
 
 
-# Chapter 42
+# Chapter 42: Beyond
 
-# Scene 01
+# ~~~
 
 The morning was gray and soft, the kind of Washington spring morning that couldn't decide if it wanted to rain. Ananya stood in the hotel lobby with her carry-on, watching the slow choreography of departure - conference attendees checking out, calling rideshares, gathering in small clusters for final conversations before dispersing to their separate cities.
 
@@ -2778,7 +2778,7 @@ Her phone buzzed. A text from Priya: *Landed safely. Call tonight?*
 
 
 
-# Scene 02
+# ~~~
 
 Jerome pressed his forehead against the airplane window and watched the clouds move below him, white and gray and infinite in the way that clouds always were, the way they had been before the Eighth Oblivion and would be after whatever came next. The plane hummed its mechanical song. Around him, passengers slept or watched screens or stared into middle distance with the particular vacant attention of air travel.
 
@@ -2858,7 +2858,7 @@ She closed her eyes and let the afternoon sun warm her face. Tomorrow there woul
 
 
 
-# Scene 03
+# ~~~
 
 Elena was washing dishes when Jerome called. The familiar rhythm of her Phoenix evening - Daniel reading in the living room, Sofia and Mateo somewhere in the house doing their teenager things, the desert light fading to purple through the kitchen window - and then the phone buzzing on the counter with Jerome's name on the screen.
 
@@ -3023,7 +3023,7 @@ Tonight, he was home.
 
 
 
-# Scene 04
+# ~~~
 
 Jerome sat at his desk in the Baltimore rowhouse, the evening settling around him like something familiar, something earned. Denise was in the kitchen, and he could hear her moving through the space - the clink of dishes, the hum of the radio she kept on while cooking, the particular sounds of a life being lived in the room next door.
 

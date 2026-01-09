@@ -1,4 +1,4 @@
-# Scene 01
+# ~~~
 
 The venue was called The Current, a converted warehouse in northeast Minneapolis that had been hosting shows for two decades. Yusuf had been here before as an audience member, had stood in the crowd watching musicians he admired, had dreamed of standing where he now stood: on the stage, testing the monitors, running through the set one more time before the doors opened.
 
@@ -82,7 +82,7 @@ He waited.
 
 
 
-# Scene 02
+# ~~~
 
 From the wings, Yusuf watched his mother arrive. Amina guided her through the crowd that was beginning to fill the venue, found the seats they had reserved near the front, helped her settle with the careful attention of a daughter who had learned to be caregiver.
 
@@ -190,7 +190,7 @@ And he began to play.
 
 
 
-# Scene 03
+# ~~~
 
 The first notes rang out into the room, and something shifted. The anxiety that had been building for hours didn't disappear, but it transformed - became energy, became focus, became the particular fuel that performance required. Yusuf's fingers found the chords they had found a thousand times in practice, but now the chords were amplified, now they filled a space, now they were received by ears that weren't his own.
 
@@ -295,7 +295,7 @@ His mother was waiting. That was the only thing that mattered.
 
 
 
-# Scene 04
+# ~~~
 
 His mother rose when he entered the green room, her movements slow but her face radiant with something Yusuf had never seen before. She opened her arms and he went into them, folding himself down to fit against her diminished frame, becoming her child again in that embrace.
 

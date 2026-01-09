@@ -1,8 +1,8 @@
-# Chapter 09
+# Chapter 9: The Weight of Presence
 
-# Scene 01
+# ~~~
 
-The light through the bay windows had that particular quality of late October mornings in San Francisco, soft and diffuse, the fog having burned off an hour earlier but the sun not yet committed to anything as assertive as warmth. Ananya stood at the kitchen counter with her second cup of coffee, watching the street below where a woman walked a golden retriever past the row of Victorian facades. The dog stopped at every tree. The woman waited, phone pressed to her ear. A ordinary Tuesday, the kind of morning she had learned to appreciate in the eighteen months since leaving Prometheus, these small moments of nothing happening, of time not accelerating toward some deadline or deliverable.
+The light through the bay windows had that particular quality of late October mornings in San Francisco, soft and diffuse, the fog having burned off an hour earlier but the sun not yet committed to anything as assertive as warmth. Ananya stood at the kitchen counter with her second cup of coffee, watching the street below where a woman walked a golden retriever past the row of Victorian facades. The dog stopped at every tree. The woman waited, phone pressed to her ear. An ordinary Tuesday, the kind of morning she had learned to appreciate in the eighteen months since leaving Prometheus, these small moments of nothing happening, of time not accelerating toward some deadline or deliverable.
 
 She had been reviewing consulting proposals when the intercom buzzed. The building had a concierge, but deliveries came directly to doors. She pressed the button without thinking, heard the static of street noise, a voice saying something about a delivery requiring signature.
 
@@ -55,7 +55,7 @@ The complaint did not mention the modifications. Did not mention the hundreds of
 
 She reached page thirty before she had to stop.
 
-The individual plaintiff statements. Names she didn't recognize attached to stories that felt unbearable. A teenager hospitalized after an AI-driven content recommendation spiral. A young professional who lost his job after developing a compulsive relationship with a Prometheus productivity app that measured and gamified every aspect of his workday. An elderly woman whose AI companion was deprecated without warning, the loss registering as grief.
+The individual plaintiff statements. Names she didn't recognize attached to stories that felt unbearable. A teenager hospitalized after an AI-driven content recommendation spiral. A young professional who lost his job after developing a compulsive relationship with a Prometheus productivity app that measured and gamified every aspect of his workday. An elderly woman whose AI companion had been deprecated without warning, the loss registering as grief indistinguishable from any other.
 
 Ananya walked to the window. The fog was returning, tendrils of it reaching in from the bay. The street below was empty now, the woman with the dog long gone.
 
@@ -92,7 +92,7 @@ Silence on the line. Not judgment, Ananya knew. Delphine processing, the way she
 
 "Then give yourself time to not know."
 
-Outside, a cable car climbed the hill, the mechanical grind of it carrying up to her window. Tourists hung from the sides, phones raised. Documenting everything, preserving nothing.
+Outside, a cable car climbed the hill, the mechanical grind of its gears carrying up to her window. Tourists hung from the sides, phones raised. Documenting everything, preserving nothing.
 
 "They quote my memos," Ananya said. "The warnings I wrote. The language I chose so carefully, thinking I was building a record, creating accountability. They use it to prove I knew. That I knew and kept approving anyway."
 
@@ -117,7 +117,7 @@ The question Delphine would ask. Direct, unsparing, but asked with love rather t
 
 "That's exactly the kind of distinction I spent a decade making. At what cost."
 
-Delphine didn't respond to that. There was nothing to say. They both knew the cost, had watched it accumulate year by year, the way Ananya's certainty eroded, the way her marriage ended not with drama but with the quiet recognition that she had become someone neither she nor Vikram could fully see anymore.
+Delphine didn't respond to that. There was nothing to say. They both knew the cost, had watched it accumulate year by year, the way Ananya's certainty eroded grain by grain, the way her marriage ended not with drama but with the quiet recognition that she had become someone neither she nor Vikram could fully see anymore.
 
 "What are you going to do?" Delphine asked finally.
 
@@ -140,7 +140,7 @@ She thought about calling Vikram. He would need to know, for Priya's sake if not
 
 She would call him tomorrow. Or the day after. When she had found a lawyer, when she had some sense of what this would mean practically.
 
-For now, she gathered the pages back into their envelope. Set it on her desk where she would see it. A reminder that the reckoning she had been waiting for had finally arrived, that all those years of telling herself stories about ethics and impact and incremental change would now be tested against evidence.
+For now, she gathered the pages back into their envelope. Set it on her desk where she would see it every time she sat down to work. A reminder that the reckoning she had been waiting for had finally arrived, that all those years of telling herself stories about ethics and impact and incremental change would now be tested against evidence.
 
 The woman with the golden retriever walked past again, heading the other direction now. The dog's tail wagged. The woman laughed at something on her phone.
 
@@ -152,11 +152,11 @@ Ananya watched them disappear around the corner and tried to remember the last t
 
 
 
-# Scene 02
+# ~~~
 
 That evening, after Delphine left and the apartment grew quiet, Ananya opened her laptop and navigated to the folder she had not touched in eighteen months. Prometheus Archives. Twelve hundred files spanning eight years. Memos, meeting notes, presentation slides, emails she had forwarded to her personal account when she still believed documentation might matter.
 
-The folder icon sat gray against her desktop. She clicked.
+The folder icon sat gray against her desktop like a door she had nailed shut. She clicked.
 
 The first file alphabetically: *2028-06-15_Engagement_Ethics_Framework_v1.docx*. Her original proposal for the role, written before she accepted the position, when she still imagined she was negotiating from strength. She had demanded that title, Chief Ethics Officer, insisted on reporting directly to David Park, believed that structural position would translate to actual power.
 
@@ -164,14 +164,14 @@ She did not open that file. Some illusions were too painful to revisit.
 
 Instead she searched for the date from the complaint. March 14, 2029. The memo they had quoted. She found it: *2029-03-14_Engagement_Optimization_Review_FINAL.docx*.
 
-The conference room had been called Horizon. Glass walls, eleventh floor, a view of the South Bay that on clear days extended to San Jose. That morning the fog had pressed against the windows like something wanting in. Eight people around the table, most of them engineers, two product managers, herself. David Park presiding from the head of the table, his coffee cup bearing the Prometheus logo, a stylized flame that she had always found vaguely ominous.
+The conference room had been called Horizon. Glass walls, eleventh floor, a view of the South Bay that on clear days extended to San Jose. That morning the fog had pressed against the windows like something wanting in. Eight people around the table, most of them engineers, two product managers, herself. David Park presiding from the head of the table, his coffee cup bearing the Prometheus logo, a stylized flame that she had always found vaguely menacing in its implications.
 
 
 ---
 
 "Walk us through the findings," David had said. Not a question, not quite a command. The particular tone he used when he already knew what you were going to say and was calculating how to neutralize it.
 
-Ananya had practiced. She had data, charts, user surveys, academic literature. She had anticipated objections and prepared responses. She was thirty-four years old and still believed that being right would be enough.
+Ananya had practiced. She had data, charts, user surveys, academic literature. She had anticipated objections and prepared responses. She was thirty-four years old and still believed that being right, demonstrably and meticulously right, would be enough.
 
 "The engagement optimization system is working as designed," she began. "Users are spending thirty-seven percent more time on the platform compared to our baseline. Session frequency is up twenty-two percent. These are the metrics we optimized for, and they're performing well."
 
@@ -196,7 +196,7 @@ D. Park, 9:52 AM: "And if we make these changes, what's the projected impact on 
 
 A. Ramaswamy, 9:53 AM: "Our modeling suggests a twelve to eighteen percent reduction in time-on-platform."
 
-She remembered the silence that followed. The quality of it. Not shock, not opposition. Just a kind of settling, as if the air in the room had grown denser. Everyone understood what she had just said. She had put a number on the cost of ethics, and the number was eighteen percent of their primary growth metric.
+She remembered the silence that followed. The quality of it. Not shock, not opposition, not even calculation. Just a kind of settling, as if the air in the room had grown denser, heavier, more difficult to breathe. Everyone understood what she had just said. She had put a number on the cost of ethics, and the number was eighteen percent of their primary growth metric.
 
 In the present, sitting in her dim apartment, Ananya scrolled to the next page of her notes. The conversation that followed, the one that should have told her everything she needed to know about what her role actually was.
 
@@ -205,7 +205,7 @@ In the present, sitting in her dim apartment, Ananya scrolled to the next page o
 
 D. Park, 9:55 AM: "These are thoughtful recommendations. Really thoughtful. This is exactly the kind of rigorous analysis we brought you on to do."
 
-She had felt, in that moment, a flush of something she would later identify as shame. Gratitude that he was praising her work. As if his approval validated her concerns, when in fact his approval was the first move in making those concerns disappear.
+She had felt, in that moment, a flush of something she would later identify as shame but which felt at the time like relief, like gratitude that he was praising her work. As if his approval validated her concerns, when in fact his approval was the first move in making those concerns disappear.
 
 D. Park, 9:56 AM: "Let's do this. Let's have Ananya's team do a deeper dive on the notification piece. That feels like low-hanging fruit, something we could adjust without major impact. The break feature is interesting but we'd need to study user reactions. And the transparency dashboard is definitely worth exploring for a future release."
 
@@ -228,7 +228,7 @@ She jumped ahead. 2031. The board presentation.
 
 She had titled it herself, that phrase, ethics as competitive advantage. The framing that made ethics legible to people who thought only in terms of market position. She had believed, then, that meeting them where they were was a form of strategic wisdom rather than surrender.
 
-The board room was different from Horizon, smaller, darker, wood-paneled in a way that suggested permanence. The faces around the table represented thirty billion dollars in fiduciary responsibility. She had fifteen minutes to make the case for treating users like people rather than engagement metrics.
+The board room was different from Horizon, smaller, darker, wood-paneled in a way that suggested permanence. The faces around the table represented thirty billion dollars in fiduciary responsibility and exactly zero obligation to anyone harmed by the products generating that value. She had fifteen minutes to make the case for treating users like people rather than engagement metrics.
 
 "The landscape is shifting," she had told them. "Regulatory pressure in Europe. Growing consumer awareness. Competitors positioning themselves as the ethical alternative. Companies that get ahead of this curve will have significant advantages."
 
@@ -257,7 +257,7 @@ She had waited for the but.
 
 David leaned forward. Advocate. "Ananya, I think what Robert is saying is that your role needs to evolve. We've built the foundation. Now we need to integrate ethics into the product development process rather than making it a separate review stage."
 
-Integration. The word that meant dissolution. Making ethics everyone's job was how you made it no one's job.
+Integration. The word that meant dissolution. She had heard it before, in other contexts, always with the same outcome. Making ethics everyone's job was how you made it no one's job.
 
 
 ---
@@ -274,11 +274,11 @@ The file opened. Her own words from three years ago:
 
 *And what do I do with what I know? Everything I've documented, everything I've tried to fix - does it just disappear?*
 
-*I tell myself I'm making it incrementally better. Reducing harm at the margins. That the modifications I've negotiated have helped even if they haven't solved anything.*
+*I tell myself I'm making it incrementally better. Reducing harm at the margins. That the modifications I've negotiated have helped someone, somewhere, even if they haven't solved anything.*
 
 *Maybe that's true. Maybe I'm just telling myself stories so I can sleep at night.*
 
-*I don't know anymore. I used to know.*
+*I don't know anymore. I used to know. That certainty feels very far away.*
 
 She closed the laptop. Outside her window, the city lights had come on, the fog reflecting them into a general glow. She had stayed another year after writing that. Another year of approvals, of compromises, of telling herself the stories that had brought her here, to this apartment, to this lawsuit, to this reckoning she could no longer avoid.
 
@@ -289,7 +289,7 @@ The files contained everything the plaintiffs' lawyers would need to prove their
 
 They also contained evidence of the other story, the one the complaint didn't tell. The modifications that reduced harm, even if they didn't eliminate it. The products she had blocked entirely, the ones too dangerous to approve even for someone as compromised as she had become. The small victories that had felt, at the time, like progress.
 
-Both stories were true. That was the thing she could not figure out how to explain, not to a court, not to Delphine, not to herself. She had tried to do good and she had failed. She had also succeeded, in ways that were invisible because success meant harm that never happened. She had been complicit and she had been resistant. She had stayed too long and she had done work that mattered.
+Both stories were true. That was the thing she could not figure out how to explain, not to a court, not to Delphine, not to Priya when she inevitably asked, not to herself. She had tried to do good and she had failed. She had also succeeded, in ways that were invisible because success meant harm that never happened. She had been complicit and she had been resistant. She had stayed too long and she had done work that mattered.
 
 None of this resolved into a clean verdict. None of this told her what to do now.
 
@@ -301,15 +301,15 @@ She looked at the envelope on her desk, the complaint she would have to answer. 
 
 
 
-# Scene 03
+# ~~~
 
-Three days later, Priya arrived with her overnight bag slung over one shoulder and her laptop clutched to her chest like a shield. She had Ananya's eyes but Vikram's bone structure, the combination producing a face that could shift from open to guarded in the space of a breath.
+Three days later, Priya arrived with her overnight bag slung over one shoulder and her laptop clutched to her chest like armor. She had Ananya's eyes but Vikram's bone structure, the combination producing a face that could shift from open to guarded in the space of a single breath.
 
 "I have to finish my essays," she announced, dropping the bag by the door. "Can we not have a whole thing tonight?"
 
 "No whole thing," Ananya promised. She had not told Priya about the lawsuit. She would have to, eventually. Not tonight.
 
-They made dinner together, the way they had been doing since the divorce, since Priya started shuttling between apartments and Ananya became determined to make their weeks together feel like home rather than visitation. Pasta with the sauce Priya liked, garlic bread from the bakery down the street, salad that Ananya ate and Priya ignored.
+They made dinner together, the way they had been doing since the divorce, since Priya started shuttling between apartments and Ananya became determined to make their weeks together feel like home rather than visitation. Pasta with the marinara Priya had liked since childhood, garlic bread from the bakery down the street, salad that Ananya ate and Priya ignored.
 
 "Which essay are you working on?"
 
@@ -330,7 +330,7 @@ Priya's expression flickered. "Dad's values are pretty obvious. Make money, inve
 
 ---
 
-Ananya did not answer. The marriage had ended in part because she could not reconcile her ethics work with Vikram's enthusiastic funding of companies whose business models depended on the same dynamics she was trying to constrain. They had learned not to discuss work. The silence had expanded until it filled the whole house.
+Ananya did not answer. The marriage had ended in part because she could not reconcile her ethics work with Vikram's enthusiastic funding of companies whose business models depended on the same dynamics she was supposed to be constraining. They had learned not to discuss work. The silence had expanded until it filled the whole house.
 
 "I was thinking maybe you," Priya said.
 
@@ -379,7 +379,7 @@ Ananya set down her glass. "I have documents. Internal records. Evidence of the 
 
 "No. I tried. I made changes at the margins. But I didn't stop it."
 
-Priya looked up from her laptop. Her eyes, Ananya's own eyes, held something new. Not accusation, not yet. Something more like the first recognition of complexity, the dawning awareness that her mother was not simply heroic.
+Priya looked up from her laptop. Her eyes, Ananya's own eyes staring back at her, held something new. Not accusation, not yet. Something more like the first recognition of complexity, the dawning awareness that her mother was not simply heroic, had never been simply anything.
 
 "Then what was the point?"
 
@@ -406,7 +406,7 @@ She explained. The complaint, the allegations, her name on the defendant list al
 
 "Did you stay because you believed that? Or because it was comfortable?"
 
-The question from the college essay prompt, transformed. Ananya felt tears prick at her eyes and blinked them back. She would not make this about her emotions. Priya deserved answers, not performance.
+The question from the college essay prompt, transformed into something that cut. Ananya felt tears prick at her eyes and blinked them back. She would not make this about her emotions. Priya deserved answers, not performance.
 
 "Both. I told myself I was staying for ethical reasons, but staying also meant money, status, influence. A career. It's hard to separate the parts."
 
@@ -417,7 +417,7 @@ The question from the college essay prompt, transformed. Ananya felt tears prick
 
 ---
 
-Priya stood up, walked to the window, stood where Ananya had stood three days ago watching the fog roll in. Her back was straight, her shoulders tense.
+Priya stood, walked to the window, stood where Ananya had stood three days ago watching the fog roll in. Her back was straight, her shoulders held with a tension that seemed to come from somewhere deep in her chest.
 
 "I used to tell people my mom worked in ethics," Priya said. "When they asked what you did. I was proud of it. It sounded important. Like you were making sure the technology was good."
 
@@ -429,7 +429,7 @@ The word hung between them. Ananya did not argue. Could not argue.
 
 "Not completely. But in the ways that mattered most, yes. I failed."
 
-Priya turned around. Her face was wet, tears she hadn't wiped away, and the sight of them broke something in Ananya's chest.
+Priya turned around. Her face was wet, tears she hadn't bothered to wipe away, and the sight of them broke something in Ananya's chest that she had not known was still intact.
 
 "Then why should I write about you? If you just failed?"
 
@@ -452,7 +452,7 @@ Priya wiped her face with her sleeve. A gesture from childhood, the five-year-ol
 
 ---
 
-Priya came back to the couch. Sat down, but farther away than before. The distance between them measured in cushions, in years, in the accumulated weight of stories Ananya had told about her work that were turning out to be incomplete.
+Priya came back to the couch. Sat down, but farther away than before, at the far end where the arm curved. The distance between them measured in cushions, in years, in the accumulated weight of stories Ananya had told about her work that were now revealed as incomplete.
 
 "Here's what I don't understand," Priya said. "If you knew you were failing, why didn't you just quit?"
 
@@ -462,7 +462,7 @@ Priya came back to the couch. Sat down, but farther away than before. The distan
 
 "Because I thought I might still change things. Because I was afraid of what would happen if someone worse took over. Because I had built my whole identity around being the ethical one, and leaving felt like admitting I wasn't."
 
-"That last part is about you, though. Not about actually being ethical."
+"That last part is about you, though. Not about actually being ethical. It's just about feeling ethical."
 
 Ananya closed her eyes. "Yes. You're right."
 
@@ -512,9 +512,9 @@ Ananya thought of the files on her laptop, the archived evidence of a decade's w
 
 
 
-# Chapter 10
+# Chapter 10: Bodies Remember
 
-# Scene 01
+# ~~~
 
 The paper gown was the same blue as the ones she distributed to her own patients, the same thin fabric that offered dignity in theory but not in practice. Elena sat on the examination table, her bare legs dangling, and studied the room as if seeing it for the first time. The blood pressure cuff mounted on the wall. The jar of cotton balls. The biohazard disposal bin she had replaced hundreds of times. All of it familiar, all of it suddenly foreign.
 
@@ -643,7 +643,7 @@ The ordinary rituals of evening began: snacks, homework, the television's distan
 
 
 
-# Scene 02
+# ~~~
 
 Daniel's truck pulled into the driveway at six forty-five, dust-coated from the construction site, the engine ticking as it cooled. Elena watched from the kitchen window as he climbed out, still in his work clothes, jeans and a flannel shirt that had seen too many washes. He moved with the careful deliberation of a man who had been driving for three hours, his body stiff, his face set with worry.
 
@@ -851,7 +851,7 @@ For once, she let herself obey.
 
 
 
-# Scene 03
+# ~~~
 
 Two evenings later, Elena sat with her grandmother sorting medications. The ritual happened at seven o'clock every night: pill bottles lined up on the dresser, the plastic weekly organizer with its small compartments labeled in both English and Spanish. Abuela's hands were swollen, the joints gnarled from arthritis, but she insisted on doing as much as she could herself. Elena supervised, corrected, worried.
 
@@ -1009,9 +1009,9 @@ It was, perhaps, the first step of peace talks with a body she had fought for to
 
 
 
-# Chapter 11
+# Chapter 11: The Ledger
 
-# Scene 01
+# ~~~
 
 The address was a house in Edina, one of those suburb-within-a-suburb neighborhoods where the lawns were immaculate and the houses all looked like they'd been designed by the same AI. Yusuf pulled up to the curb, checked the order on his phone - Thai food, forty-seven dollars, the customer had tipped eighteen percent in advance - and jogged to the door with the bag swinging.
 
@@ -1152,7 +1152,7 @@ He hung up and sat in the silence. The cascade hadn't stopped. But something els
 
 
 
-# Scene 02
+# ~~~
 
 Amina came through the door carrying a backpack and a duffel bag, wearing a University of Minnesota sweatshirt and the kind of white sneakers that cost more than Yusuf made in a shift. She dropped everything in the hallway and wrapped her arms around him, squeezing hard enough to hurt.
 
@@ -1342,7 +1342,7 @@ He pushed the door open and walked in.
 
 
 
-# Scene 03
+# ~~~
 
 The lobby smelled the same. That particular mix of cigarette smoke and audio equipment, of late nights and creative desperation. The walls were covered with album artwork, most of it from artists Yusuf didn't recognize but some from people he knew, people he had worked alongside in the years before everything changed.
 
@@ -1516,9 +1516,9 @@ He went back into the control room and asked Darnell about booking regular sessi
 
 
 
-# Chapter 12
+# Chapter 12: The Faith of Structures
 
-# Scene 01
+# ~~~
 
 The apartment held too much silence. Ruth had lived in this Dupont Circle space for thirty years, the last six of them alone, and she still found herself surprised by the quiet when she entered - the absence of Susan's voice calling from the kitchen, the absence of piano music drifting from the living room, the absence of the particular quality of air that meant another person was present.
 
@@ -1643,7 +1643,7 @@ Then she went to bed, alone in the room she had shared with Susan for twenty-eig
 
 
 
-# Scene 02
+# ~~~
 
 The hearing room was designed to impress. Wood paneling the color of old money, flags standing sentinel behind the dais, the great seal of the United States dominating the wall like a promise no one could keep. Ruth had testified in rooms like this before, many times, always as expert witness or invited scholar. This was different. This was reckoning.
 
@@ -1781,7 +1781,7 @@ In a few hours, David and Rebecca would arrive, each with their own response to 
 
 
 
-# Scene 03
+# ~~~
 
 The restaurant was meant to be neutral ground. Italian, midscale, the kind of place where families gathered for occasions that weren't quite celebrations. Ruth had chosen it deliberately: not her apartment, not weighted with Susan's presence, not the stage where her testimony had just been delivered.
 
@@ -1934,9 +1934,9 @@ She set down her pen and looked at the letter. Tomorrow she would decide whether
 
 
 
-# Chapter 13
+# Chapter 13: What the Daughter Knows
 
-# Scene 01
+# ~~~
 
 Priya stood in the doorway holding a manila folder thick with papers. Behind her, her bags were packed and waiting, the physical evidence of departure that would happen in two days. Ananya had expected a normal visit, perhaps some last-minute college preparations, conversation about the life Priya was about to begin.
 
@@ -2109,7 +2109,7 @@ Priya's pen hovered over her notebook. "That's what I can't understand. Five yea
 
 
 
-# Scene 02
+# ~~~
 
 They ordered food neither of them wanted to eat. Indian takeout, a shared favorite, the containers cooling on the kitchen counter while they talked. The formality had broken down somewhat - Priya had set aside her folder, was listening now rather than interrogating - but the tension remained.
 
@@ -2303,7 +2303,7 @@ The microwave beeped. Neither of them had put anything else in it. A ghost in th
 
 
 
-# Scene 03
+# ~~~
 
 They made tea. The ritual was familiar, automatic - water boiling, leaves steeping, the particular cups Ananya had brought from her grandmother's house decades ago. By now the apartment was dark except for the stove light and a single lamp, the city glittering beyond the windows.
 
@@ -2495,9 +2495,9 @@ Ananya thanked her friend, hung up, and sat in the dark kitchen until sleep beca
 
 
 
-# Chapter 14
+# Chapter 14: The Caregiver Receives
 
-# Scene 01
+# ~~~
 
 The waiting room had the same magazines it had held a month ago, the same faded posters about hand-washing and vaccine schedules. Elena had sat in rooms like this ten thousand times as a provider, guiding patients through anxious waits, but she had never fully understood the particular quality of time when you were the one waiting. Each minute stretched, became elastic, seemed to hold more seconds than physics should allow.
 
@@ -2658,7 +2658,7 @@ She couldn't promise. No one could promise anything about bodies and time. But s
 
 
 
-# Scene 02
+# ~~~
 
 Daniel cooked with the same attention he brought to construction - measuring, leveling, ensuring everything was precisely where it needed to be. The kitchen filled with the smell of his grandmother's recipes: chiles roasting on the burner, beans simmering on the back, the particular spice blend he'd learned before she died.
 
@@ -2831,7 +2831,7 @@ The marriage had bent. It had nearly broken. But here, in the kitchen that smell
 
 
 
-# Scene 03
+# ~~~
 
 Her abuela's cane made a sound against the sidewalk that Elena had never noticed before. Click. Pause. Click. The rhythm of a body negotiating with concrete, with gravity, with the accumulated weight of seventy-eight years. They walked together down the street where Elena had grown up, past the Martinez house with its chain-link fence, past the lot where Mr. Dominguez used to work on cars before his hands gave out, past the corner where she had waited for the school bus every morning for twelve years.
 
@@ -2982,9 +2982,9 @@ That night, after the children were in bed, Elena sat in her own bed with a note
 
 
 
-# Chapter 15
+# Chapter 15: The Offer
 
-# Scene 01
+# ~~~
 
 Kevin Zhou walked into the coffee shop like he was entering hostile territory. Which, Yusuf supposed, he was. This neighborhood had gentrified faster than the people who made it interesting could afford to stay, and Kevin - with his obvious tech money clothes that tried hard not to look expensive, his confident stance that came from never having to wonder if he belonged - was exactly the kind of person who had displaced them.
 
@@ -3130,7 +3130,7 @@ He had one week to decide.
 
 
 
-# Scene 02
+# ~~~
 
 Amina was washing dishes when Yusuf finally told her. Their mother had retreated to the bedroom with her evening tea and her phone, scrolling through news from Mogadishu that she never talked about but never stopped reading. The apartment was small enough that they could hear the water running in the bathroom, the neighbor's television through the wall, the particular settling sounds of a building that had been tired since before they moved in.
 
@@ -3322,7 +3322,7 @@ It was the thing she always said. Tomorrow will be different. Sometimes it was a
 
 
 
-# Scene 03
+# ~~~
 
 The studio smelled like dust and old cables and whatever the previous band had eaten for lunch. Yusuf set up in the live room while Marcus - the owner, a man who had aged like his equipment, both still functional if showing wear - adjusted levels in the control room behind the glass. The headphones hung around Yusuf's neck, not yet needed. He wasn't sure what he was here to record.
 
@@ -3495,9 +3495,9 @@ They stood there in the kitchen, holding each other, while the onions softened i
 
 
 
-# Chapter 16
+# Chapter 16: The Decision
 
-# Scene 01
+# ~~~
 
 The law office was in Oakland, which Sarah Okonkwo had explained was deliberate. Not San Francisco, not the corporate territory where Prometheus's shadow fell across every building and every conversation. Here, across the bay, there was enough distance to breathe. The conference room had large windows facing west, and the winter rain drew soft lines down the glass.
 
@@ -3627,7 +3627,7 @@ The rain fell. The bridge lights reflected on the wet road. Ananya drove toward 
 
 
 
-# Scene 02
+# ~~~
 
 The restaurant was one they had been coming to since the early days of their friendship, back when Delphine was still figuring out how to be married and Ananya was still pretending that her job at Prometheus meant something. Small place, Chilean food, a back table they had claimed enough times that the servers no longer asked where they wanted to sit.
 
@@ -3767,7 +3767,7 @@ She knew what she was going to do. She had always known. The only question now w
 
 
 
-# Scene 03
+# ~~~
 
 The cooperation agreement sat on her desk, twelve pages of legal language that reduced moral choice to signatures and initials. Ananya had read it three times. She understood what it meant: she would provide testimony, produce documents, answer questions under oath. In exchange, she would receive limited immunity for her own conduct - not absolution, just protection. The law's version of accountability.
 
@@ -3899,9 +3899,9 @@ But it was something.
 
 
 
-# Chapter 17
+# Chapter 17: The Reckoning Complete
 
-# Scene 01
+# ~~~
 
 The phone rang at four in the morning, and Elena knew before she answered. Knew the way anyone knows when the phone rings in the dark hours, when the body understands before the mind has time to construct defenses. She reached for it on the nightstand, Daniel already stirring beside her, and said hello into the darkness of their bedroom.
 
@@ -3987,7 +3987,7 @@ She didn't know if her grandmother could hear. But she said it anyway. There wou
 
 
 
-# Scene 02
+# ~~~
 
 Yusuf woke at six-thirty, his phone alarm set earlier than it had been in years. Not for a delivery, not for a shift that the algorithm had assigned him, but for something he had chosen. His first day at a real job.
 
@@ -4071,7 +4071,7 @@ Outside, the December sun was setting already, the winter solstice claiming its 
 
 
 
-# Scene 03
+# ~~~
 
 Ruth sat at the desk where she had written legal opinions for forty years, but she was not writing legal opinions now. The desk faced the window, the way it always had, and through the glass she could see the December street, the bare trees, the sky that would begin darkening again in just a few hours. The shortest day of the year. The longest night coming.
 
@@ -4145,7 +4145,7 @@ Ruth set down her pen and flexed her hand, the ache familiar and almost welcome.
 
 
 
-# Scene 04
+# ~~~
 
 Ananya found the house by the number of cars parked along the street, the way you find a gathering even when you've never been there before. The neighborhood was unfamiliar - Phoenix sprawl, a kind of suburban architecture she associated with families and space and a life very different from her San Francisco apartment. She had flown in that morning, rental car from the airport, directions from her phone. The lawsuit news had arrived while she was boarding: Prometheus's lawyers had filed a motion to compel, a response designed to intimidate. It felt very far away now.
 

@@ -1,6 +1,6 @@
 She woke to the house already awake.
 
-Not in any dramatic sense - no sounds of coffee grinding or automated blinds rising, nothing so obvious as a machine performing morning. But the air had shifted overnight, the ambient system reading the quality of her sleep and adjusting temperature, humidity, the spectrum of light now filtering through the climate-adaptive glass. Delphine lay still for a moment, feeling the particular weight of consciousness returning, the way it always took longer now than it had at thirty, at twenty-five, the gradual reassembly of self from the scattered fragments of dream.
+Not in any dramatic sense - no sounds of coffee grinding or automated blinds rising, nothing so obvious as a machine performing morning. But the air had shifted overnight, the ambient system reading the quality of her sleep through some combination of motion sensors and breath analysis, adjusting temperature, humidity, the spectrum of light now filtering through the climate-adaptive glass. Delphine lay still for a moment, feeling the particular weight of consciousness returning, the way it always took longer now than it had at thirty, at twenty-five, the gradual reassembly of self from the scattered fragments of dream.
 
 Forty-one years old. Three years since everything changed.
 
@@ -27,7 +27,7 @@ He turned to her with the specific delight that still, after seven years, made s
 
 "The gravity thing. It made sense in the dream."
 
-She sat on the edge of his bed and he crawled into her lap, fitting himself against her body with the practiced ease of a child who'd been held exactly this way ten thousand times. His warmth, his weight, the smell of his hair - these were the things the systems couldn't replicate, couldn't optimize, couldn't learn their way toward. She held him and watched the Los Angeles light shift through his window, thinking about breakfast, about the day ahead, about all the small negotiations that made a morning possible.
+She sat on the edge of his bed and he crawled into her lap, fitting himself against her body with the practiced ease of a child who'd been held exactly this way ten thousand times. His warmth, his weight, the smell of his hair - detangler and sleep-sweat and something underneath that was just him, unmistakably - these were the things the systems couldn't replicate, couldn't optimize, couldn't learn their way toward. She held him and watched the Los Angeles light shift through his window, thinking about breakfast, about the day ahead, about all the small negotiations that made a morning possible.
 
 
 ---

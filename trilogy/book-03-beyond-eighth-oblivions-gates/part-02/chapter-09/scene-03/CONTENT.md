@@ -1,10 +1,10 @@
-Three days later, Priya arrived with her overnight bag slung over one shoulder and her laptop clutched to her chest like a shield. She had Ananya's eyes but Vikram's bone structure, the combination producing a face that could shift from open to guarded in the space of a breath.
+Three days later, Priya arrived with her overnight bag slung over one shoulder and her laptop clutched to her chest like armor. She had Ananya's eyes but Vikram's bone structure, the combination producing a face that could shift from open to guarded in the space of a single breath.
 
 "I have to finish my essays," she announced, dropping the bag by the door. "Can we not have a whole thing tonight?"
 
 "No whole thing," Ananya promised. She had not told Priya about the lawsuit. She would have to, eventually. Not tonight.
 
-They made dinner together, the way they had been doing since the divorce, since Priya started shuttling between apartments and Ananya became determined to make their weeks together feel like home rather than visitation. Pasta with the sauce Priya liked, garlic bread from the bakery down the street, salad that Ananya ate and Priya ignored.
+They made dinner together, the way they had been doing since the divorce, since Priya started shuttling between apartments and Ananya became determined to make their weeks together feel like home rather than visitation. Pasta with the marinara Priya had liked since childhood, garlic bread from the bakery down the street, salad that Ananya ate and Priya ignored.
 
 "Which essay are you working on?"
 
@@ -25,7 +25,7 @@ Priya's expression flickered. "Dad's values are pretty obvious. Make money, inve
 
 ---
 
-Ananya did not answer. The marriage had ended in part because she could not reconcile her ethics work with Vikram's enthusiastic funding of companies whose business models depended on the same dynamics she was trying to constrain. They had learned not to discuss work. The silence had expanded until it filled the whole house.
+Ananya did not answer. The marriage had ended in part because she could not reconcile her ethics work with Vikram's enthusiastic funding of companies whose business models depended on the same dynamics she was supposed to be constraining. They had learned not to discuss work. The silence had expanded until it filled the whole house.
 
 "I was thinking maybe you," Priya said.
 
@@ -74,7 +74,7 @@ Ananya set down her glass. "I have documents. Internal records. Evidence of the 
 
 "No. I tried. I made changes at the margins. But I didn't stop it."
 
-Priya looked up from her laptop. Her eyes, Ananya's own eyes, held something new. Not accusation, not yet. Something more like the first recognition of complexity, the dawning awareness that her mother was not simply heroic.
+Priya looked up from her laptop. Her eyes, Ananya's own eyes staring back at her, held something new. Not accusation, not yet. Something more like the first recognition of complexity, the dawning awareness that her mother was not simply heroic, had never been simply anything.
 
 "Then what was the point?"
 
@@ -101,7 +101,7 @@ She explained. The complaint, the allegations, her name on the defendant list al
 
 "Did you stay because you believed that? Or because it was comfortable?"
 
-The question from the college essay prompt, transformed. Ananya felt tears prick at her eyes and blinked them back. She would not make this about her emotions. Priya deserved answers, not performance.
+The question from the college essay prompt, transformed into something that cut. Ananya felt tears prick at her eyes and blinked them back. She would not make this about her emotions. Priya deserved answers, not performance.
 
 "Both. I told myself I was staying for ethical reasons, but staying also meant money, status, influence. A career. It's hard to separate the parts."
 
@@ -112,7 +112,7 @@ The question from the college essay prompt, transformed. Ananya felt tears prick
 
 ---
 
-Priya stood up, walked to the window, stood where Ananya had stood three days ago watching the fog roll in. Her back was straight, her shoulders tense.
+Priya stood, walked to the window, stood where Ananya had stood three days ago watching the fog roll in. Her back was straight, her shoulders held with a tension that seemed to come from somewhere deep in her chest.
 
 "I used to tell people my mom worked in ethics," Priya said. "When they asked what you did. I was proud of it. It sounded important. Like you were making sure the technology was good."
 
@@ -124,7 +124,7 @@ The word hung between them. Ananya did not argue. Could not argue.
 
 "Not completely. But in the ways that mattered most, yes. I failed."
 
-Priya turned around. Her face was wet, tears she hadn't wiped away, and the sight of them broke something in Ananya's chest.
+Priya turned around. Her face was wet, tears she hadn't bothered to wipe away, and the sight of them broke something in Ananya's chest that she had not known was still intact.
 
 "Then why should I write about you? If you just failed?"
 
@@ -147,7 +147,7 @@ Priya wiped her face with her sleeve. A gesture from childhood, the five-year-ol
 
 ---
 
-Priya came back to the couch. Sat down, but farther away than before. The distance between them measured in cushions, in years, in the accumulated weight of stories Ananya had told about her work that were turning out to be incomplete.
+Priya came back to the couch. Sat down, but farther away than before, at the far end where the arm curved. The distance between them measured in cushions, in years, in the accumulated weight of stories Ananya had told about her work that were now revealed as incomplete.
 
 "Here's what I don't understand," Priya said. "If you knew you were failing, why didn't you just quit?"
 
@@ -157,7 +157,7 @@ Priya came back to the couch. Sat down, but farther away than before. The distan
 
 "Because I thought I might still change things. Because I was afraid of what would happen if someone worse took over. Because I had built my whole identity around being the ethical one, and leaving felt like admitting I wasn't."
 
-"That last part is about you, though. Not about actually being ethical."
+"That last part is about you, though. Not about actually being ethical. It's just about feeling ethical."
 
 Ananya closed her eyes. "Yes. You're right."
 

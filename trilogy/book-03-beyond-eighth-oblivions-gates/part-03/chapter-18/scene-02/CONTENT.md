@@ -1,8 +1,10 @@
-She found the prayer book tucked behind a stack of old missals on the bedroom shelf: San Judas Tadeo on the cover, his face worn soft by decades of handling. The letter had slipped deeper into the envelope, which she had moved from her pocket to her palm to the bedside table over the course of the afternoon. But the prayer book held other pages. More letters, unfinished. Fragments.
+She found the prayer book tucked behind a stack of old missals on the bedroom shelf: San Judas Tadeo on the cover, his face worn soft by decades of handling. The letter had slipped deeper into the envelope, which she had moved from her pocket to her palm to the bedside table over the course of the afternoon. But the prayer book held other pages. More letters, unfinished.
+
+Fragments.
 
 She sat on abuela's bed, the mattress giving beneath her in the familiar way, and opened the book.
 
-The handwriting changed across the pages. Some passages firm, the letters upright and even. Others shaky, written by a hand that no longer held steady. Years of writing, Elena realized. This letter had been composed in pieces, across years, never finished, never sent.
+The handwriting changed across the pages. Some passages firm, letters upright and even. Others shaky, written by a hand that no longer held steady. Years of writing, Elena realized. This letter had been composed in pieces, across years, never finished, never sent.
 
 *Elenita—*
 
@@ -27,7 +29,7 @@ Elena looked at her daughter, at the openness of her face. What to share? What t
 
 "Sit with me," she said.
 
-Sofia crossed the room and settled beside her on the bed, close enough that Elena could smell her daughter's shampoo, the strawberry scent that reminded her absurdly of normalcy, of mornings before school, of the life that continued beyond this room full of the dead.
+Sofia crossed the room and settled beside her on the bed, close enough that Elena caught her daughter's shampoo, the strawberry scent that reminded her absurdly of normalcy, of mornings before school, of the life that continued beyond this room dense with the dead.
 
 She turned the page.
 
@@ -48,7 +50,7 @@ The sentence ended there. Crossed out, the ink heavy as if the pen had been pres
 
 "What does it say?" Sofia asked.
 
-A brother. Her mother had left a child behind. Elena had a brother she had never known about, a person who existed or had existed, who might be alive somewhere, who might have children of his own—
+A brother. Her mother had left a child behind. Elena had a brother she had never known, a person who existed or had existed, who might be alive somewhere, who might have children of his own—
 
 "It's about family," Elena managed. "About things that happened before I was born."
 
@@ -58,7 +60,7 @@ A brother. Her mother had left a child behind. Elena had a brother she had never
 
 She continued reading:
 
-*She meant to go back for him. You have to understand this. She meant to work for a year, save money, bring him across properly, with papers. But then she got pregnant with you, and the plans changed. And then she got sick. And then time passed the way it passes, and before she knew it ten years had gone by, and the child she left was a man she didn't know anymore.*
+*She meant to go back for him. You have to understand this. She meant to work for a year, save money, bring him across properly, with papers. But then she got pregnant with you, and the plans changed. Then she got sick. Then time passed the way it passes, and before she knew it ten years had gone by, and the child she left was a man she didn't know anymore.*
 
 *She wrote him letters. He didn't answer. His grandmother—my sister—told us he was angry. That he felt abandoned. That he wanted nothing to do with us.*
 
@@ -71,7 +73,7 @@ The letter blurred. Elena realized she was crying, tears falling onto the blue-l
 
 She had a brother.
 
-Had. Maybe had. Somewhere in Mexico, a man who shared her mother's blood, who had grown up knowing he was left behind, who had built a life out of that abandonment. Was he alive? Did he have children? Did he ever think about the sister he never met, the girl who got the life he should have had?
+Had. Maybe had. Somewhere in Mexico, a man who shared her mother's blood, who had grown up knowing he was left behind, who had built a life from that abandonment. Was he alive? Did he have children? Did he ever think about the sister he never met, the girl who got the life he should have had?
 
 "Mom, you're crying."
 
@@ -85,7 +87,7 @@ Sofia's hand found hers, small fingers wrapping around Elena's larger ones, the 
 
 "Is it about Bisabuela?"
 
-"It's about your great-grandmother. My mother. She—" Elena stopped. How to explain this? How to tell a ten-year-old that borders are not just lines on maps, that families are torn apart by policies written in distant offices, that the woman she called Grandmother had carried a grief so large she couldn't speak of it?
+"It's about your great-grandmother. My mother. She—" Elena stopped. How to explain this? How to tell a ten-year-old that borders are not just lines on maps, that families are torn apart by policies written in distant offices, that the woman she called Grandmother had carried a grief so vast she couldn't speak of it?
 
 "She had to make a hard choice once. The letter tells me about it."
 
@@ -96,7 +98,7 @@ Sofia's hand found hers, small fingers wrapping around Elena's larger ones, the 
 
 The question hung in the air, waiting.
 
-*I don't know why I'm writing this now. Maybe because I can feel myself getting older. Maybe because the doctors keep finding new things wrong, and the medicine costs so much, and I think about the money I've spent trying to stay alive when there are so many other things I could have done with it.*
+*I don't know why I'm writing this now. Maybe because I can feel myself getting older. Maybe because the doctors keep finding new things wrong, and the medicine costs so much, and I think about the money I've spent trying to stay alive when there were so many other things I could have done with it.*
 
 *But that's a different letter.*
 
@@ -104,7 +106,7 @@ The question hung in the air, waiting.
 
 A gap in the text. Then:
 
-*I tried to find him. After your mother died. I wrote to my sister, but she was dead too by then. I wrote to the address we had for him, but the letter came back. I hired someone, once, a man who said he could find people. He took my money and I never heard from him again.*
+*I tried to find him. After your mother died. I wrote to my sister, but she was dead too by then. I wrote to the address we had for him, but the letter came back. I hired a man once who said he could find people. He took my money and I never heard from him again.*
 
 *Maybe it's better. What would I say? Here is the sister you never met. Here is the life your mother built after she left you.*
 

@@ -1,14 +1,14 @@
-# Chapter 18
+# Chapter 18: What Remains
 
-# Scene 01
+# ~~~
 
-The cedar chest had been sitting in abuela's bedroom for as long as Elena could remember, its brass corners oxidized to a greenish patina that she used to trace with her fingertip when she was Sofia's age, following the metal's edge as if it were a map to somewhere she had never been. Now she knelt before it in the February light, the room still holding the particular silence that comes after a death, not emptiness exactly but a different quality of presence, as if the air itself had reorganized around an absence.
+The cedar chest had stood in abuela's bedroom for as long as Elena could remember, its brass corners oxidized to a greenish patina that she used to trace with her fingertip when she was Sofia's age, following the metal's edge as if it were a map to somewhere she had never been. Now she knelt before it in the February light, the room still holding the particular silence that descends after a death, not emptiness exactly but a different quality of presence, as if the air itself had reorganized around an absence.
 
 Sofia sat cross-legged on the floor beside her, a cardboard box labeled DONATE in her lap, though they had not yet put anything in it.
 
 Three weeks since the hospital. Three weeks since Elena had stood in the fluorescent corridor and listened to a doctor she had never met before explain what she already knew from the way the monitors had looked when she arrived, from the particular set of the nurses' shoulders, from the silence that had replaced the mechanical rhythms. She had understood before he spoke, but she had let him speak anyway, because that was the ritual, because words had to be said even when they meant nothing, because her abuela deserved the ceremony of official pronouncement even if her body had stopped listening hours before.
 
-The chest opened with a sound like a sigh. Inside: linens, folded so precisely that the creases had become permanent, yellow-white now though Elena remembered them as bright when her abuela had embroidered them, tiny flowers in thread the color of marigolds, stitched in the hours before Elena's mother was born, in a house in Sonora that Elena had never seen except in the single photograph that sat on abuela's dresser, fading now into sepia suggestion.
+The chest opened with a sound like a sigh. Inside: linens, folded so precisely the creases had become permanent, yellow-white now though Elena remembered them as bright when her abuela had embroidered them, tiny flowers in thread the color of marigolds, stitched in the hours before Elena's mother was born, in a house in Sonora that Elena had never seen except in the single photograph on abuela's dresser, fading now into sepia suggestion.
 
 
 ---
@@ -19,7 +19,7 @@ The chest opened with a sound like a sigh. Inside: linens, folded so precisely t
 
 "Can I keep one?"
 
-Elena looked at her daughter, at the serious set of her mouth that was so much like Daniel's, at the eyes that were entirely her own mother's, dark and watchful. She had explained death to Sofia before, of course, the goldfish and the neighbor's elderly cat and the great-uncle who had passed before Sofia could remember him. But this was different. This was the woman who had braided Sofia's hair, who had taught her the words to songs in Spanish that Sofia only half-understood, who had smelled of rose water and garlic and something else, something Elena could not name but would recognize anywhere.
+Elena studied her daughter, the serious set of her mouth so much like Daniel's, the eyes entirely her own mother's—dark and watchful. She had explained death to Sofia before, of course, the goldfish and the neighbor's elderly cat and the great-uncle who had passed before Sofia could remember him. But this was different. This was the woman who had braided Sofia's hair, who had taught her the words to songs in Spanish that Sofia only half-understood, who had smelled of rose water and garlic and something else beneath those, something Elena could not name but would recognize anywhere.
 
 "Yes," Elena said. "We'll keep several."
 
@@ -40,13 +40,13 @@ Elena realized she had stopped moving, the stack of bills heavy in her hands. "N
 
 "Did Bisabuela have to pay a lot of money?"
 
-The question was so simple, so direct, the way children's questions always were. Elena could hear Mateo in the other room, the soft thud of his feet as he wandered through the house that would now belong to them, this house where Elena had spent her summers, where she had learned to cook and to pray and to be silent in a particular way that meant respect. He was eight and processing this differently, moving through the space as if he could memorize it with his body, touching walls and doorframes like a blind person learning a new room.
+The question was so simple, so direct, the way children's questions always were. Elena could hear Mateo in the other room, the soft thud of his feet as he wandered through the house that would now belong to them, this house where Elena had spent her summers, where she had learned to cook and to pray and to be silent in the particular way that meant respect. He was eight and processing this differently, moving through the space as if to memorize it with his body, touching walls and doorframes like a blind person learning a new room.
 
 "Yes," Elena said finally. "She did. More than she should have."
 
 "Why?"
 
-Because the system is broken. Because we treat sickness like a personal failure and healing like a luxury. Because your great-grandmother came to this country believing in something and spent her life paying for that belief in ways she never expected.
+Because the system is broken. Because we treat sickness as personal failure and healing as luxury. Because your great-grandmother came to this country believing in something and spent her life paying for that belief in ways she never expected.
 
 "Because taking care of people costs money," Elena said instead, "and sometimes the money isn't there."
 
@@ -55,7 +55,7 @@ Sofia was quiet for a moment, her small hands still resting on the embroidered l
 
 ---
 
-Elena looked at her daughter and felt something shift in her chest, a recognition that was also a kind of grief. She had tried to protect Sofia from the fury, from the late-night rants to Daniel about prior authorizations and insurance denials and the particular cruelty of making people prove they deserved to be well. She had bitten her tongue at dinner tables, had saved her sharpest observations for after bedtime, had tried to give her children a childhood unmarked by the knowledge that the world was arranged against people like them.
+Elena looked at her daughter and felt something shift in her chest, a recognition that was also a kind of grief. She had tried to shield Sofia from the fury, from the late-night rants to Daniel about prior authorizations and insurance denials and the particular cruelty of forcing people to prove they deserved to be well. She had bitten her tongue at dinner tables, saved her sharpest observations for after bedtime, tried to give her children a childhood unmarked by the knowledge that the world was arranged against people like them.
 
 But children see. Children hear. Children absorb what their parents try to hide, and they make their own meaning from the fragments.
 
@@ -63,9 +63,9 @@ But children see. Children hear. Children absorb what their parents try to hide,
 
 They returned to the sorting. Photographs emerged next, dozens of them, some in frames and some loose, some with names and dates written on the back and some with nothing at all. Faces Elena did not recognize, men and women in formal clothes from another era, children squinting against Mexican sun. Her abuela had never explained all of them, and now no one was left who could.
 
-"Who's that?" Sofia asked, pointing to a young woman in a white dress, flowers in her dark hair.
+"Who's that?" Sofia asked, pointing to a young woman in a white dress, flowers woven through her dark hair.
 
-"I don't know," Elena admitted, and the words felt like a door closing. These faces would become anonymous now, their stories lost. This was another kind of death, she understood, the death of memory, the death of context. The woman in the photograph would continue to exist only as an image, unmoored from the life she had lived.
+"I don't know," Elena admitted, and the words felt like a door closing. These faces would become anonymous now, their stories lost. This was another kind of death, she understood—the death of memory, the death of context. The woman in the photograph would continue to exist only as an image, unmoored from the life she had lived.
 
 
 ---
@@ -76,7 +76,7 @@ She set aside the photographs she could identify. Her mother as a child, serious
 
 "You look like her," Elena corrected, touching the image of her younger self. "And like her." She pointed to her abuela. "The same eyes. The same shape of face."
 
-Inheritance made visible. Elena thought about what else she had inherited from this woman: the early-morning rhythms of a working body, the hands that knew how to make masa and how to hold a dying person. The faith that had been her abuela's foundation and Elena's complicated ambivalence. The fury that she now understood had been there all along, hidden beneath the prayers and the patience, a slow fire that her abuela had banked rather than expressed.
+Inheritance made visible. Elena thought about what else she had inherited from this woman: the early-morning rhythms of a working body, hands that knew how to make masa and how to hold a dying person. The faith that had been her abuela's foundation and Elena's complicated ambivalence. The fury that she now understood had been there all along, banked beneath the prayers and the patience, a slow fire her abuela had tended rather than expressed.
 
 Mateo appeared in the doorway, holding something in his hands. A rosary, Elena saw, the beads the color of clouded jade.
 
@@ -86,14 +86,14 @@ Mateo appeared in the doorway, holding something in his hands. A rosary, Elena s
 
 "Can I have it?"
 
-He was not asking because he believed in what the rosary represented. He was asking because it had been hers, because holding it was a way of holding her. Elena understood this perfectly. The objects we keep after people die are rarely about their function; they are about the weight of them in our hands, the way they carry the shape of the ones who held them before.
+He was not asking because he believed in what the rosary represented. He was asking because it had been hers, because holding it was a way of holding her. Elena understood this perfectly. The objects we keep after people die are never about function; they are about the weight of them in our hands, the way they carry the shape of those who held them before.
 
 
 ---
 
 "Yes," Elena said. "Keep it."
 
-Mateo retreated back into the hallway, the rosary clutched against his chest, and Elena returned to the cedar chest. Near the bottom now: a shoebox, its corners soft with age. Inside, letters in envelopes addressed in different hands, some in Spanish and some in English. Immigration documents, yellow and fragile. A marriage certificate. A birth certificate for Elena's mother, issued in Tucson, the ink faded but still legible.
+Mateo retreated into the hallway, the rosary clutched against his chest, and Elena returned to the cedar chest. Near the bottom now: a shoebox, its corners soft with age. Inside, letters in envelopes addressed in different hands, some in Spanish and some in English. Immigration documents, yellow and fragile. A marriage certificate. A birth certificate for Elena's mother, issued in Tucson, the ink faded but legible still.
 
 And something else. An envelope with Elena's name on it, in her abuela's handwriting.
 
@@ -111,7 +111,7 @@ Elena turned the envelope over. It was sealed but the glue had dried, the flap l
 
 "Neither did I."
 
-The room felt different now, charged with something. The February light through the window had shifted, becoming the longer gold of late morning. Elena could hear Mateo somewhere else in the house, still wandering, still absorbing. She could hear the traffic on the street outside, the ordinary sounds of a Phoenix morning, the world continuing its rotation as if nothing had changed even though everything had.
+The room felt different now, charged with something. The February light through the window had shifted, lengthening into the gold of late morning. Elena could hear Mateo somewhere else in the house, still wandering, still absorbing. She could hear traffic on the street outside, the ordinary sounds of a Phoenix morning, the world continuing its rotation as if nothing had changed though everything had.
 
 She would read this letter. But not yet. Not while Sofia was watching with those dark eyes that saw too much, that asked questions Elena wasn't ready to answer.
 
@@ -122,7 +122,7 @@ She would read this letter. But not yet. Not while Sofia was watching with those
 
 Sofia nodded, though Elena suspected she was not hungry so much as ready to be elsewhere, to return to the world of the living where people ate lunch and talked about school and did not have to sort through the belongings of the dead.
 
-They left the room together, the cedar chest still open behind them, its contents half-excavated like an archaeological dig interrupted. In the kitchen, Elena made sandwiches with the bread a neighbor had brought, the kind of practical food that appeared after funerals, casseroles and bread and fruit that no one had asked for but everyone needed. Sofia ate in silence, looking out the window at the yard where her bisabuela had grown tomatoes and herbs and roses that somehow survived the Phoenix heat.
+They left the room together, the cedar chest still open behind them, its contents half-excavated like an archaeological dig interrupted. In the kitchen, Elena made sandwiches with bread a neighbor had brought, the kind of practical food that appeared after funerals—casseroles and bread and fruit that no one had asked for but everyone needed. Sofia ate in silence, looking out the window at the yard where her bisabuela had grown tomatoes and herbs and roses that somehow survived the Phoenix heat.
 
 The letter was a weight in Elena's pocket, a gravity she could not ignore. But she moved through the rituals of feeding her daughter, of calling Daniel to check on his progress with the construction job that had taken him to Scottsdale today, of answering Mateo's questions about whether they would keep the house and what would happen to the garden and where Bisabuela was now.
 
@@ -138,13 +138,15 @@ He accepted this, the way children accept what they cannot understand, filing it
 
 
 
-# Scene 02
+# ~~~
 
-She found the prayer book tucked behind a stack of old missals on the bedroom shelf: San Judas Tadeo on the cover, his face worn soft by decades of handling. The letter had slipped deeper into the envelope, which she had moved from her pocket to her palm to the bedside table over the course of the afternoon. But the prayer book held other pages. More letters, unfinished. Fragments.
+She found the prayer book tucked behind a stack of old missals on the bedroom shelf: San Judas Tadeo on the cover, his face worn soft by decades of handling. The letter had slipped deeper into the envelope, which she had moved from her pocket to her palm to the bedside table over the course of the afternoon. But the prayer book held other pages. More letters, unfinished.
+
+Fragments.
 
 She sat on abuela's bed, the mattress giving beneath her in the familiar way, and opened the book.
 
-The handwriting changed across the pages. Some passages firm, the letters upright and even. Others shaky, written by a hand that no longer held steady. Years of writing, Elena realized. This letter had been composed in pieces, across years, never finished, never sent.
+The handwriting changed across the pages. Some passages firm, letters upright and even. Others shaky, written by a hand that no longer held steady. Years of writing, Elena realized. This letter had been composed in pieces, across years, never finished, never sent.
 
 *Elenita—*
 
@@ -169,7 +171,7 @@ Elena looked at her daughter, at the openness of her face. What to share? What t
 
 "Sit with me," she said.
 
-Sofia crossed the room and settled beside her on the bed, close enough that Elena could smell her daughter's shampoo, the strawberry scent that reminded her absurdly of normalcy, of mornings before school, of the life that continued beyond this room full of the dead.
+Sofia crossed the room and settled beside her on the bed, close enough that Elena caught her daughter's shampoo, the strawberry scent that reminded her absurdly of normalcy, of mornings before school, of the life that continued beyond this room dense with the dead.
 
 She turned the page.
 
@@ -190,7 +192,7 @@ The sentence ended there. Crossed out, the ink heavy as if the pen had been pres
 
 "What does it say?" Sofia asked.
 
-A brother. Her mother had left a child behind. Elena had a brother she had never known about, a person who existed or had existed, who might be alive somewhere, who might have children of his own—
+A brother. Her mother had left a child behind. Elena had a brother she had never known, a person who existed or had existed, who might be alive somewhere, who might have children of his own—
 
 "It's about family," Elena managed. "About things that happened before I was born."
 
@@ -200,7 +202,7 @@ A brother. Her mother had left a child behind. Elena had a brother she had never
 
 She continued reading:
 
-*She meant to go back for him. You have to understand this. She meant to work for a year, save money, bring him across properly, with papers. But then she got pregnant with you, and the plans changed. And then she got sick. And then time passed the way it passes, and before she knew it ten years had gone by, and the child she left was a man she didn't know anymore.*
+*She meant to go back for him. You have to understand this. She meant to work for a year, save money, bring him across properly, with papers. But then she got pregnant with you, and the plans changed. Then she got sick. Then time passed the way it passes, and before she knew it ten years had gone by, and the child she left was a man she didn't know anymore.*
 
 *She wrote him letters. He didn't answer. His grandmother—my sister—told us he was angry. That he felt abandoned. That he wanted nothing to do with us.*
 
@@ -213,7 +215,7 @@ The letter blurred. Elena realized she was crying, tears falling onto the blue-l
 
 She had a brother.
 
-Had. Maybe had. Somewhere in Mexico, a man who shared her mother's blood, who had grown up knowing he was left behind, who had built a life out of that abandonment. Was he alive? Did he have children? Did he ever think about the sister he never met, the girl who got the life he should have had?
+Had. Maybe had. Somewhere in Mexico, a man who shared her mother's blood, who had grown up knowing he was left behind, who had built a life from that abandonment. Was he alive? Did he have children? Did he ever think about the sister he never met, the girl who got the life he should have had?
 
 "Mom, you're crying."
 
@@ -227,7 +229,7 @@ Sofia's hand found hers, small fingers wrapping around Elena's larger ones, the 
 
 "Is it about Bisabuela?"
 
-"It's about your great-grandmother. My mother. She—" Elena stopped. How to explain this? How to tell a ten-year-old that borders are not just lines on maps, that families are torn apart by policies written in distant offices, that the woman she called Grandmother had carried a grief so large she couldn't speak of it?
+"It's about your great-grandmother. My mother. She—" Elena stopped. How to explain this? How to tell a ten-year-old that borders are not just lines on maps, that families are torn apart by policies written in distant offices, that the woman she called Grandmother had carried a grief so vast she couldn't speak of it?
 
 "She had to make a hard choice once. The letter tells me about it."
 
@@ -238,7 +240,7 @@ Sofia's hand found hers, small fingers wrapping around Elena's larger ones, the 
 
 The question hung in the air, waiting.
 
-*I don't know why I'm writing this now. Maybe because I can feel myself getting older. Maybe because the doctors keep finding new things wrong, and the medicine costs so much, and I think about the money I've spent trying to stay alive when there are so many other things I could have done with it.*
+*I don't know why I'm writing this now. Maybe because I can feel myself getting older. Maybe because the doctors keep finding new things wrong, and the medicine costs so much, and I think about the money I've spent trying to stay alive when there were so many other things I could have done with it.*
 
 *But that's a different letter.*
 
@@ -246,7 +248,7 @@ The question hung in the air, waiting.
 
 A gap in the text. Then:
 
-*I tried to find him. After your mother died. I wrote to my sister, but she was dead too by then. I wrote to the address we had for him, but the letter came back. I hired someone, once, a man who said he could find people. He took my money and I never heard from him again.*
+*I tried to find him. After your mother died. I wrote to my sister, but she was dead too by then. I wrote to the address we had for him, but the letter came back. I hired a man once who said he could find people. He took my money and I never heard from him again.*
 
 *Maybe it's better. What would I say? Here is the sister you never met. Here is the life your mother built after she left you.*
 
@@ -304,7 +306,7 @@ The letter would wait. But it would not stop asking its questions.
 
 
 
-# Scene 03
+# ~~~
 
 The house settled into its nighttime sounds: the creak of cooling walls, the hum of the refrigerator, the particular silence that meant the children were finally asleep. Elena sat at her abuela's small desk, the one where bills had been paid and letters had been written and prayers had been copied out from books in handwriting that grew shakier each year.
 
@@ -423,9 +425,9 @@ That would have to be enough.
 
 
 
-# Chapter 19
+# Chapter 19: The Archive
 
-# Scene 01
+# ~~~
 
 The boxes were heavier than he remembered. Two banker's boxes, standard legal size, the cardboard reinforced at the corners but still giving slightly under the weight of paper, of years, of a career that had once seemed like it would change something. Jerome set them on the reception desk and signed the visitor log while the aide—Darnell, the same aide who had been here every Tuesday and Thursday for the past three years—nodded in recognition.
 
@@ -606,7 +608,7 @@ Jerome nodded, watching the city roll by, holding in his hands the boxes full of
 
 
 
-# Scene 02
+# ~~~
 
 DeShawn arrived in a car that cost more than Jerome's first three cars combined. Electric, sleek, the color of money, pulling into the facility's visitor lot with the particular hush of expensive machinery. Jerome watched from the lobby window, feeling something twist in his chest that he did not want to name.
 
@@ -810,7 +812,7 @@ They walked out together, the familiar route through the facility, past the resi
 
 
 
-# Scene 03
+# ~~~
 
 The dinner had been better than he expected. They had avoided the large topics, sticking to safer ground: DeShawn's apartment in Austin, Jerome's plans for partial retirement, the places Denise wanted to travel now that money was less tight. By dessert, something had loosened between them. Not resolution—there was too much history for that—but a temporary truce, a willingness to occupy the same space without combat.
 
@@ -971,9 +973,9 @@ He settled into the chair, prepared to keep vigil through the night. His mother 
 
 
 
-# Chapter 20
+# Chapter 20: Vessels
 
-# Scene 01
+# ~~~
 
 The museum smelled of fresh paint and the particular staleness of climate-controlled air, the temperature precisely calibrated to preserve objects that were meant to persist beyond the lives of those who made them. Delphine held Theo's hand as they walked through the gallery space, picking their way between installation workers and half-assembled displays, the exhibition taking shape around them like a memory crystallizing into matter.
 
@@ -1166,7 +1168,7 @@ She took out her phone and made a note: "More helpers. More resilience. Balance 
 
 
 
-# Scene 02
+# ~~~
 
 Jessie arrived at four, still in her work clothes, the particular energy of a writers' room clinging to her like a scent. She found them in the cafe, Theo absorbed in a game on Delphine's tablet, Delphine staring at her coffee as if it might reveal something.
 
@@ -1315,7 +1317,7 @@ That was transmission. That was inheritance. She could not control what they too
 
 
 
-# Scene 03
+# ~~~
 
 The house was quiet by eleven. Theo asleep after ice cream and bath and the ritual of bedtime stories that he insisted he was too old for but still wanted. Jessie reading in bed, the light from her tablet casting blue shadows on her face, the argument from earlier still present between them but softened now, smoothed by the domestic rhythms that had outlasted all their conflicts.
 
@@ -1496,9 +1498,9 @@ That was inheritance too. Perhaps the most important kind.
 
 
 
-# Chapter 21
+# Chapter 21: What He Left
 
-# Scene 01
+# ~~~
 
 The building did not look like a tomb. That was the first thing Yusuf noticed as they pulled into the parking lot, Amina driving because his hands were shaking too much to hold the wheel. The Threshold—its new name, painted on a glass door that had replaced the industrial metal of his memory—was bright, open, welcoming in a way that felt like a betrayal. New windows had been cut into the old brick walls, flooding the interior with afternoon light. A mural covered the eastern face: hands reaching upward, figures in motion, colors that had no right to exist on a building where his father had died.
 
@@ -1638,7 +1640,7 @@ They left the building, walking past the mural and the new windows and all the e
 
 
 
-# Scene 02
+# ~~~
 
 The sound check was scheduled for six, two hours before the doors would open. Yusuf returned to The Threshold with his guitar case and his fear, Amina trailing behind with the quiet support she had been offering all day. The space had changed again in the hours they were gone: chairs set up in rows, lights focused on the stage, a mixing board installed at the back of the room where a young woman with headphones was adjusting levels.
 
@@ -1799,7 +1801,7 @@ In an hour, he would sing. In an hour, he would give away what he had been holdi
 
 
 
-# Scene 03
+# ~~~
 
 The room was full. Maybe a hundred and fifty people, folding chairs occupied and standing room crowded, the community that had built this space coming together to celebrate its opening. Yusuf stood in the wings—if a converted warehouse could be said to have wings—and felt his heart trying to escape his chest.
 
@@ -1978,9 +1980,9 @@ That was transmission. That was inheritance transformed. It was not the same as 
 
 
 
-# Chapter 22
+# Chapter 22: Mother Tongue
 
-# Scene 01
+# ~~~
 
 The gymnasium smelled of industrial cleaner and the particular musk of children's bodies, the combination familiar to anyone who had spent time in elementary schools. Elena and Daniel found seats in the middle section, close enough to see the stage but far enough to survey the room. Around them, other parents settled into folding chairs, exchanging greetings and complaints about parking, the ordinary social rituals of school events.
 
@@ -2095,7 +2097,7 @@ Elena wiped her face with the back of her hand, not caring who saw.
 
 
 
-# Scene 02
+# ~~~
 
 The question period was brief—a teacher asked Sofia to say more about the house she had inherited, and Sofia described it simply: a small house in a neighborhood that had changed a lot, with a yard where her bisabuela had grown tomatoes and roses. Another parent asked about the fighting metaphor, and Sofia said, carefully, that she meant fighting for fairness, not fighting with fists.
 
@@ -2310,7 +2312,7 @@ That was inheritance done right. Not control, but trust. Not repetition, but tra
 
 
 
-# Scene 03
+# ~~~
 
 Sunday morning arrived with the particular slowness of a day without obligations. Elena made breakfast while the children drifted through the house in various states of wakefulness, Daniel reading the news on his tablet at the kitchen table, the ordinary choreography of family life.
 
@@ -2471,9 +2473,9 @@ For now, it was enough.
 
 
 
-# Chapter 23
+# Chapter 23: The Verdict
 
-# Scene 01
+# ~~~
 
 The Austin Convention Center was a cathedral of screens and light, its atrium rising three stories and covered in displays advertising companies Jerome had never heard of. He stood in the registration line behind a group of young people whose conversation consisted entirely of terms he did not understand: scalability, MVP iteration, synergistic ecosystem development. They spoke with the confidence of those who believed they were building the future, and perhaps they were, though it was not a future Jerome felt any ownership of.
 
@@ -2607,7 +2609,7 @@ Maybe rejection and transformation were not the same thing. Maybe inheritance co
 
 
 
-# Scene 02
+# ~~~
 
 Jerome did not move from his seat. The crowd around DeShawn ebbed and flowed like tide—investors, engineers, potential partners, each wanting something from his son that Jerome could not name. He watched from his position in the back row, still processing what he had heard, still recalibrating.
 
@@ -2745,7 +2747,7 @@ The echo was intentional. Father and son, using each other's words.
 
 
 
-# Scene 03
+# ~~~
 
 They talked for ninety minutes. The coffee went cold; neither of them noticed. DeShawn explained Verity's architecture—how they were building transparency into AI decision-making systems at the code level, making every algorithmic choice auditable in real time. Jerome asked questions, genuine ones, probing for understanding rather than weakness.
 
@@ -2904,9 +2906,9 @@ Inheritance, continuing in shapes the previous generation could not predict.
 
 
 
-# Chapter 24
+# Chapter 24: Surviving Work
 
-# Scene 01
+# ~~~
 
 The UCLA School of Theater, Film and Television occupied a building that had been renovated three times since Delphine's own college years, each renovation adding screens and removing character. She stood in the lobby studying the posters on the walls—student productions, faculty screenings, retrospectives—looking for something familiar and finding nothing.
 
@@ -3026,7 +3028,7 @@ Delphine was not sure she was ready. But she walked to the front anyway.
 
 
 
-# Scene 02
+# ~~~
 
 "Did you feel compromised making this?"
 
@@ -3178,7 +3180,7 @@ Delphine was exhausted. She was also not ready to be alone with what had happene
 
 
 
-# Scene 03
+# ~~~
 
 The hotel room was generic in the way all hotel rooms are generic: clean sheets, empty closet, television no one would watch. Delphine sat on the bed with her phone, not yet ready to make the call but knowing she needed to.
 
@@ -3339,9 +3341,9 @@ It was survival. Maybe that was enough.
 
 
 
-# Chapter 25
+# Chapter 25: Breaking the Pattern
 
-# Scene 01
+# ~~~
 
 The envelope arrived on Thursday morning, delivered by a regular mail carrier who did not know what she was carrying. Yusuf held it for a long moment before opening it, feeling the weight of the single page inside.
 
@@ -3500,7 +3502,7 @@ Somewhere between the two, Yusuf would have to find his answer.
 
 
 
-# Scene 02
+# ~~~
 
 The community center basement smelled like burnt coffee and institutional cleaner. Yusuf had been coming here for four years—first as a gig worker looking for solidarity, then as an organizer building it. The folding chairs were arranged in a rough circle, approximately fifteen people present, all of them drivers or warehouse pickers or delivery workers.
 
@@ -3672,7 +3674,7 @@ Maybe that was enough for now.
 
 
 
-# Scene 03
+# ~~~
 
 The walk took him through Phillips, through the blocks where he had grown up. October afternoon light slanted between buildings that had been there longer than he had been alive, their brick facades weathered by Minnesota winters, their storefronts cycling through businesses that opened hopeful and closed quietly.
 
@@ -3829,9 +3831,9 @@ The pattern was breaking. Something was tearing. Something else was beginning.
 
 
 
-# Chapter 26
+# Chapter 26: Letters to the Future
 
-# Scene 01
+# ~~~
 
 The house was quiet in the way houses are quiet when children have finally slept and husbands have followed them into rest. Elena sat at the kitchen table with the laptop open, its glow the only light in the room. She had been staring at the blank document for twenty minutes.
 
@@ -4003,7 +4005,7 @@ It was not control. She understood that now. It was offering. You could not make
 
 
 
-# Scene 02
+# ~~~
 
 Daniel's parents' house in Tempe was built for gatherings—a rambling single-story with a backyard that opened onto desert landscape, its kitchen large enough for multiple cooks to work without collision. Elena had been coming here for twelve years now, since she and Daniel started dating, and the space still surprised her with its capacity to absorb children.
 
@@ -4175,7 +4177,7 @@ All she could do was offer, and hope, and keep writing.
 
 
 
-# Scene 03
+# ~~~
 
 The final night of letter-writing came in December, a week before Christmas. Elena had been returning to the letters on and off for weeks—adding sections, revising, trying to say what could not quite be said. Now she sat at the kitchen table again, the house quiet again, the pen in her hand ready to write to Mateo.
 

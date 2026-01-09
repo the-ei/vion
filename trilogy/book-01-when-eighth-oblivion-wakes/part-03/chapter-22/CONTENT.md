@@ -1,4 +1,4 @@
-# Scene 01
+# ~~~
 
 The maps covered three walls of his office now. Jerome had started with one, a map of the continental United States with red pins marking data center locations, but the investigation had metastasized, spreading across the drywall like something organic, something that grew while he slept. Now there were corporate ownership charts drawn on butcher paper, regulatory filing timelines sketched in blue marker, printed spreadsheets with his handwritten annotations bleeding off the margins. The AC hummed its constant note. Baltimore summer pressed against the windows, all that heat and humidity held at bay by a machine he rarely thought about, a system maintaining conditions for his work.
 
@@ -66,7 +66,7 @@ The question was whether they would find him in time.
 
 
 
-# Scene 02
+# ~~~
 
 The restaurant was the kind of place where meals cost more than some people's rent. White tablecloths, heavy silverware, the muted acoustics of money insulating conversation from conversation. Jerome had chosen it because David Okonkwo would expect this setting, and because its anonymity depended on a kind of mutual discretion: everyone here had something they preferred not to discuss in public. The other diners in their dark suits and designer dresses were the scenery of power, Washington's administrative class at rest, and Jerome felt conspicuously out of place even in his best blazer.
 
@@ -169,7 +169,7 @@ He left a cash tip for the waiter and walked out into the DC afternoon, carrying
 
 
 
-# Scene 03
+# ~~~
 
 The drive back from DC took two hours in traffic, and by the time Jerome pulled into his driveway, the summer sun had set and the streetlights were on. The house was lit from within, warm rectangles of light in the windows, and he sat in the parked car for a long moment before going inside, gathering whatever remained of his ordinary self.
 
@@ -251,7 +251,7 @@ They didn't resolve anything that night. But they sat together until late, talki
 
 
 
-# Scene 04
+# ~~~
 
 Denise had gone to bed an hour ago, her hand lingering on his shoulder as she passed, a touch that said more than words. Jerome sat in the darkened living room, unable to sleep, his mind circling through territory that had no rest.
 

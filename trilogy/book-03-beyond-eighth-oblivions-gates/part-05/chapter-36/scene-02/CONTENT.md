@@ -1,4 +1,4 @@
-The cremation ground lay at the edge of the city, where Chennai frayed into something less defined. They arrived in a convoy of white cars - Ananya, Priya, her father, her brother Suresh who had flown in from Bangalore, the aunts and uncles and cousins who would witness this ending. The morning was already hot, the sun insistent through a haze that might have been humidity or pollution or simply the atmosphere of grief.
+The cremation ground lay at the edge of the city, where Chennai dissolved into something less defined. They arrived in a convoy of white cars - Ananya, Priya, her father, her brother Suresh who had flown in from Bangalore, the aunts and uncles and cousins who would witness this ending. The morning was already hot, the sun insistent through a haze that might have been humidity or pollution or simply the atmosphere of grief.
 
 Ananya's mother's body traveled in the vehicle ahead, wrapped now in white cotton, adorned with marigolds. Ananya watched the car's taillights through the windshield of the car behind it and tried to hold in her mind the fact that her mother was in that vehicle, that this was real, that they were driving toward fire.
 
@@ -6,14 +6,14 @@ The electric crematorium was a low concrete building, functional rather than bea
 
 She understood now even less than she had then. The words were sounds, were rhythm, were the container for something that didn't require comprehension.
 
-Her father walked ahead, bent in a way she had never seen him, his spine curved under a weight that had nothing to do with the body. He was eighty-one years old and he had just lost the woman he had been married to for fifty-three years. Ananya watched him move toward the building where his wife's body would be turned to ash, and she saw in his posture something she recognized: the particular devastation of the one who remains.
+Her father walked ahead, bent in a way she had never seen him, his spine curved under a weight that had nothing to do with the body. He was eighty-one years old and he had just lost the woman he had been married to for fifty-three years. Ananya watched him move toward the building where his wife's body would become ash, and she saw in his posture something she recognized: the particular devastation of the one who remains.
 
 
 ---
 
-Priya stayed close to Ananya as they entered the building, navigating between clusters of mourners, finding their place in the geography of grief that the priest directed. There was a room where the body was placed, and chairs arranged in rows, and a window through which the flames would be visible when the time came. Everything was organized, procedural, designed to hold the chaos of death within manageable boundaries.
+Priya stayed close to Ananya as they entered the building, navigating between clusters of mourners, finding their place in the geography of grief that the priest directed. There was a room where the body was placed, and chairs arranged in rows, and a window through which the flames would be visible when the time came. Everything was organized, procedural, designed to contain the chaos of death within manageable boundaries.
 
-Ananya's brother stood at her other side, his face set in the expression of a man trying not to feel. Suresh had always been like this, even as a child - the contained one, the one who processed internally, who would weep later in private or not at all. His wife had stayed home with their children. He stood alone, and Ananya reached for his hand without thinking.
+Ananya's brother stood at her other side, his face fixed in the expression of a man trying not to feel. Suresh had always been like this, even as a child - the contained one, the one who processed internally, who would weep later in private or not at all. His wife had stayed home with their children. He stood alone, and Ananya reached for his hand without thinking.
 
 He took it. Held it. They were children again, briefly, in the presence of their mother's ending.
 
@@ -28,11 +28,11 @@ The eldest daughter. A category Ananya had not thought about in years. There had
 
 ---
 
-She stood where Lakshmi placed her, near the body, near the platform that would slide into the chamber. The priest handed her a small vessel of water, and she poured it where he indicated, feeling the gesture's meaning without knowing its name. Her mother's face was visible still, arranged in the calm that death provides, the features settling into something peaceful or simply still.
+She stood where Lakshmi placed her, near the body, near the platform that would slide into the chamber. The priest pressed a small vessel of water into her hands, and she poured it where he indicated, feeling the gesture's meaning without knowing its name. Her mother's face was visible still, arranged in the calm that death provides, the features settling into something peaceful or simply still.
 
 Ananya looked at that face. Her mother had been beautiful, once - she remembered photographs from the wedding, the young bride with her heavy jewelry and serious eyes. Age had softened and creased that beauty without erasing it. Even now, in death, there was something in the arrangement of features that Ananya recognized as the source of her own face, the template she had modified but not escaped.
 
-She remembered her mother's hands. That was what came to her now, unbidden and specific: the way her mother's hands had moved through domestic space, chopping vegetables, grinding spices, arranging flowers for the small home altar. Hands that had braided Ananya's hair for school, had checked her forehead for fever, had waved goodbye when she left for America and then, years later, had folded themselves in her lap during video calls, thinner each year, age-spotted and trembling.
+She remembered her mother's hands. That was what came to her now, unbidden and precise: the way her mother's hands had moved through domestic space, chopping vegetables, grinding spices, arranging flowers for the small home altar. Hands that had braided Ananya's hair for school, had checked her forehead for fever, had waved goodbye when she left for America and then, years later, had folded themselves in her lap during video calls, thinner each year, age-spotted and trembling.
 
 Those hands were still now. Everything was still.
 
@@ -43,7 +43,7 @@ The chanting continued, rose toward something, and Ananya felt the moment approa
 
 Priya was crying. Ananya heard it before she saw it - the small sounds of her daughter's grief, expressed in a way Ananya's own body refused to allow. Priya had met her grandmother only through screens, had known her through the mediated reality of video calls and photographs and stories Ananya told. And yet she wept, and the weeping was real, was for something real.
 
-What do we grieve when we grieve someone we barely knew? Perhaps we grieve the knowing itself, the relationship that might have been, the grandmother and granddaughter who might have spent afternoons together in that Chennai house if geography and ambition and the relentless forward motion of Ananya's American life had not placed an ocean between them.
+What do we grieve when we grieve someone we barely knew? Perhaps we grieve the knowing itself, the relationship that might have been, the grandmother and granddaughter who might have spent afternoons together in that Chennai house if geography and ambition and the relentless forward motion of Ananya's American life had not set an ocean between them.
 
 The platform moved. Ananya watched it slide toward the chamber doors, watched those doors open to reveal the space where transformation would occur. The heat was already present, radiating outward, and she understood suddenly that her mother was about to become fire.
 
@@ -62,7 +62,7 @@ Ash.
 
 ---
 
-Time passed strangely. Ananya stood and then sat and then stood again. Relatives spoke to her, and she responded, though she could not afterward remember what was said. The cremation took hours - this she had not known, had not thought about, the duration of fire. They waited in that building while the transformation completed itself, while her mother's body became reduced to what fire could not consume.
+Time passed strangely. Ananya stood and then sat and then stood again. Relatives spoke to her, and she responded, though she could not afterward recall what was said. The cremation took hours - this she had not known, had not thought about, the duration of fire. They waited in that building while the transformation completed itself, while her mother's body became reduced to what fire could not consume.
 
 Her father sat in a plastic chair, not speaking. Someone brought him water. Someone brought Ananya water. The rituals continued in waves, the priest returning at intervals to guide them through whatever came next.
 
@@ -79,7 +79,7 @@ Ananya's throat closed.
 
 ---
 
-Ananya had not known that. She had not known so many things. The shape of her mother's life, the daily reality of it, the small decisions and moments and accumulations that had made up the fifty-plus years since Ananya had left this city - all of it was opaque to her. She had received the highlights through phone calls and video calls, had constructed an idea of her mother's life from fragments and updates, but the actual texture of it, the quotidian truth of how her mother had lived, had been invisible to her.
+Ananya had not known that. She had not known so many things. The shape of her mother's daily life, the texture of it, the small decisions and moments and accumulations that had made up the decades since Ananya had left this city - all of it was opaque to her. She had received the highlights through phone calls and video calls, had constructed an idea of her mother's life from fragments and updates, but the actual texture of it, the quotidian truth of how her mother had lived, had been invisible to her.
 
 And now it was too late to see it. Now her mother was ash.
 

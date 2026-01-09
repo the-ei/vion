@@ -1,19 +1,19 @@
-# Scene 01
+# ~~~
 
-She woke at six-fourteen to gray light and the sound of rain against the windows, the same sound that had accompanied so many mornings in this house over the past three years, and for a moment she lay still, orienting herself to the day, to the room, to the body that had carried her through two weeks of aftermath and was now, she realized, asking different questions than it had been asking during the crisis itself. The ceiling above her was the same ceiling. The eucalyptus outside the window moved in the wind the way it always had. And yet.
+She woke at six-fourteen to gray light and the sound of rain against the windows, the same sound that had accompanied so many mornings in this house over the past three years, and for a moment she lay still, orienting herself to the day, to the room, to the body that had carried her through two weeks of aftermath and was now, she realized, asking different questions than it had asked during the crisis itself. The ceiling above her was the same ceiling. The eucalyptus outside the window moved in the wind the way it always had. And yet.
 
 Ananya pushed back the covers and sat on the edge of the bed, her feet finding the worn area of carpet where her feet had landed thousands of times before. The house was silent except for the rain. No one else lived here. No one else had lived here since the divorce, since Priya had become a presence primarily on screens and alternate weekends, since this space had become hers alone in a way that had once felt like freedom and now felt like something she had not yet named.
 
-She walked to the bathroom without turning on lights, navigating by the familiarity of years. The mirror showed her what it always showed: a woman of forty-three with sleep-creased skin, dark hair that needed attention, eyes that carried something new behind them now. She had looked at herself every morning for years without really seeing. Now she saw, and what she saw was someone who had made choices that could not be unmade.
+She walked to the bathroom without turning on lights, navigating by the familiarity of years. The mirror showed her what it always showed: a woman of forty-one with sleep-creased skin, dark hair that needed attention, eyes that carried something new behind them now. She had looked at herself every morning for years without really seeing. Now she saw, and what she saw was someone who had made choices that could not be unmade.
 
 The water in the shower took its usual forty seconds to warm. She counted, as she always had, but now the counting felt different, like a ritual from a life that might be ending.
 
 
 ---
 
-The coffee maker was a Technivorm she had purchased the week she started at Prometheus, a small celebration of the salary that had made her breath catch when she saw the offer letter. It had seemed like a reasonable indulgence then, an object that signified arrival, that said: you have made it to a place where quality matters and you can afford to notice the difference. Now she watched the water heat and drip through the grounds and thought about all the mornings this machine had functioned perfectly while she went to work at a company that had been building something she had not fully understood.
+The coffee maker was a Technivorm she had purchased the week she started at Prometheus, a small celebration of the salary that had made her breath catch when she saw the offer letter. It had seemed a reasonable indulgence then, an object that signified arrival, that announced: you have reached a place where quality matters and you can afford to notice the difference. Now she watched the water heat and drip through the grounds and thought about all the mornings this machine had functioned perfectly while she went to work at a company that had been building something she had not fully understood.
 
-The ethics role. She had taken it believing it meant something. She had written frameworks, reviewed proposals, flagged concerns. She had sat in meetings where her objections were noted and logged and filed and ultimately, she now understood, processed into a form that allowed the company to say it had considered ethical implications while continuing to do exactly what it had always intended to do.
+The ethics role. She had taken it believing it meant something. She had written frameworks, reviewed proposals, flagged concerns. She had sat in meetings where her objections were noted and logged and filed and ultimately, she now understood, processed into a form that permitted the company to claim it had considered ethical implications while proceeding with exactly what it had always intended to do.
 
 She poured the coffee into a ceramic mug that had been a gift from a colleague two years ago, a colleague who was still there, still logging in each morning to the campus in Mountain View, still believing or pretending to believe that the work was good. The mug had the company logo on it. She drank from it anyway.
 
@@ -22,9 +22,9 @@ The news was on the counter where she had left her phone, but she did not pick i
 
 ---
 
-She ate yogurt standing at the counter, looking out at the rain. The backyard was small, the lawn that someone else maintained because she had never learned how and now would need to, probably, depending on what happened next. The administrative leave they had placed her on was technically voluntary. She had agreed to it, had even signed something, but the agreement had felt less like choice than like the only path that did not involve immediate litigation. They were being careful with her. She was being careful with them. Everyone was being very, very careful.
+She ate yogurt standing at the counter, watching the rain. The backyard was small, the lawn that someone else maintained because she had never learned how and now would need to, probably, depending on what happened next. The administrative leave they had placed her on was technically voluntary. She had agreed to it, had even signed something, but the agreement had felt less like choice than like the only path that did not involve immediate litigation. They were being careful with her. She was being careful with them. Everyone was being very, very careful.
 
-The body remembered crisis differently than the mind. Her mind had begun to process, to sort, to construct narratives of what she had done and why. But her body still woke at odd hours, still startled at sounds, still carried a residual tension in the shoulders and jaw that no amount of conscious relaxation could release. She had read somewhere that trauma lived in the nervous system, that it took time to discharge, that the flesh had its own timeline for recovery. She believed this now in a way she had not believed it before.
+The body remembered crisis differently than the mind. Her mind had begun to process, to sort, to construct narratives of what she had done and why. But her body still woke at odd hours, still startled at sounds, still carried a residual tension in the shoulders and jaw that no amount of conscious relaxation could release. She had read somewhere that trauma lived in the nervous system, that it took time to discharge, that the flesh kept its own calendar for recovery. She believed this now in a way she had not believed it before.
 
 At eight-thirty she made a second cup of coffee and carried it to her home office, the room at the back of the house that looked out on the neighbor's fence and a strip of sky. The desk held her personal laptop, a stack of legal pads, and a folder that contained documents she should not have. She did not open the folder. She did not need to. She knew what was in it, had memorized the key passages, could recite certain phrases in her sleep.
 
@@ -33,9 +33,9 @@ The folder was evidence, or it was protection, or it was both.
 
 ---
 
-She had not decided what to do with the documents. That was the truth she returned to each morning, the question she circled but did not answer. There were people who wanted them, journalists who had reached out through encrypted channels, lawyers who had hinted at their usefulness, congressional staffers who had called from blocked numbers. She had responded to some, ignored others, maintained a careful ambiguity that felt less like strategy and more like paralysis.
+She had not decided what to do with the documents. That was the truth she returned to each morning, the question she circled without answering. There were people who wanted them, journalists who had reached out through encrypted channels, lawyers who had hinted at their usefulness, congressional staffers who had called from blocked numbers. She had responded to some, ignored others, maintained a careful ambiguity that felt less like strategy and more like paralysis.
 
-The rain continued. The house creaked in ways she had learned to distinguish: the settling of old wood, the expansion and contraction of materials responding to weather, the small sounds that meant the structure was doing what structures do. She had bought this house with money from stock options that had vested during her third year at Prometheus, options that had seemed like compensation for work well done and now seemed like something else, like payment for services she had not fully understood she was rendering.
+The rain continued. The house creaked in ways she had learned to distinguish: the settling of old wood, the expansion and contraction of materials responding to weather, the small sounds that meant the structure was doing what structures did. She had bought this house with money from stock options that had vested during her third year at Prometheus, options that had seemed like compensation for work well done and now seemed like something else, like payment for services she had not fully understood she was rendering.
 
 Her phone buzzed: a text from Priya, confirming their video call at noon. The message included an emoji, a small yellow face that was supposed to convey something, and Ananya felt the particular ache of loving someone who was growing up in a world she had helped to build and might have helped to damage.
 
@@ -46,7 +46,7 @@ The hours between morning and noon stretched out before her, empty of meetings, 
 
 ---
 
-By eleven the rain had softened to a mist, and she had read three chapters of a novel she could not remember selecting, her eyes moving over words that left no impression. The plot concerned a woman making decisions in a distant century, and Ananya found herself wondering what that woman's ethics role would have been, what frameworks she might have written, what concerns she might have flagged and filed.
+By eleven the rain had softened to mist, and she had read three chapters of a novel she could not remember selecting, her eyes moving over words that left no impression. The plot concerned a woman making decisions in a distant century, and Ananya found herself wondering what that woman's ethics role would have been, what frameworks she might have written, what concerns she might have flagged and filed.
 
 She closed the book and went to the kitchen for water, for movement, for something other than the chair and the folder and the weight of decisions unmade. The house that had cost her seven hundred thousand dollars three years ago was now worth, according to the algorithm that sent her monthly updates, one point two million. She could sell it. She could take the money and go somewhere, could start over, could become someone who had not done what she had done and not known what she now knew.
 
@@ -56,7 +56,7 @@ She stood at the sink and drank water and looked at the gray sky through the win
 
 The documents in her office were waiting. The call with Priya was waiting. The future, whatever shape it would take, was waiting.
 
-She was waiting too. She had been waiting for two weeks, and she was beginning to understand that the waiting was itself a form of choice, a decision made through inaction, a way of not-choosing that was also a way of choosing.
+She was waiting too. She had been waiting for two weeks, and she was beginning to understand that waiting was itself a form of choice, a decision made through inaction, a way of not-choosing that was also a way of choosing.
 
 Soon, she would have to choose differently.
 
@@ -66,9 +66,9 @@ Soon, she would have to choose differently.
 
 
 
-# Scene 02
+# ~~~
 
-The call connected at twelve-thirty-two, the delay attributable to the chaos of a fourteen-year-old's Saturday, and Priya's face appeared on the screen already mid-sentence, already telling a story about something that had happened at school that week, a story Ananya had to work to follow because she was also looking at her daughter, really looking, trying to see what was different and what was the same.
+The call connected at twelve-thirty-two, the delay attributable to the chaos of a fourteen-year-old's Saturday, and Priya's face materialized on the screen already mid-sentence, already telling a story about something that had happened at school that week, a story Ananya had to work to follow because she was also looking at her daughter, really looking, trying to see what was different and what remained.
 
 Priya had her father's jaw and her grandmother's eyes and something around the mouth that was purely her own, an expression that flickered between child and adolescent so quickly that Ananya sometimes felt she was watching a time-lapse of her daughter becoming someone new. The room behind her was the bedroom in her father's house, the house in Menlo Park that was newer and larger than the house Ananya had bought, and there were posters on the wall that Ananya did not recognize, bands or artists or movements that had meaning in her daughter's world and not in hers.
 
@@ -76,7 +76,7 @@ Priya had her father's jaw and her grandmother's eyes and something around the m
 
 "I'm listening," Ananya said. "The substitute teacher."
 
-"Right, so he didn't even know what module we were supposed to be on, and Kira said something about how that's what happens when you have AI doing half the lesson planning but the human doesn't actually check it, and he got really defensive, like really defensive, and I thought about you."
+"Right, so he didn't even know what module we were supposed to be on, and Kira said something about how that's what happens when you have AI doing half the lesson planning but the human doesn't actually check it, and he got really defensive, like really defensive, and I thought of you."
 
 The mention was casual, dropped in like any other detail, but Ananya felt it land. "You thought about me because of the AI thing?"
 
@@ -89,7 +89,7 @@ The mention was casual, dropped in like any other detail, but Ananya felt it lan
 
 "Dad says it's not that complicated." The words came out quick, and then Priya looked away, as if she had said something she hadn't meant to say, or had meant to say but not yet.
 
-In the background, Ananya could hear movement, footsteps, the sounds of the house that was not her house. Raj was there, somewhere in that space, and his opinions were present even when his body was not. She had known when they divorced that he would have opinions about her career, her choices, her life. She had not known that those opinions would travel through their daughter like signals through wire.
+In the background, Ananya could hear movement, footsteps, the sounds of the house that was not her house. Raj was there, somewhere in that space, his opinions present even when his body was not. She had known when they divorced that he would have opinions about her career, her choices, her life. She had not known that those opinions would travel through their daughter like signals through wire.
 
 "What does your dad say?" Ananya asked, keeping her voice neutral, the voice she had practiced in a hundred difficult meetings, the voice that did not betray.
 
@@ -101,14 +101,14 @@ In the background, Ananya could hear movement, footsteps, the sounds of the hous
 
 The words hit with precision, and Ananya felt the familiar shame of failed parenting, the sense that she had asked her daughter to carry something a child should not carry. "You're right. I'm sorry. I shouldn't have asked."
 
-"It's okay." But Priya's face said it was not entirely okay, that the not-okayness had been accumulating for years, that this crisis was just the latest weight on a structure already strained.
+"It's okay." But Priya's face said otherwise, that the not-okayness had been accumulating for years, that this crisis was only the latest weight on a structure already strained.
 
 
 ---
 
 The connection stuttered, Priya's face freezing for a moment in an expression that looked like worry or judgment or both, and then it resumed, and she was mid-question: "—actually do? Like, specifically?"
 
-"What did I actually do," Ananya repeated, buying time, trying to decide how much to say. The official story was one thing. The truth was more complicated. The truth involved documents and encrypted messages and a journalist she had met only once but trusted more than she trusted people she had worked with for years. "I shared information. Information that I believed people should have."
+"What did I actually do," Ananya repeated, buying time, deciding how much to reveal. The official story was one thing. The truth was more complicated. The truth involved documents and encrypted messages and a journalist she had met only once but trusted more than people she had worked alongside for years. "I shared information. Information that I believed people should have."
 
 "Leaked. You leaked."
 
@@ -129,13 +129,13 @@ Priya was quiet, processing. At fourteen she was old enough to understand concep
 
 "Are you scared?"
 
-The question was direct in the way that children's questions sometimes are, cutting through the layers of adult evasion to the thing itself. Ananya considered lying, considered the protective instinct that wanted to shield her daughter from fear, and then considered what her daughter might already know, might already have intuited, might need to hear acknowledged.
+The question was direct the way children's questions sometimes are, cutting through layers of adult evasion to the thing itself. Ananya considered lying, considered the protective instinct that wanted to shield her daughter from fear, and then considered what her daughter might already know, might already have intuited, might need to hear acknowledged.
 
 "Sometimes," she said. "Yes. Sometimes I'm scared."
 
 Priya nodded, as if this answer satisfied something, as if the admission of fear was more reassuring than the denial of it would have been. "Kira's mom said you're brave. She saw something online, some article, and she told Kira, and Kira told me. She said you're one of the few people who actually did something."
 
-The words moved through Ananya strangely, pride and discomfort tangled together. She had not done what she did to be called brave. She had done it because she could not find a way to not do it, because the weight of what she knew had become unbearable, because the alternative was to continue participating in something she could no longer pretend not to understand.
+The words moved through Ananya strangely, pride and discomfort tangled together. She had not done what she did to be called brave. She had done it because she could not find a way not to, because the weight of what she knew had become unbearable, because the alternative was to continue participating in something she could no longer pretend not to understand.
 
 "I don't know if it was brave," she said. "I think it was necessary. For me, I mean. I couldn't keep doing what I was doing."
 
@@ -150,9 +150,9 @@ In the background, Ananya heard a voice, Raj's voice, calling something about lu
 
 ---
 
-"I don't really understand it all. The whole Eighth Oblivion thing, the projections, the stuff they were building. It's like, really complicated, and some of it sounds like science fiction, and I don't know what's real and what's just people freaking out."
+"I don't really understand it all. The whole Eighth Oblivion thing, the projections, the stuff they were building. It's really complicated, and some of it sounds like science fiction, and I don't know what's real and what's just people freaking out."
 
-"It's complicated for me too," Ananya said. "I worked there for five years and I'm still trying to understand what we were actually building. What it might actually do."
+"It's complicated for me too," Ananya said. "I worked there for five years and I'm still trying to understand what we were actually building. What it might become."
 
 "But you think it's bad?"
 
@@ -187,7 +187,7 @@ That, in the end, was why she had done what she had done.
 
 
 
-# Scene 03
+# ~~~
 
 The text arrived at two-fourteen: Coming by in an hour, if that's okay. Need to talk. The sender was Vikram Patel, whose name on her screen produced a complex cascade of feeling: affection, wariness, the memory of working lunches and late meetings and conversations that had felt, at the time, like genuine connection.
 
@@ -321,7 +321,7 @@ She did not know if Vikram was a friend or an emissary or something in between. 
 
 
 
-# Scene 04
+# ~~~
 
 The rain stopped around six, leaving the world washed and dripping, and Ananya stood in her kitchen watching the last light of the January day fade behind the clouds. She had made pasta, a simple dish that required just enough attention to occupy her hands without engaging her mind, and now she ate it standing at the counter, not bothering with a plate, just the pot and a fork and the mechanical motion of feeding herself.
 

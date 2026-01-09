@@ -1,4 +1,4 @@
-# Scene 01
+# ~~~
 
 The Austin Convention Center was a cathedral of screens and light, its atrium rising three stories and covered in displays advertising companies Jerome had never heard of. He stood in the registration line behind a group of young people whose conversation consisted entirely of terms he did not understand: scalability, MVP iteration, synergistic ecosystem development. They spoke with the confidence of those who believed they were building the future, and perhaps they were, though it was not a future Jerome felt any ownership of.
 
@@ -132,7 +132,7 @@ Maybe rejection and transformation were not the same thing. Maybe inheritance co
 
 
 
-# Scene 02
+# ~~~
 
 Jerome did not move from his seat. The crowd around DeShawn ebbed and flowed like tide—investors, engineers, potential partners, each wanting something from his son that Jerome could not name. He watched from his position in the back row, still processing what he had heard, still recalibrating.
 
@@ -270,7 +270,7 @@ The echo was intentional. Father and son, using each other's words.
 
 
 
-# Scene 03
+# ~~~
 
 They talked for ninety minutes. The coffee went cold; neither of them noticed. DeShawn explained Verity's architecture—how they were building transparency into AI decision-making systems at the code level, making every algorithmic choice auditable in real time. Jerome asked questions, genuine ones, probing for understanding rather than weakness.
 

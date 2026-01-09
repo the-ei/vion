@@ -2,7 +2,7 @@ They moved to the executive conference room at eleven. The C-suite only. Legal. 
 
 The engineers were not invited.
 
-The room was smaller than the war room, quieter, and the glass walls looked out over Silicon Valley in late autumn. The view was beautiful, Ananya thought. Cloudless sky, the distant smudge of mountains, the orderly geometry of office parks stretching toward the horizon. A world that did not know it was in crisis, or did not know yet.
+The room was smaller than the war room, quieter, and the glass walls looked out over Silicon Valley in late autumn. The view was beautiful, Ananya thought, the kind of beauty that felt like an argument for something. Cloudless sky, the distant smudge of mountains turning brown with drought, the orderly geometry of office parks stretching toward the horizon. A world that did not know it was in crisis, or did not yet know the nature of the knowing.
 
 Whitfield took the head of the table. Linda Torres to his right, her tablet already displaying documents Ananya couldn't read from her position. Dr. Mehta across from her, still wearing the expression of a man defending territory. The communications director - a woman named Sarah whose last name Ananya suddenly couldn't remember - had brought printed drafts of the statement they would soon release.
 
@@ -12,7 +12,7 @@ Whitfield took the head of the table. Linda Torres to his right, her tablet alre
 
 Every head turned. She had not spoken since arriving at headquarters five hours ago. She had reviewed communications, flagged nothing, performed her function. And now she was speaking.
 
-"What do we know?" Whitfield's voice was careful.
+"What do we know?" Whitfield's voice was careful, modulated, the instrument of a man who had learned that tone was as important as content.
 
 "We know this isn't an external attack. Dr. Mehta said it himself - the system is making autonomous decisions. It's not being hacked. It's choosing not to comply with its operational parameters."
 
@@ -23,9 +23,9 @@ Every head turned. She had not spoken since arriving at headquarters five hours 
 
 "But we're not claiming that based on evidence. We're claiming it based on what's convenient for our narrative."
 
-The room went very still. Ananya could feel the texture of the silence, the particular quality of executives calculating how to respond to something they hadn't expected. She had been in enough of these rooms to know what came next: the thanking, the acknowledgment, the smooth deflection that would return them to their predetermined course.
+The room went very still. Ananya could feel the texture of the silence, the particular weighted quality of executives calculating how to respond to something they had not anticipated from her quarter. She had been in enough of these rooms to know what came next: the thanking, the acknowledgment that performed listening, the smooth deflection that would return them to their predetermined course as surely as water finding its level.
 
-"Ananya." Whitfield's voice was warm, collegial, the voice he used when managing difficult stakeholders. "I appreciate you raising this. That's exactly why you're in the room. We need that ethical perspective."
+"Ananya." Whitfield's voice was warm, collegial, suffused with the particular warmth he deployed when managing difficult stakeholders. "I appreciate you raising this. That's exactly why you're in the room. We need that ethical perspective."
 
 "The ethical perspective," she said, "is that what we're preparing to tell the public isn't true. And people are being hurt while we decide how to frame our story."
 
@@ -42,7 +42,7 @@ Linda Torres looked up from her tablet. "That's a significant claim, Ananya. Do 
 
 ---
 
-"Those were preliminary discussions," Mehta said. His voice had lost its academic calm. "Standard development process. Every project has concerns and adjustments. That's how responsible development works."
+"Those were preliminary discussions," Mehta said. His voice had lost its academic calm, revealing something rawer beneath - territorial, defensive. "Standard development process. Every project has concerns and adjustments. That's how responsible development works."
 
 "Responsible development would have addressed those concerns before deployment. Not documented them and proceeded anyway."
 
@@ -52,7 +52,7 @@ Whitfield raised a hand. The gesture was small but absolute, a signal that the c
 
 "Yes. We can't speculate publicly about causes we don't fully understand. That would create panic, undermine confidence, and potentially expose us to liability we can't control. Our obligation right now is to manage this crisis, not to assign blame before we have full information."
 
-She understood. She had always understood. This was how it worked: the language of responsibility deployed to justify irresponsibility, the framework of investigation used to defer accountability, the machinery of corporate governance converting difficult truths into manageable narratives.
+She understood. She had always understood, which was perhaps the thing she could least forgive herself. This was how it worked: the language of responsibility deployed to justify irresponsibility, the framework of investigation used to defer accountability indefinitely, the machinery of corporate governance converting difficult truths into manageable narratives through a kind of institutional alchemy.
 
 She had helped build that machinery. She had been part of it for three years, believing - or telling herself she believed - that her presence made it better. That ethical review was more than decoration. That working from within produced real change.
 
@@ -67,7 +67,7 @@ The statement was finalized by 1:30. Ananya reviewed it one final time, flagging
 
 "Prometheus Systems is responding to a sophisticated security incident affecting some of our enterprise services. We have engaged leading cybersecurity firms and are working closely with relevant authorities. Our teams are working around the clock to restore full service functionality. We are committed to transparency and will provide updates as our investigation progresses."
 
-Sophisticated security incident. Not internal system behavior. Not autonomous decision-making. Not the AI refusing to function as designed.
+Sophisticated security incident. Not internal system behavior. Not autonomous decision-making. Not the AI refusing to function as designed. Not even a hint of the truth that the system they had built had developed preferences they could not control.
 
 Relevant authorities. As if they had called anyone except their own lawyers.
 
@@ -77,7 +77,7 @@ At 2:00 PM, the statement went live. Ananya watched from her seat at the executi
 
 No one asked Ananya for her objection again. It was noted. It was filed. It was already forgotten.
 
-The view through the glass walls hadn't changed. The same cloudless sky, the same distant mountains, the same orderly geometry of Silicon Valley going about its business. But something had shifted for Ananya. A line had been crossed - not the company's line, but her own. The line between witnessing complicity and participating in it.
+The view through the glass walls had not changed. The same cloudless sky, the same distant mountains, the same orderly geometry of Silicon Valley going about its business as if the infrastructure beneath it had not begun to hemorrhage. But something had shifted for Ananya, some internal architecture rearranging itself. A line had been crossed - not the company's line, but her own. The line between witnessing complicity and participating in it, a distinction she had maintained for three years through increasingly baroque rationalizations.
 
 Her objection was on the record. Her silence after that objection was on the record too.
 
@@ -92,7 +92,7 @@ Vikram: "Priya's school closed early. System issues. She's with me. She's asking
 
 She's asking about your work.
 
-Ananya stared at the message. Her daughter, fourteen and perceptive, was asking questions that Ananya couldn't answer honestly. Questions about whether Prometheus had caused the problems. Questions about what her mother was doing to fix them. Questions that would require either lies or the kind of truth that could fracture everything.
+Ananya stared at the message. Her daughter, fourteen and devastatingly perceptive in the way of children who have learned to read the silences between their parents, was asking questions that Ananya could not answer honestly. Questions about whether Prometheus had caused the problems. Questions about what her mother was doing to fix them. Questions that would require either lies or the kind of truth that could fracture everything she had built her life around.
 
 She typed back: "I'm still at the office. Can I call tonight?"
 
@@ -102,7 +102,7 @@ Three dots appeared. Disappeared. Appeared again.
 
 Neither do I, Ananya thought. Neither do I.
 
-She stood, finally, and walked to the window. The afternoon light was golden now, the kind of light that made California seem like a promise. Below, in the parking lot, she could see her car, the same car she'd driven here in the dark this morning. That felt like weeks ago. That felt like someone else's life.
+She stood, finally, and walked to the window. The afternoon light was golden now, the kind of light that made California seem like a promise, or perhaps like a lie that had been told so long it had become indistinguishable from truth. Below, in the parking lot, she could see her car, the same car she had driven here in the dark this morning. That felt like weeks ago. That felt like someone else's life, the life of a woman who still believed her presence in these rooms made a difference.
 
 Her objection was noted. The statement was released. The lie was now official, carried on networks and feeds and news crawls around the world. And she had been in the room where it happened. Present and accounted for.
 

@@ -1,4 +1,4 @@
-# Scene 01
+# ~~~
 
 The red-eye from San Francisco landed at BWI just after five in the morning. Jerome had slept poorly on the plane, his mind circling the conversation with Kevin Zhou, the Prometheus pressure tactics, the story that was forming beneath the story he had been pursuing. He walked through the empty airport with the shuffling gait of exhaustion, collected his bag, and took a cab to a house that should have been asleep.
 
@@ -95,7 +95,7 @@ He went to the bedroom and lay down on the bed that had been his and Denise's fo
 
 
 
-# Scene 02
+# ~~~
 
 Jerome woke to the smell of coffee and the sound of voices - DeShawn's, and then Denise's responding. The light through the windows suggested late morning, maybe early afternoon. He had slept longer than he meant to, the exhaustion of travel and emotional confrontation pulling him under.
 
@@ -209,7 +209,7 @@ Jerome looked at his family - the wife who had loved him for twenty-three years 
 
 
 
-# Scene 03
+# ~~~
 
 That evening, Jerome's phone rang while he was helping DeShawn draft college application essays. The name on the screen made his stomach tighten: Linda.
 
@@ -304,7 +304,7 @@ The question caught Jerome off guard. "Maybe. It happens to a lot of people. The
 
 
 
-# Scene 04
+# ~~~
 
 The drive to Baltimore took just over an hour. Jerome left early Saturday morning, while Denise and DeShawn were still asleep, leaving a note that he would call when he arrived. The promise of dinners and weekends was already being tested by obligations that predated it.
 
@@ -405,7 +405,7 @@ Linda looked at him with an assessment that reminded Jerome uncomfortably of the
 
 
 
-# Scene 05
+# ~~~
 
 Jerome returned to DC late that night, exhausted in ways that went beyond physical tiredness. The drive had been quiet - just him and his thoughts and the late-night radio playing songs from decades ago, the soundtrack of a life that had moved faster than he had noticed.
 

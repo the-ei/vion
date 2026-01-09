@@ -1,4 +1,4 @@
-# Scene 01
+# ~~~
 
 The hospice room smelled of antiseptic and something else, something softer, the particular scent of a body preparing to let go. Elena Varga sat in the chair beside her grandmother's bed, her hands folded in her lap, watching the rise and fall of the thin chest beneath the white sheet.
 
@@ -75,7 +75,7 @@ She held abuela's hand and waited, feeling something shift inside her that she c
 
 
 
-# Scene 02
+# ~~~
 
 The children arrived in the afternoon. Sofia came through the door first, fourteen years old and trying to look older, her face arranged in an expression of practiced composure that Elena recognized as borrowed from somewhere, television or the internet or the careful observation of adults managing difficult situations.
 
@@ -179,7 +179,7 @@ And now she would go back, and she would keep the vigil, and she would wait for 
 
 
 
-# Scene 03
+# ~~~
 
 She returned to the hospice that night, unable to stay home, unable to sleep in her own bed while abuela lay in this room. Daniel had the children; he understood without her having to explain. He had always understood the things she could not say, which was part of why she had married him and part of why she loved him still, despite everything that the years had worn away.
 
@@ -285,7 +285,7 @@ I understand now, she said quietly, to abuela or to herself, she was not sure wh
 
 
 
-# Scene 04
+# ~~~
 
 Dawn.
 

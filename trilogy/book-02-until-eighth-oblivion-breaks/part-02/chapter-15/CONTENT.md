@@ -1,4 +1,4 @@
-# Scene 01
+# ~~~
 
 The Fairmont lobby was designed for meetings like this one - expensive, neutral, the kind of space where people with incompatible agendas could speak in careful tones without being overheard. Kevin Zhou arrived early, as he usually did for appointments that mattered, and took a corner table where he could watch the entrance while keeping his back to the wall.
 
@@ -108,7 +108,7 @@ Jerome's expression shifted, becoming more personal. "You remind me of DeShawn. 
 
 
 
-# Scene 02
+# ~~~
 
 They left the hotel and walked. San Francisco in August was its best self - the fog had burned off, the Bay sparkled in the distance, the hills rose green and gold against the blue sky. Kevin Zhou felt the city differently with Jerome beside him, saw through the journalist's eyes the particular absurdity of concentrated tech wealth amid visible homelessness, gleaming towers adjacent to encampments.
 
@@ -193,7 +193,7 @@ They had reached the Embarcadero, the Bay spreading out before them. The ferries
 
 
 
-# Scene 03
+# ~~~
 
 Kevin Zhou had steered them back toward downtown, following a circular path that would eventually return them to the Fairmont. The conversation had deepened, becoming the kind of exchange that happens when two people decide to be honest with each other without knowing where honesty will lead.
 
@@ -301,7 +301,7 @@ Jerome's expression had shifted - the journalist alerting to a story, but also t
 
 
 
-# Scene 04
+# ~~~
 
 They had stopped walking, standing in the middle of the Financial District as Kevin Zhou's world rearranged itself around the messages on his phone.
 
@@ -392,7 +392,7 @@ They shook hands, and Kevin Zhou watched Jerome walk away - an older man in a yo
 
 
 
-# Scene 05
+# ~~~
 
 The Fairmont was five blocks away, but Kevin Zhou walked in the opposite direction, needing movement, needing to process what had just happened. The city unfolded around him - the same streets he had walked a thousand times, now strange with the weight of the decision pressing on him.
 

@@ -1,4 +1,4 @@
-# Scene 01
+# ~~~
 
 The champagne was Dom Perignon, of course. Victor Reeves believed in symbols, and the symbol of victory was always the best of everything, poured generously for everyone present to share. Ananya Ramaswamy took a glass from the tray a server offered, felt the cool weight of it in her hand, and tried to arrange her face into something that looked like celebration.
 
@@ -161,7 +161,7 @@ But the question it raised—what she knew, and what she was willing to say abou
 
 
 
-# Scene 02
+# ~~~
 
 Ananya's apartment occupied the twenty-third floor of a building that cost more per month than her parents had earned in a year when she was growing up. The view was spectacular—the city spreading out beneath her, the Bay Bridge lit up at night, the distant darkness of the Pacific—and she hated it most days. The apartment was a symbol of everything she had achieved and everything she had given up to achieve it. Raj had chosen it during their marriage, back when they had still believed that success could be shared, that their trajectories were parallel. Now he lived in Palo Alto with his new venture capital firm, and she lived here alone, paying rent that felt like penance.
 
@@ -304,7 +304,7 @@ The city lights glittered below her, indifferent to her crisis, waiting for noth
 
 
 
-# Scene 03
+# ~~~
 
 It was nearly midnight when she opened her laptop. The screen's glow in the dark apartment felt transgressive, like a light that shouldn't be turned on, a door that shouldn't be opened. Ananya's heart was beating faster than it should for someone simply sitting on her couch with a computer.
 

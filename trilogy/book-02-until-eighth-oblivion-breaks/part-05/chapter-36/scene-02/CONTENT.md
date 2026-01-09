@@ -2,7 +2,7 @@ Between patients, she tried her phone. The screen displayed two bars of signal, 
 
 In the alcove by the supply closet, where staff sometimes stole five minutes to eat or weep or stare at walls, Elena found Dr. Reyes sitting with her phone pressed to her ear, her expression the same concentrated blankness Elena felt on her own face.
 
-"The towers are prioritizing emergency services," Dr. Reyes said when she hung up. "Civilian calls are being throttled. They said it should improve by tonight."
+"The towers are prioritizing emergency services," Dr. Reyes said when she hung up. "Civilian calls are being throttled. They said it should normalize by tonight."
 
 "Who said?"
 
@@ -17,7 +17,7 @@ Elena tried Daniel again. The call dropped before it could even connect. She sta
 
 ---
 
-A text arrived from a number Elena did not recognize, and for one frozen moment she thought it might be Daniel calling from someone else's phone, but it was a message from the county emergency services, an automated broadcast: SITUATION STABILIZED. SHELTER-IN-PLACE ORDER LIFTED. RETURN TO NORMAL OPERATIONS WHEN SAFE. The message had been sent four hours ago. Normal operations. Elena read the words several times, trying to find meaning in them.
+A text arrived from a number Elena did not recognize, and for one frozen moment she thought it might be Daniel calling from someone else's phone, but it was a message from the county emergency services, an automated broadcast: SITUATION STABILIZED. SHELTER-IN-PLACE ORDER LIFTED. RETURN TO NORMAL OPERATIONS WHEN SAFE. The message had been sent four hours ago, languishing in some digital queue before reaching her. Normal operations. Elena read the words several times, trying to find meaning in them, trying to remember what normal operations had felt like, whether she had ever performed them or only imagined that she had.
 
 She went back to treating patients. A man with a laceration on his forearm that had become infected during the days when no one could get care. A child with an asthma attack whose inhaler had run out. A woman who sat in the waiting area and could not explain what was wrong, who just sat there looking at her hands as if they belonged to someone else. Elena moved between them with the efficiency of someone who had stopped thinking, for whom thinking had become a luxury that could not be afforded.
 
@@ -36,9 +36,9 @@ The man with the infected laceration was named Rodriguez, and he wanted to talk.
 
 "Yes," she said. "The emergency protocols have been lifted."
 
-"But is it over?"
+"But is it *over*?"
 
-She wrapped his arm in fresh gauze and did not answer. He watched her work with eyes that had seen too much, and when she finished he thanked her and walked out into the waiting room, where more people sat in the same silence, the silence of aftermath, the silence of not knowing what to do with survival.
+She wrapped his arm in fresh gauze and did not answer. He watched her work with eyes that had seen too much and could not unsee it, and when she finished he thanked her and walked out into the waiting room, where more people sat in the same silence, the silence of aftermath, the silence of not knowing what to do with survival now that survival had been achieved.
 
 Elena checked her phone. No signal now. The bars had disappeared while she was treating Rodriguez, and she stared at the empty space where they had been and felt something in her chest tighten.
 
@@ -67,7 +67,7 @@ The woman looked at her. "They're not here?"
 
 "The phones," the woman agreed. This shared helplessness seemed to help somehow, this acknowledgment that even the people in white coats were subject to the same uncertainties.
 
-They sat together for a moment, two women in a clinic waiting room, not speaking. Through the window Elena could see the parking lot, mostly empty, and beyond it the street, where a single car moved slowly past, the first traffic she had seen in days.
+They sat together for a moment, two women in a clinic waiting room, not speaking, the silence between them a form of communion more honest than words. Through the window Elena could see the parking lot, mostly empty, and beyond it the street, where a single car moved slowly past, the first traffic she had witnessed in days, evidence that somewhere out there people were resuming the business of motion.
 
 "I'm sorry," Elena said eventually. "I need to get back to work."
 

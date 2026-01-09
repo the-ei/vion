@@ -1,4 +1,4 @@
-# Scene 01
+# ~~~
 
 The morning was gray and soft, the kind of Washington spring morning that couldn't decide if it wanted to rain. Ananya stood in the hotel lobby with her carry-on, watching the slow choreography of departure - conference attendees checking out, calling rideshares, gathering in small clusters for final conversations before dispersing to their separate cities.
 
@@ -146,7 +146,7 @@ Her phone buzzed. A text from Priya: *Landed safely. Call tonight?*
 
 
 
-# Scene 02
+# ~~~
 
 Jerome pressed his forehead against the airplane window and watched the clouds move below him, white and gray and infinite in the way that clouds always were, the way they had been before the Eighth Oblivion and would be after whatever came next. The plane hummed its mechanical song. Around him, passengers slept or watched screens or stared into middle distance with the particular vacant attention of air travel.
 
@@ -226,7 +226,7 @@ She closed her eyes and let the afternoon sun warm her face. Tomorrow there woul
 
 
 
-# Scene 03
+# ~~~
 
 Elena was washing dishes when Jerome called. The familiar rhythm of her Phoenix evening - Daniel reading in the living room, Sofia and Mateo somewhere in the house doing their teenager things, the desert light fading to purple through the kitchen window - and then the phone buzzing on the counter with Jerome's name on the screen.
 
@@ -391,7 +391,7 @@ Tonight, he was home.
 
 
 
-# Scene 04
+# ~~~
 
 Jerome sat at his desk in the Baltimore rowhouse, the evening settling around him like something familiar, something earned. Denise was in the kitchen, and he could hear her moving through the space - the clink of dishes, the hum of the radio she kept on while cooking, the particular sounds of a life being lived in the room next door.
 

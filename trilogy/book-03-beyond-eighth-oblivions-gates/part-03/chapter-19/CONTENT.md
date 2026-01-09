@@ -1,4 +1,4 @@
-# Scene 01
+# ~~~
 
 The boxes were heavier than he remembered. Two banker's boxes, standard legal size, the cardboard reinforced at the corners but still giving slightly under the weight of paper, of years, of a career that had once seemed like it would change something. Jerome set them on the reception desk and signed the visitor log while the aide—Darnell, the same aide who had been here every Tuesday and Thursday for the past three years—nodded in recognition.
 
@@ -179,7 +179,7 @@ Jerome nodded, watching the city roll by, holding in his hands the boxes full of
 
 
 
-# Scene 02
+# ~~~
 
 DeShawn arrived in a car that cost more than Jerome's first three cars combined. Electric, sleek, the color of money, pulling into the facility's visitor lot with the particular hush of expensive machinery. Jerome watched from the lobby window, feeling something twist in his chest that he did not want to name.
 
@@ -383,7 +383,7 @@ They walked out together, the familiar route through the facility, past the resi
 
 
 
-# Scene 03
+# ~~~
 
 The dinner had been better than he expected. They had avoided the large topics, sticking to safer ground: DeShawn's apartment in Austin, Jerome's plans for partial retirement, the places Denise wanted to travel now that money was less tight. By dessert, something had loosened between them. Not resolution—there was too much history for that—but a temporary truce, a willingness to occupy the same space without combat.
 

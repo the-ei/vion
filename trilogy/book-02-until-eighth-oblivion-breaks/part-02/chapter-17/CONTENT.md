@@ -1,4 +1,4 @@
-# Scene 01
+# ~~~
 
 The briefs were spread across her dining table in overlapping layers, each document annotated in her careful handwriting, blue ink marking the passages where legal precedent failed and something new would have to be constructed. Ruth had been reviewing David's case for hours now, tracing the logic of what Prometheus claimed versus what the government suspected versus what the evidence actually showed, and finding herself again and again in that uncomfortable territory where the law could not quite reach what was happening.
 
@@ -81,7 +81,7 @@ She locked her door and moved toward the elevator, the corridor quiet at this ho
 
 
 
-# Scene 02
+# ~~~
 
 The office was quiet at this hour, the particular silence of a space designed for activity now holding only Kevin and the glow of his monitors. He had sent his team home at eight, wanting the solitude to think through the Prometheus offer, to weigh the numbers against the principles, the money against the meaning. The acquisition documents sat open on one screen, their careful language promising integration and resources and the kind of scale his small company could never achieve alone. On another screen, his monitoring dashboard ran its continuous assessment of network traffic, the automated systems he had designed to watch for patterns too subtle for human perception.
 
@@ -177,7 +177,7 @@ He leaned forward again and began to type.
 
 
 
-# Scene 03
+# ~~~
 
 The footage played on the editing bay's main monitor, a sequence they had been refining for weeks: Elena Vance speaking at a Prometheus shareholders meeting, her voice carefully modulated to project competence and vision, the graphics behind her showing projections that promised transformation without specifying what would be transformed. Delphine watched the familiar images with the eye of someone who has seen them a hundred times, noting the moments where the cuts needed tightening, where the pacing lagged, where the juxtaposition with the whistleblower testimony was too obvious or not obvious enough.
 
@@ -254,7 +254,7 @@ She drove home through Los Angeles traffic, the city unchanged around her, and t
 
 
 
-# Scene 04
+# ~~~
 
 The care facility smelled of disinfectant and something sweeter underneath, the particular institutional fragrance that Jerome had learned to associate with his mother's decline. He had been sitting by her bedside for three hours, watching her drift in and out of recognition, her face carrying expressions that belonged to decades he had not been alive to witness—a young woman's smile, a mother's worry, the sudden sharpness of someone remembering an argument long resolved.
 
@@ -366,7 +366,7 @@ Some patterns could not be broken. Some choices had already been made, long befo
 
 
 
-# Scene 05
+# ~~~
 
 Ruth entered the Old Executive Office Building through a side entrance, flanked by two Secret Service agents who said nothing as they escorted her through security that had been enhanced since her last visit. The hallways were bright with activity even at this hour, men and women in suits moving with the particular urgency of people who did not yet know what they were urgent about.
 

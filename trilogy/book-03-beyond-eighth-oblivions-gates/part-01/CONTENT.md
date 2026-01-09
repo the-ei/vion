@@ -1,10 +1,10 @@
-# Chapter 01
+# Chapter 1: The Arrangement of Light
 
-# Scene 01
+# ~~~
 
 She woke to the house already awake.
 
-Not in any dramatic sense - no sounds of coffee grinding or automated blinds rising, nothing so obvious as a machine performing morning. But the air had shifted overnight, the ambient system reading the quality of her sleep and adjusting temperature, humidity, the spectrum of light now filtering through the climate-adaptive glass. Delphine lay still for a moment, feeling the particular weight of consciousness returning, the way it always took longer now than it had at thirty, at twenty-five, the gradual reassembly of self from the scattered fragments of dream.
+Not in any dramatic sense - no sounds of coffee grinding or automated blinds rising, nothing so obvious as a machine performing morning. But the air had shifted overnight, the ambient system reading the quality of her sleep through some combination of motion sensors and breath analysis, adjusting temperature, humidity, the spectrum of light now filtering through the climate-adaptive glass. Delphine lay still for a moment, feeling the particular weight of consciousness returning, the way it always took longer now than it had at thirty, at twenty-five, the gradual reassembly of self from the scattered fragments of dream.
 
 Forty-one years old. Three years since everything changed.
 
@@ -31,7 +31,7 @@ He turned to her with the specific delight that still, after seven years, made s
 
 "The gravity thing. It made sense in the dream."
 
-She sat on the edge of his bed and he crawled into her lap, fitting himself against her body with the practiced ease of a child who'd been held exactly this way ten thousand times. His warmth, his weight, the smell of his hair - these were the things the systems couldn't replicate, couldn't optimize, couldn't learn their way toward. She held him and watched the Los Angeles light shift through his window, thinking about breakfast, about the day ahead, about all the small negotiations that made a morning possible.
+She sat on the edge of his bed and he crawled into her lap, fitting himself against her body with the practiced ease of a child who'd been held exactly this way ten thousand times. His warmth, his weight, the smell of his hair - detangler and sleep-sweat and something underneath that was just him, unmistakably - these were the things the systems couldn't replicate, couldn't optimize, couldn't learn their way toward. She held him and watched the Los Angeles light shift through his window, thinking about breakfast, about the day ahead, about all the small negotiations that made a morning possible.
 
 
 ---
@@ -144,7 +144,7 @@ She sat down and began.
 
 
 
-# Scene 02
+# ~~~
 
 The home office was a converted second bedroom, and Delphine had spent considerable effort making it feel separate from the house's domestic rhythms. Different lighting temperature. A door that actually closed. A view of the back garden rather than the street, so the endless parade of autonomous vehicles didn't distract her from the work of making meaning out of other people's suffering.
 
@@ -152,7 +152,7 @@ She sat at her desk and pulled up the day's calendar. The foundation call was in
 
 But first, the empty time. The minutes before the schedule started, when she could sit with her coffee and look at the garden through the climate-treated glass.
 
-Jessie had planted those roses. Five years ago, before Theo was old enough to help, before the crisis, when weekend mornings had been for gardening and cooking elaborate breakfasts and making love before the world demanded their attention. Delphine remembered Jessie on her knees in the dirt, hair tied back, explaining the difference between grafted roots and own-root plants, and how her own eyes had glazed over while her heart had swelled with love for this person who cared so deeply about things Delphine would never fully understand.
+Jessie had planted those roses. Five years ago, before Theo was old enough to help, before the crisis, when weekend mornings had stretched open for gardening and cooking elaborate breakfasts and making love before the world demanded their attention. Delphine remembered Jessie on her knees in the dirt, hair tied back, explaining the difference between grafted roots and own-root plants, her hands dark with soil, and how Delphine's own eyes had glazed over while her heart had swelled with love for this person who cared so deeply about things she would never fully understand.
 
 The roses were struggling now. The water restrictions made it harder to keep anything alive that wasn't drought-adapted, and Jessie wasn't here to do the careful work of coaxing survival from hostile conditions.
 
@@ -294,7 +294,7 @@ She saved her files and closed her laptop and went to the kitchen to prepare som
 
 
 
-# Scene 03
+# ~~~
 
 The call with her mother was scheduled for two o'clock, which was ten in the evening in London, the hour when Nkechi had always been most herself - dinner finished, the day's obligations discharged, a glass of wine in hand and opinions ready to be dispensed.
 
@@ -392,7 +392,7 @@ Delphine read it twice, standing in her kitchen with a head of romaine in one ha
 
 "I need to talk to you about what Prometheus is planning. Not over any network. Can we meet?"
 
-The words sat on her screen like unexploded ordinance. Prometheus. The company Ananya had left - or been pushed from - in the aftermath of the crisis. The company whose technology had been at the center of so much that had gone wrong. The company that had, by all official accounts, reformed itself under the new regulatory frameworks.
+The words sat on her screen like unexploded ordnance. Prometheus. The company Ananya had left - or been pushed from - in the aftermath of the crisis. The company whose technology had been at the center of so much that had gone wrong. The company that had, by all official accounts, reformed itself under the new regulatory frameworks.
 
 And Ananya, who had been inside it, who had seen whatever there was to see, who was asking Delphine to meet in person, not on any network, as if the networks themselves could not be trusted.
 
@@ -480,11 +480,11 @@ The roses rustled in a breeze she couldn't feel, and the city hummed around her,
 
 
 
-# Chapter 02
+# Chapter 2: What the Record Shows
 
-# Scene 01
+# ~~~
 
-The drive from his house in Roland Park to Grace's place in Northwood took twenty-three minutes on a good day, and Jerome made it every morning regardless of what else demanded his time. Traffic moved differently now than it had five years ago - the autonomous vehicles flowing in algorithmic patterns that were more efficient but somehow less human, as if the city itself had become a machine optimizing throughput without understanding what the throughput was for.
+The drive from his house in Roland Park to Grace's place in Northwood took twenty-three minutes on a good day, and Jerome made it every morning regardless of what else demanded his time. Traffic moved differently now than it had five years ago - the autonomous vehicles flowing in algorithmic patterns that were more efficient but somehow less human, as if the city itself had become a machine optimizing throughput without understanding what the throughput was for, what it meant to move bodies through space toward places they needed to be.
 
 He pulled into Grace's driveway at 7:15, the same time he always arrived. Her house was a modest colonial, white trim needing paint, the kind of place their parents would have saved for years to afford and considered a triumph. Now Grace owned it outright, had moved their mother here three years ago when the dementia made living alone impossible, had converted the dining room into a bedroom with hospital equipment and a view of the backyard where nothing grew that required attention.
 
@@ -536,7 +536,7 @@ It wasn't Saturday. Jerome didn't correct her. Instead he went to the kitchen an
 
 "He had to leave early. I made you this instead."
 
-She accepted the substitution without protest, eating slowly, carefully, with the concentration of someone for whom the act of lifting a spoon had become work. Jerome watched her and thought about the person she had been - Evelyn Washington, retired schoolteacher, church deacon, the woman who had raised him and Grace through the years when Black families in Baltimore did everything twice as well to get half as far. She had taught him to read before kindergarten. She had sat with him through homework he didn't want to do, through college applications he didn't think he deserved, through the early years of his career when rejection letters outnumbered assignments and he considered giving up.
+She accepted the substitution without protest, eating slowly, carefully, with the concentration of someone for whom the act of lifting a spoon had become work. Jerome watched her and thought about the person she had been - Evelyn Washington, retired schoolteacher, church deacon, the woman who had raised him and Grace through the years when Black families in Baltimore did everything twice as well to get half as far. She had taught him to read before kindergarten, sitting with him at the kitchen table in the apartment they'd shared in West Baltimore, sounding out words from books she'd bought at yard sales and thrift stores. She had sat with him through homework he didn't want to do, through college applications he didn't think he deserved, through the early years of his career when rejection letters outnumbered assignments and he considered giving up.
 
 Now she didn't know his name. Now she lived in a world where his father was still alive and Saturdays meant pancakes and the nice young man who came to visit was kind but unfamiliar.
 
@@ -646,7 +646,7 @@ She came around the island and kissed him, a brief touch that carried twenty-fiv
 
 
 
-# Scene 02
+# ~~~
 
 The home studio was in the basement - a space Jerome had converted five years ago when the pandemic before the crisis had made remote work mandatory and staying productive had required physical separation from the domestic rhythms upstairs. Soundproofing on the walls, a professional microphone setup, a background of bookshelves carefully arranged to suggest scholarship without ostentation. The apparatus of serious conversation.
 
@@ -677,7 +677,7 @@ Jerome had answered this question a hundred times, had a polished version ready 
 
 Timothy looked slightly startled, as if guests weren't supposed to turn the interview's lens back on the interviewer. "I suppose I'm asking what it felt like. To uncover something that big."
 
-"It felt like work. It felt like reading documents at three in the morning and making phone calls no one wanted to answer. It felt like watching my sources get nervous and knowing that their nervousness meant I was close to something real." Jerome shook his head. "The mythology of investigative journalism makes it sound dramatic. Heroes exposing villains. The truth setting people free. But the actual work is tedious and exhausting and uncertain, and most of the time you don't know if what you're doing matters at all."
+"It felt like work. It felt like reading documents at three in the morning, my eyes burning, cross-referencing dates and figures and making phone calls no one wanted to answer. It felt like watching my sources get nervous and knowing that their nervousness meant I was close to something real." Jerome shook his head. "The mythology of investigative journalism makes it sound dramatic. Heroes exposing villains. The truth setting people free. But the actual work is tedious and exhausting and uncertain, and most of the time you don't know if what you're doing matters at all."
 
 "But it did matter. Your coverage changed the conversation."
 
@@ -826,9 +826,9 @@ Some things couldn't be written. They had to be lived through first.
 
 
 
-# Scene 03
+# ~~~
 
-DeShawn arrived at six-thirty, twenty minutes late, with the particular energy of someone who was always moving toward the next thing. He came through the front door like a disruption - tall, handsome, carrying himself with a confidence that Jerome recognized as both inheritance and difference. His son, but not his son. A person shaped by forces Jerome had documented but never fully understood.
+DeShawn arrived at six-thirty, twenty minutes late, with the particular energy of someone who was always moving toward the next thing. He came through the front door like a disruption - tall, handsome, carrying himself with a confidence that Jerome recognized as both inheritance and something else entirely, something that belonged only to DeShawn and his generation. His son, but not his son. A person shaped by forces Jerome had documented but never fully understood.
 
 "Sorry I'm late. Investor call ran over."
 
@@ -1034,9 +1034,9 @@ Maybe that would have to be enough.
 
 
 
-# Chapter 03
+# Chapter 3: The Weight of Chambers
 
-# Scene 01
+# ~~~
 
 The Berkeley Law building caught the Monday morning light in a way that made Ruth think of aquariums - all that glass, all that transparency designed to suggest openness while actually containing and directing the movement of bodies through carefully planned spaces. She had been teaching here for three years now, since her retirement from the federal bench, and she still felt like a visitor. The building was too new, too deliberately symbolic, too different from the wood-paneled chambers where she had spent forty years learning what law actually was.
 
@@ -1163,7 +1163,7 @@ She opened her notes for the lecture and began, for the first time, to consider 
 
 
 
-# Scene 02
+# ~~~
 
 The Stanford campus was designed to intimidate. Ruth had lectured here before, had walked these paths designed by Stanford himself to evoke European grandeur transplanted to California sunshine, but the effect never entirely wore off. The sandstone arches, the red-tiled roofs, the quad that stretched toward horizons of accumulated prestige - it was architecture as argument, a physical assertion that the people educated here were destined to lead.
 
@@ -1335,7 +1335,7 @@ Susan would have said that was the beginning of something. Ruth hoped she was ri
 
 
 
-# Scene 03
+# ~~~
 
 The restaurant Benjamin had chosen was in the Financial District, the kind of place where executives took clients they wanted to impress - understated elegance, prices that didn't appear on the menu, servers who moved like ghosts through the careful lighting. Ruth had let him pick because she didn't know San Francisco the way she once had, and because something about meeting him on his territory felt appropriate for the conversation they were about to have.
 
@@ -1530,9 +1530,9 @@ It was the direction Susan would have pushed her toward, all along.
 
 
 
-# Chapter 04
+# Chapter 4: The Quiet Build
 
-# Scene 01
+# ~~~
 
 Kevin woke at 5:14, two minutes before his alarm, the way he always did now. His body had learned the rhythm over three years of deliberate practice, the careful reconstruction of a life that had once been optimized for productivity and was now optimized for something harder to name. Sanity, maybe. Or just sustainability.
 
@@ -1661,7 +1661,7 @@ It wasn't enough. But it was what he could do without becoming what he had fled 
 
 
 
-# Scene 02
+# ~~~
 
 The walk started at one, after lunch and a brief call with one of his teammates about a bug that had shown up in the testing environment. He took the route he had come to think of as his thinking loop - down from Temescal toward Lake Merritt, through the Chinatown streets where the signs were in languages his parents spoke and he had never fully learned, then around the lake itself, watching the other walkers and joggers and the occasional person who seemed to have nowhere particular to go.
 
@@ -1800,7 +1800,7 @@ Maybe there was something Kevin could do after all.
 
 
 
-# Scene 03
+# ~~~
 
 The video call with DeShawn that evening had a different quality than the morning's conversation. Something in the younger man's voice had shifted - not convinced, exactly, but less certain than he had been. Kevin hoped that was good sign. He feared it might be irritation.
 
@@ -1989,9 +1989,9 @@ And the threads that had been running parallel through these chapters would begi
 
 
 
-# Chapter 05
+# Chapter 5: The Documentary Gaze
 
-# Scene 01
+# ~~~
 
 She chose to drive because flying would have been too fast.
 
@@ -2110,7 +2110,7 @@ Ananya took a breath. "The second phase. What happened after the crisis. What's 
 
 
 
-# Scene 02
+# ~~~
 
 Before getting to the urgent matter, they caught up. It was a strange kind of small talk - two women who barely knew each other personally, who had only met through the networks of professional obligation that had connected them during the crisis, now sitting in a living room in Tucson trying to remember how to be human with each other before becoming co-conspirators.
 
@@ -2249,7 +2249,7 @@ Delphine read. She looked at charts showing integration points. She followed the
 
 
 
-# Scene 03
+# ~~~
 
 The evening deepened around them as Ananya continued her explanation. Outside, the Tucson sky shifted from gold to orange to the particular purple that came before desert darkness. Inside, the air-gapped screen glowed with evidence of something Delphine was still trying to comprehend.
 
@@ -2419,9 +2419,9 @@ Sleep came eventually, carrying dreams she wouldn't remember - shapes moving in 
 
 
 
-# Chapter 06
+# Chapter 6: The Historian's Silence
 
-# Scene 01
+# ~~~
 
 The oncology waiting room at Johns Hopkins existed in its own time zone, Jerome thought, watching the second hand of the wall clock make its slow circuit. Not faster or slower than ordinary time, but differently textured - each second containing more than seconds usually did. He had been in many waiting rooms in his life, but never one like this. Here, everyone was waiting for information that would divide their lives into before and after.
 
@@ -2567,7 +2567,7 @@ They sat together on the couch, not talking, just present. The afternoon light m
 
 
 
-# Scene 02
+# ~~~
 
 DeShawn arrived the next evening, having driven down from Philadelphia after Jerome called. He stood in the doorway of the family home with a duffel bag over his shoulder, looking younger than his twenty years and older at the same time - the face of the child they had raised visible beneath the face of the young man he had become, overlaid with an expression of fear that he was trying to control.
 
@@ -2737,7 +2737,7 @@ They lay together in the dark, the house quiet around them, their son asleep dow
 
 
 
-# Scene 03
+# ~~~
 
 Three days later, DeShawn had returned to Philadelphia and the house had settled into a new rhythm. Denise's pre-operative appointments were scheduled; she was deep in research about recovery times and dietary adjustments and all the practical details that gave her a sense of control. Jerome had taken over more of the household tasks, trying to lighten her load without making her feel diminished.
 
@@ -2891,9 +2891,9 @@ Outside his window, Baltimore slept. But Jerome was awake again, truly awake, lo
 
 
 
-# Chapter 07
+# Chapter 7: The Doctrine of Necessity
 
-# Scene 01
+# ~~~
 
 The amicus brief sprawled across three legal pads and two laptop screens. Ruth's Berkeley office had become a war room - books stacked in precarious towers, case law highlighted and tabbed, the accumulated evidence of a month's obsessive work. Her three collaborators occupied the corners: Professor Hannah Reyes at the window, Dr. Samuel Okonjo by the bookshelves, and Emeritus Professor Morris Brennan settled into the worn leather chair Ruth had inherited from her predecessor.
 
@@ -3022,7 +3022,7 @@ But she was already paying costs. She might as well pay for something that matte
 
 
 
-# Scene 02
+# ~~~
 
 The Senate hearing room in the Rayburn Building was designed for theater. Elevated dais where the senators sat, able to look down at witnesses. Gallery seating for press and public, the architecture of democratic spectacle. Ruth had testified before Congress twice during her career, both times as a sitting judge on non-controversial judicial matters. This was different. This was political.
 
@@ -3172,7 +3172,7 @@ That was something. That was perhaps everything.
 
 
 
-# Scene 03
+# ~~~
 
 The op-ed request came from the Atlantic, forwarded by a colleague who knew the editors. Would Professor Abramson be willing to write 2,500 words on the implications of Henderson v. Prometheus for American democracy? The piece would run the week before the Supreme Court heard oral arguments, positioned to shape public conversation around the case.
 
@@ -3316,9 +3316,9 @@ Now she waited to see what came next.
 
 
 
-# Chapter 08
+# Chapter 8: The Architecture of Aftermath
 
-# Scene 01
+# ~~~
 
 The message came at nine in the morning, DeShawn's name lighting up Kevin Zhou's phone with an urgency that was new. They usually communicated in considered exchanges - questions about technical problems, updates on development progress, the measured back-and-forth of mentor and protege. This was different. This was excitement barely contained.
 
@@ -3435,7 +3435,7 @@ Building small, building local, building accountable - these weren't just techni
 
 
 
-# Scene 02
+# ~~~
 
 Yusuf stepped off the bus at the Lake Merritt station, and Kevin Zhou felt the particular strangeness of seeing someone you knew well but had never met in person. They had been thrown together during the crisis - an unlikely alliance between a tech founder and a community organizer, both trying to help people survive algorithmic chaos. Since then, they had maintained the connection through texts and occasional calls, the friendship becoming real despite its unconventional origin.
 
@@ -3592,7 +3592,7 @@ Yusuf went to the guest room. Kevin Zhou stayed on the balcony, looking at the l
 
 
 
-# Scene 03
+# ~~~
 
 After Yusuf left for the airport in the early morning, Kevin Zhou sat with his coffee and thought about what he was about to do. The apartment felt quieter now, the echo of friendship replaced by the hum of the city outside. He had twenty-four hours of Yusuf's visit settling into memory, the conversations and walks and shared meals becoming part of who he was.
 

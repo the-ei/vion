@@ -1,28 +1,28 @@
-# Chapter 27
+# Chapter 27: The First Dominoes
 
-# Scene 01
+# ~~~
 
 Elena woke at 4:45, as she had every weekday morning for the past six years, her body's clock so perfectly calibrated to this hour that the alarm on her phone was merely confirmation, a formality she maintained out of some residual anxiety that one day the internal mechanism would fail. The bedroom was dark, the blackout curtains she had installed three years ago still doing their work against the Phoenix streetlights, and beside her Daniel breathed with the slow heavy rhythm of a man who had another hour of sleep before his own alarm would sound. She lay still for a moment, as she always did, feeling the warmth of the bed against her back, the particular weight of the comforter they had bought together at a department store whose name she could no longer remember, back when they were first married and believed that purchasing household items together was an act of profound significance.
 
-She rose without turning on the lamp, navigating by memory through the familiar darkness to the bathroom, where she closed the door before switching on the light. The face in the mirror was forty-three years old, the gray at her temples more pronounced than it had been a year ago, the lines around her eyes deeper than she liked to acknowledge. She brushed her teeth, washed her face with the cold water she preferred to warm, and dressed in the scrubs she had laid out the night before, a habit she had developed in nursing school and never abandoned. Navy blue today, her favorite color, though she could not have said why.
+She rose without turning on the lamp, navigating by memory through the familiar darkness to the bathroom, where she closed the door before switching on the light. The face in the mirror was forty-three years old, the gray at her temples more pronounced than it had been a year ago, the lines around her eyes carved deeper than she wanted to acknowledge. She brushed her teeth, washed her face with the cold water she preferred to warm, and dressed in the scrubs she had laid out the night before, a habit she had developed in nursing school and never abandoned. Navy blue today, her favorite color, though she could not have said why.
 
-The hallway was silent as she passed the children's rooms. Sofia's door was closed, as it always was now that she was fifteen and insisted on privacy, and Elena resisted the urge to open it and check on her daughter the way she had when Sofia was small.
+The hallway was silent as she passed the children's rooms. Sofia's door was closed, as it always was now that she was fifteen and insisted on privacy with the ferocity of someone constructing a self, and Elena resisted the urge to open it and check on her daughter the way she had when Sofia was small.
 
 
 ---
 
 Mateo's door was ajar, and through the gap she could see the shape of him beneath his blankets, twelve years old and still sleeping with the stuffed elephant he had received on his first birthday, though he would have been mortified if anyone at school knew. She did not go in. The floorboards in his room creaked, and he was a light sleeper, and she had learned years ago that the best gift she could give her children on these early mornings was the gift of not waking them.
 
-At the end of the hall, the door to Abuela's room stood open. Elena paused at the threshold, listening for the soft mechanical click of the insulin pump, the sound that meant her mother-in-law's glucose levels were being monitored through the night. The pump's display glowed faintly green in the darkness: 112, stable, no alerts. Elena felt the small release of tension she felt every morning when she checked this number, the quiet relief of having made it through another night without crisis. Maria Varga was seventy-eight years old and had been living with them for four years, ever since Daniel's father died and it became clear she could not manage the diabetes alone. Elena had not resented taking her in, not exactly, though she sometimes wondered what their lives would have been like if they had not needed to convert the garage into a bedroom, if she had not become the de facto nurse for her husband's mother in addition to the hundred and fifty patients she saw each week at the clinic.
+At the end of the hall, the door to Abuela's room stood open. Elena paused at the threshold, listening for the soft mechanical click of the insulin pump, the sound that meant her mother-in-law's glucose levels were being monitored through the night. The pump's display glowed faintly green in the darkness: 112, stable, no alerts. Elena felt the small release of tension she felt every morning when she checked this number, the quiet relief of having made it through another night without crisis. Maria Varga was seventy-eight years old and had been living with them for four years, ever since Daniel's father died and it became clear she could not manage the diabetes alone. Elena had not resented taking her in, not exactly, though she sometimes wondered what their lives would have been like if they had not needed to convert the garage into a bedroom, if she had not become the de facto nurse for her husband's mother in addition to the hundred and forty patients she saw each week at the clinic, the caregiving doubled and redoubled until she could not remember what it had felt like to have hours that belonged only to herself.
 
-The kitchen was dark and cool, the tile floor cold against her bare feet. She started the coffee maker, the same machine they had owned for twelve years, its plastic housing yellowed now and one of the buttons cracked, but still functional, still producing the same adequate coffee it had always produced.
+The kitchen was dark and cool, the tile floor cold against her bare feet. She started the coffee maker, the same machine they had owned for twelve years, its plastic housing yellowed and one of the buttons cracked, but still functional, still producing the same adequate coffee it had always produced, reliable in its mediocrity.
 
 
 ---
 
-While she waited for the coffee to brew, Elena stood at the kitchen window and watched the darkness outside. Their neighborhood was quiet at this hour, the streets empty except for the occasional sweep of headlights from someone else starting an early shift. The houses across the street were all dark, their occupants still sleeping, and Elena felt the peculiar solitude of being awake when the world was not, the sense of existing in a pocket of time that belonged only to her. She had come to cherish these mornings, these forty-five minutes before the rest of the household stirred, when she could drink her coffee in silence and read the news on her phone or simply sit with her own thoughts, uninterrupted by the needs of her children or her mother-in-law or her patients.
+While she waited for the coffee to brew, Elena stood at the kitchen window and watched the darkness outside. Their neighborhood was quiet at this hour, the streets empty except for the occasional sweep of headlights from someone else starting an early shift. The houses across the street were all dark, their occupants still sleeping, and Elena felt the peculiar solitude of being awake when the world was not, the sense of existing in a pocket of time that belonged only to her. She had come to cherish these mornings, these forty-five minutes before the rest of the household stirred, when she could drink her coffee in silence and read the news on her phone or simply sit with her own thoughts, uninterrupted by the needs of her children or her mother-in-law or her patients, the only portion of the day that belonged entirely to her.
 
-The coffee maker beeped. She poured herself a cup, black, no sugar, the way she had taken it since she was nineteen and working nights to put herself through nursing school. She carried it to the small table by the window and sat in the chair that had become hers, the one with the slightly loose leg that wobbled if you shifted your weight too quickly. Outside, the sky was beginning to lighten, the black giving way to the deep purple that preceded dawn in the desert, a color she had never seen anywhere else and which still, after fifteen years in Phoenix, struck her as impossibly beautiful.
+The coffee maker beeped. She poured herself a cup, black, no sugar, the way she had taken it since she was nineteen and working nights to put herself through nursing school. She carried it to the small table by the window and sat in the chair that had become hers, the one with the slightly loose leg that wobbled if you shifted your weight too quickly, a defect Daniel had promised to fix three years ago and which she had stopped mentioning. Outside, the sky was beginning to lighten, the black giving way to the deep purple that preceded dawn in the desert, a color she had never seen anywhere else and which still, after fifteen years in Phoenix, struck her as impossibly beautiful.
 
 She checked her phone. No messages, which was good. Messages at this hour usually meant something had gone wrong at the clinic or with one of Abuela's medical alerts. She scrolled through the news, the same stories she had read the night before, the same conflicts and controversies and small disasters that populated the endless stream of information.
 
@@ -31,14 +31,14 @@ She checked her phone. No messages, which was good. Messages at this hour usuall
 
 At 5:30, she rinsed her cup in the sink and gathered her things: her badge, her stethoscope, the insulated lunch bag she packed each night with the same rotation of salads and leftovers. She wrote a note on the whiteboard by the refrigerator, as she did every morning: "Left at 5:35. Call if you need anything. Abuela's glucose was 112 at 4:50. Love, E." The note was for Daniel, who would wake at six and take over the morning routine, getting the children ready for school and checking on his mother before leaving for his own job at the construction site in Mesa, three hours away if traffic was bad.
 
-The drive to the clinic took twenty-two minutes at this hour, before the traffic built. Elena took the same route she always took, down 32nd Street to McDowell, then west to the clinic on the edge of downtown. The radio played NPR, the morning host's voice familiar and soothing, discussing something about infrastructure funding that Elena half-listened to while she navigated the nearly empty streets. The sky was lighter now, the purple giving way to orange and pink along the eastern horizon, the mountains silhouetted against the coming sun. She had never tired of desert sunrises, the way the light seemed to set the sky on fire before the heat of the day descended and made everything harsh and bright.
+The drive to the clinic took twenty-two minutes at this hour, before the traffic built. Elena took the same route she always took, down 32nd Street to McDowell, then west to the clinic on the edge of downtown. The radio played NPR, the morning host's voice familiar and soothing, discussing something about infrastructure funding that Elena absorbed without quite hearing while she navigated the nearly empty streets. The sky was lighter now, the purple giving way to orange and pink along the eastern horizon, the mountains silhouetted against the coming sun. She had never tired of desert sunrises, the way the light seemed to set the sky ablaze before the heat of the day descended and made everything harsh and bleached.
 
 The clinic parking lot was mostly empty when she arrived. Rosario's car was already there, as it always was, the old Honda Civic with the peeling bumper sticker that said "Nurses Call the Shots." Elena pulled into her usual spot, the one three spaces from the door, and sat for a moment before going in.
 
 
 ---
 
-Inside, the clinic had the particular stillness of early morning, the fluorescent lights not yet fully warmed, the air conditioning humming its constant hum. Rosario was at the front desk, a cup of coffee in one hand and the day's schedule printed out in front of her, the way she liked to review it before the first patients arrived. She looked up when Elena came in, her face creasing into the smile that had greeted Elena every morning for the past five years.
+Inside, the clinic held the particular stillness of early morning, the fluorescent lights not yet fully warmed, casting their bluish pallor over the empty chairs, the air conditioning humming its constant mechanical hum. Rosario was at the front desk, a cup of coffee in one hand and the day's schedule printed out in front of her, the way she liked to review it before the first patients arrived. She looked up when Elena came in, her face creasing into the smile that had greeted Elena every morning for the past five years.
 
 "Mija," Rosario said. "You look tired."
 
@@ -46,9 +46,9 @@ Inside, the clinic had the particular stillness of early morning, the fluorescen
 
 "It's always Tuesday," Rosario agreed, and they both smiled at this small joke, this acknowledgment of the way the days blurred together when you worked in a clinic that never closed.
 
-Elena went to the break room and hung up her jacket, then checked the schedule on the wall. Eighteen patients this morning, the usual mix of chronic disease management and acute complaints and preventive care that made up the clinic's daily work. Mrs. Gutierrez at 7:00 for her diabetes follow-up. Mr. Navarro at 7:30 for a blood pressure check. The Martinez boy at 8:00, probably strep throat again. She knew most of these patients, had seen them dozens of times over the years, knew their histories and their families and the particular ways they described their symptoms.
+Elena went to the break room and hung up her jacket, then checked the schedule on the wall. Eighteen patients this morning, the usual mix of chronic disease management and acute complaints and preventive care that made up the clinic's daily work. Mrs. Gutierrez at 7:00 for her diabetes follow-up. Mr. Navarro at 7:30 for a blood pressure check. The Martinez boy at 8:00, probably strep throat again. She knew most of these patients by now, had seen them dozens of times over the years, knew their histories and their families and the particular ways they described their symptoms, the words they chose and the words they avoided.
 
-She poured herself another cup of coffee from the break room pot and stood by the window, watching the sun clear the mountains to the east, the last traces of color fading from the sky as the day began in earnest. In forty-five minutes, the first patient would arrive, and the machinery of the clinic would start to turn, the familiar rhythm of vital signs and patient histories and treatment plans that structured her days. For now, though, the world was quiet, and the coffee was hot, and everything was exactly as it should be.
+She poured herself another cup of coffee from the break room pot and stood by the window, watching the sun clear the mountains to the east, the last traces of color fading from the sky as the day began in earnest. In forty-five minutes, the first patient would arrive, and the machinery of the clinic would start to turn, the familiar rhythm of vital signs and patient histories and treatment plans that structured her days. For now, though, the world was quiet, and the coffee was hot, and everything was exactly as it should be, as it had always been, as it would always be.
 
 
 ---
@@ -56,17 +56,17 @@ She poured herself another cup of coffee from the break room pot and stood by th
 
 
 
-# Scene 02
+# ~~~
 
 Mrs. Gutierrez was sitting in the waiting room when Elena came out to call her name, a small woman in her sixties with silver hair pulled back in a neat bun and the patient expression of someone who had spent a lifetime waiting in places like this. Elena escorted her to Exam Room 2, the one with the window that looked out on the parking lot, and went through the familiar routine of vital signs: blood pressure first, 138 over 82, slightly elevated but not alarmingly so; then pulse, 76, steady and strong; then temperature, 98.4, normal. Mrs. Gutierrez answered Elena's questions about her diet and exercise with the same gentle evasions she always used, admitting to "occasional" sweets that Elena suspected were more than occasional, describing walks around the block that may or may not have actually occurred.
 
 "Let me pull up your chart," Elena said, turning to the computer in the corner of the room. She typed her password, waited for the system to load, clicked on the electronic health records icon. The hourglass spun. And kept spinning.
 
-"Slow this morning," Elena said, more to herself than to Mrs. Gutierrez. She clicked again, waited. The screen flickered, then went gray, then displayed an error message: CONNECTION LOST. PLEASE TRY AGAIN.
+"Slow this morning," Elena said, more to herself than to Mrs. Gutierrez. She clicked again, waited. The screen flickered once, then went gray, then displayed an error message: CONNECTION LOST. PLEASE TRY AGAIN.
 
 She tried again. The same message appeared.
 
-"Technical difficulties," Elena said, smiling at Mrs. Gutierrez with a calm she did not quite feel. "Let me just restart this."
+"Technical difficulties," Elena said, offering Mrs. Gutierrez a smile she did not quite feel. "Let me just restart this."
 
 She rebooted the computer, a process that took three full minutes while the old machine ground through its startup sequence. Mrs. Gutierrez sat patiently, her hands folded in her lap, her eyes following Elena's movements with mild curiosity.
 
@@ -79,9 +79,9 @@ She hung up.
 
 "Mrs. Gutierrez," Elena said, "I'm going to have to do this the old-fashioned way."
 
-She went to the supply cabinet in the hallway, the one that held the emergency forms they were required to keep on hand for exactly this situation. The forms were yellowed at the edges, the paper slightly brittle, dated from when the clinic had first transitioned to digital records five years ago. She had used them perhaps twice before, both times during brief outages that had lasted less than an hour. She took a blank patient encounter form and a diabetes management checklist back to the exam room.
+She went to the supply cabinet in the hallway, the one that held the emergency forms they were required to keep on hand for exactly this situation. The forms were yellowed at the edges, the paper slightly brittle, dated from when the clinic had first transitioned to digital records five years ago, artifacts from an era that had seemed permanently past. She had used them perhaps twice before, both times during brief outages that had lasted less than an hour. She took a blank patient encounter form and a diabetes management checklist back to the exam room.
 
-"Your husband's grandmother was a nurse," Mrs. Gutierrez said, watching Elena write her name at the top of the form. "She used to do everything with paper and pen."
+"Your husband's grandmother was a nurse," Mrs. Gutierrez said, watching Elena write her name at the top of the form in careful block letters. "She used to do everything with paper and pen."
 
 "It still works," Elena said. "Just takes longer."
 
@@ -96,7 +96,7 @@ By the time Elena finished with Mrs. Gutierrez, the waiting room had acquired th
 
 "IT says thirty-seven minutes," Elena said.
 
-"IT always says thirty-seven minutes. But this feels different."
+"IT always says thirty-seven minutes. But this feels different." She paused. "This feels wrong."
 
 Elena called her next patient, a woman in her forties named Linda Prescott who was new to the clinic and had booked an appointment for medication refill. Mrs. Prescott walked toward Elena with an expression of barely contained distress.
 
@@ -104,7 +104,7 @@ Elena called her next patient, a woman in her forties named Linda Prescott who w
 
 "Let's get you into an exam room," Elena said. "We can work something out."
 
-In Exam Room 1, Elena took Mrs. Prescott's blood pressure: 162 over 98. Dangerously high. The woman's hands were trembling slightly, from anxiety or from the elevated pressure or both.
+In Exam Room 1, Elena took Mrs. Prescott's blood pressure: 162 over 98. Dangerously high. The woman's hands trembled slightly, whether from anxiety or the elevated pressure or both, Elena could not say.
 
 "What medication are you on?" Elena asked, pulling out another paper form.
 
@@ -127,7 +127,7 @@ Dr. Okonkwo finally looked up. "What do you mean, their system?"
 
 "I know."
 
-They looked at each other for a moment, and Elena saw something shift in Dr. Okonkwo's expression, a flicker of concern quickly suppressed.
+They looked at each other for a long moment, and Elena saw something shift in Dr. Okonkwo's expression, a flicker of real concern that she quickly suppressed.
 
 "We have samples in the supply room," Dr. Okonkwo said. "Give her enough lisinopril to get through the week. And document everything on paper. Thoroughly."
 
@@ -140,7 +140,7 @@ Elena nodded and went to the supply room, where they kept a small stock of medic
 
 ---
 
-By 9:00, Elena had seen four patients, all of them by hand, all of them with stories. An elderly man whose ATM had rejected his card three times. A young mother whose grocery store checkout had frozen mid-transaction. A teenager dropped off by her father, who said the traffic lights on 7th Avenue were all blinking yellow, the signals not cycling properly.
+By 9:00, Elena had seen four patients, all of them documented by hand, all of them with stories. An elderly man whose ATM had rejected his card three times before the screen went dark entirely. A young mother whose grocery store checkout had frozen mid-transaction, her groceries still sitting in bags at the register. A teenager dropped off by her father, who said the traffic lights on 7th Avenue were all blinking yellow, the signals not cycling properly, cars edging through intersections like they had forgotten the rules.
 
 Elena stood at the front desk with Rosario, looking at the growing crowd in the waiting room.
 
@@ -154,13 +154,13 @@ Rosario dialed. Held the phone to her ear. Waited. Shook her head.
 
 Elena felt something cold settle in her stomach, the first real flicker of unease she had not been able to suppress with professional competence. She pulled out her own phone and dialed Daniel's number. The call connected. One ring. Two rings. Then silence. She looked at the screen: CALL FAILED.
 
-She tried again. The same result.
+She tried again. Nothing. The same void.
 
 She tried texting: "Everything OK at the site? Call me when you can."
 
 The message showed SENDING for a long moment, then DELIVERED. But somehow she did not quite believe it.
 
-Outside, the sky was bright now, the full light of a March morning in Phoenix, and through the clinic windows Elena could see cars passing on the street, people going about their ordinary Tuesday as if nothing were wrong. But something was wrong. She could feel it in the weight of her phone in her pocket, in the hum of the backup generator that had kicked on without anyone noticing, in the growing line of patients with their accumulating stories of small failures.
+Outside, the sky was bright now, the full blazing light of a March morning in Phoenix, and through the clinic windows Elena could see cars passing on the street, people going about their ordinary Tuesday as if nothing were wrong, as if the world were still the world it had been. But something was wrong. She could feel it in the weight of her phone in her pocket, in the hum of the backup generator that had kicked on without anyone noticing, in the growing line of patients with their accumulating stories of small failures.
 
 
 ---
@@ -168,11 +168,11 @@ Outside, the sky was bright now, the full light of a March morning in Phoenix, a
 
 
 
-# Scene 03
+# ~~~
 
 The waiting room filled.
 
-They came with stories. A man whose bank had locked him out of his account, the app showing only an error message, the automated phone line playing silence. A woman whose car had stalled at an intersection when the onboard computer crashed, who had walked the last mile to the clinic because she could not get the vehicle to restart. A family of four who had been turned away from the urgent care across town, the whole building evacuated when their systems failed and they could no longer monitor patients on life support.
+They came with stories, and the stories kept growing. A man whose bank had locked him out of his account, the app showing only an error message, the automated phone line playing silence. A woman whose car had stalled at an intersection when the onboard computer crashed, who had walked the last mile to the clinic because she could not get the vehicle to restart. A family of four who had been turned away from the urgent care across town, the whole building evacuated when their systems failed and they could no longer monitor patients on life support.
 
 Elena moved from room to room, taking vitals by hand, writing everything on paper forms, doing the work of medicine the way it had been done for a century before computers transformed it into something faster and more fragile. Each patient brought another piece of the picture. Each story widened the scope.
 
@@ -186,7 +186,7 @@ Nothing.
 
 She tried to text.
 
-SENDING. The word sat there, patient and useless, refusing to change to DELIVERED.
+SENDING. The word sat there on the screen, patient and useless, refusing to change to DELIVERED, a small accusation.
 
 She tried to call home, to check on Abuela and the children.
 
@@ -197,7 +197,7 @@ Three hours away, Daniel was at a construction site in Mesa, building something 
 
 ---
 
-Rosario had set up a kind of triage system at the front desk, sorting patients by urgency based on their descriptions: chest pain goes first, difficulty breathing goes first, everything else waits. It was the kind of improvised protocol they had drilled for during disaster preparedness exercises, never quite believing they would need it. Now Rosario implemented it with the calm efficiency of someone who had been waiting her whole life for exactly this moment.
+Rosario had set up a kind of triage system at the front desk, sorting patients by urgency based on their descriptions: chest pain goes first, difficulty breathing goes first, everything else waits. It was the kind of improvised protocol they had drilled for during disaster preparedness exercises, never quite believing they would need it, the drills always feeling slightly absurd, slightly theatrical. Now Rosario implemented it with the calm efficiency of someone who had been waiting her whole life for exactly this moment, her whole body focused and still.
 
 "Hospital is completely unreachable," she told Elena during a brief gap between patients. "Landline, cell, nothing. Carla from scheduling lives near Banner, she drove over. Says there's a line out the door, people being triaged in the parking lot."
 
@@ -205,7 +205,7 @@ Rosario had set up a kind of triage system at the front desk, sorting patients b
 
 "Dispatch is down. 911 routes through a system that isn't working. People are driving themselves in. Or they're not coming at all."
 
-Elena thought about her children at school, about Abuela alone in the house with the insulin pump that depended on wireless connectivity to transmit its data. The pump itself would keep working, she told herself. It had its own battery, its own programming. It did not need the network to function. But the alerts, the data that usually streamed to Elena's phone so she could monitor from anywhere, all of that would be gone.
+Elena thought about her children at school, about Abuela alone in the house with the insulin pump that depended on wireless connectivity to transmit its data to Elena's phone, the invisible thread that let her know her mother-in-law was safe from three miles away. The pump itself would keep working, she told herself. It had its own battery, its own programming. It did not need the network to function. But the alerts, the data that usually streamed to Elena's phone so she could monitor from anywhere, all of that would be gone.
 
 "I need to check on my family," she said to Rosario.
 
@@ -216,7 +216,7 @@ But Elena did not go. There were patients in the exam rooms, patients in the wai
 
 ---
 
-She called home again. The silence was worse than a busy signal, worse than an error message. Silence meant the call had gone somewhere and found nothing. Silence meant the systems that were supposed to route her voice from this phone to that one had failed at some point along the chain, and there was no way to know where or why.
+She called home again. The silence on the line was worse than a busy signal, worse than an error message. Silence meant the call had gone somewhere and found nothing. Silence meant the systems that were supposed to route her voice from this phone to that one had failed at some point along the invisible chain, and there was no way to know where or why or whether her voice had traveled ten feet or ten miles before vanishing into the void.
 
 Sofia would be at school. Mateo would be at school. The schools would take care of them if something was wrong. That was what schools did. That was the whole point of the systems they had built, the institutions they had created, the elaborate web of responsibilities that let parents go to work knowing their children were safe.
 
@@ -226,12 +226,12 @@ Elena made herself stop. This was catastrophizing. This was the kind of spiralin
 
 She picked up the next chart. Paper chart. Handwritten. A man with chest tightness and shortness of breath. She called his name and watched him rise from his chair with difficulty, his face gray, his breathing labored.
 
-This was real. This was in front of her. This she could do something about.
+This was real. This was in front of her. This she could do something about. This was medicine.
 
 
 ---
 
-The man's name was Robert Okonkwo, no relation to Dr. Okonkwo, and he was sixty-one years old with a history of cardiac problems that he could only partially remember. He had been having chest pains since the night before, had planned to go to the hospital this morning, but when he arrived at the emergency room the line had stretched out the door and down the block and no one seemed to know what was happening.
+The man's name was Robert Okonkwo, no relation to Dr. Okonkwo, and he was sixty-one years old with a history of cardiac problems that he could only partially remember, the details scattered across medical records he had never thought to memorize. He had been having chest pains since the night before, had planned to go to the hospital this morning, but when he arrived at the emergency room the line had stretched out the door and down the block and no one seemed to know what was happening.
 
 "They said it might be hours," he told Elena, his voice wheezing slightly. "Someone told me this clinic was closer. So I came here."
 
@@ -245,7 +245,7 @@ Elena took his vitals: blood pressure 168 over 102, pulse 94 and irregular, oxyg
 
 "I can't drive. My car won't start. The computer thing."
 
-Elena looked at him, at his gray face and labored breathing, and felt the full weight of the situation settle on her. She could not call an ambulance. She could not reach the hospital. She had a patient who might be dying in front of her and no way to get him the care he needed.
+Elena looked at him, at his gray face and labored breathing, and felt the full weight of the morning settle on her shoulders like a physical thing. She could not call an ambulance. She could not reach the hospital. She had a patient who might be dying in front of her and no way to get him the care he needed, no way to summon the apparatus that was supposed to exist for exactly this moment.
 
 "Wait here," she said. "I'll be right back."
 
@@ -280,7 +280,7 @@ She called the next name on the list and tried not to think about her phone, sil
 
 
 
-# Scene 04
+# ~~~
 
 By eleven o'clock, Dr. Okonkwo had given up trying to reach anyone at the hospital, the health department, or the regional emergency coordinator. She sat in her office with the door open, staring at a phone that connected to nothing, a computer that displayed nothing, a silence where the institutional support structure used to be.
 
@@ -392,9 +392,9 @@ Elena put the phone away and went back to work.
 
 
 
-# Chapter 28
+# Chapter 28: The Silence Between
 
-# Scene 01
+# ~~~
 
 Jerome woke at six as he always did, his body calibrated to the rhythm of deadlines and morning news, and reached for his phone before his eyes were fully open. The screen lit at his touch, the familiar glow in the darkness of the bedroom, and he swiped to check the overnight notifications, the emails from editors, the breaking news alerts, the aggregated feeds that told him each morning what the world had done while he slept.
 
@@ -491,7 +491,7 @@ It was the question she always asked, the teacher's instinct to organize informa
 
 
 
-# Scene 02
+# ~~~
 
 By eight o'clock, Jerome had filled three pages of the legal pad. He wrote in the handwriting he had almost forgotten he possessed, the cursive script his mother had insisted he learn forty years ago, before keyboards made handwriting obsolete. He wrote what the radio said: outages reported. systems affected. the following areas. stay tuned for updates. He wrote what the radio didn't say: anything about cause, scope, duration, or meaning.
 
@@ -583,7 +583,7 @@ The morning stretched on. The radio talked. Jerome listened and wrote and waited
 
 
 
-# Scene 03
+# ~~~
 
 Denise returned at noon. She had not made it to the school; the traffic lights on 33rd Street were out, causing gridlock, and when she finally reached the building she found it locked, a paper sign on the door saying CLOSED UNTIL FURTHER NOTICE in hasty handwriting.
 
@@ -688,7 +688,7 @@ Mrs. Patterson nodded, unsurprised. She had lived through enough to know that un
 
 
 
-# Scene 04
+# ~~~
 
 Back in his apartment, Jerome sat with the phone in his hand and thought about his son.
 
@@ -757,7 +757,7 @@ He thought about calling DeShawn again. He thought about trying different number
 
 
 
-# Scene 05
+# ~~~
 
 At four o'clock, Jerome went back upstairs to check on Mrs. Patterson. The tea she had offered earlier had been surprisingly good, a loose-leaf blend her late husband used to buy from a shop that had closed years ago. She had talked about Gerald Patterson for an hour, about his job at the steel plant before it closed, about the garden he used to keep on the roof of the building, about the way he would sit by this same window in the evenings and watch the city settle into darkness.
 
@@ -859,9 +859,9 @@ The darkness was coming now, the March evening settling over Baltimore. Jerome s
 
 
 
-# Chapter 29
+# Chapter 29: Among the First Affected
 
-# Scene 01
+# ~~~
 
 Seventeen percent.
 
@@ -941,7 +941,7 @@ The wind blew. The scooter's wheels clicked against the pavement. Somewhere in t
 
 
 
-# Scene 02
+# ~~~
 
 The hands were what he remembered most. His father's hands, rough from years of work at the warehouse, callused and cracked and always warm when they held Yusuf's smaller hands on the walk to school. Those hands had lifted boxes for a decade, had moved pallets and inventory and the endless material flow of American commerce, had come home each night smelling of cardboard and machine oil and exhaustion.
 
@@ -996,7 +996,7 @@ He left the scooter at a bike rack outside a coffee shop that was dark and close
 
 
 
-# Scene 03
+# ~~~
 
 The truck pulled over three blocks later, an old pickup with rust spots on its fenders and a hand-lettered sign in the back window that said PETERSON PLUMBING.
 
@@ -1112,7 +1112,7 @@ He stepped into the apartment, into the familiar smell of spices and laundry and
 
 
 
-# Scene 04
+# ~~~
 
 Amina had walked three miles from her school to the apartment. The buses had stopped running around eleven, she said, and the school had gone into lockdown, and then someone had decided that keeping hundreds of teenagers trapped in a building with no way to contact their families was worse than letting them go. They had released students by neighborhood, in groups, with instructions to walk together and stay safe.
 
@@ -1203,7 +1203,7 @@ Five days. Maybe six. The countdown had begun.
 
 
 
-# Scene 05
+# ~~~
 
 The church was called Hope Lutheran, though the sign out front had lost several letters and now read only HOPE UT ERAN. It had become, in the day and a half since the systems failed, a kind of unofficial community center, a place where people gathered to share information and resources in the absence of any other coordination.
 
@@ -1270,9 +1270,9 @@ Yusuf thought about his mother, about the five days of medication, about the hos
 
 
 
-# Chapter 30
+# Chapter 30: The Stories We Tell
 
-# Scene 01
+# ~~~
 
 The timer on the wall showed 44:37 and counting down. Forty-four minutes and thirty-seven seconds until the satellite window closed, until their link to whatever audience remained went dark again, until they were just another building full of people with generators and nothing to say to the world.
 
@@ -1359,7 +1359,7 @@ She thought about Theo, four years old, asking about his iPad. She thought about
 
 
 
-# Scene 02
+# ~~~
 
 The whiteboard in the conference room was covered with narrative fragments, handwritten in different colors, organized into rough categories that Delphine had created that morning while trying to make sense of what the world was telling itself.
 
@@ -1449,7 +1449,7 @@ And for the first time in her career, she wasn't sure she could trust herself to
 
 
 
-# Scene 03
+# ~~~
 
 The house in Silverlake still had power. The grid was holding in this part of the city, some quirk of infrastructure that no one could explain, and when Delphine walked through the front door at eight that evening, the lights were on and the refrigerator was humming and the illusion of normalcy was almost painful.
 
@@ -1548,7 +1548,7 @@ Jessie looked at Delphine, the question still in her eyes, the answer not yet ag
 
 
 
-# Scene 04
+# ~~~
 
 Lawrence had a vision. He had spent the night in the office, Delphine learned when she arrived Saturday morning, and the time had not been wasted. On the wall behind his desk, he had assembled a presentation: graphics, bullet points, a whole branding package for the crisis they were living through.
 
@@ -1633,7 +1633,7 @@ He left her alone in the conference room, with the graphics on the wall and the 
 
 
 
-# Scene 05
+# ~~~
 
 The broadcast she wrote was not what Lawrence wanted. It was not dramatic. It was not branded. It was not the kind of content that would build an audience or establish dominance or make their company the voice of the crisis.
 
@@ -1759,9 +1759,9 @@ She watched until she couldn't see them anymore. Then she went inside to prepare
 
 
 
-# Chapter 31
+# Chapter 31: Triage
 
-# Scene 01
+# ~~~
 
 The list was written on the back of a pharmaceutical pamphlet, the kind that used to arrive by the boxful, glossy paper extolling the virtues of medications Elena could no longer obtain. She had torn off the cover image - a smiling woman holding her grandchild, presumably free of joint pain - and turned to the blank reverse side. There, in her own handwriting, which had grown smaller and more precise over the past week as if compressing each letter might somehow conserve the ink, she had written the names.
 
@@ -1841,7 +1841,7 @@ If there was anything left to return to.
 
 
 
-# Scene 02
+# ~~~
 
 She was changing the dressing on a child's infected scrape - a boy, maybe eight, who had fallen from a tree while his mother was distracted by something more urgent - when she looked up and saw him in the doorway.
 
@@ -1917,7 +1917,7 @@ He did not answer. But he squeezed her hand once, tight, and that was enough.
 
 
 
-# Scene 03
+# ~~~
 
 By noon, Maria Gutierrez had stopped being able to keep water down.
 
@@ -2023,7 +2023,7 @@ Something was hardening inside her. Something cold and clear. She did not know y
 
 
 
-# Scene 04
+# ~~~
 
 The man's name was Jerome Wallace, and he had walked eight miles to deliver the news.
 
@@ -2106,7 +2106,7 @@ They were stealing. She knew that. But the word had lost its meaning somewhere i
 
 
 
-# Scene 05
+# ~~~
 
 They returned to the clinic at ten.
 
@@ -2222,9 +2222,9 @@ Something that would not forget.
 
 
 
-# Chapter 32
+# Chapter 32: The Dark Before
 
-# Scene 01
+# ~~~
 
 The community center had been a recreation hall before the crisis - basketball court, afterschool programs, weekend bingo for the elderly. Now it was the information hub of West Baltimore, the place where news aggregated from sources that Jerome Washington would never have considered journalism before two weeks ago.
 
@@ -2297,7 +2297,7 @@ She walked away, back to her clipboard and her bulletins. Jerome looked at his l
 
 
 
-# Scene 02
+# ~~~
 
 The report from Europe came through at 11:23 AM, relayed through a chain of ham operators across the Atlantic. Jerome wrote down the timestamp; he had become precise about timestamps, as if the exact moment when information arrived might somehow prove significant.
 
@@ -2408,7 +2408,7 @@ But he kept writing anyway.
 
 
 
-# Scene 03
+# ~~~
 
 The name emerged just after two o'clock, in a report from someone who had been in San Francisco when the crisis began.
 
@@ -2522,7 +2522,7 @@ He could not write. He could not even think clearly. All he could do was sit aga
 
 
 
-# Scene 04
+# ~~~
 
 He left the hub around five. He told Ruth he was going home. He started walking in what he believed was the right direction.
 
@@ -2607,7 +2607,7 @@ He sat in the dark and waited for something he could not name.
 
 
 
-# Scene 05
+# ~~~
 
 He did not hear her approach. He did not see the flashlight beam sweeping the street, did not notice the footsteps that paused and then quickened. He was somewhere deep inside himself, lost in the loop, when her hands touched his face.
 
@@ -2702,9 +2702,9 @@ The darkness was not lifted. But it was shared.
 
 
 
-# Chapter 33
+# Chapter 33: What Remains
 
-# Scene 01
+# ~~~
 
 Twelve breaths per minute. Yusuf counted them in the dim gray of early morning, his mother's chest rising and falling beneath the thin blanket. The rhythm was slower than it should have been. Yesterday it had been fourteen, the day before fifteen. He was watching her body forget how to breathe.
 
@@ -2791,7 +2791,7 @@ He made breakfast anyway. It was the only thing he could do.
 
 
 
-# Scene 02
+# ~~~
 
 Nathaniel arrived at eight, carrying a backpack and a piece of paper folded into a careful square. He looked different from when Yusuf had first found him - less polished, more worn, his expensive outdoor jacket dirty and his beard growing in patchy and uneven.
 
@@ -2925,7 +2925,7 @@ She was right. He hated that she was right.
 
 
 
-# Scene 03
+# ~~~
 
 Yusuf stepped outside to think. The March air was cold, not quite freezing but carrying the edge of winter that Minneapolis couldn't seem to shake even as spring approached. He sat on the concrete steps of their building, the same steps where he had sat a thousand times before, and tried to make his mind work.
 
@@ -3000,7 +3000,7 @@ He knew what his father would want him to do.
 
 
 
-# Scene 04
+# ~~~
 
 He found Amina in their mother's room, sitting in the same chair where he had spent the morning. Habiba was asleep, her breathing still slow, still steady, still wrong. Amina looked up when he entered.
 
@@ -3113,7 +3113,7 @@ Then he walked to the door, where Nathaniel was waiting.
 
 
 
-# Scene 05
+# ~~~
 
 Yusuf did not look back.
 
@@ -3219,9 +3219,9 @@ He always came back for family.
 
 
 
-# Chapter 34
+# Chapter 34: Unexpected Light
 
-# Scene 01
+# ~~~
 
 The generator coughed twice and died.
 
@@ -3316,7 +3316,7 @@ Now they did. And something was forming from that dependence.
 
 
 
-# Scene 02
+# ~~~
 
 The soup was bean and vegetable, seasoned with something Mrs. Williams called "emergency spices" - the collection of half-used bottles she had cleaned out of her cabinet when the crisis began, reasoning that if food was going to be uncertain, it might as well taste good.
 
@@ -3428,7 +3428,7 @@ Both were true.
 
 
 
-# Scene 03
+# ~~~
 
 The network had rules. Unwritten rules, evolved over twelve days of necessity, but rules nonetheless.
 
@@ -3546,7 +3546,7 @@ It wasn't enough. But it was something. And something was more than she had expe
 
 
 
-# Scene 04
+# ~~~
 
 Near midnight, someone brought out a radio.
 
@@ -3651,7 +3651,7 @@ She didn't know if it was true. But she wanted it to be.
 
 
 
-# Scene 05
+# ~~~
 
 Elena walked to the edge of the parking lot, away from the dying fire. The night was cool, the stars visible in a way they never were when the city lights were on. She stood alone for a moment, her arms crossed, looking at nothing in particular.
 
@@ -3734,9 +3734,9 @@ Her work was just beginning.
 
 
 
-# Chapter 35
+# Chapter 35: The Return
 
-# Scene 01
+# ~~~
 
 The convoy appeared on the main road just after ten in the morning: three military trucks painted in olive drab, followed by two white vans marked with the logo of the Federal Emergency Management Agency. Elena stood in the clinic's doorway and watched them approach, the rumble of diesel engines breaking the quiet that had settled over the neighborhood.
 
@@ -3835,7 +3835,7 @@ The break was ending. Something else was beginning.
 
 
 
-# Scene 02
+# ~~~
 
 The apartment door was unlocked. Yusuf turned the handle and stepped inside, and the first thing he saw was Amina asleep in the chair beside their mother's bed.
 
@@ -3961,7 +3961,7 @@ But his mother was alive, and his sister was safe, and they were together. For n
 
 
 
-# Scene 03
+# ~~~
 
 The knock came at three in the afternoon.
 
@@ -4073,7 +4073,7 @@ DeShawn squeezed his hand once, tight, and did not let go.
 
 
 
-# Scene 04
+# ~~~
 
 The car pulled into the driveway just after four in the afternoon.
 
@@ -4162,7 +4162,7 @@ The crisis was over. Her work was just beginning.
 
 
 
-# Scene 05
+# ~~~
 
 A mother in Phoenix:
 

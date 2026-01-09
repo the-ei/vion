@@ -1,4 +1,4 @@
-# Scene 01
+# ~~~
 
 Jerome had been reading for six days.
 
@@ -82,7 +82,7 @@ He had a story. But it was a story that might make everything worse.
 
 
 
-# Scene 02
+# ~~~
 
 Verification was the next step. It was the step every journalist learned in their first semester - don't trust any single source, confirm everything through independent channels, assume documents can be fabricated until proven otherwise.
 
@@ -175,7 +175,7 @@ But they were. In the careful denial, in the slight tremor of their voice, in th
 
 
 
-# Scene 03
+# ~~~
 
 Kevin Zhou's response came on day eight of the investigation.
 
@@ -260,7 +260,7 @@ Jerome didn't know. But he knew he had to try.
 
 
 
-# Scene 04
+# ~~~
 
 Sunday dinner had been a ritual in the Washington household for as long as DeShawn could remember. Denise made her mother's recipes - jerk chicken, rice and peas, cornbread that was controversial because it had sugar in it, which apparently violated some tradition Jerome's side of the family maintained. The three of them ate in the dining room, not the kitchen, because Sunday dinner was formal enough to merit the extra dishes.
 
@@ -363,7 +363,7 @@ The impossible calculus of journalism, which looked like idealism from the outsi
 
 
 
-# Scene 05
+# ~~~
 
 It was after midnight when Jerome returned to his office. The house was quiet - Denise reading in bed, DeShawn in his room with the door closed, the household settled into its separate orbits.
 
