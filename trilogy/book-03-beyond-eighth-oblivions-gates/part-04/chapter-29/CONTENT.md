@@ -1,6 +1,4 @@
-# ~~~
-
-The cold was a living thing. It pressed against the windows of Yusuf's car, crept through the seals around the doors, settled into the upholstery with the patience of something that knew it would eventually win. The heater was running at full blast, making noises that suggested it would not survive another winter, but the warmth it produced barely reached the driver's seat.
+The cold was a living thing. It pressed against the windows of Yusuf's car, crept through the seals around the doors, settled into the upholstery with the patience of something that knew it would win. The heater was running at full blast, making noises that suggested it would not survive another winter, but the warmth it produced barely reached the driver's seat.
 
 Minneapolis in February. Yusuf had lived here most of his life and still the cold surprised him each year, the way it went beyond discomfort into something more fundamental, a challenge to the basic assumption that human beings could exist in this climate.
 
@@ -13,7 +11,7 @@ He pulled out of the parking lot where he had been waiting, the tires crunching 
 
 ---
 
-He hummed while he drove. Not consciously, not intentionally, just a habit that had developed over years of these solitary hours. Melodies emerged without planning, fragments of songs he had been carrying since adolescence, arrangements and variations that his mind produced while his body performed the mechanical tasks the app required.
+He hummed while he drove. Not consciously, not intentionally, just a habit that had developed over years of these solitary hours. Melodies emerged unbidden, fragments of songs he had been carrying since adolescence, arrangements and variations his mind produced while his body performed the mechanical tasks the app required.
 
 The song he was working on now had no name. It had been with him for three years, maybe four, evolving so slowly that he was never sure if it was becoming something or dissolving into nothing. A melody that arrived in pieces, a rhythm that shifted each time he found it, words that almost came and then retreated.
 
@@ -26,7 +24,7 @@ One of them nodded at Yusuf. He nodded back. They did not speak. There was nothi
 
 ---
 
-The order came up. Yusuf took the bag, which smelled of sesame oil and something spicy, and walked back to his car. The cold hit him like a wall, the transition from heated interior to frozen exterior a small violence that his body never quite got used to.
+The order came up. Yusuf took the bag, which smelled of sesame oil and something fiercer beneath, and walked back to his car. The cold struck him like a wall, the transition from heated interior to frozen exterior a small violence his body never quite adjusted to.
 
 He entered the delivery address and started driving. The route took him through neighborhoods he knew by heart now, streets he had navigated hundreds of times, homes whose porches he had stood on waiting for someone to answer the door. He could tell you which houses had dogs, which had working doorbells, which had porch lights that came on automatically and which left you standing in darkness.
 
@@ -41,7 +39,7 @@ He had been reaching for a long time. Longer than he cared to admit.
 
 The house was in a quiet neighborhood, one of the newer developments on the edge of the city where identical facades repeated like a visual stutter. Yusuf parked at the curb, grabbed the bag, and walked up the path to the front door.
 
-The woman who answered looked surprised to see him, as people often did, as though they had forgotten that the food they ordered would be delivered by an actual human being and not simply materialized by the app's magic. She took the bag, murmured a thank you, and closed the door.
+The woman who answered looked surprised to see him, as people often did, as though they had forgotten that the food they ordered would arrive through an actual human being rather than materialize through the app's magic. She took the bag, murmured a thank you, and closed the door.
 
 Yusuf walked back to his car.
 
@@ -56,7 +54,7 @@ But he remembered. He carried all these small encounters in his head, fragments 
 
 He accepted another delivery. And another. The night stretched ahead of him, hours of this same rhythm: drive, pick up, deliver, repeat. The app tracked his movements, calculated his earnings, optimized his route. It knew more about his patterns than he did, could predict where he would be at any given moment based on algorithms he would never understand.
 
-Between deliveries, he returned to the song. The melody shifted, took on new colors in his mind. He tried humming it in a lower register, then higher, testing what the voice could do with it. His voice, untrained and unremarkable, the voice of someone who had never had lessons, who had learned to sing by singing along to records in his room.
+Between deliveries, he returned to the song. The melody shifted, took on new colors in his mind. He tried humming it in a lower register, then higher, testing what the voice could do with it. His voice, untrained and unremarkable, the voice of someone who had never taken lessons, who had learned to sing by singing along to records in his room.
 
 His father had sung. Yusuf remembered that, one of the few clear memories from before the accident. His father humming while he worked, fragments of songs from Somalia that he had carried with him across the ocean. Yusuf had been too young to learn the words, too young to ask what the songs meant. And then his father was gone, and the songs went with him.
 
@@ -67,7 +65,7 @@ Maybe that was why the melody mattered. Maybe that was why he kept reaching for 
 
 The cold deepened as the night went on. The heater struggled. Yusuf's fingers went numb on the steering wheel despite the gloves he wore, the thin ones that still allowed him to use his phone.
 
-This was the life the economy had made for people like him. The gig work, the precarious hours, the absence of benefits or security or any sense that tomorrow would be different from today. He was thirty-three years old, and he had been doing some version of this since he was nineteen, bouncing between apps and platforms, earning just enough to survive and never enough to escape.
+This was the life the economy had made for people like him. The gig work, the precarious hours, the absence of benefits or security or any sense that tomorrow would differ from today. He was thirty-three years old, and he had been doing some version of this since he was nineteen, bouncing between apps and platforms, earning just enough to survive and never enough to escape.
 
 His mother worried about him. His sister Amina, successful in ways he could not comprehend, offered to help and did not understand when he refused. They did not see what he saw: that the system was designed to keep people like him in motion, always working, never arriving, the hamster wheel painted to look like progress.
 
@@ -81,7 +79,8 @@ He hummed into the cold car, the melody stronger now, taking shape despite every
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 He stopped for a break around ten, pulling into the parking lot of a gas station that stayed open all night. The fluorescent lights buzzed above empty pumps. Inside, a clerk watched something on a phone propped behind the counter.
 
@@ -102,7 +101,7 @@ A label. Small, independent, based somewhere in the Pacific Northwest. They had 
 
 ---
 
-The offer was modest. They were honest about that. They could provide studio time, production support, distribution on streaming platforms. They could not promise much money. But they wanted to work with him, wanted to develop what they had heard, wanted to see if there was an EP somewhere in the fragments he had shared.
+The offer was modest. They were honest about that. They could provide studio time, production support, distribution across streaming platforms. They could not promise much money. But they wanted to work with him, wanted to develop what they had heard, wanted to see if there was an EP somewhere in the fragments he had shared.
 
 Yusuf stared at the screen, his coffee going cold in his hand.
 
@@ -119,7 +118,7 @@ It was, as far as he could tell, genuine.
 
 ---
 
-His first instinct was fear. The cold clarity of it surprised him, cutting through the excitement he might have expected. Fear that this was real. Fear of what it would mean if he said yes. Fear of the transformation that being taken seriously would require.
+His first instinct was fear. The cold clarity of it surprised him, slicing through the excitement he might have expected. Fear that this was real. Fear of what it would mean if he said yes. Fear of the transformation that being taken seriously would require.
 
 For years, the music had been safe because it was private. Because no one heard it except him. Because failure was impossible when there was no attempt, no audience, no stakes.
 
@@ -159,7 +158,7 @@ He took out his phone and read the email one more time.
 
 We believe you have something special. That was the line that stayed with him, that he could not shake. Not that his music was good, which could mean anything, but that there was something special in it, something that distinguished it from the millions of uploads competing for attention.
 
-He did not know if he believed them. Did not know if he had ever believed in himself enough to risk the disappointment of trying. The protective skepticism he had developed over years of precarity, the automatic doubt that met any opportunity with suspicion, these were the walls he had built to survive.
+He did not know if he believed them. Did not know if he had ever believed in himself enough to risk the disappointment of trying. The protective skepticism he had cultivated over years of precarity, the automatic doubt that met any opportunity with suspicion, these were the walls he had built to survive.
 
 But the walls were also a prison. He could see that now, in the glow of the email, in the offer that had appeared without warning. The safety of not trying was also the certainty of never arriving.
 
@@ -173,7 +172,8 @@ But the decision was already forming somewhere beneath his conscious thought, li
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 He drove to his mother's apartment without planning to. The route was automatic, the turns he had taken thousands of times, the building that had been home before it became the place where his mother lived alone.
 
@@ -198,7 +198,7 @@ She did not question this. Did not ask why he had come at midnight, why he was s
 
 Yusuf watched her move through the kitchen. The same kitchen, mostly, as his childhood, though they had moved twice since then. His mother carried the same objects from place to place, the same cups and utensils, the same small decorations that connected this apartment to the ones before it, a continuity that persisted despite everything.
 
-Her hands, he noticed, were swollen at the knuckles. The arthritis was getting worse. She had not complained, because she never complained, but he could see it in the way she gripped the kettle, the small hesitation before each motion.
+Her hands, he noticed, were swollen at the knuckles. The arthritis worsening. She had not complained, because she never complained, but he could see it in the way she gripped the kettle, the small hesitation before each motion.
 
 Those hands had held him when he was small. Had prepared meals through years of scarcity, had worked jobs that asked too much and paid too little, had buried a husband and raised two children alone. They were the hands of survival, of endurance, of a determination that Yusuf had inherited without knowing if he would ever use it.
 
@@ -213,7 +213,7 @@ He did not know how to answer. Did not know how to explain the email, the offer,
 
 They talked around it for a while. Her health, which she minimized. His work, which he described without enthusiasm. Amina, who was doing well, whose success was a point of pride that Halima mentioned frequently and that Yusuf tried not to resent.
 
-The conversation danced around what mattered, the way their conversations often did. They had never been good at directness, he and his mother. The years after his father's death had taught them both to protect each other, to offer comfort without demanding truth, to exist in the space between what was said and what was felt.
+The conversation danced around what mattered, as their conversations often did. They had never been good at directness, he and his mother. The years after his father's death had taught them both to protect each other, to offer comfort without demanding truth, to exist in the space between what was said and what was felt.
 
 But tonight, with the email sitting in his phone and the decision pressing against him, Yusuf found himself saying something he had not planned to say.
 
@@ -230,7 +230,7 @@ I remember, Yusuf said. A little. I remember the sound of it, even if I don't re
 
 They sat with that memory between them, the ghost of a man who had been dead for twenty-one years. Yusuf had been twelve when the accident happened, old enough to remember and young enough that the memories had blurred, becoming impressions rather than scenes.
 
-The warehouse where his father had worked. The call that had come in the middle of a school day. The way his mother's face had changed, had hardened into something that protected her from falling apart. The funeral, the aftermath, the long years of managing without him.
+The warehouse where his father had worked. The call that arrived in the middle of a school day. The way his mother's face had changed, had hardened into something that protected her from falling apart. The funeral, the aftermath, the long years of managing without him.
 
 His father had worked in that warehouse because there was no other work available, because the skills he had brought from Somalia did not translate into credentials that American employers recognized, because immigrants took the jobs they could get and hoped for something better.
 
@@ -245,7 +245,7 @@ I wish he could have heard you, Halima said quietly. He would have been proud.
 
 ---
 
-Yusuf looked at his mother, at her face in the dim kitchen light, at the lines that years of hard work and harder grief had etched into her skin. She knew about his music. Had always known, in the way that mothers know things their children think they are hiding. She had never pushed, never asked to hear, had simply let him carry it privately until he was ready.
+Yusuf looked at his mother, at her face in the dim kitchen light, at the lines that years of work and harder grief had etched into her skin. She knew about his music. Had always known, in the way that mothers know things their children think they are hiding. She had never pushed, never asked to hear, had simply let him carry it privately until he was ready.
 
 He might never be ready. That was the fear that had shadowed him for years. The safety had become a trap, and he had been too afraid to recognize it.
 
@@ -271,9 +271,10 @@ You know, she said. You have always known.
 
 
 
-# ~~~
 
-He stayed at his mother's apartment for another hour, the conversation drifting to other subjects, the tea going cold in their cups. When he finally left, the night had grown even colder, the kind of cold that made you question whether spring would ever arrive.
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
+
+He stayed at his mother's apartment for another hour, the conversation drifting to other subjects, the tea going cold in their cups. When he finally left, the night had grown colder still, the kind of cold that made you question whether spring would ever arrive.
 
 In the car, before starting the engine, he checked his phone again. Another notification had arrived while he was inside, another email he had not heard come in.
 
@@ -294,7 +295,7 @@ Now Kevin Zhou was sending him a message. At one in the morning. About something
 
 He opened the email.
 
-The writing style was distinctive, unlike anything he usually received. Technical language mixed with something almost apologetic, sentences that started confidently and then seemed to question themselves.
+The writing style was distinctive, unlike anything he usually received. Technical language blended with something almost apologetic, sentences that started confidently and then seemed to question themselves.
 
 I know this is unexpected, the message began. I'm not even sure you remember me. We met during the hearings in 2038. You spoke at the community forum about how the surveillance systems affected gig workers. I was in the audience. We talked afterward, briefly.
 
@@ -332,7 +333,7 @@ Yusuf sat in his car, in the cold, two messages on his phone that had arrived fr
 
 He thought about the community forum in 2038. He had spoken without preparation, without notes, just stood up when they opened the floor and said what he had been thinking for months. How the delivery apps tracked his every movement. How the rating systems turned customers into managers who could punish him without explanation. How the technology that promised flexibility had created a new kind of control, invisible and total.
 
-The room had been mostly middle-class professionals, people who used the apps but had never thought about the people who powered them. They had listened with the polite attention of those who were being educated about something far from their own experience.
+The room had been mostly middle-class professionals, people who used the apps but had never thought about the people who powered them. They had listened with the polite attention of people being educated about something distant from their own experience.
 
 But Kevin Zhou had approached him afterward. Had asked questions that showed he understood the structural nature of what Yusuf was describing. Had said something that Yusuf still remembered: You're right. We built this. I built this. And I don't know how to make it right.
 
@@ -349,7 +350,7 @@ Two messages. Two invitations. Two doors that had appeared in a wall he had thou
 
 Yusuf thought about his mother's hands, swollen at the knuckles. About his father, who had sung songs that were now lost. About the years he had spent waiting for conditions that would never arrive, telling himself he would risk something once he was safe.
 
-Safety would never come. That was what the night had taught him, what the tea in his mother's kitchen had made clear. The precarity was not a temporary condition to be endured until something better arrived. It was the water he swam in, the air he breathed. Waiting for it to end was waiting to drown.
+Safety would never come. That was what the night had taught him, what the tea in his mother's kitchen had made plain. The precarity was not a temporary condition to be endured until something better arrived. It was the water he swam in, the air he breathed. Waiting for it to end was waiting to drown.
 
 The label offer was about music, about expression, about the private self finally becoming public. The Kevin Zhou message was about something else, about technology and voice and connection.
 
@@ -365,7 +366,8 @@ But first, there was something else he needed to do. Something that could not wa
 
 
 
-# ~~~
+
+<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The sky was beginning to lighten when he pulled into the parking lot of the grocery store near his apartment. It was closed at this hour, the lot empty except for his car, the streetlights still burning against the slow approach of dawn.
 
@@ -390,7 +392,7 @@ Not polished. Not ready. Not the version he would have prepared if he had known 
 
 The song took shape.
 
-Fragment by fragment, the pieces he had been carrying for years found their places. The melody that had shifted and evolved through thousands of hours of driving, the rhythm that had lived in his body without permission, the words that had almost come and then retreated now finally arriving, imperfect but present.
+Fragment by fragment, the pieces he had been carrying for years found their places. The melody that had shifted and evolved through thousands of hours of driving, the rhythm that had lived in his body without permission, the words that had almost arrived and then retreated now finally surfacing, imperfect but present.
 
 His breath was visible in the cold. The steam rose from his mouth as he sang, physical evidence of the voice he was releasing.
 

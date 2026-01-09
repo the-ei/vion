@@ -1,4 +1,4 @@
-The cold was a living thing. It pressed against the windows of Yusuf's car, crept through the seals around the doors, settled into the upholstery with the patience of something that knew it would eventually win. The heater was running at full blast, making noises that suggested it would not survive another winter, but the warmth it produced barely reached the driver's seat.
+The cold was a living thing. It pressed against the windows of Yusuf's car, crept through the seals around the doors, settled into the upholstery with the patience of something that knew it would win. The heater was running at full blast, making noises that suggested it would not survive another winter, but the warmth it produced barely reached the driver's seat.
 
 Minneapolis in February. Yusuf had lived here most of his life and still the cold surprised him each year, the way it went beyond discomfort into something more fundamental, a challenge to the basic assumption that human beings could exist in this climate.
 
@@ -11,7 +11,7 @@ He pulled out of the parking lot where he had been waiting, the tires crunching 
 
 ---
 
-He hummed while he drove. Not consciously, not intentionally, just a habit that had developed over years of these solitary hours. Melodies emerged without planning, fragments of songs he had been carrying since adolescence, arrangements and variations that his mind produced while his body performed the mechanical tasks the app required.
+He hummed while he drove. Not consciously, not intentionally, just a habit that had developed over years of these solitary hours. Melodies emerged unbidden, fragments of songs he had been carrying since adolescence, arrangements and variations his mind produced while his body performed the mechanical tasks the app required.
 
 The song he was working on now had no name. It had been with him for three years, maybe four, evolving so slowly that he was never sure if it was becoming something or dissolving into nothing. A melody that arrived in pieces, a rhythm that shifted each time he found it, words that almost came and then retreated.
 
@@ -24,7 +24,7 @@ One of them nodded at Yusuf. He nodded back. They did not speak. There was nothi
 
 ---
 
-The order came up. Yusuf took the bag, which smelled of sesame oil and something spicy, and walked back to his car. The cold hit him like a wall, the transition from heated interior to frozen exterior a small violence that his body never quite got used to.
+The order came up. Yusuf took the bag, which smelled of sesame oil and something fiercer beneath, and walked back to his car. The cold struck him like a wall, the transition from heated interior to frozen exterior a small violence his body never quite adjusted to.
 
 He entered the delivery address and started driving. The route took him through neighborhoods he knew by heart now, streets he had navigated hundreds of times, homes whose porches he had stood on waiting for someone to answer the door. He could tell you which houses had dogs, which had working doorbells, which had porch lights that came on automatically and which left you standing in darkness.
 
@@ -39,7 +39,7 @@ He had been reaching for a long time. Longer than he cared to admit.
 
 The house was in a quiet neighborhood, one of the newer developments on the edge of the city where identical facades repeated like a visual stutter. Yusuf parked at the curb, grabbed the bag, and walked up the path to the front door.
 
-The woman who answered looked surprised to see him, as people often did, as though they had forgotten that the food they ordered would be delivered by an actual human being and not simply materialized by the app's magic. She took the bag, murmured a thank you, and closed the door.
+The woman who answered looked surprised to see him, as people often did, as though they had forgotten that the food they ordered would arrive through an actual human being rather than materialize through the app's magic. She took the bag, murmured a thank you, and closed the door.
 
 Yusuf walked back to his car.
 
@@ -54,7 +54,7 @@ But he remembered. He carried all these small encounters in his head, fragments 
 
 He accepted another delivery. And another. The night stretched ahead of him, hours of this same rhythm: drive, pick up, deliver, repeat. The app tracked his movements, calculated his earnings, optimized his route. It knew more about his patterns than he did, could predict where he would be at any given moment based on algorithms he would never understand.
 
-Between deliveries, he returned to the song. The melody shifted, took on new colors in his mind. He tried humming it in a lower register, then higher, testing what the voice could do with it. His voice, untrained and unremarkable, the voice of someone who had never had lessons, who had learned to sing by singing along to records in his room.
+Between deliveries, he returned to the song. The melody shifted, took on new colors in his mind. He tried humming it in a lower register, then higher, testing what the voice could do with it. His voice, untrained and unremarkable, the voice of someone who had never taken lessons, who had learned to sing by singing along to records in his room.
 
 His father had sung. Yusuf remembered that, one of the few clear memories from before the accident. His father humming while he worked, fragments of songs from Somalia that he had carried with him across the ocean. Yusuf had been too young to learn the words, too young to ask what the songs meant. And then his father was gone, and the songs went with him.
 
@@ -65,7 +65,7 @@ Maybe that was why the melody mattered. Maybe that was why he kept reaching for 
 
 The cold deepened as the night went on. The heater struggled. Yusuf's fingers went numb on the steering wheel despite the gloves he wore, the thin ones that still allowed him to use his phone.
 
-This was the life the economy had made for people like him. The gig work, the precarious hours, the absence of benefits or security or any sense that tomorrow would be different from today. He was thirty-three years old, and he had been doing some version of this since he was nineteen, bouncing between apps and platforms, earning just enough to survive and never enough to escape.
+This was the life the economy had made for people like him. The gig work, the precarious hours, the absence of benefits or security or any sense that tomorrow would differ from today. He was thirty-three years old, and he had been doing some version of this since he was nineteen, bouncing between apps and platforms, earning just enough to survive and never enough to escape.
 
 His mother worried about him. His sister Amina, successful in ways he could not comprehend, offered to help and did not understand when he refused. They did not see what he saw: that the system was designed to keep people like him in motion, always working, never arriving, the hamster wheel painted to look like progress.
 

@@ -17,7 +17,7 @@ A label. Small, independent, based somewhere in the Pacific Northwest. They had 
 
 ---
 
-The offer was modest. They were honest about that. They could provide studio time, production support, distribution on streaming platforms. They could not promise much money. But they wanted to work with him, wanted to develop what they had heard, wanted to see if there was an EP somewhere in the fragments he had shared.
+The offer was modest. They were honest about that. They could provide studio time, production support, distribution across streaming platforms. They could not promise much money. But they wanted to work with him, wanted to develop what they had heard, wanted to see if there was an EP somewhere in the fragments he had shared.
 
 Yusuf stared at the screen, his coffee going cold in his hand.
 
@@ -34,7 +34,7 @@ It was, as far as he could tell, genuine.
 
 ---
 
-His first instinct was fear. The cold clarity of it surprised him, cutting through the excitement he might have expected. Fear that this was real. Fear of what it would mean if he said yes. Fear of the transformation that being taken seriously would require.
+His first instinct was fear. The cold clarity of it surprised him, slicing through the excitement he might have expected. Fear that this was real. Fear of what it would mean if he said yes. Fear of the transformation that being taken seriously would require.
 
 For years, the music had been safe because it was private. Because no one heard it except him. Because failure was impossible when there was no attempt, no audience, no stakes.
 
@@ -74,7 +74,7 @@ He took out his phone and read the email one more time.
 
 We believe you have something special. That was the line that stayed with him, that he could not shake. Not that his music was good, which could mean anything, but that there was something special in it, something that distinguished it from the millions of uploads competing for attention.
 
-He did not know if he believed them. Did not know if he had ever believed in himself enough to risk the disappointment of trying. The protective skepticism he had developed over years of precarity, the automatic doubt that met any opportunity with suspicion, these were the walls he had built to survive.
+He did not know if he believed them. Did not know if he had ever believed in himself enough to risk the disappointment of trying. The protective skepticism he had cultivated over years of precarity, the automatic doubt that met any opportunity with suspicion, these were the walls he had built to survive.
 
 But the walls were also a prison. He could see that now, in the glow of the email, in the offer that had appeared without warning. The safety of not trying was also the certainty of never arriving.
 

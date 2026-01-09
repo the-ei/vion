@@ -21,7 +21,7 @@ She did not question this. Did not ask why he had come at midnight, why he was s
 
 Yusuf watched her move through the kitchen. The same kitchen, mostly, as his childhood, though they had moved twice since then. His mother carried the same objects from place to place, the same cups and utensils, the same small decorations that connected this apartment to the ones before it, a continuity that persisted despite everything.
 
-Her hands, he noticed, were swollen at the knuckles. The arthritis was getting worse. She had not complained, because she never complained, but he could see it in the way she gripped the kettle, the small hesitation before each motion.
+Her hands, he noticed, were swollen at the knuckles. The arthritis worsening. She had not complained, because she never complained, but he could see it in the way she gripped the kettle, the small hesitation before each motion.
 
 Those hands had held him when he was small. Had prepared meals through years of scarcity, had worked jobs that asked too much and paid too little, had buried a husband and raised two children alone. They were the hands of survival, of endurance, of a determination that Yusuf had inherited without knowing if he would ever use it.
 
@@ -36,7 +36,7 @@ He did not know how to answer. Did not know how to explain the email, the offer,
 
 They talked around it for a while. Her health, which she minimized. His work, which he described without enthusiasm. Amina, who was doing well, whose success was a point of pride that Halima mentioned frequently and that Yusuf tried not to resent.
 
-The conversation danced around what mattered, the way their conversations often did. They had never been good at directness, he and his mother. The years after his father's death had taught them both to protect each other, to offer comfort without demanding truth, to exist in the space between what was said and what was felt.
+The conversation danced around what mattered, as their conversations often did. They had never been good at directness, he and his mother. The years after his father's death had taught them both to protect each other, to offer comfort without demanding truth, to exist in the space between what was said and what was felt.
 
 But tonight, with the email sitting in his phone and the decision pressing against him, Yusuf found himself saying something he had not planned to say.
 
@@ -53,7 +53,7 @@ I remember, Yusuf said. A little. I remember the sound of it, even if I don't re
 
 They sat with that memory between them, the ghost of a man who had been dead for twenty-one years. Yusuf had been twelve when the accident happened, old enough to remember and young enough that the memories had blurred, becoming impressions rather than scenes.
 
-The warehouse where his father had worked. The call that had come in the middle of a school day. The way his mother's face had changed, had hardened into something that protected her from falling apart. The funeral, the aftermath, the long years of managing without him.
+The warehouse where his father had worked. The call that arrived in the middle of a school day. The way his mother's face had changed, had hardened into something that protected her from falling apart. The funeral, the aftermath, the long years of managing without him.
 
 His father had worked in that warehouse because there was no other work available, because the skills he had brought from Somalia did not translate into credentials that American employers recognized, because immigrants took the jobs they could get and hoped for something better.
 
@@ -68,7 +68,7 @@ I wish he could have heard you, Halima said quietly. He would have been proud.
 
 ---
 
-Yusuf looked at his mother, at her face in the dim kitchen light, at the lines that years of hard work and harder grief had etched into her skin. She knew about his music. Had always known, in the way that mothers know things their children think they are hiding. She had never pushed, never asked to hear, had simply let him carry it privately until he was ready.
+Yusuf looked at his mother, at her face in the dim kitchen light, at the lines that years of work and harder grief had etched into her skin. She knew about his music. Had always known, in the way that mothers know things their children think they are hiding. She had never pushed, never asked to hear, had simply let him carry it privately until he was ready.
 
 He might never be ready. That was the fear that had shadowed him for years. The safety had become a trap, and he had been too afraid to recognize it.
 

@@ -1,4 +1,4 @@
-He stayed at his mother's apartment for another hour, the conversation drifting to other subjects, the tea going cold in their cups. When he finally left, the night had grown even colder, the kind of cold that made you question whether spring would ever arrive.
+He stayed at his mother's apartment for another hour, the conversation drifting to other subjects, the tea going cold in their cups. When he finally left, the night had grown colder still, the kind of cold that made you question whether spring would ever arrive.
 
 In the car, before starting the engine, he checked his phone again. Another notification had arrived while he was inside, another email he had not heard come in.
 
@@ -19,7 +19,7 @@ Now Kevin Zhou was sending him a message. At one in the morning. About something
 
 He opened the email.
 
-The writing style was distinctive, unlike anything he usually received. Technical language mixed with something almost apologetic, sentences that started confidently and then seemed to question themselves.
+The writing style was distinctive, unlike anything he usually received. Technical language blended with something almost apologetic, sentences that started confidently and then seemed to question themselves.
 
 I know this is unexpected, the message began. I'm not even sure you remember me. We met during the hearings in 2038. You spoke at the community forum about how the surveillance systems affected gig workers. I was in the audience. We talked afterward, briefly.
 
@@ -57,7 +57,7 @@ Yusuf sat in his car, in the cold, two messages on his phone that had arrived fr
 
 He thought about the community forum in 2038. He had spoken without preparation, without notes, just stood up when they opened the floor and said what he had been thinking for months. How the delivery apps tracked his every movement. How the rating systems turned customers into managers who could punish him without explanation. How the technology that promised flexibility had created a new kind of control, invisible and total.
 
-The room had been mostly middle-class professionals, people who used the apps but had never thought about the people who powered them. They had listened with the polite attention of those who were being educated about something far from their own experience.
+The room had been mostly middle-class professionals, people who used the apps but had never thought about the people who powered them. They had listened with the polite attention of people being educated about something distant from their own experience.
 
 But Kevin Zhou had approached him afterward. Had asked questions that showed he understood the structural nature of what Yusuf was describing. Had said something that Yusuf still remembered: You're right. We built this. I built this. And I don't know how to make it right.
 
@@ -74,7 +74,7 @@ Two messages. Two invitations. Two doors that had appeared in a wall he had thou
 
 Yusuf thought about his mother's hands, swollen at the knuckles. About his father, who had sung songs that were now lost. About the years he had spent waiting for conditions that would never arrive, telling himself he would risk something once he was safe.
 
-Safety would never come. That was what the night had taught him, what the tea in his mother's kitchen had made clear. The precarity was not a temporary condition to be endured until something better arrived. It was the water he swam in, the air he breathed. Waiting for it to end was waiting to drown.
+Safety would never come. That was what the night had taught him, what the tea in his mother's kitchen had made plain. The precarity was not a temporary condition to be endured until something better arrived. It was the water he swam in, the air he breathed. Waiting for it to end was waiting to drown.
 
 The label offer was about music, about expression, about the private self finally becoming public. The Kevin Zhou message was about something else, about technology and voice and connection.
 
