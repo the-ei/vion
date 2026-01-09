@@ -32,7 +32,7 @@ Jamie listens without interruption. When he finishes, she is quiet for a long mo
 
 "They're the center. Everything else flows from or through them."
 
-"We've noticed that too." She pauses, chooses her words carefully. "The subcommittee has been looking at algorithmic systems across multiple sectors. Healthcare, finance, criminal justice, employment. Every investigation - every single one - we find traces of Prometheus's technology. Their models, their training data, their infrastructure. It's like trying to investigate the internet by looking at individual websites. The company is too fundamental. They're not the water in the pipes; they're the pipes themselves."
+"We've noticed that too." She pauses, chooses her words carefully. "The subcommittee has been looking at algorithmic systems across multiple sectors. Healthcare, finance, criminal justice, employment. Every investigation - every single one - we find traces of Prometheus's technology. Their models, their training data, their infrastructure. It's like trying to investigate the internet by looking at individual websites. The company is too fundamental. They're not the water in the pipes; they're the pipes themselves. And you can't regulate plumbing by looking at one faucet."
 
 "Can you subpoena them? Compel disclosure?"
 
@@ -44,7 +44,7 @@ They talk for over an hour. Jamie shares what she can - publicly available heari
 
 "The problem," she says, "is that we're not equipped for this. Congress was designed to oversee human institutions - companies with executives you can question, agencies with policies you can examine. But algorithms don't testify. Training data is proprietary. The decisions these systems make are technically not decisions at all - they're recommendations, suggestions, scores. There's always a human in the loop, officially, even when that human has neither the time nor the expertise to override the machine."
 
-"So the system is designed to be unaccountable."
+"So the system is designed to be unaccountable. That's not a flaw. It's a feature."
 
 "The system is designed to be efficient. Unaccountability is a side effect. Or maybe not a side effect - maybe it's the point. Hard to tell from where I'm sitting."
 
@@ -92,7 +92,7 @@ Ruth pauses. When she speaks again, her voice is softer, more personal. "I spent
 
 "That's not a very hopeful answer."
 
-"I'm sixty-one years old. I have seen enough to know that hope is not the same as optimism."
+"I'm sixty-one years old. I have seen enough to know that hope is not the same as optimism. Hope is what you do despite the odds. Optimism is the belief that the odds will change on their own."
 
 
 

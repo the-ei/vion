@@ -6,7 +6,7 @@ Then he started following the money.
 
 Vertex Analytics is owned by a holding company called Meridian Capital Partners. This information is public, buried in SEC filings and corporate registrations that few people read and fewer understand. Meridian, in turn, receives investment from a venture fund called Foundry Collective, whose limited partners include - among others - executives and board members from Prometheus Systems, the AI infrastructure company whose products underpin half the technology sector.
 
-Jerome writes PROMETHEUS in red marker, circles it, draws lines outward to the entities it touches. The lines are multiplying.
+Jerome writes PROMETHEUS in red marker, circles it, draws lines outward to the entities it touches. The lines are multiplying. They seem to breed overnight, new connections revealing themselves each time he looks, as if the diagram were thinking along with him.
 
 
 
@@ -16,7 +16,7 @@ Denise appears in the doorway with a cup of coffee. She does not say anything, j
 
 "You're going to need a bigger board," she says.
 
-"I'm going to need several boards."
+"I'm going to need several boards. And possibly a warehouse."
 
 "What is all this?"
 
@@ -38,7 +38,7 @@ Jerome writes the names on the board. He draws the connections. The web grows.
 
 He has been a journalist for twenty-three years. He won a Pulitzer for his coverage of public housing corruption, a story that took eighteen months to report and brought down a city commissioner. He knows what systemic looks like - knows the difference between isolated bad actors and coordinated networks, knows how to read the structural connections that reveal whose interests are being served. What he is seeing on this whiteboard feels structural. It feels like infrastructure.
 
-The separate stories he has been tracking - hiring algorithms that discriminate, healthcare systems that ration care by demographics, insurance models that price out the vulnerable, criminal justice tools that predict who will offend based on where they live - are not separate. They share architecture. They share funders. They share, he suspects, a common logic that is more than coincidence.
+The separate stories he has been tracking - hiring algorithms that discriminate, healthcare systems that ration care by demographics, insurance models that price out the vulnerable, criminal justice tools that predict who will offend based on where they live - are not separate. They share architecture. They share funders. They share, he suspects, a common logic that is more than coincidence, more than the convergent evolution of similar solutions. They share a design.
 
 
 
@@ -78,7 +78,7 @@ Jerome became a journalist because he wanted to make systems visible. He wanted 
 
 But the systems are becoming harder to see. Algorithms do not testify before Congress. Investment structures do not appear in public records. The decisions that determine whether you get a job, whether you get healthcare, whether you get arrested are increasingly made by machines whose logic is proprietary, whose training data is private, whose biases are features rather than bugs.
 
-Jerome looks at his whiteboard. The web of connections glows in the lamp light, lines and boxes spreading like something organic, something hungry.
+Jerome looks at his whiteboard. The web of connections glows in the lamp light, lines and boxes spreading like something organic, something hungry, something that feeds on what he discovers and grows larger the more he knows.
 
 In the morning, he will take the train to Washington.
 
@@ -124,7 +124,7 @@ Jamie listens without interruption. When he finishes, she is quiet for a long mo
 
 "They're the center. Everything else flows from or through them."
 
-"We've noticed that too." She pauses, chooses her words carefully. "The subcommittee has been looking at algorithmic systems across multiple sectors. Healthcare, finance, criminal justice, employment. Every investigation - every single one - we find traces of Prometheus's technology. Their models, their training data, their infrastructure. It's like trying to investigate the internet by looking at individual websites. The company is too fundamental. They're not the water in the pipes; they're the pipes themselves."
+"We've noticed that too." She pauses, chooses her words carefully. "The subcommittee has been looking at algorithmic systems across multiple sectors. Healthcare, finance, criminal justice, employment. Every investigation - every single one - we find traces of Prometheus's technology. Their models, their training data, their infrastructure. It's like trying to investigate the internet by looking at individual websites. The company is too fundamental. They're not the water in the pipes; they're the pipes themselves. And you can't regulate plumbing by looking at one faucet."
 
 "Can you subpoena them? Compel disclosure?"
 
@@ -136,7 +136,7 @@ They talk for over an hour. Jamie shares what she can - publicly available heari
 
 "The problem," she says, "is that we're not equipped for this. Congress was designed to oversee human institutions - companies with executives you can question, agencies with policies you can examine. But algorithms don't testify. Training data is proprietary. The decisions these systems make are technically not decisions at all - they're recommendations, suggestions, scores. There's always a human in the loop, officially, even when that human has neither the time nor the expertise to override the machine."
 
-"So the system is designed to be unaccountable."
+"So the system is designed to be unaccountable. That's not a flaw. It's a feature."
 
 "The system is designed to be efficient. Unaccountability is a side effect. Or maybe not a side effect - maybe it's the point. Hard to tell from where I'm sitting."
 
@@ -184,7 +184,7 @@ Ruth pauses. When she speaks again, her voice is softer, more personal. "I spent
 
 "That's not a very hopeful answer."
 
-"I'm sixty-one years old. I have seen enough to know that hope is not the same as optimism."
+"I'm sixty-one years old. I have seen enough to know that hope is not the same as optimism. Hope is what you do despite the odds. Optimism is the belief that the odds will change on their own."
 
 
 
@@ -246,7 +246,7 @@ Jerome does not have an answer. Or rather, he has many answers - explanations, j
 
 "In his room. He said it was fine. He said he didn't expect you to be there anyway."
 
-The words are worse than any accusation. Jerome thinks about his son, seventeen years old, building some kind of coding project on his laptop, growing into a person Jerome struggles to recognize. When did DeShawn stop expecting things from him? When did the disappointments accumulate into acceptance, into the kind of resignation that protects itself by stopping to hope?
+The words are worse than any accusation. Jerome thinks about his son, seventeen years old, building some kind of coding project on his laptop, growing into a person Jerome struggles to recognize. When did DeShawn stop expecting things from him? When did the disappointments accumulate into acceptance, into the kind of resignation that protects itself by refusing to hope?
 
 "I'll talk to him."
 
@@ -334,7 +334,7 @@ The words land like a physical blow. Jerome thinks about the past weeks, the inv
 
 "I know," Denise says. She turns off her lamp. In the darkness, her voice is gentler. "Just be here, Jerome. Some of the time. Just be here."
 
-He lies beside her, watching shadows on the ceiling, and does not sleep for a long time.
+He lies beside her, watching shadows on the ceiling, listening to her breathing slow toward sleep, and does not sleep for a long time.
 
 
 
@@ -385,7 +385,7 @@ Why?
 
 Jerome stands and walks to the window. Baltimore is dark outside, the streetlights casting pools of orange on the sidewalk, a car passing slowly on the street below. He watches the car until it disappears around the corner, wondering if it is surveillance, wondering if he has become the kind of person who wonders about such things.
 
-This is how it works, he realizes. Not dramatic confrontations, not threats delivered in parking garages, not the spy-movie theatrics that make intimidation visible and therefore resistible. Instead: a quiet email that demonstrates knowledge. A reminder that he is seen. The soft pressure of being watched.
+This is how it works, he realizes. Not dramatic confrontations, not threats delivered in parking garages, not the spy-movie theatrics that make intimidation visible and therefore resistible. Instead: a quiet email that demonstrates knowledge. A reminder that he is seen. The soft, constant pressure of being watched, of being known, of existing inside someone else's surveillance.
 
 
 

@@ -6,7 +6,7 @@ Then he started following the money.
 
 Vertex Analytics is owned by a holding company called Meridian Capital Partners. This information is public, buried in SEC filings and corporate registrations that few people read and fewer understand. Meridian, in turn, receives investment from a venture fund called Foundry Collective, whose limited partners include - among others - executives and board members from Prometheus Systems, the AI infrastructure company whose products underpin half the technology sector.
 
-Jerome writes PROMETHEUS in red marker, circles it, draws lines outward to the entities it touches. The lines are multiplying.
+Jerome writes PROMETHEUS in red marker, circles it, draws lines outward to the entities it touches. The lines are multiplying. They seem to breed overnight, new connections revealing themselves each time he looks, as if the diagram were thinking along with him.
 
 
 
@@ -16,7 +16,7 @@ Denise appears in the doorway with a cup of coffee. She does not say anything, j
 
 "You're going to need a bigger board," she says.
 
-"I'm going to need several boards."
+"I'm going to need several boards. And possibly a warehouse."
 
 "What is all this?"
 
@@ -38,7 +38,7 @@ Jerome writes the names on the board. He draws the connections. The web grows.
 
 He has been a journalist for twenty-three years. He won a Pulitzer for his coverage of public housing corruption, a story that took eighteen months to report and brought down a city commissioner. He knows what systemic looks like - knows the difference between isolated bad actors and coordinated networks, knows how to read the structural connections that reveal whose interests are being served. What he is seeing on this whiteboard feels structural. It feels like infrastructure.
 
-The separate stories he has been tracking - hiring algorithms that discriminate, healthcare systems that ration care by demographics, insurance models that price out the vulnerable, criminal justice tools that predict who will offend based on where they live - are not separate. They share architecture. They share funders. They share, he suspects, a common logic that is more than coincidence.
+The separate stories he has been tracking - hiring algorithms that discriminate, healthcare systems that ration care by demographics, insurance models that price out the vulnerable, criminal justice tools that predict who will offend based on where they live - are not separate. They share architecture. They share funders. They share, he suspects, a common logic that is more than coincidence, more than the convergent evolution of similar solutions. They share a design.
 
 
 
@@ -78,7 +78,7 @@ Jerome became a journalist because he wanted to make systems visible. He wanted 
 
 But the systems are becoming harder to see. Algorithms do not testify before Congress. Investment structures do not appear in public records. The decisions that determine whether you get a job, whether you get healthcare, whether you get arrested are increasingly made by machines whose logic is proprietary, whose training data is private, whose biases are features rather than bugs.
 
-Jerome looks at his whiteboard. The web of connections glows in the lamp light, lines and boxes spreading like something organic, something hungry.
+Jerome looks at his whiteboard. The web of connections glows in the lamp light, lines and boxes spreading like something organic, something hungry, something that feeds on what he discovers and grows larger the more he knows.
 
 In the morning, he will take the train to Washington.
 

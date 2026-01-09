@@ -34,7 +34,7 @@ Jerome does not have an answer. Or rather, he has many answers - explanations, j
 
 "In his room. He said it was fine. He said he didn't expect you to be there anyway."
 
-The words are worse than any accusation. Jerome thinks about his son, seventeen years old, building some kind of coding project on his laptop, growing into a person Jerome struggles to recognize. When did DeShawn stop expecting things from him? When did the disappointments accumulate into acceptance, into the kind of resignation that protects itself by stopping to hope?
+The words are worse than any accusation. Jerome thinks about his son, seventeen years old, building some kind of coding project on his laptop, growing into a person Jerome struggles to recognize. When did DeShawn stop expecting things from him? When did the disappointments accumulate into acceptance, into the kind of resignation that protects itself by refusing to hope?
 
 "I'll talk to him."
 
@@ -122,7 +122,7 @@ The words land like a physical blow. Jerome thinks about the past weeks, the inv
 
 "I know," Denise says. She turns off her lamp. In the darkness, her voice is gentler. "Just be here, Jerome. Some of the time. Just be here."
 
-He lies beside her, watching shadows on the ceiling, and does not sleep for a long time.
+He lies beside her, watching shadows on the ceiling, listening to her breathing slow toward sleep, and does not sleep for a long time.
 
 
 
