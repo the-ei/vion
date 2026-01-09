@@ -1,36 +1,15 @@
 {
-  "generated": "2026-01-09T07:19:24-06:00",
+  "generated": "2026-01-09T07:49:27-06:00",
   "reading_wpm": 250,
   "words_per_page": 275,
   "books": {
-    "book-01-when-eighth-oblivion-wakes": {"words": 242120, "pages": 880, "minutes": 968, "parts": {
-        "part-01": {"words": 43965, "pages": 159, "minutes": 175},
-        "part-02": {"words": 61565, "pages": 223, "minutes": 246},
-        "part-03": {"words": 38557, "pages": 140, "minutes": 154},
-        "part-04": {"words": 53569, "pages": 194, "minutes": 214},
-        "part-05": {"words": 44464, "pages": 161, "minutes": 177}
+    "book-01-when-eighth-oblivion-wakes": {"words": 243428, "pages": 885, "minutes": 973, "parts": {
+        "part-01": {"words": 43969, "pages": 159, "minutes": 175},
+        "part-02": {"words": 61865, "pages": 224, "minutes": 247},
+        "part-03": {"words": 39050, "pages": 142, "minutes": 156},
+        "part-04": {"words": 54175, "pages": 197, "minutes": 216},
+        "part-05": {"words": 44423, "pages": 161, "minutes": 177}
       }}
 ,
-    "book-02-until-eighth-oblivion-breaks": {"words": 230144, "pages": 836, "minutes": 920, "parts": {
-        "part-01": {"words": 41506, "pages": 150, "minutes": 166},
-        "part-02": {"words": 47871, "pages": 174, "minutes": 191},
-        "part-03": {"words": 49419, "pages": 179, "minutes": 197},
-        "part-04": {"words": 49815, "pages": 181, "minutes": 199},
-        "part-05": {"words": 41533, "pages": 151, "minutes": 166}
-      }}
-,
-    "book-03-beyond-eighth-oblivions-gates": {"words": 231972, "pages": 843, "minutes": 927, "parts": {
-        "part-01": {"words": 51363, "pages": 186, "minutes": 205},
-        "part-02": {"words": 43004, "pages": 156, "minutes": 172},
-        "part-03": {"words": 45907, "pages": 166, "minutes": 183},
-        "part-04": {"words": 53087, "pages": 193, "minutes": 212},
-        "part-05": {"words": 38611, "pages": 140, "minutes": 154}
-      }}
-
-  },
-  "trilogy": {
-    "words": 704236,
-    "pages": 2560,
-    "minutes": 2816
-  }
-}
+    "book-02-until-eighth-oblivion-breaks": {"words": 232055, "pages": 843, "minutes": 928, "parts": {
+        "part-01": {"words": 42014, "pages": 152, "minutes": 168}
