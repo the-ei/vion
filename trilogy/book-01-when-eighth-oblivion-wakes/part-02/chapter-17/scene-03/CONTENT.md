@@ -17,7 +17,6 @@ Raj nodded. "The ethics team is reviewing. Sarah Lin's group made some model adj
 Within acceptable parameters. Another phrase for the notebook. Kevin Zhou thought about Elena Varga, the nurse he didn't know, documenting the same system from the other side. He wondered what she would think of acceptable parameters.
 
 
----
 
 The meeting continued. WorkFlow deployments next - the labor management system that Kevin Zhou now understood managed millions of gig workers across the country. The metrics here were different: task completion rates, worker retention, what they called "behavioral compliance scores."
 
@@ -44,7 +43,6 @@ Kevin Zhou nodded. He was doing his job. He was being a good engineer, a valuabl
 He was also documenting everything he heard, storing it in encrypted files that no one at Prometheus knew existed.
 
 
----
 
 The meeting ended at noon. Kevin Zhou gathered his laptop, his notebook, the badge that marked him as trusted. He walked out of the conference room into the corridor that connected the clean room facility to the main campus.
 
@@ -73,7 +71,6 @@ Maybe she was a true believer, like Dr. Lin. Maybe she'd convinced herself that 
 Or maybe she was like him. Watching. Documenting. Waiting for something she couldn't yet name.
 
 
----
 
 That evening, at home, Kevin Zhou added to his documentation. The meeting notes, the phrases that mattered, the connections he was beginning to see.
 
@@ -98,5 +95,4 @@ Maybe that was enough. Maybe witness required witnesses, plural. Maybe the isola
 Kevin Zhou turned off the lights and went to bed, carrying the weight of what he knew into dreams that offered no resolution.
 
 
----
 

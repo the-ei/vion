@@ -11,7 +11,6 @@ The waiting room was full. He looked around, cataloguing the other patients, the
 What they had in common: they were here because this was what they could afford. The community clinic served people without insurance, people with inadequate insurance, people for whom the American healthcare system was an obstacle course designed to exhaust them into giving up.
 
 
----
 
 Behind the intake desk, Yusuf could see a computer screen - not the details, just the glow of it, the way the intake staff interacted with it. A patient would approach, give their name, answer questions. The staff member would type, wait, read something on the screen, type again. Then the patient would be assigned a number, directed to wait, their place in the queue determined by something they couldn't see.
 
@@ -30,7 +29,6 @@ The examination room was small, clinical, the same as every examination room Yus
 "The doctor will be with you shortly," the nurse said, and left.
 
 
----
 
 They waited. Yusuf's mother closed her eyes again, conserving energy. The minutes ticked past - five, ten, fifteen. Yusuf looked at his phone, thought about texting Jerome, decided against it. What would he say? I'm in a waiting room, watching my mother wait, thinking about your investigation.
 
@@ -51,7 +49,6 @@ Reduce stress. Yusuf wanted to laugh. His mother worked two jobs, worried about 
 But he said nothing. The doctor was trying to help, within the constraints of a system that made help almost impossible.
 
 
----
 
 They left the clinic with prescriptions refilled, another appointment scheduled, the chronic condition neither better nor worse than before. Halima walked slowly to the car, Yusuf matching her pace, the afternoon sun warm on their faces.
 
@@ -82,5 +79,4 @@ Maybe that was enough. Maybe witness was its own form of action.
 He held onto the thought as the city passed by outside, ordinary and endless, waiting for whatever came next.
 
 
----
 

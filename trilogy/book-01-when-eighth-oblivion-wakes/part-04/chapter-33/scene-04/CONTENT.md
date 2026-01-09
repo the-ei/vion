@@ -17,7 +17,6 @@ Daniel was quiet. The house made its settling sounds around them—the creak of 
 "He thanked me. At the end. He was crying, and I was crying, and he thanked me for trying to save her. For caring enough to write down what happened."
 
 
----
 
 "You did care."
 
@@ -38,7 +37,6 @@ They sat in the quiet. Through the window, the Phoenix night was clear and cold,
 "He wants to do something. He's a musician, apparently—makes music about the gig economy, the algorithm life. He said maybe he can use his voice to help."
 
 
----
 
 "What did you tell him?"
 
@@ -61,7 +59,6 @@ She laughed, the first real laugh in days. "That's the most romantic thing you'v
 "I'm a man of few words. But good ones."
 
 
----
 
 They moved through the rituals of evening—checking on the children, locking the doors, turning off the lights. Sofia was splayed across her bed in the manner of six-year-olds, limbs at angles that seemed impossible for comfortable sleep. Mateo clutched his stuffed elephant, thumb half in his mouth, the baby habits he was slowly outgrowing still present in the vulnerability of sleep.
 
@@ -80,7 +77,6 @@ In their bedroom, Daniel was already under the covers, waiting for her. She undr
 "We're not alone in this." Daniel repeated it like an affirmation, like something he needed to believe. "That's what keeps striking me. A week ago, you were a nurse at a clinic, and I was an engineer at a water treatment plant, and we didn't know anyone who—who mattered. Nationally. In the news. Now you're connected to whistleblowers and journalists and—"
 
 
----
 
 "And a grieving twenty-year-old in Minneapolis who makes music about algorithmic exploitation."
 
@@ -99,5 +95,4 @@ It wasn't enough. It would never be enough. The death remained, the failure rema
 Elena closed her eyes. Tomorrow, the work would continue. Tonight, she rested.
 
 
----
 

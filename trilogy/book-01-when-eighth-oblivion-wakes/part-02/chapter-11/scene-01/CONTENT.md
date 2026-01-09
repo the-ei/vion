@@ -7,7 +7,6 @@ He made coffee with a precision machine that required no attention, measured gro
 The shower was exactly four minutes. The coffee was exactly twelve ounces. The protein bar he ate while checking his morning email was exactly two hundred calories and contained exactly twenty grams of protein. These were the parameters of his life, optimized over years of experimentation, settled into a routine that required no thought because thought was expensive and Kevin Zhou had learned to spend it only where it mattered.
 
 
----
 
 The commute was the company shuttle, a sleek electric vehicle that picked him up at 7:35 from the lobby of his building and deposited him at the Prometheus campus forty-three minutes later. The shuttle was full of people like him—engineers, data scientists, product managers—all looking at tablets or phones or the middle distance, all moving toward the same destination for the same purpose. Kevin Zhou didn't speak to any of them. They didn't speak to him. The social contract of the shuttle was silence and productivity, and everyone honored it.
 
@@ -18,7 +17,6 @@ The Prometheus campus appeared through the shuttle windows like something from a
 The shuttle stopped. Kevin Zhou gathered his bag, stepped onto the pathway, walked toward Building 7 where his team was housed. The morning air was mild, California in March, the kind of weather that never quite felt real to someone who had grown up in Shenzhen. Around him, other workers moved toward their own buildings, their own desks, their own small pieces of the vast machine they were all constructing together.
 
 
----
 
 Building 7 was infrastructure, which meant it was boring and essential and occupied by people who were respected but rarely celebrated. The flashier work happened elsewhere—the foundation models that made headlines, the consumer products that generated revenue, the research papers that won awards. Kevin Zhou's team maintained the plumbing: the serving systems that delivered model inference at scale, the APIs that connected Prometheus capabilities to external partners, the monitoring and logging frameworks that kept everything visible and debuggable. It was work that required deep expertise and produced no glory, and Kevin Zhou preferred it that way. Glory brought attention. Attention brought politics. Politics was exhausting, a game whose rules he had never learned to play, whose rewards he had never learned to want.
 
@@ -29,7 +27,6 @@ He logged in, pulled up the deployment issue, and began to trace the problem. Th
 He found the issue by 9:30—a queue that was undersized for the new load, causing occasional blocking when multiple requests arrived simultaneously. The fix was straightforward: increase the queue depth, add monitoring for future growth, deploy to staging for testing. Kevin Zhou wrote the changes, submitted the code review, and moved on to the next item in his queue.
 
 
----
 
 Lunch was at his desk, a meal from the campus cafeteria that he chose for nutritional content rather than taste. He ate while reading technical documentation, a new paper on transformer architectures that a colleague had shared in the team channel. The paper was interesting in an abstract way—improvements to attention mechanisms, potential efficiency gains in training—but Kevin Zhou's work was inference, not training, and the relevance was tangential.
 
@@ -48,7 +45,6 @@ He checked the logging system for output destinations. The logs were being route
 He looked at the allocation timestamp. The cluster had been running for eleven months.
 
 
----
 
 Kevin Zhou sat back in his chair and considered.
 
@@ -71,5 +67,4 @@ The shuttle took him home. The apartment waited, empty and clean and exactly as 
 He began to search for SIEVE.
 
 
----
 

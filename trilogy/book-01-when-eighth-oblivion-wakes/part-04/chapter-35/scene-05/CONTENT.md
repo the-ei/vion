@@ -9,7 +9,6 @@ In Phoenix, Elena opens a letter from the congressional office. Invitation to te
 In Minneapolis, Yusuf gets a DM from Keisha, the organizer from Gig Workers United. "They want you at the hearing. Not just in the audience—as a witness. Your story. Your mother's case. Your voice. Can you do it?" He reads the message, rereads it, lets the question settle into his body. Can he do it? He doesn't know. But he's going to try.
 
 
----
 
 Four people. Four windows. Four moments of the same decision.
 
@@ -30,5 +29,4 @@ January 15th. The hearing room. The reckoning.
 The story continues.
 
 
----
 

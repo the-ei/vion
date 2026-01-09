@@ -11,7 +11,6 @@ Then through Lyndale, where the apartment buildings started to show their age an
 The class geography of the city became visible in a way it usually wasn't. In Kenwood, the crisis was an inconvenience to be waited out. In Lyndale, it was an emergency that required immediate adaptation.
 
 
----
 
 Yusuf had delivered to both neighborhoods. He had carried organic groceries to the Kenwood doors, handed them to people who barely looked at him before closing their doors. He had carried bulk goods to the Lyndale apartments, exchanged greetings with people who knew his name because he had been delivering to them for three years.
 
@@ -40,7 +39,6 @@ Cedar Riverside was maybe fifteen minutes from here, close to his own neighborho
 "It's okay. No charge. Wallahi, it's fine."
 
 
----
 
 She got into his car, navigating around the grocery bags in the back seat. He saw her notice them, the abundance of food he couldn't deliver.
 
@@ -65,7 +63,6 @@ Yusuf thought about that. The systems he depended on - the apps, the algorithms,
 But they weren't, really. They were just another system, built by people, capable of failure. And when they failed, the same old rules applied: help your neighbors, share what you have, survive together.
 
 
----
 
 "Do you want some of these groceries?" he asked. "They'll spoil anyway. Might as well go to someone who can use them."
 
@@ -94,7 +91,6 @@ He nodded and walked back to the elevator, lighter now without those two bags, t
 Maybe this wasn't the worst way for the system to fail.
 
 
----
 
 Back in his car, he was finally close to home. The familiar streets of his neighborhood, the same streets he had walked as a child, that he had driven a thousand times since getting this car. The apartment complex where his mother lived, where Amina was probably watching the news and worrying.
 
@@ -120,7 +116,6 @@ He knocked, then used his key. The smell of cooking hit him immediately - rice a
 "It's me. I'm home."
 
 
----
 
 She appeared in the kitchen doorway, her face caught between relief and worry. Sixteen years old and already carrying weight she shouldn't have to carry - their mother's care, the household management, the responsibilities that fell to her when Yusuf was out chasing the algorithm's demands.
 
@@ -151,5 +146,4 @@ It was a joke, but there was something sharp underneath it. She understood, as h
 But they would eat tonight. That was something.
 
 
----
 

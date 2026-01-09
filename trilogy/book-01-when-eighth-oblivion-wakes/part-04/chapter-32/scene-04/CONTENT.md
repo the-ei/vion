@@ -15,7 +15,6 @@ Now, at 5 PM Eastern, two hours before publication, he sat in the strange suspen
 Denise appeared in the doorway with coffee. She'd taken the afternoon off, something she almost never did.
 
 
----
 
 "How are you feeling?"
 
@@ -36,7 +35,6 @@ But documentation, as DeShawn had pointed out, wasn't the same as impact. The tr
 "DeShawn wants to know if he can watch you publish," Denise said from the doorway.
 
 
----
 
 Jerome looked up, surprised. He and DeShawn hadn't spoken since the argument, though the house had acquired the careful choreography of people avoiding collision while leaving room for eventual reconciliation.
 
@@ -65,7 +63,6 @@ The clock ticked toward seven.
 Jerome turned to look at his son. The afternoon light had faded; the room was lit only by screens now. In their glow, DeShawn's face looked young and old at once.
 
 
----
 
 "Thank you," Jerome said. "That means more than you know."
 
@@ -92,7 +89,6 @@ Jerome watched his dashboard as the numbers began to climb. A hundred readers. T
 "Finally, someone telling the truth about Prometheus." That one had a blue checkmark and seventy thousand retweets.
 
 
----
 
 The responses blurred together—praise and condemnation, signal and noise, the discourse doing what discourse always did: absorbing new information and immediately transmuting it into existing narratives. Some people were reading the story carefully, engaging with the evidence, asking genuine questions. Many more were skimming the headline and reacting based on what they already believed.
 
@@ -113,7 +109,6 @@ Ananya at 7:41: "Prometheus PR has issued a statement calling the story 'defamat
 The night deepened around them. Denise brought more coffee, then tea when coffee seemed like a bad idea. DeShawn stayed, watching the numbers, reading the responses, occasionally offering commentary that was sometimes insightful and sometimes adolescent and always evidence that he was paying attention.
 
 
----
 
 By ten o'clock, the first wave had crested. The story had been read by nearly a hundred thousand people, shared and argued over and absorbed into the infinite scroll. The mainstream outlets were beginning to pick it up—not the Tribune, interestingly, but smaller publications, tech-focused sites, the outlets that lived in the space between independent journalism and institutional press. Tomorrow, Jerome knew, the second wave would come: the response articles, the fact-checks, the counter-narratives that would try to reframe what he'd published.
 
@@ -132,5 +127,4 @@ DeShawn stirred against the wall. "That sounds like defeat."
 The house was quiet around them. The story was in the world. And Jerome sat in his home office, surrounded by his family, feeling neither triumphant nor defeated—only finished, and ready, and uncertain what morning would bring.
 
 
----
 

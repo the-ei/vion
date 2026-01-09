@@ -7,7 +7,6 @@ Delphine manufactured a smile. She had learned, over years in this industry, how
 "Great? It's phenomenal. This is the kind of moment that redefines a company's profile. We're not just reporting the conversation anymore. We're shaping it." He pulled out his phone, swiped to a chart that showed the familiar exponential curve. "Look at this engagement. Look at this retention. People aren't just clicking through - they're reading the whole piece, sharing it, coming back. This is textbook viral."
 
 
----
 
 She watched Cameron's excitement with a feeling she couldn't quite name. He wasn't wrong, by any of the metrics that mattered to his department. The piece was succeeding spectacularly. Every indicator that measured success in the attention economy was pointing up. Cameron was doing his job exactly as he had been trained to do it, celebrating exactly what he had been trained to celebrate.
 
@@ -18,7 +17,6 @@ The problem was that he didn't see what she saw. He saw engagement and retention
 "I'll be there in a few minutes," she said. "Just need to finish something."
 
 
----
 
 Cameron nodded and left, his footsteps receding down the corridor toward the break room where champagne emojis were probably already appearing in Slack channels. Delphine sat for a moment in the silence he left behind, then stood and walked to the celebration.
 
@@ -29,7 +27,6 @@ After twenty minutes that felt like hours, she excused herself with a claim of a
 How do you explain that you're horrified by success? The question had no answer she could articulate. The metrics everyone was celebrating felt, to her, like a countdown to something she couldn't name.
 
 
----
 
 She thought about calling Jessie, but she didn't know what she would say. Her wife was brilliant and supportive and would listen to whatever Delphine needed to express. But expressing it was the problem. The feeling resisted language. It was a sense of having done something with consequences, having set something in motion that couldn't be recalled, without being able to say exactly what that something was.
 
@@ -42,5 +39,4 @@ She typed a brief message: "Jerome - Delphine from Nexus. I think we need to tal
 She hit send before she could talk herself out of it.
 
 
----
 

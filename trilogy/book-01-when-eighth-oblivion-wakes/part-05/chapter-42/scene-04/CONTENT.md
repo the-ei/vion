@@ -13,7 +13,6 @@ The lights of the city were coming on, one by one, in windows she could see and 
 Someone had to be watching. Ruth had accepted that she would be one of those someones.
 
 
----
 
 In Baltimore, Jerome and Denise sat down to dinner at the table they'd bought fifteen years ago when they first moved into this house. Roast chicken tonight, green beans, the kind of meal that took longer to make than to eat and was worth every minute.
 
@@ -30,7 +29,6 @@ Across the table, Denise caught Jerome's eye and smiled. Something had shifted i
 The evening stretched ahead, ordinary and precious. Tomorrow Jerome would return to his work, would continue tracking the story that never ended. Tonight he was just a man at dinner with his family, grateful for roast chicken and spring light and the tentative peace that had grown from honest disagreement.
 
 
----
 
 In Los Angeles, Delphine and Jessie put Theo to bed together - the routine that had anchored their days through everything, through the crisis and its aftermath and the long months of making a documentary that was finally done.
 
@@ -53,7 +51,6 @@ Delphine thought about the woman at the screening. Amanda. Thirty-two. A nurse. 
 It wasn't enough. It would have to be enough.
 
 
----
 
 In Palo Alto, Ananya sat in her home office, surrounded by documents that now meant something different than they had a month ago. Not just evidence - resources. Tools for the watching she had committed to, the vigil she had joined.
 
@@ -68,7 +65,6 @@ The Eighth Oblivion had not occurred. But it had woken - hence the book's title,
 Through her window, she could see the sky darkening from blue to purple to black. Stars appearing, one by one. The universe continuing its indifferent expansion while humans on one small planet tried to stay awake, to pay attention, to do what they could with what they knew.
 
 
----
 
 The night came on, as it always did. Spring darkness softer than winter's, carrying the first hints of the warmth to come. In four cities, four people settled into their evenings - reading, talking, sleeping, simply being.
 
@@ -85,5 +81,4 @@ And in four cities, on the last night of the story's first chapter, four people 
 The vigil continued.
 
 
----
 

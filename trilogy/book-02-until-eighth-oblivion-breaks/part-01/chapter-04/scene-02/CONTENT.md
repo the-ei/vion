@@ -4,14 +4,13 @@ The board members arrived in clusters over the next ten minutes. Richard Tanaka,
 
 "Ananya," Nathan said, taking his seat at the head of the table. "Ready to show us how we've become good?"
 
-The question carried Nathan's characteristic ambiguity - it could be genuine support, gentle mockery, or strategic positioning. Probably all three. Nathan had backed her work from the beginning, or at least allowed it to proceed, and she had never been able to determine whether he believed in it or simply saw it as useful cover.
+The question carried Nathan's characteristic ambiguity - it could be genuine support, gentle mockery, or strategic positioning. Probably all three. Nathan had backed her work from the beginning, or at least allowed it to proceed, and she had never been able to determine whether he believed in it or simply saw it as useful cover. Perhaps the distinction didn't matter to him. Perhaps it only mattered to people who still believed that motive changed the nature of action.
 
 "Ready to show you where we are," Ananya said. "Goodness is for philosophers. I'll stick to metrics."
 
 "Metrics we can do. Let's begin."
 
 
----
 
 Ananya advanced to the first slide. "Eighteen months ago, this company faced an existential crisis. The systems we built revealed vulnerabilities we hadn't anticipated. Public trust collapsed. Regulatory scrutiny intensified. The question wasn't whether we would change, but whether we could change fast enough to survive."
 
@@ -24,7 +23,6 @@ The presentation moved through three sections: technical implementation, operati
 She gave each of them what they needed. The 34% reduction in harmful outputs came with methodology and confidence intervals. The competitive positioning showed three competitors who had adopted similar frameworks after theirs became industry standard. The governance structure included quarterly reviews, independent audits, board-level escalation paths. The technical architecture displayed the actual systems - the classifiers, the human review pipelines, the automated monitoring that caught problems before they became crises.
 
 
----
 
 "The framework has been licensed to fourteen external organizations," Ananya said, advancing to the revenue slide. "Enterprise clients see our tools as de-risking their own development. We've generated $47 million in framework licensing this fiscal year, with projected growth to $120 million next year."
 
@@ -41,7 +39,6 @@ It was a good question, the kind Ananya had hoped someone would ask because she 
 "But what about the unknowns?" Jennifer pressed. "The things your monitoring doesn't know to look for?"
 
 
----
 
 "That's the fundamental challenge of safety in complex systems," Ananya acknowledged. "We can reduce known risks and expand our awareness of unknown risks, but we can't claim perfect coverage. What we can claim is that our infrastructure for identifying and responding to new risks is more robust than it's ever been."
 
@@ -53,10 +50,9 @@ Ananya had anticipated this objection. James had raised it in three previous mee
 
 "It does. And for those applications, we offer an on-premises monitoring option that reduces latency to under 5 milliseconds. It costs more, but it's available."
 
-The technical discussion continued for another twenty minutes. Ananya handled each objection with data and precision, watching the board members' expressions shift from skeptical to satisfied. She knew how to do this. She had learned how to translate ethics into engineering and engineering into business value. The translation felt less like compromise, on good days, and more like survival.
+The technical discussion continued for another twenty minutes. Ananya handled each objection with data and precision, watching the board members' expressions shift from skeptical to satisfied. She knew how to do this. She had learned how to translate ethics into engineering and engineering into business value. The translation felt less like compromise, on good days, and more like survival - the kind of survival where you kept your job by making your job useful to people who didn't share your reasons for doing it.
 
 
----
 
 By the end of the second hour, the board voted to continue funding the framework at current levels, with a 15% increase for next fiscal year. Nathan thanked Ananya publicly, praising her leadership and dedication. Margaret Okonkwo suggested that Ananya present a version of this work at the next investor meeting. Richard Tanaka noted that the framework had become "a significant differentiator in enterprise sales conversations."
 
@@ -73,7 +69,6 @@ And yet.
 Nathan's framing - "ethics as profit center" - had landed differently than she expected. The revenue slide, which she had included to demonstrate sustainability, had become the slide they remembered. Her work had been translated, and in translation, transformed.
 
 
----
 
 Was this what winning looked like? Approval for ethics work because ethics work generated revenue? The framework doing exactly what she'd designed it to do, while the frame around it shifted to serve purposes she hadn't chosen?
 
@@ -94,5 +89,4 @@ The version that could receive praise for work she doubted and maintain a relati
 The version that could keep going.
 
 
----
 

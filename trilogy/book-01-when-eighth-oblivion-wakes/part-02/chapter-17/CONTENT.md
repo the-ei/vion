@@ -11,7 +11,6 @@ The MedAssist system she'd described - the healthcare triage algorithm that had,
 The pieces were connecting.
 
 
----
 
 Jerome stood, stretched his back - the vertebrae cracking in protest - and walked to the whiteboard. He'd drawn a diagram at the center, a rough architectural sketch based on corporate documents and technical papers and educated guesses. At the top: Prometheus Systems, the parent. Below it, branching down like an organizational chart: subsidiary companies, licensing agreements, white-label partnerships. Each branch led to a different industry: healthcare, hiring, labor management, financial services, criminal justice.
 
@@ -30,7 +29,6 @@ He'd waited. He'd died.
 Elena hadn't written it that starkly, but that was the chain of causation she documented. A human being reduced to data points, sorted by an algorithm, assigned to a category that meant less care rather than more. And the algorithm had learned from millions of such decisions, optimizing for outcomes that looked like efficiency but felt like triage.
 
 
----
 
 Jerome pulled up Yusuf's testimony next. He'd transcribed the recording himself, preferring his own notation to automated transcription. Yusuf's words filled seven single-spaced pages, plus the follow-up texts about desperation and his mother's hospitalization.
 
@@ -47,7 +45,6 @@ Prometheus Systems provided the core AI. They licensed it to partners, deployed 
 The realization crystallized slowly, as realizations often did. Not a sudden flash but a gradual assembly, pieces clicking into place like a lock opening.
 
 
----
 
 Denise appeared in the doorway. She was wearing her robe, her hair disheveled from sleep, her expression a mixture of concern and frustration that Jerome knew too well.
 
@@ -86,7 +83,6 @@ Denise was quiet for a moment. "That sounds like a designed defense."
 Jerome looked at his whiteboard, his documents, his assembled evidence of something too big to see clearly. "I keep documenting. I keep connecting. And I find the story that makes people care."
 
 
----
 
 Denise touched his shoulder, let her hand rest there for a moment. The gesture said what words couldn't: I support you, I worry about you, this is who you are.
 
@@ -107,7 +103,6 @@ Jerome didn't know. He suspected the answer was complicated, situated, dependent
 He sat down at his desk and began to write.
 
 
----
 
 The words came slowly at first, then faster. Not the final article - he wasn't ready for that yet - but notes, synthesis, an attempt to articulate what he was seeing.
 
@@ -130,13 +125,12 @@ The night lightened toward dawn. The documents waited. The whiteboard held its w
 Jerome kept working.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The children were asleep. Lucas in his room with the nightlight on, Sofia in hers with the door cracked open, both of them oblivious to what their mother was about to do. Daniel was in Tucson for a three-day job, his absence a relief tonight rather than a worry. Elena sat at the kitchen table with her tablet in front of her, the document package ready, the send button waiting.
 
@@ -153,7 +147,6 @@ But Roberto was dead. And others might follow, were probably already following, 
 Elena pressed send.
 
 
----
 
 The screen showed "Message Sent." The package was gone, traveling through encrypted channels, beyond her reach now. Whatever happened next was set in motion.
 
@@ -180,7 +173,6 @@ Elena felt something shift in her chest. Confirmation. Validation. The sense tha
 "I thought it might be connected," she said. "The architecture seemed too sophisticated for a standalone healthcare application."
 
 
----
 
 "It's not standalone," Jerome said. "Prometheus builds a core prediction engine and licenses it across industries. Healthcare, hiring, labor management - they're all running on the same infrastructure. What you've documented isn't an isolated case. It's one manifestation of a system that's sorting people across every domain of their lives."
 
@@ -211,7 +203,6 @@ Elena looked out at the Phoenix night. Somewhere in Baltimore, Jerome was sittin
 "I don't know. Months, maybe. As long as it takes to do this right."
 
 
----
 
 They talked for an hour. Jerome explained his investigation - the web of corporate structures, the technical architecture, the connections he was mapping. Elena described what she saw daily at the clinic - the patients sorted, the recommendations followed, the way staff had been trained to trust the algorithm over their own judgment.
 
@@ -242,13 +233,12 @@ It was also, for the first time in months, something like hope.
 She finished her cold tea and went to bed, but sleep was a long time coming.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The deployment review meeting started at 10 AM in Conference Room 7C, a space designed for collaboration that felt more like a war room. Twelve people around a long table, laptops open, screens displaying metrics and projections. Kevin Zhou sat near the end, his new badge - the one with the additional clearance stripe - visible against his shirt.
 
@@ -269,7 +259,6 @@ Raj nodded. "The ethics team is reviewing. Sarah Lin's group made some model adj
 Within acceptable parameters. Another phrase for the notebook. Kevin Zhou thought about Elena Varga, the nurse he didn't know, documenting the same system from the other side. He wondered what she would think of acceptable parameters.
 
 
----
 
 The meeting continued. WorkFlow deployments next - the labor management system that Kevin Zhou now understood managed millions of gig workers across the country. The metrics here were different: task completion rates, worker retention, what they called "behavioral compliance scores."
 
@@ -296,7 +285,6 @@ Kevin Zhou nodded. He was doing his job. He was being a good engineer, a valuabl
 He was also documenting everything he heard, storing it in encrypted files that no one at Prometheus knew existed.
 
 
----
 
 The meeting ended at noon. Kevin Zhou gathered his laptop, his notebook, the badge that marked him as trusted. He walked out of the conference room into the corridor that connected the clean room facility to the main campus.
 
@@ -325,7 +313,6 @@ Maybe she was a true believer, like Dr. Lin. Maybe she'd convinced herself that 
 Or maybe she was like him. Watching. Documenting. Waiting for something she couldn't yet name.
 
 
----
 
 That evening, at home, Kevin Zhou added to his documentation. The meeting notes, the phrases that mattered, the connections he was beginning to see.
 
@@ -350,13 +337,12 @@ Maybe that was enough. Maybe witness required witnesses, plural. Maybe the isola
 Kevin Zhou turned off the lights and went to bed, carrying the weight of what he knew into dreams that offered no resolution.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The waiting room of the Hennepin County Community Clinic was designed for volume, not comfort. Plastic chairs bolted to the floor in rows. Fluorescent lights that buzzed at a frequency just below conscious awareness. Magazines years out of date, as if anyone came here to read. A television mounted high on the wall, playing news that no one watched.
 
@@ -371,7 +357,6 @@ The waiting room was full. He looked around, cataloguing the other patients, the
 What they had in common: they were here because this was what they could afford. The community clinic served people without insurance, people with inadequate insurance, people for whom the American healthcare system was an obstacle course designed to exhaust them into giving up.
 
 
----
 
 Behind the intake desk, Yusuf could see a computer screen - not the details, just the glow of it, the way the intake staff interacted with it. A patient would approach, give their name, answer questions. The staff member would type, wait, read something on the screen, type again. Then the patient would be assigned a number, directed to wait, their place in the queue determined by something they couldn't see.
 
@@ -390,7 +375,6 @@ The examination room was small, clinical, the same as every examination room Yus
 "The doctor will be with you shortly," the nurse said, and left.
 
 
----
 
 They waited. Yusuf's mother closed her eyes again, conserving energy. The minutes ticked past - five, ten, fifteen. Yusuf looked at his phone, thought about texting Jerome, decided against it. What would he say? I'm in a waiting room, watching my mother wait, thinking about your investigation.
 
@@ -411,7 +395,6 @@ Reduce stress. Yusuf wanted to laugh. His mother worked two jobs, worried about 
 But he said nothing. The doctor was trying to help, within the constraints of a system that made help almost impossible.
 
 
----
 
 They left the clinic with prescriptions refilled, another appointment scheduled, the chronic condition neither better nor worse than before. Halima walked slowly to the car, Yusuf matching her pace, the afternoon sun warm on their faces.
 
@@ -442,13 +425,12 @@ Maybe that was enough. Maybe witness was its own form of action.
 He held onto the thought as the city passed by outside, ordinary and endless, waiting for whatever came next.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Later that night. The house quiet. Denise asleep, DeShawn asleep, the world reduced to Jerome and his documents and the light of his laptop screen.
 
@@ -467,7 +449,6 @@ He read it again. Then again.
 Eighth Oblivion. The phrase felt charged, weighted with meaning. It wasn't just corporate jargon. It was a concept - a framework - that organized everything else he'd been investigating.
 
 
----
 
 He searched through the other documents, looking for additional references. Found a handful scattered across the source files.
 
@@ -484,7 +465,6 @@ The eighth challenge. The final collapse. Prometheus wasn't just building tools 
 And the tools of salvation looked exactly like the tools of oppression.
 
 
----
 
 He stood up. Walked to the window.
 
@@ -505,7 +485,6 @@ The investigation had a shape now. Not just the corporate connections, not just 
 The cracks he'd been documenting weren't random. They were features of a design.
 
 
----
 
 Dawn came slowly. Jerome watched it through the window - the sky lightening by degrees, purple to rose to gold. The city woke around him, traffic beginning to move, lives resuming their ordinary patterns.
 
@@ -530,7 +509,6 @@ Jerome turned from the window. He had work to do.
 Part 2 ended at this threshold: the cracks fully exposed, the shape of the crisis visible at last. Part 3 would bring the tremors.
 
 
----
 
 
 

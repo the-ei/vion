@@ -13,7 +13,6 @@ Ruth made a note on the index card in front of her - handwritten, the way she ha
 "Who else should I talk to?" Ruth asked.
 
 
----
 
 Harold gave her three names. She spent the rest of the afternoon working through them, each call building on the last, the network revealing itself through use. Margaret Okafor, now teaching at Stanford Law, had heard similar rumors about the SEC's parallel investigation. Jonathan Wu, still on the D.C. Circuit, spoke carefully but confirmed that colleagues at Justice had expressed frustration with what he called "institutional resistance to resolution." Priya Sharma, who consulted for the FTC, described a pattern of evidence requests that seemed designed to produce delay rather than illumination.
 
@@ -24,7 +23,6 @@ The pattern was consistent. Multiple agencies, multiple investigations, the same
 Ruth stood up from her desk, walked to the window, looked out at her garden where Susan's roses were beginning their spring bloom. The beauty felt like mockery.
 
 
----
 
 She called two more people that evening, pushing past the ordinary limits of social contact, the urgency overriding her usual respect for boundaries. Martin LeBlanc, who had been the Senate Judiciary Committee's chief counsel during her testimony, confirmed that the committee had received regular updates on investigation progress - updates that, now Ruth thought about it, had said very little while appearing to say a great deal. And Claire Dubois, an old friend from law school who had spent thirty years in various regulatory agencies, described the mechanism with the precision of someone who had seen it before.
 
@@ -37,7 +35,6 @@ She called two more people that evening, pushing past the ordinary limits of soc
 The answer to that question was obvious. The companies whose practices had been exposed, whose power had been momentarily threatened, who had emerged from the crisis not only intact but stronger.
 
 
----
 
 Ruth made dinner without tasting it - something from the freezer, reheated, eaten standing at the kitchen counter. The house felt larger than usual, emptier. Susan's absence was always present, but tonight it felt more acute, the particular loneliness of carrying difficult knowledge without anyone to share it with.
 
@@ -48,7 +45,6 @@ Instead, Ruth returned to her study, to the index cards spread across her desk l
 Her phone lay silent on the desk. She thought about calling Jerome Washington, the journalist she had met at the book launch in D.C. He was investigating the same territory from a different angle. But it was late, and she was not ready to share what she had learned. Not until she understood it better herself.
 
 
----
 
 At midnight, Ruth finally stopped. Her eyes burned from reading her own handwriting, from the strain of making connections across conversations that had been carefully vague. She had enough information to know that something was deeply wrong. She did not have enough to prove it publicly, to present to a grand jury, to publish in a newspaper. The gap between knowing and proving felt unbridgeable.
 
@@ -63,5 +59,4 @@ The evidence was circumstantial. The pattern was clear. Tomorrow she would decid
 Tonight she stood in her study and felt the weight of everything she had learned pressing against everything she had believed.
 
 
----
 

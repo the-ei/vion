@@ -7,7 +7,6 @@ The room held a hundred and fifty people, give or take. He recognized perhaps ha
 Victor Okonkwo took the small stage near eight o'clock. He was Nigerian-British, educated at Oxford and Stanford, the kind of resume that opened doors in any room. He had built and sold two companies before turning to conference organizing, which he treated as a form of institutional architecture.
 
 
----
 
 "Thank you all for being here," Victor began, his voice carrying the confidence of someone who had never doubted his welcome. "Nine months ago, we faced a reckoning. The systems we built revealed vulnerabilities we hadn't anticipated. The public asked hard questions. Our industry had to respond."
 
@@ -15,7 +14,7 @@ Kevin sipped his whiskey and watched the room react. Nods of sober agreement. Th
 
 "Tonight is not about celebration," Victor continued. "It's about commitment. Commitment to the frameworks we've developed. Commitment to the partnerships we've forged. Commitment to a future where innovation and responsibility aren't opposing forces, but complementary ones."
 
-The speech continued for ten minutes, deploying the vocabulary of progress without ever specifying what progress meant. Victor was skilled - Kevin had to admit that. He said nothing that could be quoted against him, nothing that would offend any of the sponsors whose logos decorated the programs, nothing that would suggest the systems being discussed should fundamentally change. He said everything and nothing, a performance of significance that was actually a performance of maintenance.
+The speech continued for ten minutes, deploying the vocabulary of progress without ever specifying what progress meant. Victor was skilled - Kevin had to admit that. He said nothing that could be quoted against him, nothing that would offend any of the sponsors whose logos decorated the programs, nothing that would suggest the systems being discussed should fundamentally change. He said everything and nothing, a performance of significance that was actually a performance of maintenance, the verbal equivalent of institutional wallpaper.
 
 Applause. Kevin joined it, the reflex of participation. Around him, people returned to their conversations, energized by the speech even though - or perhaps because - it had asked nothing of them.
 
@@ -26,7 +25,6 @@ He found himself near the windows, looking out at the San Francisco skyline, whe
 "Sometimes. Depends who's asking."
 
 
----
 
 "Rachel Winters. I'm with the Federal AI Commission. The one that doesn't have any enforcement power."
 
@@ -38,7 +36,7 @@ Kevin laughed despite himself. "I've heard of you. You wrote the minority report
 
 "Do you think any of this matters? The conferences, the frameworks, the safety boards. Do you think we're actually changing anything?"
 
-The question was so direct that Kevin didn't immediately have a defense against it. He looked at Rachel Winters, at the fatigue in her face that matched his own, and found himself answering honestly.
+The question was so direct that Kevin didn't immediately have a defense against it. It was the question that lived beneath all the conference proceedings, the question everyone was carefully not asking. He looked at Rachel Winters, at the fatigue in her face that matched his own, and found himself answering honestly.
 
 "I don't know. Some days I think we're making incremental progress. Other days I think we're providing cover for systems that will do what they're designed to do regardless of our frameworks."
 
@@ -49,7 +47,6 @@ The question was so direct that Kevin didn't immediately have a defense against 
 "Because the alternative is giving up. And I'm not ready for that."
 
 
----
 
 They talked for another twenty minutes, comparing notes on the failures they had witnessed, the hopes they had abandoned, the compromises they had made. Rachel Winters was one of the genuinely thoughtful people in the room - a believer in government's capacity to act who had watched that capacity be systematically dismantled. She knew more than Kevin did about the political obstacles to regulation. She knew enough to be permanently frustrated.
 
@@ -61,10 +58,9 @@ They talked for another twenty minutes, comparing notes on the failures they had
 
 She left to make more rounds. Kevin stayed at the window, his second whiskey warming in his hand, watching the party continue. The conversations around him had the quality of performance - animated gestures, laughter that was slightly too loud, the display of connections being made and maintained. This was how power worked. Not in the panels and the speeches, but in the rooms afterward, in the relationships that determined who got funded, who got hired, who got heard.
 
-He was part of it now. His startup, his credibility, his very presence here - all of it made him complicit in a system he had spent years criticizing. The criticism had become his product. The product had made him rich. The riches had brought him into the room.
+He was part of it now. His startup, his credibility, his very presence here - all of it made him complicit in a system he had spent years criticizing. The criticism had become his product. The product had made him rich. The riches had brought him into the room. And the room, with its careful conversations and strategic warmth, had closed around him like a trap that felt like a reward.
 
 By ten o'clock, Kevin had reached his limit. He set down his unfinished drink, said his goodbyes to no one in particular, and walked out into the San Francisco night.
 
 
----
 

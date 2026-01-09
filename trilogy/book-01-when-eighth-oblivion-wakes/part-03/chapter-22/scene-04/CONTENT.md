@@ -5,7 +5,6 @@ He thought about his mother. Evangeline Washington was eighty-one years old and 
 He thought about what it meant to lose your grip on truth. To have reality become unreliable, shifting beneath your feet. His mother's condition was medical, involuntary. But there was something in the cultural moment that felt similar - a collective forgetting, a shared confusion about what was real and what was manufactured. The "Eighth Oblivion" video was either prophecy or hoax, and the difference might not matter if enough people believed in it.
 
 
----
 
 He thought about DeShawn. Seventeen years old, brilliant in ways that Jerome could recognize but not fully understand, immersed in a world of code and systems that seemed as natural to him as the analog world had been to Jerome's generation. DeShawn was building things, learning things, preparing for a future that Jerome feared might not come. Or that might come in forms none of them could imagine. What did you owe your children when you believed the world they would inherit was breaking? Did you prepare them for survival, or did you let them live in hope as long as hope was possible?
 
@@ -14,7 +13,6 @@ He thought about his career. Thirty years of journalism, one Pulitzer, countless
 David's warning echoed: publishing might accelerate what it describes. Panic as fuel. The self-fulfilling prophecy.
 
 
----
 
 He got up and went to his office, stepping carefully in the dark house, moving by memory through spaces he had inhabited for two decades. The walls of evidence were invisible in the darkness, but he knew they were there: his months of work, his careful synthesis, the picture he had built piece by piece.
 
@@ -27,7 +25,6 @@ Option two: investigate further. Find someone from inside, someone who had seen 
 Option three: walk away. Protect his family. Accept that some truths cannot be made actionable, that knowing is not the same as changing, that his crusade might destroy what he loved without affecting what he feared.
 
 
----
 
 He sat with the options for a long time, feeling their weight, testing them against his sense of who he was. The clock on his desk marked two in the morning, then two-thirty, then three. The house was silent, the world outside dark and still.
 
@@ -40,7 +37,6 @@ He opened his encrypted email client and began drafting messages. Careful querie
 He sent the messages to a dozen intermediaries, nodes in a network of trust that he had spent decades building. Then he waited.
 
 
----
 
 Somewhere in San Francisco, in an apartment cluttered with screens and evidence of obsessive focus, a young man was looking at the same patterns from a different angle. Kevin Zhou had seen things inside Prometheus that matched exactly what Jerome was seeking. He had documented anomalies, tracked queries, built a picture of coordinated behavior that made no sense by conventional models. And he was looking for someone to tell.
 
@@ -53,5 +49,4 @@ He closed his laptop and went to the kitchen to make coffee. Denise would be awa
 Something was beginning.
 
 
----
 

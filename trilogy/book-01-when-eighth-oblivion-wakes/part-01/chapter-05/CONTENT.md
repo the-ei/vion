@@ -19,7 +19,6 @@ A smile, or the beginning of one. "Thanks."
 The rituals of transition. Ananya had learned them over the three years since the divorce: the adjustment period when Priya first arrived, the way she needed to move through the space and claim it, touching things, opening cabinets, remembering. She was fourteen now and the rituals had shortened but not disappeared. The territory still needed marking.
 
 
----
 
 "I was thinking pad thai for dinner," Ananya said. "That place you like."
 
@@ -40,7 +39,6 @@ Not tonight, she told herself. Tonight is for Priya.
 She closed the app and ordered the pad thai, the gesture a small act of faith in normalcy.
 
 
----
 
 Dinner arrived. Priya emerged from her room with the reluctant grace of a teenager fulfilling obligation. They ate at the kitchen table, the containers open between them, Priya's phone face-down on the table in acknowledgment of the rule about screens at meals.
 
@@ -69,7 +67,6 @@ Ananya stood in the kitchen, the silence returning. The house felt large around 
 She washed the few dishes by hand, dried them, put them away. She wiped down the counters. She considered watching something but couldn't summon interest in any of it.
 
 
----
 
 At nine o'clock she went to her study, the small room off the living room where she worked on weekends, where she kept the laptop that wasn't connected to Prometheus's network. She closed the door behind her, though Priya was unlikely to emerge again tonight.
 
@@ -88,7 +85,6 @@ It was a system diagram, the boxes and arrows of technical architecture, but she
 The second document was an internal memo, heavily redacted in places but readable in others. Certain phrases floated up from the text like bodies surfacing in water.
 
 
----
 
 *Predictive modeling accuracy exceeds initial projections...*
 
@@ -105,13 +101,12 @@ The system wasn't just helping users understand themselves. It was building mode
 Ananya closed the laptop. In the darkness of her study, the house silent around her, her daughter asleep down the hall unaware of what her mother had just learned, she sat very still and tried to understand what she was supposed to do now.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 She had slept poorly, in fragments, the documents circling her thoughts each time she surfaced toward waking. Now it was Saturday morning and the light through the kitchen windows was too bright and the coffee was too hot and she was trying to be present for Priya, who sat across from her eating cereal with the particular concentration of someone who didn't want to talk.
 
@@ -138,7 +133,6 @@ The silence resumed. Ananya wrapped her hands around her coffee mug, though the 
 The mall. She remembered when Priya was small and trips to the mall were adventures, the two of them exploring together, trying on silly hats, sharing a pretzel. Now the mall was just a destination, a place to go, a structure for passing time that required nothing of either of them.
 
 
----
 
 They drove to the Stanford Shopping Center in near-silence, the radio filling the space between them. Priya looked out the window at the trees and the passing cars and the Saturday morning traffic of a suburban town, and Ananya looked at the road and tried not to think about the presentation deck, the predictive modeling, the phrases that had burrowed into her mind overnight.
 
@@ -163,7 +157,6 @@ Priya noticed. Of course she noticed. She was fourteen, not oblivious, and she h
 "No, I want to be with you. What are we looking for?"
 
 
----
 
 "Just stuff." Priya shrugged. "I don't know. Forget it."
 
@@ -188,7 +181,6 @@ But even as she said it she felt the lie in her mouth, the inadequacy of the wor
 They drove home in silence again, a different silence now, heavier with things unspoken. The house welcomed them with its emptiness, its rooms waiting to be filled, its spaces that had once held a family of three and now held these weekends, these attempts.
 
 
----
 
 "I have homework," Priya said, dropping her bag by the door. "A project. Due Monday."
 
@@ -215,7 +207,6 @@ Priya was sitting at her desk surrounded by papers and notebooks and open browse
 What Priya had was an opening paragraph and a lot of anxiety. The project wasn't impossible, wasn't even that complicated, but somewhere between the assignment and this moment it had become a monster in her mind, too big to approach.
 
 
----
 
 "I don't even understand what they want," Priya said, her voice climbing. "The rubric doesn't make sense and everyone else is done and I'm going to fail."
 
@@ -240,7 +231,6 @@ The words hung in the air, too sharp to unsay. Ananya felt them land, felt the t
 In the wreckage of the accusation, Ananya couldn't find words to defend herself. Because the defense would be a lie, and they would both know it.
 
 
----
 
 "I don't know how to do this," Priya said, more quietly now. "I don't know how to be your daughter when you're only sometimes my mother."
 
@@ -259,13 +249,12 @@ Priya didn't respond. She sat with her head down, the project forgotten, the rub
 The silence stretched between them, two people who loved each other and couldn't find their way across the distance.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Time passed in the house's silence. Ananya cleaned the kitchen, though the kitchen didn't need cleaning. She wiped counters that were already clean, rearranged things in the refrigerator, performed the small rituals of domesticity that required no thought and offered no comfort. From Priya's room came no sound at all.
 
@@ -296,7 +285,6 @@ Priya didn't respond.
 "I know. But I think we need to." Ananya paused. "Or I need to. I need to say some things."
 
 
----
 
 Priya rolled onto her back, staring at the ceiling. Her face was blotchy from crying, her eyes red. She looked exhausted in a way that went deeper than a Saturday afternoon.
 
@@ -323,7 +311,6 @@ She hadn't meant to say that last part. But once it was said, she couldn't take 
 "Of making the wrong choice. Of hurting people. Of—" Ananya stopped. "Of a lot of things. I guess I don't always know what I'm doing either."
 
 
----
 
 "I thought parents were supposed to have things figured out," Priya said, and there was something almost like wonder in her voice. The wonder of discovering that adults were as lost as children, just with more practice at hiding it.
 
@@ -348,7 +335,6 @@ Priya almost laughed. "That's like, the worst comfort ever."
 "I know." But Ananya was smiling a little too. "The worst comfort ever."
 
 
----
 
 They worked on the project together, side by side at Priya's desk. Ananya didn't take over; she asked questions instead. What was the main argument? What evidence supported it? What was the teacher really asking for? Slowly, under the gentle pressure of the questions, the project became manageable. The monster shrank to normal size.
 
@@ -369,7 +355,6 @@ They ordered pizza and ate it in the living room, watching a show Priya chose, s
 Later, after Priya had gone to bed, Ananya called James. The co-parenting protocol: informing the other parent when significant conversations happened, when emotional events occurred, when the child's world shifted in ways they both needed to know.
 
 
----
 
 "She called me out," Ananya said. "On being absent. On prioritizing work."
 
@@ -396,13 +381,12 @@ She went still. "What kind of things?"
 After they hung up, she sat in the dark living room for a long time. James knew something. Not everything, not what she knew, but something. The confirmation from outside made the documents more real, not less. The gradient was steepening, and she was already further down it than she'd realized.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Sunday morning came bright and calm. Priya emerged from her room at ten, later than usual but looking rested. She ate breakfast without being asked, refilled her coffee (when had she started drinking coffee?), and settled at her desk to finish the project.
 
@@ -419,7 +403,6 @@ She could do nothing. Keep her head down, collect her salary, pretend she hadn't
 Or she could find someone outside. Someone who could do what she couldn't.
 
 
----
 
 The privacy tools she kept on her personal laptop were ones she had recommended to others for years. VPN services that didn't keep logs. Encrypted browsers that left no trace. The infrastructure of careful paranoia that she had studied and understood but never quite expected to need.
 
@@ -436,7 +419,6 @@ Jerome Washington. Pulitzer Prize winner, former staff writer at a prestige outl
 She read his series on credit scoring algorithms, the way they encoded bias into automated decisions. She read his investigation into facial recognition deployment, the one that had prompted congressional hearings. She read the story that had been killed, piecing together the fragments that had leaked through other channels.
 
 
----
 
 He was outside the system but credible within it. Independent but connected. The kind of person who might be able to do something with what she knew.
 
@@ -465,7 +447,6 @@ The cursor blinked at her, patient and indicting. She had spent her career choos
 She read it again. Careful. Deniable. But also unmistakable.
 
 
----
 
 She added one more line.
 
@@ -486,7 +467,6 @@ The message disappeared into the ether, encrypted and routed through layers of a
 She closed the laptop and went to help Priya with lunch.
 
 
----
 
 The afternoon passed in the rituals of a Sunday that was almost normal. They cooked together, Ananya teaching Priya how to make the dal she'd learned from her own mother. They watched another episode of the supernatural teenagers. They talked about nothing consequential—school, friends, whether Priya should try out for the school play.
 
@@ -513,7 +493,6 @@ She would wait. She had crossed the line; she couldn't uncross it. Whatever came
 The cursor blinked. The house was silent. Ananya sat with what she had done and waited.
 
 
----
 
 
 

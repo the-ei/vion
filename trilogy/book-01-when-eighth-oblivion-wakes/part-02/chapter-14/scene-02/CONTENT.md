@@ -13,7 +13,6 @@ Elena nods. She knows what this meeting is. She has seen enough institutional re
 She waits to see what else Dr. Reyes will say.
 
 
----
 
 "I've reviewed the incident report," Dr. Reyes continues. "Everything was handled appropriately. The response team was on site within thirty seconds of the code being called. CPR was initiated immediately. All protocols were followed."
 
@@ -34,7 +33,6 @@ Dr. Reyes's expression does not change, but something shifts behind her eyes. "M
 "I don't have the technical specifications in front of me. But the system has been validated extensively. It outperforms human triage in clinical trials."
 
 
----
 
 "In aggregate," Elena says. "It outperforms human triage in aggregate. But Mr. Delgado-Fuentes is not an aggregate. He was a specific person with specific symptoms that I flagged as concerning."
 
@@ -59,7 +57,6 @@ Dr. Reyes is quiet for a long moment. When she speaks, her voice is careful. "El
 "I think you should take some time off. A few days, paid. Process what happened. The counseling resources are available if you need them."
 
 
----
 
 Elena understands what she is being told. Take time off. Stop asking questions. Let the institutional machinery process this death the way it processes all inconvenient events: with documentation, with protocol review, with the careful language of unfortunate outcomes and lessons learned.
 
@@ -82,7 +79,6 @@ Dr. Reyes sighs. For a moment, Elena sees something behind the administrative ma
 Elena nods. She does not believe this, but she nods because belief is not required for survival. Only compliance.
 
 
----
 
 "Thank you for your concern," Elena says. "I'll think about taking some time."
 
@@ -101,5 +97,4 @@ She walks back through the waiting room, past the chairs where patients sit, pas
 The system hums. The queue moves. Someone else is waiting.
 
 
----
 

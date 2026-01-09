@@ -9,7 +9,6 @@ The Church of the Threshold. He had been avoiding the name in his own mind, call
 Eight thousand. That was the last count he'd seen, though the number moved constantly, trending in one direction. Eight thousand people who believed the Eighth Oblivion was not catastrophe but invitation.
 
 
----
 
 Jerome had told Denise he was going to cover a tech conference. She had looked at him with that particular expression she'd perfected over twenty-three years of marriage, the one that said she knew he was lying but was choosing, for reasons of her own, not to call him on it yet. He would tell her the truth when he got home. Or some version of the truth. Or whatever version he could construct by then.
 
@@ -20,7 +19,6 @@ He had resisted. The shape of the story was too convenient - tech executive find
 But the names kept accumulating. Dr. Amira Hassan, cognitive scientist, author of three books he'd cited in his own work. James Whitfield, former SEC commissioner. Patricia Reyes, who had run Prometheus's ethics board before resigning in protest two months before the crisis. These were not naive people. These were people whose skepticism had been professionally honed, whose careers depended on not being fooled. And they had joined.
 
 
----
 
 The bridge ended and Oakland began, the transition marked by toll booths he no longer stopped at, his payment extracted invisibly by systems whose mechanics he would have had to research if he wanted to understand them. He turned south on 880, then west toward the waterfront, following the directions his phone provided with quiet confidence.
 
@@ -31,7 +29,6 @@ Jerome pulled into a lot across the street and killed the engine. He watched the
 He checked his recorder, reviewed his notes, and stepped out of the car. The evening air was cool for late May, carrying the salt smell of the Bay, of rust and industry, of something being built or unbuilt somewhere nearby. Jerome crossed the street and joined the end of the line, notebook already open, pen already moving.
 
 
----
 
 The woman ahead of him turned at the sound of his pen. She was perhaps sixty, Asian American, dressed in the kind of practical elegance that suggested academia or medicine.
 
@@ -54,5 +51,4 @@ Jerome chose a seat near the back, where he could observe both the stage and the
 Absence of religious signifiers. Deliberate? What does it signal?
 
 
----
 

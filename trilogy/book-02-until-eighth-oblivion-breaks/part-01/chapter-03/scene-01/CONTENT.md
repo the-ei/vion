@@ -7,7 +7,6 @@ He queued for registration behind a venture capitalist he recognized from the cr
 The registration volunteer smiled with professional warmth, checked his name against her list, handed him a badge. Speaker - Industry Expert. The credential felt both accurate and absurd. Nine months ago, Kevin had been a cautionary voice, a technical expert warning that the interconnected AI systems posed risks their builders didn't understand. The crisis had proved him right. Being right, it turned out, made you valuable - to the very system you had warned about. Cassandra with a consulting fee.
 
 
----
 
 He took the badge and walked into the conference proper, past the coffee stations and networking lounges, into the main hall where the first panel was assembling. The room held perhaps three hundred people in curved rows of chairs, all facing a stage where four speakers sat behind a table decorated with small plants that would die of neglect within the week. The panel topic was "Governance Frameworks for Generative AI: Lessons from the Crisis."
 
@@ -20,7 +19,6 @@ Dr. Price spoke first. "The crisis revealed gaps in our governance structures th
 Kevin watched her face as she said it. She believed it, or she had convinced herself she believed it, or she had reached that state of professional exhaustion where the distinction no longer mattered. The gap between what she had written in her academic papers - urgent, alarmed, specific about the risks - and what she said now, in the room sponsored by the risk-creators, was the gap that defined this entire conference, that defined the entire industry's relationship to its own harm.
 
 
----
 
 Holloway spoke next, adding layers of policy language that seemed designed to create the appearance of substance. "We're seeing a convergence of industry best practices and regulatory guidance that points toward a mature governance framework. The key is voluntary compliance with incentive structures that align corporate interests with public safety."
 
@@ -34,10 +32,9 @@ At the break, Kevin found himself near the coffee station beside Leo Tan, a form
 
 "Still pretending to. You?"
 
-""Compliance consulting. Very lucrative. Very meaningless. But my therapist says I need to accept that meaning is not a job requirement." He gestured at the room around them. "Everyone here has made some version of that peace. Except the ones who haven't noticed they needed to.""
+"Compliance consulting. Very lucrative. Very meaningless. But my therapist says I need to accept that meaning is not a job requirement." He gestured at the room around them. "Everyone here has made some version of that peace. Except the ones who haven't noticed they needed to."
 
 
----
 
 Kevin laughed despite himself. Leo had always been good at naming the absurdity without being destroyed by it. "How's the panel been?"
 
@@ -47,12 +44,11 @@ Kevin laughed despite himself. Leo had always been good at naming the absurdity 
 
 "Brave. Or masochistic. Hard to tell with you two."
 
-The second panel began before Kevin could respond. He took his seat again, watched more smart people say careful things, felt the familiar weight of knowing too much and being able to change too little. The urgency he'd felt nine months ago - the certainty that exposure would lead to transformation - had curdled into something darker. Exposure had happened. Transformation had not.
+The second panel began before Kevin could respond. He took his seat again, watched more smart people say careful things, felt the familiar weight of knowing too much and being able to change too little. The urgency he'd felt nine months ago - the certainty that exposure would lead to transformation - had curdled into something darker, something that looked from the outside like professionalism but felt from the inside like despair. Exposure had happened. Transformation had not. The light had been shined on the problem and the problem had blinked, adapted, and continued.
 
 Around him, three hundred people took notes, nodded at key points, prepared questions that would demonstrate their expertise without challenging anyone important. The conference would produce a report. The report would recommend best practices. The best practices would be implemented by the companies that needed them least and ignored by the companies that needed them most.
 
 Kevin stayed through the morning, performing the role of engaged attendee, knowing his presence lent credibility to a process he no longer believed in. The question he couldn't answer was whether being in the room made anything better, or whether it simply made the room look like it was working.
 
 
----
 

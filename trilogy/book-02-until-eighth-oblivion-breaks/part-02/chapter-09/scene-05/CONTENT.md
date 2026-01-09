@@ -15,7 +15,6 @@ He sat on the small couch in her study, the one he'd bought for exactly these la
 So he told her. The warehouse, the gathering, the testimonies. Nathaniel Crane and his impeccable credentials, his extraordinary claims, his offer of evidence. The drive, now in his coat pocket, waiting to be examined.
 
 
----
 
 Denise listened without interrupting, which was her way. When he finished, she was quiet for a long moment.
 
@@ -40,7 +39,6 @@ Denise removed her glasses, rubbed her eyes. The gesture of someone who has been
 "What do you mean?"
 
 
----
 
 "I've heard you talk about hundreds of stories," Denise said. "Financial fraud, political corruption, corporate malfeasance. You're always engaged, always precise, but there's a distance. The journalist's distance. Professional investment without personal stakes in the outcome."
 
@@ -61,5 +59,4 @@ Denise rose from her desk and sat beside him on the small couch. She took his ha
 "You're a man who cares about truth. Sometimes truth doesn't arrive in verified documents. Sometimes it arrives in questions you can't stop asking."
 
 
----
 

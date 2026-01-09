@@ -5,7 +5,6 @@ Clarity. That is what they call the project, though the name came from marketing
 He finds the bug. It is in the way temporal weighting is applied to recent inputs - the function was treating all signals as equally relevant when it should decay interest in older patterns. He fixes it in four lines. Watches the tests run green. Feels the particular satisfaction that comes from making something work, something real, something that will matter.
 
 
----
 
 The refrigerator hums when he opens it. Energy drinks lined up like soldiers, the green cans he buys in bulk, their chemical sweetness something he no longer tastes but needs. He cracks one open standing in the cold light, drinks half in long swallows, feels the caffeine as promise more than effect. Back to the desk. Back to the screens.
 
@@ -16,7 +15,6 @@ Slack notification: Dmitri is awake, working on the frontend components, asking 
 He returns to the codebase, opens a new file. There is more to do.
 
 
----
 
 The work is beautiful. He has never said this aloud, knows how it would sound, but in the quiet of these hours he can admit it to himself. The way the system's architecture unfolds, each component connected to the others with a kind of crystalline logic. Data flows in through the input layer - purchase histories, browsing patterns, social media interactions, location data, a hundred streams of digital exhaust that most people never consider - and the model processes it, finds the patterns, learns to predict what this particular human will want next. Not to manipulate. That is what Kevin Zhou tells himself. To illuminate. To hold up a mirror made of data and show people who they really are.
 
@@ -27,7 +25,6 @@ The thought surfaces and he pushes it down, a practiced motion. Except that illu
 He takes another drink of the energy drink, now warm, and focuses on the function in front of him. The temporal weighting fix has downstream effects he needs to trace. There is always more to do. This is the gift of engineering: the problems are endless, and the solutions are clean, and you can always be productive even when you cannot be present. Even when you cannot sleep. Even when the apartment is empty and the city is dark and the only thing that feels real is the cursor blinking on the screen.
 
 
----
 
 Four in the morning. His eyes burn and he blinks, rubs them, knows he should stop but does not want to. The work is almost at a stopping point. Just one more function. Just one more test suite to verify. The familiar bargaining with exhaustion, the negotiations he always loses because the work always wins.
 
@@ -40,7 +37,6 @@ He stands, finally, the chair rolling back. Stretches his back, his neck, feels 
 The thought is not sad. It is just true. He returns to his desk.
 
 
----
 
 Dawn comes gray through the window, the fog having won its nightly battle with the city. Kevin Zhou has been coding for nearly six hours straight, and the fatigue is a physical thing now, a weight behind his eyes, a slowness in his hands. He saves his work, pushes the final commits to the repository, watches the build pipeline begin its automated checks. Good. Done. Or done enough.
 
@@ -51,7 +47,6 @@ The Slack channel is quieter now. Dmitri signed off an hour ago; Lakshmi mention
 He should sleep. He knows this. The body has requirements that cannot be indefinitely negotiated. But the bed seems far away, and the couch is right here, and he can close his eyes for just a moment while he waits for the food.
 
 
----
 
 He wakes to his phone buzzing. The food has arrived. The timestamp says 6:47 AM, which means he slept for twenty minutes on the couch, his neck at an angle that he will regret for the rest of the day. He retrieves the bag from outside his door - the hallway empty, no sign of the delivery driver, the transaction complete and anonymous - and brings it inside to eat standing at the kitchen counter.
 
@@ -62,5 +57,4 @@ After he eats, he will shower. After he showers, he will sleep for three or four
 The sun has risen fully now, the fog burning off, the city resolving outside his window. San Francisco in late October, the season that isn't a season, temperatures that never commit. Kevin Zhou finishes his coffee, sets the cup in the sink, and goes to shower. The code will be there when he returns. The code is always there.
 
 
----
 

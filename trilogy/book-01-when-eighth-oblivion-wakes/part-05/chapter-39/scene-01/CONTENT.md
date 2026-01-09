@@ -7,7 +7,6 @@ She had accepted this trip because the invitation came from people she respected
 The plane touched down with the familiar jolt of contact with ground, and Ruth gathered her things, preparing to enter a city she knew well but no longer fully recognized.
 
 
----
 
 The car service picked her up at arrivals, a young man in a dark suit holding a sign with her name. She climbed into the backseat and watched the familiar route unfold: the George Washington Parkway, the bridge across the Potomac, the Capitol dome emerging against the winter sky. It was late afternoon, the sun already low, the buildings casting long shadows across the National Mall.
 
@@ -18,7 +17,6 @@ Six years since the cancer took her. Six years of learning to think without the 
 The hotel was near Capitol Hill, one of those anonymous places that served the infrastructure of government: lobbyists and consultants and the endless parade of people who came to Washington believing they could change something and left having been changed themselves. Ruth checked in, took her bag to a room that looked like every other room she had stayed in, and stood at the window looking out at the city Susan had loved and hated in equal measure.
 
 
----
 
 Why had they summoned her? The question had been circling her mind since the invitation arrived, since she had agreed against her better judgment, since she had booked the flight that brought her back to a city she had been avoiding for years. They wanted her credibility, presumably—the weight that her name carried, the imprimatur of judicial experience applied to questions that had no judicial answers.
 
@@ -31,7 +29,6 @@ She did not feel wise. She felt old, and tired, and uncertain whether any of the
 The window showed her the Capitol in the distance, its dome lit against the darkening sky. When she had first come to Washington, that dome had seemed like a promise: the physical embodiment of a constitutional order that had survived for centuries and would continue to survive. Now she was not sure what it promised. The order she had devoted her life to understanding and defending might be facing something it was not designed to handle.
 
 
----
 
 Ruth unpacked her overnight bag—she had brought only what she needed, having learned long ago that Washington consumed as much time as you gave it—and settled into the room's single armchair with her laptop. The schedule for tomorrow was dense: meetings with committee staff in the morning, a working lunch with a think tank, an afternoon session with officials from the executive branch. Each group wanted something from her, wanted her to lend her reputation to their positions, wanted to leave the meetings able to say that Ruth Abramson had been consulted.
 
@@ -44,7 +41,6 @@ Now Ruth was alone with her own assessments, and she was not sure she trusted th
 She closed the laptop and looked out the window at the night gathering over the city. Tomorrow she would perform expertise. Tonight she would sit with her uncertainty.
 
 
----
 
 She ordered room service because she did not have the energy to go out, because the restaurants she remembered from her Washington years had probably been replaced by new ones she would not recognize, because eating alone in public had become unbearable since Susan died. The meal arrived on a cart, and she ate at the small desk by the window, watching the lights of the city, thinking about the conversations she would have tomorrow.
 
@@ -59,7 +55,6 @@ She did not have answers. She was not sure anyone did. But tomorrow she would si
 She finished her meal and prepared for bed, and the city continued to hum outside her window, indifferent to her doubts.
 
 
----
 
 The bed was comfortable in the way hotel beds were comfortable: adequate, anonymous, designed for rest rather than belonging. Ruth lay in the darkness and thought about the journey that had brought her here, the decades of work, the cases argued, the opinions written, the life built around the belief that law could make the world more just.
 
@@ -74,5 +69,4 @@ But Susan was gone, and Ruth was here alone, and tomorrow she would have to find
 She closed her eyes and let the hotel's artificial silence wrap around her, and eventually she slept, her dreams filled with monuments and documents and the face of someone she would never see again.
 
 
----
 

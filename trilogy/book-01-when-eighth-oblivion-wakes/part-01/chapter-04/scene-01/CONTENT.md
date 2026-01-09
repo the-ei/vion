@@ -9,7 +9,6 @@ The clinic is a community health center in downtown Los Angeles, chosen for its 
 HealthBridge. The name came from marketing, not medicine. Delphine knows this because she knows how names work.
 
 
----
 
 Between setups, Delphine checks her phone. Jessie has texted a photo of Theo eating breakfast, cereal spilled on the table, his grin enormous. The image punctures the day, reminding her that somewhere beyond this clinic there is a life she lives, a family she belongs to. She types back a heart emoji, then pockets the phone. Work mode. She cannot afford to be anywhere but here.
 
@@ -18,7 +17,6 @@ The morning unfolds in the rhythms of production. They shoot B-roll of the clini
 And this is the tension Delphine carries, the one she has learned to hold without examining: the footage is real, the care is real, the patients are real people receiving real help. But the frame around it is constructed, chosen, designed to produce an emotional response that serves purposes she has not fully traced. Who funded HealthBridge? A consortium of foundations, technology companies, healthcare providers. What do they want from this content? Brand positioning, public relations, the warm glow of doing good while doing well. The mission and the money are braided together so tightly that Delphine cannot say where one ends and the other begins.
 
 
----
 
 Lunch is catered sandwiches eaten standing in the parking lot, the crew scattered among equipment cases and cable runs. Delphine eats without tasting, reviewing the morning's footage on a monitor, making mental notes about what they still need. The afternoon will bring the interview with Elena Rodriguez, the centerpiece of the video, the human story that anchors all the institutional imagery.
 
@@ -31,7 +29,6 @@ The afternoon location is Elena Rodriguez's apartment, a small unit in a buildin
 It is a good story. This is what makes it complicated. The story is true - Elena's health has improved, her quality of life has increased, the program has made a real difference in her real life. And yet Delphine knows that this story, told this way, in these images, will serve purposes beyond Elena's wellbeing. The footage will be distributed through channels that track engagement. The engagement will be monetized. The monetization will fund more initiatives, or more marketing, or both.
 
 
----
 
 Elena Rodriguez's apartment is small and immaculate. Delphine can see immediately that Elena has cleaned for the cameras, arranged things just so, the particular anxiety of being watched visible in every careful placement. A photograph of grandchildren on the dresser, positioned to be seen. A vase of flowers that were probably not there yesterday. The effort of presentation, the labor of being rendered.
 
@@ -46,7 +43,6 @@ The interview begins. Elena sits in her living room chair, the one where she wat
 Elena tells her. The story is what Delphine expected - the rising costs, the difficult choices, the fear of complications - and also what she did not expect, because every story has details that cannot be predicted. Elena's husband died four years ago. Her daughter lives in Phoenix, calls on Sundays. The diabetes is not just a medical condition; it is a grief that settled into her body, a loneliness that expressed itself in blood sugar she could not control.
 
 
----
 
 Delphine listens. This is her job, or part of it - to listen with the particular attention that draws people out, that makes them comfortable enough to share what they might not share with a stranger. Elena talks about the fear of losing her vision, the fear of amputation, the statistics her doctor shared that terrified her. She talks about finding HealthBridge, the nurse practitioner who took time to explain things, the technology that made monitoring easier. Her voice catches when she describes checking her glucose on her phone for the first time, the number appearing as if by magic, the feeling that someone was finally watching out for her.
 
@@ -59,7 +55,6 @@ And Delphine also feels something else: the instinct to use this moment, to shap
 "Thank you," Delphine says. "That was beautiful. Can we do one more pass?"
 
 
----
 
 They do three more passes. Each time Elena tells the story slightly differently, the emphasis shifting, the words rearranging themselves around the same emotional core. Delphine will review the footage later, choose the best version, construct the edit that serves the video's purpose. This is the craft: taking the raw material of genuine emotion and shaping it into something consumable. The cut that makes viewers feel. The music that underscores without overwhelming. The pacing that holds attention in an age when attention is the scarcest resource.
 
@@ -74,7 +69,6 @@ Elena nods. "I hope so. I hope it helps someone else like me."
 Delphine believes this. She also knows that help is not the only thing the video will do - that it will also serve as marketing, as brand content, as a vector for engagement in the attention economy that funds everything. The help and the marketing are fused together. She cannot extract one from the other. She is not sure anyone can.
 
 
----
 
 The drive back to the production office takes forty-five minutes through Los Angeles traffic. Delphine sits in the passenger seat while Maya drives, reviewing the day on her phone, approving social media posts, answering emails that cannot wait. The sun is setting over the city, the particular orange-pink light that makes everything look like a movie, and she barely notices because she is already in the next moment, the next decision, the next frame.
 
@@ -93,5 +87,4 @@ The machine cares about me. Elena's voice echoes in her mind.
 But what, Delphine wonders, does the machine want in return?
 
 
----
 

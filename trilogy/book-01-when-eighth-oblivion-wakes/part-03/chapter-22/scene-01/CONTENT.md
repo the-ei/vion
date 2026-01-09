@@ -7,7 +7,6 @@ Today was different. Today he would attempt the synthesis.
 He called it "the overlay" in his notes. The idea had come to him three nights ago, in that liminal space between sleeping and waking when the mind makes connections the conscious brain would reject. What if he mapped the video's predictions directly onto his financial data? What if he treated the anonymous video not as conspiracy theory but as hypothesis, and tested it against observable reality?
 
 
----
 
 The video made specific claims. Jerome opened his physical notebook, pages filled with transcription and analysis, and began listing them on a fresh sheet of butcher paper:
 
@@ -24,7 +23,6 @@ Private security. His data showed a 340% increase in investment over the past tw
 Remote infrastructure. Again the correspondence was exact. Land purchases in Montana, Wyoming, New Zealand. Data center construction in Iceland and Singapore. Water rights acquisition across the American Southwest. The pattern suggested a specific geography of survival, a map of where the wealthy expected to ride out whatever was coming.
 
 
----
 
 Autonomous systems. Here the data became overwhelming. Every major technology company was pouring resources into AI development, into robotics, into systems that could operate without human intervention. Jerome's tracking showed not just research investment but infrastructure preparation: server farms, power contracts, redundant connectivity. The companies were building systems designed to survive disruptions that would cripple human-dependent operations.
 
@@ -33,7 +31,6 @@ Longevity research. The most disturbing correspondence. The video had predicted 
 By noon, the overlay was complete. Jerome stood back from his wall of evidence and felt something shift in his chest, a physical sensation of recognition and dread combined. The video's predictions and his financial data did not merely correlate. They corresponded. Point by point, sector by sector, timeline by timeline. Either the video's creators had access to the same data he did, or they knew something more fundamental about what was coming.
 
 
----
 
 He ate lunch standing up, a sandwich from the refrigerator that Denise had made before leaving for work. Ham and swiss on rye, the bread slightly stale. He barely tasted it. His mind was still moving through the implications, testing them from different angles.
 
@@ -46,7 +43,6 @@ He had flagged the company early in his investigation: a quantum computing firm 
 Jerome circled the name on his chart, then drew lines to every connection he could find. By mid-afternoon, the circle had become a web. Prometheus touched every sector the video had predicted. Security, infrastructure, autonomy, longevity. All of it.
 
 
----
 
 He sat down in his chair, finally, and stared at what he had made. The walls of his office had become a diagram of catastrophe. Not predicted catastrophe, not feared catastrophe, but positioned-for catastrophe. The wealthy were not panicking. They were not fleeing. They were investing. Rationally, systematically, with the patient precision of people who believed they knew what was coming and intended to survive it.
 
@@ -59,5 +55,4 @@ He pulled up his encrypted email client. He had sent queries to a dozen potentia
 The question was whether they would find him in time.
 
 
----
 

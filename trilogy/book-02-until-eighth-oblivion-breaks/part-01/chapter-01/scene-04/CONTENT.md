@@ -17,7 +17,6 @@ Ruth waited, hearing the muffled transition from interior warmth to exterior col
 "I know. I miss her too." But David's voice carried the miss differently than Rebecca's had - more abstract, more contained, the grief of someone who had loved Susan without needing her. Susan's death had happened to him; it had not rearranged the furniture of his daily life the way it had demolished Ruth's.
 
 
----
 
 "Tell me about work," Ruth said, because asking was easier than trying to explain her own state.
 
@@ -34,7 +33,6 @@ Ruth closed her eyes. The inn in Vermont. She and Susan had gone there every fal
 "That sounds lovely," she said, because what else could she say.
 
 
----
 
 "What about you? Still working on that article?"
 
@@ -59,7 +57,6 @@ She did not return to the op-ed.
 Instead, she walked through the house turning off lights until only the lamp in her study remained, and then she stood at the window that looked out over Berkeley and the bay, watching the fog erase the lights one by one.
 
 
----
 
 What had she believed?
 
@@ -96,5 +93,4 @@ She would teach. She would meet with colleagues. She would do the work because t
 The fog lifted. The sun rose. Another day began.
 
 
----
 

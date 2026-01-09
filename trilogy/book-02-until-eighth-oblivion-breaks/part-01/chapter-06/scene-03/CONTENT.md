@@ -7,7 +7,6 @@ The boxes were heavy. Yusuf carried them upstairs one by one, to a bedroom that 
 He opened his tool bag - the one he had assembled himself over the past year, adding tools as tasks required them, each one an investment in work the app did not recognize as skilled. Allen wrenches, a cordless drill, a rubber mallet, the small hammer he used for tight spaces. He had learned furniture assembly through trial and error, through YouTube videos watched at midnight, through the specific humiliation of failing in front of customers who assumed he would know what he was doing.
 
 
----
 
 The bed frame went together in ninety minutes. Yusuf worked steadily, sorting parts, matching screws to their diagrams, applying the silent expertise that came from doing this work over and over. The instructions were in Swedish or whatever language IKEA used, the pictures meant to be universal, the reality that some steps required knowledge the pictures did not convey.
 
@@ -18,7 +17,6 @@ The dresser was more complicated: six drawers, alignment issues, one dowel that 
 The work required everything. Patience. Precision. The physical strength to hold heavy pieces in position while fastening them. The spatial reasoning to understand how parts related. The customer service performance to make the homeowner feel served without ever interacting directly. Skills that Yusuf had developed, that made him good at this work, that the algorithm rated and paid as if anyone could do it.
 
 
----
 
 He finished at five-twenty, three hours and five minutes after he started. The homeowner signed off on the task through the app, did not look at the furniture, did not thank him. The front door closed behind him, and the fifty dollars deposited into his account, minus the platform's fifteen percent cut. Forty-two dollars and fifty cents for three hours of skilled labor, gas, and wear on his tools.
 
@@ -29,7 +27,6 @@ His phone buzzed: a mystery shopping task, a retail store in Bloomington, pay tw
 The store was a chain electronics retailer, the kind of place he could not afford to shop. His task was to pretend to be a customer, to ask about a specific television, to observe how the employee responded, to report back on their knowledge and friendliness. Surveillance labor, his role to monitor workers like himself for a company that wanted to optimize human behavior the way they optimized delivery routes.
 
 
----
 
 The sales associate was young, maybe nineteen, a kid working retail to pay for college or support his family or just survive the way everyone was surviving now. He was helpful, knowledgeable, clearly trying hard despite the late hour and the difficult customer - a role Yusuf was required to play, asking skeptical questions, pushing back on the answers, testing the kid's patience.
 
@@ -42,5 +39,4 @@ The sun was setting as he drove east, the Minneapolis skyline catching the last 
 He turned onto his street and parked behind the building, the engine ticking as it cooled, the day's work finished, the evening's obligations waiting inside.
 
 
----
 

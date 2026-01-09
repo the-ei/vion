@@ -7,7 +7,6 @@ The app is called BeatForge and he has been using it for three years, has learne
 Tonight he is working on a track that has been building in his head for weeks, ever since he noticed that the notification sounds from his gig apps had started to haunt him, appearing in his dreams, triggering his attention even when his phone was silent. He decided to use them. He decided to turn the sounds of his exploitation into art.
 
 
----
 
 He has already laid down the drums, a pattern that combines traditional percussion with the mechanical click of a turn signal, the rhythm of waiting at red lights while the countdown timer runs. Over that, he has layered the bass, a deep pulse that mimics the vibration of his phone against his thigh, the constant buzz of notification, of demand, of the algorithm asking for his attention. Now he is working on the upper frequencies, the melodic elements that will give the track its shape.
 
@@ -18,7 +17,6 @@ The GPS voice comes next. "In five hundred feet, turn left." He has recorded thi
 He works in a state that is not quite trance but is adjacent to it, his awareness narrowed to the screen and the sounds and the small adjustments that make the difference between noise and music. The world outside this moment does not exist. The car does not exist. The debt does not exist. The apps are silent because he has silenced them, because this is the one time when he controls the notifications rather than being controlled by them.
 
 
----
 
 By midnight the track has bones. He listens through once, twice, adjusting levels, catching the places where the frequencies clash and smoothing them into something that moves together. The music is strange and it is good - he knows it is good, can feel the goodness in the way the elements lock together, the way the industrial sounds of gig work become something that breathes.
 
@@ -33,7 +31,6 @@ He adds a new layer: a recording of his own breath, captured one morning when he
 His phone shows 12:47. The alarm is set for 4:45. He should sleep. He should close the app and lie down on the futon and surrender to the few hours of rest that the schedule allows. But the track is not finished and finishing it feels more important right now than sleep, more important than tomorrow, more important than the calculations that govern everything else.
 
 
----
 
 He does not share his music with anyone.
 
@@ -46,7 +43,6 @@ But something stops him. The same instinct that makes him protective of his moth
 So he keeps it. He saves the tracks under names that mean nothing to anyone but him. He listens to them in moments like this, alone in the dark, and they are proof that he exists beyond the metrics, beyond the scores, beyond the gaze of machines.
 
 
----
 
 The track needs one more element. He listens again, trying to identify what is missing, and realizes it is a human voice - not the synthetic voice of the GPS, but something warmer, something that contradicts the mechanical sounds and insists on the presence of a person within the system. He considers recording his own voice, speaking words over the track, but that feels too direct, too vulnerable. Instead, he opens his recordings folder and scrolls through the audio files he has collected.
 
@@ -61,7 +57,6 @@ The naming convention he uses is arbitrary but meaningful to him: a word that ca
 The clock shows 1:38. He has less than four hours before the alarm. He should feel guilty about this, should feel the weight of tomorrow pressing down, but instead he feels something like peace, like the part of him that matters most has been exercised.
 
 
----
 
 He closes the DAW. He removes the headphones and the apartment's silence rushes in, the particular quiet of late night in a building where most people sleep on schedules determined by work, by children, by the rhythms of a life he sometimes struggles to recognize as his own. The refrigerator hums. A car passes on the street below, its engine fading into the distance. Halima coughs once in her room, a sound that makes Yusuf tense until he hears her breathing settle back into sleep.
 
@@ -78,5 +73,4 @@ Tomorrow will come regardless.
 Tonight he dreams of frequencies.
 
 
----
 

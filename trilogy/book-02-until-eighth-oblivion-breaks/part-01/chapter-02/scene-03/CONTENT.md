@@ -27,7 +27,6 @@ A wail erupted in the background, rising in pitch. Elena could picture it: Mateo
 "He needs to learn to eat what's offered."
 
 
----
 
 "Abuela, please. Just - today. Let him have the cereal today."
 
@@ -50,7 +49,6 @@ It was something Gloria said often, a kitchen-magnet wisdom that Elena knew was 
 After she hung up, she sat with the phone in her hand, the break room humming with fluorescent silence. She thought about the early years with Daniel, before Sofia, before Mateo, before the jobs that consumed them both. They had met at a community health fair - Elena doing blood pressure screenings, Daniel building the tent structures, both of them young and certain that hard work would be enough.
 
 
----
 
 He had asked for her number while she was packing up the cuff and stethoscope. She had given it because his hands were calloused and his smile was kind and he looked at her like she was solving problems he couldn't, which she was and which she liked. They had dated for a year, married for eleven. The love was still there - she knew it was - but the love had been compressed into logistics, squeezed into the margins of schedules that never aligned.
 
@@ -67,7 +65,6 @@ What did AI ethics have to do with Mrs. Delgado's insulin costs? What did regula
 She scrolled past. The news that mattered to her wasn't news at all - it was the daily accumulation of bodies and needs, unreported because it was too ordinary to count, too structural to be a story, too much like weather to be an event.
 
 
----
 
 A knock on the break room door. One of the nurses, Maria, poked her head in.
 
@@ -90,5 +87,4 @@ She paused at the bathroom on the way, not because she needed it but because she
 She washed her hands with the automatic soap dispenser, dried them on the rough paper towels. The afternoon waited. She went to meet it.
 
 
----
 

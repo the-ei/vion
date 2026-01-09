@@ -5,7 +5,6 @@ Jerome began tracing the video's distribution through the information ecosystem.
 Within hours, he had found versions on seven different platforms. Each version was slightly different. The one Rachel had sent him appeared to be an original, or close to it: high resolution, complete audio, all forty-seven minutes intact. But the other versions had been edited, remixed, recontextualized. One had been cut to fifteen minutes, focusing only on the AI claims. One had been overlaid with new narration in German. One had been spliced with footage from mainstream news broadcasts, creating the impression that major networks were covering the story.
 
 
----
 
 The framing varied wildly, a Rorschach test for the post-truth era. In some communities, the video was presented as academic research, sober analysis from unnamed experts. In others, it was evidence of elite conspiracy, the global cabal finally exposed. In still others, it was nihilist entertainment, doom content for audiences who had given up on the future and found strange comfort in confirmation of their despair. The same underlying footage, the same core claims, wrapped in completely different interpretive frameworks.
 
@@ -16,7 +15,6 @@ He identified the researchers whose work had been synthesized in the video. It t
 He reached out to all three. Tanaka responded first.
 
 
----
 
 Her face appeared on his screen, tired eyes behind glasses, a cluttered office visible behind her. "Yes, I've seen the video. Many people have sent it to me this week." Her English was precise, accented, careful. "I did not consent to be included. I did not know my work would be used this way."
 
@@ -29,7 +27,6 @@ A long pause. Tanaka removed her glasses, cleaned them with a cloth, replaced th
 "I am saying I cannot say it is false. I would not have made this video. I would not have presented the information this way. But the information itself..." She looked directly into the camera, and Jerome saw something in her eyes that might have been fear. "The information is not false."
 
 
----
 
 Novak was more agitated. He appeared on video pacing in a small office, occasionally moving out of frame and returning. "Yes, yes, I know the video. It is everywhere in my field now. Everyone is talking about it." He had a heavy accent, Czech or Slovak, and his hands moved constantly as he spoke.
 
@@ -42,7 +39,6 @@ Novak was more agitated. He appeared on video pacing in a small office, occasion
 "I believe the evidence is consistent with that hypothesis. I cannot prove it. No one can prove it yet. But the pattern—" He stopped pacing, faced the camera. "There is a phrase in the video. 'Eighth oblivion.' I have seen this phrase appearing in AI outputs myself. I do not know where it comes from. I do not know what it means. But I have seen it, and it troubles me."
 
 
----
 
 Bellweather was calm. Unnervingly calm. He sat in what looked like a study, bookshelves behind him, afternoon light coming through windows at an angle that suggested Portugal's latitude. He spoke slowly, each word measured.
 
@@ -59,7 +55,6 @@ Bellweather was calm. Unnervingly calm. He sat in what looked like a study, book
 Jerome found he could not answer.
 
 
----
 
 He ended the call with Bellweather as evening settled over Baltimore, the light through his windows shifting from gold to amber to gray. The street outside was quiet; the summer heat had driven everyone indoors. His desk was covered with notes—handwritten pages, printouts of the interviews, screenshots from the video that he had been comparing to his own research files.
 
@@ -78,5 +73,4 @@ Rachel called as he was staring at the accumulated evidence.
 "Yes, you should have." He looked at his notes, at the phrase "eighth oblivion" circled on every page. "I need to keep pulling."
 
 
----
 

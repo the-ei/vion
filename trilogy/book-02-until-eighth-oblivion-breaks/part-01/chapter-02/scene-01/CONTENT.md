@@ -5,7 +5,6 @@ The house needed her to be quiet. Elena swung her legs out and set her feet on t
 The bathroom light she left off, using the nightlight that cast just enough glow to find the pills. Sertraline, 50 milligrams, every morning with water. The psychiatrist had prescribed it six months ago when Elena had finally admitted that the knot in her chest wasn't going away, that the heart-racing at 3 AM wasn't just coffee.
 
 
----
 
 She swallowed the pill without ceremony, the way she told her patients to take their medications: not as weakness but as maintenance, the same as oil in an engine. Except she also knew what she told herself at three in the morning, which was different - which was that she was medicating the symptom so she could keep functioning in a situation that was itself the disease.
 
@@ -14,7 +13,6 @@ Down the hallway, moving by memory. Sofia's room first, the door cracked the way
 Mateo's room next. He slept sprawled, four years old and already taking up the whole bed, one arm flung over the stuffed dog that had been Sofia's before it became his. He had cried so easily lately, the tantrums coming from nowhere, and Elena knew it was because he felt what he couldn't name - the absences, the exhaustion, the household stretched thin. She wanted to fix it. She wanted to be home more, present more, the mother she'd imagined being before she understood what the job would require, before the job revealed itself as a hunger that could never be satisfied.
 
 
----
 
 The kitchen light was already on. Gloria sat at the table with her coffee, her Bible open to Psalms, the reading glasses she refused to admit she needed perched on her nose. Seventy-three years old, diabetic, arthritic in her hands, and still she rose before Elena to pray and prepare.
 
@@ -41,7 +39,6 @@ The words landed somewhere in Elena's chest, in the space the sertraline couldn'
 They had this argument weekly. Elena let it go, as she always did, because fighting took energy she needed for the shift ahead.
 
 
----
 
 She made Sofia's lunch - turkey sandwich, apple slices, the small bag of chips that was Friday's treat even though today was only Wednesday, because Elena wouldn't be here to pack Friday's lunch. She wrote a note on the napkin, the way her own mother had done: "Te amo, mija. Have a good day." She set out Mateo's clothes for Gloria to dress him when he woke.
 
@@ -54,5 +51,4 @@ The drive to the clinic took twenty minutes at this hour, before the traffic mat
 She gathered her things and walked toward the door.
 
 
----
 

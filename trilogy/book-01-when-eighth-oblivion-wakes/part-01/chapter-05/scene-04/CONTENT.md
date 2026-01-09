@@ -13,7 +13,6 @@ She could do nothing. Keep her head down, collect her salary, pretend she hadn't
 Or she could find someone outside. Someone who could do what she couldn't.
 
 
----
 
 The privacy tools she kept on her personal laptop were ones she had recommended to others for years. VPN services that didn't keep logs. Encrypted browsers that left no trace. The infrastructure of careful paranoia that she had studied and understood but never quite expected to need.
 
@@ -30,7 +29,6 @@ Jerome Washington. Pulitzer Prize winner, former staff writer at a prestige outl
 She read his series on credit scoring algorithms, the way they encoded bias into automated decisions. She read his investigation into facial recognition deployment, the one that had prompted congressional hearings. She read the story that had been killed, piecing together the fragments that had leaked through other channels.
 
 
----
 
 He was outside the system but credible within it. Independent but connected. The kind of person who might be able to do something with what she knew.
 
@@ -59,7 +57,6 @@ The cursor blinked at her, patient and indicting. She had spent her career choos
 She read it again. Careful. Deniable. But also unmistakable.
 
 
----
 
 She added one more line.
 
@@ -80,7 +77,6 @@ The message disappeared into the ether, encrypted and routed through layers of a
 She closed the laptop and went to help Priya with lunch.
 
 
----
 
 The afternoon passed in the rituals of a Sunday that was almost normal. They cooked together, Ananya teaching Priya how to make the dal she'd learned from her own mother. They watched another episode of the supernatural teenagers. They talked about nothing consequential—school, friends, whether Priya should try out for the school play.
 
@@ -107,5 +103,4 @@ She would wait. She had crossed the line; she couldn't uncross it. Whatever came
 The cursor blinked. The house was silent. Ananya sat with what she had done and waited.
 
 
----
 

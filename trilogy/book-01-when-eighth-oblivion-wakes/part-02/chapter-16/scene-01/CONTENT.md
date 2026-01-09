@@ -15,7 +15,6 @@ Journalists. He'd talked to them before - local reporters doing segments on the 
 Why would this be any different?
 
 
----
 
 He googled Jerome Washington. The name brought up a modest web presence: a newsletter called "The Algorithm Beat," a handful of bylines at outlets Yusuf had heard of but rarely read. The newsletter had maybe ten thousand subscribers - respectable for a solo operation, but not the kind of audience that moved mountains. Yusuf clicked through a few posts, skimming headlines about hiring bias, surveillance at work, the datafication of labor.
 
@@ -32,7 +31,6 @@ Something shifted in Yusuf's chest. Recognition, maybe. The anger in those posts
 He opened a new browser tab and searched for "Jerome Washington" alongside "gig workers." A few results: testimony he'd gathered from delivery drivers in Texas, warehouse workers in California, rideshare drivers across the Midwest. The quotes were extensive, the details specific. This wasn't someone who parachuted in for a soundbite. This was someone who listened.
 
 
----
 
 Amina came into the kitchen while Yusuf was still staring at his phone. She was dressed for school, backpack already on, her expression carrying the particular focus of a teenager with too much to accomplish and too little time.
 
@@ -67,7 +65,6 @@ She was seventeen. When had she gotten so wise?
 Then she was gone, the apartment door clicking shut behind her.
 
 
----
 
 Yusuf sat with the quiet of the apartment settling around him. Through the wall, he could hear the faint sounds of the neighbor's television, the muffled rhythm of morning news. His mother was sleeping in the back bedroom - she'd had a late shift the night before, came home exhausted, fell into bed without eating. He'd heard her come in, heard her footsteps slow and heavy, heard the weariness in the sound of her closing her door.
 
@@ -86,7 +83,6 @@ Maybe nothing would change now either. But Amina was right: that wasn't the only
 Yusuf opened the email app and began to type.
 
 
----
 
 Dear Mr. Washington,
 
@@ -121,5 +117,4 @@ Yusuf put down his phone. Thursday. Six days away. He had six days to figure out
 He got up to check on his mother, to make sure she ate something when she woke. The morning stretched ahead of him, ordinary and relentless, but something had shifted. He'd opened a door. Now he had to see where it led.
 
 
----
 

@@ -21,7 +21,6 @@ He opened the feed and scrolled through fragments: AI systems failing, healthcar
 The groceries in his back seat were becoming a problem.
 
 
----
 
 He tried the delivery app again. Still frozen. He tried the backup app he used when the main one was slow. Same result - loading wheel, nothing more.
 
@@ -48,7 +47,6 @@ Yusuf didn't have an answer. The apps were supposed to tell them what to do. The
 He understood. His rent was due too. His mother's medications were due. Amina's school fees were due. The gig economy paid just enough to stay one step ahead of disaster, and any disruption - any at all - threatened to collapse the fragile equilibrium.
 
 
----
 
 His phone rang. A number he recognized - the clinic where his mother went for her diabetes care.
 
@@ -77,7 +75,6 @@ He ended the call and immediately dialed home. Amina answered on the third ring.
 "She's fine. I checked this morning. The monitor was acting weird so I used the old kit." A pause. "Why? What's happening?"
 
 
----
 
 "There's something happening with the tech systems. Nationwide. The apps are down, the clinic is rescheduling appointments. Just - keep an eye on her, okay? Check her levels every few hours."
 
@@ -108,7 +105,6 @@ He paid in crumpled bills and got three gallons. Enough to get home, maybe. Enou
 The absurdity of the situation was starting to settle in. He had a car full of someone else's groceries that he couldn't deliver. He had three gallons of gas bought with his last cash. His mother's health monitor wasn't working. And the entire system he depended on for income had simply stopped.
 
 
----
 
 He got back in his car and tried the app one more time. Still frozen. The loading wheel spun its infinite circle, promising connection that never came.
 
@@ -131,7 +127,6 @@ He made a decision. The groceries couldn't be delivered. The customers couldn't 
 Yusuf started his car and headed home.
 
 
----
 
 He had driven maybe two miles when the traffic lights started malfunctioning.
 
@@ -155,5 +150,4 @@ The gas gauge dropped steadily. Three gallons didn't last long. But the familiar
 He just had to keep driving through the chaos.
 
 
----
 

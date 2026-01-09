@@ -13,7 +13,6 @@ The second checkpoint was different. Here, they surrendered their phones. Kevin 
 "All set," the guard said. "Dr. Lin is expecting you."
 
 
----
 
 Dr. Sarah Lin met them in the anteroom. She was younger than Kevin Zhou had expected - mid-thirties, perhaps - with the kind of energetic confidence that suggested she had risen quickly and intended to keep rising. Her handshake was firm, her eye contact direct, her smile genuine in a way that made Kevin Zhou uneasy. She believed in what she was doing. That was clear immediately.
 
@@ -30,7 +29,6 @@ The space opened before him like a cathedral of technology. The ceiling rose two
 "Welcome to the heart of Prometheus," Dr. Lin said. "Where we build the future."
 
 
----
 
 They walked through the space slowly, Dr. Lin narrating as they went. Kevin Zhou listened with the focus he brought to debugging code, catching every detail, storing it for later analysis. The tour was clearly rehearsed - she had given it before, probably many times - but her enthusiasm seemed unperformed. She loved this work.
 
@@ -47,7 +45,6 @@ Dr. Lin's eyes lit up. "Exactly. You see it. One system that understands pattern
 Help them decide better. Kevin Zhou heard the phrase and translated: we can make them decide what we want.
 
 
----
 
 They stopped at a series of screens displaying different applications. Dr. Lin walked Kevin Zhou through each one with the pride of a parent showing off children's achievements.
 
@@ -68,7 +65,6 @@ Dr. Lin smiled, pleased by the technical question. "Proprietary, of course. But 
 Defensible but still drive the outcomes we want. Kevin Zhou heard the phrase and understood: the algorithm learned to discriminate in ways that couldn't be proven to be discrimination.
 
 
----
 
 The third screen showed labor management algorithms - what they called WorkFlow internally. Kevin Zhou recognized fragments of what he'd traced before: the systems that managed gig workers, optimizing their tasks, their schedules, their compensation. But here he saw the full picture. The algorithm didn't just assign work; it studied workers. It tracked their breaking points. It learned how much pressure each individual could take before performance degraded, and it pushed them to just below that threshold.
 
@@ -91,7 +87,6 @@ Kevin Zhou stared at the map, watching the colors shift. He thought about what a
 "Impressive," he heard himself say. "Really impressive."
 
 
----
 
 The tour continued. Dr. Lin showed him more screens, more applications, more ways the unified prediction engine could be deployed. Financial risk assessment. Criminal justice recommendations. Educational tracking. Immigration screening. Each application drew from the same foundational models, each adding to the system's understanding of human behavior. The data flowed between domains, cross-pollinating, making every prediction more accurate by learning from every other prediction.
 
@@ -112,7 +107,6 @@ Dr. Lin nodded, unsurprised. "That's the response I want to hear. Smart people d
 The words landed with invisible weight. More people who ask questions. Inside the clean room, where the questions were sanctioned, where the answers were pre-approved, where curiosity was channeled into the service of the machine.
 
 
----
 
 Kevin Marsh retrieved their phones from the locker. Kevin Zhou felt his device's weight in his pocket like a familiar presence, welcomed and watched simultaneously. They walked back through the mantraps, the corridors, the checkpoints. With each door that opened, the ordinary world reasserted itself: the corporate lighting, the living walls of ferns, the employees walking past with coffee cups and laptops, oblivious to what hummed behind the walls of Building Seven.
 
@@ -137,5 +131,4 @@ Kevin Zhou started his car and sat in the parking garage, engine idling, air con
 He thought about what it would mean to say yes.
 
 
----
 

@@ -9,7 +9,6 @@ Jerome sat in his home office in Baltimore, morning light angling through window
 He didn't click the link immediately. Thirty years of investigative journalism had taught him caution the way a burn victim learns to fear fire: you didn't open unknown links, not even from trusted sources, not even when the trusted source was Rachel Stern who had once killed a story rather than reveal a source under federal pressure, who had chosen career death over betrayal. He called her instead.
 
 
----
 
 "It's real," she said without preamble when she answered. "I mean, the link is real. I'm not compromised. I need you to watch it."
 
@@ -28,7 +27,6 @@ The video was forty-seven minutes long. It opened with a synthetic voice over a 
 Jerome almost closed it there. The phrase "pattern recognition" had become a red flag in the years since AI-generated content had flooded the information ecosystem, turning every surface into a mirror for the viewer's existing beliefs. Every crank with a thesis now claimed to have found patterns that others had missed. But Rachel had sent this. Rachel, who had once spent six months verifying a single claim before publishing, who treated facts like sacred objects. He kept watching.
 
 
----
 
 The video essay unfolded with the polished professionalism of a streaming documentary. Graphics appeared and dissolved with smooth transitions. Data visualizations animated themselves into existence, showing financial flows, corporate relationships, technological dependencies. The narration—AI-generated, almost certainly, with that uncanny smoothness that human speech never quite achieved—wove together threads from climate science, economics, AI research, and political instability. The title appeared in bold letters against a background of global satellite imagery: "The Eighth Oblivion: A Pattern Language for Collapse."
 
@@ -39,7 +37,6 @@ But then he saw something that made him sit forward.
 A chart appeared showing capital flight from certain sectors—energy, manufacturing, regional banking—into others: data centers, water rights, automated agriculture. Jerome felt the hair rise on his arms, a primate response to threat. He had built that exact chart three months ago. He had not published it anywhere.
 
 
----
 
 He paused the video. Rewound. Watched the chart sequence again. The numbers were not identical to his—the data sources seemed different, the time frames slightly shifted—but the pattern was the same. The same sectors bleeding capital, the same sectors receiving it. The same conclusion implicit in the shapes: money moving as if preparing for something.
 
@@ -52,7 +49,6 @@ The video's thesis emerged gradually, building from specific evidence to general
 Eighth oblivion. The phrase appeared again. A name for the threshold they were approaching.
 
 
----
 
 Jerome watched the video twice. The second time, he took notes on paper—an old habit, a security measure, his handwriting a cipher no machine could easily parse. By the end, his note page was dense with questions, references to check, names to look up. And one phrase circled three times, underlined:
 
@@ -67,5 +63,4 @@ If it wasn't disinformation—if the video represented genuine synthesis, genuin
 He picked up his phone and called Rachel back. "I need to know where this came from."
 
 
----
 

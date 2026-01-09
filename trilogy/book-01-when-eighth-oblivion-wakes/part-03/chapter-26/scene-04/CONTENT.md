@@ -15,7 +15,6 @@ She sat up and pulled him into an embrace, her arms around him, her face pressed
 "I know. Come back to me, Jerome. Whatever you find."
 
 
----
 
 The drive to Virginia was meditation. Night giving way to dawn, the highway unspooling before him, the familiar route from Baltimore toward DC and beyond. He had made this drive hundreds of times for other meetings, other stories. But this time felt different, charged with significance he couldn't quite name.
 
@@ -24,7 +23,6 @@ He thought about the source waiting for him. Someone from inside, someone who ha
 He thought about DeShawn's challenge: what if the people positioning for catastrophe are just being rational? The question had stayed with him, an irritant that wouldn't dissolve. His son was not naive. His son was brilliant and informed and thinking about the future in ways Jerome couldn't fully follow. What if Jerome's framework - the investigative journalist exposing wrongdoing - was simply inadequate to a world that had changed in ways he didn't understand?
 
 
----
 
 The sun rose as he crossed into Virginia, painting the sky in shades of pink and gold. The traffic thickened as he approached the capital's gravity well, commuters beginning their daily migration into the centers of power. He navigated around them, heading for the anonymous suburb where the meeting would take place.
 
@@ -35,7 +33,6 @@ The protocols ran through his mind. Woman with blue scarf. Question about the se
 And now there was nothing to do but wait. The meeting time approached. The coffee shop filled with its morning rush, then emptied as people headed to their offices. Jerome watched the door, patient as the investigation had taught him to be.
 
 
----
 
 The meeting time came. Then passed by five minutes. Then ten. Jerome's patience did not waver, but his awareness sharpened. Delays could mean many things - traffic, caution, last-minute hesitation. They could also mean trouble.
 
@@ -56,5 +53,4 @@ She sat across from him, placing her coffee between them, her expression carryin
 "I don't know if it's courage or desperation." She wrapped her hands around her coffee cup, as if drawing warmth from it despite the summer heat. "I just know I couldn't keep quiet anymore. Not about what I've seen."
 
 
----
 

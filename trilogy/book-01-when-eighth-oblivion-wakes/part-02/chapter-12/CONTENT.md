@@ -2,21 +2,19 @@ The phone vibrates beneath his pillow at 4:45 and Yusuf is awake before his eyes
 
 He does not turn on lights. His mother sleeps in the bedroom to his right, his sister in the smaller one to his left, and the walls in this building are thin enough that he has learned every creak, every footstep that might betray his movement. He dresses in the dark: thermals first because it is March in Minneapolis and the weather app on his phone shows twelve degrees outside with a real feel of negative three, then the fleece his mother bought him two Christmases ago that has worn soft at the elbows, then the down jacket that was his one extravagance last year, purchased with money he should have saved but justified because his body is his equipment and keeping it functional is not luxury but maintenance.
 
-The apps wait. He can feel them through the phone in his pocket, their algorithms already churning, already deciding which orders will go to which drivers, which routes will optimize for what the system calls efficiency but which Yusuf knows is something else, something closer to extraction. He has three platforms loaded and ready: QuickDrop for food delivery, RideNow for passengers, TaskRunner for the odd jobs that fill the gaps. Three apps, three sets of ratings to maintain, three invisible bosses who never show their faces but whose judgments determine whether he eats.
+The apps wait. He can feel them through the phone in his pocket, their algorithms already churning, already deciding which orders will go to which drivers, which routes will optimize for what the system calls efficiency but which Yusuf knows is something else, something closer to extraction. He has three platforms loaded and ready: QuickDrop for food delivery, RideNow for passengers, TaskRunner for the odd jobs that fill the gaps. Three apps, three sets of ratings to maintain, three invisible bosses who never show their faces but whose judgments determine whether he eats, whether his mother sees her doctor, whether his sister gets to dream of somewhere better than here.
 
 
----
 
 The car starts on the third try. It is a 2024 Hyundai Elantra with 147,000 miles on it, purchased used when it already had 89,000, and every morning is a negotiation with its temperament, a series of small prayers to whatever god watches over those who cannot afford repairs. The heater takes four minutes to produce warmth and Yusuf sits in the parking lot behind his building watching his breath cloud the windshield, watching the ice crystals on the glass begin their slow retreat from the defroster's effort. The sky is black and starless, the light pollution of Minneapolis creating an orange dome overhead that blocks the universe but provides enough illumination to see by.
 
-He opens QuickDrop first. The interface is familiar as his own hands: the map of the city rendered in vectors, the restaurant icons pulsing with available orders, the green zones indicating surge pricing in areas where demand outstrips supply. This early, the surges cluster around hospitals and hotels - night shift workers ending, travelers needing caffeine. Yusuf knows these patterns, has learned to read the algorithm's intentions the way his grandfather in Mogadishu learned to read the sky for weather. There is an order at the Marriott downtown: two coffees and a breakfast sandwich, delivery to an address in Linden Hills, seven dollars base plus expected tip. The system gives him twelve seconds to accept or decline.
+He opens QuickDrop first. The interface is familiar as his own hands: the map of the city rendered in vectors, the restaurant icons pulsing with available orders, the green zones indicating surge pricing in areas where demand outstrips supply. This early, the surges cluster around hospitals and hotels - night shift workers ending, travelers needing caffeine. Yusuf knows these patterns, has learned to read the algorithm's intentions the way his grandfather in Mogadishu learned to read the sky for weather, the way all animals learn to read the systems that determine their survival. There is an order at the Marriott downtown: two coffees and a breakfast sandwich, delivery to an address in Linden Hills, seven dollars base plus expected tip. The system gives him twelve seconds to accept or decline.
 
 He accepts. The countdown timer begins. Fourteen minutes to reach the hotel, collect the order, drive to the destination. If he is late, his rating drops. If his rating drops below 4.7, he loses access to the premium orders. If he loses premium orders, he makes less money per hour. If he makes less money per hour, his mother cannot see her doctor, his sister cannot apply to colleges that cost money to even consider.
 
 
----
 
-The streets at five in the morning belong to people like him. Other delivery drivers, their cars marked by the glow of phone mounts on their dashboards. Commercial trucks restocking grocery stores. Nurses and security guards and cleaners heading home or heading in. Yusuf has learned to recognize them, these fellow citizens of the early hours, to nod at them when their paths cross, to feel a kinship that requires no conversation. They are the machinery beneath the city's comfort, the invisible labor that makes visible life possible.
+The streets at five in the morning belong to people like him. Other delivery drivers, their cars marked by the glow of phone mounts on their dashboards. Commercial trucks restocking grocery stores. Nurses and security guards and cleaners heading home or heading in. Yusuf has learned to recognize them, these fellow citizens of the early hours, to nod at them when their paths cross, to feel a kinship that requires no conversation. They are the machinery beneath the city's comfort, the invisible labor that makes visible life possible, the people whose work is noticed only when it fails to appear.
 
 The Marriott's pickup loop is already occupied by a Town Car waiting for a business traveler. Yusuf pulls in behind it, puts on his hazards, leaves the engine running because the cold will reclaim the interior in minutes if he does not. The hotel's automatic doors breathe warm air into the frozen morning as he enters, his delivery bag slung over his shoulder like evidence. The lobby is marble and gold, designed to communicate wealth and safety, and Yusuf is aware of how he is seen here, his dark skin and winter-roughened face and the bag that marks him as service class, as someone who belongs in the back entrance but uses the front because the app does not distinguish between doors.
 
@@ -25,7 +23,6 @@ The order is waiting at the concierge desk. Two large coffees in a carrier, a br
 Twenty-two minutes to delivery. He can make it in eighteen if the lights cooperate.
 
 
----
 
 The lights do not cooperate. They rarely do.
 
@@ -33,12 +30,11 @@ He is sitting at the intersection of 35W and Lake Street when the notification a
 
 He accepts. Now he has two orders running simultaneously, the app restructuring his route, the timer on the first delivery ticking down while a second timer begins. This is the game: stack orders efficiently, minimize dead miles between pickups, keep the ratings high enough to stay in the game. Yusuf is good at it. He has made himself good at it because the alternative is unthinkable.
 
-The Mitchell delivery goes smoothly. The house is large and set back from the street, the kind of house that has a circular driveway and a three-car garage and a lawn that someone else maintains. Yusuf parks at the curb, walks up the flagstone path, leaves the order at the door as the app instructs - contactless delivery, no interaction required. He takes the required photo as proof, uploads it, feels his rating flicker as the completed delivery registers. Four point nine three. Every number a judgment, every judgment consequential.
+The Mitchell delivery goes smoothly. The house is large and set back from the street, the kind of house that has a circular driveway and a three-car garage and a lawn that someone else maintains. Yusuf parks at the curb, walks up the flagstone path, leaves the order at the door as the app instructs - contactless delivery, no interaction required. He takes the required photo as proof, uploads it, feels his rating flicker as the completed delivery registers. Four point nine three. Every number a judgment, every judgment consequential, every decimal place a door that opens or closes.
 
 Back in the car. North to Rustica. The sun has not yet risen but the sky is lightening at its eastern edge, a band of gray that separates the black above from the black horizon.
 
 
----
 
 Darius is at Rustica when Yusuf arrives.
 
@@ -48,14 +44,13 @@ He recognizes the car first, a gray Honda Civic with a dented rear quarter panel
 
 "Colder tomorrow," Yusuf answers. "Weather says eight below."
 
-Darius shakes his head. He is older than Yusuf by eight or nine years, has been doing this work longer, carries his experience in the lines around his eyes and the way he checks his phone without seeming to check it, his awareness of the apps constant and automatic. Before the gig economy, he tells Yusuf, he worked in IT support at a company that no longer exists, laid off when they automated his position with software that could diagnose printer problems without human intervention. Now he drives. Now they both drive.
+Darius shakes his head. He is older than Yusuf by eight or nine years, has been doing this work longer, carries his experience in the lines around his eyes and the way he checks his phone without seeming to check it, his awareness of the apps constant and automatic. Before the gig economy, he tells Yusuf, he worked in IT support at a company that no longer exists, laid off when they automated his position with software that could diagnose printer problems without human intervention. He had a 401k once. He had health insurance. Now he drives. Now they both drive, and neither of them talks about what they used to be.
 
 "You see the update?" Darius asks. "QuickDrop changed their surge algorithm again."
 
 Yusuf has not seen the update. He pulls out his phone to check, feels the familiar tightening in his chest that accompanies any change to the system's rules. The apps are always changing, always adjusting, always finding new ways to extract more labor for less pay.
 
 
----
 
 "They're calling it dynamic pricing optimization," Darius explains, and the corporate language sounds strange in his mouth, borrowed from a world that does not belong to either of them. "What it means is they can drop the surge multiplier faster when more drivers enter a zone. Used to take twenty minutes for a surge to collapse. Now it takes five. You chase the green on your map, by the time you get there it's gone."
 
@@ -63,33 +58,31 @@ Yusuf reads the notification on his phone, the language dense with terms like "e
 
 "They track everything," Yusuf says, and it is not news to either of them but saying it aloud feels necessary, a small assertion of awareness in a world designed to obscure its own machinery. "Which orders we take, which we decline. How fast we drive. How long we idle. They know everything except our names."
 
-Darius laughs, but there is no humor in it. "They don't need our names. They've got our numbers."
+Darius laughs, but there is no humor in it. "They don't need our names. They've got our numbers. That's the only kind of name that matters to them."
 
 The bakery door opens and a woman in an apron calls out an order number. Darius checks his phone. "That's me," he says, and then, "Watch yourself out there. Ice on the side streets."
 
 Yusuf nods. Darius disappears into the warm interior of Rustica and Yusuf waits, stamping his feet against the cold, watching the sky continue its slow transition toward morning.
 
 
----
 
 By nine o'clock he has completed twelve deliveries. Forty-seven dollars earned before expenses, which means thirty-two dollars after gas, which means roughly eight dollars an hour for four hours of work, which means nothing because the math is always bad and dwelling on it serves no purpose except despair. The sun is up now, pale and distant in the late March sky, and the city has filled with people who are not him, people heading to offices and schools and appointments that have structure, that have predictability, that exist within systems designed for humans rather than against them.
 
 His father worked in a warehouse.
 
-The thought arrives without invitation, as it often does during the long hours of driving, his father's face appearing in his memory like a summons. Jamal Hassan, who came to Minneapolis in 2002 with his young wife and his faith that America would offer something better than what they had fled, who worked thirty-hour weeks at a distribution center because that was what was available, who never complained even when the cold damaged his lungs and the lifting damaged his back and the company's refusal to provide adequate safety equipment damaged everything else. His father who died when Yusuf was sixteen, crushed by a shelving unit that had been flagged for repair months earlier and never fixed, killed by a corner cut to save money by people who would never know his name.
+The thought arrives without invitation, as it often does during the long hours of driving, his father's face appearing in his memory like a summons. Jamal Hassan, who came to Minneapolis in 2002 with his young wife and his faith that America would offer something better than what they had fled, who worked thirty-hour weeks at a distribution center because that was what was available, who never complained even when the cold damaged his lungs and the lifting damaged his back and the company's refusal to provide adequate safety equipment damaged everything else. His father who died when Yusuf was sixteen, crushed by a shelving unit that had been flagged for repair months earlier and never fixed, killed by a corner cut to save money by people who would never know his name, would never think of him except perhaps as a liability, a line item in an insurance claim, a number in a column marked Losses.
 
 The settlement was small. The company's lawyers were good. Halima received enough to pay off debts and nothing more, and Yusuf watched his college plans evaporate like breath in winter air, watched his sister Amina's face as she understood that her future now depended on his sacrifice. He does not regret leaving school. He regrets that leaving was necessary.
 
 The phone chirps again. Another order available. Yusuf accepts it without looking. The day continues.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The apartment smells like suugo when he opens the door, the tomato and spice of his mother's cooking filling the small space with something that is not quite memory but is not separate from it either, a scent that carries with it every meal she has made in this kitchen and every kitchen before it, the kitchens of his childhood that he barely remembers, the kitchen of the refugee camp where she learned to make much from little, the kitchen in Mogadishu that exists now only in her stories. Halima is standing at the stove despite his protests, despite the doctor's orders, despite everything he has asked of her, and when she turns to greet him her smile contains both love and defiance in equal measure.
 
@@ -97,12 +90,11 @@ The apartment smells like suugo when he opens the door, the tomato and spice of 
 
 "I have been resting all morning," she answers in Somali, her voice carrying the particular music of their language that Yusuf hears less and less as the years go by, as Amina switches more fully into English, as the community around them disperses and integrates and loses itself in the larger American silence. "You think I cannot stand at a stove for twenty minutes? You think I am so fragile?"
 
-She is fragile. He knows she is fragile. The diabetes that no one in the family will call by its proper name has been claiming her slowly for years, has taken her energy and her vision in her left eye and the feeling in her feet, has sent her to doctors who speak to her in English she only half understands and prescribe medications she cannot always afford. But she will not say the word. She calls it "the tiredness" or "the sugar thing" and she cooks suugo at midday because cooking is how she loves.
+She is fragile. He knows she is fragile. The diabetes that no one in the family will call by its proper name has been claiming her slowly for years, has taken her energy and her vision in her left eye and the feeling in her feet, has sent her to doctors who speak to her in English she only half understands and prescribe medications she cannot always afford. But she will not say the word. She calls it "the tiredness" or "the sugar thing" and she cooks suugo at midday because cooking is how she loves, because love without action means nothing in her language, in her understanding of what it means to be a mother.
 
 
----
 
-Amina emerges from her room with her backpack already over her shoulder, her hair pulled back in a way that suggests she has spent exactly as much time on it as necessary and not a second more, practical like everything about her. She is sixteen and brilliant in ways that frighten Yusuf sometimes, her mind working faster than his ever did, her grades perfect in the way that only matters when you are trying to escape something. She will apply to colleges next year. She will get in somewhere good. She will become something that neither he nor their mother could become, and the weight of that possibility sits on Yusuf's shoulders like a second job.
+Amina emerges from her room with her backpack already over her shoulder, her hair pulled back in a way that suggests she has spent exactly as much time on it as necessary and not a second more, practical like everything about her. She is sixteen and brilliant in ways that frighten Yusuf sometimes, her mind working faster than his ever did, her grades perfect in the way that only matters when you are trying to escape something, when perfect is not ambition but survival. She will apply to colleges next year. She will get in somewhere good. She will become something that neither he nor their mother could become, and the weight of that possibility sits on Yusuf's shoulders like a second job.
 
 "Hooyo made lunch," Amina says, switching between English and Somali the way they all do, the languages bleeding into each other. "You should eat before you go back out."
 
@@ -115,7 +107,6 @@ Amina emerges from her room with her backpack already over her shoulder, her hai
 The apartment is small and worn in ways that reflect the building around it - carpet that was new when they moved in seven years ago now flattened and stained, walls whose white has yellowed toward cream, a bathroom faucet that drips regardless of how tightly they close it. But the walls hold photographs: Halima's parents from before the war, Yusuf and Amina as children, their father Jamal in the one formal portrait they own, his face solemn in the way of men who know photographs are permanent.
 
 
----
 
 They eat together at the small table that doubles as Yusuf's desk when he needs to do paperwork, which is rarely because the gig apps have digitized everything, have reduced the administrative work of labor to taps and swipes and the occasional screenshot for tax purposes. Amina asks about his morning without asking about the money, which is its own kindness - she understands the math without needing to discuss it. Halima asks if he is eating enough, if he is sleeping enough, questions that are expressions of love rather than requests for information.
 
@@ -138,11 +129,10 @@ Yusuf feels the familiar frustration rising in his chest, the impossibility of c
 "You will not," Halima says firmly. "You will save that money for your sister's applications."
 
 
----
 
 Amina is watching them both with the particular expression she wears when adults are discussing money in front of her, a mix of understanding and guilt that Yusuf wishes she did not have to carry. "I can apply to state schools," she says. "The application fees are lower. Or I can wait a year, work for a while, save up."
 
-"You will not wait," Yusuf and Halima say in unison, and the synchronicity would be funny if the subject were not so serious. Amina is going to college next year. She is going to get scholarships. She is going to become something that justifies everything they have sacrificed. This is the story they have told themselves, the narrative that makes the work bearable, and to question it is to question the foundation of their survival.
+"You will not wait," Yusuf and Halima say in unison, and the synchronicity would be funny if the subject were not so serious. Amina is going to college next year. She is going to get scholarships. She is going to become something that justifies everything they have sacrificed, something that proves the sacrifice was not wasted, was not just loss but investment. This is the story they have told themselves, the narrative that makes the work bearable, and to question it is to question the foundation of their survival.
 
 "I should go," Amina says, standing and gathering her bag. "Quiz in AP Chemistry."
 
@@ -155,7 +145,6 @@ Amina is watching them both with the particular expression she wears when adults
 She rolls her eyes and is gone, the door closing behind her with the particular sound of an apartment building where nothing quite fits anymore, where the frames have warped and the hinges have loosened and everything holds together through habit more than engineering. Yusuf listens to her footsteps descend the stairs, each one a small departure, a practice for the larger leaving that is coming.
 
 
----
 
 "She is too serious," Halima says when the apartment is quiet. She has sat down across from Yusuf, her plate barely touched, her tiredness visible now that there is no audience. "Too worried about us. A girl her age should be worried about boys and parties and foolish things."
 
@@ -175,12 +164,11 @@ Halima withdraws her hand. "The hotel needs me. Tuesday is busy."
 
 "I can take more TaskRunner jobs. There's always work if you're willing to do it."
 
-She looks at him with an expression he cannot quite read - pride and sorrow and something else, something that might be resignation. "You are so much like him," she says quietly. "He also thought he could work himself into something better."
+She looks at him with an expression he cannot quite read - pride and sorrow and something else, something that might be resignation. "You are so much like him," she says quietly. "He also thought he could work himself into something better. He also thought the work would save us."
 
 The words hang in the air. Yusuf does not answer because there is no answer. He stands, clears the dishes, checks his phone. The apps are active. The afternoon awaits.
 
 
----
 
 Before he leaves, he stops at the photograph of his father. It hangs in the hallway by the door, unavoidable, positioned so that everyone who enters or exits must pass it. Jamal Hassan looks younger in the photograph than Yusuf is now - the picture was taken shortly after they arrived in Minneapolis, at a mosque event where someone had set up a portrait station, a small gesture of welcome for the new arrivals. His father is wearing a suit that does not quite fit, borrowed or purchased secondhand, and his expression carries the particular hope of someone who has not yet learned what America will cost him.
 
@@ -193,13 +181,12 @@ He checks QuickDrop. He checks RideNow. He checks TaskRunner. The algorithms are
 The car starts on the second try this time. Progress.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Phoenix is another country. Yusuf thinks this every time the plane descends over the desert, the brown expanse of it so different from Minnesota's green and white, the mountains rising at the horizon like something from a dream of a place that does not exist. He has made this trip four times now, accompanying his mother to see her specialist and the nurse practitioner she trusts at Desert Sage Community Health Center, the woman who speaks to Halima with patience and explains things in ways that make sense, who treats her not as a problem to be processed but as a person with a body and a history and concerns that matter.
 
@@ -208,7 +195,6 @@ They took the morning flight out of Minneapolis, the tickets purchased on his cr
 Now they sit in the waiting room of Desert Sage, surrounded by others whose bodies have brought them here, whose needs have been translated into appointments and insurance forms and the particular bureaucracy of American healthcare. The room is designed for neutrality - beige walls, blue chairs, a television mounted in the corner playing news that no one watches - but Yusuf reads it differently. He sees the bodies. He sees who waits and for how long. He sees the woman in scrubs behind the check-in window and the screen she consults before each name is called, the algorithm humming beneath the surface of care.
 
 
----
 
 His mother fills out forms with hands that shake slightly, her handwriting smaller than it used to be, more careful. Yusuf has offered to do it for her but she refused - there is dignity in paperwork, in being the author of one's own medical history, even when that history is a catalog of loss. Date of birth. Insurance status (none, but they accept patients on a sliding scale). Medications. Allergies. Emergency contact. She writes Yusuf's name in the last box and he feels the weight of it, the responsibility that has been transferred to him by the simple act of ink on paper.
 
@@ -216,10 +202,9 @@ The other patients interest him in the way that strangers always interest those 
 
 They are all waiting. The waiting room is a democracy of need, every body equally subject to the clock on the wall and the names that are called at intervals Yusuf cannot predict. Some people have been here longer than others; some will be seen quickly while others sit for hours. He does not know how the decisions are made. He suspects no one does, not really, not even the staff who implement them. The system has its own logic, invisible and absolute.
 
-Halima finishes her forms and returns them to the window. The woman behind the desk smiles and says it will be just a few minutes, which means nothing.
+Halima finishes her forms and returns them to the window. The woman behind the desk smiles and says it will be just a few minutes, which means nothing, which means everything, which means his mother's body is now subject to the clock and the queue and whatever invisible system decides who waits and for how long.
 
 
----
 
 Thirty minutes pass. Forty-five. An hour.
 
@@ -236,7 +221,6 @@ His mother looks up. A woman in blue scrubs stands at the door, holding a tablet
 "I know," he says, though he does not like letting her out of his sight, does not like the door closing between them.
 
 
----
 
 He watches Elena lead his mother down the hallway, watches the door close, watches the space where they were become empty. The waiting room continues its slow commerce - another name called, another body rising, the chairs gradually emptying and filling again in a rhythm that seems almost organic, almost natural, though Yusuf knows there is nothing natural about it. The system decides who waits and for how long. The system sorts bodies according to criteria no one explains.
 
@@ -249,7 +233,6 @@ Yusuf's phone buzzes. A text from Amina: Quiz went good. Probably got an A. The 
 He thinks about what Amina's life will be like after college. He hopes it will involve waiting rooms less.
 
 
----
 
 His mother emerges after forty-five minutes, which is longer than usual. Elena walks beside her to the checkout window, and Yusuf watches them interact - his mother speaking in accented English, Elena responding with a patience that seems genuine rather than performed. There is a moment when Elena places her hand on Halima's arm, a gesture of reassurance or comfort, and his mother nods with an expression that Yusuf recognizes as gratitude mixed with worry.
 
@@ -268,7 +251,6 @@ His mother hands him a paper. Four medications, two of them new. The generic ver
 "We always do," his mother answers.
 
 
----
 
 In the car - a rental, because his Elantra would never survive the drive from Minneapolis to Phoenix and flying was expensive enough without adding the cost of transportation on the other end - his mother is quiet. The Phoenix afternoon blazes outside the windows, a heat so different from Minnesota that it feels like a threat, like the sun has taken sides against them. Yusuf drives toward the freeway, toward Cousin Abdi's house in Tempe where they are staying tonight before the early flight home.
 
@@ -291,7 +273,6 @@ His mother does not answer immediately. She watches the desert pass outside her 
 It is not a yes and it is not a no. It is the truth.
 
 
----
 
 They reach Abdi's house as the sun begins its descent toward the mountains. Cousin Abdi is his mother's age, a man who came to America in the same wave of refugees but found different fortune here - a job that became a career, a house that he owns, a life that has the particular stability Yusuf cannot imagine for himself. He greets them with food and coffee and questions about Minneapolis, about Amina's schoolwork, about relatives whose names Yusuf barely recognizes. The conversation flows in Somali and English, the way it always does when the family gathers, and Halima seems lighter here, surrounded by connection, by the particular comfort of people who share her history.
 
@@ -306,13 +287,12 @@ Tonight, he will sit in his cousin's backyard and listen to the desert settle in
 Tonight, he will be somewhere other than the driver's seat.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Back in Minneapolis. Back in the apartment. Back in the corner of the dining area that is his by default, his futon pushed against the wall, his small desk wedged between the futon and the window that looks out on the building next door, the window that shows nothing but brick and fire escape and the occasional light from a neighbor's apartment. It is past eleven and the household sleeps - Halima's breathing audible through the thin wall, Amina's door closed against the sounds of the living room - and Yusuf sits at his desk with his headphones on and his phone propped against a stack of books and the DAW app open, the digital audio workstation that turns his phone into an instrument, a studio, a place where he can make something that is entirely his.
 
@@ -323,7 +303,6 @@ The app is called BeatForge and he has been using it for three years, has learne
 Tonight he is working on a track that has been building in his head for weeks, ever since he noticed that the notification sounds from his gig apps had started to haunt him, appearing in his dreams, triggering his attention even when his phone was silent. He decided to use them. He decided to turn the sounds of his exploitation into art.
 
 
----
 
 He has already laid down the drums, a pattern that combines traditional percussion with the mechanical click of a turn signal, the rhythm of waiting at red lights while the countdown timer runs. Over that, he has layered the bass, a deep pulse that mimics the vibration of his phone against his thigh, the constant buzz of notification, of demand, of the algorithm asking for his attention. Now he is working on the upper frequencies, the melodic elements that will give the track its shape.
 
@@ -334,7 +313,6 @@ The GPS voice comes next. "In five hundred feet, turn left." He has recorded thi
 He works in a state that is not quite trance but is adjacent to it, his awareness narrowed to the screen and the sounds and the small adjustments that make the difference between noise and music. The world outside this moment does not exist. The car does not exist. The debt does not exist. The apps are silent because he has silenced them, because this is the one time when he controls the notifications rather than being controlled by them.
 
 
----
 
 By midnight the track has bones. He listens through once, twice, adjusting levels, catching the places where the frequencies clash and smoothing them into something that moves together. The music is strange and it is good - he knows it is good, can feel the goodness in the way the elements lock together, the way the industrial sounds of gig work become something that breathes.
 
@@ -349,7 +327,6 @@ He adds a new layer: a recording of his own breath, captured one morning when he
 His phone shows 12:47. The alarm is set for 4:45. He should sleep. He should close the app and lie down on the futon and surrender to the few hours of rest that the schedule allows. But the track is not finished and finishing it feels more important right now than sleep, more important than tomorrow, more important than the calculations that govern everything else.
 
 
----
 
 He does not share his music with anyone.
 
@@ -362,7 +339,6 @@ But something stops him. The same instinct that makes him protective of his moth
 So he keeps it. He saves the tracks under names that mean nothing to anyone but him. He listens to them in moments like this, alone in the dark, and they are proof that he exists beyond the metrics, beyond the scores, beyond the gaze of machines.
 
 
----
 
 The track needs one more element. He listens again, trying to identify what is missing, and realizes it is a human voice - not the synthetic voice of the GPS, but something warmer, something that contradicts the mechanical sounds and insists on the presence of a person within the system. He considers recording his own voice, speaking words over the track, but that feels too direct, too vulnerable. Instead, he opens his recordings folder and scrolls through the audio files he has collected.
 
@@ -377,7 +353,6 @@ The naming convention he uses is arbitrary but meaningful to him: a word that ca
 The clock shows 1:38. He has less than four hours before the alarm. He should feel guilty about this, should feel the weight of tomorrow pressing down, but instead he feels something like peace, like the part of him that matters most has been exercised.
 
 
----
 
 He closes the DAW. He removes the headphones and the apartment's silence rushes in, the particular quiet of late night in a building where most people sleep on schedules determined by work, by children, by the rhythms of a life he sometimes struggles to recognize as his own. The refrigerator hums. A car passes on the street below, its engine fading into the distance. Halima coughs once in her room, a sound that makes Yusuf tense until he hears her breathing settle back into sleep.
 
@@ -394,7 +369,6 @@ Tomorrow will come regardless.
 Tonight he dreams of frequencies.
 
 
----
 
 
 

@@ -9,7 +9,6 @@ Her first patient was Mrs. Delgado, sixty-eight, diabetic for two decades, manag
 "That's not safe," Elena said, keeping her voice steady even as something inside her wanted to scream about a system where this conversation was necessary. "Every other day could put you in the emergency room."
 
 
----
 
 "I can't afford the emergency room either."
 
@@ -34,7 +33,6 @@ The X-ray showed a hairline fracture in the radius. Not displaced, which was luc
 "I need to work. The job doesn't wait." His voice carried the finality of a man who had already done the math and found that his body was worth less than his labor.
 
 
----
 
 Elena fitted him with a rigid brace instead of a cast, showed him how to work around it, knowing he would push through anyway, knowing the fracture might worsen or might heal crooked, knowing she couldn't solve the economic calculus that made rest impossible. She documented everything carefully - the diagnosis, the recommendations, the patient's informed decision to continue working against medical advice. The documentation protected the clinic. It did not protect Ray. It existed so that when Ray's arm healed wrong, when he lost function, when he couldn't work anymore, there would be a record showing he had been warned.
 
@@ -57,7 +55,6 @@ He raised his eyes. They were red-rimmed, exhausted, older than sixteen.
 "Since last year. Since all the stuff on the news." He paused, and Elena saw him deciding whether to trust her. "Since I realized that none of the adults actually know what they're doing. That the people in charge are just - making it up. Like we are."
 
 
----
 
 Elena understood. The crisis that Ruth had testified about, that the experts had analyzed, that the news had packaged and moved on from - it had landed in this boy's nervous system as perpetual alarm, had written itself into his cortisol levels and his sleep patterns and his capacity to imagine a future. He was sixteen and he had watched adults reveal that the systems were broken and then watched those same adults continue as if nothing had happened. His body had drawn the logical conclusion: the danger was real and ongoing, even if everyone pretended otherwise.
 
@@ -74,7 +71,6 @@ She spent twenty minutes with Jaylen - twenty minutes she didn't have, the queue
 Jaylen and his mother left. The next patient arrived.
 
 
----
 
 The electronic health record system required fifteen minutes of documentation for every ten minutes of patient care. Elena typed while the next patient talked, a skill she had developed out of necessity - maintaining eye contact while her fingers moved across the keyboard, entering the codes that would allow billing, that would satisfy insurers, that would create the paper trail no one would ever read unless something went wrong. The system demanded its documentation. The system was insatiable, a bureaucratic hunger that consumed hours that could have been spent healing.
 
@@ -107,7 +103,6 @@ Amara Osei had come to Phoenix from Accra via Johns Hopkins, a journey Elena onl
 Elena considered lying, but Amara had always been able to see through her. "It helps me function. I'm not sure that's the same as helping."
 
 
----
 
 Amara handed her a gauze pad from the dwindling stack. "We're all medicating something. At least yours has dosing instructions."
 
@@ -128,5 +123,4 @@ She saw fourteen more patients before break. She documented every one. She order
 By noon she was hollowed out, running on coffee and habit and the sertraline that kept her steady enough to function, ready for the brief rest that wouldn't be enough but would have to be.
 
 
----
 

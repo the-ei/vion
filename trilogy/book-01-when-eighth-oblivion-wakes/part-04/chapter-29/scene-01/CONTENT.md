@@ -23,7 +23,6 @@ She returned to the main nursing station. Three other staff members were cluster
 "What's happening?" she asked.
 
 
----
 
 Miguel Santos, the younger nurse who had started three months ago, looked up from his screen with an expression between confusion and fear.
 
@@ -46,7 +45,6 @@ His glucose was 280. High, but not critical. The pump had been delivering baseli
 "He's okay," Elena told the mother. "His levels are elevated but manageable. We'll need to reset the pump manually and monitor him here for a few hours."
 
 
----
 
 The mother's relief was physical, her whole body softening as she exhaled. "The pump company said their systems were having issues. They said it should resolve soon. But I couldn't wait. I didn't know what was happening to him."
 
@@ -69,7 +67,6 @@ Her phone buzzed. Abuela, checking in.
 "Everything okay at the clinic? The news is saying computers are broken everywhere."
 
 
----
 
 "Busy. Are Sofia and Mateo okay?"
 
@@ -94,7 +91,6 @@ She pulled her phone back out and opened her camera. The waiting room, filling w
 She took a photograph. Then another. Documentation. Evidence.
 
 
----
 
 "Elena." Miguel's voice, urgent. "We've got a new arrival. Elderly woman, diabetic, possible ketoacidosis. Her daughter says the glucose monitor was offline all night."
 
@@ -121,7 +117,6 @@ The glucose reading came back: 420. Dangerously high. The ketoacidosis was advan
 Twelve hours of silence. Twelve hours during which an algorithm said nothing and a woman nearly died.
 
 
----
 
 Dr. Okonkwo arrived, took one look at the readings, and began ordering treatment.
 
@@ -142,5 +137,4 @@ Someone needed to tell this story. Someone needed to make sure it couldn't be er
 Elena went back to work. But she kept her phone close, the camera ready. Documentation was the only power she had.
 
 
----
 

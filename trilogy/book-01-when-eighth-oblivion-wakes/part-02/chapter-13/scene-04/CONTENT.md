@@ -9,7 +9,6 @@ The email arrives on a Tuesday evening, just before midnight.
 The sender address is a string of random characters at a domain Jerome does not recognize. The subject line is empty. The message itself is brief - six sentences that change everything.
 
 
----
 
 Mr. Washington -
 
@@ -27,7 +26,6 @@ He screenshots the email. He saves it to three different locations. He copies th
 The house is silent around him. Denise is asleep upstairs. DeShawn is asleep in his room, dreaming whatever dreams seventeen-year-olds dream. They do not know that somewhere out there, someone is watching their husband, their father, and has sent this message to make sure he knows it.
 
 
----
 
 "We appreciate your thorough approach to market efficiency."
 
@@ -44,7 +42,6 @@ Jerome stands and walks to the window. Baltimore is dark outside, the streetligh
 This is how it works, he realizes. Not dramatic confrontations, not threats delivered in parking garages, not the spy-movie theatrics that make intimidation visible and therefore resistible. Instead: a quiet email that demonstrates knowledge. A reminder that he is seen. The soft pressure of being watched.
 
 
----
 
 He does not tell Denise.
 
@@ -61,7 +58,6 @@ His father did not stop going to work at the warehouse even after the injuries s
 Jerome does not know if his father was brave or foolish. He suspects the distinction matters less than people think.
 
 
----
 
 Dawn arrives slowly over Baltimore, the sky shifting from black to gray to the pale orange of early morning. Jerome has not slept. He feels the tiredness in his eyes, in his bones, but the tiredness is distant, secondary to the clarity that has settled over him in the night hours.
 
@@ -78,5 +74,4 @@ Somewhere out there, someone is watching him watch them.
 Jerome turns on his desk lamp and gets to work.
 
 
----
 

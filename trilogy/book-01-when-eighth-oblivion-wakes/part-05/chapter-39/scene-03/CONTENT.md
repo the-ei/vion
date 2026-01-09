@@ -19,7 +19,6 @@ Ruth felt the familiar dissonance that conversations with her son always produce
 "I am tired. It's been a long day of telling people things they don't want to hear."
 
 
----
 
 "What did you tell them?"
 
@@ -40,7 +39,6 @@ David was quiet for a moment, processing this. When he spoke, his voice was care
 The silence between them stretched, filling with the history of disappointments they both carried. David had been a different kind of child—curious, idealistic, interested in justice. Somewhere along the way, those qualities had been channeled into the pursuit of wealth, into the belief that success was measured in numbers on a screen. Ruth did not understand how it had happened, or whether she could have done something to prevent it.
 
 
----
 
 "I should let you go," David said finally. "I have a dinner. But Mom—take care of yourself, okay? Don't let the weight of the world crush you."
 
@@ -67,7 +65,6 @@ Ruth heard in Rebecca's voice the echo of her own convictions, the belief that h
 "I spent the whole day telling people things they didn't want to hear. That our frameworks probably aren't adequate. That I don't have good answers. That we might be facing something we can't handle."
 
 
----
 
 "Mom." Rebecca's voice changed, becoming more focused. "What do you really think is happening? Not the official briefing version—what do you actually believe?"
 
@@ -90,7 +87,6 @@ The words hung in the silence between them, transmitted through cellular network
 "I don't know yet. But I'm starting to think that the work I've done my whole life—within institutions, through official channels, respecting the processes that constitutional democracy requires—might not be the work that's needed now."
 
 
----
 
 "That's a big statement from you." Rebecca's voice carried something like awe. "You've always been the institutionalist. The one who believed in the system."
 
@@ -113,7 +109,6 @@ Ruth felt something release in her chest, a tension she had been carrying withou
 "Then find someone else to think with. It doesn't have to be her. It just has to be someone who sees what you see."
 
 
----
 
 They talked for another half hour, moving from the weight of global crisis to the ordinary textures of Rebecca's life—the cases that consumed her, the apartment she was hoping to move out of, the man she had started seeing who seemed kind and serious and worth investing in. Ruth listened with the attention she had always brought to her children, even when disappointment complicated her love.
 
@@ -130,5 +125,4 @@ She opened her laptop and began to compose an email. She did not know yet what s
 The night deepened around her as she wrote, and the city outside her window continued its indifferent hum, and somewhere in the darkness, the future she feared continued to approach.
 
 
----
 

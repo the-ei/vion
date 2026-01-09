@@ -11,7 +11,6 @@ The chief counsel's name was Thomas Merrick, and he had the carefully bland face
 "The senator, as you know, is not available. I can convey your questions to her team and provide what background I can on the Judiciary Committee's work following the Prometheus hearings."
 
 
----
 
 "Following the hearings" was a generous way to describe what had happened. Jerome took out his notebook - old habit, even though he also recorded on his phone - and prepared to document another exercise in institutional evasion.
 
@@ -30,7 +29,6 @@ Jerome had been a journalist for twenty-three years. He knew what these words me
 Merrick's expression didn't change. "I can't speak to what individual experts feel. What I can tell you is that the committee takes these matters seriously."
 
 
----
 
 Jerome spent another ten minutes extracting variations of the same non-answer. The committee was engaged. The process was ongoing. Concerns had been raised and recommendations had been made. The language was impeccable - Merrick had been trained to speak in sentences that conveyed institutional gravity without committing to anything specific, sentences that could appear in Jerome's reporting without damaging anyone.
 
@@ -43,7 +41,6 @@ He had three more meetings scheduled - two with other committee staffers, one wi
 At the DOJ meeting, something different happened.
 
 
----
 
 The source was a career attorney named Michelle Torres - not the senior official Jerome had hoped for, but someone with access to information he needed. They met in a coffee shop two blocks from the Justice Department building, the kind of neutral ground where official and unofficial conversations happened daily.
 
@@ -72,7 +69,6 @@ Michelle looked at him with the particular exhaustion of people who worked insid
 "Because I read your reporting. Because I thought it would matter. And it didn't. And I need someone to know that it didn't because they made sure it wouldn't."
 
 
----
 
 They talked for another fifteen minutes. Michelle couldn't or wouldn't provide the specifics that would make her claims publishable. She left first, nervous and unresolved, and Jerome sat alone with his coffee, thinking about what he had just heard.
 
@@ -89,13 +85,12 @@ Now he was not sure. The truth had been told. The exposure had happened. And pow
 He needed to see his mother. He needed to remember what care looked like, what limits felt like, what it meant to be present with someone who was losing everything and could not be saved by reporting.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The house on Edmondson Avenue had been in the family for forty-three years, since Jerome's father bought it with a VA loan in 1991, a year before Jerome was born. It was a Baltimore rowhouse like thousands of others - brick facade, white marble steps, a front porch narrow enough that two people had to stand sideways to pass each other. The neighborhood had changed and changed again in those decades, cycles of decline and renewal that his father had weathered with the particular stubbornness of Black homeownership, the refusal to leave what had been earned.
 
@@ -112,7 +107,6 @@ Sandra opened the door before Jerome could knock. His sister had always known wh
 "Both. For now."
 
 
----
 
 Jerome stepped inside, into the house that smelled like his childhood even though the furniture had been rearranged and the rugs replaced and accommodations made for a woman who might forget to turn off the stove. His mother sat in the chair by the window, the chair where she had always sat, watching the street with the particular attention of someone who had lived in the same place long enough to know every rhythm.
 
@@ -133,7 +127,6 @@ He pulled up a footstool and sat where she could see him without turning her hea
 "Then you're still lasting."
 
 
----
 
 They talked for a while - or rather, Jerome talked and his mother listened, occasionally interjecting with observations that were sometimes relevant and sometimes not. Her mind moved in patterns he had learned to follow, making connections he couldn't always trace. She asked about Denise and DeShawn; she remembered them today, remembered that DeShawn was her grandson, remembered being proud of how smart he was.
 
@@ -156,7 +149,6 @@ Sandra called them to lunch - soup and sandwiches, the simple food that their mo
 "You should do what you can do. That's all any of us can do."
 
 
----
 
 After lunch, Jerome sat with his mother while she watched television - a game show, the kind she had always liked, the simple pleasures that remained when complexity became too much. He didn't pay attention to the show. He watched her face, trying to memorize the version of her that was still here, knowing that each visit might find less.
 
@@ -179,7 +171,6 @@ He looked at her. She was looking at him with an expression he couldn't quite re
 Jerome felt something shift in his chest, some pressure that had been building release slightly. His father had not been an easy man. He had been proud and stubborn and occasionally harsh, shaped by the particular experiences of Black men of his generation. But he had believed in things. He had believed that work mattered, that integrity mattered, that you stood up even when standing up cost you.
 
 
----
 
 "Mama, do you remember the story I did last year? About the technology companies?"
 
@@ -206,7 +197,6 @@ It was the clearest thing she had said all day, maybe the clearest thing she had
 "I know, baby. I love you too. Even when I forget."
 
 
----
 
 Later, Jerome helped Sandra with the dishes while their mother napped in her chair. The house held its afternoon quiet, the particular peace of a place where generations had lived and would continue living until they couldn't.
 
@@ -237,13 +227,12 @@ He had a book event to attend in D.C. He had a source to meet tomorrow. He had a
 He drove back to D.C. as the sun set, carrying all of it with him.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Politics and Prose occupied a corner of Connecticut Avenue that had been a bookstore for decades, surviving the digital revolutions that had closed so many others through a combination of community loyalty and strategic adaptation. Jerome had attended dozens of events here - book launches, author talks, the particular gatherings where D.C.'s intellectual class came to reassure itself that ideas still mattered.
 
@@ -258,7 +247,6 @@ He recognized her from her congressional testimony, which he had watched multipl
 She was older in person than she had seemed on camera, and she looked tired in a way that suggested more than physical exhaustion.
 
 
----
 
 Jerome made his way across the room, collecting a glass of wine from a passing tray. He reached Ruth as she was setting down her own empty glass.
 
@@ -283,7 +271,6 @@ Ruth nodded slowly. "That matches my experience. I spent two days testifying abo
 "It shouldn't. I've spent forty years in the legal system. I know how institutions absorb challenges without changing." She paused, something flickering in her expression. "But I suppose I thought this time might be different. The scale of the revelations. The clarity of the risks. I thought - naively, it turns out - that being right about something important would lead to action."
 
 
----
 
 "I've been trying to write about it," Jerome said. "About what the exposure didn't accomplish. But I can't get anyone to go on record saying what they clearly believe - that the whole response was theater."
 
@@ -310,7 +297,6 @@ It was the question Jerome had been asking himself since his conversation with M
 "Yes."
 
 
----
 
 They talked for another twenty minutes, the book event continuing around them without requiring their attention. Ruth described her experience on the committee - the careful preparation, the detailed testimony, the polite reception followed by systematic inaction. Jerome shared what he'd learned from his sources, careful not to reveal anything confidential but conveying the pattern: investigations stalled, recommendations ignored, the machinery of accountability grinding to a halt.
 
@@ -337,13 +323,12 @@ She moved toward the book table. Jerome watched her go, thinking about what she 
 He left the bookstore and walked into the D.C. night, the conversation settling into his mind alongside everything else he was carrying.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The next morning, Jerome met Martin Reyes at a coffee shop near Dupont Circle. Martin had been one of his best sources during the crisis - a legislative aide with access to committee documents and the willingness to leak them when the story required it. He had taken risks, real risks, and Jerome had protected him carefully, never revealing his identity even when editors pushed for more transparency.
 
@@ -366,7 +351,6 @@ Martin's expression flickered - something between fear and exhaustion. "I don't 
 "I won't say. There's a difference." He leaned forward slightly, lowering his voice. "Look, I stuck my neck out last year. I gave you documents. I helped you tell the story. And you know what it accomplished? Nothing. The companies are fine. The technology keeps advancing. The people who should be in trouble are getting promoted."
 
 
----
 
 "So you've given up."
 
@@ -389,7 +373,6 @@ There was nothing Jerome could say to that. Martin was wrong, he wanted to belie
 "It's worth nothing. But I know you mean it." Martin stood up. "Don't contact me again. I can't afford to be associated with this story anymore."
 
 
----
 
 Jerome watched him leave. The coffee shop continued its morning routine around him, baristas calling orders, laptops open on every table, the particular rhythm of D.C.'s professional class starting their days. No one noticed the conversation that had just ended, the small death of a source relationship that had once felt important.
 
@@ -420,13 +403,12 @@ Jerome thought about his son, about the world DeShawn was building with his code
 He hung up and sat on the bench for a long time, letting the morning pass around him, carrying everything he knew and nothing he could prove.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The hotel room.
 
@@ -447,7 +429,6 @@ He didn't know where this was going. He kept typing.
 "My mother is losing her memories. One by one, they fall away - names, faces, the shape of the life she lived. She remembers me sometimes and sometimes sees my father, who is dead. She lives in a house built on certainty and wakes up in a world where nothing is certain."
 
 
----
 
 "My son is building memories. New ones. Programs that learn and adapt and grow. He shows me his work and I nod and pretend to understand. He is creating the future I have spent my career trying to hold accountable."
 
@@ -470,7 +451,6 @@ The room was dark except for the laptop's glow.
 "What is the purpose of keeping records when the records don't matter?"
 
 
----
 
 He thought of his mother in the nursing home, the memories sliding away from her like water through fingers. She was losing the past. He was losing the future. They met somewhere in the middle, in this present moment that felt like the only real thing left.
 
@@ -491,7 +471,6 @@ He kept writing.
 Past midnight now. The laptop's battery warning blinked in the corner of the screen. Jerome ignored it and continued writing into the darkness, truth-telling as prayer, prayer as habit, habit as the only thing left that felt like purpose.
 
 
----
 
 
 

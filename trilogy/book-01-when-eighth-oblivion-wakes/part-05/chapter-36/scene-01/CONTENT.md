@@ -7,7 +7,6 @@ She walked to the bathroom without turning on lights, navigating by the familiar
 The water in the shower took its usual forty seconds to warm. She counted, as she always had, but now the counting felt different, like a ritual from a life that might be ending.
 
 
----
 
 The coffee maker was a Technivorm she had purchased the week she started at Prometheus, a small celebration of the salary that had made her breath catch when she saw the offer letter. It had seemed a reasonable indulgence then, an object that signified arrival, that announced: you have reached a place where quality matters and you can afford to notice the difference. Now she watched the water heat and drip through the grounds and thought about all the mornings this machine had functioned perfectly while she went to work at a company that had been building something she had not fully understood.
 
@@ -18,7 +17,6 @@ She poured the coffee into a ceramic mug that had been a gift from a colleague t
 The news was on the counter where she had left her phone, but she did not pick it up. She knew what they were saying. She had seen enough in the first week to understand how the story was being shaped, how her name was being used by some and withheld by others, how the complexity of what had actually happened was being compressed into narratives that served purposes she could not control.
 
 
----
 
 She ate yogurt standing at the counter, watching the rain. The backyard was small, the lawn that someone else maintained because she had never learned how and now would need to, probably, depending on what happened next. The administrative leave they had placed her on was technically voluntary. She had agreed to it, had even signed something, but the agreement had felt less like choice than like the only path that did not involve immediate litigation. They were being careful with her. She was being careful with them. Everyone was being very, very careful.
 
@@ -29,7 +27,6 @@ At eight-thirty she made a second cup of coffee and carried it to her home offic
 The folder was evidence, or it was protection, or it was both.
 
 
----
 
 She had not decided what to do with the documents. That was the truth she returned to each morning, the question she circled without answering. There were people who wanted them, journalists who had reached out through encrypted channels, lawyers who had hinted at their usefulness, congressional staffers who had called from blocked numbers. She had responded to some, ignored others, maintained a careful ambiguity that felt less like strategy and more like paralysis.
 
@@ -42,7 +39,6 @@ She typed back: Looking forward to it. No emoji. She had never learned to speak 
 The hours between morning and noon stretched out before her, empty of meetings, empty of obligations, empty of the structure that had organized her days for so long. She did not know what to do with this emptiness. She sat in her office chair and looked at the folder and did not open it, and the rain fell on the roof above her head.
 
 
----
 
 By eleven the rain had softened to mist, and she had read three chapters of a novel she could not remember selecting, her eyes moving over words that left no impression. The plot concerned a woman making decisions in a distant century, and Ananya found herself wondering what that woman's ethics role would have been, what frameworks she might have written, what concerns she might have flagged and filed.
 
@@ -59,5 +55,4 @@ She was waiting too. She had been waiting for two weeks, and she was beginning t
 Soon, she would have to choose differently.
 
 
----
 

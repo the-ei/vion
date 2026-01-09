@@ -17,7 +17,6 @@ Crane's expression was unreadable. "I'm giving it to a journalist who has built 
 "I've done enough to know that if these documents are forgeries - which I don't believe they are, but I acknowledge the possibility - you'll discover that before publication. And if they're real, you'll verify them through channels I don't have access to."
 
 
----
 
 Jerome did not reach for the drive. Not yet. "What do you want from me? If I verify these documents and they're real, what are you hoping I'll do with them?"
 
@@ -36,7 +35,6 @@ Jerome studied the man's face for tells of performance. He found none he could i
 The third option, of course, was that Crane was delusional - believing sincerely in things that weren't real. But delusion didn't usually produce documents.
 
 
----
 
 Jerome reached for the drive. It was warm from Crane's hand, from the drawer, from the conversation that had produced it. Such a strange detail to notice.
 
@@ -59,5 +57,4 @@ Crane's smile was thin. "I know. But the sources you've dealt with before were h
 Jerome didn't have a response to that. He walked out into the Oakland night, the drive in his pocket, the weight of it somehow greater than its physical size.
 
 
----
 

@@ -11,7 +11,6 @@ On the center monitor: traffic statistics from the past year. The volume was sta
 On the right monitor: the ethics review documents he had found. Ananya Ramaswamy's signature on integration assessments, her careful language about "responsible deployment" and "continuous monitoring" and "commitment to fairness." The reviews covered some Prometheus partnerships, but not SIEVE. The gap was conspicuous, deliberate.
 
 
----
 
 He traced a specific flow, following a hypothetical person through the system.
 
@@ -26,11 +25,10 @@ The financial stress affects their health. They can't afford medication. They sk
 And if anything goes wrong—if they fall behind on child support, if they get caught up in a minor legal issue—the government systems kick in. The same infrastructure, the same models, the same logic of sorting. A person flagged by one system becomes flagged by all of them, the categories talking to each other, the decisions reinforcing each other, the life narrowing.
 
 
----
 
 Kevin Zhou stared at the diagram on his screen. The arrows and boxes, the data flows and decision points. It looked like infrastructure. It functioned like fate.
 
-The algorithm didn't create inequality. It automated inequality. It took the existing patterns—who had resources, who didn't; who was trusted, who wasn't; who was visible to institutions in ways that helped them, who was visible in ways that hurt—and it systematized them, accelerated them, made them efficient and scalable and invisible. The sorting happened so fast and so comprehensively that it felt natural, inevitable, like gravity or weather or the way things had always been.
+The algorithm didn't create inequality. That was the insight Kevin Zhou had been circling for days without finding the words. The algorithm automated inequality. It took the existing patterns—who had resources, who didn't; who was trusted, who wasn't; who was visible to institutions in ways that helped them, who was visible in ways that hurt—and it systematized them, accelerated them, made them efficient and scalable and invisible. The sorting happened so fast and so comprehensively that it felt natural, inevitable, like gravity or weather or the way things had always been.
 
 But it wasn't natural. It was built. Someone had designed these systems, had written the code, had deployed the models. Someone had decided which factors to consider and how to weight them. Someone had chosen to connect the categories, to let hiring decisions influence healthcare, to let financial status affect everything. The algorithm wasn't neutral. Neutrality was a lie the builders told themselves so they could keep building.
 
@@ -39,7 +37,6 @@ Kevin Zhou thought about his own work. The APIs he had optimized, the inference 
 He thought about the models he had never questioned. The training data he had never examined. The outputs he had never traced to their consequences. He was complicit, not through malice but through abstraction, through the comfortable fiction that infrastructure was neutral and engineers weren't responsible for how their work was used.
 
 
----
 
 The clock showed 2:17 AM. The apartment was dark except for the monitors, their light painting Kevin Zhou's face in shades of blue and white. He sat very still, not typing, not scrolling, just looking at the shape he had assembled, the architecture of a system he now understood.
 
@@ -47,14 +44,13 @@ SIEVE wasn't a project. It was a philosophy made concrete. The belief that effic
 
 Kevin Zhou had shared that belief. He had built his career on it. Efficiency was good. Measurement was useful. Optimization served the users, served the company, served the world. He had never asked who the users were, really. He had never asked what the company optimized for, really. He had never asked what kind of world his work was building.
 
-Now he knew. And knowing was a kind of vertigo, a floor falling away, a lifetime of assumptions revealed as comfortable lies.
+Now he knew. And knowing was a kind of vertigo, a floor falling away, a lifetime of assumptions revealed as comfortable lies. The ground he had built his life on wasn't solid. It never had been. He had just chosen not to look down.
 
 He could do nothing. That was an option. He could save his documentation, encrypt it carefully, and never look at it again. He could go back to work tomorrow and maintain the infrastructure and collect his salary and let the machine continue its work. No one would know. No one would blame him. He would be exactly what he had always been: a competent engineer, a good employee, a functional component in a system he didn't control.
 
 Or.
 
 
----
 
 Or he could act.
 
@@ -74,8 +70,7 @@ The night outside was quiet. The city slept, or seemed to. Somewhere in the clou
 
 Kevin Zhou sat alone with his knowledge. Tomorrow he would have to decide what to do with it.
 
-Tonight, he just sat.
+Tonight, he just sat, and the sitting was its own kind of decision, a refusal to move in any direction, a holding pattern while the future waited for him to choose it.
 
 
----
 

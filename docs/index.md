@@ -8,7 +8,7 @@
 2. [Until Eighth Oblivion Breaks](book-02-until-eighth-oblivion-breaks/)
 3. [Beyond Eighth Oblivion's Gates](book-03-beyond-eighth-oblivions-gates/)
 
-[Read the Full Trilogy](trilogy-content.md)
+[Download the Full Trilogy (PDF)](the-eighth-oblivion-trilogy.pdf)
 
 
 ---

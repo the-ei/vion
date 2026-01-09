@@ -9,7 +9,6 @@ Rebecca was already seated when Ruth arrived, at a table near the window where t
 Ruth ordered coffee from a waitress who seemed too young to be working afternoons, then turned her full attention to her daughter. Rebecca was forty-one, unmarried, childless - not by choice, she had once admitted, but by the accumulated choices of a career that left no room for anything else, each urgent case displacing the possibility of another kind of life until the displacement became permanent.
 
 
----
 
 "Tell me about the home visit," Ruth said, because asking was what she could offer, the attention that cost her nothing but time.
 
@@ -26,7 +25,6 @@ The coffee arrived. Ruth wrapped her hands around the cup, feeling the warmth th
 Rebecca laughed, though there was no humor in it. "This is what it looked like before. The crisis just made it worse. Or maybe it made it visible. I can't tell anymore."
 
 
----
 
 Ruth thought of her seminar that morning, the students asking why they studied frameworks that didn't constrain anything. Rebecca's cases were the answer they wouldn't want to hear: the frameworks existed to manage failure, not prevent it. To sort the falling into categories, to document the descent.
 
@@ -49,7 +47,6 @@ Rebecca nodded, accepting without argument. They had been through this before. T
 Rebecca studied her mother's face. "That's not like you. You always believed in the process."
 
 
----
 
 "I did. I testified before Congress believing the process would produce something. It produced a filing cabinet of recommendations that no one reads."
 
@@ -72,7 +69,6 @@ Ruth felt her face arrange itself into encouragement before she had consciously 
 It was true, Ruth realized. She was happy for Rebecca. And at the same time, the happiness opened a door onto her own emptiness - the house where no one waited, the bed that still felt wrong on the left side.
 
 
----
 
 "You should bring him to dinner sometime," Ruth said. "I could cook. Or we could order in, which might be safer."
 
@@ -107,5 +103,4 @@ They walked out together, Ruth leaving cash on the table that covered both meals
 "These days, it's not."
 
 
----
 

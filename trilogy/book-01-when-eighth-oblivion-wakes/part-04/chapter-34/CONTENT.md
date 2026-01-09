@@ -27,7 +27,6 @@ The phone left his hand. He didn't remember throwing it, but suddenly it was acr
 He couldn't finish. The words tangled in his throat, choking him.
 
 
----
 
 Amina moved to the phone, picked it up, began reading. Her face went through its own transformations—confusion, recognition, something that looked like the anger he felt. Then something else, something he couldn't name.
 
@@ -58,7 +57,6 @@ The apartment felt smaller than it was, the walls pressing in. Their mother had 
 "Would you have said yes if they did?"
 
 
----
 
 The question stopped him. He stood in the middle of the room, breathing hard, the question hanging there. Would he have said yes? If someone had called a week ago and asked permission to use their mother's death as evidence in a story about AI failure—
 
@@ -79,7 +77,6 @@ He read Elena's description of Halima's case. The careful clinical language, the
 Yusuf set the phone down. The anger was still there, but it had company now. Confusion. Grief. And something that might have been, if he squinted at it sideways, the beginning of understanding.
 
 
----
 
 "I still should have known," he said. "They should have contacted us."
 
@@ -106,7 +103,6 @@ He thought about what she would have wanted. She'd been a private person, carefu
 Amina nodded, gave him space, retreated to her corner of the apartment. And Yusuf stood at the window, watching the city lights multiply against the gathering dark, his mother's name still echoing in his head.
 
 
----
 
 Hours passed. The darkness deepened. Amina made food that Yusuf didn't eat, watched television he didn't hear. He stayed at the window, or paced, or sat with his phone reading and re-reading the documentation until he'd memorized it.
 
@@ -125,13 +121,12 @@ His thumb hovered over the call button. The anger was still there, but transform
 He didn't call. Not yet. But he saved the number. Tomorrow, maybe. Tomorrow he might have words.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The next afternoon, Yusuf and Amina sat together on the couch that had been their mother's favorite, the one she'd bought at a secondhand store when they first moved to this apartment, the one she'd said reminded her of a couch from her childhood in Somalia. The fabric was worn now, the cushions compressed from years of use, but neither of them could imagine replacing it. The couch held memories the way some objects do—not in the foam and thread, but in the accumulated hours of sitting, talking, existing together.
 
@@ -150,7 +145,6 @@ Amina was quiet for a moment, gathering her thoughts. At sixteen, she was four y
 Yusuf felt something tighten in his chest. He'd known his mother worried, but hearing it confirmed, knowing she'd prayed for him—
 
 
----
 
 "What else did she pray for?"
 
@@ -175,7 +169,6 @@ Amina laughed, the first genuine laugh either of them had managed in days. "Oh G
 The words hung there, suddenly heavy again. The small absences that accumulated into unbearable weight.
 
 
----
 
 "Do you remember what she said about the monitoring system?" Yusuf asked. "When they first set it up?"
 
@@ -200,7 +193,6 @@ Yusuf thought about the timeline in Elena's documentation. The gap between when 
 "I don't know. That's what I've been thinking about." She paused, choosing her words carefully. "You make music about the algorithm life, right? About gig work and surveillance and all of that?"
 
 
----
 
 "Yeah."
 
@@ -225,7 +217,6 @@ Yusuf thought about his mother's faith, her practical spirituality. She'd believ
 "Then help other people. Use what you have—your music, your voice, your platform—and tell her story. Not as exploitation. As testimony."
 
 
----
 
 They talked until the evening darkened the windows and the streetlights came on outside. Amina made tea—the way their mother used to, with cardamom and too much sugar—and they drank it together, the warmth of the cups in their hands a small comfort against the cold of the apartment.
 
@@ -244,7 +235,6 @@ Yusuf nodded slowly. The network was forming around him, connections he hadn't s
 "You were never alone. You just couldn't see the others yet."
 
 
----
 
 Amina went to bed around midnight, but Yusuf stayed up. He sat on his mother's couch with his guitar, the one she'd bought him for his sixteenth birthday, and he began to play.
 
@@ -261,13 +251,12 @@ But tonight, he played. For his mother. For himself. For everyone who'd ever bee
 The music carried through the thin walls of the apartment building, into the Minneapolis night, into the darkness where his mother no longer existed but her absence still resonated, still demanded to be heard.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The call with Elena was harder than he'd expected.
 
@@ -290,7 +279,6 @@ Elena was quiet for a moment. When she spoke, her voice was heavy.
 "Could you have saved her? If you'd known sooner?"
 
 
----
 
 "Maybe. Probably. That's what makes it so—" Elena's voice caught. "I've been replaying it in my head ever since. What if I'd checked on her manually? What if I'd trusted my instincts instead of the system? There were signs that something was wrong, but the AI said everything was fine, and I let myself believe it because that's what we're trained to do."
 
@@ -311,7 +299,6 @@ They sat in the silence of the phone connection, two people holding the same gri
 "Your mother deserved to be seen. All of them did. Twelve cases from my clinic alone, and those are just the ones I could document. There are hundreds more, probably. Thousands."
 
 
----
 
 After the call with Elena, Yusuf turned to social media. The story had been out for days now, and the discourse had moved on to other things—but beneath the surface, communities were forming. Other gig workers who'd experienced the crisis, other families who'd lost people, other voices that had been waiting for permission to speak.
 
@@ -334,7 +321,6 @@ The response was immediate. Sympathy, solidarity, shared rage.
 "What can we do? How do we make this matter?"
 
 
----
 
 The question—how do we make this matter—echoed through the thread and through Yusuf's thoughts. They could share stories. They could document experiences. They could bear witness. But would any of it change anything?
 
@@ -361,7 +347,6 @@ He wasn't sure that was true. His mother had been private, cautious, skeptical o
 "Probably both."
 
 
----
 
 By evening, Yusuf had exchanged messages with a dozen people. Other gig workers. Family members of crisis victims. Organizers and activists and journalists who'd heard about his story. The network was forming around him, threads connecting to threads, his mother's death becoming a node in a larger pattern.
 
@@ -382,13 +367,12 @@ He picked up the guitar. The words would come. They always did, eventually. And 
 The music was testimony. The testimony was resistance. And resistance, however small, was the only response that felt true.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Midnight. The apartment quiet. Amina asleep in the next room, her breathing a distant rhythm through the thin walls.
 
@@ -410,7 +394,6 @@ It wasn't perfect. The rhymes were off in places, the melody needed polish. But 
 He set up the microphone, adjusted the levels, checked the connection to his phone's camera. He wasn't going to just record audio this time. He was going to show his face, speak directly, let people see who he was.
 
 
----
 
 The camera's red light blinked on. Yusuf looked into the lens, saw his own reflection in the dark glass—a twenty-year-old with tired eyes and stubble he'd forgotten to shave, wearing a hoodie that used to be his mother's, bought at a thrift store years ago, still carrying the faint smell of the sandalwood soap she used.
 
@@ -427,7 +410,6 @@ He paused, let the words settle.
 He picked up his guitar.
 
 
----
 
 "This is a song I've been working on. It's not finished. But I wanted to share it because—because I think maybe it says something that needs to be said. For my mom. For everyone who's been caught in these systems."
 
@@ -454,7 +436,6 @@ The song ended. Yusuf looked at the camera, at the red light still blinking, at 
 "That's it. That's what I wanted to say. If you're out there and you've experienced something like this—if the systems have failed you too—you're not alone. We're not alone. And we're not going to be quiet anymore."
 
 
----
 
 He stopped the recording. The red light went dark. The apartment returned to its midnight silence, the only sound the hum of the refrigerator and the distant traffic on the street below.
 
@@ -479,7 +460,6 @@ He looked up. She was standing there in her pajamas, her hair wrapped for the ni
 She crossed the room, sat beside him on the floor, looked at the phone in his hand. "Do it," she said. "Mom would want you to."
 
 
----
 
 "You think?"
 
@@ -506,7 +486,6 @@ But Yusuf knew, even as he said it, that something had already happened. He'd fo
 The song was testimony. The testimony was resistance. And the resistance had begun.
 
 
----
 
 
 

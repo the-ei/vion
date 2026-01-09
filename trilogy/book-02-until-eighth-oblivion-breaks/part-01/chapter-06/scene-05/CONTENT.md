@@ -13,7 +13,6 @@ This is the self the algorithm does not see.
 This is the self that survives.
 
 
----
 
 A message from Tariq: check the bridge, added some oud samples.
 
@@ -32,7 +31,6 @@ The gap between this and any sustainable future feels insurmountable. Music does
 But music is what survives.
 
 
----
 
 One-thirty now. He should sleep. The morning will come early - the furniture task in Eden Prairie, more deliveries, more rideshares, the algorithm waking with the sun.
 
@@ -55,5 +53,4 @@ The algorithm does not know.
 The algorithm does not need to know.
 
 
----
 

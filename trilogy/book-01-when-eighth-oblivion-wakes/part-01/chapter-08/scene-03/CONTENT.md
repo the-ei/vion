@@ -9,7 +9,6 @@ When she woke for good, dawn was visible through the window - the sun rising ove
 The plane descended through clouds. London appeared in pieces: the river, the parks, the familiar geometry of streets she had walked before she knew she would ever walk elsewhere.
 
 
----
 
 The Tube from Heathrow was a reentry ritual. The rattling of the Piccadilly line, the stations passing in their familiar sequence, the gradual shift from airport zone to city proper. Delphine watched the passengers: tourists with luggage, commuters with practiced indifference, the particular diversity of London that was unlike the diversity of LA - different histories, different tensions, different ways of belonging and not belonging.
 
@@ -22,11 +21,10 @@ By the time she reached her mother's flat, she was speaking something close to t
 The flat was the same and different. Her father's chair was still in the corner of the living room, positioned where it had always been, where he could see the television and the window simultaneously. No one sat in it. His absence filled it completely.
 
 
----
 
 The birthday gathering happened on Saturday. Relatives arrived from across the city and beyond: her mother's sister from Birmingham, cousins Delphine had not seen since the funeral, old family friends whose names she half-remembered. The flat filled with voices and food, the accumulated noise of people who knew each other across decades.
 
-Her mother moved through it with the grace of someone who had learned, in the past two years, to be the center without her partner. Auntie Joyce had made jollof rice; Mrs. Patterson from the church had brought plantain; the table accumulated dishes that told their own story of diaspora and belonging. Delphine helped where she could, playing the daughter role, accepting compliments on her appearance and deflecting questions about when she would move back.
+Her mother moved through it with the grace of someone who had learned, in the past two years, to be the center without her partner. Auntie Joyce had made jollof rice; Mrs. Patterson from the church had brought plantain; the table accumulated dishes that told their own story of diaspora and belonging. Delphine helped where she could, inhabiting the daughter role, accepting compliments on her appearance and deflecting questions about when she would move back.
 
 "You can't stay in America forever," her Auntie Joyce said, the statement half joke and half serious. "Your mother needs you nearby."
 
@@ -37,7 +35,6 @@ The birthday cake appeared at the proper moment. Seventy candles - or rather, a 
 Afterward, as the guests dispersed in stages, Delphine found herself alone in the kitchen with her mother, washing dishes in the old sink.
 
 
----
 
 "Your father would have been proud," her mother said. "Of the work you're doing. He always knew you'd go somewhere."
 
@@ -60,7 +57,6 @@ The question opened a space Delphine had not expected. She tried to explain - th
 Delphine dried the dish, set it in the rack, reached for the next. Her mother's wisdom was always like this: simple enough to sound obvious, precise enough to land exactly where it was needed.
 
 
----
 
 That night, Delphine slept in her old bedroom. It was a guest room now, the walls repainted, the furniture replaced, but the shape remained - the window in the same place, the closet door that had always stuck. She lay in the narrow bed and felt seventeen and thirty-eight simultaneously, the layered self that travel to childhood homes produces.
 
@@ -73,7 +69,6 @@ She fell asleep without resolution, dreaming of her father's voice saying someth
 In the morning, she took the Tube to Heathrow alone. Her mother's face through the glass, waving. The distance reasserting itself with each step through security.
 
 
----
 
 The flight back was different from the flight out. Delphine was returning not just to LA but to the work that waited there, the Prometheus contract with its deadlines and its questions. She watched the clouds beneath her and thought about mirrors.
 
@@ -92,5 +87,4 @@ She would go to work on Monday. She would build the campaign. She would make som
 For now, she let herself not know what came next.
 
 
----
 

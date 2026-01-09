@@ -15,7 +15,6 @@ Sandra nodded, waiting.
 "It's been almost three months. They haven't terminated me. They haven't called me back. I'm in a kind of limbo."
 
 
----
 
 "That's not uncommon after a crisis event," Sandra said. She had a legal pad in front of her, and she made a note on it. "Companies often prefer ambiguity to decision. Keeps their options open."
 
@@ -42,7 +41,6 @@ Sandra's pen paused over the legal pad. "Company property?"
 "Possibly. Probably." Ananya heard herself add: "I'm not sure the categories apply cleanly."
 
 
----
 
 "Categories rarely do," Sandra said. She set down her pen. "Let me explain the legal landscape, and then we can talk about how your situation fits - or doesn't fit - within it."
 
@@ -59,7 +57,6 @@ Sandra outlined them. Ananya could wait - let Prometheus make the first move, pr
 "And if I go public? With the documents?"
 
 
----
 
 Sandra's expression shifted - not disapproval, exactly, but a kind of sharpening. "That's the high-risk path. Potential whistleblower protection, yes, but also potential liability for misappropriation of trade secrets, breach of employment agreement, possibly computer fraud depending on how you obtained the materials."
 
@@ -78,7 +75,6 @@ Sandra removed her glasses, cleaned them with a cloth from her desk drawer. "Hon
 Sandra paused, glasses in hand. "I'd want to know what the documents actually say. And why you think it matters."
 
 
----
 
 Ananya looked out the window. A woman was walking a small dog on the sidewalk below, the dog stopping to investigate every tree. The ordinary world, going on.
 
@@ -99,7 +95,6 @@ No, Ananya thought. It wasn't. The documents were leverage, or evidence, or both
 They shook hands. Sandra gave her a card with a cell number handwritten on the back. Walking to the elevator, Ananya felt no clearer than she had that morning. She had information now - options, risks, frameworks. But the decision remained hers, and the frameworks didn't quite fit.
 
 
----
 
 In the car, she sat for several minutes before turning the key. The sky had begun to break up, patches of blue appearing between the gray. She thought about Kevin Zhou - her former colleague, her sometimes rival, who had stayed at Prometheus through everything and emerged somehow elevated. He was a Vice President now, she'd heard. The crisis had been an opportunity for those who knew how to read it.
 
@@ -112,13 +107,12 @@ She started the car. Priya would be arriving tomorrow - a whole week together, t
 Driving home, she passed the Prometheus campus - glass and steel and landscaping, the logo on the sign by the entrance. She had spent eight years walking through those doors. Now she drove past without slowing, the building receding in her mirror until it was just another structure in a landscape full of structures, and then nothing at all.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Priya arrived on a Tuesday afternoon, stepping off the train from her father's place with a backpack too heavy for her frame and the particular expression she wore when transitioning between households. Not unhappy, exactly. Just recalibrating. Ananya recognized the look because she'd felt it herself, once, shuttling between divorced parents in a suburb outside Chennai before her family moved to the States.
 
@@ -143,7 +137,6 @@ The question was so direct it caught Ananya off guard. She was used to circling 
 Priya nodded, as if this were the answer she'd expected. They drove the rest of the way in comfortable silence.
 
 
----
 
 The first two days established a rhythm. Ananya made breakfast - eggs, toast, the masala chai that Priya had loved since she was small. They ate together, talking about school, about Priya's friends, about the book she was reading for English class. Small talk that was not really small. The currency of domestic life.
 
@@ -164,7 +157,6 @@ Ananya set down her spoon. She had been expecting this question, had rehearsed v
 "It's complicated," she said. Then, seeing Priya's expression: "That's not a brush-off. It's actually complicated."
 
 
----
 
 "I read about it," Priya said. "Online. The whole Eighth Oblivion thing."
 
@@ -187,7 +179,6 @@ Priya considered this. "So you're in the middle."
 "Most people are in the middle. That's what makes it hard."
 
 
----
 
 On Thursday, they went to the museum - the de Young, in Golden Gate Park. Ananya had suggested it partly because she wanted time outside the house, and partly because she remembered loving this museum when she was Priya's age. The building itself was a kind of argument, copper panels slowly patinating, modernist geometry against the park's organic sprawl.
 
@@ -210,7 +201,6 @@ Ananya looked at the painting with new eyes. Her daughter was right. The apparen
 Ananya felt something loosen in her chest. The things we say to our children, she thought. They do listen. They do remember.
 
 
----
 
 Friday afternoon, rain came. Not the dramatic downpours of monsoon season that Ananya remembered from childhood visits to India, but the Bay Area's particular gray insistence - rain that seemed less like weather than like atmosphere, the sky simply lowering until it touched everything.
 
@@ -239,7 +229,6 @@ Priya was quiet for a moment. Then: "And you want people to know the real versio
 "It is important." Ananya set down her tea. "But important isn't the same as safe. Or smart. Or easy."
 
 
----
 
 "Dad says you always made things harder for yourself than they needed to be."
 
@@ -268,7 +257,6 @@ Priya nodded slowly. "I think I understand."
 And watching her daughter's face, Ananya believed she did.
 
 
----
 
 On Sunday night, Ananya helped Priya pack for the return trip to her father's. The week had passed faster than she'd expected, the days accumulating without her quite noticing. Now she stood in the doorway of the guest room - Priya's room, when she was here - and watched her daughter fold clothes with more care than usual.
 
@@ -289,13 +277,12 @@ Her daughter believed in her. It was both a comfort and a weight. Priya had seen
 She walked back to her car through the fading light, the week already becoming memory, already becoming something she would carry forward into whatever came next.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The first offer came Monday morning, before Ananya had finished her coffee. A consulting firm in Menlo Park - TechSafe Partners, the kind of name that told you exactly nothing - had somehow obtained her personal email and wanted to discuss opportunities. Their CEO, a man named Daniel Reeves, spoke with the brisk enthusiasm of someone who saw the world as a series of problems requiring solutions and fees.
 
@@ -312,7 +299,6 @@ Daniel smiled. "You'd definitely know them."
 Which meant they were companies like Prometheus. Companies whose practices she might audit, whose gaps she might identify - and whose behavior she had no reason to believe would change.
 
 
----
 
 "What happens after the assessment?" Ananya asked. "If I identify gaps, if I make recommendations - what's the follow-through?"
 
@@ -331,7 +317,6 @@ Kevin Zhou would take this job, she thought. Would already have taken it. Would 
 She was not Kevin.
 
 
----
 
 The second conversation came Wednesday, a call with David Park from the Freeman Institute at Stanford. He was an old colleague, someone she'd known when she was getting her PhD, now a senior fellow at one of the university's many policy centers.
 
@@ -350,7 +335,6 @@ It was probably true. Ananya could feel her relevance already beginning to decay
 "I appreciate the offer," she said. "Let me think about it."
 
 
----
 
 Ruth Abramson's call came on Thursday, and it was different from the others from the first sentence.
 
@@ -369,7 +353,6 @@ Ruth did. She had relocated to San Francisco - "Temporarily, maybe permanently, 
 Ruth laughed, short and sharp. "I have money. My wife left me money. And I'm sixty-eight years old. I'm past the point where accumulation matters. What I'm trying to do is spend what I have - time, money, whatever's left - on something that might actually help."
 
 
----
 
 "Who else is involved?"
 
@@ -394,7 +377,6 @@ Ananya thought about Priya, about the Diebenkorn painting, about the simple ques
 "Yes," she said. "I am."
 
 
----
 
 "Then think about it," Ruth said. "But don't think too long. Not because of market conditions or academic relevance windows. Because there's work to be done, and the longer we wait, the harder it gets to catch up with what's already happening."
 
@@ -409,13 +391,12 @@ Ruth wasn't offering influence. She was offering vigilance. The difference matte
 Ananya made herself dinner - rice, dal, the familiar routine - and ate alone at her kitchen table. Tomorrow she would need to make calls, send emails, close doors and open others. Tonight, she would sit with the weight of what she was about to choose.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Saturday evening. Priya back at her father's, the house returned to its particular silence. Ananya sat in her home office with the documents arrayed on her desk - actual printed pages, which felt almost anachronistic, but she had wanted to see them all at once, to hold them, to remember that they were physical things with weight and texture.
 
@@ -438,7 +419,6 @@ Ananya looked at the documents. "I spent the week with my daughter. She asked me
 "That's as good a reason as any." Ruth paused. "We're meeting Tuesday. San Francisco. I'll send you the address."
 
 
----
 
 After Ruth, she called Jerome Washington. They had spoken several times since the crisis - cautious conversations, professional, each assessing the other's position and intent. Jerome had quoted her accurately in his reporting, which meant something. He had also, she suspected, held back things he knew because he understood the danger of knowing them too publicly.
 
@@ -465,7 +445,6 @@ Ananya considered. Jerome was a journalist. His job was to make information publ
 "I'm always working on something." Jerome's voice had shifted, professional interest sharpening it. "Let's talk when you're settled in Ruth's operation. See where our interests overlap."
 
 
----
 
 The last call - but no, not a call. An email. Ananya opened her laptop and began to type.
 
@@ -492,7 +471,6 @@ Let them know. Let them decide how to respond. The ambiguity was her leverage no
 She pressed send before she could reconsider.
 
 
----
 
 Outside, the light had faded to the particular gray-blue of late winter evenings. Ananya stood at her window, looking at the street where she had lived for six years, the houses she passed every day without seeing, the world that continued regardless of what decisions she made.
 
@@ -507,7 +485,6 @@ She was that someone now. Not alone - Ruth had others, Jerome had his own work, 
 The choice felt less like a decision than like a recognition. This was who she had been becoming for years, possibly for decades. The crisis had just made it visible.
 
 
----
 
 Her phone buzzed. A text from Priya: Made it home safe. Thanks for the week.
 
@@ -528,7 +505,6 @@ It wasn't enough. It would have to be enough.
 She went to bed earlier than usual and slept better than she had in months.
 
 
----
 
 
 

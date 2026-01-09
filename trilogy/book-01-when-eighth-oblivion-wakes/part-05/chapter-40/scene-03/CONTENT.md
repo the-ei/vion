@@ -13,7 +13,6 @@ Daniel smiled. "You'd definitely know them."
 Which meant they were companies like Prometheus. Companies whose practices she might audit, whose gaps she might identify - and whose behavior she had no reason to believe would change.
 
 
----
 
 "What happens after the assessment?" Ananya asked. "If I identify gaps, if I make recommendations - what's the follow-through?"
 
@@ -32,7 +31,6 @@ Kevin Zhou would take this job, she thought. Would already have taken it. Would 
 She was not Kevin.
 
 
----
 
 The second conversation came Wednesday, a call with David Park from the Freeman Institute at Stanford. He was an old colleague, someone she'd known when she was getting her PhD, now a senior fellow at one of the university's many policy centers.
 
@@ -51,7 +49,6 @@ It was probably true. Ananya could feel her relevance already beginning to decay
 "I appreciate the offer," she said. "Let me think about it."
 
 
----
 
 Ruth Abramson's call came on Thursday, and it was different from the others from the first sentence.
 
@@ -70,7 +67,6 @@ Ruth did. She had relocated to San Francisco - "Temporarily, maybe permanently, 
 Ruth laughed, short and sharp. "I have money. My wife left me money. And I'm sixty-eight years old. I'm past the point where accumulation matters. What I'm trying to do is spend what I have - time, money, whatever's left - on something that might actually help."
 
 
----
 
 "Who else is involved?"
 
@@ -95,7 +91,6 @@ Ananya thought about Priya, about the Diebenkorn painting, about the simple ques
 "Yes," she said. "I am."
 
 
----
 
 "Then think about it," Ruth said. "But don't think too long. Not because of market conditions or academic relevance windows. Because there's work to be done, and the longer we wait, the harder it gets to catch up with what's already happening."
 
@@ -110,5 +105,4 @@ Ruth wasn't offering influence. She was offering vigilance. The difference matte
 Ananya made herself dinner - rice, dal, the familiar routine - and ate alone at her kitchen table. Tomorrow she would need to make calls, send emails, close doors and open others. Tonight, she would sit with the weight of what she was about to choose.
 
 
----
 

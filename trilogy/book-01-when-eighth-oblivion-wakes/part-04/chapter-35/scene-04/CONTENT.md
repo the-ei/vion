@@ -21,7 +21,6 @@ Easy for her to say. Amina was sixteen, digital native, comfortable navigating t
 "What do you want?"
 
 
----
 
 The question stopped him. What did he want? He wanted his mother back, but that was impossible. He wanted the systems that killed her to face consequences, but that was uncertain. He wanted to make music that mattered, to have a voice that reached people, to be more than a data point in someone else's optimization equation.
 
@@ -38,7 +37,6 @@ Jerome's message came around noon: "The congressional hearing would be powerful 
 Yusuf read the message several times. The hearing felt important—a chance to put his mother's story on the official record, to make the failure undeniable in a way that tweets and videos couldn't. But it also felt terrifying. Sitting in front of Congress, answering questions from senators who might be hostile, becoming a symbol of something larger than himself.
 
 
----
 
 "I'll do it," he wrote back. "But I want to be prepared. I want to understand what I'm getting into."
 
@@ -61,7 +59,6 @@ Yusuf thought about his mother again, about the faith that had sustained her, ab
 "I know. But you can do it."
 
 
----
 
 That evening, the delivery app pinged. A shift available, decent pay, the familiar pull of the gig economy that had structured his life for years. For a moment, Yusuf stared at the notification, feeling the old habits tug at him. The apps were back online, the crisis passed, the world returning to its previous rhythms as if nothing had changed.
 
@@ -88,7 +85,6 @@ Amina looked at him with an expression he couldn't quite read—pride, maybe, or
 "I hope so."
 
 
----
 
 Later that night, after Amina had gone to sleep, Yusuf sat with his guitar and worked on a new song. This one was different from the video that had gone viral—slower, more personal, less angry and more grieving. He was learning that his voice had multiple registers, that testimony could take many forms.
 
@@ -112,5 +108,4 @@ He put down the guitar and looked out the window at the Minneapolis night. The s
 The snow kept falling. The city slept. And Yusuf sat with his grief and his hope and the strange new voice he was learning to use.
 
 
----
 

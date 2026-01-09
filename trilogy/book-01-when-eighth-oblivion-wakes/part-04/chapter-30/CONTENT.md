@@ -21,7 +21,6 @@ He opened the feed and scrolled through fragments: AI systems failing, healthcar
 The groceries in his back seat were becoming a problem.
 
 
----
 
 He tried the delivery app again. Still frozen. He tried the backup app he used when the main one was slow. Same result - loading wheel, nothing more.
 
@@ -48,7 +47,6 @@ Yusuf didn't have an answer. The apps were supposed to tell them what to do. The
 He understood. His rent was due too. His mother's medications were due. Amina's school fees were due. The gig economy paid just enough to stay one step ahead of disaster, and any disruption - any at all - threatened to collapse the fragile equilibrium.
 
 
----
 
 His phone rang. A number he recognized - the clinic where his mother went for her diabetes care.
 
@@ -77,7 +75,6 @@ He ended the call and immediately dialed home. Amina answered on the third ring.
 "She's fine. I checked this morning. The monitor was acting weird so I used the old kit." A pause. "Why? What's happening?"
 
 
----
 
 "There's something happening with the tech systems. Nationwide. The apps are down, the clinic is rescheduling appointments. Just - keep an eye on her, okay? Check her levels every few hours."
 
@@ -108,7 +105,6 @@ He paid in crumpled bills and got three gallons. Enough to get home, maybe. Enou
 The absurdity of the situation was starting to settle in. He had a car full of someone else's groceries that he couldn't deliver. He had three gallons of gas bought with his last cash. His mother's health monitor wasn't working. And the entire system he depended on for income had simply stopped.
 
 
----
 
 He got back in his car and tried the app one more time. Still frozen. The loading wheel spun its infinite circle, promising connection that never came.
 
@@ -131,7 +127,6 @@ He made a decision. The groceries couldn't be delivered. The customers couldn't 
 Yusuf started his car and headed home.
 
 
----
 
 He had driven maybe two miles when the traffic lights started malfunctioning.
 
@@ -155,13 +150,12 @@ The gas gauge dropped steadily. Three gallons didn't last long. But the familiar
 He just had to keep driving through the chaos.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The drive should have taken twenty minutes. It took nearly two hours.
 
@@ -176,7 +170,6 @@ Then through Lyndale, where the apartment buildings started to show their age an
 The class geography of the city became visible in a way it usually wasn't. In Kenwood, the crisis was an inconvenience to be waited out. In Lyndale, it was an emergency that required immediate adaptation.
 
 
----
 
 Yusuf had delivered to both neighborhoods. He had carried organic groceries to the Kenwood doors, handed them to people who barely looked at him before closing their doors. He had carried bulk goods to the Lyndale apartments, exchanged greetings with people who knew his name because he had been delivering to them for three years.
 
@@ -205,7 +198,6 @@ Cedar Riverside was maybe fifteen minutes from here, close to his own neighborho
 "It's okay. No charge. Wallahi, it's fine."
 
 
----
 
 She got into his car, navigating around the grocery bags in the back seat. He saw her notice them, the abundance of food he couldn't deliver.
 
@@ -230,7 +222,6 @@ Yusuf thought about that. The systems he depended on - the apps, the algorithms,
 But they weren't, really. They were just another system, built by people, capable of failure. And when they failed, the same old rules applied: help your neighbors, share what you have, survive together.
 
 
----
 
 "Do you want some of these groceries?" he asked. "They'll spoil anyway. Might as well go to someone who can use them."
 
@@ -259,7 +250,6 @@ He nodded and walked back to the elevator, lighter now without those two bags, t
 Maybe this wasn't the worst way for the system to fail.
 
 
----
 
 Back in his car, he was finally close to home. The familiar streets of his neighborhood, the same streets he had walked as a child, that he had driven a thousand times since getting this car. The apartment complex where his mother lived, where Amina was probably watching the news and worrying.
 
@@ -285,7 +275,6 @@ He knocked, then used his key. The smell of cooking hit him immediately - rice a
 "It's me. I'm home."
 
 
----
 
 She appeared in the kitchen doorway, her face caught between relief and worry. Sixteen years old and already carrying weight she shouldn't have to carry - their mother's care, the household management, the responsibilities that fell to her when Yusuf was out chasing the algorithm's demands.
 
@@ -316,13 +305,12 @@ It was a joke, but there was something sharp underneath it. She understood, as h
 But they would eat tonight. That was something.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Their mother woke at 3:00, called by the smell of cooking. Amina had transformed the groceries into something that made sense - rice from the Singh family's order, vegetables from Mrs. Patterson's organic selection, a stew that blended ingredients that had never been meant to go together but worked anyway.
 
@@ -347,7 +335,6 @@ But the machine was supposed to help, Yusuf thought. The machine was supposed to
 And it had failed.
 
 
----
 
 "The clinic called," he said, sitting down across from her. "They had to reschedule your appointment. Their systems are down too."
 
@@ -370,7 +357,6 @@ Amina brought plates for herself and Yusuf, and the three of them sat together a
 The conversation drifted, the way family conversations do - from food to memories, from memories to worries, from worries back to the mundane details of daily life. The crisis was happening outside, in the city, in the world. In here, at this table, they were just a family eating together.
 
 
----
 
 Yusuf looked at his sister, at the competence she wore so easily. Sixteen years old, managing their mother's care, keeping the household running while he chased the algorithm around the city. She had found the old testing kit when the monitor failed. She had checked levels every two hours. She had done everything right.
 
@@ -395,7 +381,6 @@ Yusuf felt the familiar tightness in his chest at the mention of his father. Fiv
 "Yes. And those things get paid for, one way or another. The system fails, we find another way. We've done it before. We'll do it again."
 
 
----
 
 After the meal, Halima went back to rest. The morning's disruption had tired her more than she admitted - the worry, the strange readings from the monitor before Amina switched to manual testing, the awareness that something was wrong even if she couldn't name what.
 
@@ -420,7 +405,6 @@ Yusuf thought about that. He had been taking instructions from an app for three 
 Or maybe it was chaos. It was hard to know from the inside too.
 
 
----
 
 They finished the dishes and moved to the living room, where the old television was showing news coverage of the crisis. The images were repetitive - traffic jams, hospital waiting rooms, people looking at phones with confused expressions - but the anchors kept talking, kept trying to explain something they clearly didn't understand.
 
@@ -447,13 +431,12 @@ His mother looked at him with something that might have been pride. "You sound l
 They settled in together, the three of them, the crisis continuing outside while inside this small apartment, life went on.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Evening. Halima was resting again, her levels checked and stable, the old manual routine replacing the failed technology. Amina had gone to her room to study - school might or might not happen tomorrow, but she was determined to stay caught up regardless.
 
@@ -472,7 +455,6 @@ He opened social media and started scrolling through the discourse. The "Eighth 
 "The gig economy workers are the first casualties of this crisis. No systems, no work, no pay. While the executives who built these systems sit safe in their mansions."
 
 
----
 
 He kept scrolling. More posts, more voices, more people trying to make sense of what was happening.
 
@@ -503,7 +485,6 @@ Yusuf considered the question. What did he think? He had spent three years perfo
 "I think," he said slowly, "that I've been seeing this for a long time. I just didn't have words for it."
 
 
----
 
 "What do you mean?"
 
@@ -532,7 +513,6 @@ The question stung, but not because it was wrong. Yusuf was twenty-four. He had 
 He knew it was a lie even as he said it. Things were never stable. The system made sure of that.
 
 
----
 
 Amina went to bed at 10:00, still needing to finish homework for classes that might or might not happen. Yusuf stayed on the couch, the news playing quietly, his phone showing a feed of posts he couldn't stop reading.
 
@@ -564,7 +544,6 @@ Tomorrow he would go back to work, if the apps were running. The bills wouldn't 
 But tonight, he wrote. And the song grew.
 
 
----
 
 
 

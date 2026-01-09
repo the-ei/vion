@@ -7,7 +7,6 @@ The coverage showed footage she remembered: the protests, the testimonies, the e
 "What do you think?" Daniel asked, not looking away from the screen.
 
 
----
 
 Elena did not know how to answer. The coverage was accurate in its facts and false in its implications. Everything that the experts said had happened had happened. The companies named had been investigated. The regulations discussed had been proposed. The public awareness that the commentators celebrated had indeed been raised. And yet nothing had changed - or everything had changed in ways the coverage could not capture, in the bodies of her patients, in the stress levels that had not returned to baseline, in the systems that continued operating exactly as they had before.
 
@@ -22,7 +21,6 @@ Daniel nodded slowly. He had always been the one who listened more than he spoke
 They sat together on the couch, watching the coverage play out. An economist discussed market reactions. A technology analyst explained what had changed in corporate governance (not much). A politician took credit for reforms that had not yet been implemented. Elena listened and felt the year condensing into this moment, all the shifts she had worked, all the patients she had seen, all the ways the crisis had become ordinary.
 
 
----
 
 She thought about Sofia and Mateo, who were with Gloria now, who would come home tomorrow morning to parents too tired to be fully present. Her daughter was eight, old enough to remember this year, to carry it forward into whatever future awaited her. Her son was five, still young enough that most of this would blur into early childhood, indistinguishable from all the other things he would forget.
 
@@ -43,7 +41,6 @@ She thought about telling him that every night was busy, that careful was a luxu
 "I will," she said.
 
 
----
 
 She drove to the clinic as the sun set over Phoenix, the sky turning orange and pink and purple in the way it did during late spring, when the heat was building but had not yet become unbearable. The radio continued its anniversary coverage, different voices saying variations of the same things, the narrative already solidifying into the version that would be repeated forever.
 
@@ -58,13 +55,12 @@ The anniversary was one year. The work was every day.
 She parked her car and went inside.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The waiting room was already full when Elena took over from the day shift nurse. Twenty-three patients on the list, which was high for a Tuesday evening, higher than it should have been for a clinic that was supposed to handle routine care rather than emergencies. She scanned the names and chief complaints: chest tightness, difficulty sleeping, anxiety, headache, chest tightness again, fatigue, abdominal pain that sounded stress-related.
 
@@ -81,7 +77,6 @@ Carmen looked at her hands. "I don't know. Maybe. Everything feels harder than i
 "A few days ago. Around when all the anniversary coverage started on the news."
 
 
----
 
 Elena nodded, making a note. Carmen was the first patient to name it directly, but she would not be the last. The pattern was already visible: trauma anniversaries triggered physiological responses even in people who had no conscious awareness of the connection. The body kept score, as the saying went. The body remembered what the mind tried to forget.
 
@@ -92,7 +87,6 @@ The second patient was a sixty-one-year-old man named Robert, whose chronic back
 Elena moved through them with the efficiency her job demanded, each encounter brief but thorough, each diagnosis pointing toward the same invisible cause. The anniversary was in the room with them, though only she seemed to see it clearly.
 
 
----
 
 Around nine o'clock, she took a brief break in the staff room. Dr. Osei was there, drinking coffee that had been sitting too long, staring at the wall with the particular exhaustion of someone who had been seeing patients since before Elena arrived.
 
@@ -111,7 +105,6 @@ Dr. Osei nodded. "I had a woman who was convinced her water had been poisoned. P
 They sat in the silence that followed, two people who had seen something together and rarely acknowledged it, the unspoken bond of shared witness.
 
 
----
 
 "The coverage makes it worse," Elena said. "They keep replaying it like it's a documentary. Like it's finished."
 
@@ -126,7 +119,6 @@ Elena remained in the break room a moment longer, processing what Dr. Osei had s
 And tonight, the anniversary, all those bodies remembering at once.
 
 
----
 
 She returned to the floor and saw three more patients in rapid succession. A teenager with panic attacks. A middle-aged man whose fibromyalgia had flared. An elderly woman who could not articulate what was wrong but whose vitals told a story of generalized stress, her body signaling distress her words could not express.
 
@@ -137,13 +129,12 @@ This was the work. Not heroic, not dramatic, not the kind of medicine that appea
 The anniversary played out on the television in the waiting room, visible through the window from where Elena stood. Experts discussed lessons learned. Pundits debated what had changed. The patients waiting to see her barely glanced at the screen, their attention focused inward, on the pain that had brought them here, on the bodies that would not let them forget.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The ambulance call came at ten-fifteen. Overdose, female, thirty-two, found by her husband in their bathroom. The paramedics were bringing her in rather than taking her to the emergency room because the ER was overwhelmed and the community health center had capacity - the kind of decision that reflected how strained the entire system had become.
 
@@ -156,7 +147,6 @@ Sarah Kim arrived conscious but barely so. Her eyes fluttered when Elena spoke t
 The woman's eyes focused, briefly, on Elena's face. "I didn't want..." she started, then trailed off, the sentence dissolving before it reached completion.
 
 
----
 
 The next hour was clinical. Elena moved through the protocols with the precision her training had instilled: establishing IV access, administering flumazenil to counter the benzodiazepine overdose, monitoring vital signs as Sarah's body processed the intervention. The woman's blood pressure stabilized. Her oxygen levels remained acceptable. The overdose had been serious but not immediately lethal - a cry for help, as such things were often called, though Elena had learned to be wary of that distinction. The line between wanting to die and wanting the pain to stop was often thinner than the phrase suggested.
 
@@ -171,7 +161,6 @@ Sarah's husband arrived at eleven, a man in his mid-thirties who looked like he 
 Elena recognized the self-blame that came with loving someone in crisis. She had no words to comfort him, only the professional reassurance that he had done the right thing by calling for help.
 
 
----
 
 Sarah slept. The sedation had worn off, replaced by ordinary exhaustion, her body recovering from the chemical assault it had endured. Elena sat with her while Dr. Osei handled the other patients, monitoring the steady rhythm of the heart monitor, watching Sarah's chest rise and fall with each breath.
 
@@ -184,7 +173,6 @@ Elena thought about the anniversary, about whether tonight's attempt was connect
 Or not. Elena had learned not to make predictions about people in crisis.
 
 
----
 
 Around eleven-thirty, Sarah opened her eyes. For a moment she seemed not to know where she was, her gaze unfocused, her expression confused. Then recognition settled in, and with it something that looked like shame.
 
@@ -203,7 +191,6 @@ Sarah turned her head, looked at the wall. "I saw the anniversary coverage. All 
 The words hit Elena with unexpected force. It was her own thought, echoed back from a patient's mouth, the same gap between narrative and reality that she had felt in her living room hours ago.
 
 
----
 
 "Did that trigger tonight?" Elena asked, the clinical question that was also personal.
 
@@ -222,13 +209,12 @@ She had saved a life tonight. Or delayed a death. Or interrupted a story whose e
 The work continued.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Daniel's text arrived at midnight: Can't sleep. Are you okay?
 
@@ -247,7 +233,6 @@ She called him instead of texting back. The phone rang twice before he answered,
 "I'm sorry." He meant it, the way he always meant the things he said. Daniel was not eloquent, but he was honest. It was one of the things she had fallen in love with, years ago, before exhaustion became the default state of their marriage.
 
 
----
 
 "I've been thinking," Daniel said. "About us. About how we've been."
 
@@ -266,7 +251,6 @@ Daniel was quiet for a long moment. "I wondered. You seem different when you com
 "I know. I'm sorry. I didn't know how to tell you."
 
 
----
 
 "I've been wondering if we should try therapy," Daniel said. "Couples therapy, I mean. Someone to help us figure out how to be us again."
 
@@ -285,7 +269,6 @@ The conversation shifted after that, became less charged, more tender. They talk
 "I love you too. Come home safe."
 
 
----
 
 She sat in the break room for a few minutes after the call ended, letting the conversation settle. Something had shifted - not dramatically, not in a way that anyone else would notice, but she could feel it. A door that had been closing was now open again, just enough to let light through.
 
@@ -298,13 +281,12 @@ She stood up, refilled her coffee, returned to the floor. The shift continued ar
 The anniversary clock on the wall clicked past one a.m. Five more hours until dawn.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Dawn.
 
@@ -319,7 +301,6 @@ She stands by her car, not yet ready to open the door, to start the engine, to d
 The anniversary is over. One year.
 
 
----
 
 She thinks about what she has seen. The patients carrying trauma in their bodies. Sarah Kim, awake now in the psychiatric unit, facing whatever comes next. Dr. Osei, who will do this again tonight, and the night after, and the night after that.
 
@@ -334,7 +315,6 @@ Not a plan. Not a solution. Just clarity.
 She cannot heal the system. The system is not her patient. She can only do what she does - see the bodies that arrive, treat the symptoms she can treat, bear witness to the suffering she cannot prevent.
 
 
----
 
 But seeing is not nothing.
 
@@ -359,7 +339,6 @@ The heat builds.
 Something is coming.
 
 
----
 
 
 

@@ -9,7 +9,6 @@ But the documents suggested something more. API references that connected Promet
 Jerome opened a new spreadsheet and began building his own map. Partner organizations in one column, connection type in another, evidence strength in a third. The work was tedious and essential, the foundation on which everything else would rest.
 
 
----
 
 His phone buzzed at 12:17. Patricia.
 
@@ -28,7 +27,6 @@ Aunt Vivian had been dead for fifteen years. Jerome felt the weight of it settle
 "What we've been doing. What I've been doing." Patricia's voice carried the edge now, the one he knew was coming, the one he deserved. "She needs more help than she has. She needs someone there full-time, or she needs to not be there at all. And I'm working sixty hours a week, Jerome, and driving to check on her every other day, and I don't know how much longer I can do this."
 
 
----
 
 "I know," Jerome said. "I know."
 
@@ -59,7 +57,6 @@ Jerome didn't speak. The words sat between them, heavy with everything they mean
 She hung up. Jerome sat in the silence of his office, his mother's voice in his memory—she always did like chasing things—and the documents waiting on his screen.
 
 
----
 
 He should have gone to bed. Denise would be up at six, and so would he, and the morning would come whether he was ready for it or not. But the documents pulled at him, the shape of the story pulling at him, and he found himself turning back to the screen, opening files, following threads.
 
@@ -78,7 +75,6 @@ It was an architecture of sorting. A machine for classifying human beings and ro
 Jerome stared at his whiteboard, at the arrows and names and question marks. At the center, he wrote in red marker: PROMETHEUS.
 
 
----
 
 The thought of his mother came unbidden, as it always did in the small hours.
 
@@ -101,5 +97,4 @@ He closed the laptop.
 He didn't sleep.
 
 
----
 

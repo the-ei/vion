@@ -13,7 +13,6 @@ Jerome leaned back in his chair, considering. He had been operating independentl
 "What does 'more formally connected' look like?"
 
 
----
 
 "Regular briefings. Access to our analysis. A relationship where we share what we're seeing and you share what you're reporting on - not before publication, but as part of a conversation about what matters."
 
@@ -38,7 +37,6 @@ Jerome smiled. The question was genuine - Ananya had met his son once, during on
 "Coming to visit next week. I'm looking forward to it."
 
 
----
 
 After the call, Jerome returned to his document. The piece was about the technical developments that had emerged since the crisis - the new AI systems being deployed, the claims being made about their safety, the gaps between what companies said and what researchers observed. Ruth's group was tracking some of this; Jerome was tracking other parts. Together they might build a picture that neither could see alone.
 
@@ -53,7 +51,6 @@ He typed back: Good luck. Tell me how it goes.
 The exchange was small, ordinary, the kind of thing fathers and sons texted each other a thousand times. But it meant something to Jerome - the renewed connection, the mutual respect that had emerged from honest disagreement.
 
 
----
 
 At noon, he took a break. Made himself lunch - a sandwich, nothing elaborate. Ate at his desk while scrolling through the day's developments. The news cycle had moved on from the crisis to other concerns - elections, economic indicators, the latest cultural controversy. The Eighth Oblivion had become background noise, a reference point for think pieces rather than an urgent threat.
 
@@ -70,7 +67,6 @@ He returned to his document, the words accumulating, the story taking shape. The
 The work continued. That was enough.
 
 
----
 
 In the early afternoon, Jerome saved his draft and closed the laptop. The piece needed another day or two before it would be ready. There was no rush - the story would still be there tomorrow, and the day after, and the day after that. The urgency of the crisis had faded; what remained was the steady work of keeping watch.
 
@@ -87,5 +83,4 @@ Not complacency. Not false hope. Just presence.
 The vigil could wait until tomorrow.
 
 
----
 

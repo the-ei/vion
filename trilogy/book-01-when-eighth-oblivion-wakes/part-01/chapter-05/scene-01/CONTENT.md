@@ -19,7 +19,6 @@ A smile, or the beginning of one. "Thanks."
 The rituals of transition. Ananya had learned them over the three years since the divorce: the adjustment period when Priya first arrived, the way she needed to move through the space and claim it, touching things, opening cabinets, remembering. She was fourteen now and the rituals had shortened but not disappeared. The territory still needed marking.
 
 
----
 
 "I was thinking pad thai for dinner," Ananya said. "That place you like."
 
@@ -40,7 +39,6 @@ Not tonight, she told herself. Tonight is for Priya.
 She closed the app and ordered the pad thai, the gesture a small act of faith in normalcy.
 
 
----
 
 Dinner arrived. Priya emerged from her room with the reluctant grace of a teenager fulfilling obligation. They ate at the kitchen table, the containers open between them, Priya's phone face-down on the table in acknowledgment of the rule about screens at meals.
 
@@ -69,7 +67,6 @@ Ananya stood in the kitchen, the silence returning. The house felt large around 
 She washed the few dishes by hand, dried them, put them away. She wiped down the counters. She considered watching something but couldn't summon interest in any of it.
 
 
----
 
 At nine o'clock she went to her study, the small room off the living room where she worked on weekends, where she kept the laptop that wasn't connected to Prometheus's network. She closed the door behind her, though Priya was unlikely to emerge again tonight.
 
@@ -88,7 +85,6 @@ It was a system diagram, the boxes and arrows of technical architecture, but she
 The second document was an internal memo, heavily redacted in places but readable in others. Certain phrases floated up from the text like bodies surfacing in water.
 
 
----
 
 *Predictive modeling accuracy exceeds initial projections...*
 
@@ -105,5 +101,4 @@ The system wasn't just helping users understand themselves. It was building mode
 Ananya closed the laptop. In the darkness of her study, the house silent around her, her daughter asleep down the hall unaware of what her mother had just learned, she sat very still and tried to understand what she was supposed to do now.
 
 
----
 

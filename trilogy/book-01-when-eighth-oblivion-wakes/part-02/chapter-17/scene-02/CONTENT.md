@@ -13,7 +13,6 @@ But Roberto was dead. And others might follow, were probably already following, 
 Elena pressed send.
 
 
----
 
 The screen showed "Message Sent." The package was gone, traveling through encrypted channels, beyond her reach now. Whatever happened next was set in motion.
 
@@ -40,7 +39,6 @@ Elena felt something shift in her chest. Confirmation. Validation. The sense tha
 "I thought it might be connected," she said. "The architecture seemed too sophisticated for a standalone healthcare application."
 
 
----
 
 "It's not standalone," Jerome said. "Prometheus builds a core prediction engine and licenses it across industries. Healthcare, hiring, labor management - they're all running on the same infrastructure. What you've documented isn't an isolated case. It's one manifestation of a system that's sorting people across every domain of their lives."
 
@@ -71,7 +69,6 @@ Elena looked out at the Phoenix night. Somewhere in Baltimore, Jerome was sittin
 "I don't know. Months, maybe. As long as it takes to do this right."
 
 
----
 
 They talked for an hour. Jerome explained his investigation - the web of corporate structures, the technical architecture, the connections he was mapping. Elena described what she saw daily at the clinic - the patients sorted, the recommendations followed, the way staff had been trained to trust the algorithm over their own judgment.
 
@@ -102,5 +99,4 @@ It was also, for the first time in months, something like hope.
 She finished her cold tea and went to bed, but sleep was a long time coming.
 
 
----
 

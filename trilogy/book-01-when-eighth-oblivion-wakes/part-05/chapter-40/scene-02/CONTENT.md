@@ -21,7 +21,6 @@ The question was so direct it caught Ananya off guard. She was used to circling 
 Priya nodded, as if this were the answer she'd expected. They drove the rest of the way in comfortable silence.
 
 
----
 
 The first two days established a rhythm. Ananya made breakfast - eggs, toast, the masala chai that Priya had loved since she was small. They ate together, talking about school, about Priya's friends, about the book she was reading for English class. Small talk that was not really small. The currency of domestic life.
 
@@ -42,7 +41,6 @@ Ananya set down her spoon. She had been expecting this question, had rehearsed v
 "It's complicated," she said. Then, seeing Priya's expression: "That's not a brush-off. It's actually complicated."
 
 
----
 
 "I read about it," Priya said. "Online. The whole Eighth Oblivion thing."
 
@@ -65,7 +63,6 @@ Priya considered this. "So you're in the middle."
 "Most people are in the middle. That's what makes it hard."
 
 
----
 
 On Thursday, they went to the museum - the de Young, in Golden Gate Park. Ananya had suggested it partly because she wanted time outside the house, and partly because she remembered loving this museum when she was Priya's age. The building itself was a kind of argument, copper panels slowly patinating, modernist geometry against the park's organic sprawl.
 
@@ -88,7 +85,6 @@ Ananya looked at the painting with new eyes. Her daughter was right. The apparen
 Ananya felt something loosen in her chest. The things we say to our children, she thought. They do listen. They do remember.
 
 
----
 
 Friday afternoon, rain came. Not the dramatic downpours of monsoon season that Ananya remembered from childhood visits to India, but the Bay Area's particular gray insistence - rain that seemed less like weather than like atmosphere, the sky simply lowering until it touched everything.
 
@@ -117,7 +113,6 @@ Priya was quiet for a moment. Then: "And you want people to know the real versio
 "It is important." Ananya set down her tea. "But important isn't the same as safe. Or smart. Or easy."
 
 
----
 
 "Dad says you always made things harder for yourself than they needed to be."
 
@@ -146,7 +141,6 @@ Priya nodded slowly. "I think I understand."
 And watching her daughter's face, Ananya believed she did.
 
 
----
 
 On Sunday night, Ananya helped Priya pack for the return trip to her father's. The week had passed faster than she'd expected, the days accumulating without her quite noticing. Now she stood in the doorway of the guest room - Priya's room, when she was here - and watched her daughter fold clothes with more care than usual.
 
@@ -167,5 +161,4 @@ Her daughter believed in her. It was both a comfort and a weight. Priya had seen
 She walked back to her car through the fading light, the week already becoming memory, already becoming something she would carry forward into whatever came next.
 
 
----
 

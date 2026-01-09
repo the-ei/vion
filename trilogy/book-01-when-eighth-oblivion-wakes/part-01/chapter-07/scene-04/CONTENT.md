@@ -7,7 +7,6 @@ He opened his laptop. Logged into the Prometheus development environment. His ac
 He began exploring. This was what engineers did - they understood systems by walking through them, tracing connections, building a model in their minds of how the parts fit together. He had done this before with his own components. Now he was doing it with the whole.
 
 
----
 
 The first thing he noticed was scale.
 
@@ -22,7 +21,6 @@ The use cases were organized by market segment. Advertising optimization, which 
 Kevin Zhou clicked into Civic Engagement. The language was careful, neutral, optimized for legal review. But beneath the corporate phrasing, he could see the shape of what was planned. Clarity's models could identify which citizens were persuadable on which issues. They could predict responses to messaging, optimize communications for maximum behavior change, simulate the effects of interventions before they were deployed.
 
 
----
 
 He sat back from the screen. His apartment was very quiet. Through the window, the city lights continued their indifferent burning.
 
@@ -30,14 +28,13 @@ What he felt was not surprise. He had known, at some level, that systems like Cl
 
 But the documentation made thinking unavoidable. The applications he was reading about were not hypotheticals; they were plans with timelines and revenue projections. The system he had built would be deployed against populations who did not know they were being modeled, who could not understand they were being predicted, who would experience the effects as if they were their own choices.
 
-He thought of his parents, careful with their words, aware of surveillance without naming it. He thought of Atlas's questions, pointed in ways that now seemed less innocent. He thought of Sara, who had asked him about his work and whom he had answered with safe generalities, not because he wanted to deceive her but because the truth was something he had not yet let himself see.
+He thought of his parents, careful with their words, aware of surveillance without naming it. He thought of Atlas's questions, pointed in ways that now seemed far less innocent. He thought of Sara, who had asked him about his work and whom he had answered with safe generalities, not because he wanted to deceive her but because the truth was something he had not yet let himself see.
 
 The code was still beautiful. That was the problem. You could look at the architecture and admire its elegance without ever seeing what it would be used for.
 
 He closed the development environment.
 
 
----
 
 What he should have done, perhaps, was document what he had found. Copy the files, take notes, create a record that could be shared with someone who would know what to do with it. Ananya's ethics review, which he had deleted twice, suddenly seemed less theatrical. She had been asking questions. Maybe her questions were the right questions.
 
@@ -50,7 +47,6 @@ He could quit. Could resign tomorrow, walk away from Clarity and from Prometheus
 He could stay and try to change things from inside. This was what Ananya did, presumably. Ethics as constraint, as friction in the machinery. But Kevin Zhou had seen the strategy meeting, had watched the executives discuss applications that no ethics review would prevent. The machinery would route around friction. It always did.
 
 
----
 
 He went to bed without answers.
 
@@ -58,7 +54,7 @@ The ceiling was white and blank, revealing nothing. His body was tired and his m
 
 The system he had built could predict behavior. But it could not predict this: the moment when the builder looks at what he has built and sees it clearly for the first time. The models did not account for recognition. They assumed the user would not understand what was being done to them.
 
-Kevin Zhou was not a user. He was an engineer. And he had just become something else - something that did not have a name yet, that might be called witness or accomplice or both.
+Kevin Zhou was not a user. He was an engineer. And he had become something else tonight - something that did not yet have a name, something that might be called witness or accomplice or both.
 
 Sleep came eventually, grudging and thin. He dreamed of code scrolling past too fast to read, of numbers climbing toward a ceiling that kept receding, of his father's face frozen in video lag, saying words that arrived without sound.
 
@@ -67,5 +63,4 @@ When he woke, the sun was up and nothing had changed. The question of what to do
 Inside, something had shifted. But inside was where it would stay, for now.
 
 
----
 

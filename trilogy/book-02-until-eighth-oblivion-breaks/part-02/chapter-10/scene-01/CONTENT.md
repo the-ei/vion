@@ -11,7 +11,6 @@ She carried her coffee to the study, where the testimony materials waited. Three
 The question was whether what she meant would survive contact with political reality.
 
 
----
 
 Susan would have helped her rehearse. That had been their practice for decades - Ruth reading through her testimony aloud while Susan played devil's advocate, asking the questions senators would ask, probing for weaknesses in argument or presentation. Susan had been a doctor, not a lawyer, but her diagnostic mind had been invaluable: she spotted logical inconsistencies the way she had once spotted symptoms, with precision and without excessive sentiment.
 
@@ -24,7 +23,6 @@ These were questions that demanded careful constitutional interpretation. But Ru
 The car service arrived at seven-thirty. Ruth gathered her materials and stepped into the morning, the Washington humidity already oppressive despite the early hour.
 
 
----
 
 The driver was young, courteous, silent in the way good professional drivers learned to be. Ruth watched the city pass through the tinted windows: the monuments she had walked past for four decades, now so familiar they registered merely as landmarks rather than symbols. The Capitol dome appeared ahead, white against the gray sky.
 
@@ -41,7 +39,6 @@ But she knew the senators would not respect her limited mandate. They would want
 The car pulled up to the Capitol entrance. Ruth stepped out into the bright June morning, testimony folder in hand.
 
 
----
 
 She knew the route to the hearing room without needing directions: through security, up the elevator, down the corridor with its marble floors and portraits of past chairmen. Staffers moved past her with the purposeful speed of people who believed their business mattered urgently. Ruth moved more slowly, conserving energy for what was to come.
 
@@ -56,5 +53,4 @@ At nine-thirty precisely, the senators began to file in. Ruth watched their face
 The gavel fell. The hearing began.
 
 
----
 

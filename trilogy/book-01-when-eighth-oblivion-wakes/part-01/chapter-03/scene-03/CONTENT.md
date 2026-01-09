@@ -23,7 +23,6 @@ And here is where it falls apart. What does he work on? He works on Clarity, whi
 "Cool," Michelle says, and he can hear the interest draining from her voice.
 
 
----
 
 She tells him about her job. A beverage company. Product launches. The particular challenge of making sparkling water seem exciting. Kevin Zhou listens and nods and cannot think of a single follow-up question that would not sound forced.
 
@@ -50,7 +49,6 @@ Fun. The word sits in his mouth like a foreign object. What does he do for fun? 
 Another silence. The bar is loud around them, other conversations flowing, laughter that sounds easier than anything Kevin Zhou has ever managed to produce. Michelle checks her phone, briefly, almost apologetically.
 
 
----
 
 They finish their drinks. The check comes, and Kevin Zhou pays because it seems expected, and Michelle thanks him in a way that means this is ending.
 
@@ -73,7 +71,6 @@ It is nine-thirty. The evening stretches ahead like a landscape he does not want
 Logs in.
 
 
----
 
 In the game, he is Wei_37. The handle is old, chosen in college, meaningless now but familiar. His character loads into the guild hall where his teammates are already gathering, their avatars milling around the spawn point with the particular impatience of people ready to play.
 
@@ -90,7 +87,6 @@ The raid begins. Kevin Zhou's voice fills the channel, steady and sure, calling 
 Here, he matters.
 
 
----
 
 Three hours pass like minutes. They clear the raid, celebrate in chat, the congratulations flowing in text and voice. Someone suggests they queue for another. Kevin Zhou checks the time: past midnight. His body is tired, though his mind is still buzzing with the particular alertness that comes from sustained focus.
 
@@ -109,5 +105,4 @@ He takes off the headset. Stretches his neck. The apartment is exactly as he lef
 Instead he sits for a long moment in his ergonomic chair, looking at nothing, feeling the absence of the game like a phantom limb. In the game he is Wei_37, leader, strategist, someone whose contributions matter. Here he is Kevin Zhou, twenty-eight, alone, the architect of systems he does not control. The apartment makes its small sounds around him. Tomorrow is Sunday. Nothing is waiting.
 
 
----
 

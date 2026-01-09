@@ -11,7 +11,6 @@ They worked on him for twenty-three minutes. That is the number Elena remembers,
 For Roberto, they did not work.
 
 
----
 
 He had been in the waiting room for two hours. Elena knows this because she looked at the logs, after. She looked at everything, after.
 
@@ -28,7 +27,6 @@ She did not.
 She had seven patients waiting for her. She had the system telling her that Roberto could wait. She had the institutional pressure of throughput and efficiency and the constant, grinding message that there was not enough time for everything.
 
 
----
 
 Roberto died at 4:23 PM.
 
@@ -47,7 +45,6 @@ Now, days later, she walks through the waiting room on her way to her first pati
 The waiting room looks the same. Plastic chairs, murmuring television, fluorescent lights. Nothing has changed except everything.
 
 
----
 
 Maria Delgado-Fuentes comes to the clinic three days after her husband's death.
 
@@ -72,7 +69,6 @@ Elena feels something break inside her, a small fracture in the professional com
 "No," Elena agrees. "It doesn't."
 
 
----
 
 They stand together in the exam room, widow and nurse, and Elena does not know what to say that would help because there is nothing to say. She cannot explain MedAssist to this woman. She cannot describe the priority score that decided her husband's life was worth waiting for. She cannot articulate the bureaucratic machinery that ground Roberto down from a person with symptoms into a number in a queue.
 
@@ -93,7 +89,6 @@ Instead, she says: "I don't know yet. But I'm going to find out."
 Maria nods once, as if this is what she came to hear. Then she turns and walks out of the exam room, leaving Elena alone with her promise.
 
 
----
 
 That night, Elena lies awake again.
 
@@ -112,5 +107,4 @@ Elena does not know this yet, not fully. But she suspects.
 And suspicion, she has learned, is the beginning of knowledge.
 
 
----
 

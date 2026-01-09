@@ -9,7 +9,6 @@ The parking garage is concrete and fluorescent light, his footsteps echoing in t
 He is reaching for his car door when he hears the other footsteps. Someone else leaving late. He does not think much of it until he sees who it is.
 
 
----
 
 Ananya Ramaswamy. He knows her by reputation, by the occasional email, by the org chart that places her in a different universe within the same company. Ethics and policy. The people who review what engineering builds, who raise concerns that slow things down, who ask questions that have no answers in code.
 
@@ -38,7 +37,6 @@ She looks at him. In the fluorescent light of the parking garage, her face is ha
 "Then what does?"
 
 
----
 
 "The gap," she says. "Between what the system is designed to do and what it could be used for. Between helping users understand themselves and helping others understand users. The documentation describes decision support. The capabilities suggest something broader."
 
@@ -59,7 +57,6 @@ They stand in the parking garage, facing each other across three car-lengths of 
 "Ethics theater," he says. The words come out before he can stop them. "That's what this is. You review our work, raise concerns, and nothing changes. The deployment happens anyway. You're just cover."
 
 
----
 
 Ananya does not flinch. "Maybe," she says. "Maybe you're right. Maybe my job is theater, and the show goes on regardless. But at least I'm asking the questions. At least I'm trying to put speed bumps on the road to wherever we're going. What are you doing?"
 
@@ -78,7 +75,6 @@ She walks to her car. Opens the door. Looks back at him one more time.
 She knows his name. Somehow this surprises him, though there is no reason it should.
 
 
----
 
 He sits in his car for a long time after she leaves. The engine running, the heat on, the parking garage empty around him. The conversation replays in his mind, and with each replay he thinks of better things he could have said, sharper arguments, cleaner defenses. Ethics theater. He stands by the phrase, mostly. The ethics review process is theater, a performance of concern that does not change outcomes. But the way Ananya looked at him when he said it - not angry, not defensive, just sad, as if she had heard this before and would hear it again and had made her peace with being dismissed.
 
@@ -93,5 +89,4 @@ Except now, tonight, in the silence of his apartment, Ananya's question echoes: 
 He does not sleep well.
 
 
----
 

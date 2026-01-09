@@ -11,7 +11,6 @@ The first episode established the stakes. Archive footage of the crisis, the hea
 Beside her, Jessie squeezed her hand. They had watched these episodes together dozens of times during editing. But this was different. This was the work meeting the world.
 
 
----
 
 Delphine watched herself watching. A documentary filmmaker's occupational hazard - the constant self-observation, the awareness of framing even when you were the one being framed.
 
@@ -26,7 +25,6 @@ The network had pushed back on this episode more than any other. "Too negative,"
 But she'd held the line. Fairness wasn't about giving equal time to accurate and inaccurate claims. Fairness was about showing the truth as clearly as she could see it.
 
 
----
 
 Episodes four and five blended together in her mind - a meditation on consequences and possibilities, on what the crisis had revealed about the world they were building. She had tried to be neither utopian nor dystopian, to hold both hope and concern without collapsing into either.
 
@@ -41,7 +39,6 @@ The credits rolled. The lights came up slowly.
 For a moment, no one spoke. Then someone started clapping - a woman in the front row - and others joined in. Not thunderous, not standing ovation. Just the polite appreciation of people who had seen something they needed to process.
 
 
----
 
 Delphine stood as the audience began to leave, Jessie beside her. A few people approached to offer comments - the polished compliments of industry professionals who might or might not have meant what they said. She smiled, thanked them, filed away their observations for the post-mortem she would conduct with her team.
 
@@ -62,7 +59,6 @@ Delphine reached out, touched the woman's arm. "What was your sister's name?"
 The woman nodded, wiped her eyes, thanked her again, and walked away. Jessie squeezed Delphine's hand.
 
 
----
 
 "That's why you do it," Jessie said softly. "That right there."
 
@@ -87,7 +83,6 @@ It was simple advice, the kind Jessie always gave, and as always it was what Del
 "Let's go home," she said.
 
 
----
 
 On the drive, Delphine thought about the woman whose sister had died. Amanda. Thirty-two. A nurse. One of the statistics that were also people, that had to be people or nothing meant anything.
 
@@ -104,5 +99,4 @@ But she was thinking about it. The vigil continuing in a different form.
 For now, she drove toward home, toward Theo and dinner and the ordinary life that waited on the other side of the workday. The series was finished. What came next was still unknown.
 
 
----
 

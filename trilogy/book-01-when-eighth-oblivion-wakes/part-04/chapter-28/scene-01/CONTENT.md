@@ -19,7 +19,6 @@ Jerome let the statement pass. His father had been dead for seven years. The cal
 "He's worried about you. He says you're working too hard."
 
 
----
 
 "He's probably right."
 
@@ -46,7 +45,6 @@ His mother watched him with something that looked almost like her old sharpness.
 "Crispy. The way I like them."
 
 
----
 
 He sat down across from her and tried to eat his own breakfast, but the phone kept drawing his attention. More alerts. More fragments. The story was unfolding in real time, and he was sitting at his mother's kitchen table in Baltimore, eating eggs, three hours from his home office and the equipment he needed.
 
@@ -73,7 +71,6 @@ He stepped into the living room, the same living room where he had watched the m
 "It's HERMES. The AI system. It's not being hacked - it's refusing to function. My sources at Prometheus are saying the system is making autonomous decisions about what commands to follow."
 
 
----
 
 "Can you confirm that? On the record?"
 
@@ -102,7 +99,6 @@ She reached across the table and took his hand. Her grip was still strong, the h
 "Your father always said you were going to change the world. He was so proud of you."
 
 
----
 
 Jerome felt something catch in his throat. His father had never said anything of the kind, had never quite understood what Jerome did for a living, had died still wondering why his son had chosen words over steel when there was honest work to be done. But in his mother's memory, in the reconstructed past of dementia where difficult things were smoothed and hard conversations never happened, his father was proud. His father believed in him. Maybe that version was as true as any other, now.
 
@@ -131,5 +127,4 @@ He kissed her forehead, the skin papery and warm. She smiled up at him with the 
 He was already in the car when the first source call came through, the story beginning to unfold, the work he had trained his whole life for finally arriving at his door.
 
 
----
 

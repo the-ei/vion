@@ -13,7 +13,6 @@ Sandra opened the door before Jerome could knock. His sister had always known wh
 "Both. For now."
 
 
----
 
 Jerome stepped inside, into the house that smelled like his childhood even though the furniture had been rearranged and the rugs replaced and accommodations made for a woman who might forget to turn off the stove. His mother sat in the chair by the window, the chair where she had always sat, watching the street with the particular attention of someone who had lived in the same place long enough to know every rhythm.
 
@@ -34,7 +33,6 @@ He pulled up a footstool and sat where she could see him without turning her hea
 "Then you're still lasting."
 
 
----
 
 They talked for a while - or rather, Jerome talked and his mother listened, occasionally interjecting with observations that were sometimes relevant and sometimes not. Her mind moved in patterns he had learned to follow, making connections he couldn't always trace. She asked about Denise and DeShawn; she remembered them today, remembered that DeShawn was her grandson, remembered being proud of how smart he was.
 
@@ -57,7 +55,6 @@ Sandra called them to lunch - soup and sandwiches, the simple food that their mo
 "You should do what you can do. That's all any of us can do."
 
 
----
 
 After lunch, Jerome sat with his mother while she watched television - a game show, the kind she had always liked, the simple pleasures that remained when complexity became too much. He didn't pay attention to the show. He watched her face, trying to memorize the version of her that was still here, knowing that each visit might find less.
 
@@ -80,7 +77,6 @@ He looked at her. She was looking at him with an expression he couldn't quite re
 Jerome felt something shift in his chest, some pressure that had been building release slightly. His father had not been an easy man. He had been proud and stubborn and occasionally harsh, shaped by the particular experiences of Black men of his generation. But he had believed in things. He had believed that work mattered, that integrity mattered, that you stood up even when standing up cost you.
 
 
----
 
 "Mama, do you remember the story I did last year? About the technology companies?"
 
@@ -107,7 +103,6 @@ It was the clearest thing she had said all day, maybe the clearest thing she had
 "I know, baby. I love you too. Even when I forget."
 
 
----
 
 Later, Jerome helped Sandra with the dishes while their mother napped in her chair. The house held its afternoon quiet, the particular peace of a place where generations had lived and would continue living until they couldn't.
 
@@ -138,5 +133,4 @@ He had a book event to attend in D.C. He had a source to meet tomorrow. He had a
 He drove back to D.C. as the sun set, carrying all of it with him.
 
 
----
 

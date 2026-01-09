@@ -9,7 +9,6 @@ The math ran automatically in his head. If he picked up four grocery deliveries 
 He was always too tired. But tired did not pay rent.
 
 
----
 
 Yusuf dressed quickly, layers against the cold: thermal undershirt, flannel, the jacket his father had worn before the accident. It was too big for him, but he wore it anyway, the extra fabric a kind of embrace from a man who had been gone for seven years now. He moved quietly through the apartment, past his mother's closed door, past Amina's room where she slept with her phone clutched in her hand like other teenagers, past the kitchen where last night's dishes waited in the sink.
 
@@ -20,7 +19,6 @@ His car waited in the lot behind the building, a 2019 Honda Civic with 187,000 m
 The engine turned over on the second try. He let it warm up while he checked the app again, watching orders appear and disappear as other drivers claimed them.
 
 
----
 
 The first delivery was in Edina, a wealthy suburb where the houses had three-car garages and the lawns were still brown from winter but would soon be green and perfect, maintained by landscaping crews full of men who looked like Yusuf's uncles. He pulled up to the address, a Tudor-style home with a circular driveway, and gathered the grocery bags from his back seat. Organic milk. Grass-fed beef. Something called adaptogenic mushroom coffee that cost more than his weekly food budget.
 
@@ -33,7 +31,6 @@ His rating held steady at 4.92, which was good enough to keep the algorithm from
 The second delivery was better. An elderly man in a small house near Lake Harriet, retired, lonely, wanted to talk about the weather and the Twins and whether Yusuf thought spring would ever really arrive. He tipped ten dollars in cash, pressed into Yusuf's hand with a grip that spoke of a generation that still believed in human exchange.
 
 
----
 
 By nine-thirty, Yusuf had completed six deliveries and was running on fumes of coffee and determination. The morning had been a mixed bag: two good tips, three nothing, one order canceled mid-route that left him holding grocery bags he had to return to the store for no compensation. The algorithm did not explain why orders were canceled. The algorithm did not explain anything.
 
@@ -46,7 +43,6 @@ His phone buzzed: a batch order, three deliveries clustered in the same neighbor
 The third address was wrong. The app said 4523 Maple Street. There was no 4523 Maple Street. There was 4521 and 4525, a gap where the house should have been, as if the algorithm had invented an address that did not exist.
 
 
----
 
 Yusuf parked between the two houses and called the customer. No answer. He texted through the app: explaining the situation, asking for clarification, his tone professional despite the frustration building in his chest. The timer on the delivery continued counting down, indifferent to the impossibility of completing a delivery to a house that did not exist.
 
@@ -61,13 +57,12 @@ He passed another gig worker on the return trip, a woman about his age, Latina, 
 Then the light changed, and they went their separate ways, each one alone with their phone and their algorithm and the math that would not add up no matter how hard they worked.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Yusuf switched to rideshare at eleven, the delivery orders slowing as the morning rush ended and office workers settled into their routines. The rideshare app was a different game: longer trips, more interaction, the performance of friendliness that the rating system demanded.
 
@@ -78,7 +73,6 @@ The second fare was a college student going from Dinkytown to the Mall of Americ
 The third was a couple arguing in the back seat, their voices low but intense, something about money or children or both. Yusuf turned up the radio slightly, gave them privacy they did not acknowledge needing, drove to their destination in silence. They did not tip at all.
 
 
----
 
 The afternoon had settled into its familiar rhythm - pick up, drive, drop off, repeat - when the app directed him to a address in Cedar-Riverside, the neighborhood that Somalis like his family had made their own over the past three decades. He pulled up to an apartment building he recognized, had maybe even visited once when he was younger, for some gathering of families his mother had organized before his father died.
 
@@ -93,7 +87,6 @@ She was going to a doctor's appointment in St. Louis Park, a specialist of some 
 Yusuf agreed, turning off the meter mentally even though the app continued to run, accepting that this trip would pay him less than it should because she needed his help and he was not the kind of person who could say no.
 
 
----
 
 They talked during the drive. Her name was Halimo, and she had come to Minneapolis in 1996, one of the early waves of Somali refugees. Her children were grown now - three sons, two daughters, scattered across the country with their own lives and problems. Her husband had died five years ago, and she lived alone in the apartment Yusuf had picked her up from, the building full of other Somali elders, a village within the city.
 
@@ -106,7 +99,6 @@ Halimo listened the way Somali elders listen, with her whole self, nodding at th
 They pulled into the medical complex parking lot. Yusuf helped her out of the car, walked with her to the entrance, made sure she found the right floor before returning to wait. His phone buzzed with new fare opportunities. He dismissed them all.
 
 
----
 
 She was inside for forty-seven minutes. Yusuf sat in his car, engine off to save gas, watching other patients come and go, other families navigating the medical system in their own ways. He thought about his mother, about the clinic visits she did not talk about, the medications that appeared on the kitchen counter, the way she moved more slowly now than she had a year ago.
 
@@ -125,13 +117,12 @@ Then he returned to his car and sat for a long moment, the twenty dollars still 
 He accepted it. What else was there to do?
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The furniture assembly was in Eden Prairie, a development where the houses all looked the same and the driveways held SUVs that cost more than Yusuf would earn in a year. He pulled up at two-fifteen, the task app showing his assignment: IKEA bed frame and dresser, estimated time three hours, payment fifty dollars.
 
@@ -142,7 +133,6 @@ The boxes were heavy. Yusuf carried them upstairs one by one, to a bedroom that 
 He opened his tool bag - the one he had assembled himself over the past year, adding tools as tasks required them, each one an investment in work the app did not recognize as skilled. Allen wrenches, a cordless drill, a rubber mallet, the small hammer he used for tight spaces. He had learned furniture assembly through trial and error, through YouTube videos watched at midnight, through the specific humiliation of failing in front of customers who assumed he would know what he was doing.
 
 
----
 
 The bed frame went together in ninety minutes. Yusuf worked steadily, sorting parts, matching screws to their diagrams, applying the silent expertise that came from doing this work over and over. The instructions were in Swedish or whatever language IKEA used, the pictures meant to be universal, the reality that some steps required knowledge the pictures did not convey.
 
@@ -153,7 +143,6 @@ The dresser was more complicated: six drawers, alignment issues, one dowel that 
 The work required everything. Patience. Precision. The physical strength to hold heavy pieces in position while fastening them. The spatial reasoning to understand how parts related. The customer service performance to make the homeowner feel served without ever interacting directly. Skills that Yusuf had developed, that made him good at this work, that the algorithm rated and paid as if anyone could do it.
 
 
----
 
 He finished at five-twenty, three hours and five minutes after he started. The homeowner signed off on the task through the app, did not look at the furniture, did not thank him. The front door closed behind him, and the fifty dollars deposited into his account, minus the platform's fifteen percent cut. Forty-two dollars and fifty cents for three hours of skilled labor, gas, and wear on his tools.
 
@@ -164,7 +153,6 @@ His phone buzzed: a mystery shopping task, a retail store in Bloomington, pay tw
 The store was a chain electronics retailer, the kind of place he could not afford to shop. His task was to pretend to be a customer, to ask about a specific television, to observe how the employee responded, to report back on their knowledge and friendliness. Surveillance labor, his role to monitor workers like himself for a company that wanted to optimize human behavior the way they optimized delivery routes.
 
 
----
 
 The sales associate was young, maybe nineteen, a kid working retail to pay for college or support his family or just survive the way everyone was surviving now. He was helpful, knowledgeable, clearly trying hard despite the late hour and the difficult customer - a role Yusuf was required to play, asking skeptical questions, pushing back on the answers, testing the kid's patience.
 
@@ -177,13 +165,12 @@ The sun was setting as he drove east, the Minneapolis skyline catching the last 
 He turned onto his street and parked behind the building, the engine ticking as it cooled, the day's work finished, the evening's obligations waiting inside.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The apartment smelled of cumin and onions when Yusuf opened the door, the particular fragrance of his mother's cooking that meant she was home, that she had found the energy after her own day of work to make something real instead of reheating yesterday's leftovers. He stood in the doorway for a moment, letting the smell settle into him, feeling the tension of the day begin to release.
 
@@ -196,7 +183,6 @@ Fatima was in the kitchen, moving slowly between the stove and the counter, her 
 Amina was at the small table in the corner, textbooks spread around her, headphones clamped over her ears, her focus absolute. Sixteen years old and smarter than anyone in the family, on track for scholarships that might take her somewhere beyond this apartment, beyond this neighborhood, beyond the cycle of labor that had shaped their lives.
 
 
----
 
 Yusuf washed his hands and helped his mother with the dinner preparations, the quiet choreography of family labor that required no words. He cut vegetables while she stirred the pot. He set the table while she checked the rice. Amina stayed focused on her work until Fatima called her twice, then removed her headphones with the particular reluctance of teenagers everywhere.
 
@@ -213,7 +199,6 @@ She nodded, accepting the answer without pushing. She knew what his work was lik
 "The building downtown needs extra cleaning before some conference. More hours this week." She said it neutrally, but Yusuf heard what she was not saying: more hours meant more money, but more hours also meant more strain on a body that was already carrying too much.
 
 
----
 
 After dinner, Yusuf noticed the medications on the kitchen counter. Two orange bottles he did not remember seeing before, one white box with a name he could not pronounce. He looked at his mother, who was watching Amina return to her studies, and did not ask. Some things were better left unspoken until they could not be avoided.
 
@@ -226,7 +211,6 @@ He helped with the dishes, standing beside his mother at the small sink, their m
 He did not have an extra three hundred dollars. He had exactly three hundred and twenty-seven dollars in his checking account, which had to last until his next deposit from the apps, which had to cover his car payment that was due in eight days. But he had seen the medications. He had seen her move.
 
 
----
 
 "I don't need it," Fatima said. The refusal was automatic, the first move in a negotiation they had performed many times.
 
@@ -245,7 +229,6 @@ The words hung in the air between them, heavier than either of them intended. Fa
 Yusuf kissed her forehead again, felt her hand squeeze his arm briefly, then went to check on Amina.
 
 
----
 
 Amina's room was small, made smaller by the desk and the twin bed and the bookshelves their father had built when she was young. She looked up when Yusuf knocked on the open door, her face illuminated by the laptop screen, scholarship essays visible in multiple tabs.
 
@@ -266,13 +249,12 @@ The hope in her voice was precise and painful. She had learned, watching their m
 "Inshallah," she said. God willing. The old word that contained both hope and surrender.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Midnight. The apartment silent.
 
@@ -289,7 +271,6 @@ This is the self the algorithm does not see.
 This is the self that survives.
 
 
----
 
 A message from Tariq: check the bridge, added some oud samples.
 
@@ -308,7 +289,6 @@ The gap between this and any sustainable future feels insurmountable. Music does
 But music is what survives.
 
 
----
 
 One-thirty now. He should sleep. The morning will come early - the furniture task in Eden Prairie, more deliveries, more rideshares, the algorithm waking with the sun.
 
@@ -331,7 +311,6 @@ The algorithm does not know.
 The algorithm does not need to know.
 
 
----
 
 
 

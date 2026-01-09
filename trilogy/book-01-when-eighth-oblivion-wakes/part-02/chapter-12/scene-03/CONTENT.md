@@ -5,7 +5,6 @@ They took the morning flight out of Minneapolis, the tickets purchased on his cr
 Now they sit in the waiting room of Desert Sage, surrounded by others whose bodies have brought them here, whose needs have been translated into appointments and insurance forms and the particular bureaucracy of American healthcare. The room is designed for neutrality - beige walls, blue chairs, a television mounted in the corner playing news that no one watches - but Yusuf reads it differently. He sees the bodies. He sees who waits and for how long. He sees the woman in scrubs behind the check-in window and the screen she consults before each name is called, the algorithm humming beneath the surface of care.
 
 
----
 
 His mother fills out forms with hands that shake slightly, her handwriting smaller than it used to be, more careful. Yusuf has offered to do it for her but she refused - there is dignity in paperwork, in being the author of one's own medical history, even when that history is a catalog of loss. Date of birth. Insurance status (none, but they accept patients on a sliding scale). Medications. Allergies. Emergency contact. She writes Yusuf's name in the last box and he feels the weight of it, the responsibility that has been transferred to him by the simple act of ink on paper.
 
@@ -13,10 +12,9 @@ The other patients interest him in the way that strangers always interest those 
 
 They are all waiting. The waiting room is a democracy of need, every body equally subject to the clock on the wall and the names that are called at intervals Yusuf cannot predict. Some people have been here longer than others; some will be seen quickly while others sit for hours. He does not know how the decisions are made. He suspects no one does, not really, not even the staff who implement them. The system has its own logic, invisible and absolute.
 
-Halima finishes her forms and returns them to the window. The woman behind the desk smiles and says it will be just a few minutes, which means nothing.
+Halima finishes her forms and returns them to the window. The woman behind the desk smiles and says it will be just a few minutes, which means nothing, which means everything, which means his mother's body is now subject to the clock and the queue and whatever invisible system decides who waits and for how long.
 
 
----
 
 Thirty minutes pass. Forty-five. An hour.
 
@@ -33,7 +31,6 @@ His mother looks up. A woman in blue scrubs stands at the door, holding a tablet
 "I know," he says, though he does not like letting her out of his sight, does not like the door closing between them.
 
 
----
 
 He watches Elena lead his mother down the hallway, watches the door close, watches the space where they were become empty. The waiting room continues its slow commerce - another name called, another body rising, the chairs gradually emptying and filling again in a rhythm that seems almost organic, almost natural, though Yusuf knows there is nothing natural about it. The system decides who waits and for how long. The system sorts bodies according to criteria no one explains.
 
@@ -46,7 +43,6 @@ Yusuf's phone buzzes. A text from Amina: Quiz went good. Probably got an A. The 
 He thinks about what Amina's life will be like after college. He hopes it will involve waiting rooms less.
 
 
----
 
 His mother emerges after forty-five minutes, which is longer than usual. Elena walks beside her to the checkout window, and Yusuf watches them interact - his mother speaking in accented English, Elena responding with a patience that seems genuine rather than performed. There is a moment when Elena places her hand on Halima's arm, a gesture of reassurance or comfort, and his mother nods with an expression that Yusuf recognizes as gratitude mixed with worry.
 
@@ -65,7 +61,6 @@ His mother hands him a paper. Four medications, two of them new. The generic ver
 "We always do," his mother answers.
 
 
----
 
 In the car - a rental, because his Elantra would never survive the drive from Minneapolis to Phoenix and flying was expensive enough without adding the cost of transportation on the other end - his mother is quiet. The Phoenix afternoon blazes outside the windows, a heat so different from Minnesota that it feels like a threat, like the sun has taken sides against them. Yusuf drives toward the freeway, toward Cousin Abdi's house in Tempe where they are staying tonight before the early flight home.
 
@@ -88,7 +83,6 @@ His mother does not answer immediately. She watches the desert pass outside her 
 It is not a yes and it is not a no. It is the truth.
 
 
----
 
 They reach Abdi's house as the sun begins its descent toward the mountains. Cousin Abdi is his mother's age, a man who came to America in the same wave of refugees but found different fortune here - a job that became a career, a house that he owns, a life that has the particular stability Yusuf cannot imagine for himself. He greets them with food and coffee and questions about Minneapolis, about Amina's schoolwork, about relatives whose names Yusuf barely recognizes. The conversation flows in Somali and English, the way it always does when the family gathers, and Halima seems lighter here, surrounded by connection, by the particular comfort of people who share her history.
 
@@ -103,5 +97,4 @@ Tonight, he will sit in his cousin's backyard and listen to the desert settle in
 Tonight, he will be somewhere other than the driver's seat.
 
 
----
 

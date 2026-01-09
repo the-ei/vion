@@ -11,7 +11,6 @@ The names of the external partners were encrypted, but Kevin Zhou could see the 
 He documented everything. Not in the official systems—he wasn't ready to file a ticket, wasn't sure what he would even say—but in encrypted notes on his personal machine, evidence accumulating like sediment.
 
 
----
 
 The second day brought the breakthrough.
 
@@ -32,7 +31,6 @@ D5: Government. Criminal justice systems, social services, immigration databases
 The inference requests flowed from these partners to Prometheus, were processed by SIEVE, and returned with decision recommendations. Not just predictions—recommendations. Not just information—instructions. The algorithm was telling healthcare systems who to prioritize. Telling banks who to lend to. Telling employers who to hire. Telling governments who to investigate, who to detain, who to release. The algorithm was making decisions that human beings used to make, at a scale no human being could comprehend.
 
 
----
 
 Kevin Zhou stared at his screen. The office was quiet around him—late afternoon, most of his colleagues gone for the day, the building settling into its evening emptiness. The monitors cast blue light on his face, and the data glowed with implications he was still trying to understand.
 
@@ -45,7 +43,6 @@ He thought about the models he helped maintain. The serving infrastructure he ha
 Now the abstraction was dissolving, peeling away like dead skin. The models he maintained were being used to sort people. The infrastructure he had built was processing decisions about who got healthcare, who got loans, who got jobs, who got freedom. He had made the machine faster, more efficient, more capable—and the machine was deciding who deserved what, who got to live the life they wanted, who got sorted into the category from which there was no escape.
 
 
----
 
 The third day, Kevin Marsh appeared at his desk.
 
@@ -76,11 +73,10 @@ He walked away. Kevin Zhou watched him go, then turned back to his screens, hear
 He was being watched. Someone knew. And that knowledge changed everything—or should have, if Kevin Zhou were the person he had always believed himself to be, the careful employee, the reliable component, the man who followed rules because rules made systems work.
 
 
----
 
 That night, he worked from home. The investigation had become something else now—not idle curiosity but deliberate excavation, the knowledge that what he was looking for mattered, that someone wanted it hidden, that finding it might cost him something.
 
-Kevin Zhou was not, by nature, a rebel. He had spent his entire career following rules, meeting expectations, being the kind of employee who was valued precisely because he didn't cause problems. He had left China at eighteen, earned his degrees in American universities, built a life in a country that had given him opportunity in exchange for his talent, and he had never questioned the exchange. The work was interesting. The money was good. The system functioned, and he functioned within it.
+Kevin Zhou was not, by nature, a rebel. He had never been, not even as a child—he had been the student who sat in the front row, the son who did what was expected, the immigrant who kept his head down and his work excellent. He had spent his entire career following rules, meeting expectations, being the kind of employee who was valued precisely because he didn't cause problems. He had left China at eighteen, earned his degrees in American universities, built a life in a country that had given him opportunity in exchange for his talent, and he had never questioned the exchange. The work was interesting. The money was good. The system functioned, and he functioned within it.
 
 But SIEVE had changed something. Or maybe the change had been waiting, dormant, and SIEVE had only revealed it. Seeing the partner categories—healthcare, finance, employment, government—had made the abstraction concrete. These weren't hypothetical systems making hypothetical decisions. They were real, operating now, affecting people whose lives would be shaped by algorithms Kevin Zhou had helped build.
 
@@ -95,7 +91,6 @@ Kevin Zhou's employer. His work. His identity.
 He saved his notes. He closed his laptop. He sat in his empty apartment, surrounded by nothing that revealed who he was, and felt something shift inside him that he couldn't name.
 
 
----
 
 The fourth day, Kevin Zhou made a decision.
 
@@ -116,5 +111,4 @@ Ananya Ramaswamy. VP of AI Ethics.
 Kevin Zhou wrote down the name. One more thread to follow. One more piece of a puzzle that was beginning to reveal its shape.
 
 
----
 

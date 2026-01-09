@@ -15,7 +15,6 @@ His notes were on a tablet just below camera level, though he would not look at 
 Looking good. As if that were the thing that mattered.
 
 
----
 
 The intro package played in his earpiece while his image remained frozen on screen, waiting to animate. He heard his own name, heard phrases like "groundbreaking investigation" and "revealed the truth" and "Eighth Oblivion," and each word landed with a weight that was both validation and reduction. Years of work compressed into a fifteen-second context package. A career translated into bullet points.
 
@@ -34,7 +33,6 @@ The question was designed to elicit summary, to give viewers who had not followe
 "The fundamental situation hasn't changed," he said, and his voice sounded to his own ears like a performance of itself, like someone playing the role of Jerome Washington. "Prometheus Systems and other major AI companies are still racing toward capabilities that their own internal documents suggest may be uncontrollable. The 'Eighth Oblivion' scenario I wrote about is still the most likely outcome of that race, according to the experts I've spoken with."
 
 
----
 
 "But Jerome, some critics have said that your reporting has been alarmist. That the 'Eighth Oblivion' framing is itself a kind of sensationalism. How do you respond to that?"
 
@@ -51,7 +49,6 @@ The response came out sharper than he intended, and he saw the host's eyebrows r
 The interview continued for another ten minutes, the host asking questions designed to elicit drama, Jerome trying to convey complexity within the constraints of the format. By the end, his face ached from the effort of maintaining appropriate expression.
 
 
----
 
 "That was great, Jerome. Really strong."
 
@@ -74,7 +71,6 @@ He opened his laptop and navigated to the social media feeds where his interview
 He scrolled through the comments with the detached attention of a researcher cataloging phenomena, noting the patterns, the talking points, the coordination that suggested some of the attacks were not organic.
 
 
----
 
 The clip was everywhere within thirty minutes. He watched it spread, watched the engagement numbers climb, watched his face repeated across platforms in thumbnail after thumbnail. The version of him that existed in the digital space was no longer quite him—it was an image, a symbol, a vector for arguments that others wanted to make.
 
@@ -89,7 +85,6 @@ He closed the laptop and stood up, moving away from the screens that wanted his 
 Being right felt hollow. That was the thing he kept discovering. Being right, and being heard, and being validated—none of it changed the fundamental situation. The race continued. The risks remained. And he was just a man talking to a camera, hoping his words might matter to someone.
 
 
----
 
 He went to the kitchen and made more coffee, though he did not need it, though his hands were already shaky from the first pot. The making of coffee was something to do with his body while his mind processed what had happened.
 
@@ -106,13 +101,12 @@ But the gap between attention and impact kept widening. Millions of people had s
 He drank his coffee and looked out the window at the Baltimore winter, at the gray sky and the bare trees and the world that continued to exist, indifferent to the things he said about it on camera.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Denise arrived home at five-forty-three, her footsteps in the entryway carrying the weight of teaching exhaustion, the sound of a body that had been performing attention for eight hours and was finally allowed to stop. Jerome met her in the kitchen where he had started dinner, a simple stir-fry that required enough attention to keep his hands busy but not so much that he couldn't think about other things.
 
@@ -131,7 +125,6 @@ Jerome turned the heat down on the stove and faced his wife. The late afternoon 
 "I told her we don't know the future. I told her to focus on what she can control. I told her the things you're supposed to tell a scared teenager."
 
 
----
 
 "But you're not sure you believe them."
 
@@ -150,7 +143,6 @@ The words hung in the air between them, carrying weight that neither could fully
 DeShawn's footsteps sounded on the stairs, descending from his room where he had been since school let out, doing whatever he did in that space that Jerome no longer understood. The sound interrupted the conversation without concluding it, introducing a new presence that would reshape the dynamic of the evening.
 
 
----
 
 DeShawn entered the kitchen with his phone in hand, attention split between the screen and the physical space. At seventeen he had mastered the contemporary skill of being multiple places at once, his body in one location while his consciousness flowed through networks that Jerome could describe but not fully comprehend.
 
@@ -181,7 +173,6 @@ DeShawn sighed with the performative exhaustion of a teenager being asked to par
 "You wouldn't understand if I explained it."
 
 
----
 
 The dismissal was not unfriendly, just matter-of-fact, and Jerome knew his son was probably right. DeShawn's technical knowledge had surpassed his own years ago. The language DeShawn spoke when talking about his projects was intelligible to Jerome only in fragments, like hearing a conversation in a foreign tongue and catching occasional cognates.
 
@@ -200,7 +191,6 @@ Jerome processed the words, understood perhaps half of them, and nodded. "That s
 Denise was watching this exchange with the particular attention she brought to moments when their son engaged rather than withdrew. Jerome felt her eyes on him, felt the pressure to say something that would bridge rather than divide.
 
 
----
 
 "You should," Jerome said. "If you can build better tools, you should. I just want you to understand what you're building, who might use it, what the consequences might be. That's all. That's all I've ever wanted."
 
@@ -223,7 +213,6 @@ DeShawn was quiet for a moment, processing this unexpected concession. "Then why
 "Because the future isn't written yet. Because what we do now might matter. Because I'd rather be wrong about the danger than wrong about whether it was worth trying to prevent."
 
 
----
 
 Dinner was quieter than the conversation that preceded it. They ate the stir-fry, the vegetables slightly overdone from sitting too long while they talked. Denise told stories about her other students, the ones who were not having panic attacks, the ones who were continuing to learn history as if history would continue to be made by humans. DeShawn contributed occasionally, describing a project presentation that had gone well, a teacher who actually understood what he was building.
 
@@ -242,7 +231,6 @@ After dinner, DeShawn retreated back to his room, his phone reappearing in his h
 "Maybe. Or maybe he understands them differently than you do. Maybe his generation will have to, because they're the ones who are going to live with whatever we build."
 
 
----
 
 Jerome thought about Kayla Thompson, the girl who had asked Denise if the world was going to end. He thought about his son upstairs, writing code to protect people from threats that did not yet exist. He thought about the gap between his work of warning and the work of living, the way his family navigated both.
 
@@ -263,13 +251,12 @@ The kitchen was clean now, the evening stretching ahead of them with its usual m
 He kissed her, a brief touch that carried more than it could say, and then he walked through the quiet house toward the room where his work waited. The ring light was off. The camera was covered. He was no longer performing for anyone. He was just a man with a computer, trying to understand something larger than himself, trying to find words that might matter to someone somewhere.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The email from Veronica Stone arrived at two-seventeen, its subject line a model of professional restraint: "Opportunity to discuss." Jerome recognized her name immediately—she was the executive editor of The Washington Tribune, a publication that had once represented everything he distrusted about mainstream journalism and now, after months of his reporting on the crisis, apparently wanted to talk.
 
@@ -282,7 +269,6 @@ He did not respond immediately. Instead, he opened the folder on his desktop lab
 The threats were accumulating too. He scrolled through screenshots of messages, records of harassment campaigns, the security consultant's report that had arrived last week.
 
 
----
 
 The security consultant was Patricia Oyelaran, recommended by another journalist who had faced similar campaigns. She had reviewed the harassment Jerome was receiving and delivered her assessment in a video call the previous week, her face professionally neutral as she described patterns that suggested coordination, resources, possible involvement of actors beyond random internet hostility.
 
@@ -297,7 +283,6 @@ The report she had sent afterward included recommendations: varying his routines
 Now, looking at the security report alongside the email from Veronica Stone, Jerome felt the two pressures converging. The offers said: come inside, where it's safer, where institutions can protect you. The threats said: staying outside has costs you haven't fully calculated.
 
 
----
 
 He replied to Veronica Stone with a noncommittal expression of interest, suggesting a call later in the week. Then he closed his laptop and went to find Denise.
 
@@ -320,7 +305,6 @@ Denise's face changed, the grading-papers expression giving way to something har
 The silence that followed was dense with implications. Denise had known that Jerome's work carried risks—she had watched him receive death threats before, had learned to delete emails without reading them, had developed the particular resilience required to be married to someone who made powerful enemies. But this felt different. This felt like an escalation.
 
 
----
 
 "What kind of precautions?" Denise asked.
 
@@ -341,7 +325,6 @@ Denise was quiet for a long moment, her eyes holding his. He could see her think
 "I'd have to compromise. On what I could say, how I could say it, who I could investigate. They don't want me for my independence. They want me for my credibility, which they would use for their purposes. I'd become a brand, a name they could deploy, but not a journalist who could do the work that matters."
 
 
----
 
 "And if you keep doing what you're doing?"
 
@@ -366,7 +349,6 @@ The question caught him off guard. His mother was in assisted living now, her me
 "Yes," he said. "On her good days, she's proud."
 
 
----
 
 Denise turned from the window. "Then keep doing it. Take precautions. Be careful. But don't stop being who you are because someone wants to scare you into silence."
 
@@ -385,13 +367,12 @@ But he had his answer, at least for now. The answer was in Denise's hands on his
 He opened his laptop and began to write.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The house settled into quiet around eleven, Denise asleep in their bed, DeShawn's light finally off after hours of coding, and Jerome sat alone in his office with the lamp casting a small circle of warm light against the darkness pressing the windows. This was his hour, the time he reserved for the work that required silence, the investigations that could not be rushed or interrupted.
 
@@ -414,7 +395,6 @@ Jerome felt his attention sharpen, the journalist in him recognizing the weight 
 "No. I couldn't tell if he was really trying to help or if he was gathering information for them. I couldn't tell if he knew the difference himself."
 
 
----
 
 Jerome listened to her describe the visit in detail, taking notes by habit even though he would not publish any of this, even though her identity remained protected. The conversation with Vikram, the ambiguity of his motives, the warning about legal action—all of it confirmed what Jerome had suspected: Prometheus was preparing a counterattack.
 
@@ -437,7 +417,6 @@ She was quiet for a moment, absorbing this. "That's what I thought you'd say."
 "No." The word came quickly, firmly. "I'd do it again. I couldn't live with myself if I hadn't. But I need to understand what I'm doing, what it might accomplish, what it might cost."
 
 
----
 
 "The cost might be high," Jerome said. "If they're serious about a case, they have resources you don't have. They can make your life difficult in ways that don't even require winning in court."
 
@@ -454,7 +433,6 @@ They talked for another twenty minutes, comparing notes on the aftermath, sharin
 He opened his drafts folder and looked at the pieces in progress. There was always more to write, more to investigate, more threads to follow into the darkness of what these companies were building. The question was not whether there was work to do. The question was whether the work would matter.
 
 
----
 
 He thought about his mother, as Denise had suggested. He should call her tomorrow, during the afternoon window when she was most likely lucid. She was eighty-one, her mind fraying at the edges, but she still asked about his work, still wanted to know if he was telling the truth, still believed truth-telling was a form of prayer.
 
@@ -469,7 +447,6 @@ His coffee had gone cold hours ago. He should sleep, should let the work rest un
 He began to write.
 
 
----
 
 The words came slowly at first, then faster, sentences building on each other as the piece took shape. He was writing about the gap between attention and impact, about the strange position of being heard by millions while changing almost nothing. It was not the kind of piece that would go viral—it was too internal, too uncertain—but it was what he needed to write, what he needed to think through in order to continue.
 
@@ -490,7 +467,6 @@ He climbed the stairs slowly, feeling his age in knees and back, the accumulated
 And then they slept, while outside the windows the city continued its cold January night, and somewhere in servers and data centers, the technologies Jerome wrote about continued their invisible growth toward futures no one could quite see.
 
 
----
 
 
 

@@ -1,4 +1,4 @@
-The conference room at Meridian Digital smelled of cold brew coffee and ambition, the particular scent of creative work constrained by deadlines and budgets. Delphine took her seat at the table's head, feeling the weight of the position she had worked fifteen years to achieve: creative director, forty-three years old, responsible for translating reality into content that people would watch.
+The conference room at Meridian Digital smelled of cold brew coffee and ambition, the particular scent of creative work constrained by deadlines and budgets. Delphine took her seat at the table's head, feeling the weight of the position she had worked fifteen years to achieve: creative director, thirty-eight years old, responsible for translating reality into content that people would watch.
 
 The screen at the room's end displayed the client brief, its language clean and professional. UNDERSTANDING THE CRISIS: A Four-Part Documentary Series. Budget figures. Timeline. Target demographics. The phrase "mainstream accessibility" appeared three times in the first paragraph.
 
@@ -12,14 +12,13 @@ That was Kai Reeves, thirty-one, the youngest person on Delphine's team and the 
 
 "Is there?"
 
-The question hung in the air, uncomfortably relevant. Delphine had built her career on that distinction, on the belief that making complex truths accessible was a form of service rather than corruption. But the distinction grew harder to maintain with each project, each budget, each client who wanted the appearance of depth without the discomfort of reality.
+The question hung in the air, uncomfortably pertinent. Delphine had built her career on that distinction, on the belief that making complex truths accessible was a form of service rather than corruption. But the distinction grew harder to maintain with each project, each budget, each client who wanted the appearance of depth without the discomfort of reality.
 
 
----
 
 "Let's look at the brief more carefully," Delphine said, pulling up the next slide. The client was Omniscope, one of the major streaming platforms, and their request was specific: they wanted a series that would help their subscribers understand the AI crisis without making them feel hopeless. They wanted balance. They wanted multiple perspectives. They wanted, in the language of the brief, "a framework for viewers to make their own informed decisions."
 
-"Multiple perspectives," said Linnea Volkov, the team's lead researcher, a woman in her fifties who had been doing this work longer than anyone else in the room. "That means platforming the people who said there was nothing to worry about. The people who said the journalists were being alarmist."
+"Multiple perspectives," said Linnea Volkov, the lead researcher, a woman in her fifties who had been doing this work longer than anyone else in the room. "That means platforming the people who said there was nothing to worry about. The people who said the journalists were being alarmist."
 
 "It means representing the range of expert opinion," Natalie corrected. "There are legitimate scientists who think the risks have been overstated."
 
@@ -32,9 +31,8 @@ The question hung in the air, uncomfortably relevant. Delphine had built her car
 Delphine felt the familiar tension between her role as leader and her private doubts. She had been doing this long enough to know that Kai was not entirely wrong. She had watched projects start with good intentions and end with compromises that served no one except the people who wanted clarity suppressed.
 
 
----
 
-"This project matters," she said, and she heard in her own voice the attempt to convince herself as much as her team. "Millions of people are going to watch this. They're confused. They're scared. They don't know what to believe. If we do this right, we can help them understand something that will affect their lives for decades."
+"This project matters," she said, hearing in her own voice the attempt to convince herself as much as her team. "Millions of people are going to watch this. They're confused. They're scared. They don't know what to believe. If we do this right, we can help them understand something that will affect their lives for decades."
 
 "And if we do it wrong," Kai said, "we give them a false sense that everything is under control. We become part of the system that suppresses alarm precisely when alarm is appropriate."
 
@@ -53,9 +51,8 @@ The room was quiet. Delphine could feel the others watching the exchange, measur
 "So have I." Delphine met his eyes directly. "But I'm not ready to stop trying."
 
 
----
 
-The meeting continued for another hour, moving through logistics, timelines, staffing. Delphine assigned Linnea to begin the research phase, building a database of sources and experts they might interview. She assigned Kai, despite his skepticism, to lead the scriptwriting team—partly because he was talented, partly because she wanted his critical eye on every word they produced.
+The meeting continued another hour, moving through logistics, timelines, staffing. Delphine assigned Linnea to begin the research phase, building a database of sources and experts they might interview. She assigned Kai, despite his skepticism, to lead the scriptwriting team—partly because he was talented, partly because she wanted his critical eye on every word they produced.
 
 By the time the room emptied, she had a plan, or at least the shape of one. Four episodes. Ten weeks of production. A budget that would allow for quality but not extravagance. And a client who wanted something she was not sure could be delivered: understanding without alarm.
 
@@ -66,9 +63,8 @@ And now she was going to make a documentary about it. She was going to take that
 But this content felt different. This content was about whether humanity had a future, and what that future might look like, and who got to decide. This was not a documentary about a historical event or a social trend. This was a documentary about what might be the last transformation, the change after which change itself became something else.
 
 
----
 
-She thought about Jerome Washington, the journalist whose reporting had started the public conversation. She had watched his interviews, read his articles, studied the documents he had published. He was doing what journalists were supposed to do: uncovering facts, holding power accountable, telling the truth regardless of who wanted to hear it.
+She thought about Jerome Washington, the journalist whose reporting had ignited the public conversation. She had watched his interviews, read his articles, studied the documents he had published. He was doing what journalists were supposed to do: uncovering facts, holding power accountable, telling the truth regardless of who wanted to hear it.
 
 She was doing something else. She was taking his truth and packaging it for consumption, making it accessible, making it watchable, making it something that could compete for attention in a landscape of infinite distractions. Whether that was service or betrayal depended on how she did it, on the choices she made in the weeks ahead.
 
@@ -91,13 +87,12 @@ Natalie had returned, standing in the doorway with the particular expression of 
 Delphine looked at her colleague, wondering what Natalie really believed, whether the executive language was a mask or a conviction. In fifteen years of working together, she had never been certain.
 
 
----
 
 "I'll make it work," Delphine said. "I'll find a way to tell the truth in a way they can live with."
 
 "That's all anyone can ask."
 
-Natalie left, and Delphine was alone again with the brief and the questions it raised. She closed the presentation, gathered her things, and walked out through the open-plan office where younger versions of herself sat at screens, editing footage, writing scripts, doing the work of translation that defined their industry.
+Natalie left, and Delphine was alone with the brief and the questions it raised. She closed the presentation, gathered her things, walked out through the open-plan office where younger versions of herself sat at screens, editing footage, writing scripts, doing the work of translation that defined their industry.
 
 What are you building? The question surfaced unbidden, a phrase she had heard somewhere, read somewhere, a challenge that had no easy answer. She was building content. She was building meaning. She was building the way millions of people would understand something that might define their lives.
 
@@ -108,5 +103,4 @@ She stepped out into the Los Angeles afternoon, the winter sun bright and unconv
 She got in her car and drove toward home, carrying the commission like a weight and a responsibility, not sure yet what she would make of it, only sure that she would try to make something true.
 
 
----
 

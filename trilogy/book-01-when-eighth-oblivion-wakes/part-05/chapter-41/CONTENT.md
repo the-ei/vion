@@ -13,7 +13,6 @@ The piece was his attempt to synthesize everything. What had happened at Prometh
 Jerome took a sip of his coffee. It had gone cold.
 
 
----
 
 By 10:00 AM, the piece was being discussed.
 
@@ -32,7 +31,6 @@ Jerome's phone buzzed. A text from his editor: Numbers looking good. Nice job.
 Nice job. As if journalism were a performance to be graded.
 
 
----
 
 By noon, the discourse had moved on to the discourse about the discourse.
 
@@ -49,7 +47,6 @@ His mother called. He let it go to voicemail. She would want to congratulate him
 He got up to make more coffee. The motion helped, slightly.
 
 
----
 
 The denialists found the piece around 1:00 PM.
 
@@ -72,7 +69,6 @@ What had truth achieved?
 The question felt less rhetorical than it had when he'd started writing.
 
 
----
 
 At 2:30, The Washington Post published a piece that cited his work.
 
@@ -93,7 +89,6 @@ He heard the front door open. Denise, home from school.
 Time to stop watching the numbers. Time to be present with his family.
 
 
----
 
 He walked downstairs to find Denise setting down her bag in the hallway. She looked tired - the particular tiredness of a teacher at the end of February, when the spring break still felt impossibly distant.
 
@@ -124,13 +119,12 @@ What he needed, Jerome realized, was to stop measuring his work in numbers. To f
 "Dinner sounds good," he said.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The kitchen was warm with the smell of something simmering - chicken and vegetables, the kind of simple dinner Denise made when she was too tired to be ambitious but still wanted to feed her family properly. Jerome stood at the counter chopping onions while she stirred the pot, a choreography they'd developed over years of sharing this space.
 
@@ -151,7 +145,6 @@ Jerome's onion-chopping paused. "A tenth-grader read my piece?"
 "She reads everything. That's kind of the problem." Denise turned to face him. "She wanted to know if it was true. Not fact-check true - she knows how to verify information. Existentially true. Like, should she be scared? Should she change her plans? Should she stop wanting to go into tech?"
 
 
----
 
 "What did you tell her?"
 
@@ -174,7 +167,6 @@ Denise was quiet for a moment. Then: "You know what Maya did after class? She st
 "One kid that I know about. How many others are doing the same thing without telling their teachers?"
 
 
----
 
 Jerome considered this while the onions caramelized. Denise added the chicken to the pan, and they worked in comfortable silence for a few minutes, the familiar rhythms of cooking together.
 
@@ -193,7 +185,6 @@ But maybe that was the point. Maybe the dissolution was the impact - not the dis
 The phrase landed somewhere in Jerome's chest and stayed there.
 
 
----
 
 DeShawn came downstairs while they were setting the table, his headphones still on, absorbed in whatever was playing. He removed them when he saw the food, a concession to family dinnertime that had taken years to establish.
 
@@ -218,7 +209,6 @@ DeShawn took his time answering, chewing, considering. "I thought it was honest.
 "Maybe." DeShawn met his eyes. "But people can only take so much reality before they need to believe something can be done."
 
 
----
 
 The conversation subsided into eating, the three of them around the table in the particular silence of family meals that had said enough for now. Jerome thought about DeShawn's comment - the accusation, really, though gently delivered. Too focused on problems. Not enough on solutions.
 
@@ -247,7 +237,6 @@ He smiled despite himself. His mother, seventy-three years old, still calling it
 "It's God's grace." His mother's voice was firm. "Now tell me - are you taking care of yourself? You sound tired."
 
 
----
 
 Jerome talked with his mother for twenty minutes - about his work, about DeShawn, about the church program she was organizing, about the neighborhood gossip that never changed no matter how much the world did. By the end of the call, something in his chest had loosened.
 
@@ -276,13 +265,12 @@ Jerome put his arm around her. The house was quiet except for the hum of the ref
 Denise squeezed his hand. "That's what I'm here for."
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Saturday afternoon. Denise had gone to visit her sister in Catonsville, leaving Jerome and DeShawn alone in the house. This happened occasionally - the two of them in parallel orbits, aware of each other but not quite intersecting. Jerome in his office, DeShawn in his room. Doors open but conversations minimal.
 
@@ -307,7 +295,6 @@ Jerome felt something shift in his chest. "I wasn't always fair to you either."
 "That's my job. To see things."
 
 
----
 
 "But it's not just your job." DeShawn leaned forward, elbows on knees. "It's who you are. You look at systems and see what's broken. And I look at systems and see what could be built. And I thought that made you wrong and me right, but - " He stopped, seemed to be gathering words. "Maybe we're both seeing real things. Different parts of the same thing."
 
@@ -328,7 +315,6 @@ Jerome was quiet for a moment. This was more words than DeShawn had said to him 
 "I don't trust systems that depend on individual good intentions. Intentions don't scale."
 
 
----
 
 DeShawn nodded slowly, as if processing this. "That's a reasonable position. I just think - " He paused again, working something out. "I think you can't build new systems without some good-faith effort. Even if the intentions don't scale, they're the starting point. Someone has to try before you can see what the failures are."
 
@@ -347,7 +333,6 @@ Jerome had known about the project in general terms but hadn't asked for details
 "It's complicated. The technology works - I mean, the routing optimization actually reduces costs by like 30% in our test cases. But the implementation is hard. You have to partner with grocery stores, and they have their own incentives. You have to get people to trust the platform. You have to deal with the existing systems that make food deserts exist in the first place."
 
 
----
 
 "Those systems being?"
 
@@ -368,7 +353,6 @@ Jerome felt the weight of his son's words. The hope beneath them. The fear that 
 "I don't want you to stop trying," he said.
 
 
----
 
 "But you don't believe in what I'm doing."
 
@@ -393,7 +377,6 @@ Jerome nodded, not interrupting.
 "Yeah. It is." DeShawn looked at him. "But maybe that's what both things being true looks like. Being scared and trying anyway."
 
 
----
 
 Jerome felt something loosen in his chest that had been tight for months. Not agreement - they still saw the world differently in fundamental ways. But recognition. His son was thinking seriously about hard problems, and the thinking was his own.
 
@@ -418,7 +401,6 @@ Jerome felt something loosen in his chest that had been tight for months. Not ag
 DeShawn laughed - a real laugh, surprised out of him. "That's the most honest career advice you've ever given me."
 
 
----
 
 They talked for another hour. About DeShawn's app project, about Jerome's reporting, about the space between their perspectives where something like understanding might be possible. It wasn't a resolution - they still disagreed about fundamental things, still saw different futures when they looked ahead. But the disagreement felt different now. Less like a wall, more like a border they could cross and recross.
 
@@ -443,13 +425,12 @@ DeShawn nodded once, then headed for his room. Jerome sat in the quiet office, t
 Maybe that was how the two of them could work together.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Evening had settled over the house when Jerome returned to his office. Denise was home from her sister's, and dinner had been simple - leftovers, conversation about her visit, the ordinary rhythm of Saturday evening. DeShawn had eaten with them, contributing more to the conversation than he had in months. Something had shifted.
 
@@ -472,7 +453,6 @@ Jerome leaned back in his chair. "Congratulations. I think."
 "I thought you might be interested in being connected. Not as a participant - Ruth understands the journalist's need for independence. But as someone who can benefit from what we're watching."
 
 
----
 
 Jerome considered. He had sources in tech companies, in regulatory agencies, in the network of researchers and critics who followed these issues. Adding Ruth's group would give him a different kind of intelligence - the synthesized view of insiders who were deliberately stepping outside.
 
@@ -497,7 +477,6 @@ Jerome thought about the numbers, the discourse, the hollow feeling of attention
 "Hold onto that." Ananya's voice had shifted again, some private knowledge beneath the words. "The work requires more than we realize. Having someone who understands makes it possible."
 
 
----
 
 After the call, Jerome sat in the quiet. The house hummed around him - the refrigerator, the heating system, all the infrastructure of ordinary domestic life. Through the window, the street was dark, a few lights in neighbors' windows.
 
@@ -514,7 +493,6 @@ Ruth's group would be watching too, from their insider position. Ananya would be
 This was the story that never ended. The Eighth Oblivion - whatever it actually named - was still approaching. The preview had passed, but the main event was still somewhere in the future. And Jerome would be there when it arrived, doing what he did: asking questions, connecting dots, telling stories that might not change the world but might help someone understand it.
 
 
----
 
 He began to outline. The developments he'd been tracking - the regulatory responses, the corporate restructuring, the technical pivots that might or might not address the underlying problems. The new AI systems being announced, marketed with promises of safety and alignment that he had no reason to trust. The consolidation of power among the companies that had weathered the crisis, the startups trying to find space in the new landscape.
 
@@ -527,7 +505,6 @@ You try anyway. You build things that might fail. You write pieces that might no
 Jerome saved the document. Saved the outline. Tomorrow he would start writing in earnest. Tonight he would sit with the feeling of purpose renewed.
 
 
----
 
 Footsteps on the stairs. Denise appeared in the doorway, her book in hand.
 
@@ -554,7 +531,6 @@ The Eighth Oblivion was still out there, still approaching, still unnamed and un
 He climbed the stairs toward sleep, toward morning, toward the work that waited.
 
 
----
 
 
 

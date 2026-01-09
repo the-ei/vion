@@ -7,7 +7,6 @@ The house is too large for one person. This was true when they bought it, antici
 She sits up. The floor is cool beneath her feet. The thermostat has learned her patterns too, beginning the gradual warming that will have the bathroom comfortable by the time she finishes her coffee.
 
 
----
 
 In the kitchen she moves through the ritual her mother taught her, though the equipment has changed: the espresso machine instead of the stovetop moka pot, the temperature-controlled carafe instead of the steel thermos, but the sequence preserved, the order of operations that turns morning chaos into morning structure. Water first, always, a full glass standing at the counter, watching the backyard come into focus as the caffeine from yesterday clears and the caffeine from today has not yet arrived, the liminal minutes when she is neither asleep nor performing wakefulness.
 
@@ -20,7 +19,6 @@ The coffee is good. The coffee is always good. She has optimized this process th
 She checks her phone.
 
 
----
 
 The notifications have accumulated overnight: fourteen emails marked urgent (which means none of them are), two Slack threads that have advanced without her, a news digest algorithmically tailored to her professional interests. She scrolls without reading, the gesture itself the point, the checking a form of prayer, a petition to the day to be manageable.
 
@@ -41,7 +39,6 @@ The message sits there, delivered, unread. Priya is probably still sleeping, wil
 In the shower she rehearses the ethics review meeting scheduled for nine o'clock, the presentation she has prepared, the objections she will raise, the counterarguments she anticipates. The hot water runs over her shoulders while her mind runs through scenarios, optimizing for outcomes she already knows she cannot achieve. The feature will launch. Her job is to make the process feel rigorous. She has known this for long enough that the knowledge no longer registers as disillusionment, merely as the weather, merely as Tuesday.
 
 
----
 
 The drive to San Francisco takes her north on 101, through the familiar crawl of early traffic, the Tesla navigating the start-stop rhythm while she reviews notes on her tablet. The car suggests an alternate route, its voice pleasant and genderless, and she accepts without consideration, without asking what patterns it has learned from her previous drives, what it knows about her schedule and preferences that she has not explicitly told it.
 
@@ -52,7 +49,6 @@ She thinks about Priya's text. About the word *literally*, which no longer means
 The car changes lanes smoothly, anticipating the merge.
 
 
----
 
 Prometheus Systems' campus emerges from the urban landscape like something grown rather than built: the curved glass facades that suggest organic forms, the grounds landscaped to evoke a nature that does not exist in this geography, the walking paths that encourage movement while tracking steps. Ananya has worked here for three years and the architecture still strikes her as aspirational, as an argument made in steel and light about what kind of company this is, what kind of future it is building.
 
@@ -63,13 +59,12 @@ The walk from the parking structure to the main building takes four minutes at h
 Her badge beeps at the security turnstile. The system knows she has arrived. Somewhere, in some database, a record notes that Ananya Ramaswamy entered the building at 8:23 AM on this Tuesday in October, ready to perform the ethics of optimization, ready to lose gracefully, ready to begin.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The conference room is named Foresight, one of a suite of rooms named for aspirational qualities: Vision, Clarity, Wisdom, Perspective. Ananya has never determined whether this naming convention is earnest or ironic, whether the executives who approved it understood the humor of conducting surveillance strategy in a room called Transparency. Either interpretation is plausible. Either interpretation is damning in its own way.
 
@@ -80,7 +75,6 @@ The table is long enough to seat twelve, though only six will attend this meetin
 Coffee appears without being ordered, delivered by a service that has learned the preferences of meeting participants and acts on that knowledge without being asked. Ananya's is a cortado, the same thing she makes at home but somehow different here, the same calibration applied to a different end. She thanks the person who delivers it, a young man in the uniform of the catering staff, though she knows the order came from a system that knew she would be here, knew what she would want, knew her better than he does.
 
 
----
 
 They arrive in the particular order that office hierarchies establish without ever being stated: first the support staff, then the mid-level attendees, then the senior leadership, the timing calibrated to suggest that important people have important things to delay them. Nathan Park, the general counsel, enters at 8:59 with his laptop already open, reviewing something as he walks, a performance of busyness that Ananya recognizes because she has performed it herself. Sarah Okonkwo, VP of Product, arrives with Nathan, mid-conversation about something unrelated, demonstrating their alignment before the meeting begins. David Reeves from data science enters alone, nodding at Ananya with the slight smile that might be collegial or might be condescending, the ambiguity his natural mode. Finally, Grace Holloway from communications, who will be responsible for framing whatever the meeting decides, for translating internal decisions into external language.
 
@@ -91,7 +85,6 @@ They settle into seats that reflect unstated preferences, Nathan at the head of 
 She pulls up her slides, the ones she has refined through seventeen drafts, the evidence she has gathered, the arguments she has rehearsed in the shower and the car and the sleepless hours between three and five AM. Three months of work compressed into twelve slides and twenty minutes of presentation time, which is already generous by Prometheus standards, already more than most ethics reviews receive.
 
 
----
 
 "Project Prism," she begins, "is designed to deliver personalized content through the aggregation of user signals across our platform ecosystem. The stated goal is to improve user experience by anticipating needs and reducing friction. My assessment is that the data collection exceeds user expectations, that the aggregation enables predictions users have not consented to, and that the personalization language obscures what is functionally surveillance."
 
@@ -104,7 +97,6 @@ Nathan listens with the attentiveness of someone who has been trained to appear 
 "Thank you, Ananya," Nathan says when she finishes. "Those are substantive concerns. Sarah, do you want to speak to the product perspective?"
 
 
----
 
 Sarah's slides are better than Ananya's, designed by a team with actual design resources, animated with transitions that suggest momentum and progress. The language is different: where Ananya said surveillance, Sarah says user modeling. Where Ananya said prediction, Sarah says anticipation. Where Ananya said data harvesting, Sarah says experience enhancement. The semantic shift is so smooth that Ananya can almost miss it, can almost believe that they are talking about the same things in different dialects rather than having two entirely separate conversations about the same product.
 
@@ -121,7 +113,6 @@ Ananya knows what this means: a settings page that three percent of users will e
 Nathan clears his throat, the gesture of a mediator who has already decided which side to mediate toward. "Perhaps we can find a middle ground. What if we delayed the launch for additional review? Give the ethics team two weeks to work with product on the consent language?"
 
 
----
 
 Two weeks. It is both more than she expected and exactly what she expected: the smallest possible concession that allows everyone to leave the room feeling that process has occurred. She will spend those two weeks drafting language that will be edited by legal, softened by communications, approved in its final form with her name attached but her voice removed. The feature will launch. The consent theater will perform. And Ananya will have participated in making the objectionable acceptable, will have lent her title and her presence to a process that transforms surveillance into personalization through the alchemy of collaboration.
 
@@ -132,7 +123,6 @@ David offers some data on user engagement metrics that suggest Prism will improv
 Ananya gathers her materials and walks back to her office through the open-plan floor, past the engineers who build what she reviews, past the product managers who ship what she slows, past the communications specialists who frame what she critiques. Some of them nod at her. Some of them do not see her, or pretend not to. Her role is understood: she is the friction in the system, necessary and resented, the conscience that the company maintains to prove it has one.
 
 
----
 
 Her assistant, Tomás, is waiting at his desk outside her office, the post-meeting debrief a ritual they have developed over two years of working together. He is twenty-six, sharp, probably destined for greater things than assisting an ethics officer, biding his time in a position that teaches him how the company actually functions.
 
@@ -157,13 +147,12 @@ She nods, stands, moves toward her office door. Inside, the window looks out on 
 The wondering is a ritual too. It never leads anywhere. By the time her calendar chimes, she is ready to perform again.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The restaurant is in Redwood City, equidistant from Palo Alto and San Francisco, chosen two years ago when they were still navigating the geography of separation, still trying to find neutral territory where neither felt like a guest in the other's life. It has good salads. It is expensive without advertising the expense. It exists, Ananya sometimes thinks, specifically for people like them: professionals whose personal failures must be managed with the same efficiency as their professional obligations.
 
@@ -180,7 +169,6 @@ James is already seated when she arrives, a table near the window but not agains
 He shrugs. "I hear about most things eventually."
 
 
----
 
 James Okafor runs a venture capital fund that invests in enterprise software, companies that sell to companies, the infrastructure layer beneath the consumer products that Prometheus builds. His portfolio does not include Prometheus directly, but the ecosystem is small enough that information flows, that dinner parties and board meetings create channels of knowledge that Ananya can never quite trace. When she was married to him she found this network comforting, a sign that she had arrived in a world that mattered. Now it feels like surveillance of a different kind, her ex-husband's professional interest in her professional struggles.
 
@@ -197,7 +185,6 @@ She does not respond to his comment. The waiter arrives. They order. The salads 
 The word hangs between them, *attention*, freighted with implication. Ananya hears what he is not saying: that her schedule makes attention difficult, that her work consumes hours that might otherwise go to Priya, that the custody arrangement has failed to account for a mother who is present but preoccupied.
 
 
----
 
 "I could say the same to you," she says, the defensiveness rising before she can modulate it. "You travel three weeks out of four. Your attention comes through screens."
 
@@ -220,7 +207,6 @@ Ananya thinks of her own screen time, the hours she spends staring at devices th
 "Good." James's expression softens, the adversarial edge receding into something that might be gratitude or might be resignation to their shared project. "That's good."
 
 
----
 
 The salads arrive. They eat in the particular silence of people who have exhausted the topics that are safe, who are circling the topics that are not. Ananya watches James across the table, the familiar lines of his face that she once traced with her fingers, the jaw she used to kiss, the gray appearing now at his temples that she will never watch progress. Twelve years together, two years apart, and this is what remains: scheduled lunches and shared concern, the architecture of a relationship that has been gutted but whose walls still stand.
 
@@ -241,7 +227,6 @@ She almost smiles. Almost. The honesty is rare between them now, the moments whe
 Their phones sit on the table between them, occasionally lighting with notifications, demanding attention even in its absence. Ananya thinks about picking hers up, checking if Priya has responded to the morning text, then decides not to. This moment, imperfect as it is, is a kind of presence. She owes it to the man across from her, to the history they share, to the daughter they are both failing in different ways.
 
 
----
 
 The drive back to Prometheus takes forty minutes in midday traffic, the route familiar enough that Ananya's attention drifts, the car handling navigation while her mind processes the lunch, the conversation, the daughter they discussed as if she were a problem to be solved rather than a person to be known.
 
@@ -270,13 +255,12 @@ She does not think about whether the purpose is worth the cost.
 She has learned not to think about that.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Home arrives as it always does on the off-weeks: dark windows, porch light on a timer, the particular quality of emptiness that greets her when she opens the door. The house has been monitoring her approach through the car's integration with the home system, adjusting the temperature, turning on the entryway light, perhaps even noting her arrival time for some pattern that will be useful later, in some way she has not considered, for some purpose she has not approved.
 
@@ -289,7 +273,6 @@ She changes clothes in the bedroom, trading the armor of work for something soft
 Wine. She permits herself one glass on weeknights, a limit she negotiated with herself after the divorce, when one glass threatened to become two, then three, then a bottle. The Pinot Noir from the rack James built before he moved out, another artifact of the marriage, another thing she cannot bring herself to remove.
 
 
----
 
 In the kitchen she assembles dinner with the same deliberate attention she brings to the morning coffee: salmon defrosted in the refrigerator, vegetables from the weekly delivery, rice from the programmable cooker that had it ready when she walked in. The meal is nutritionally optimized, another system she has built to manage what she cannot attend to, the feeding of a body she experiences mostly as a vehicle for the mind that drives it.
 
@@ -306,7 +289,6 @@ The wine glass empties.
 The house hums.
 
 
----
 
 At some point she walks past Priya's room, drawn there by habit or longing or some combination she cannot untangle. The door is half-open, as she left it. Inside, the artifacts of her daughter's current life: the bed made because Ananya made it last week, the posters of musicians she does not recognize, the desk with its careful arrangement of items Priya insists on maintaining in exactly this order.
 
@@ -323,7 +305,6 @@ She should call her mother. This thought arrives as it does each evening, regula
 Tomorrow. She will call tomorrow.
 
 
----
 
 The email arrives at 10:47 PM, while she is half-watching, half-working, drifting toward the point where she will close the laptop and go to bed. It appears in her secure work inbox, the one that requires additional authentication, the one reserved for matters the company considers sensitive. The sender is a string of characters she does not recognize, routing information that her technical literacy cannot parse, but the internal codes are right, the formatting correct. This message came from inside Prometheus.
 
@@ -344,7 +325,6 @@ Clarity. She has heard the name in meetings, a project in development, something
 The attachment is a PDF. She opens it.
 
 
----
 
 Pages. Technical specifications. Architecture diagrams. A capability overview written in the careful language of engineering documents, precise about what and silent about why.
 
@@ -369,7 +349,6 @@ What are you willing to learn?
 And what will you do with it, once you know?
 
 
----
 
 
 

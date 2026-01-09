@@ -19,7 +19,6 @@ The handshake was firm, brief. Yusuf noticed things: the calluses on Jerome's pa
 Jerome nodded, flagged down a server, ordered Yusuf's water and a refill on his own coffee. The small ritual of hospitality - Yusuf noted that too. Everything about this meeting was calibrated to lower defenses, to create trust.
 
 
----
 
 "Before we start," Jerome said, "I want to be clear about what this is and isn't. I'm writing about algorithmic management in gig work - how the apps use data and prediction to control workers. I'm not writing a profile of you personally, unless you want that. Your story would be part of a larger piece about systemic issues. If you'd prefer to be anonymous, we can do that. If you'd rather use your name, that's fine too. It's your choice."
 
@@ -44,7 +43,6 @@ Jerome was taking notes even though the recorder was running. His pen moved in q
 "Fewer offers. Lower-paying rides. The good jobs go to drivers the algorithm favors. You can feel it when you're in the system's good graces versus when you're not. It's like - " Yusuf paused, searching for the words. "It's like having a boss who never shows their face, never explains their decisions, but controls everything about your work."
 
 
----
 
 Jerome looked up from his notes. "That's a good way to put it. Can you give me specific examples? Times when you felt the algorithm was managing you in ways you couldn't understand or control?"
 
@@ -69,7 +67,6 @@ Yusuf shrugged. "Pieces of it. We know the acceptance rate matters. We know rati
 "Exactly. They want us to be reliable inputs. Predictable. They're not managing people - they're optimizing a system. We just happen to be parts of the system."
 
 
----
 
 The water arrived. Yusuf drank gratefully, his throat dry from talking. Jerome waited, giving him space, not rushing to the next question.
 
@@ -94,7 +91,6 @@ Jerome nodded slowly. "You've clearly thought about this a lot."
 "I think about it every day. When I'm driving, when I'm delivering, when I'm checking my ratings and calculating my take. The thinking is how I stay sane. If I didn't understand what was happening to me, I'd just feel it, and feeling it without understanding would destroy me."
 
 
----
 
 The conversation continued. Jerome asked about specific features of the apps - the rating systems, the deactivation policies, the arbitration clauses that prevented workers from suing. Yusuf explained what he knew, what he'd figured out, what remained opaque. He talked about drivers who'd been deactivated without explanation, without recourse, their livelihoods disappearing overnight because an algorithm made a decision no human ever had to justify.
 
@@ -119,7 +115,6 @@ The question surprised Yusuf. No one had asked him that before - not the other j
 "And I'd say we're not asking for the source code. Just enough understanding to know we're being treated fairly. Is that so much to ask? Is basic fairness really a trade secret?"
 
 
----
 
 Jerome closed his notebook. The recorder's red light still glowed, but something in the conversation had shifted. It felt less like an interview now, more like a conversation.
 
@@ -150,7 +145,6 @@ Yusuf thought about his music. The lyrics he'd been writing. The feeling that wo
 "It makes sense," he said. "It's why I'm here."
 
 
----
 
 They talked for another hour. The recorder ran; Jerome occasionally made notes. But the character of the exchange had changed. It was less interview now than dialogue - two people who had looked at the same machinery and reached similar conclusions, comparing their observations, testing their understanding against each other's experience.
 
@@ -175,7 +169,6 @@ Yusuf nodded. He understood that calculus. It was the same one he made every mor
 "I can."
 
 
----
 
 The afternoon light was fading when Jerome finally stopped the recorder. They'd been talking for nearly two and a half hours. Yusuf's water had been refilled twice. The coffee shop had emptied and begun to fill again with the after-work crowd.
 
@@ -210,5 +203,4 @@ It wasn't much. But it was something.
 He walked to his car, opened the app, started his evening shift. The algorithm was waiting.
 
 
----
 

@@ -11,7 +11,6 @@ The name pulled Ruth out of the papers immediately. Elena Park had been one of h
 "I'm..." A pause. "I need to talk to you about something, Judge. Something sensitive. Can you speak freely?"
 
 
----
 
 Ruth set down her pen. The room seemed to contract around her, the afternoon suddenly charged with a different quality of attention. She knew this feeling - had experienced it on the bench when a case shifted from routine to significant, when testimony revealed something the lawyers had not anticipated.
 
@@ -28,7 +27,6 @@ And then nothing had happened.
 "That's what I need to tell you." Another pause, longer this time. "It's not ongoing. Not really. It's being... managed. Redirected. The files get moved between departments. Lead attorneys get reassigned. New complications emerge that require additional review. It looks like process, but it's not. It's designed to produce the appearance of investigation without the substance."
 
 
----
 
 Ruth's legal mind immediately began cataloging questions. Who was directing this? At what level? What documentation existed? But she knew Elena well enough to understand that this call itself was a risk, that direct questions might push her former clerk into territory she was not prepared to enter.
 
@@ -45,7 +43,6 @@ But this. This was not bureaucratic slowness. This was not the ordinary friction
 "I'm not calling you to become a source for someone's story, Judge. I'm calling you because I thought you deserved to know."
 
 
----
 
 They talked for another twenty minutes. Elena could not provide documents - would not, and Ruth understood without asking. But she described what she had seen: the way investigation files developed technical problems that required transfers between divisions, the reassignment of attorneys who got too close to something, the endless requests for additional information that produced delay without progress. A pattern that emerged only when you stood back far enough to see it, that looked like competence in motion from inside but revealed itself as choreographed inaction from without.
 
@@ -60,13 +57,12 @@ She picked up her pen, looked at the student paper in front of her. The words bl
 Something had changed, and she could not pretend it had not.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Ruth began with Harold Steinberg, who had been on the Ninth Circuit with her for twelve years before his retirement. Harold was sharp, connected, still plugged into the judicial network in ways that someone fully retired could never be. He answered on the second ring, pleased to hear from her, and they spent five minutes on pleasantries before Ruth steered the conversation toward purpose.
 
@@ -83,7 +79,6 @@ Ruth made a note on the index card in front of her - handwritten, the way she ha
 "Who else should I talk to?" Ruth asked.
 
 
----
 
 Harold gave her three names. She spent the rest of the afternoon working through them, each call building on the last, the network revealing itself through use. Margaret Okafor, now teaching at Stanford Law, had heard similar rumors about the SEC's parallel investigation. Jonathan Wu, still on the D.C. Circuit, spoke carefully but confirmed that colleagues at Justice had expressed frustration with what he called "institutional resistance to resolution." Priya Sharma, who consulted for the FTC, described a pattern of evidence requests that seemed designed to produce delay rather than illumination.
 
@@ -94,7 +89,6 @@ The pattern was consistent. Multiple agencies, multiple investigations, the same
 Ruth stood up from her desk, walked to the window, looked out at her garden where Susan's roses were beginning their spring bloom. The beauty felt like mockery.
 
 
----
 
 She called two more people that evening, pushing past the ordinary limits of social contact, the urgency overriding her usual respect for boundaries. Martin LeBlanc, who had been the Senate Judiciary Committee's chief counsel during her testimony, confirmed that the committee had received regular updates on investigation progress - updates that, now Ruth thought about it, had said very little while appearing to say a great deal. And Claire Dubois, an old friend from law school who had spent thirty years in various regulatory agencies, described the mechanism with the precision of someone who had seen it before.
 
@@ -107,7 +101,6 @@ She called two more people that evening, pushing past the ordinary limits of soc
 The answer to that question was obvious. The companies whose practices had been exposed, whose power had been momentarily threatened, who had emerged from the crisis not only intact but stronger.
 
 
----
 
 Ruth made dinner without tasting it - something from the freezer, reheated, eaten standing at the kitchen counter. The house felt larger than usual, emptier. Susan's absence was always present, but tonight it felt more acute, the particular loneliness of carrying difficult knowledge without anyone to share it with.
 
@@ -118,7 +111,6 @@ Instead, Ruth returned to her study, to the index cards spread across her desk l
 Her phone lay silent on the desk. She thought about calling Jerome Washington, the journalist she had met at the book launch in D.C. He was investigating the same territory from a different angle. But it was late, and she was not ready to share what she had learned. Not until she understood it better herself.
 
 
----
 
 At midnight, Ruth finally stopped. Her eyes burned from reading her own handwriting, from the strain of making connections across conversations that had been carefully vague. She had enough information to know that something was deeply wrong. She did not have enough to prove it publicly, to present to a grand jury, to publish in a newspaper. The gap between knowing and proving felt unbridgeable.
 
@@ -133,13 +125,12 @@ The evidence was circumstantial. The pattern was clear. Tomorrow she would decid
 Tonight she stood in her study and felt the weight of everything she had learned pressing against everything she had believed.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The tightness in her chest came three days later, in the middle of the morning, while she was reading a law review article on administrative procedure. One moment she was fine, annotating in the margins with her usual precision; the next moment she could not breathe, could not sit upright, could only grip the edge of her desk and wait for the sensation to pass.
 
@@ -152,7 +143,6 @@ The receptionist fit her in that afternoon. Dr. Torres was a kind man, thorough,
 "Let's get an ECG," he said. "Probably nothing serious, but let's make sure."
 
 
----
 
 The ECG room was small, clinical, equipped with technology that reduced her body to a series of electrical signals. Ruth lay on the table while a technician attached electrodes to her chest, her wrists, her ankles. The machine hummed and clicked, recording the rhythm of her heart, producing a paper tape that meant nothing to her but would tell Dr. Torres what he needed to know.
 
@@ -163,7 +153,6 @@ After the ECG, blood work. A nurse with gentle hands and a calming voice, the pa
 Then waiting. A different room, magazines she did not read, time moving slowly. Other patients passed through - an elderly man with a walker, a young woman with a child on her hip, the ordinary flow of people seeking care. Ruth watched them without seeing them, her attention turned inward, focused on the body she had always taken for granted.
 
 
----
 
 Dr. Torres called her back into his office forty-five minutes later. The ECG printout was on his desk, covered with his annotations. His face was carefully neutral, the professional composure of someone who delivered difficult news regularly but never casually.
 
@@ -182,7 +171,6 @@ Ruth almost laughed. Reduce her stress. After what she had learned. After what s
 The mention of Susan hit harder than the diagnosis. Ruth nodded, unable to speak.
 
 
----
 
 She sat in her car in the medical center parking lot for a long time, the engine off, the spring afternoon beautiful around her. Other patients came and went, their own stories invisible behind their faces. A woman pushed an elderly man in a wheelchair toward a waiting van. A young couple walked hand in hand toward the entrance, their anxiety evident in their posture.
 
@@ -197,13 +185,12 @@ She started the car and drove home, the cardiologist referral in her purse, the 
 Today she would sit with the knowledge that her time was finite, and decide what to do with what remained.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Rebecca arrived for dinner looking like she had aged a decade in the months since Ruth had last seen her in person. Dark circles under her eyes, a tightness in her jaw that spoke of chronic stress, the particular exhaustion of someone who cared about work that was becoming impossible.
 
@@ -220,7 +207,6 @@ The meal was simple - roasted chicken, vegetables from the farmers market, bread
 They ate at the table where the four of them had once gathered - Ruth and Susan, Rebecca and her brother David. Two chairs empty now, one from death and one from distance. David lived in Connecticut, worked in finance, called occasionally but visited rarely.
 
 
----
 
 "Tell me about work," Ruth said, though she already knew it would be difficult to hear.
 
@@ -235,7 +221,6 @@ Ruth listened as Rebecca described specific families - names changed, but the si
 The stories accumulated, each one a small tragedy that connected to larger ones, the human cost of decisions made in distant offices by people who never saw the consequences.
 
 
----
 
 Ruth thought about what she had learned from Elena, from her network, from the pattern that was becoming clear. The investigations that were being buried, the companies that were being protected - they were connected to these budget cuts, to Rebecca's collapsing services, to the children falling through cracks. Not directly, not in ways that could be traced on paper, but systemically. The same power that protected corporations from accountability drained resources from the services that might have caught what the corporations destroyed.
 
@@ -250,7 +235,6 @@ Ruth considered lying. Considered the kind lie that parents tell their children 
 Rebecca's face shifted through fear, concern, and something that looked like anger. "Why didn't you tell me right away? When were these tests?"
 
 
----
 
 "A few days ago. I wanted to tell you in person." Ruth reached across the table, touched her daughter's hand. "I'm fine. I'm being careful. I just wanted you to know."
 
@@ -269,13 +253,12 @@ Rebecca nodded slowly. "Mom would have approved."
 "Yes," Ruth said. "I think she would have."
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The cafe was in Rockridge, close enough to Rebecca's office that Ruth could pretend the trip was partly to see her daughter, though they both knew the real purpose. It was a bright morning, the Oakland hills visible through the window, the particular clarity of Bay Area spring light that made everything seem more vivid than it should.
 
@@ -290,7 +273,6 @@ They ordered coffee - good coffee, the kind that Oakland did well - and spoke ca
 "Tell me what you've learned," Jerome said. The journalist's invitation, open-ended, designed to let the source speak without constraint.
 
 
----
 
 Ruth spoke for twenty minutes. She did not name Elena, did not provide specifics that could identify her sources, but she described the pattern: investigations that appeared active but produced nothing, personnel changes that disrupted progress, procedural requirements that multiplied until they consumed all forward motion. The picture of institutional capture, painted in careful strokes.
 
@@ -303,7 +285,6 @@ Jerome listened with the intense attention she had observed at the book launch -
 "That's the question." Jerome's face tightened. "What I've learned, what you've learned - it's circumstantial. Patterns, not proof. Any decent lawyer could explain away each individual piece. 'Bureaucratic complexity.' 'Resource constraints.' 'Appropriate caution in sensitive investigations.'"
 
 
----
 
 "And if we could prove it?" Ruth pressed. "What then? You exposed the initial crisis. You told the story well. Everyone agreed it was important. And nothing changed."
 
@@ -318,7 +299,6 @@ Jerome was quiet for a long moment. The coffee shop hummed around them, other co
 Ruth understood. She was here for the same reason - not because she believed in success, but because she could not accept the alternative.
 
 
----
 
 "So what do we do?" Ruth asked.
 
@@ -341,7 +321,6 @@ Ruth drove back to Berkeley carrying something she had not felt in months: purpo
 It was not enough. But it was what she had.
 
 
----
 
 
 

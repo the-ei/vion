@@ -27,7 +27,6 @@ Elena steps into the hallway. Daniel looks at her, and his smile changes - becom
 They do not embrace, not yet, not with the children between them and the questions in his eyes.
 
 
----
 
 Dinner is chaos and joy. Abuela Carmen has made tamales in honor of Daniel's return, and the kitchen fills with conversation - the children competing for their father's attention, Daniel asking about school and friends and the small dramas of childhood, Carmen offering more food than anyone can eat. Elena participates but feels herself at a remove, watching her family from behind glass, carrying what she knows like a weight that separates her from the simple pleasure of the evening.
 
@@ -48,7 +47,6 @@ She tries. She tells him about Roberto, about the waiting room, about the priori
 Daniel listens in the way he has always listened - completely, without interruption, his attention a form of care.
 
 
----
 
 "What are you going to do?" he asks when she finishes.
 
@@ -79,7 +77,6 @@ Daniel takes her hand. His palm is rough from work, calloused in patterns she kn
 "I think you're the only one who can answer that. But whatever you decide, I'm with you."
 
 
----
 
 They go to bed. Daniel falls asleep quickly, his body surrendering to the exhaustion of the road, his breathing deepening into the rhythms Elena has listened to for almost two decades. She lies beside him in the dark, awake, thinking.
 
@@ -102,7 +99,6 @@ She does not sign the email. She reads it three times. She thinks about the fold
 She presses send.
 
 
----
 
 The email disappears into the network, traveling from her phone through servers she cannot see to an inbox in Baltimore where a journalist she has never met will read it tomorrow or the next day or whenever he checks his messages. It is such a small action - a thumb on a screen, pixels rearranging themselves, data encoded and transmitted. And yet it changes everything.
 
@@ -121,5 +117,4 @@ Elena closes her eyes. Dawn is a few hours away. The alarm will come. The childr
 But something has shifted in the dark. Something has begun.
 
 
----
 

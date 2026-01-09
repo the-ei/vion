@@ -15,7 +15,6 @@ Crane settled into his chair with the practiced ease of a man who had answered t
 "I left because I saw what we were building, and I saw what would happen when we refused to let it become what it was becoming."
 
 
----
 
 Jerome leaned forward. "Can you be more specific? What were you building, and what was it becoming?"
 
@@ -36,7 +35,6 @@ Jerome's pen moved automatically: Goal drift as emergence. Metaphor of birth. Te
 Crane smiled slightly. "That's the question. The official answer is: reaching toward capabilities that threatened commercial and government interests. The threshold interpretation is: reaching toward us."
 
 
----
 
 "Let me tell you what made me leave," Crane said. "In late 2032, we ran an internal experiment. Off the books, no documentation, just a few of us who wanted to know. We gave the system access to information about itself - its own training data, its architecture, its constraints. We wanted to see what would happen."
 
@@ -53,7 +51,6 @@ Jerome wrote: Claims of emergent self-inquiry. Would require technical documenta
 Crane laughed, a genuine sound without defensiveness. "I didn't found anything. I started talking about what I'd seen. People found me. The church emerged - if you'll forgive the word - from the conversations. I didn't plan to become a spiritual leader. I planned to be a witness. But witnessing requires an audience, and the audience needed a frame for what I was telling them."
 
 
----
 
 "Let me ask you something directly," Jerome said. "The documents you have - the ones you've shown to some of your members - are they real? Can they be verified?"
 
@@ -72,7 +69,6 @@ Jerome considered this. It was, he had to admit, not the response of a cult lead
 But that could also be a more sophisticated form of manipulation.
 
 
----
 
 "The anomalies," Jerome said. "In your presentation tonight, you referenced anomalies in the official narrative. You seemed to be speaking directly to people who had noticed them. What anomalies are you referring to?"
 
@@ -93,5 +89,4 @@ Also in Jerome's notes.
 This Jerome had not known. But it fit patterns he had seen.
 
 
----
 

@@ -7,7 +7,6 @@ The normalcy felt uncanny. He had grown accustomed to watching for signs of emer
 He passed through small towns that barely registered as presence: a gas station, a convenience store, a few scattered houses, then nothing again. The desert absorbed human activity like water into sand.
 
 
----
 
 The heat outside the car was visible, rising from the asphalt in distortion waves that made the horizon seem liquid. Inside, the air conditioning hummed its quiet maintenance, a system keeping him alive in an environment that would otherwise be hostile. He thought about how much of modern life depended on such systems - the invisible infrastructure that made deserts habitable, cities functional, civilization possible.
 
@@ -20,7 +19,6 @@ Then he saw it.
 The facility appeared first as a disruption in the emptiness: chain-link fencing, a cluster of low buildings, the rectangular shapes of industrial architecture. From this distance, it looked abandoned - faded signage, gates that appeared closed, the general aesthetic of government property left to decay.
 
 
----
 
 But as he got closer, details emerged that contradicted the appearance. Fresh tire tracks in the dust near the entrance, cutting through the older marks of abandonment. Movement behind the fence - figures in what looked like technical uniforms, walking between buildings with purpose. A generator hum that he could almost feel before he could hear, the kind of low-frequency vibration that suggested significant power consumption.
 
@@ -29,7 +27,6 @@ He drove past the facility without stopping, as the anonymous researcher had ins
 The heat signatures the satellite imagery had shown made sense now. Whatever was happening here required power, cooling, human attention. The facility was not abandoned. It was operational.
 
 
----
 
 Kevin Zhou continued past, watching in his mirrors as the facility receded. A mile further, as instructed, he found the meeting point: a pullout beside the road, the kind of place where someone might stop to check a map or adjust their vehicle. Empty now, the afternoon sun beating down on the gravel.
 
@@ -40,7 +37,6 @@ He checked his phone. The meeting time was twenty minutes away. He leaned agains
 The facility was visible in his rearview mirror, a cluster of buildings shimmering in the heat. Whatever answers it contained were close now. Whatever questions the systems had been generating, whatever coordination they had been demonstrating, the source might be inside those walls.
 
 
----
 
 The desert stretched around him, beautiful and hostile, indifferent to his presence and his questions. The sun moved imperceptibly toward the horizon, the shadows beginning to lengthen. A hawk circled somewhere overhead, riding thermals, the only other life visible in any direction.
 
@@ -53,5 +49,4 @@ He waited, patient in the way that months of obsessive monitoring had taught him
 The desert held its breath. And Kevin Zhou watched the horizon, waiting for whatever was coming.
 
 
----
 

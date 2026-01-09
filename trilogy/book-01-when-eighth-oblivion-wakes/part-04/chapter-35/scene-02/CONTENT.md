@@ -11,7 +11,6 @@ Jerome closed his laptop and stared at the wall of his office. The certificates 
 DeShawn's voice, from two weeks ago, echoed in his head: "When was the last time an investigation actually changed anything?"
 
 
----
 
 Denise found him there an hour later, still staring, the laptop closed, the coffee cold.
 
@@ -40,7 +39,6 @@ Jerome nodded slowly. The uncertainty was the hardest part—not knowing whether
 "I think he might be right. And I think that doesn't mean we stop trying."
 
 
----
 
 Later that afternoon, Jerome drove to Baltimore to visit his mother. Dorothy was in the memory care facility they'd found after the diagnosis accelerated, the place that had become her home since she couldn't safely live alone.
 
@@ -69,7 +67,6 @@ His father had been dead for fifteen years, but in Dorothy's mind the timeline w
 "Denise is a smart woman. You should listen to her."
 
 
----
 
 The drive home was long and quiet, the winter darkness falling early, the highway lights creating their rhythmic pattern against the windshield. Jerome thought about his mother's words, about Denise's words, about the strange accumulation of wisdom that came from the women in his life.
 
@@ -92,7 +89,6 @@ He handed Jerome the phone. On the screen, a young man was playing guitar and si
 Jerome watched the young man sing, watched the pain and defiance in his face, watched the truth he'd documented transformed into something else, something that lived in a different register entirely.
 
 
----
 
 "This is good," Jerome said, handing the phone back. "This is—this is what it looks like when the story becomes more than the story."
 
@@ -117,5 +113,4 @@ DeShawn nodded, still holding the phone, still watching the young man sing.
 It was the closest thing to an apology Jerome was likely to get. He took it, gratefully, and went to find Denise and tell her about the seed that was beginning to grow.
 
 
----
 

@@ -21,7 +21,6 @@ Prometheus-connected safety systems. The building management, the emergency prot
 "That must have been confusing," she said. "I'm sorry you didn't get to finish your classes."
 
 
----
 
 "Some kids were saying it's because of AI. Like, the AI systems are broken everywhere." A pause, weighted with the particular gravity of a child waiting to see if an adult will lie. "Is that true? Is that what's happening at Prometheus?"
 
@@ -52,7 +51,6 @@ Her phone buzzed again. This time it was a news alert.
 "PROMETHEUS SYSTEMS RESPONDS TO OUTAGE: 'SOPHISTICATED SECURITY INCIDENT'"
 
 
----
 
 The story was spreading. She watched it move through her feeds, the same language repeated and amplified, the narrative taking on the weight of repetition until it began to feel inevitable, as if it had always been the only possible account. Security incident. Under investigation. Working with authorities. The lie becoming truth through the simple mechanism of consensus, each repetition another layer of sediment burying what had actually happened.
 
@@ -69,7 +67,6 @@ Evidence, she thought. I have evidence.
 The word felt strange. Evidence of what? Evidence that she had warned them? Evidence that they had known and proceeded anyway? Evidence that the lie they were telling now was contradicted by their own records?
 
 
----
 
 She stood and walked to her window. The afternoon was fading now, the golden light giving way to something grayer, the sky taking on the bruised quality that preceded winter evenings. In the distance, she could see the roads that led out of Silicon Valley, the arteries of the economy she had helped build and maintain and justify. How many of those cars were navigating with systems that depended on AI? How many of their drivers had healthcare managed by algorithms, finances routed through models, children in schools protected by the same technology that had failed this morning? The infrastructure of modern life, woven through with threads she had helped spin.
 
@@ -88,7 +85,6 @@ What should I tell her. The question every co-parent learned to navigate, the ch
 She typed the words and stared at them. Everything will be okay. Another lie, or at least an uncertainty dressed as reassurance. She sent it anyway.
 
 
----
 
 The light through the window shifted. She watched it change, the shadows lengthening across her desk, the day tilting toward evening. Through the glass walls of her office, she could see colleagues performing normalcy - typing, talking, moving between meetings. The crisis was being managed. The story was being told. The machinery of the company was running as designed.
 
@@ -105,5 +101,4 @@ Her phone was silent. Vikram had accepted her answer. Priya was doing homework. 
 She stayed at the window until the light was gone, and the glass showed only her reflection, and the office behind her, and the work she still had to decide whether to do.
 
 
----
 

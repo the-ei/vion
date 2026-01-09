@@ -11,7 +11,6 @@ He recognized her from her congressional testimony, which he had watched multipl
 She was older in person than she had seemed on camera, and she looked tired in a way that suggested more than physical exhaustion.
 
 
----
 
 Jerome made his way across the room, collecting a glass of wine from a passing tray. He reached Ruth as she was setting down her own empty glass.
 
@@ -36,7 +35,6 @@ Ruth nodded slowly. "That matches my experience. I spent two days testifying abo
 "It shouldn't. I've spent forty years in the legal system. I know how institutions absorb challenges without changing." She paused, something flickering in her expression. "But I suppose I thought this time might be different. The scale of the revelations. The clarity of the risks. I thought - naively, it turns out - that being right about something important would lead to action."
 
 
----
 
 "I've been trying to write about it," Jerome said. "About what the exposure didn't accomplish. But I can't get anyone to go on record saying what they clearly believe - that the whole response was theater."
 
@@ -63,7 +61,6 @@ It was the question Jerome had been asking himself since his conversation with M
 "Yes."
 
 
----
 
 They talked for another twenty minutes, the book event continuing around them without requiring their attention. Ruth described her experience on the committee - the careful preparation, the detailed testimony, the polite reception followed by systematic inaction. Jerome shared what he'd learned from his sources, careful not to reveal anything confidential but conveying the pattern: investigations stalled, recommendations ignored, the machinery of accountability grinding to a halt.
 
@@ -90,5 +87,4 @@ She moved toward the book table. Jerome watched her go, thinking about what she 
 He left the bookstore and walked into the D.C. night, the conversation settling into his mind alongside everything else he was carrying.
 
 
----
 

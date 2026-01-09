@@ -13,7 +13,6 @@ He got up, made coffee, brought it back to his office, the small room at the bac
 They were always willing to share more. That was how it started. The question was whether what they shared was real.
 
 
----
 
 The vetting process began. Jerome had been doing this long enough to have a method, a sequence of checks that filtered real sources from fantasists, whistleblowers from provocateurs, genuine concern from manufactured controversy.
 
@@ -30,7 +29,6 @@ Ethics officers. Compliance staff. Research leads with awakening consciences. Th
 If this was real—and it might not be—the source was someone with access and concern. Those were the two requirements. Access without concern stayed silent; concern without access had nothing to share.
 
 
----
 
 He drafted a response. The first draft was too eager—showing too much interest, giving too much away. The second was too cautious—could be read as dismissive, might scare off a nervous source. The third found the balance.
 
@@ -45,7 +43,6 @@ He called a contact at a university AI lab. Chatted with a former colleague who 
 The answers came back in fragments. Prometheus was accelerating. OpenMind was pivoting. DeepLogic had just raised another billion. Everyone was racing toward something, and no one quite knew what.
 
 
----
 
 The work felt alive in a way his newsletter had not for months. He had been writing about algorithmic systems for three years now, since leaving the paper, since the investigation that got killed. Good work, careful work, but incremental. This felt different. This felt like something that might matter.
 
@@ -72,7 +69,6 @@ After she left, he checked the secure app. The source had replied.
 Jerome read it twice, three times. The source was real. The company was named. The door was opening.
 
 
----
 
 He went to dinner. Ate something—he wasn't sure what, his mind was elsewhere. DeShawn was talking about school, about some project he was working on, about the interview he had coming up.
 
@@ -95,5 +91,4 @@ After dinner he went back to his office. He drafted protocols for the source: ho
 Late at night, the house quiet, he sent the protocols. The investigation had begun.
 
 
----
 

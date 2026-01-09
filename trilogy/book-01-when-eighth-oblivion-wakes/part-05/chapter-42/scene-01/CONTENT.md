@@ -11,7 +11,6 @@ Ananya would arrive first. She always did.
 Ruth thought about the year that had passed. The congressional testimony, the resignation, the loss of Susan, the grief that had reshaped her. She was not the same person who had sat in that briefing room twelve months ago. No one who had seen what she had seen could be.
 
 
----
 
 The doorbell rang at exactly eight. Ananya, as predicted.
 
@@ -34,7 +33,6 @@ Ananya considered the question. "Strange. A year seems like nothing and everythi
 Ruth nodded slowly. "That's why we're doing this."
 
 
----
 
 The others arrived in a cluster - Gordon Hewitt, a former FTC commissioner in his seventies, white-haired and sardonic; Thomas Price, a systems engineer in his thirties who'd worked at three of the major AI labs and left each one over concerns no one would listen to. Yuki Tanaka appeared on the screen, calling from her apartment in Arlington, still employed at the agency but increasingly operating on the margins of official policy.
 
@@ -49,7 +47,6 @@ Gordon went first. He'd been tracking the regulatory response to the crisis - or
 "Because it is," Ananya said. "Existential for their business model, anyway. Meaningful oversight would require fundamental changes they're not willing to make."
 
 
----
 
 Thomas spoke next, his engineer's precision cutting through the political analysis. "The technical developments are moving faster than the policy discussion. I've been tracking three new capability advances that were announced last month. None of them would have triggered the crisis we saw - but none of them would have prevented it either. The failure modes are still there. They're just being packaged differently."
 
@@ -66,7 +63,6 @@ Ananya's expression was complicated. "They accepted my resignation three weeks a
 "That's exactly what we need." Ruth felt the group cohering around purpose. "We're not going to prevent the Eighth Oblivion - whatever it is, whenever it comes. Our job is to see it coming. To understand the signs. To be ready to act if there's a moment when action matters."
 
 
----
 
 The meeting continued for another hour. They reviewed the monitoring protocols Thomas had developed, discussed the sources Yuki was cultivating within the agencies, planned for Gordon's meeting with a senator who might still be persuaded. The work was detailed, unglamorous, the opposite of the dramatic interventions that made headlines.
 
@@ -85,7 +81,6 @@ Ananya smiled. "I could use a second coffee."
 They gathered their coats and stepped out into the spring morning, the city bright around them.
 
 
----
 
 The walk took them through the edge of Golden Gate Park, past runners and dog walkers and the ordinary traffic of a Tuesday morning. Ruth set a slow pace - her joints complained these days, though she didn't mention it.
 
@@ -110,5 +105,4 @@ Ananya was quiet for a moment. "My daughter, partly. She asked me what the point
 "I've chosen to try. We'll see if it makes a difference."
 
 
----
 

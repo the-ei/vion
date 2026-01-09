@@ -5,7 +5,6 @@ Ruth arrived early, as she always did, spreading her materials across the end of
 The students filed in with the particular energy of late February, mid-semester exhaustion mixed with the caffeinated determination that law school demanded. Ruth watched them arrange themselves: the front-row diligents who always had the reading done, the back-row skeptics who came to challenge rather than absorb, the middle-ground majority who were still deciding what kind of lawyers they would become.
 
 
----
 
 Daniel Okonkwo, her teaching assistant, slipped into the seat nearest the door. He was Nigerian-American, second-generation, his father an economist at the IMF and his mother a physician who had returned to Lagos to run a maternal health clinic. Daniel had come to law school after three years at a tech company, and he brought to the material a pragmatism that Ruth found both valuable and disquieting. He didn't believe the law would save anyone. He believed it was a tool, useful when deployed correctly, indifferent to its own deployment, and his question was always the same: what outcome do we want, and what legal mechanism gets us there? Ruth had spent her career believing that the mechanisms had their own integrity, that process mattered independently of outcome. Daniel made her wonder.
 
@@ -14,7 +13,6 @@ She began the class with Carpenter v. United States, the 2018 case that had exte
 "The Court in Carpenter focused on the 'detailed, encyclopedic, and effortlessly compiled' nature of location data," Ruth said. "Chief Justice Roberts wrote that individuals do not 'voluntarily' assume the risk of disclosure when cell-site records reveal the 'privacies of life.'"
 
 
----
 
 A student in the front row - Jennifer, Ruth remembered, though she was increasingly bad with names - raised her hand. "But doesn't that reasoning fall apart when the surveillance isn't location-based? I mean, the AI systems we're dealing with now don't care where you are. They care what you're likely to do, and they infer that from correlations that have nothing to do with physical movement."
 
@@ -25,7 +23,6 @@ The class shifted, the particular movement of bodies that indicated genuine enga
 "Let's take a hypothetical," she said. "An AI system, trained on publicly available data - social media posts, consumer behavior, public records - generates a profile suggesting that Person A is likely to commit a crime in the next six months. No search in the traditional sense has occurred. No warrant could have been obtained because there was no target, no specific suspicion, no probable cause to invoke. And yet the state now possesses information about Person A's probable future conduct. The Fourth Amendment was written to constrain the king's men from breaking down your door. What does it have to say about systems that predict which doors to break down before any crime has been committed?"
 
 
----
 
 "That's not a hypothetical," said a student from the back row, a young man whose name Ruth couldn't recall. "That's last year. That's the Prometheus system."
 
@@ -48,7 +45,6 @@ Ruth let the silence hold for a moment. The other students watched, some with sy
 "The process continues," Ruth repeated, hearing herself, "which means nothing has changed and nothing is likely to change. That is, I think, what you're suggesting. And I don't disagree."
 
 
----
 
 The admission cost her something - she could feel it, the slight erosion of the authority that made teaching possible, the professional persona she had maintained for decades developing a crack that would only widen. But she could not pretend otherwise, not to these students who would graduate into a world where the gap between legal theory and technological reality widened daily.
 
@@ -65,7 +61,6 @@ Daniel shifted in his seat. Ruth caught his eye, and he gave a slight nod - perm
 "You may be right," Ruth said. "I don't know anymore. That's the honest answer. I spent thirty years believing that the law could adapt, that constitutional doctrine could evolve to meet new challenges the way it evolved from Olmstead to Katz to Carpenter. I'm no longer certain that evolution will be fast enough."
 
 
----
 
 The class ended without resolution, which Ruth supposed was appropriate. She gathered her materials while the students filed out, some lingering in small clusters to continue the debate. Daniel approached, his laptop tucked under his arm.
 
@@ -92,5 +87,4 @@ Ruth thought about it. A year ago, she would have cared about the professional i
 "No," she said. "I think I just said what I actually believe. That's either the beginning of something or the end of something, and I'm not sure which. Maybe both. Maybe they're the same thing."
 
 
----
 

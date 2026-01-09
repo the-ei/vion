@@ -19,7 +19,6 @@ Jerome felt his attention sharpen, the journalist in him recognizing the weight 
 "No. I couldn't tell if he was really trying to help or if he was gathering information for them. I couldn't tell if he knew the difference himself."
 
 
----
 
 Jerome listened to her describe the visit in detail, taking notes by habit even though he would not publish any of this, even though her identity remained protected. The conversation with Vikram, the ambiguity of his motives, the warning about legal action—all of it confirmed what Jerome had suspected: Prometheus was preparing a counterattack.
 
@@ -42,7 +41,6 @@ She was quiet for a moment, absorbing this. "That's what I thought you'd say."
 "No." The word came quickly, firmly. "I'd do it again. I couldn't live with myself if I hadn't. But I need to understand what I'm doing, what it might accomplish, what it might cost."
 
 
----
 
 "The cost might be high," Jerome said. "If they're serious about a case, they have resources you don't have. They can make your life difficult in ways that don't even require winning in court."
 
@@ -59,7 +57,6 @@ They talked for another twenty minutes, comparing notes on the aftermath, sharin
 He opened his drafts folder and looked at the pieces in progress. There was always more to write, more to investigate, more threads to follow into the darkness of what these companies were building. The question was not whether there was work to do. The question was whether the work would matter.
 
 
----
 
 He thought about his mother, as Denise had suggested. He should call her tomorrow, during the afternoon window when she was most likely lucid. She was eighty-one, her mind fraying at the edges, but she still asked about his work, still wanted to know if he was telling the truth, still believed truth-telling was a form of prayer.
 
@@ -74,7 +71,6 @@ His coffee had gone cold hours ago. He should sleep, should let the work rest un
 He began to write.
 
 
----
 
 The words came slowly at first, then faster, sentences building on each other as the piece took shape. He was writing about the gap between attention and impact, about the strange position of being heard by millions while changing almost nothing. It was not the kind of piece that would go viral—it was too internal, too uncertain—but it was what he needed to write, what he needed to think through in order to continue.
 
@@ -95,5 +91,4 @@ He climbed the stairs slowly, feeling his age in knees and back, the accumulated
 And then they slept, while outside the windows the city continued its cold January night, and somewhere in servers and data centers, the technologies Jerome wrote about continued their invisible growth toward futures no one could quite see.
 
 
----
 

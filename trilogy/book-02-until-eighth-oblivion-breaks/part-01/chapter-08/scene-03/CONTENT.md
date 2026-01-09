@@ -9,7 +9,6 @@ Sarah Kim arrived conscious but barely so. Her eyes fluttered when Elena spoke t
 The woman's eyes focused, briefly, on Elena's face. "I didn't want..." she started, then trailed off, the sentence dissolving before it reached completion.
 
 
----
 
 The next hour was clinical. Elena moved through the protocols with the precision her training had instilled: establishing IV access, administering flumazenil to counter the benzodiazepine overdose, monitoring vital signs as Sarah's body processed the intervention. The woman's blood pressure stabilized. Her oxygen levels remained acceptable. The overdose had been serious but not immediately lethal - a cry for help, as such things were often called, though Elena had learned to be wary of that distinction. The line between wanting to die and wanting the pain to stop was often thinner than the phrase suggested.
 
@@ -24,7 +23,6 @@ Sarah's husband arrived at eleven, a man in his mid-thirties who looked like he 
 Elena recognized the self-blame that came with loving someone in crisis. She had no words to comfort him, only the professional reassurance that he had done the right thing by calling for help.
 
 
----
 
 Sarah slept. The sedation had worn off, replaced by ordinary exhaustion, her body recovering from the chemical assault it had endured. Elena sat with her while Dr. Osei handled the other patients, monitoring the steady rhythm of the heart monitor, watching Sarah's chest rise and fall with each breath.
 
@@ -37,7 +35,6 @@ Elena thought about the anniversary, about whether tonight's attempt was connect
 Or not. Elena had learned not to make predictions about people in crisis.
 
 
----
 
 Around eleven-thirty, Sarah opened her eyes. For a moment she seemed not to know where she was, her gaze unfocused, her expression confused. Then recognition settled in, and with it something that looked like shame.
 
@@ -56,7 +53,6 @@ Sarah turned her head, looked at the wall. "I saw the anniversary coverage. All 
 The words hit Elena with unexpected force. It was her own thought, echoed back from a patient's mouth, the same gap between narrative and reality that she had felt in her living room hours ago.
 
 
----
 
 "Did that trigger tonight?" Elena asked, the clinical question that was also personal.
 
@@ -75,5 +71,4 @@ She had saved a life tonight. Or delayed a death. Or interrupted a story whose e
 The work continued.
 
 
----
 

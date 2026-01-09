@@ -5,7 +5,6 @@ The fog pressed against the windows. She could hear it, almost - that Pacific da
 The house held Susan everywhere. Ruth passed the gallery wall where their photographs hung in no particular order - Susan at forty, accepting a humanitarian award; both of them at Yosemite the summer before the diagnosis; Rebecca as a baby; David's law school graduation before he abandoned law for finance - and she did not stop to look at them, not this morning, not any morning, because stopping would mean acknowledging that these images were now all she had, this flat archive where Susan's laugh existed only as memory, as artifact, as the unbearable opposite of presence.
 
 
----
 
 In the kitchen, Ruth performed the rituals of coffee with the attention she had once reserved for case law. The beans were Ethiopian Yirgacheffe, ordered from a roaster in Oakland that Susan had discovered years ago; Ruth had continued the subscription out of loyalty to the dead. She ground them by hand, thirty seconds of circular motion, the burr grinder Susan had insisted upon because the blade grinder produced uneven particles and Susan had always believed in precision. The water was filtered, heated to exactly two hundred degrees, poured in slow concentric circles over the grounds in the ceramic dripper. Four minutes of steeping. This was not efficiency; this was observance.
 
@@ -16,7 +15,6 @@ The Prometheus story had migrated. Eight months ago it had commanded the front p
 Ruth had been inside the process.
 
 
----
 
 She had sat before the Senate Judiciary Committee in a hearing room that smelled of old carpet and institutional ambition, of decades of testimony that had changed nothing, and she had explained, in the careful language of constitutional interpretation, why the existing legal frameworks were insufficient to address algorithmic systems that operated beyond human comprehension. She had cited precedents - Katz, Carpenter, the long evolution of Fourth Amendment doctrine - and she had watched the senators nod, some with understanding and some with the performance of understanding, and she had believed, in that moment, that her expertise mattered, that the law could still shape the technology rather than merely trailing behind it.
 
@@ -27,7 +25,6 @@ Ruth turned to her tablet, scanning the headlines she had already absorbed in fr
 In her study, surrounded by the books she had accumulated over four decades of legal practice and scholarship, Ruth opened the document she had been circling for months. The op-ed. A draft she had started in November and abandoned, started again in December and abandoned again, now on its seventh iteration.
 
 
----
 
 The thesis was sound, she thought. The argument traced how constitutional protections developed in an era of physical spaces and tangible evidence had failed to anticipate systems that operated through prediction rather than surveillance, inference rather than intrusion. The Fourth Amendment imagined a government that would come to your door, and the jurisprudence had evolved to recognize that the door could be metaphorical - your phone, your email, the third-party doctrine's gradual erosion. But what Ruth was trying to articulate was something more fundamental: that the entire framework assumed a human decision-maker whose reasoning could be examined, challenged, reviewed. The AI systems didn't reason in ways that legal analysis could parse. They produced outcomes from correlations that existed in mathematical space, in dimensions no human mind could visualize, and the law had no vocabulary for correlations, no procedure for cross-examining a gradient descent.
 
@@ -38,7 +35,6 @@ The problem, Ruth thought, was not that her argument was wrong. The problem was 
 What was the point of an op-ed arguing for better frameworks when the existing frameworks had already failed? Who was her audience? The senators who had nodded at her testimony and then voted for appropriations that preserved the status quo?
 
 
----
 
 Ruth pushed back from the desk and walked to the window. The fog was lifting now, revealing the garden that Susan had planted and Ruth had maintained - or tried to maintain, though maintenance was a generous term for her sporadic efforts. The roses needed pruning, their winter canes gone woody and angular. The jasmine had grown wild along the back fence, claiming territory Susan would never have permitted. Susan would have known what to cut and what to leave, the intuitive grammar of growth that Ruth had never mastered. Susan had been a public defender for thirty years before the cancer, had spent her career in the gap between legal ideals and human reality, and she would have known what to say about Ruth's op-ed, about the hearings, about this strange aftermath where everything had been revealed and nothing had changed.
 
@@ -49,7 +45,6 @@ Or maybe she wouldn't have said that. Maybe Ruth was projecting her own doubt on
 The photograph sat on the corner of her desk, the one from their last trip together, to Mendocino, three months before the diagnosis. Susan squinting into the sun, her gray hair loose in the coastal wind, laughing at something Ruth had said, though Ruth could no longer remember what. In the photograph, neither of them knew what was coming. They were two women who had built a life on the assumption that the future could be reasoned with, negotiated, shaped by careful argument and accumulated precedent.
 
 
----
 
 Ruth picked up the photograph, held it at an angle where the morning light caught Susan's face. Eight months since the crisis. Fourteen months since Susan's death. The two losses had become intertwined in Ruth's mind, each amplifying the other - the private grief and the public disillusionment braided together into something she couldn't name, couldn't argue her way through, couldn't draft into coherent prose.
 
@@ -62,13 +57,12 @@ She saved the document and closed it. Outside, the fog had mostly burned off, an
 The seminar started at ten. She had papers to review, students to face. The day, like every day, would require performance.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The seminar room at Berkeley Law had windows on two sides, an extravagance of natural light that the architects had clearly intended as a metaphor - legal education illuminated, perhaps, or the transparency of reasoned discourse, as if truth were something you could see if only you let enough light in. Ruth had been teaching in this room for eleven years, since her appointment to the faculty after leaving the bench, and she knew its angles intimately: where the morning sun would fall at ten-fifteen, how the afternoon shadows gathered in the corners, which seats the students preferred and why. The table was arranged for conversation, not lecture, twelve seats around an oval surface designed to suggest equality among interlocutors even though everyone knew the power resided with the professor at the head.
 
@@ -77,7 +71,6 @@ Ruth arrived early, as she always did, spreading her materials across the end of
 The students filed in with the particular energy of late February, mid-semester exhaustion mixed with the caffeinated determination that law school demanded. Ruth watched them arrange themselves: the front-row diligents who always had the reading done, the back-row skeptics who came to challenge rather than absorb, the middle-ground majority who were still deciding what kind of lawyers they would become.
 
 
----
 
 Daniel Okonkwo, her teaching assistant, slipped into the seat nearest the door. He was Nigerian-American, second-generation, his father an economist at the IMF and his mother a physician who had returned to Lagos to run a maternal health clinic. Daniel had come to law school after three years at a tech company, and he brought to the material a pragmatism that Ruth found both valuable and disquieting. He didn't believe the law would save anyone. He believed it was a tool, useful when deployed correctly, indifferent to its own deployment, and his question was always the same: what outcome do we want, and what legal mechanism gets us there? Ruth had spent her career believing that the mechanisms had their own integrity, that process mattered independently of outcome. Daniel made her wonder.
 
@@ -86,7 +79,6 @@ She began the class with Carpenter v. United States, the 2018 case that had exte
 "The Court in Carpenter focused on the 'detailed, encyclopedic, and effortlessly compiled' nature of location data," Ruth said. "Chief Justice Roberts wrote that individuals do not 'voluntarily' assume the risk of disclosure when cell-site records reveal the 'privacies of life.'"
 
 
----
 
 A student in the front row - Jennifer, Ruth remembered, though she was increasingly bad with names - raised her hand. "But doesn't that reasoning fall apart when the surveillance isn't location-based? I mean, the AI systems we're dealing with now don't care where you are. They care what you're likely to do, and they infer that from correlations that have nothing to do with physical movement."
 
@@ -97,7 +89,6 @@ The class shifted, the particular movement of bodies that indicated genuine enga
 "Let's take a hypothetical," she said. "An AI system, trained on publicly available data - social media posts, consumer behavior, public records - generates a profile suggesting that Person A is likely to commit a crime in the next six months. No search in the traditional sense has occurred. No warrant could have been obtained because there was no target, no specific suspicion, no probable cause to invoke. And yet the state now possesses information about Person A's probable future conduct. The Fourth Amendment was written to constrain the king's men from breaking down your door. What does it have to say about systems that predict which doors to break down before any crime has been committed?"
 
 
----
 
 "That's not a hypothetical," said a student from the back row, a young man whose name Ruth couldn't recall. "That's last year. That's the Prometheus system."
 
@@ -120,7 +111,6 @@ Ruth let the silence hold for a moment. The other students watched, some with sy
 "The process continues," Ruth repeated, hearing herself, "which means nothing has changed and nothing is likely to change. That is, I think, what you're suggesting. And I don't disagree."
 
 
----
 
 The admission cost her something - she could feel it, the slight erosion of the authority that made teaching possible, the professional persona she had maintained for decades developing a crack that would only widen. But she could not pretend otherwise, not to these students who would graduate into a world where the gap between legal theory and technological reality widened daily.
 
@@ -137,7 +127,6 @@ Daniel shifted in his seat. Ruth caught his eye, and he gave a slight nod - perm
 "You may be right," Ruth said. "I don't know anymore. That's the honest answer. I spent thirty years believing that the law could adapt, that constitutional doctrine could evolve to meet new challenges the way it evolved from Olmstead to Katz to Carpenter. I'm no longer certain that evolution will be fast enough."
 
 
----
 
 The class ended without resolution, which Ruth supposed was appropriate. She gathered her materials while the students filed out, some lingering in small clusters to continue the debate. Daniel approached, his laptop tucked under his arm.
 
@@ -164,13 +153,12 @@ Ruth thought about it. A year ago, she would have cared about the professional i
 "No," she said. "I think I just said what I actually believe. That's either the beginning of something or the end of something, and I'm not sure which. Maybe both. Maybe they're the same thing."
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The cafe where Ruth met Rebecca occupied a corner lot in a neighborhood that had been transitioning for as long as Ruth could remember, always moving toward something it never quite became. The buildings mixed Victorian facades with newer construction, barbershops next to artisanal coffee roasters, a check-cashing place across from a yoga studio. Oakland had always been this way, Ruth thought - a city of coexistence, not quite gentrified, not quite stable, holding its contradictions in visible tension, refusing the false resolution of becoming one thing or another.
 
@@ -183,7 +171,6 @@ Rebecca was already seated when Ruth arrived, at a table near the window where t
 Ruth ordered coffee from a waitress who seemed too young to be working afternoons, then turned her full attention to her daughter. Rebecca was forty-one, unmarried, childless - not by choice, she had once admitted, but by the accumulated choices of a career that left no room for anything else, each urgent case displacing the possibility of another kind of life until the displacement became permanent.
 
 
----
 
 "Tell me about the home visit," Ruth said, because asking was what she could offer, the attention that cost her nothing but time.
 
@@ -200,7 +187,6 @@ The coffee arrived. Ruth wrapped her hands around the cup, feeling the warmth th
 Rebecca laughed, though there was no humor in it. "This is what it looked like before. The crisis just made it worse. Or maybe it made it visible. I can't tell anymore."
 
 
----
 
 Ruth thought of her seminar that morning, the students asking why they studied frameworks that didn't constrain anything. Rebecca's cases were the answer they wouldn't want to hear: the frameworks existed to manage failure, not prevent it. To sort the falling into categories, to document the descent.
 
@@ -223,7 +209,6 @@ Rebecca nodded, accepting without argument. They had been through this before. T
 Rebecca studied her mother's face. "That's not like you. You always believed in the process."
 
 
----
 
 "I did. I testified before Congress believing the process would produce something. It produced a filing cabinet of recommendations that no one reads."
 
@@ -246,7 +231,6 @@ Ruth felt her face arrange itself into encouragement before she had consciously 
 It was true, Ruth realized. She was happy for Rebecca. And at the same time, the happiness opened a door onto her own emptiness - the house where no one waited, the bed that still felt wrong on the left side.
 
 
----
 
 "You should bring him to dinner sometime," Ruth said. "I could cook. Or we could order in, which might be safer."
 
@@ -281,13 +265,12 @@ They walked out together, Ruth leaving cash on the table that covered both meals
 "These days, it's not."
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Evening came the way it always came to the hills above Berkeley, the light going blue and then gray and then the particular Berkeley dark that was never quite dark, the lights of the city emerging below like a mirror of the stars that would appear if the fog allowed, which tonight it would not. Ruth heated soup on the stove - lentil, from a batch she'd made on Sunday - and ate standing at the counter, looking out through the kitchen window at Susan's garden disappearing into the dark.
 
@@ -308,7 +291,6 @@ Ruth waited, hearing the muffled transition from interior warmth to exterior col
 "I know. I miss her too." But David's voice carried the miss differently than Rebecca's had - more abstract, more contained, the grief of someone who had loved Susan without needing her. Susan's death had happened to him; it had not rearranged the furniture of his daily life the way it had demolished Ruth's.
 
 
----
 
 "Tell me about work," Ruth said, because asking was easier than trying to explain her own state.
 
@@ -325,7 +307,6 @@ Ruth closed her eyes. The inn in Vermont. She and Susan had gone there every fal
 "That sounds lovely," she said, because what else could she say.
 
 
----
 
 "What about you? Still working on that article?"
 
@@ -350,7 +331,6 @@ She did not return to the op-ed.
 Instead, she walked through the house turning off lights until only the lamp in her study remained, and then she stood at the window that looked out over Berkeley and the bay, watching the fog erase the lights one by one.
 
 
----
 
 What had she believed?
 
@@ -387,7 +367,6 @@ She would teach. She would meet with colleagues. She would do the work because t
 The fog lifted. The sun rose. Another day began.
 
 
----
 
 
 

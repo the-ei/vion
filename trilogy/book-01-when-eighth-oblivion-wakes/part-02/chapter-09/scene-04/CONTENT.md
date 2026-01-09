@@ -19,7 +19,6 @@ Jerome tried to find words. The documents, the patterns, the architecture of sor
 "It's what we always suspected," he said finally. "The algorithms. They're not separate. They're connected."
 
 
----
 
 "Connected how?"
 
@@ -42,7 +41,6 @@ The question landed where it always landed, in the soft tissue of his belief. "I
 "That's what you always say."
 
 
----
 
 DeShawn's footsteps sounded on the stairs, then paused. He appeared in the doorway, backpack over one shoulder, earbuds already in though no music played. His gaze moved between his parents—the coffee cups, the gray morning light, the particular posture of a conversation that had been going on for longer than he'd been alive.
 
@@ -71,7 +69,6 @@ Denise turned. "Loretta?"
 "I know." Her hand didn't move. "I know how you work. I know you can't let something go once it's got hold of you. And I know that your mother is dying slowly and you're four hundred miles away, and I know that doesn't stop you, because nothing stops you, because stopping isn't something you were ever taught how to do."
 
 
----
 
 She pulled a chair beside him, sat close enough that their knees touched. The kitchen was quiet except for the hum of the refrigerator, the distant sound of the garbage truck making its way down the next street. Morning light inched across the floor.
 
@@ -96,7 +93,6 @@ She turned, leaned against the counter, looked at him with twenty years of marri
 "Feed it," she said. "Please. I'm asking you to feed it."
 
 
----
 
 She left for school at seven-fifteen. Jerome stood in the doorway and watched her car back out of the driveway, its taillights red in the gray morning. She didn't wave. He didn't wave. The distance between them was too small for gestures and too large for anything else.
 
@@ -121,5 +117,4 @@ Jerome picked up his phone and called Patricia. "I'm coming out next week," he s
 He hung up. He looked at the screen. The story waited. The guilt waited. Everything waited, as it always had, as it always would, and Jerome sat in the middle of it all, knowing he would fail something no matter what he chose, and choosing anyway, because choosing was the only thing he knew how to do.
 
 
----
 

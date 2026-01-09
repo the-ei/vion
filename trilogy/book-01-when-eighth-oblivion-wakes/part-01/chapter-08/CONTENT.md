@@ -1,4 +1,4 @@
-The Prometheus campus announced itself before Delphine reached it: the glass towers visible from the freeway, their surfaces catching the morning sun and throwing it back in sheets of reflected light. She had visited tech headquarters before - the industry's habit of architectural grandeur was familiar to her - but something about this approach felt different. She was not visiting as a journalist or consultant or critical observer. She was visiting as a supplicant, presenting work she hoped would be purchased.
+The Prometheus campus announced itself before Delphine reached it: the glass towers visible from the freeway, their surfaces catching the morning sun and throwing it back in sheets of reflected light. She had visited tech headquarters before - the industry's habit of architectural grandeur was familiar to her - but something about this approach felt different. She was not visiting as a journalist or consultant or critical observer. She was visiting as a supplicant, presenting work she hoped they would purchase.
 
 The reception lobby was calculated to impress: a soaring atrium, living walls of carefully tended greenery, a waterfall feature whose sound managed to evoke nature while remaining entirely within the vocabulary of design. Delphine checked in at a desk staffed by a young man whose friendliness had the polished quality of training. She was given a visitor badge and directed to wait in a seating area where other visitors sat with their own badges, their own anticipations.
 
@@ -7,7 +7,6 @@ Her team arrived separately: Nora, her senior strategist, and Javier, their crea
 The escort arrived - another young person with another polished smile - and led them through corridors that felt like galleries, the walls displaying employee art and inspirational slogans in fonts that cost money to design.
 
 
----
 
 The conference room held six people from Prometheus's marketing team, arranged around a table of the same polished wood she had seen in a hundred other conference rooms. Introductions circulated: names and titles, the ritual handshakes, the settling into seats that established a geography of power. Delphine was aware of being assessed, of the team across the table performing their own readings of her clothes, her accent, her company's reputation.
 
@@ -17,7 +16,7 @@ Delphine stood, moved to the presentation screen, and began.
 
 "Clarity is a tool for self-understanding," she said. "That's the framing, and it's a good one. But the word 'tool' creates distance. Tools are external. They sit on shelves until you need them." She clicked to the first visual: a photograph of a mirror, softly lit. "What we're proposing is a different metaphor. Clarity as mirror. Not something you use, but something you see yourself in."
 
-The room shifted. She could feel the attention focusing, the way attention always focused when the pitch was working.
+The room shifted. She could feel the attention sharpening, the way attention always sharpened when the pitch was working.
 
 "The challenge with AI products is trust. Users have been trained to be suspicious - of data collection, of algorithmic manipulation, of systems that claim to know them better than they know themselves. And that suspicion is not irrational. It's a response to real experiences."
 
@@ -26,18 +25,16 @@ She clicked again. A series of images now, faces reflecting in various surfaces:
 "But mirrors are different. A mirror doesn't manipulate what it shows. It reveals."
 
 
----
 
 The presentation continued for thirty minutes, each slide building on the last, the visual language reinforcing the conceptual. Javier had done beautiful work: the mood boards, the sample content, the imagined user interface that showed Clarity as something warm and empowering rather than cold and predictive. Nora had crafted the strategy: the rollout phases, the influencer partnerships, the earned media approach that would generate coverage without obvious advertising.
 
-Delphine spoke through all of it, answering questions as they arose, adapting her language to the room's responses. This was what she did well - the live performance of persuasion, the reading of faces and the adjustment of emphasis. She was good at it in the way that athletes are good at their sports: natural ability refined by thousands of hours of practice.
+Delphine spoke through all of it, answering questions as they arose, adapting her language to the room's responses. This was what she excelled at - the live performance of persuasion, the reading of faces and the adjustment of emphasis. She was good at it in the way that athletes are good at their sports: natural ability refined by thousands of hours of practice.
 
 But as she spoke, a parallel track of awareness ran beneath her words. She was selling something she did not fully understand. The technical documentation Prometheus had provided was dense with jargon and carefully unspecific about applications. She knew Clarity analyzed behavior; she knew it made predictions; she knew it was valuable enough that Prometheus was willing to spend significant budget on its launch. What she did not know was what it would actually do in users' lives, what the predictions would be used for, what the gap might be between the mirror metaphor she was proposing and the reality of the system's operation.
 
 This was a familiar discomfort. She had made content for products before without knowing everything about them. The incomplete knowledge was almost definitional to her work.
 
 
----
 
 The questions at the end were encouraging. Carla asked about timeline, about scalability, about how the mirror concept would translate across demographics. Another executive - younger, more technical - asked about integration with existing Prometheus content. The questions suggested engagement, suggested that the pitch had landed.
 
@@ -56,7 +53,6 @@ Clarity was a tool for self-understanding. Was that what she had seen in the doc
 She started the car and drove back to the office, where congratulations were waiting.
 
 
----
 
 The call came three days later: they had won the contract. Delphine received the news in her office, looking out at a Los Angeles afternoon that offered no particular weather, just the diffuse brightness that passed for autumn here. She called Nora and Javier, shared the news, accepted their excitement with performance of her own.
 
@@ -73,15 +69,14 @@ She was going to make this look friendly. This was what they were paying her for
 She closed the laptop and went home to her family, carrying questions she had no one to ask.
 
 
+
+
+
+
+
 ---
 
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
-
-Jessie was on the couch when Delphine got home, her laptop open but ignored, her face carrying the particular tiredness of difficult news. Theo was already in bed - Abuela Rosa had handled dinner and bedtime, the schedule they relied on when both parents worked late.
+Jessie was on the couch when Delphine got home, her laptop open but ignored, her face carrying the particular exhaustion of difficult news. Theo was already in bed - Abuela Rosa had handled dinner and bedtime, the schedule they relied on when both parents worked late.
 
 "They renewed us," Jessie said. "Season three."
 
@@ -100,7 +95,6 @@ Delphine sat beside her, close enough for shoulders to touch. The living room he
 "It means I stay on, do another year of something I'm increasingly not proud of, collect a paycheck that matters for our life. Or I leave, on principle, and watch someone else finish what I started." Jessie laughed, but the laugh held no amusement. "We tell ourselves stories about what we're making. I don't know if the stories help or hurt."
 
 
----
 
 Delphine knew what she meant. They had talked about this before, circling the same terrain from different angles - Jessie's scripts reshaped by network notes, Delphine's content refined for clients who wanted persuasion disguised as empowerment. They were both skilled at work they did not entirely believe in. The skill was the problem, in a way. It made the work possible.
 
@@ -125,7 +119,6 @@ Delphine tried to articulate what she had read that evening, the gap between the
 "I'm making a story about a mirror. The system is something else."
 
 
----
 
 They talked until midnight, the conversation wandering from work to larger questions and back again. Jessie opened a bottle of wine and they shared it slowly, the ritual of the evening drink creating a container for thoughts that were difficult to hold.
 
@@ -144,7 +137,6 @@ The list unspooled, each item true and insufficient. They had built a life that 
 They went to bed without resolution. The questions were too large for a Tuesday night, too entangled with the structures of their life to be unwound by conversation alone. They would go to work tomorrow, both of them, and do the jobs they were paid to do. The questions would remain, neither answered nor forgotten.
 
 
----
 
 The following week, Theo started preschool full-time. The transition had been gradual - half days building to whole days - but the shift to full-time created a new architecture in their home. The house was empty for longer stretches. The rhythms changed.
 
@@ -163,7 +155,6 @@ Theo considered this with the seriousness the question deserved. "A little bit. 
 She drove home with the caterpillar story as companionship, the small ordinary miracle of her son's growing up. He would need her less and less. This was the project of childhood: to become sufficient unto yourself. She would do the work of letting go, stage by stage, because this was what parents did.
 
 
----
 
 That evening, the three of them ate dinner together - Jessie home early for once, a vegetable curry Delphine had made the night before. Theo sat in his chair with the elevated seat, his feet swinging, his fork held in the peculiar grip of children learning fine motor control. He talked about Benjamin and the caterpillar and a disagreement about blocks that had required teacher intervention.
 
@@ -188,13 +179,12 @@ After dinner, they watched an episode of Theo's current favorite show - a gentle
 She read the pages aloud, her voice finding the rhythm that soothed him. This was the anchor, she thought. Whatever else her work meant, whatever compromises it required, this moment was real and uncompromised. A mother reading to her son, the oldest story there was.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The flight to London was eleven hours of suspended time. Delphine settled into her window seat, the economy cabin around her filled with bodies adjusting to their temporary containers, and watched the coast of California recede. The Pacific opened below, impossibly blue, and then the clouds took over and there was nothing to see but the interior of the plane.
 
@@ -207,7 +197,6 @@ When she woke for good, dawn was visible through the window - the sun rising ove
 The plane descended through clouds. London appeared in pieces: the river, the parks, the familiar geometry of streets she had walked before she knew she would ever walk elsewhere.
 
 
----
 
 The Tube from Heathrow was a reentry ritual. The rattling of the Piccadilly line, the stations passing in their familiar sequence, the gradual shift from airport zone to city proper. Delphine watched the passengers: tourists with luggage, commuters with practiced indifference, the particular diversity of London that was unlike the diversity of LA - different histories, different tensions, different ways of belonging and not belonging.
 
@@ -220,11 +209,10 @@ By the time she reached her mother's flat, she was speaking something close to t
 The flat was the same and different. Her father's chair was still in the corner of the living room, positioned where it had always been, where he could see the television and the window simultaneously. No one sat in it. His absence filled it completely.
 
 
----
 
 The birthday gathering happened on Saturday. Relatives arrived from across the city and beyond: her mother's sister from Birmingham, cousins Delphine had not seen since the funeral, old family friends whose names she half-remembered. The flat filled with voices and food, the accumulated noise of people who knew each other across decades.
 
-Her mother moved through it with the grace of someone who had learned, in the past two years, to be the center without her partner. Auntie Joyce had made jollof rice; Mrs. Patterson from the church had brought plantain; the table accumulated dishes that told their own story of diaspora and belonging. Delphine helped where she could, playing the daughter role, accepting compliments on her appearance and deflecting questions about when she would move back.
+Her mother moved through it with the grace of someone who had learned, in the past two years, to be the center without her partner. Auntie Joyce had made jollof rice; Mrs. Patterson from the church had brought plantain; the table accumulated dishes that told their own story of diaspora and belonging. Delphine helped where she could, inhabiting the daughter role, accepting compliments on her appearance and deflecting questions about when she would move back.
 
 "You can't stay in America forever," her Auntie Joyce said, the statement half joke and half serious. "Your mother needs you nearby."
 
@@ -235,7 +223,6 @@ The birthday cake appeared at the proper moment. Seventy candles - or rather, a 
 Afterward, as the guests dispersed in stages, Delphine found herself alone in the kitchen with her mother, washing dishes in the old sink.
 
 
----
 
 "Your father would have been proud," her mother said. "Of the work you're doing. He always knew you'd go somewhere."
 
@@ -258,7 +245,6 @@ The question opened a space Delphine had not expected. She tried to explain - th
 Delphine dried the dish, set it in the rack, reached for the next. Her mother's wisdom was always like this: simple enough to sound obvious, precise enough to land exactly where it was needed.
 
 
----
 
 That night, Delphine slept in her old bedroom. It was a guest room now, the walls repainted, the furniture replaced, but the shape remained - the window in the same place, the closet door that had always stuck. She lay in the narrow bed and felt seventeen and thirty-eight simultaneously, the layered self that travel to childhood homes produces.
 
@@ -271,7 +257,6 @@ She fell asleep without resolution, dreaming of her father's voice saying someth
 In the morning, she took the Tube to Heathrow alone. Her mother's face through the glass, waving. The distance reasserting itself with each step through security.
 
 
----
 
 The flight back was different from the flight out. Delphine was returning not just to LA but to the work that waited there, the Prometheus contract with its deadlines and its questions. She watched the clouds beneath her and thought about mirrors.
 
@@ -290,13 +275,12 @@ She would go to work on Monday. She would build the campaign. She would make som
 For now, she let herself not know what came next.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The creative work proceeded in stages. Delphine's team occupied the large conference room for three days of intensive development, the walls accumulating mood boards and storyboards and the visual vocabulary of the campaign. They worked in the way that good creative teams work: ideas emerging, being tested, being refined or discarded; the collaborative energy building toward something none of them could have made alone.
 
@@ -309,7 +293,6 @@ Delphine watched it come together with the detached appreciation of craft she ha
 On the third day, she stayed late. The conference room was quiet now, the team gone home, the walls still covered in their work. She walked along the boards, looking at each element: the sample social posts, the video script treatments, the landing page mockups, the advertising copy that would appear beside faces chosen to represent diversity and relatability.
 
 
----
 
 What would a user see? She tried to imagine encountering this campaign without knowing what lay behind it. They would see warmth and empowerment. They would see technology promising to help them understand themselves. They would see a mirror, just as the metaphor intended.
 
@@ -319,12 +302,11 @@ Delphine had requested more technical information, twice. Both times, her contac
 
 She sat in one of the conference room chairs and looked at the walls. The campaign was beautiful. Her team had created something that would succeed - would drive downloads, would generate engagement, would establish Clarity in users' minds as something helpful and benign. This was the job. This was what Prometheus was paying for.
 
-But there was a gap. There was always a gap between what you were hired to say and what you privately understood. Delphine had lived in this gap for her entire career. The gap was where the money came from. The gap was where the doubt lived.
+But there was a gap. There was always a gap between what you were hired to say and what you privately understood. Delphine had lived in this gap for her entire career. The gap was where the money came from. The gap was where the doubt accumulated.
 
 Tonight, the gap felt wider than usual.
 
 
----
 
 She went home to a quiet house. Theo was asleep; Jessie was in bed, reading, waiting.
 
@@ -353,7 +335,6 @@ Jessie turned toward her. "What about him?"
 Delphine was not sure. She was not sure about anything tonight.
 
 
----
 
 Later, unable to sleep, she went to her home office. The laptop waited on the desk where she had left it that morning, before the long day of creative work. She opened it and began, again, to research Clarity.
 
@@ -366,7 +347,6 @@ There was a word for this: manipulation. But that word seemed too simple, too ob
 Delphine was making the architecture feel friendly. She was contributing to the assumptions. The mathematics would proceed with or without her, but her contribution would help it proceed faster, reach further, become more acceptable.
 
 
----
 
 She closed the laptop at 1 AM. The house was silent around her, the particular silence of sleeping family. Theo in his room, dreaming whatever four-year-olds dream. Jessie in their bed, holding a place for Delphine to return. The world continuing while she sat in her office, staring at a dark screen.
 
@@ -376,10 +356,9 @@ What would she remember of the Clarity campaign? Would it be another award on a 
 
 The surface tension held. She was standing on it, testing its strength, not yet ready to break through into whatever lay beneath. Ananya in her ethics office, Jerome with his investigations, Kevin Zhou in his code - she did not know these people, would not meet them for months or years. But they were all standing on the same surface, all testing the same tension, all feeling the give beneath their feet.
 
-Part 1 ended here. The four lives established. The questions asked but not yet answered. The surface intact, stretched to its limit, waiting for the weight that would finally break it.
+Part 1 ended here. Four lives established. The questions asked but not yet answered. The surface intact, stretched to its limit, waiting for the weight that would finally break it.
 
 
----
 
 
 

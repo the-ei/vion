@@ -17,7 +17,6 @@ The audience applauded. Nathan Webb nodded from the front row. Board members rai
 Ananya smiled and held the award and felt nothing.
 
 
----
 
 After.
 
@@ -58,5 +57,4 @@ The night stretched around her.
 She didn't move.
 
 
----
 

@@ -19,7 +19,6 @@ The woman next to him was young. Twenty-five, maybe. She was working on a laptop
 Her name was Maya Lindberg. Her startup had just closed its seed round. They were building - she explained with the confidence of someone who hadn't yet been disillusioned - tools to detect AI-generated misinformation in real time.
 
 
----
 
 "You'll make a lot of money," Kevin said. "Companies need to detect what they're producing."
 
@@ -47,10 +46,9 @@ Maya closed her laptop fully now, giving him her attention. "That's either very 
 
 She asked more questions. He answered some of them. They talked about the industry, about the crisis, about the conference he'd just left. She was idealistic in ways he recognized from his own younger self - certain that the right tools could solve the problems, that intelligence and effort would be enough.
 
-He didn't disillusion her. What would be the point?
+He didn't disillusion her. What would be the point? She would find out for herself soon enough, or she would find a way to believe that didn't require finding out, or she would burn out and leave. Those were the options. Kevin had seen them all.
 
 
----
 
 "I should go," she said eventually. "Early meeting. Investors." She made a face that suggested what she thought of investors. "But - can I ask you one more thing? As someone who's been doing this longer than me?"
 
@@ -60,7 +58,7 @@ He didn't disillusion her. What would be the point?
 
 Kevin looked at Maya Lindberg, at her youth and her hunger and her belief that the future could be shaped. He thought about the conference, about Ananya's arguments, about Rachel Winters and her reports no one read, about his parents in Shanghai waiting for a call he couldn't easily make.
 
-"I don't know," he said again. "But I keep doing it. Maybe that's its own answer."
+"I don't know," he said again. "But I keep doing it. Maybe that's its own answer." Or maybe it was just momentum, he thought. Maybe it was just the gravitational pull of having already invested too much to stop. Sunk cost fallacy applied to an entire career.
 
 She left. He stayed.
 
@@ -76,8 +74,7 @@ Something that mattered or something that sold the appearance of mattering.
 
 He couldn't tell anymore. He wasn't sure he ever could.
 
-The fog pressed against the window. The city slept, or pretended to sleep. Kevin stood there, unable to rest, until the first gray light of morning began to burn the fog away.
+The fog pressed against the window. The city slept, or pretended to sleep, or did whatever cities do when no one is watching - the same thing, probably, that people did. Kevin stood there, unable to rest, until the first gray light of morning began to burn the fog away, revealing the world he had helped build and couldn't quite bring himself to abandon.
 
 
----
 

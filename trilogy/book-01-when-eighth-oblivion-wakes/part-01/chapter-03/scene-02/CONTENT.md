@@ -7,7 +7,6 @@ He was supposed to be in that room. He built the core of what they're discussing
 David's explanation was plausible. Kevin Zhou cannot say it was wrong. But plausible is not the same as true.
 
 
----
 
 The meeting ends at 11:47. Kevin Zhou knows this because he has been watching the clock, not the glass walls, but the clock serves the same purpose. He sees them file out in his peripheral vision: David pausing to shake hands with the legal person, Rachel Torres gathering her things with the unhurried confidence of someone whose presence was never questioned.
 
@@ -22,7 +21,6 @@ David gives him the summary: deployment timelines, user segmentation strategies,
 Kevin Zhou has a hundred questions. He asks none of them. "All good," he says. "Thanks for the update."
 
 
----
 
 He spends the afternoon in meetings that do include him. Sprint planning. Technical review. A one-on-one with a junior engineer who needs guidance on the caching layer. Kevin Zhou is good at these meetings, good at being useful, and usefulness is a kind of medicine. By three o'clock the sting of the morning has faded to a dull ache, manageable, familiar.
 
@@ -35,7 +33,6 @@ He reviews the Clarity codebase, looking for optimizations, finding small improv
 Seven o'clock. The campus is nearly empty now. Kevin Zhou packs his laptop, heads to his car, drives home through San Francisco traffic that moves like a living thing, all stops and starts and brake lights in the dark.
 
 
----
 
 His mother's face fills the screen, pixelated, freezing occasionally in expressions that are not the expressions she is making. The connection is poor - it is always poor lately, whether for technical reasons or political ones Kevin Zhou cannot say. His father sits beside her, slightly out of frame, the top of his head visible like a moon rising.
 
@@ -54,7 +51,6 @@ Then his mother says, "Mrs. Li's son. You remember him? From the building?"
 The implication settles between them, heavy as fog. His father's face tightens almost imperceptibly. Kevin Zhou feels the distance between San Francisco and Shenzhen as a physical thing, a gulf that cannot be crossed by video call or good intentions.
 
 
----
 
 The call ends at fifteen minutes, as it always does now. Not because anyone sets a timer, but because there is only so much that can be said when so much cannot be said. Kevin Zhou's mother waves at the camera. His father nods, his face breaking briefly into something like a smile before the connection closes and the screen goes dark.
 
@@ -65,5 +61,4 @@ Instead he opens his laptop. The Clarity codebase is there, waiting, patient as 
 But tonight the code does not help. He stares at the screen for twenty minutes without typing a single character. Then he closes the laptop, goes to the window, and looks out at the city that is not home. The lights of San Francisco. The fog rolling in from the bay. The distance that is measured in more than miles.
 
 
----
 

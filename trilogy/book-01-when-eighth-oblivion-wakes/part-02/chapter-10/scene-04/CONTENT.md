@@ -13,7 +13,6 @@ Daniel's face appeared on the tablet at seven, propped against the salt shaker, 
 "I know."
 
 
----
 
 Bedtime was its own production. Stories for Sofia, who negotiated for two instead of one and had to be reminded three times that the second story was the last story. Rocking for Mateo, who fought sleep with the determination of all toddlers, his eyes heavy but his will iron. Elena sang the lullaby her mother had sung to her, the one in Spanish that she didn't fully understand but remembered in her body, in her voice, in the way it had always meant safety.
 
@@ -26,7 +25,6 @@ She didn't care.
 The screenshots showed what she had seen but not fully understood: a pattern in the recommendations that correlated with factors outside clinical relevance. Patients with private insurance received different suggestions than patients with Medicaid. Patients in certain zip codes—zip codes she knew, zip codes that meant poor, that meant immigrant, that meant underserved—received recommendations tilted toward conservative management, fewer referrals, lower resource utilization. The algorithm optimizing for something that wasn't patient welfare. The algorithm optimizing for outcomes that looked like efficiency and felt like judgment.
 
 
----
 
 Elena opened a spreadsheet. Old instincts, from nursing school, from the research methods class she'd barely passed but still remembered. She began entering data: patient pseudonyms, insurance types, zip codes, MedAssist recommendations, her own clinical decisions. Column by column, row by row, the pattern becoming visible not as intuition but as evidence.
 
@@ -37,7 +35,6 @@ Instead she was proving something she already knew. The algorithm discriminated.
 Halima Hassan's face came to her unbidden, as the faces of patients always did in the quiet hours. The purple hijab, the folded hands, the dignity that would not bend even as her body slowly failed her. The algorithm had looked at Halima and seen a risk profile, a probability calculation, a resource allocation decision. It had not recommended nephrology because it had calculated she wouldn't follow through. And now Elena was looking at a spreadsheet that confirmed the calculation wasn't unique, wasn't an outlier, wasn't a mistake. The calculation was the system. The discrimination was the design.
 
 
----
 
 She saved the spreadsheet. She closed the tablet. She sat in the dark kitchen, the light finally off, the house silent around her, and felt the weight of what she had found settle into her chest.
 
@@ -52,7 +49,6 @@ The kitchen clock glowed 11:47. The tablet sat dark on the table. The spreadshee
 She went to bed. She didn't sleep.
 
 
----
 
 Sometime after midnight, she got up again. The house was dark, the children sleeping, Abuela's television finally silent. Elena walked to the kitchen in bare feet, poured a glass of water, stood at the window looking out at the night.
 
@@ -71,5 +67,4 @@ But she would also keep watching. Keep documenting. Keep building the evidence f
 The clock showed 1:17 AM. Elena returned to bed, lay in the darkness, and waited for sleep to find her.
 
 
----
 

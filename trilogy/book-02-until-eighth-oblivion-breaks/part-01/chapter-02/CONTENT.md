@@ -5,7 +5,6 @@ The house needed her to be quiet. Elena swung her legs out and set her feet on t
 The bathroom light she left off, using the nightlight that cast just enough glow to find the pills. Sertraline, 50 milligrams, every morning with water. The psychiatrist had prescribed it six months ago when Elena had finally admitted that the knot in her chest wasn't going away, that the heart-racing at 3 AM wasn't just coffee.
 
 
----
 
 She swallowed the pill without ceremony, the way she told her patients to take their medications: not as weakness but as maintenance, the same as oil in an engine. Except she also knew what she told herself at three in the morning, which was different - which was that she was medicating the symptom so she could keep functioning in a situation that was itself the disease.
 
@@ -14,7 +13,6 @@ Down the hallway, moving by memory. Sofia's room first, the door cracked the way
 Mateo's room next. He slept sprawled, four years old and already taking up the whole bed, one arm flung over the stuffed dog that had been Sofia's before it became his. He had cried so easily lately, the tantrums coming from nowhere, and Elena knew it was because he felt what he couldn't name - the absences, the exhaustion, the household stretched thin. She wanted to fix it. She wanted to be home more, present more, the mother she'd imagined being before she understood what the job would require, before the job revealed itself as a hunger that could never be satisfied.
 
 
----
 
 The kitchen light was already on. Gloria sat at the table with her coffee, her Bible open to Psalms, the reading glasses she refused to admit she needed perched on her nose. Seventy-three years old, diabetic, arthritic in her hands, and still she rose before Elena to pray and prepare.
 
@@ -41,7 +39,6 @@ The words landed somewhere in Elena's chest, in the space the sertraline couldn'
 They had this argument weekly. Elena let it go, as she always did, because fighting took energy she needed for the shift ahead.
 
 
----
 
 She made Sofia's lunch - turkey sandwich, apple slices, the small bag of chips that was Friday's treat even though today was only Wednesday, because Elena wouldn't be here to pack Friday's lunch. She wrote a note on the napkin, the way her own mother had done: "Te amo, mija. Have a good day." She set out Mateo's clothes for Gloria to dress him when he woke.
 
@@ -54,13 +51,12 @@ The drive to the clinic took twenty minutes at this hour, before the traffic mat
 She gathered her things and walked toward the door.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The waiting room held thirty-seven people by seven-fifteen, and Elena knew they would see fifty before noon. The chairs were orange plastic, bolted to the floor in rows, the institutional aesthetic of places designed to process rather than comfort. A television mounted high on the wall played the news with the sound off, captions scrolling beneath images of politicians and economists speaking from podiums, the world of policy that seemed disconnected from the bodies filling these seats.
 
@@ -73,7 +69,6 @@ Her first patient was Mrs. Delgado, sixty-eight, diabetic for two decades, manag
 "That's not safe," Elena said, keeping her voice steady even as something inside her wanted to scream about a system where this conversation was necessary. "Every other day could put you in the emergency room."
 
 
----
 
 "I can't afford the emergency room either."
 
@@ -98,7 +93,6 @@ The X-ray showed a hairline fracture in the radius. Not displaced, which was luc
 "I need to work. The job doesn't wait." His voice carried the finality of a man who had already done the math and found that his body was worth less than his labor.
 
 
----
 
 Elena fitted him with a rigid brace instead of a cast, showed him how to work around it, knowing he would push through anyway, knowing the fracture might worsen or might heal crooked, knowing she couldn't solve the economic calculus that made rest impossible. She documented everything carefully - the diagnosis, the recommendations, the patient's informed decision to continue working against medical advice. The documentation protected the clinic. It did not protect Ray. It existed so that when Ray's arm healed wrong, when he lost function, when he couldn't work anymore, there would be a record showing he had been warned.
 
@@ -121,7 +115,6 @@ He raised his eyes. They were red-rimmed, exhausted, older than sixteen.
 "Since last year. Since all the stuff on the news." He paused, and Elena saw him deciding whether to trust her. "Since I realized that none of the adults actually know what they're doing. That the people in charge are just - making it up. Like we are."
 
 
----
 
 Elena understood. The crisis that Ruth had testified about, that the experts had analyzed, that the news had packaged and moved on from - it had landed in this boy's nervous system as perpetual alarm, had written itself into his cortisol levels and his sleep patterns and his capacity to imagine a future. He was sixteen and he had watched adults reveal that the systems were broken and then watched those same adults continue as if nothing had happened. His body had drawn the logical conclusion: the danger was real and ongoing, even if everyone pretended otherwise.
 
@@ -138,7 +131,6 @@ She spent twenty minutes with Jaylen - twenty minutes she didn't have, the queue
 Jaylen and his mother left. The next patient arrived.
 
 
----
 
 The electronic health record system required fifteen minutes of documentation for every ten minutes of patient care. Elena typed while the next patient talked, a skill she had developed out of necessity - maintaining eye contact while her fingers moved across the keyboard, entering the codes that would allow billing, that would satisfy insurers, that would create the paper trail no one would ever read unless something went wrong. The system demanded its documentation. The system was insatiable, a bureaucratic hunger that consumed hours that could have been spent healing.
 
@@ -171,7 +163,6 @@ Amara Osei had come to Phoenix from Accra via Johns Hopkins, a journey Elena onl
 Elena considered lying, but Amara had always been able to see through her. "It helps me function. I'm not sure that's the same as helping."
 
 
----
 
 Amara handed her a gauze pad from the dwindling stack. "We're all medicating something. At least yours has dosing instructions."
 
@@ -192,13 +183,12 @@ She saw fourteen more patients before break. She documented every one. She order
 By noon she was hollowed out, running on coffee and habit and the sertraline that kept her steady enough to function, ready for the brief rest that wouldn't be enough but would have to be.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The break room was windowless and small, a converted closet with a microwave, a coffee maker that produced something coffee-adjacent, and a couch that had been donated by someone who no longer wanted it. Elena sank into the couch with her phone and her bad coffee, feeling the brief permission to stop moving.
 
@@ -229,7 +219,6 @@ A wail erupted in the background, rising in pitch. Elena could picture it: Mateo
 "He needs to learn to eat what's offered."
 
 
----
 
 "Abuela, please. Just - today. Let him have the cereal today."
 
@@ -252,7 +241,6 @@ It was something Gloria said often, a kitchen-magnet wisdom that Elena knew was 
 After she hung up, she sat with the phone in her hand, the break room humming with fluorescent silence. She thought about the early years with Daniel, before Sofia, before Mateo, before the jobs that consumed them both. They had met at a community health fair - Elena doing blood pressure screenings, Daniel building the tent structures, both of them young and certain that hard work would be enough.
 
 
----
 
 He had asked for her number while she was packing up the cuff and stethoscope. She had given it because his hands were calloused and his smile was kind and he looked at her like she was solving problems he couldn't, which she was and which she liked. They had dated for a year, married for eleven. The love was still there - she knew it was - but the love had been compressed into logistics, squeezed into the margins of schedules that never aligned.
 
@@ -269,7 +257,6 @@ What did AI ethics have to do with Mrs. Delgado's insulin costs? What did regula
 She scrolled past. The news that mattered to her wasn't news at all - it was the daily accumulation of bodies and needs, unreported because it was too ordinary to count, too structural to be a story, too much like weather to be an event.
 
 
----
 
 A knock on the break room door. One of the nurses, Maria, poked her head in.
 
@@ -292,13 +279,12 @@ She paused at the bathroom on the way, not because she needed it but because she
 She washed her hands with the automatic soap dispenser, dried them on the rough paper towels. The afternoon waited. She went to meet it.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The afternoon came at her like a wave that had been gathering force offshore all morning, waiting to crash. An urgent case arrived at one-fifteen - a man in his sixties, chest pain, sweating, the classic presentation that could be cardiac arrest or could be anxiety or could be both. Elena stabilized him while Amara called for transport to the hospital, the clinic's equipment insufficient for what he needed. He left in an ambulance, status unknown, another patient whose outcome she might never learn.
 
@@ -317,7 +303,6 @@ She talked him down using the techniques she had learned in residency and refine
 She stayed with him until he was stable, then called the sliding-scale counselor directly - pulled a favor, begged for an emergency slot. They could see him Thursday. Two days.
 
 
----
 
 "Don't leave me alone until then," Jaylen said.
 
@@ -344,7 +329,6 @@ Elena searched her memory and found a fragment: a respiratory infection, antibio
 "And now?"
 
 
----
 
 Fatima sat on the exam table and began listing her symptoms with the matter-of-fact delivery of someone who had catalogued their own decline without expecting help. The headaches that came daily now. The joint pain in her hands and knees that made her cleaning jobs take twice as long. The blood pressure she knew was high because she'd used the machine at the pharmacy. The exhaustion that never lifted, that she had assumed was just getting older until it became something more.
 
@@ -365,7 +349,6 @@ Elena listened, took notes, examined. Fatima's blood pressure was 168 over 104 -
 "We have samples. Don't worry about the cost right now. Let me worry about the cost."
 
 
----
 
 The samples were technically for patient education, not distribution. Elena had been distributing them anyway, to patients like Fatima who needed medication and couldn't pay. It was against protocol. It was also the only way to provide care that wouldn't be provided otherwise. She had made her peace with the rule-bending years ago.
 
@@ -384,7 +367,6 @@ Fatima met her eyes. Something passed between them - an acknowledgment, a recogn
 "I'll come back," Fatima said. "I promise."
 
 
----
 
 Elena gave her a two-week supply of blood pressure medication, enough to start. She ordered the labs through the charity fund, marking the request as urgent. She wrote out instructions carefully, in English and then again in Arabic with the help of a translation app, not trusting the app entirely but wanting Fatima to have something in her own script.
 
@@ -405,13 +387,12 @@ The shift continued. Five more patients after Fatima. A medication refill, strai
 Six o'clock came. Then six-thirty. The shift officially ended at seven, but there were still patients waiting, and Elena saw them all, staying until the queue was clear because that was what she did, because that was who she had become.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Dark.
 
@@ -432,7 +413,6 @@ Elena thought about bodies.
 The systems they analyzed had become the bodies she treated. The policy failures landed as inflammation, as fractures that couldn't heal, as anxiety that came from knowing true things. She was standing at the end of a pipeline, catching what the pipeline produced, unable to reach back and turn off the flow. And the people designing the pipeline, the people who could turn it off, were somewhere far away in glass-walled conference rooms, discussing ethics.
 
 
----
 
 She turned off the podcast.
 
@@ -459,7 +439,6 @@ The dark house. The sleeping child. The weight she carried.
 For now, this was enough. It had to be. It was all she had.
 
 
----
 
 
 

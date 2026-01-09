@@ -27,7 +27,6 @@ The phone left his hand. He didn't remember throwing it, but suddenly it was acr
 He couldn't finish. The words tangled in his throat, choking him.
 
 
----
 
 Amina moved to the phone, picked it up, began reading. Her face went through its own transformations—confusion, recognition, something that looked like the anger he felt. Then something else, something he couldn't name.
 
@@ -58,7 +57,6 @@ The apartment felt smaller than it was, the walls pressing in. Their mother had 
 "Would you have said yes if they did?"
 
 
----
 
 The question stopped him. He stood in the middle of the room, breathing hard, the question hanging there. Would he have said yes? If someone had called a week ago and asked permission to use their mother's death as evidence in a story about AI failure—
 
@@ -79,7 +77,6 @@ He read Elena's description of Halima's case. The careful clinical language, the
 Yusuf set the phone down. The anger was still there, but it had company now. Confusion. Grief. And something that might have been, if he squinted at it sideways, the beginning of understanding.
 
 
----
 
 "I still should have known," he said. "They should have contacted us."
 
@@ -106,7 +103,6 @@ He thought about what she would have wanted. She'd been a private person, carefu
 Amina nodded, gave him space, retreated to her corner of the apartment. And Yusuf stood at the window, watching the city lights multiply against the gathering dark, his mother's name still echoing in his head.
 
 
----
 
 Hours passed. The darkness deepened. Amina made food that Yusuf didn't eat, watched television he didn't hear. He stayed at the window, or paced, or sat with his phone reading and re-reading the documentation until he'd memorized it.
 
@@ -125,5 +121,4 @@ His thumb hovered over the call button. The anger was still there, but transform
 He didn't call. Not yet. But he saved the number. Tomorrow, maybe. Tomorrow he might have words.
 
 
----
 

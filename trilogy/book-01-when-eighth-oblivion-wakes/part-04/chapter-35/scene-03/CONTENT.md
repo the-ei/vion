@@ -17,7 +17,6 @@ Mr. Rodriguez shook his head slowly. "Not anyone. Most people stay quiet. You di
 She checked his vitals, reviewed his medications, made notes in his chart. The routine of care, the small competencies that comprised her profession. Through the whole interaction, she was aware of herself as someone being observed, judged, assigned meaning beyond what she intended.
 
 
----
 
 The morning brought more patients, more conversations, more of the endless work. Some had heard about the story and wanted to talk about it; others came simply for healthcare and knew nothing about the nurse treating them. Both kinds of encounters felt important, the balance between public role and professional practice that she was still learning to navigate.
 
@@ -42,7 +41,6 @@ They stepped into an empty exam room, the door closed against the chaos of the c
 "I think your documentation may have saved lives. I think the AI systems need oversight. And I think—" She hesitated. "I think you were brave."
 
 
----
 
 The admission surprised Elena. She'd expected continued coldness, the institutional distance that had characterized their interactions since the story broke. Instead, Patricia was offering something almost like respect.
 
@@ -61,7 +59,6 @@ Elena read the message three times. The gratitude felt both heavy and precious, 
 "Your mother was my patient," she wrote back. "I owed her the truth. I still owe her. The song you made—that's the testimony I couldn't give. Different words, same meaning."
 
 
----
 
 The shift ended at seven. Elena gathered her things, said goodbye to Miguel, walked to her car in the December darkness. The drive home was the same route she'd driven a thousand times, the Phoenix sprawl familiar and comforting in its predictability. But she saw it differently now, the city where she'd built her life, the place where her work had become something larger than herself.
 
@@ -82,7 +79,6 @@ She wasn't sure Sofia understood. She wasn't sure she understood it herself, the
 Daniel had made soup—his mother's recipe, the one Elena had never quite mastered—and the kitchen smelled of garlic and warmth. Abuela was already at the table, Mateo in her lap, the family configuration that had become the center of Elena's world.
 
 
----
 
 They ate together, the conversation ranging from school projects to clinic stories to the congressional hearing in January. Abuela asked careful questions about the testimony, about what Elena planned to say, about the risks and opportunities. Her grandmother's wisdom, earned through decades of survival, was a constant anchor.
 
@@ -105,5 +101,4 @@ She turned off the light, closed the door, stood in the hallway for a moment lis
 That was enough. For now, it had to be enough.
 
 
----
 

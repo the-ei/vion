@@ -11,7 +11,6 @@ They worked on him for twenty-three minutes. That is the number Elena remembers,
 For Roberto, they did not work.
 
 
----
 
 He had been in the waiting room for two hours. Elena knows this because she looked at the logs, after. She looked at everything, after.
 
@@ -28,7 +27,6 @@ She did not.
 She had seven patients waiting for her. She had the system telling her that Roberto could wait. She had the institutional pressure of throughput and efficiency and the constant, grinding message that there was not enough time for everything.
 
 
----
 
 Roberto died at 4:23 PM.
 
@@ -47,7 +45,6 @@ Now, days later, she walks through the waiting room on her way to her first pati
 The waiting room looks the same. Plastic chairs, murmuring television, fluorescent lights. Nothing has changed except everything.
 
 
----
 
 Maria Delgado-Fuentes comes to the clinic three days after her husband's death.
 
@@ -72,7 +69,6 @@ Elena feels something break inside her, a small fracture in the professional com
 "No," Elena agrees. "It doesn't."
 
 
----
 
 They stand together in the exam room, widow and nurse, and Elena does not know what to say that would help because there is nothing to say. She cannot explain MedAssist to this woman. She cannot describe the priority score that decided her husband's life was worth waiting for. She cannot articulate the bureaucratic machinery that ground Roberto down from a person with symptoms into a number in a queue.
 
@@ -93,7 +89,6 @@ Instead, she says: "I don't know yet. But I'm going to find out."
 Maria nods once, as if this is what she came to hear. Then she turns and walks out of the exam room, leaving Elena alone with her promise.
 
 
----
 
 That night, Elena lies awake again.
 
@@ -112,13 +107,12 @@ Elena does not know this yet, not fully. But she suspects.
 And suspicion, she has learned, is the beginning of knowledge.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Dr. Katherine Reyes's office is on the administrative floor of the clinic, above the exam rooms and the waiting area, in a space that looks out over the parking lot and the strip mall beyond. The view is not impressive, but the office itself communicates authority - diplomas on the wall, awards for community service, photographs of Dr. Reyes with local politicians and healthcare executives. This is the office of someone who has learned to navigate institutions, who understands how power flows through organizations, who has risen by knowing when to push and when to accommodate.
 
@@ -135,7 +129,6 @@ Elena nods. She knows what this meeting is. She has seen enough institutional re
 She waits to see what else Dr. Reyes will say.
 
 
----
 
 "I've reviewed the incident report," Dr. Reyes continues. "Everything was handled appropriately. The response team was on site within thirty seconds of the code being called. CPR was initiated immediately. All protocols were followed."
 
@@ -156,7 +149,6 @@ Dr. Reyes's expression does not change, but something shifts behind her eyes. "M
 "I don't have the technical specifications in front of me. But the system has been validated extensively. It outperforms human triage in clinical trials."
 
 
----
 
 "In aggregate," Elena says. "It outperforms human triage in aggregate. But Mr. Delgado-Fuentes is not an aggregate. He was a specific person with specific symptoms that I flagged as concerning."
 
@@ -181,7 +173,6 @@ Dr. Reyes is quiet for a long moment. When she speaks, her voice is careful. "El
 "I think you should take some time off. A few days, paid. Process what happened. The counseling resources are available if you need them."
 
 
----
 
 Elena understands what she is being told. Take time off. Stop asking questions. Let the institutional machinery process this death the way it processes all inconvenient events: with documentation, with protocol review, with the careful language of unfortunate outcomes and lessons learned.
 
@@ -204,7 +195,6 @@ Dr. Reyes sighs. For a moment, Elena sees something behind the administrative ma
 Elena nods. She does not believe this, but she nods because belief is not required for survival. Only compliance.
 
 
----
 
 "Thank you for your concern," Elena says. "I'll think about taking some time."
 
@@ -223,13 +213,12 @@ She walks back through the waiting room, past the chairs where patients sit, pas
 The system hums. The queue moves. Someone else is waiting.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The house is quiet. The children sleep. Abuela Carmen sleeps. The clock on the kitchen wall shows 10:47 PM, and Elena sits at the table with her tablet and the light from the overhead fixture casting sharp shadows across her hands.
 
@@ -246,7 +235,6 @@ History: no prior cardiac events (weighted -0.2), first-time presentation (weigh
 And then the other factors. The ones that have nothing to do with medicine.
 
 
----
 
 Insurance status: uninsured (weighted -0.8).
 
@@ -265,7 +253,6 @@ The system looked at Roberto Delgado-Fuentes and saw a man who would be expensiv
 He died in the waiting room while patients with sprained ankles and prescription refills were seen ahead of him because the system decided they were worth more.
 
 
----
 
 Elena opens another file. A patient she saw the same day as Roberto - a woman named Sandra Whitmore, 48, who presented with ankle pain after a minor fall. Sandra's symptom score was 0.4. Her demographic score was +0.9: insured through her employer, professional occupation, zip code associated with "high engagement," regular annual visits for preventive care.
 
@@ -284,7 +271,6 @@ The system calls this efficiency. The system calls this optimization. The system
 Elena sits alone at her kitchen table and watches the evidence accumulate on her screen. She does not know what to do with it. She only knows that she cannot unknow what she has learned.
 
 
----
 
 She takes screenshots. She exports the files to her personal email, knowing this violates policies she agreed to follow, knowing that what she is doing could end her career if discovered. The data transfers in the quiet of the house, packets of information flowing through networks that connect her kitchen in Phoenix to servers she will never see, evidence of harm accumulating in her private folder.
 
@@ -299,7 +285,6 @@ Elena closes the tablet. The kitchen is dark except for the light above the tabl
 There is no going back now.
 
 
----
 
 She thinks about Halima Hassan, the Somali woman who flies from Minneapolis every few months to see her. Halima trusts Elena. Halima believes that the clinic sees her as a person, not a category. What would Halima's priority score be, if she came to the clinic with chest pain? Uninsured, irregular employment history, address in a zip code Elena has never researched but suspects would flag as problematic. Would Halima wait two hours while the system calculated her expendability?
 
@@ -314,7 +299,6 @@ The clock shows 1:23 AM. She should sleep. She has patients tomorrow, the endles
 But sleep will not come. Not tonight. Not with what she knows.
 
 
----
 
 She picks up her phone. The impulse is sudden, unplanned - she does not know what she is going to do until she is already doing it.
 
@@ -335,13 +319,12 @@ She has found someone who might understand. Someone who might be able to do some
 The question is whether she has the courage to reach out.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Daniel comes home on Thursday evening.
 
@@ -372,7 +355,6 @@ Elena steps into the hallway. Daniel looks at her, and his smile changes - becom
 They do not embrace, not yet, not with the children between them and the questions in his eyes.
 
 
----
 
 Dinner is chaos and joy. Abuela Carmen has made tamales in honor of Daniel's return, and the kitchen fills with conversation - the children competing for their father's attention, Daniel asking about school and friends and the small dramas of childhood, Carmen offering more food than anyone can eat. Elena participates but feels herself at a remove, watching her family from behind glass, carrying what she knows like a weight that separates her from the simple pleasure of the evening.
 
@@ -393,7 +375,6 @@ She tries. She tells him about Roberto, about the waiting room, about the priori
 Daniel listens in the way he has always listened - completely, without interruption, his attention a form of care.
 
 
----
 
 "What are you going to do?" he asks when she finishes.
 
@@ -424,7 +405,6 @@ Daniel takes her hand. His palm is rough from work, calloused in patterns she kn
 "I think you're the only one who can answer that. But whatever you decide, I'm with you."
 
 
----
 
 They go to bed. Daniel falls asleep quickly, his body surrendering to the exhaustion of the road, his breathing deepening into the rhythms Elena has listened to for almost two decades. She lies beside him in the dark, awake, thinking.
 
@@ -447,7 +427,6 @@ She does not sign the email. She reads it three times. She thinks about the fold
 She presses send.
 
 
----
 
 The email disappears into the network, traveling from her phone through servers she cannot see to an inbox in Baltimore where a journalist she has never met will read it tomorrow or the next day or whenever he checks his messages. It is such a small action - a thumb on a screen, pixels rearranging themselves, data encoded and transmitted. And yet it changes everything.
 
@@ -466,7 +445,6 @@ Elena closes her eyes. Dawn is a few hours away. The alarm will come. The childr
 But something has shifted in the dark. Something has begun.
 
 
----
 
 
 

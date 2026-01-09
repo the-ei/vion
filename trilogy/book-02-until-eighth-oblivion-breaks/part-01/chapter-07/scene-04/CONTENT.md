@@ -13,7 +13,6 @@ The meal was simple - roasted chicken, vegetables from the farmers market, bread
 They ate at the table where the four of them had once gathered - Ruth and Susan, Rebecca and her brother David. Two chairs empty now, one from death and one from distance. David lived in Connecticut, worked in finance, called occasionally but visited rarely.
 
 
----
 
 "Tell me about work," Ruth said, though she already knew it would be difficult to hear.
 
@@ -28,7 +27,6 @@ Ruth listened as Rebecca described specific families - names changed, but the si
 The stories accumulated, each one a small tragedy that connected to larger ones, the human cost of decisions made in distant offices by people who never saw the consequences.
 
 
----
 
 Ruth thought about what she had learned from Elena, from her network, from the pattern that was becoming clear. The investigations that were being buried, the companies that were being protected - they were connected to these budget cuts, to Rebecca's collapsing services, to the children falling through cracks. Not directly, not in ways that could be traced on paper, but systemically. The same power that protected corporations from accountability drained resources from the services that might have caught what the corporations destroyed.
 
@@ -43,7 +41,6 @@ Ruth considered lying. Considered the kind lie that parents tell their children 
 Rebecca's face shifted through fear, concern, and something that looked like anger. "Why didn't you tell me right away? When were these tests?"
 
 
----
 
 "A few days ago. I wanted to tell you in person." Ruth reached across the table, touched her daughter's hand. "I'm fine. I'm being careful. I just wanted you to know."
 
@@ -62,5 +59,4 @@ Rebecca nodded slowly. "Mom would have approved."
 "Yes," Ruth said. "I think she would have."
 
 
----
 

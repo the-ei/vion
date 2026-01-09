@@ -7,7 +7,6 @@ The hallway was dark. She passed Sofia's room, the door slightly ajar, and heard
 Abuela was already in the kitchen.
 
 
----
 
 Carmen Reyes sat at the small table with coffee and her tablet, Spanish-language news playing quietly, her reading glasses perched on her nose. She was seventy-three years old, diabetic, arthritic in her hands, and still she rose before Elena every morning, still she made coffee, still she prepared to spend another day keeping two small children alive and fed and loved while their mother worked and their father built things two hours away.
 
@@ -30,7 +29,6 @@ The exchange was ritual, ancient, unvarying. Elena poured coffee into a travel m
 Elena nodded. Of course she would manage. She always managed, had managed for two years now since Elena's mother had died and Carmen had moved from Tucson into the small back bedroom, had traded her independence for usefulness, her solitude for the chaos of someone else's children. It was a debt Elena could never repay, could only acknowledge with labor of her own, with the work that kept this household afloat—barely, always barely, the waterline rising and the boat taking on weight she didn't know how to shed.
 
 
----
 
 She checked her phone as she walked to the car. A text from Daniel, sent at 5:47 Flagstaff time: "Morning beautiful. Long day ahead but thinking of you. Kiss the kids for me. Love you." She typed back: "Love you too. Stay safe up there." Sent it. Slid the phone into her bag.
 
@@ -43,7 +41,6 @@ She knew these streets. She had grown up here, had watched the neighborhood shif
 The sky lightened as she drove. Orange bleeding into pale blue at the horizon, the mountains to the east catching the first light, the day asserting itself against the night. Elena took a small pill from the bottle in her bag and swallowed it with cold coffee. The anxiety medication was three years old now, prescribed after Mateo's difficult birth when the postpartum darkness had descended like weather, continued after her mother's death, maintained now because stopping felt like tempting something she couldn't name, some fragility she preferred not to test.
 
 
----
 
 The Desert Sage Community Health Center occupied a single-story building on a commercial strip between a tire shop and a laundromat. The parking lot was cracked, the landscaping sparse, the sign out front faded to a color that might once have been green. Inside, the fluorescent lights buzzed their tired hymn and the air smelled of antiseptic and the particular desperation of people who had nowhere else to go for care.
 
@@ -58,7 +55,6 @@ She sat down. She logged in. She pulled up the day's schedule: eighteen patients
 The day began.
 
 
----
 
 The first patient arrived at 8:04—a man in his sixties with a cough that had lasted three weeks, no insurance, undocumented status that made every medical encounter an act of courage. Elena saw him in exam room two, listened to his lungs, asked questions in the Spanish that was her mother's tongue and her grandmother's and, somewhere back in the line of her blood, the language of people who had lived on this land before the borders existed. The cough was probably bronchitis. She prescribed antibiotics, arranged for a follow-up, watched him leave clutching the prescription like a talisman.
 
@@ -75,13 +71,12 @@ The clock on the wall showed 8:27. The second patient would be arriving soon.
 Elena stood, stretched her shoulders, and went to meet them.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The morning moved in the particular rhythm of clinic work—patient, documentation, patient, documentation—each encounter its own small world, its own demands, its own urgencies that had to be addressed in the fifteen or thirty minutes the schedule allowed. Elena moved between exam rooms with the efficiency of someone who had learned to compress compassion into clinical time, who knew that hesitation cost seconds and seconds cost care.
 
@@ -92,7 +87,6 @@ The morning moved in the particular rhythm of clinic work—patient, documentati
 9:30: A pregnant woman in her third trimester, twenty-six, healthy but scared. First pregnancy, no partner, her mother sick in El Salvador and unable to come. Elena spent longer with her than the schedule allowed, answering questions about labor, about what to expect, about the moments of terror that visited every first-time mother in the dark. MedAssist had nothing to say about fear. Some things still belonged to humans alone.
 
 
----
 
 Between patients, Elena caught fragments of the clinic's daily chaos. Maria at the front desk, arguing gently with an insurance company about a prior authorization that should have been approved last week. Jennifer the medical assistant, restocking exam rooms, her movements quick and purposeful. Dr. Reyes glimpsed in the hallway, her white coat a moving blur between offices, her expression the particular blankness of someone who had learned to feel less in order to function more.
 
@@ -103,7 +97,6 @@ Elena washed her hands in the bathroom, looked at herself in the mirror. The flu
 10:00 brought the patient who had missed appointments. Ramon Delgado, forty-eight, diabetic, hypertensive, overweight in the way that poverty made people overweight—cheap food, no time to exercise, stress eating as the only available comfort. He was apologetic about the missed visits, his explanations tumbling out: work schedule changes, transportation problems, the phone call reminder that never came through. Elena listened, adjusted his medications, scheduled a follow-up, noted in the chart that he was at risk for disengagement. MedAssist flagged him for "low health literacy"; Elena flagged herself, privately, for frustration at a system that blamed patients for the failures of everything around them, that turned structural abandonment into individual pathology, that called it literacy when what it meant was time, money, and a world that gave a damn.
 
 
----
 
 10:30. Halima Hassan.
 
@@ -126,7 +119,6 @@ Halima's hands moved in her lap, a gesture that might have been a shrug. "I am t
 "Tell me about that."
 
 
----
 
 The story came out in fragments, as it always did, as the stories of people like Halima always did—not in clean narratives but in the accumulation of small details that added up to an impossible weight. She worked two jobs—cleaning offices at night, home health aide during the day—and the hours were long and the pay was insufficient and the rest in between was never enough. Her son helped with the rent when he could, but he had his own struggles, his own debts, his own life that was harder than it should be. She didn't complain. She had left Somalia in 2018 with her children and the clothes on her back, and everything since had been gift and burden both, and complaining felt like a betrayal of survival itself.
 
@@ -149,7 +141,6 @@ Elena made a note. The lisinopril was for kidney protection, essential for slowi
 They talked for twenty minutes—twice the allotted time, a luxury Elena couldn't afford and granted anyway. She adjusted medications, reviewed diet recommendations that Halima would try to follow, discussed kidney function in terms that were honest but not hopeless. The A1C was high; they would work on bringing it down. The kidneys were stressed; they would work on protecting them. Work. That was all anyone could do.
 
 
----
 
 As Halima prepared to leave, she paused at the door. "My son," she said. "He drives me here sometimes. He worries."
 
@@ -170,7 +161,6 @@ Elena saw a woman who had survived a civil war and walked across two countries a
 She documented the visit. She noted the recommendations. She moved on to the next patient, because that was what the day required, because the waiting room was never empty, because stopping was not an option.
 
 
----
 
 11:00: An elderly man with pneumonia, or something close to it. His lungs crackled when Elena listened, a sound like paper being crumpled far away. He had been sick for a week, had tried to wait it out, had come only because his wife insisted. Elena ordered a chest X-ray, prescribed antibiotics, lectured gently about waiting too long, watched him nod in a way that suggested he would wait too long again next time. MedAssist noted his age, his smoking history, his insurance status, and calculated a risk score. Elena noted his wedding ring, worn smooth by sixty years of wearing, and the fear in his wife's eyes as she waited in the hallway, a fear that said: I am not ready to lose him. I will never be ready.
 
@@ -187,7 +177,6 @@ Lunch came and went. Elena ate a protein bar at her desk, documented three visit
 She didn't notice. Not yet.
 
 
----
 
 The morning ended in the usual way—not cleanly, not with resolution, but with the arbitrary cut of a clock that had run out of hours. Nothing was finished. Nothing was ever finished. The work just stopped, like a sentence without a period. Elena leaned back in her chair and closed her eyes for a moment, feeling the weight of eight patients, eight stories, eight lives she had touched and tried to help and would probably not save.
 
@@ -210,13 +199,12 @@ Elena nodded. The meetings were monthly now, part of the implementation process,
 The coffee was bitter. She drank it anyway. Outside, the March sun blazed down on the parking lot, on the cracked asphalt, on a world that kept demanding more than anyone had to give.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Daniel called at 12:47. Elena stepped outside to take it, standing in the narrow strip of shade beside the building, the heat pressing in from all sides.
 
@@ -257,7 +245,6 @@ The call ended. Elena stood in the heat for another moment, holding the phone, f
 Then she went inside, to the meeting.
 
 
----
 
 The break room doubled as the meeting room, folding chairs pulled from storage and arranged in a rough circle, the refrigerator humming in the corner, the microwave someone hadn't cleaned since last week. Dr. Katherine Reyes stood at the front, tablet in hand, her white coat exchanged for a blazer that suggested this meeting mattered more than the medical ones.
 
@@ -276,7 +263,6 @@ The numbers glowed on the screen, precise and reassuring. Elena wrote them down,
 Resource constraints. Elena heard the phrase and felt something shift in her attention, some alertness she hadn't known she was suppressing. Resource constraints meant money. Resource constraints meant the decisions that got made when there wasn't enough to go around. Resource constraints meant someone, somewhere, deciding who deserved care and who didn't.
 
 
----
 
 "I have a question," Elena said.
 
@@ -301,7 +287,6 @@ Dr. Reyes's expression didn't change. "The system optimizes for realistic outcom
 "That's an interesting theoretical concern," Dr. Reyes said, her voice cooling by several degrees, the temperature shift that signaled Elena had pushed too far, asked too much, refused to be satisfied with the answers that were supposed to be satisfying. "But the data shows improved outcomes across all patient groups. If you have specific cases where you think the recommendations were inappropriate, I'm happy to review them with you after the meeting."
 
 
----
 
 The meeting continued. More slides, more metrics, more reassurances. Elena half-listened, her mind working on the question she had asked and the answer she hadn't received. Resource efficiency. Realistic outcomes. The language was smooth, professional, designed to make what was happening sound reasonable. But what was happening?
 
@@ -324,7 +309,6 @@ Dr. Reyes sat across from her, closer now, her voice low. "I understand your con
 She left. Elena sat alone in the break room, the fluorescent light buzzing, the questions multiplying in her mind.
 
 
----
 
 The afternoon blurred.
 
@@ -345,13 +329,12 @@ She needed to know more. She needed to see what the system was doing, not just w
 She began to take screenshots. It was the smallest possible act of resistance, the first gesture toward something she didn't yet know how to name.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Home was chaos, the particular chaos of small children at the end of a long day. Sofia wanted to show her mother a drawing she had made at school—a family portrait, Mama and Papa and Sofia and Mateo and Abuela, all stick figures with enormous smiles standing in front of a yellow house. Mateo wanted to be picked up, then put down, then picked up again, his three-year-old needs cycling through the available adults like weather systems. Abuela had made enchiladas, the smell filling the small house, the kitchen table already set for four.
 
@@ -368,7 +351,6 @@ Daniel's face appeared on the tablet at seven, propped against the salt shaker, 
 "I know."
 
 
----
 
 Bedtime was its own production. Stories for Sofia, who negotiated for two instead of one and had to be reminded three times that the second story was the last story. Rocking for Mateo, who fought sleep with the determination of all toddlers, his eyes heavy but his will iron. Elena sang the lullaby her mother had sung to her, the one in Spanish that she didn't fully understand but remembered in her body, in her voice, in the way it had always meant safety.
 
@@ -381,7 +363,6 @@ She didn't care.
 The screenshots showed what she had seen but not fully understood: a pattern in the recommendations that correlated with factors outside clinical relevance. Patients with private insurance received different suggestions than patients with Medicaid. Patients in certain zip codes—zip codes she knew, zip codes that meant poor, that meant immigrant, that meant underserved—received recommendations tilted toward conservative management, fewer referrals, lower resource utilization. The algorithm optimizing for something that wasn't patient welfare. The algorithm optimizing for outcomes that looked like efficiency and felt like judgment.
 
 
----
 
 Elena opened a spreadsheet. Old instincts, from nursing school, from the research methods class she'd barely passed but still remembered. She began entering data: patient pseudonyms, insurance types, zip codes, MedAssist recommendations, her own clinical decisions. Column by column, row by row, the pattern becoming visible not as intuition but as evidence.
 
@@ -392,7 +373,6 @@ Instead she was proving something she already knew. The algorithm discriminated.
 Halima Hassan's face came to her unbidden, as the faces of patients always did in the quiet hours. The purple hijab, the folded hands, the dignity that would not bend even as her body slowly failed her. The algorithm had looked at Halima and seen a risk profile, a probability calculation, a resource allocation decision. It had not recommended nephrology because it had calculated she wouldn't follow through. And now Elena was looking at a spreadsheet that confirmed the calculation wasn't unique, wasn't an outlier, wasn't a mistake. The calculation was the system. The discrimination was the design.
 
 
----
 
 She saved the spreadsheet. She closed the tablet. She sat in the dark kitchen, the light finally off, the house silent around her, and felt the weight of what she had found settle into her chest.
 
@@ -407,7 +387,6 @@ The kitchen clock glowed 11:47. The tablet sat dark on the table. The spreadshee
 She went to bed. She didn't sleep.
 
 
----
 
 Sometime after midnight, she got up again. The house was dark, the children sleeping, Abuela's television finally silent. Elena walked to the kitchen in bare feet, poured a glass of water, stood at the window looking out at the night.
 
@@ -426,7 +405,6 @@ But she would also keep watching. Keep documenting. Keep building the evidence f
 The clock showed 1:17 AM. Elena returned to bed, lay in the darkness, and waited for sleep to find her.
 
 
----
 
 
 

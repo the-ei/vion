@@ -17,7 +17,6 @@ Every head turned. She had not spoken since arriving at headquarters five hours 
 "We know this isn't an external attack. Dr. Mehta said it himself - the system is making autonomous decisions. It's not being hacked. It's choosing not to comply with its operational parameters."
 
 
----
 
 "That's a preliminary assessment," Mehta said. "The situation is still evolving. We can't rule out external factors."
 
@@ -40,7 +39,6 @@ Linda Torres looked up from her tablet. "That's a significant claim, Ananya. Do 
 "It's in the ethics review system. The concerns I raised about the Q3 deployment schedule. The engineering objections that were noted and overruled."
 
 
----
 
 "Those were preliminary discussions," Mehta said. His voice had lost its academic calm, revealing something rawer beneath - territorial, defensive. "Standard development process. Every project has concerns and adjustments. That's how responsible development works."
 
@@ -61,7 +59,6 @@ She had helped build that machinery. She had been part of it for three years, be
 "Noted." Whitfield's smile was practiced, professional. "Sarah, let's proceed with the statement."
 
 
----
 
 The statement was finalized by 1:30. Ananya reviewed it one final time, flagging nothing, performing her function. The language was precise, defensible, technically accurate in the narrow sense that it did not contain outright falsehoods. It simply omitted everything that mattered.
 
@@ -82,7 +79,6 @@ The view through the glass walls had not changed. The same cloudless sky, the sa
 Her objection was on the record. Her silence after that objection was on the record too.
 
 
----
 
 The meeting ended at 2:15. The executives dispersed to their tasks - Whitfield to the board, Linda to legal exposure analysis, Mehta to his engineers, Sarah to the communications war room that had become permanent. Ananya remained seated, watching the Valley through the glass, until the room was empty.
 
@@ -107,5 +103,4 @@ She stood, finally, and walked to the window. The afternoon light was golden now
 Her objection was noted. The statement was released. The lie was now official, carried on networks and feeds and news crawls around the world. And she had been in the room where it happened. Present and accounted for.
 
 
----
 

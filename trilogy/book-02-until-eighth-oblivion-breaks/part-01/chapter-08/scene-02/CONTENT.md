@@ -13,7 +13,6 @@ Carmen looked at her hands. "I don't know. Maybe. Everything feels harder than i
 "A few days ago. Around when all the anniversary coverage started on the news."
 
 
----
 
 Elena nodded, making a note. Carmen was the first patient to name it directly, but she would not be the last. The pattern was already visible: trauma anniversaries triggered physiological responses even in people who had no conscious awareness of the connection. The body kept score, as the saying went. The body remembered what the mind tried to forget.
 
@@ -24,7 +23,6 @@ The second patient was a sixty-one-year-old man named Robert, whose chronic back
 Elena moved through them with the efficiency her job demanded, each encounter brief but thorough, each diagnosis pointing toward the same invisible cause. The anniversary was in the room with them, though only she seemed to see it clearly.
 
 
----
 
 Around nine o'clock, she took a brief break in the staff room. Dr. Osei was there, drinking coffee that had been sitting too long, staring at the wall with the particular exhaustion of someone who had been seeing patients since before Elena arrived.
 
@@ -43,7 +41,6 @@ Dr. Osei nodded. "I had a woman who was convinced her water had been poisoned. P
 They sat in the silence that followed, two people who had seen something together and rarely acknowledged it, the unspoken bond of shared witness.
 
 
----
 
 "The coverage makes it worse," Elena said. "They keep replaying it like it's a documentary. Like it's finished."
 
@@ -58,7 +55,6 @@ Elena remained in the break room a moment longer, processing what Dr. Osei had s
 And tonight, the anniversary, all those bodies remembering at once.
 
 
----
 
 She returned to the floor and saw three more patients in rapid succession. A teenager with panic attacks. A middle-aged man whose fibromyalgia had flared. An elderly woman who could not articulate what was wrong but whose vitals told a story of generalized stress, her body signaling distress her words could not express.
 
@@ -69,5 +65,4 @@ This was the work. Not heroic, not dramatic, not the kind of medicine that appea
 The anniversary played out on the television in the waiting room, visible through the window from where Elena stood. Experts discussed lessons learned. Pundits debated what had changed. The patients waiting to see her barely glanced at the screen, their attention focused inward, on the pain that had brought them here, on the bodies that would not let them forget.
 
 
----
 

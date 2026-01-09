@@ -9,7 +9,6 @@ Vertex Analytics is owned by a holding company called Meridian Capital Partners.
 Jerome writes PROMETHEUS in red marker, circles it, draws lines outward to the entities it touches. The lines are multiplying.
 
 
----
 
 The investigation has consumed three days of his life and four hundred dollars in database subscription fees. LexisNexis for corporate records. PitchBook for venture capital data. A state business registry that charges by the search. His newsletter brings in enough to cover rent and groceries; it does not bring in enough to fund deep investigative work. He is burning savings. He tells himself it will be worth it if the story is what he thinks it is.
 
@@ -30,7 +29,6 @@ She nods. She has been married to him for nineteen years; she has seen him disap
 "I'll be there," Jerome says, and means it.
 
 
----
 
 She leaves. The coffee cools. Jerome returns to the board.
 
@@ -43,7 +41,6 @@ He has been a journalist for twenty-three years. He won a Pulitzer for his cover
 The separate stories he has been tracking - hiring algorithms that discriminate, healthcare systems that ration care by demographics, insurance models that price out the vulnerable, criminal justice tools that predict who will offend based on where they live - are not separate. They share architecture. They share funders. They share, he suspects, a common logic that is more than coincidence.
 
 
----
 
 He pulls up the corporate filings for Prometheus Systems on his laptop. The company is private, which limits what he can access, but there are glimpses in the public record - investment rounds announced in press releases, executive appointments noted in industry newsletters, patent filings that hint at the scope of their technology. Prometheus builds the foundational AI models that other companies customize for their specific applications. They are not the visible face of algorithmic decision-making; they are the invisible substrate, the operating system upon which the discrimination runs.
 
@@ -56,7 +53,6 @@ He opens his email and begins drafting a message to a congressional staffer whos
 The email takes him an hour to write. Every sentence is calibrated - professional enough to be taken seriously, specific enough to demonstrate his knowledge, careful enough to avoid burning sources he might need later.
 
 
----
 
 He sends the email at 11:47 PM on a Tuesday. The reply comes at 6:23 AM the next morning.
 
@@ -73,7 +69,6 @@ Denise brings him dinner. He eats at his desk. She does not complain, but her si
 The parent-teacher conference is tomorrow. He has marked it in three places. He will not forget.
 
 
----
 
 The night before his DC trip, Jerome sits in his office past midnight, reviewing his notes. The investigation has begun to feel less like research and more like excavation - each layer he removes reveals another layer beneath, each answer generating three new questions. He does not know where the bottom is. He is not sure there is a bottom.
 
@@ -88,13 +83,12 @@ Jerome looks at his whiteboard. The web of connections glows in the lamp light, 
 In the morning, he will take the train to Washington.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The Amtrak runs northeast along the corridor, past the rowhouses of Baltimore giving way to the suburbs giving way to the flatter country around Wilmington, the landscape of early spring showing in patches of green between the brown of last year's growth. Jerome sits by the window with his laptop open but not working, watching America slide past at regional rail speed, thinking about what he is going to say to Jamie Okonkwo, how to present what he knows without revealing what he does not.
 
@@ -105,7 +99,6 @@ The train passes through Wilmington, through the tunnel under Philadelphia, emer
 The conductor announces Washington in forty-five minutes. Jerome closes his laptop and watches the land change, the suburbs thickening as the train approaches the capital, the monuments visible in the distance like promises about what America is supposed to be.
 
 
----
 
 Jamie Okonkwo is younger than Jerome expected. She sits across from him in a coffee shop on Pennsylvania Avenue, half a block from the Capitol, her laptop open and her phone face-down on the table in a gesture of attention that Jerome recognizes as both courtesy and performance. She is perhaps twenty-eight, with braids pulled back from a face that looks tired in a way that suggests chronic rather than acute exhaustion, the particular weariness of people who work in government and care about their work.
 
@@ -122,7 +115,6 @@ Jamie is quiet for a moment. She looks at him with an expression that is evaluat
 "Tell me what you've found," she says.
 
 
----
 
 He tells her. He lays out the corporate structure, the investment flows, the pattern of companies operating in different sectors but sharing common funders and common technologies. He does not show her all of his documents - he has been a journalist long enough to know that revealing everything leaves you with nothing - but he shows her enough to demonstrate that he is serious, that his connections are real, that the pattern he is describing is not speculation.
 
@@ -139,7 +131,6 @@ Jamie listens without interruption. When he finishes, she is quiet for a long mo
 Jamie laughs, but there is no humor in it. "We can try. They have very good lawyers. And there's political pressure - Prometheus has friends on both sides of the aisle, donors whose names appear on fundraising lists I'm not supposed to see. Every time we get close to meaningful oversight, something slows us down. Not stops us. Slows us. Death by delay."
 
 
----
 
 They talk for over an hour. Jamie shares what she can - publicly available hearing transcripts, reports that have been filed but not publicized, the names of other investigators in other committees who have encountered similar patterns. She is careful not to violate any confidences, but she is also clearly frustrated, eager to see the investigation move faster than the congressional apparatus allows.
 
@@ -156,7 +147,6 @@ Jerome thinks about this. He thinks about the whiteboard in his office, the web 
 Jamie nods. "She's not on the Hill anymore. Retired from the bench. But she's teaching at Georgetown, writing about algorithmic due process. If anyone can help you understand the legal dimensions, it's her."
 
 
----
 
 Union Station is a temple to a different era of transportation, its vaulted ceilings and marble columns designed to make train travel feel like something noble rather than utilitarian. Jerome finds a quiet corner near the back of the main hall, away from the coffee shops and the commuters, and calls the number Jamie gave him.
 
@@ -177,7 +167,6 @@ Jerome explains. He talks about the corporate connections, the investment flows,
 Ruth is quiet for a moment. Then she says: "You're asking the right questions, Mr. Washington. Unfortunately, there are no right answers. Not yet."
 
 
----
 
 "What do you mean?"
 
@@ -198,7 +187,6 @@ Ruth pauses. When she speaks again, her voice is softer, more personal. "I spent
 "I'm sixty-one years old. I have seen enough to know that hope is not the same as optimism."
 
 
----
 
 The return train leaves at six. Jerome watches Washington recede through the window, the Capitol dome catching the late afternoon light, the monuments arranged along the Mall like arguments about what the country means. He thinks about Jamie's frustration, Ruth's resignation, the gap between what the law promises and what the law delivers.
 
@@ -215,13 +203,12 @@ The train passes through Baltimore without stopping, a late express that will de
 In his bag, the documents sit like evidence of something. He does not know yet what they will prove. He only knows they are the beginning.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The house is too quiet when he arrives.
 
@@ -240,7 +227,6 @@ The words hit him before their meaning does. Conference. Four. DeShawn. The pare
 "Don't." She turns off the water. She does not turn around. "Just don't."
 
 
----
 
 He was in DC at four. He was at Union Station, calling Ruth Abramson, asking questions about algorithmic accountability while his son sat in a classroom with his mother and his teachers and one empty chair. He had put the conference in his calendar. He had set reminders. The reminders had come while he was on the phone with Ruth, and he had dismissed them without reading, had assumed they were something else, had been so absorbed in the conversation that the notifications were just noise.
 
@@ -255,7 +241,6 @@ He was in DC at four. He was at Union Station, calling Ruth Abramson, asking que
 Jerome does not have an answer. Or rather, he has many answers - explanations, justifications, the genuine belief that the work matters, that exposing these systems could help people who are being ground up by forces they cannot see. But none of those answers are what Denise is asking for. She is not asking him to explain himself. She is asking him to see her.
 
 
----
 
 "Where is DeShawn?"
 
@@ -276,7 +261,6 @@ Jerome sets down his bag. The documents inside feel heavier than they should, ev
 She climbs the stairs without looking back. Jerome stands alone in the kitchen, the fluorescent light harsh above him, the silence of the house pressing in like judgment.
 
 
----
 
 DeShawn's door is open.
 
@@ -303,7 +287,6 @@ DeShawn looks up, surprised by the question. "A project. For school. Sort of."
 "Can you show me?"
 
 
----
 
 DeShawn hesitates, then turns his laptop so Jerome can see the screen. The code means nothing to Jerome, but he recognizes one word in the comments: Prometheus.
 
@@ -330,7 +313,6 @@ DeShawn's expression is skeptical, but he turns the laptop back around. "Yeah. T
 The conversation is over. Jerome leaves his son to his code, his headphones, his life that is increasingly separate from his father's.
 
 
----
 
 He finds Denise in their bedroom, reading in bed, a novel open on her lap that she is not really reading. He sits on the edge of the mattress and does not speak, letting the silence stretch.
 
@@ -355,13 +337,12 @@ The words land like a physical blow. Jerome thinks about the past weeks, the inv
 He lies beside her, watching shadows on the ceiling, and does not sleep for a long time.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Four days pass. Jerome tries to be present - comes home for dinner, asks DeShawn about his project, listens when Denise talks about her day. The effort is visible and Denise acknowledges it with small gestures: a touch on his shoulder when she passes, a cup of coffee brought to his office without being asked. They are negotiating a truce, the two of them, navigating the space between his work and their life.
 
@@ -374,7 +355,6 @@ The email arrives on a Tuesday evening, just before midnight.
 The sender address is a string of random characters at a domain Jerome does not recognize. The subject line is empty. The message itself is brief - six sentences that change everything.
 
 
----
 
 Mr. Washington -
 
@@ -392,7 +372,6 @@ He screenshots the email. He saves it to three different locations. He copies th
 The house is silent around him. Denise is asleep upstairs. DeShawn is asleep in his room, dreaming whatever dreams seventeen-year-olds dream. They do not know that somewhere out there, someone is watching their husband, their father, and has sent this message to make sure he knows it.
 
 
----
 
 "We appreciate your thorough approach to market efficiency."
 
@@ -409,7 +388,6 @@ Jerome stands and walks to the window. Baltimore is dark outside, the streetligh
 This is how it works, he realizes. Not dramatic confrontations, not threats delivered in parking garages, not the spy-movie theatrics that make intimidation visible and therefore resistible. Instead: a quiet email that demonstrates knowledge. A reminder that he is seen. The soft pressure of being watched.
 
 
----
 
 He does not tell Denise.
 
@@ -426,7 +404,6 @@ His father did not stop going to work at the warehouse even after the injuries s
 Jerome does not know if his father was brave or foolish. He suspects the distinction matters less than people think.
 
 
----
 
 Dawn arrives slowly over Baltimore, the sky shifting from black to gray to the pale orange of early morning. Jerome has not slept. He feels the tiredness in his eyes, in his bones, but the tiredness is distant, secondary to the clarity that has settled over him in the night hours.
 
@@ -443,7 +420,6 @@ Somewhere out there, someone is watching him watch them.
 Jerome turns on his desk lamp and gets to work.
 
 
----
 
 
 

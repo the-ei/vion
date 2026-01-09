@@ -7,7 +7,6 @@ The hallway was dark. She passed Sofia's room, the door slightly ajar, and heard
 Abuela was already in the kitchen.
 
 
----
 
 Carmen Reyes sat at the small table with coffee and her tablet, Spanish-language news playing quietly, her reading glasses perched on her nose. She was seventy-three years old, diabetic, arthritic in her hands, and still she rose before Elena every morning, still she made coffee, still she prepared to spend another day keeping two small children alive and fed and loved while their mother worked and their father built things two hours away.
 
@@ -30,7 +29,6 @@ The exchange was ritual, ancient, unvarying. Elena poured coffee into a travel m
 Elena nodded. Of course she would manage. She always managed, had managed for two years now since Elena's mother had died and Carmen had moved from Tucson into the small back bedroom, had traded her independence for usefulness, her solitude for the chaos of someone else's children. It was a debt Elena could never repay, could only acknowledge with labor of her own, with the work that kept this household afloat—barely, always barely, the waterline rising and the boat taking on weight she didn't know how to shed.
 
 
----
 
 She checked her phone as she walked to the car. A text from Daniel, sent at 5:47 Flagstaff time: "Morning beautiful. Long day ahead but thinking of you. Kiss the kids for me. Love you." She typed back: "Love you too. Stay safe up there." Sent it. Slid the phone into her bag.
 
@@ -43,7 +41,6 @@ She knew these streets. She had grown up here, had watched the neighborhood shif
 The sky lightened as she drove. Orange bleeding into pale blue at the horizon, the mountains to the east catching the first light, the day asserting itself against the night. Elena took a small pill from the bottle in her bag and swallowed it with cold coffee. The anxiety medication was three years old now, prescribed after Mateo's difficult birth when the postpartum darkness had descended like weather, continued after her mother's death, maintained now because stopping felt like tempting something she couldn't name, some fragility she preferred not to test.
 
 
----
 
 The Desert Sage Community Health Center occupied a single-story building on a commercial strip between a tire shop and a laundromat. The parking lot was cracked, the landscaping sparse, the sign out front faded to a color that might once have been green. Inside, the fluorescent lights buzzed their tired hymn and the air smelled of antiseptic and the particular desperation of people who had nowhere else to go for care.
 
@@ -58,7 +55,6 @@ She sat down. She logged in. She pulled up the day's schedule: eighteen patients
 The day began.
 
 
----
 
 The first patient arrived at 8:04—a man in his sixties with a cough that had lasted three weeks, no insurance, undocumented status that made every medical encounter an act of courage. Elena saw him in exam room two, listened to his lungs, asked questions in the Spanish that was her mother's tongue and her grandmother's and, somewhere back in the line of her blood, the language of people who had lived on this land before the borders existed. The cough was probably bronchitis. She prescribed antibiotics, arranged for a follow-up, watched him leave clutching the prescription like a talisman.
 
@@ -75,5 +71,4 @@ The clock on the wall showed 8:27. The second patient would be arriving soon.
 Elena stood, stretched her shoulders, and went to meet them.
 
 
----
 

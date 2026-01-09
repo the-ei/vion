@@ -9,7 +9,6 @@ He sits. The chair is ergonomic, one concession to his body's complaints about t
 Time to begin.
 
 
----
 
 The episode he is recording concerns digital currency and financial surveillance, a topic he has been researching for three months, accumulating sources and documents and the particular weight of evidence that he once deployed in newspaper columns and now releases into the void of independent media. The argument is this: that central bank digital currencies, presented as modernization and convenience, create infrastructure for financial control that would have been unthinkable a generation ago. That the ability to track every transaction, to programmatically restrict purchasing, to make money itself contingent on behavior, represents a power that governments will eventually use regardless of their current intentions. That the history of surveillance technologies is a history of purposes creeping, boundaries eroding, exceptions becoming rules.
 
@@ -24,7 +23,6 @@ He clicks the button. The waveform appears on his screen. He begins.
 His voice finds its rhythm, the cadence he developed over twenty-five years in journalism, the measured authority of someone who has been right before and expects to be right again.
 
 
----
 
 Eight minutes in, he stumbles. The sentence that was forming in his mind dissolves before he can speak it, the argument's thread slipping away from him, and he is left with silence, with the waveform frozen, with the particular humiliation of forgetting what he knows.
 
@@ -43,7 +41,6 @@ Independence, they call it. Freedom.
 Some days he believes the words.
 
 
----
 
 He restarts. The second take is cleaner, the argument flowing now that the blockage has been cleared, and he finds the thread he lost, follows it through central bank digital currencies to social credit systems to the convergence of financial and behavioral surveillance that is happening already, invisibly, in the recommendation engines and credit scoring algorithms that shape what people can buy, can rent, can become.
 
@@ -60,7 +57,6 @@ He pauses at a photograph of his parents, taken at his college graduation. His f
 The coffee maker awaits.
 
 
----
 
 In the kitchen he brews the coffee strong, the way his father made it, the way his mother taught him, and stands at the window watching the backyard emerge into October light. The trees are turning, the maples that have shaded this property since before Jerome and Denise bought it, the leaves going red and gold in the particular way that Baltimore autumns produce, the color he knows will be gone in weeks, replaced by bare branches and the long approach to winter.
 
@@ -77,13 +73,12 @@ He refills his coffee and returns to the studio.
 The editing begins.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The kitchen table is large enough for four but hosts only two this evening, Jerome at one end with his laptop, DeShawn at the other with his own machine, the arrangement that has become their default when Denise works late, which is most evenings now, the marking and planning that teaching demands consuming hours she used to spend in this room.
 
@@ -102,7 +97,6 @@ Jerome wants to say that he knows what prediction markets are, has written about
 Two screens. Two worlds. The same room.
 
 
----
 
 "I'm writing about something similar," Jerome tries. "Algorithms and housing. How prediction systems affect real estate markets."
 
@@ -127,7 +121,6 @@ But he is already moving, already through the kitchen doorway, already ascending
 The kitchen is quiet. Jerome stares at his newsletter, the paragraph he was writing now contaminated by the argument he did not mean to have.
 
 
----
 
 He was seventeen once. He remembers it imperfectly, the way one remembers anything from thirty-five years ago, but he remembers the conviction, the certainty that his parents did not understand the world he was inheriting, that their fears were artifacts of an older time. His father had worried about Jerome's interest in journalism, the instability of the profession, the way it put you in conflict with people who had more power than you. Jerome had dismissed those concerns as the caution of a man who had spent his life avoiding trouble.
 
@@ -150,7 +143,6 @@ She enters the kitchen with the particular exhaustion that teaching has imprinte
 "The usual."
 
 
----
 
 Denise pours her wine, takes a long sip, leans against the counter. She is fifty, three years younger than Jerome, and the last few years have marked her in ways that both of them pretend not to notice. Teaching was always demanding; now it is something closer to combat, the students struggling with anxieties that have no historical parallel, the parents angry about everything, the administration demanding outcomes that the circumstances make impossible.
 
@@ -177,7 +169,6 @@ She sips her wine, considering. "You're not wrong about the systems. You might b
 Jerome wants to argue, to explain that there are other futures, better futures, that his son's intelligence could be deployed in service of something other than prediction markets and machine learning for the highest bidder. But Denise's face tells him this conversation has been had before, will be had again, and tonight is not the night to advance it.
 
 
----
 
 "There's something else," Denise says. "He told me this morning. A summer program he's applying to. A mentorship at a tech company. San Francisco."
 
@@ -204,7 +195,6 @@ His son wants to work there. His son sees it as an opportunity, a launching pad,
 Denise looks at him with an expression that is both love and exhaustion, the face of a woman who has lived with his principles and paid the costs of them. "Like it's already lost. Like he's already betrayed something. Like you've already lost him to the other side."
 
 
----
 
 She is not wrong. This is how he reacts. This is the failure that his principles produce: the certainty that becomes rigidity, the warning that becomes rejection, the love that cannot find a form his son can recognize as love.
 
@@ -233,13 +223,12 @@ The house settles around him.
 He opens his laptop and returns to the newsletter, to the story, to the work that is all he has left of the journalist he used to be.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The phone call comes at midday, while Jerome is editing the housing story, trying to find the language that will make algorithmic redlining legible to readers who do not want to believe it exists. His sister's name on the screen is both expected and dreaded, their calls now anchored to the crisis they share, the mother who is slowly ceasing to be herself.
 
@@ -266,7 +255,6 @@ He checks his calendar, already knowing what it contains: podcast recordings, ne
 "I'll be there."
 
 
----
 
 The pause on the other end tells him that his sister expected a different answer, expected the qualifications and scheduling conflicts that have attended his previous promises. He has not been to Chicago in three months. Yvonne has been carrying the weight of their mother's decline largely alone, the thousand small decisions that caregiving requires made by the child who is geographically able to make them.
 
@@ -289,7 +277,6 @@ This is Yvonne's burden, the philosophical weight of the decisions she has been 
 "I'll be there Thursday," he says again, the repetition a kind of penance.
 
 
----
 
 After the call ends, he sits in the studio, surrounded by the equipment that enables his work, the microphone and monitors and acoustic panels that have become his professional universe. The work suddenly feels very small. The newsletter draft waits on his screen, the story about housing algorithms, the evidence he has compiled about how prediction systems encode discrimination. Outside, his city contains neighborhoods where those systems are operating right now, identifying value to extract, directing capital toward or away from people who will never know they were assessed.
 
@@ -306,7 +293,6 @@ The For Sale sign next door is from the same company. The pattern repeats.
 This is what he writes about. This is what he warns people about. This is what DeShawn might build, someday, if Jerome cannot find the words to explain why it should not be built.
 
 
----
 
 At the corner store he buys coffee from Mr. Kim, who has owned this shop for thirty years, whose daughter went to school with DeShawn, whose presence here is a kind of resistance to the forces Jerome documents. Mr. Kim asks after Denise, after DeShawn, after the podcast he does not listen to but knows Jerome produces. These are the connections the algorithms do not measure, the relationships that constitute a neighborhood beyond its property values, the social fabric that tears invisibly when displacement occurs.
 
@@ -327,7 +313,6 @@ His mother will not see another October, probably. Or if she does, she will not 
 He finishes the coffee and walks home.
 
 
----
 
 The house is still empty when he returns. DeShawn at school, Denise at work, the rooms containing only the artifacts of their shared life. He goes to the studio but does not enter, stands in the doorway looking at the equipment, the Pulitzer on the wall, the evidence of a career that has contracted around him.
 
@@ -348,13 +333,12 @@ The light changes.
 The work continues because the work is what he has, and having it is better than having nothing, and nothing is what waits when the work stops and the silence rushes in and he must face the distances that separate him from everyone he loves.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Saturday evening. Denise has cooked, the effort visible in the table setting: the good placemats, the napkins folded, the meal substantial in a way that weeknight dinners rarely are. This is her gift to them, the family she has assembled and maintained through twenty-three years of marriage, through Jerome's career turbulence, through DeShawn's adolescent evolution, through all the small crises that test whether love can sustain the weight placed on it.
 
@@ -369,7 +353,6 @@ They sit. They serve themselves. The silence is not hostile but careful, the thr
 The conversation flows, cautiously, through safe topics: DeShawn's college applications, the schools he is considering, the essays he is writing about ambitions he has not fully disclosed to his father. Denise shares stories from her classroom, the student who finally understood primary sources, the one whose anxiety is escalating, the particular challenges of teaching history to children who think everything happened in the distant past.
 
 
----
 
 Jerome listens. He contributes when prompted, sharing small updates about the housing story, careful to keep his work at a distance from his son's interests, to avoid the conflict that their overlapping territories produce. The meal is almost peaceful. They are almost a family enjoying Saturday dinner together. The surface holds.
 
@@ -400,7 +383,6 @@ The compliment lands strangely, half-accepted. DeShawn is waiting for the other 
 Jerome makes himself not provide it.
 
 
----
 
 "Thanks," DeShawn says finally, accepting what was offered without trusting it entirely.
 
@@ -425,7 +407,6 @@ The house is quiet.
 Everyone he loves is somewhere under this roof, and he cannot reach any of them.
 
 
----
 
 Bed, eventually. Denise is already there, the essays finished or abandoned, her breathing settling toward sleep. Jerome lies beside her in the dark, listening to the house sounds: the creak of DeShawn moving in his room, the hum of the HVAC, the city outside the windows conducting its Saturday night business.
 
@@ -450,7 +431,6 @@ He types: *Tell me more.*
 The cursor blinks. No response arrives. Raj might be sleeping, might have stepped away, might be calculating what to share and what to withhold. The conversation is opened. The thread exists. Whatever comes next will come through this channel, this connection that Jerome did not know he needed until it appeared.
 
 
----
 
 He sets the phone down. The ceiling is dark above him. Somewhere, a car passes on the street outside, its headlights briefly illuminating the curtains, then gone.
 
@@ -475,7 +455,6 @@ The phone sits silent on the nightstand.
 The cursor blinks somewhere in the network, waiting for what comes next.
 
 
----
 
 
 

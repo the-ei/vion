@@ -15,7 +15,6 @@ His father appeared in the frame, leaning over his mother's shoulder. He had age
 The sentence hung there. Kevin Zhou could not tell if it was a question or a statement or something else - a warning, perhaps, wrapped in approval. His father had worked for thirty years at a state technology firm, had navigated the careful politics of building things for a government that watched everything. He would understand, Kevin Zhou thought, what it meant to create systems you could not control.
 
 
----
 
 They talked for another ten minutes about nothing consequential. The connection dropped twice and they reconnected with practiced patience. His mother mentioned the travel restrictions tightening, the visa requirements that had been added since spring. "Your aunt is having trouble renewing her passport," she said. "There are new reviews."
 
@@ -32,7 +31,6 @@ The headset was comfortable now, molded to the shape of his head after years of 
 "On it." Kevin Zhou selected his character - a support class he had played for two years - and fell into the familiar rhythms.
 
 
----
 
 The raid was difficult in the way that good raids are: requiring coordination, timing, the kind of wordless cooperation that develops over months of playing together. Kevin Zhou let himself sink into it, his professional mind quieting, his attention narrowing to the immediate problems of damage mitigation and resource management. This was the only place he felt fluent with other people. In the physical world, conversation exhausted him. Here, communication was functional, clear, bounded by the game's objectives. He knew these people by their play styles, by their voices, by the jokes they repeated. He did not know their faces or their real names or the lives they lived when they logged off. This seemed right to him. This seemed like enough.
 
@@ -49,7 +47,6 @@ He accepted. "Hey."
 A pause. Then: "So I've been curious about something. You're in tech, right? Bay Area?"
 
 
----
 
 Kevin Zhou felt something shift in the conversation, a change of register he could not quite identify. "Yeah. San Francisco."
 
@@ -74,7 +71,6 @@ A laugh, warm and disarming. "Sorry, sorry. I'm just interested. I used to work 
 "It's fine." But something lingered in Kevin Zhou's mind after they said goodnight and he logged off. The questions were specific in a way that casual curiosity usually was not. Who was Atlas, really? And what did the question mean?
 
 
----
 
 The bar was in the Mission, the kind of place that committed to an aesthetic without making a fuss about it: exposed brick, vintage light fixtures, a cocktail menu written on a chalkboard. Sara was already there when Kevin Zhou arrived, sitting at a corner table with a glass of wine and a book she set aside as he approached.
 
@@ -95,7 +91,6 @@ They talked about the book, then about other books, then about the things that l
 "China. Shenzhen." The word felt strange in his mouth, named in this bar, to this woman. "I haven't been home in six years."
 
 
----
 
 Sara did not rush to fill the silence that followed. She waited, her attention a kind of presence, not pressing but not retreating either. Kevin Zhou found himself saying more than he had intended: about the distance from his parents, about the political complications that made distance harder to close, about the way time had turned his home into a place that existed more in memory than in any reality he could return to.
 
@@ -120,5 +115,4 @@ She smiled. "Yes. We should."
 They made plans for Saturday. Kevin Zhou walked home through streets that felt, for the first time in longer than he could remember, like they might lead somewhere.
 
 
----
 

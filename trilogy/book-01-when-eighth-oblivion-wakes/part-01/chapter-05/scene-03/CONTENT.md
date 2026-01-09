@@ -27,7 +27,6 @@ Priya didn't respond.
 "I know. But I think we need to." Ananya paused. "Or I need to. I need to say some things."
 
 
----
 
 Priya rolled onto her back, staring at the ceiling. Her face was blotchy from crying, her eyes red. She looked exhausted in a way that went deeper than a Saturday afternoon.
 
@@ -54,7 +53,6 @@ She hadn't meant to say that last part. But once it was said, she couldn't take 
 "Of making the wrong choice. Of hurting people. Of—" Ananya stopped. "Of a lot of things. I guess I don't always know what I'm doing either."
 
 
----
 
 "I thought parents were supposed to have things figured out," Priya said, and there was something almost like wonder in her voice. The wonder of discovering that adults were as lost as children, just with more practice at hiding it.
 
@@ -79,7 +77,6 @@ Priya almost laughed. "That's like, the worst comfort ever."
 "I know." But Ananya was smiling a little too. "The worst comfort ever."
 
 
----
 
 They worked on the project together, side by side at Priya's desk. Ananya didn't take over; she asked questions instead. What was the main argument? What evidence supported it? What was the teacher really asking for? Slowly, under the gentle pressure of the questions, the project became manageable. The monster shrank to normal size.
 
@@ -100,7 +97,6 @@ They ordered pizza and ate it in the living room, watching a show Priya chose, s
 Later, after Priya had gone to bed, Ananya called James. The co-parenting protocol: informing the other parent when significant conversations happened, when emotional events occurred, when the child's world shifted in ways they both needed to know.
 
 
----
 
 "She called me out," Ananya said. "On being absent. On prioritizing work."
 
@@ -127,5 +123,4 @@ She went still. "What kind of things?"
 After they hung up, she sat in the dark living room for a long time. James knew something. Not everything, not what she knew, but something. The confirmation from outside made the documents more real, not less. The gradient was steepening, and she was already further down it than she'd realized.
 
 
----
 

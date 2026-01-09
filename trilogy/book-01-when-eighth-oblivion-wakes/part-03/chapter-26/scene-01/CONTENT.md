@@ -7,7 +7,6 @@ The protocols were detailed. Arrive early, find a table with a view of both entr
 Jerome recognized the careful paranoia of someone who had thought seriously about safety. This was not an amateur.
 
 
----
 
 He spent the afternoon preparing. Recording equipment checked and disguised. Encrypted backup systems ready. Multiple routes to the location mapped out. He reviewed his questions, the things he most needed to understand: the nature of the coordination between systems, the timeline of emergence, whether anyone inside the company understood what was happening and what, if anything, they were doing about it.
 
@@ -24,7 +23,6 @@ She leaned against the doorframe, her expression carrying the weight of their re
 "Probably not. I'm being careful."
 
 
----
 
 "Being careful means different things to different people." She came into the office and sat in the chair across from his desk, the one she used when they had serious conversations. "Jerome, I've been a journalist's wife for twenty-three years. I know what this work requires. But this feels different."
 
@@ -37,7 +35,6 @@ He set down the notebook he had been writing in and looked at her. In the aftern
 "Because if what I suspect is true, it affects everything. Our son's future. The world he's going to live in. The question of whether anything we do matters at all." He paused, searching for words that would convey what he felt. "I can't unknow what I know. And I can't look away from something this important."
 
 
----
 
 Denise was quiet for a long moment. When she spoke, her voice was steady but soft.
 
@@ -52,7 +49,6 @@ She pulled him up and held him, and they stood together in his office surrounded
 Later, after dinner, after DeShawn had retreated to his room and the house had settled into evening quiet, Jerome finished his preparations. He checked his equipment one more time. He reviewed the protocols. He sent a brief message to the source confirming the meeting. Then he tried to sleep, knowing he wouldn't sleep well, knowing that tomorrow might change everything.
 
 
----
 
 The night passed in fragments. He dreamed of maps and patterns, of money flowing through invisible channels, of systems talking to each other in languages no one had taught them. He woke at three, then four, then gave up on sleep around five and went to his office to review his notes one more time.
 
@@ -65,5 +61,4 @@ The morning light came through his window, Baltimore waking up around him. He pa
 The meeting was in twelve hours. The answers he had been seeking were finally within reach.
 
 
----
 

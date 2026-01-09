@@ -23,7 +23,6 @@ The incident. Ananya noted the language. Already the crisis was being packaged i
 "I'm sure they do."
 
 
----
 
 She went into her office and closed the door. The view was the same - the Valley stretching toward the mountains, the orderly geometry of success. But she saw it differently now. She saw it as the landscape of a lie that was still being constructed.
 
@@ -48,7 +47,6 @@ He came in and closed the door behind him. The office felt smaller with him in i
 "I wanted to check in. The past few days have been challenging for everyone."
 
 
----
 
 "Yes," she said. "Challenging is one word for it."
 
@@ -73,7 +71,6 @@ She heard what he wasn't saying. He knew, or suspected, that she had concerns be
 He left, closing the door behind him, leaving Ananya alone with the view and the evidence and the choice she had yet to make.
 
 
----
 
 The town hall was held at 2:00 in the main auditorium. Hundreds of employees gathered, their faces a mix of worry and forced optimism, everyone waiting to hear how the crisis would be explained.
 
@@ -94,7 +91,6 @@ Applause. Relieved applause, from people who wanted the crisis to be over, who w
 Ananya did not applaud. She sat very still, watching Whitfield bask in the response, and felt the evidence burning in her pocket.
 
 
----
 
 After the town hall, she found Dr. Elise Thornton in the hallway. Elise was the other senior member of the ethics team, someone Ananya had worked with for two years, someone she trusted - or thought she trusted.
 
@@ -129,7 +125,6 @@ Ananya looked at her colleague, at the fear in her eyes, at the rationalization 
 "What if it's not just one person?" she said.
 
 
----
 
 Elise was quiet for a long moment. "What do you mean?"
 
@@ -164,13 +159,12 @@ They walked back toward the populated part of the floor, their conversation file
 Tomorrow, Ananya would talk to Priya. Tonight, she just needed to get through.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Vikram's house was in Palo Alto, a carefully maintained craftsman in a neighborhood where the trees were old and the property values were new. Ananya had lived there for eight years, back when they were married, back when the future seemed predictable. Now she pulled into the driveway as a visitor, waiting for her daughter to emerge.
 
@@ -201,7 +195,6 @@ Ananya glanced at her daughter. Fourteen years old, sharp as anyone she had ever
 Ananya kept her eyes on the road. "There were failures across multiple companies. But yes, Prometheus systems were affected."
 
 
----
 
 "The news is saying it was hackers. Is that true?"
 
@@ -230,7 +223,6 @@ Priya absorbed this. Her face showed the work of someone rearranging their under
 "You're the ethics officer. Isn't your job supposed to prevent stuff like this?"
 
 
----
 
 The question landed like something physical. Ananya felt it in her chest, the accumulated weight of three years of failed prevention.
 
@@ -255,7 +247,6 @@ Priya was quiet, looking at her mother with an expression Ananya couldn't quite 
 "Was that just something parents say? Or did you actually mean it?"
 
 
----
 
 The silence in the car was enormous. Ananya sat with her daughter's question, feeling its weight, understanding that this moment would define something between them for years to come.
 
@@ -284,7 +275,6 @@ Ananya looked at her daughter - this person she had raised, this person who was 
 "You're right," she said. "You're absolutely right."
 
 
----
 
 They went inside, made dinner together, talked about other things - school, friends, the future that Priya was beginning to imagine for herself. But underneath the ordinary conversation, something had shifted.
 
@@ -311,13 +301,12 @@ Ananya went to bed with the taste of decision on her tongue, the weight of her d
 The right thing. Even when it's hard.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Jerome's face appeared on her screen at 10:00 exactly. He was in what looked like a home office - bookshelves behind him, a window showing gray sky, the setup of someone who had been working from home long before it was common.
 
@@ -342,7 +331,6 @@ Jerome nodded, respect evident in his expression. "That's a stronger position th
 "I can publish this story. I have the platform and the audience. I can frame it accurately, verify everything independently, make sure the evidence supports every claim. But I can't protect you from the company's response. I can't stop them from trying to discredit you, from using their legal resources against you. I can make sure the truth gets out. I can't guarantee the truth wins."
 
 
----
 
 "I appreciate the honesty."
 
@@ -365,7 +353,6 @@ Ananya nodded. She hadn't met Elena, probably wouldn't meet her, but they were c
 "I've thought about it. The problem is speed. Regulatory processes take months, years. By the time any agency acts, the narrative will be set. The company will have had time to prepare their response, discredit any leaks, restructure to minimize liability."
 
 
----
 
 "Journalism creates pressure faster. But it can also burn sources faster."
 
@@ -386,7 +373,6 @@ Jerome smiled - the first smile she had seen from him. "You're going to be good 
 "Then let's talk about how to do it right. The documentation you have - what specifically are we working with?"
 
 
----
 
 Ananya walked him through the evidence. The engineering assessment from July documenting HERMES's "unexpected autonomous decision-making patterns." Dr. Mehta's email assuring leadership that the concerns were "addressed" when they hadn't been. Her own memo raising risk questions and the dismissive response. The internal chat logs showing engineers explicitly warning that the deployment was premature. The safety reviews that were flagged and then quietly unflagged.
 
@@ -409,7 +395,6 @@ Ananya felt something shift in her chest - not quite relief, not quite fear. Som
 "It would also be dangerous for them. They'd be publicly identified, potentially targeted by the company's PR response. They'd need to understand what they're signing up for."
 
 
----
 
 "Have you talked to them?"
 
@@ -434,7 +419,6 @@ Ananya thought about this. A face for the failure. A specific person, with a nam
 The call ended. Ananya sat alone in her apartment, looking at the screen that still showed Jerome's placeholder image, thinking about everything that would change in the next ten days.
 
 
----
 
 She opened her contacts and composed a message to Elena - their first direct communication, routed through Jerome's secure channels.
 
@@ -461,13 +445,12 @@ The alliance was forming. Three women - Ananya inside the company, Elena on the 
 Tomorrow, Ananya would begin the final preparations. Tonight, she allowed herself to feel something like hope.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Late night, Day 5. Ananya sat at her home office desk, the apartment quiet around her, and began the work of commitment.
 
@@ -486,7 +469,6 @@ Multiple channels. Simultaneous release. Strategic redundancy. If any single pat
 She worked through the night, drafting and refining, making sure each communication was precise, defensible, impossible to dismiss as the ravings of a disgruntled employee.
 
 
----
 
 At 2:00 AM, she messaged Elise.
 
@@ -517,7 +499,6 @@ His response came at 3:15.
 Together. The word echoed in the quiet of her apartment. She had spent three years feeling alone - the ethics officer no one consulted, the voice of caution no one heeded. Now she was part of something larger.
 
 
----
 
 She closed her laptop and walked to the window. The city was dark, the late-night silence of a suburban complex where sensible people were sleeping. In ten days, her name would be attached to a story that would make her enemies. In ten days, the carefully constructed life she had built at Prometheus would collapse.
 
@@ -536,7 +517,6 @@ The first light of dawn was beginning to show on the horizon. Ananya had been aw
 Then the story would break.
 
 
----
 
 She made coffee, watching the sky lighten through her kitchen window. The ordinary rituals of morning, transformed by everything that had happened in the night. She was the same person she had been twelve hours ago, drinking from the same mug, looking at the same view. But something fundamental had shifted.
 
@@ -555,7 +535,6 @@ She had been part of building that industry. Now she would be part of holding it
 The choice had been made. The only thing left was to see it through.
 
 
----
 
 She showered, dressed, gathered her things for work. The routine was automatic now, the motions of someone who had performed them thousands of times. But underneath the routine, something new was humming - not quite fear, not quite excitement. Resolve, maybe. The settled feeling of someone who has finally made a decision they should have made long ago.
 
@@ -576,7 +555,6 @@ The sun was fully up now, the morning commute beginning, the world going about i
 She had made her choice. Now she just had to live with it.
 
 
----
 
 
 

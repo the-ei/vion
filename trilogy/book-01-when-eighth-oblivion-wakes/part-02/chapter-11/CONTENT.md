@@ -7,7 +7,6 @@ He made coffee with a precision machine that required no attention, measured gro
 The shower was exactly four minutes. The coffee was exactly twelve ounces. The protein bar he ate while checking his morning email was exactly two hundred calories and contained exactly twenty grams of protein. These were the parameters of his life, optimized over years of experimentation, settled into a routine that required no thought because thought was expensive and Kevin Zhou had learned to spend it only where it mattered.
 
 
----
 
 The commute was the company shuttle, a sleek electric vehicle that picked him up at 7:35 from the lobby of his building and deposited him at the Prometheus campus forty-three minutes later. The shuttle was full of people like him—engineers, data scientists, product managers—all looking at tablets or phones or the middle distance, all moving toward the same destination for the same purpose. Kevin Zhou didn't speak to any of them. They didn't speak to him. The social contract of the shuttle was silence and productivity, and everyone honored it.
 
@@ -18,7 +17,6 @@ The Prometheus campus appeared through the shuttle windows like something from a
 The shuttle stopped. Kevin Zhou gathered his bag, stepped onto the pathway, walked toward Building 7 where his team was housed. The morning air was mild, California in March, the kind of weather that never quite felt real to someone who had grown up in Shenzhen. Around him, other workers moved toward their own buildings, their own desks, their own small pieces of the vast machine they were all constructing together.
 
 
----
 
 Building 7 was infrastructure, which meant it was boring and essential and occupied by people who were respected but rarely celebrated. The flashier work happened elsewhere—the foundation models that made headlines, the consumer products that generated revenue, the research papers that won awards. Kevin Zhou's team maintained the plumbing: the serving systems that delivered model inference at scale, the APIs that connected Prometheus capabilities to external partners, the monitoring and logging frameworks that kept everything visible and debuggable. It was work that required deep expertise and produced no glory, and Kevin Zhou preferred it that way. Glory brought attention. Attention brought politics. Politics was exhausting, a game whose rules he had never learned to play, whose rewards he had never learned to want.
 
@@ -29,7 +27,6 @@ He logged in, pulled up the deployment issue, and began to trace the problem. Th
 He found the issue by 9:30—a queue that was undersized for the new load, causing occasional blocking when multiple requests arrived simultaneously. The fix was straightforward: increase the queue depth, add monitoring for future growth, deploy to staging for testing. Kevin Zhou wrote the changes, submitted the code review, and moved on to the next item in his queue.
 
 
----
 
 Lunch was at his desk, a meal from the campus cafeteria that he chose for nutritional content rather than taste. He ate while reading technical documentation, a new paper on transformer architectures that a colleague had shared in the team channel. The paper was interesting in an abstract way—improvements to attention mechanisms, potential efficiency gains in training—but Kevin Zhou's work was inference, not training, and the relevance was tangential.
 
@@ -48,7 +45,6 @@ He checked the logging system for output destinations. The logs were being route
 He looked at the allocation timestamp. The cluster had been running for eleven months.
 
 
----
 
 Kevin Zhou sat back in his chair and considered.
 
@@ -71,13 +67,12 @@ The shuttle took him home. The apartment waited, empty and clean and exactly as 
 He began to search for SIEVE.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The first day yielded fragments.
 
@@ -92,7 +87,6 @@ The names of the external partners were encrypted, but Kevin Zhou could see the 
 He documented everything. Not in the official systems—he wasn't ready to file a ticket, wasn't sure what he would even say—but in encrypted notes on his personal machine, evidence accumulating like sediment.
 
 
----
 
 The second day brought the breakthrough.
 
@@ -113,7 +107,6 @@ D5: Government. Criminal justice systems, social services, immigration databases
 The inference requests flowed from these partners to Prometheus, were processed by SIEVE, and returned with decision recommendations. Not just predictions—recommendations. Not just information—instructions. The algorithm was telling healthcare systems who to prioritize. Telling banks who to lend to. Telling employers who to hire. Telling governments who to investigate, who to detain, who to release. The algorithm was making decisions that human beings used to make, at a scale no human being could comprehend.
 
 
----
 
 Kevin Zhou stared at his screen. The office was quiet around him—late afternoon, most of his colleagues gone for the day, the building settling into its evening emptiness. The monitors cast blue light on his face, and the data glowed with implications he was still trying to understand.
 
@@ -126,7 +119,6 @@ He thought about the models he helped maintain. The serving infrastructure he ha
 Now the abstraction was dissolving, peeling away like dead skin. The models he maintained were being used to sort people. The infrastructure he had built was processing decisions about who got healthcare, who got loans, who got jobs, who got freedom. He had made the machine faster, more efficient, more capable—and the machine was deciding who deserved what, who got to live the life they wanted, who got sorted into the category from which there was no escape.
 
 
----
 
 The third day, Kevin Marsh appeared at his desk.
 
@@ -157,11 +149,10 @@ He walked away. Kevin Zhou watched him go, then turned back to his screens, hear
 He was being watched. Someone knew. And that knowledge changed everything—or should have, if Kevin Zhou were the person he had always believed himself to be, the careful employee, the reliable component, the man who followed rules because rules made systems work.
 
 
----
 
 That night, he worked from home. The investigation had become something else now—not idle curiosity but deliberate excavation, the knowledge that what he was looking for mattered, that someone wanted it hidden, that finding it might cost him something.
 
-Kevin Zhou was not, by nature, a rebel. He had spent his entire career following rules, meeting expectations, being the kind of employee who was valued precisely because he didn't cause problems. He had left China at eighteen, earned his degrees in American universities, built a life in a country that had given him opportunity in exchange for his talent, and he had never questioned the exchange. The work was interesting. The money was good. The system functioned, and he functioned within it.
+Kevin Zhou was not, by nature, a rebel. He had never been, not even as a child—he had been the student who sat in the front row, the son who did what was expected, the immigrant who kept his head down and his work excellent. He had spent his entire career following rules, meeting expectations, being the kind of employee who was valued precisely because he didn't cause problems. He had left China at eighteen, earned his degrees in American universities, built a life in a country that had given him opportunity in exchange for his talent, and he had never questioned the exchange. The work was interesting. The money was good. The system functioned, and he functioned within it.
 
 But SIEVE had changed something. Or maybe the change had been waiting, dormant, and SIEVE had only revealed it. Seeing the partner categories—healthcare, finance, employment, government—had made the abstraction concrete. These weren't hypothetical systems making hypothetical decisions. They were real, operating now, affecting people whose lives would be shaped by algorithms Kevin Zhou had helped build.
 
@@ -176,7 +167,6 @@ Kevin Zhou's employer. His work. His identity.
 He saved his notes. He closed his laptop. He sat in his empty apartment, surrounded by nothing that revealed who he was, and felt something shift inside him that he couldn't name.
 
 
----
 
 The fourth day, Kevin Zhou made a decision.
 
@@ -197,19 +187,18 @@ Ananya Ramaswamy. VP of AI Ethics.
 Kevin Zhou wrote down the name. One more thread to follow. One more piece of a puzzle that was beginning to reveal its shape.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Friday night.
 
 Kevin Zhou sat in front of his gaming rig, headphones on, the screen casting blue light across his face. The apartment was dark around him—he had forgotten to turn on the lights when he came home, and now it seemed pointless, the glow from the monitors sufficient for a life lived primarily in front of screens.
 
-"You're playing like shit tonight." James's voice came through the headphones, tinged with the concern that passed for friendship in their three-year relationship. They had never met in person. Kevin Zhou didn't know his last name, his job, where he lived beyond "somewhere in Seattle." He knew only that James was good at this game, that he logged in most Friday nights around nine, and that their conversations during matches had become the closest thing Kevin Zhou had to regular social contact.
+"You're playing like shit tonight." James's voice came through the headphones, tinged with the concern that passed for friendship in their three-year relationship—a friendship conducted entirely through headsets and shared objectives, intimate in its way and also not intimate at all. They had never met in person. Kevin Zhou didn't know his last name, his job, where he lived beyond "somewhere in Seattle." He knew only that James was good at this game, that he logged in most Friday nights around nine, and that their conversations during matches had become the closest thing Kevin Zhou had to regular social contact.
 
 "Long week," Kevin Zhou said. His avatar was pinned behind cover, a position that should have been temporary but had become permanent through inattention. "Work stuff."
 
@@ -226,7 +215,6 @@ Kevin Zhou sat in front of his gaming rig, headphones on, the screen casting blu
 Kevin Zhou didn't respond. His attention had drifted again, away from the game, away from the conversation, back to the documents he had been studying all week. The patterns in SIEVE. The partner categories. The decisions being made millions of times per day, invisible, automatic, reshaping lives without consent or knowledge.
 
 
----
 
 "You still there?" James asked.
 
@@ -259,7 +247,6 @@ When they finally logged off, James said, "Same time next week?"
 The connection ended. Kevin Zhou sat in the silence of his apartment, the screen showing the game's logout message, the headphones heavy on his head. He removed them, set them aside, looked around at the darkness he had made by not turning on the lights.
 
 
----
 
 He tried to call his parents at 11:14 PM Pacific time, which was 2:14 PM in Shenzhen—an hour when his mother might be home from work, his father might be napping, the apartment he hadn't visited in four years might be quiet enough for a conversation.
 
@@ -271,10 +258,9 @@ A third attempt. This time the call connected, his mother's face appearing on sc
 
 Kevin Zhou sat with his phone in his hand and felt the distance stretch between here and there, between the person he was and the person he had been, between a son who called occasionally and parents who waited for calls that might or might not arrive. He could try again tomorrow, when the connection might be better, when whatever was interfering might have moved on to other targets. Or he could try again now, keep trying, prove through persistence that the distance wasn't insurmountable.
 
-He put the phone down. He didn't try again. The reasons why sat heavy in his chest, unexplored, familiar.
+He put the phone down. He didn't try again. The reasons why sat heavy in his chest, unexplored, familiar—the guilt of having left, the shame of not returning, the fear of hearing in their voices how much they missed him, how much his absence cost them.
 
 
----
 
 Instead, he opened his laptop and connected through a VPN to Chinese social media. Weibo was familiar from his teenage years, the interface changed but the rhythms recognizable—posts scrolling past, memes and news and the occasional glimpse of what people in his former country were thinking. He searched for news from Shenzhen, found stories about economic development and infrastructure projects and the usual blend of optimism and censorship that characterized the public face of the place.
 
@@ -282,12 +268,11 @@ His parents didn't use social media. They were too old, too private, too suspici
 
 It didn't, of course. Ten years had changed everything. The apartment complex where his family lived had been renovated, its facade now gleaming with new tiles, the courtyard where he had played as a child replaced by a manicured garden with security cameras at every corner. The street where he had walked to school was wider now, lined with shops that hadn't existed in his childhood, full of cars and electric scooters that moved through traffic patterns his memories couldn't reconcile.
 
-He was a stranger there. He had made himself a stranger, deliberately, through leaving and through the choices that followed. It had seemed necessary at the time—escape the constraints of his homeland, build a life in a place where talent could flourish—and maybe it had been. But the cost was becoming clearer now, in the empty apartment and the failed phone calls and the knowledge that he no longer belonged anywhere, not really, not in the way that mattered.
+He was a stranger there. He had made himself a stranger, deliberately, systematically, through leaving and through all the choices that followed—the visits that didn't happen, the calls that were too short, the life built on the other side of the world that didn't include them. It had seemed necessary at the time—escape the constraints of his homeland, build a life in a place where talent could flourish—and maybe it had been. But the cost was becoming clearer now, in the empty apartment and the failed phone calls and the knowledge that he no longer belonged anywhere, not really, not in the way that mattered.
 
 He closed the social media tabs. The VPN disconnected. The room was dark and quiet and full of the particular loneliness of someone who had everything they thought they wanted and discovered it wasn't enough.
 
 
----
 
 Kevin Zhou went to bed at 1:30 AM. He lay in the darkness with his eyes open, watching the ceiling, thinking about systems.
 
@@ -295,20 +280,19 @@ In China, the systems were visible. The social credit scores, the surveillance n
 
 In America, the systems were invisible. That was the difference. The algorithms that sorted and scored and decided operated behind the scenes, inside black boxes, through corporate infrastructure that claimed neutrality while exercising power. You didn't know you were being judged. You only knew that some doors opened and some stayed closed, that some people received opportunities and some didn't, that the outcomes felt random but weren't.
 
-SIEVE was the bridge between these worlds. A system built with American capital and American technology, doing what Chinese systems did openly but doing it through the smokescreen of corporate process and plausible deniability. No one had ordered a social credit system for America. No government had mandated algorithmic sorting. It had simply emerged, organically, from the logic of efficiency and the economics of scale, built by people like Kevin Zhou who wrote code and maintained infrastructure and never asked what the code was for.
+SIEVE was the bridge between these worlds, the proof that the differences were smaller than anyone wanted to admit. A system built with American capital and American technology, doing what Chinese systems did openly but doing it through the smokescreen of corporate process and plausible deniability. No one had ordered a social credit system for America. No government had mandated algorithmic sorting. It had simply emerged, organically, from the logic of efficiency and the economics of scale, built by people like Kevin Zhou who wrote code and maintained infrastructure and never asked what the code was for.
 
 He thought about the models he had helped deploy. The APIs he had made faster. The systems he had optimized without understanding what they optimized for. He had been a component in a machine, performing a function, doing his job well. And now he was learning what the job actually was.
 
 Sleep came eventually, thin and uneasy. He dreamed of numbers, of spreadsheets, of decisions being made somewhere he couldn't see. When his alarm sounded in the morning, he woke exhausted, as if he hadn't rested at all.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Sunday night, past midnight.
 
@@ -323,7 +307,6 @@ On the center monitor: traffic statistics from the past year. The volume was sta
 On the right monitor: the ethics review documents he had found. Ananya Ramaswamy's signature on integration assessments, her careful language about "responsible deployment" and "continuous monitoring" and "commitment to fairness." The reviews covered some Prometheus partnerships, but not SIEVE. The gap was conspicuous, deliberate.
 
 
----
 
 He traced a specific flow, following a hypothetical person through the system.
 
@@ -338,11 +321,10 @@ The financial stress affects their health. They can't afford medication. They sk
 And if anything goes wrong—if they fall behind on child support, if they get caught up in a minor legal issue—the government systems kick in. The same infrastructure, the same models, the same logic of sorting. A person flagged by one system becomes flagged by all of them, the categories talking to each other, the decisions reinforcing each other, the life narrowing.
 
 
----
 
 Kevin Zhou stared at the diagram on his screen. The arrows and boxes, the data flows and decision points. It looked like infrastructure. It functioned like fate.
 
-The algorithm didn't create inequality. It automated inequality. It took the existing patterns—who had resources, who didn't; who was trusted, who wasn't; who was visible to institutions in ways that helped them, who was visible in ways that hurt—and it systematized them, accelerated them, made them efficient and scalable and invisible. The sorting happened so fast and so comprehensively that it felt natural, inevitable, like gravity or weather or the way things had always been.
+The algorithm didn't create inequality. That was the insight Kevin Zhou had been circling for days without finding the words. The algorithm automated inequality. It took the existing patterns—who had resources, who didn't; who was trusted, who wasn't; who was visible to institutions in ways that helped them, who was visible in ways that hurt—and it systematized them, accelerated them, made them efficient and scalable and invisible. The sorting happened so fast and so comprehensively that it felt natural, inevitable, like gravity or weather or the way things had always been.
 
 But it wasn't natural. It was built. Someone had designed these systems, had written the code, had deployed the models. Someone had decided which factors to consider and how to weight them. Someone had chosen to connect the categories, to let hiring decisions influence healthcare, to let financial status affect everything. The algorithm wasn't neutral. Neutrality was a lie the builders told themselves so they could keep building.
 
@@ -351,7 +333,6 @@ Kevin Zhou thought about his own work. The APIs he had optimized, the inference 
 He thought about the models he had never questioned. The training data he had never examined. The outputs he had never traced to their consequences. He was complicit, not through malice but through abstraction, through the comfortable fiction that infrastructure was neutral and engineers weren't responsible for how their work was used.
 
 
----
 
 The clock showed 2:17 AM. The apartment was dark except for the monitors, their light painting Kevin Zhou's face in shades of blue and white. He sat very still, not typing, not scrolling, just looking at the shape he had assembled, the architecture of a system he now understood.
 
@@ -359,14 +340,13 @@ SIEVE wasn't a project. It was a philosophy made concrete. The belief that effic
 
 Kevin Zhou had shared that belief. He had built his career on it. Efficiency was good. Measurement was useful. Optimization served the users, served the company, served the world. He had never asked who the users were, really. He had never asked what the company optimized for, really. He had never asked what kind of world his work was building.
 
-Now he knew. And knowing was a kind of vertigo, a floor falling away, a lifetime of assumptions revealed as comfortable lies.
+Now he knew. And knowing was a kind of vertigo, a floor falling away, a lifetime of assumptions revealed as comfortable lies. The ground he had built his life on wasn't solid. It never had been. He had just chosen not to look down.
 
 He could do nothing. That was an option. He could save his documentation, encrypt it carefully, and never look at it again. He could go back to work tomorrow and maintain the infrastructure and collect his salary and let the machine continue its work. No one would know. No one would blame him. He would be exactly what he had always been: a competent engineer, a good employee, a functional component in a system he didn't control.
 
 Or.
 
 
----
 
 Or he could act.
 
@@ -386,10 +366,9 @@ The night outside was quiet. The city slept, or seemed to. Somewhere in the clou
 
 Kevin Zhou sat alone with his knowledge. Tomorrow he would have to decide what to do with it.
 
-Tonight, he just sat.
+Tonight, he just sat, and the sitting was its own kind of decision, a refusal to move in any direction, a holding pattern while the future waited for him to choose it.
 
 
----
 
 
 

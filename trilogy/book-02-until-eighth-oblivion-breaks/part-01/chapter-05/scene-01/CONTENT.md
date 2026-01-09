@@ -11,7 +11,6 @@ The chief counsel's name was Thomas Merrick, and he had the carefully bland face
 "The senator, as you know, is not available. I can convey your questions to her team and provide what background I can on the Judiciary Committee's work following the Prometheus hearings."
 
 
----
 
 "Following the hearings" was a generous way to describe what had happened. Jerome took out his notebook - old habit, even though he also recorded on his phone - and prepared to document another exercise in institutional evasion.
 
@@ -30,7 +29,6 @@ Jerome had been a journalist for twenty-three years. He knew what these words me
 Merrick's expression didn't change. "I can't speak to what individual experts feel. What I can tell you is that the committee takes these matters seriously."
 
 
----
 
 Jerome spent another ten minutes extracting variations of the same non-answer. The committee was engaged. The process was ongoing. Concerns had been raised and recommendations had been made. The language was impeccable - Merrick had been trained to speak in sentences that conveyed institutional gravity without committing to anything specific, sentences that could appear in Jerome's reporting without damaging anyone.
 
@@ -43,7 +41,6 @@ He had three more meetings scheduled - two with other committee staffers, one wi
 At the DOJ meeting, something different happened.
 
 
----
 
 The source was a career attorney named Michelle Torres - not the senior official Jerome had hoped for, but someone with access to information he needed. They met in a coffee shop two blocks from the Justice Department building, the kind of neutral ground where official and unofficial conversations happened daily.
 
@@ -72,7 +69,6 @@ Michelle looked at him with the particular exhaustion of people who worked insid
 "Because I read your reporting. Because I thought it would matter. And it didn't. And I need someone to know that it didn't because they made sure it wouldn't."
 
 
----
 
 They talked for another fifteen minutes. Michelle couldn't or wouldn't provide the specifics that would make her claims publishable. She left first, nervous and unresolved, and Jerome sat alone with his coffee, thinking about what he had just heard.
 
@@ -89,5 +85,4 @@ Now he was not sure. The truth had been told. The exposure had happened. And pow
 He needed to see his mother. He needed to remember what care looked like, what limits felt like, what it meant to be present with someone who was losing everything and could not be saved by reporting.
 
 
----
 

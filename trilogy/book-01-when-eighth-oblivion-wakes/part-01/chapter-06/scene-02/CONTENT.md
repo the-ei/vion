@@ -21,7 +21,6 @@ DeShawn was quiet for a moment, weighing the offer. "Okay. What do you want to k
 DeShawn minimized his interview prep and opened a different file. A web application, clean and spare. "It's a prediction market aggregator. You know what prediction markets are?"
 
 
----
 
 "Betting on outcomes. Elections, sports, whatever."
 
@@ -40,7 +39,6 @@ Jerome listened as DeShawn explained the architecture: the data pipelines, the n
 Jerome heard echoes in this. The same logic of modeling and prediction that his source was describing at Prometheus. The faith that data could reveal patterns, that patterns could anticipate behavior, that anticipation was a form of control.
 
 
----
 
 "And Prometheus," Jerome said, carefully. "What's the connection?"
 
@@ -65,7 +63,6 @@ Here it was. The moment Jerome had been dreading and moving toward. DeShawn's ex
 "You say it constantly. Not in those words, but in how you talk about the industry. Like everyone who works in tech is either a villain or a dupe. Like the only moral position is to stand outside and criticize."
 
 
----
 
 Jerome felt himself being drawn into the old patterns, the argument that went nowhere because both of them were defending more than positions. They were defending themselves.
 
@@ -90,7 +87,6 @@ The door opened in Jerome's peripheral vision. Denise, drawn by the volume.
 He pushed past his mother and disappeared down the hallway. His bedroom door slammed with the particular finality of teenage anger.
 
 
----
 
 Jerome sat on the edge of DeShawn's bed, alone now, the argument's wreckage around him.
 
@@ -121,7 +117,6 @@ He looked at her. "What do you mean?"
 Jerome wanted to argue. Wanted to defend himself, his methods, his career of necessary criticism. But the words wouldn't come. Something in what Denise said had found its target.
 
 
----
 
 "I don't know how to stop worrying," he said finally.
 
@@ -158,5 +153,4 @@ Still nothing. Jerome stood in the hallway, his apology absorbed by the door bet
 "I love you," he said to the door, to the silence, to his son who was not listening. Then he went to pack.
 
 
----
 

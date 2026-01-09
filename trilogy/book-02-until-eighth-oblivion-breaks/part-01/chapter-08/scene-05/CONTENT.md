@@ -11,7 +11,6 @@ She stands by her car, not yet ready to open the door, to start the engine, to d
 The anniversary is over. One year.
 
 
----
 
 She thinks about what she has seen. The patients carrying trauma in their bodies. Sarah Kim, awake now in the psychiatric unit, facing whatever comes next. Dr. Osei, who will do this again tonight, and the night after, and the night after that.
 
@@ -26,7 +25,6 @@ Not a plan. Not a solution. Just clarity.
 She cannot heal the system. The system is not her patient. She can only do what she does - see the bodies that arrive, treat the symptoms she can treat, bear witness to the suffering she cannot prevent.
 
 
----
 
 But seeing is not nothing.
 
@@ -51,5 +49,4 @@ The heat builds.
 Something is coming.
 
 
----
 

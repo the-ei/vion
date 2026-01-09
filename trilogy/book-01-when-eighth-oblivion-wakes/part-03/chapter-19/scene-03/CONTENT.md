@@ -11,7 +11,6 @@ The dining room table was set for three. Denise was carrying serving dishes from
 Jerome sat down, unfolded his napkin, looked at the food his wife had made. "I'm not sure yet."
 
 
----
 
 They ate in the rhythm of family dinners, the ritual that had held them together through decades of stories breaking and deadlines missed and sources going dark: Denise's stories from school, where she taught high school English to teenagers who texted more than they talked, whose attention spans had fragmented into confetti; DeShawn's update on his coding projects, the app he was building that would help students organize study groups. Jerome listened and nodded and asked appropriate questions, but part of him remained upstairs with the video, with the interviews, with the phrase that kept circling in his mind.
 
@@ -30,7 +29,6 @@ He looked at his wife, at his son, at the meal she had made to call him back fro
 The reaction was immediate and unexpected. Denise looked blank—the phrase meant nothing to her. But DeShawn's eyes widened with recognition.
 
 
----
 
 "That video?" DeShawn said. "That's been around for weeks."
 
@@ -45,7 +43,6 @@ Jerome felt something shift in his understanding. He had been treating the video
 "That's not really the question." DeShawn spoke with the easy authority of someone who lived in the information environment his father studied from outside, a native speaker of a language Jerome had learned too late. "Belief isn't binary anymore. People can think something is probably fake and still share it because it's interesting. Or they can think it's probably true and share it ironically. The frame matters more than the content."
 
 
----
 
 Denise was watching them both, her expression growing more concerned. "What is this video? What's it about?"
 
@@ -66,7 +63,6 @@ Silence settled over the table. The jerk chicken cooled on its platter. Outside,
 "Dad." DeShawn was looking at him with an expression Jerome couldn't quite read. "Does it matter? If you can't do anything about it, does it matter whether the video is true?"
 
 
----
 
 The question hit Jerome like a blow to the chest. It was the question he had spent his entire career trying to make irrelevant, the question that undermined the very purpose of journalism, of his life's work. Truth matters. Truth always matters. The words he had repeated to himself through all the years of struggle, all the stories killed and sources burned and colleagues laid off. But here was his son, seventeen years old, fluent in an information environment where truth was just another variable, asking whether it mattered at all.
 
@@ -81,5 +77,4 @@ It was a joke, or meant to be, the way Denise always used lightness to carry wei
 He ate the chicken. He cleared the table. He told Denise the meal was wonderful. And then he went back upstairs to his office, because he still needed to know.
 
 
----
 

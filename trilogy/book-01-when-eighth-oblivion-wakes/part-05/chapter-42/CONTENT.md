@@ -11,7 +11,6 @@ Ananya would arrive first. She always did.
 Ruth thought about the year that had passed. The congressional testimony, the resignation, the loss of Susan, the grief that had reshaped her. She was not the same person who had sat in that briefing room twelve months ago. No one who had seen what she had seen could be.
 
 
----
 
 The doorbell rang at exactly eight. Ananya, as predicted.
 
@@ -34,7 +33,6 @@ Ananya considered the question. "Strange. A year seems like nothing and everythi
 Ruth nodded slowly. "That's why we're doing this."
 
 
----
 
 The others arrived in a cluster - Gordon Hewitt, a former FTC commissioner in his seventies, white-haired and sardonic; Thomas Price, a systems engineer in his thirties who'd worked at three of the major AI labs and left each one over concerns no one would listen to. Yuki Tanaka appeared on the screen, calling from her apartment in Arlington, still employed at the agency but increasingly operating on the margins of official policy.
 
@@ -49,7 +47,6 @@ Gordon went first. He'd been tracking the regulatory response to the crisis - or
 "Because it is," Ananya said. "Existential for their business model, anyway. Meaningful oversight would require fundamental changes they're not willing to make."
 
 
----
 
 Thomas spoke next, his engineer's precision cutting through the political analysis. "The technical developments are moving faster than the policy discussion. I've been tracking three new capability advances that were announced last month. None of them would have triggered the crisis we saw - but none of them would have prevented it either. The failure modes are still there. They're just being packaged differently."
 
@@ -66,7 +63,6 @@ Ananya's expression was complicated. "They accepted my resignation three weeks a
 "That's exactly what we need." Ruth felt the group cohering around purpose. "We're not going to prevent the Eighth Oblivion - whatever it is, whenever it comes. Our job is to see it coming. To understand the signs. To be ready to act if there's a moment when action matters."
 
 
----
 
 The meeting continued for another hour. They reviewed the monitoring protocols Thomas had developed, discussed the sources Yuki was cultivating within the agencies, planned for Gordon's meeting with a senator who might still be persuaded. The work was detailed, unglamorous, the opposite of the dramatic interventions that made headlines.
 
@@ -85,7 +81,6 @@ Ananya smiled. "I could use a second coffee."
 They gathered their coats and stepped out into the spring morning, the city bright around them.
 
 
----
 
 The walk took them through the edge of Golden Gate Park, past runners and dog walkers and the ordinary traffic of a Tuesday morning. Ruth set a slow pace - her joints complained these days, though she didn't mention it.
 
@@ -110,13 +105,12 @@ Ananya was quiet for a moment. "My daughter, partly. She asked me what the point
 "I've chosen to try. We'll see if it makes a difference."
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Three hours earlier on the East Coast, Jerome Washington was already deep into his workday. The Baltimore morning had been warm for late March, the kind of warmth that suggested spring was finally arriving rather than just threatening to. He had opened the window in his office to let the air in, and now a light breeze moved through the room, carrying the smell of someone's lawn being mowed.
 
@@ -133,7 +127,6 @@ Jerome leaned back in his chair, considering. He had been operating independentl
 "What does 'more formally connected' look like?"
 
 
----
 
 "Regular briefings. Access to our analysis. A relationship where we share what we're seeing and you share what you're reporting on - not before publication, but as part of a conversation about what matters."
 
@@ -158,7 +151,6 @@ Jerome smiled. The question was genuine - Ananya had met his son once, during on
 "Coming to visit next week. I'm looking forward to it."
 
 
----
 
 After the call, Jerome returned to his document. The piece was about the technical developments that had emerged since the crisis - the new AI systems being deployed, the claims being made about their safety, the gaps between what companies said and what researchers observed. Ruth's group was tracking some of this; Jerome was tracking other parts. Together they might build a picture that neither could see alone.
 
@@ -173,7 +165,6 @@ He typed back: Good luck. Tell me how it goes.
 The exchange was small, ordinary, the kind of thing fathers and sons texted each other a thousand times. But it meant something to Jerome - the renewed connection, the mutual respect that had emerged from honest disagreement.
 
 
----
 
 At noon, he took a break. Made himself lunch - a sandwich, nothing elaborate. Ate at his desk while scrolling through the day's developments. The news cycle had moved on from the crisis to other concerns - elections, economic indicators, the latest cultural controversy. The Eighth Oblivion had become background noise, a reference point for think pieces rather than an urgent threat.
 
@@ -190,7 +181,6 @@ He returned to his document, the words accumulating, the story taking shape. The
 The work continued. That was enough.
 
 
----
 
 In the early afternoon, Jerome saved his draft and closed the laptop. The piece needed another day or two before it would be ready. There was no rush - the story would still be there tomorrow, and the day after, and the day after that. The urgency of the crisis had faded; what remained was the steady work of keeping watch.
 
@@ -207,13 +197,12 @@ Not complacency. Not false hope. Just presence.
 The vigil could wait until tomorrow.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The screening room at Pacific Sound Studios seated thirty people, but today only fifteen chairs were occupied. A select audience for a select preview - the video series that Delphine had spent the past year making, about to be seen by strangers for the first time.
 
@@ -228,7 +217,6 @@ The first episode established the stakes. Archive footage of the crisis, the hea
 Beside her, Jessie squeezed her hand. They had watched these episodes together dozens of times during editing. But this was different. This was the work meeting the world.
 
 
----
 
 Delphine watched herself watching. A documentary filmmaker's occupational hazard - the constant self-observation, the awareness of framing even when you were the one being framed.
 
@@ -243,7 +231,6 @@ The network had pushed back on this episode more than any other. "Too negative,"
 But she'd held the line. Fairness wasn't about giving equal time to accurate and inaccurate claims. Fairness was about showing the truth as clearly as she could see it.
 
 
----
 
 Episodes four and five blended together in her mind - a meditation on consequences and possibilities, on what the crisis had revealed about the world they were building. She had tried to be neither utopian nor dystopian, to hold both hope and concern without collapsing into either.
 
@@ -258,7 +245,6 @@ The credits rolled. The lights came up slowly.
 For a moment, no one spoke. Then someone started clapping - a woman in the front row - and others joined in. Not thunderous, not standing ovation. Just the polite appreciation of people who had seen something they needed to process.
 
 
----
 
 Delphine stood as the audience began to leave, Jessie beside her. A few people approached to offer comments - the polished compliments of industry professionals who might or might not have meant what they said. She smiled, thanked them, filed away their observations for the post-mortem she would conduct with her team.
 
@@ -279,7 +265,6 @@ Delphine reached out, touched the woman's arm. "What was your sister's name?"
 The woman nodded, wiped her eyes, thanked her again, and walked away. Jessie squeezed Delphine's hand.
 
 
----
 
 "That's why you do it," Jessie said softly. "That right there."
 
@@ -304,7 +289,6 @@ It was simple advice, the kind Jessie always gave, and as always it was what Del
 "Let's go home," she said.
 
 
----
 
 On the drive, Delphine thought about the woman whose sister had died. Amanda. Thirty-two. A nurse. One of the statistics that were also people, that had to be people or nothing meant anything.
 
@@ -321,13 +305,12 @@ But she was thinking about it. The vigil continuing in a different form.
 For now, she drove toward home, toward Theo and dinner and the ordinary life that waited on the other side of the workday. The series was finished. What came next was still unknown.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Evening settled over four cities at once.
 
@@ -344,7 +327,6 @@ The lights of the city were coming on, one by one, in windows she could see and 
 Someone had to be watching. Ruth had accepted that she would be one of those someones.
 
 
----
 
 In Baltimore, Jerome and Denise sat down to dinner at the table they'd bought fifteen years ago when they first moved into this house. Roast chicken tonight, green beans, the kind of meal that took longer to make than to eat and was worth every minute.
 
@@ -361,7 +343,6 @@ Across the table, Denise caught Jerome's eye and smiled. Something had shifted i
 The evening stretched ahead, ordinary and precious. Tomorrow Jerome would return to his work, would continue tracking the story that never ended. Tonight he was just a man at dinner with his family, grateful for roast chicken and spring light and the tentative peace that had grown from honest disagreement.
 
 
----
 
 In Los Angeles, Delphine and Jessie put Theo to bed together - the routine that had anchored their days through everything, through the crisis and its aftermath and the long months of making a documentary that was finally done.
 
@@ -384,7 +365,6 @@ Delphine thought about the woman at the screening. Amanda. Thirty-two. A nurse. 
 It wasn't enough. It would have to be enough.
 
 
----
 
 In Palo Alto, Ananya sat in her home office, surrounded by documents that now meant something different than they had a month ago. Not just evidence - resources. Tools for the watching she had committed to, the vigil she had joined.
 
@@ -399,7 +379,6 @@ The Eighth Oblivion had not occurred. But it had woken - hence the book's title,
 Through her window, she could see the sky darkening from blue to purple to black. Stars appearing, one by one. The universe continuing its indifferent expansion while humans on one small planet tried to stay awake, to pay attention, to do what they could with what they knew.
 
 
----
 
 The night came on, as it always did. Spring darkness softer than winter's, carrying the first hints of the warmth to come. In four cities, four people settled into their evenings - reading, talking, sleeping, simply being.
 
@@ -416,7 +395,6 @@ And in four cities, on the last night of the story's first chapter, four people 
 The vigil continued.
 
 
----
 
 
 

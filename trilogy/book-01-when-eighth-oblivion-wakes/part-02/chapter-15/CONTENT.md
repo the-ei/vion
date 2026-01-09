@@ -19,7 +19,6 @@ Here it was. The pivot disguised as concern.
 "That's what I like to hear." Marsh smiled, and Kevin Zhou catalogued the smile: warm but watchful, the expression of someone who had learned to deploy warmth strategically.
 
 
----
 
 "You know, senior leadership has been noticing your work," Marsh said. He let the words land, watching Kevin Zhou's face for a reaction. "Not just the authentication stuff. Your curiosity. The questions you ask."
 
@@ -40,7 +39,6 @@ Expanded responsibility. The phrase was HR-speak, meaningless until filled with 
 "I'm always interested in growing," he said. "What kind of projects?"
 
 
----
 
 Marsh's smile broadened, and Kevin Zhou saw what was beneath it: satisfaction. The hook had been set.
 
@@ -61,7 +59,6 @@ Behind the curtain. Kevin Zhou thought about what he'd found: the undocumented d
 Just information. Kevin Zhou had spent enough time with data to know that information was never just anything. Information was power, leverage, obligation. Whatever Marsh was offering, it came with invisible strings.
 
 
----
 
 "That sounds reasonable," Kevin Zhou said. "I'd like to learn more."
 
@@ -92,7 +89,6 @@ What would his parents think, if they knew? What would they say?
 He pushed the thought away. His parents were in Beijing, their conversations reduced to monthly video calls where no one said anything real. They couldn't help him with this. No one could.
 
 
----
 
 The afternoon passed in a blur of code he barely saw. His fingers moved through familiar patterns - refactoring a function here, writing a test there - while his mind circled the conversation with Marsh like a satellite in decaying orbit, pulled inexorably toward impact.
 
@@ -119,13 +115,12 @@ The evening stretched ahead of him, empty as always. He thought about gaming, di
 Instead he sat in darkness, watching the city lights through his window, waiting for something to change.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Three days later, Kevin Zhou stood in front of Building Seven. From outside it looked like any other structure on the Prometheus campus: glass and steel, clean lines, the architectural language of optimism that characterized Silicon Valley's self-image. But Building Seven had no windows on its upper floors. Where other buildings blazed with light after dark, this one went dark. Kevin Zhou had walked past it hundreds of times without really seeing it.
 
@@ -142,7 +137,6 @@ The second checkpoint was different. Here, they surrendered their phones. Kevin 
 "All set," the guard said. "Dr. Lin is expecting you."
 
 
----
 
 Dr. Sarah Lin met them in the anteroom. She was younger than Kevin Zhou had expected - mid-thirties, perhaps - with the kind of energetic confidence that suggested she had risen quickly and intended to keep rising. Her handshake was firm, her eye contact direct, her smile genuine in a way that made Kevin Zhou uneasy. She believed in what she was doing. That was clear immediately.
 
@@ -159,7 +153,6 @@ The space opened before him like a cathedral of technology. The ceiling rose two
 "Welcome to the heart of Prometheus," Dr. Lin said. "Where we build the future."
 
 
----
 
 They walked through the space slowly, Dr. Lin narrating as they went. Kevin Zhou listened with the focus he brought to debugging code, catching every detail, storing it for later analysis. The tour was clearly rehearsed - she had given it before, probably many times - but her enthusiasm seemed unperformed. She loved this work.
 
@@ -176,7 +169,6 @@ Dr. Lin's eyes lit up. "Exactly. You see it. One system that understands pattern
 Help them decide better. Kevin Zhou heard the phrase and translated: we can make them decide what we want.
 
 
----
 
 They stopped at a series of screens displaying different applications. Dr. Lin walked Kevin Zhou through each one with the pride of a parent showing off children's achievements.
 
@@ -197,7 +189,6 @@ Dr. Lin smiled, pleased by the technical question. "Proprietary, of course. But 
 Defensible but still drive the outcomes we want. Kevin Zhou heard the phrase and understood: the algorithm learned to discriminate in ways that couldn't be proven to be discrimination.
 
 
----
 
 The third screen showed labor management algorithms - what they called WorkFlow internally. Kevin Zhou recognized fragments of what he'd traced before: the systems that managed gig workers, optimizing their tasks, their schedules, their compensation. But here he saw the full picture. The algorithm didn't just assign work; it studied workers. It tracked their breaking points. It learned how much pressure each individual could take before performance degraded, and it pushed them to just below that threshold.
 
@@ -220,7 +211,6 @@ Kevin Zhou stared at the map, watching the colors shift. He thought about what a
 "Impressive," he heard himself say. "Really impressive."
 
 
----
 
 The tour continued. Dr. Lin showed him more screens, more applications, more ways the unified prediction engine could be deployed. Financial risk assessment. Criminal justice recommendations. Educational tracking. Immigration screening. Each application drew from the same foundational models, each adding to the system's understanding of human behavior. The data flowed between domains, cross-pollinating, making every prediction more accurate by learning from every other prediction.
 
@@ -241,7 +231,6 @@ Dr. Lin nodded, unsurprised. "That's the response I want to hear. Smart people d
 The words landed with invisible weight. More people who ask questions. Inside the clean room, where the questions were sanctioned, where the answers were pre-approved, where curiosity was channeled into the service of the machine.
 
 
----
 
 Kevin Marsh retrieved their phones from the locker. Kevin Zhou felt his device's weight in his pocket like a familiar presence, welcomed and watched simultaneously. They walked back through the mantraps, the corridors, the checkpoints. With each door that opened, the ordinary world reasserted itself: the corporate lighting, the living walls of ferns, the employees walking past with coffee cups and laptops, oblivious to what hummed behind the walls of Building Seven.
 
@@ -266,13 +255,12 @@ Kevin Zhou started his car and sat in the parking garage, engine idling, air con
 He thought about what it would mean to say yes.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Night.
 
@@ -297,7 +285,6 @@ On the screen, his avatar died again.
 Kevin Zhou logged off early, pleading exhaustion. The Discord call continued without him, voices he could no longer hear debating strategy for a game he no longer cared about. He sat in his gaming chair, headset off, screen dark, surrounded by equipment that had cost thousands of dollars and provided no comfort.
 
 
----
 
 The apartment was silent except for the hum of the computer's cooling fans. Kevin Zhou's reflection stared back at him from the dark center monitor. He looked tired. He looked like someone carrying a weight they couldn't put down.
 
@@ -324,7 +311,6 @@ Behind her, he could see the apartment he'd grown up in - smaller than he rememb
 The conversation proceeded along its familiar grooves. His mother asked about his work; he said it was going well. She asked about his health; he said he was fine. She asked if he was eating properly; he said yes, even though he'd microwaved dinner again tonight. These were the questions they always asked, the answers they always gave. The ritual of connection in the absence of actual connection.
 
 
----
 
 "Your father planted tomatoes," his mother said, turning the phone to show a glimpse of the balcony garden. Red fruits among green leaves. "He said to tell you they're growing well."
 
@@ -363,7 +349,6 @@ The conversation continued for a few more minutes, circling around nothing. Kevi
 The call ended. The screen went dark.
 
 
----
 
 Kevin Zhou sat in his apartment, surrounded by expensive electronics and empty space. The silence was total. No gaming voices, no parental connection, no ambient life. Just him and the hum of machines.
 
@@ -384,7 +369,6 @@ He was part of that machine. He'd been part of it for years, building authentica
 The clean room had destroyed that illusion. He'd seen where the infrastructure led. He'd seen what the applications did. And now he had to decide what to do with that knowledge.
 
 
----
 
 He could refuse the promotion. Stay where he was. Keep his head down, do his work, avoid the clean room and everything it represented. Pretend he hadn't seen what he'd seen.
 
@@ -403,13 +387,12 @@ Ananya Ramaswamy flickered through his mind again. Her eyes in the hallway. Her 
 The night stretched on, dark and silent, waiting for whatever came next.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The conference room on the seventh floor had floor-to-ceiling windows overlooking the campus and, beyond it, the distant shimmer of the Bay. Kevin Marsh sat at the head of the table, a thin folder in front of him. Kevin Zhou sat across, his hands flat on the table's surface, his face arranged into professional neutrality.
 
@@ -438,7 +421,6 @@ Kevin Zhou nodded. He understood the subtext: loyalty in exchange for belonging.
 "Thank you," he said. "I won't let you down."
 
 
----
 
 After the meeting, Kevin Zhou walked back through the main campus. The late afternoon sun slanted through the windows, casting long shadows across the open-plan offices. Engineers typed at their workstations. Project managers clustered around whiteboards. The machinery of productivity hummed along, oblivious to what Kevin Zhou now knew hummed beneath it.
 
@@ -459,7 +441,6 @@ At five o'clock, he packed up his laptop and walked to the parking garage. The s
 He drove home on autopilot, his mind elsewhere, turning over the day's events like stones in a river.
 
 
----
 
 That night.
 
@@ -480,7 +461,6 @@ But accounts mattered. Witnesses mattered. The details he'd seen in the clean ro
 Kevin Zhou began to type.
 
 
----
 
 He wrote about the tour. The clean room facility, its security measures, its architecture. Dr. Lin's explanation of the unified prediction engine - the way data flowed between domains, the cross-pollination of insights from hiring to healthcare to labor to social stability. He wrote about Sieve 3.0 and its lifecycle predictions. About MedAssist and its optimized rationing. About WorkFlow and its sustainable extraction of human labor. About Social Stability Analytics and its prediction of dissent.
 
@@ -505,7 +485,6 @@ It wasn't heroism. It wasn't resistance. It was a hedge, a calculation, a bet on
 Kevin Zhou turned off his computer and went to bed. Sleep came slowly, fragmented, full of dreams he forgot upon waking.
 
 
----
 
 
 

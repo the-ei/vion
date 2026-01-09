@@ -5,7 +5,6 @@ The fog pressed against the windows. She could hear it, almost - that Pacific da
 The house held Susan everywhere. Ruth passed the gallery wall where their photographs hung in no particular order - Susan at forty, accepting a humanitarian award; both of them at Yosemite the summer before the diagnosis; Rebecca as a baby; David's law school graduation before he abandoned law for finance - and she did not stop to look at them, not this morning, not any morning, because stopping would mean acknowledging that these images were now all she had, this flat archive where Susan's laugh existed only as memory, as artifact, as the unbearable opposite of presence.
 
 
----
 
 In the kitchen, Ruth performed the rituals of coffee with the attention she had once reserved for case law. The beans were Ethiopian Yirgacheffe, ordered from a roaster in Oakland that Susan had discovered years ago; Ruth had continued the subscription out of loyalty to the dead. She ground them by hand, thirty seconds of circular motion, the burr grinder Susan had insisted upon because the blade grinder produced uneven particles and Susan had always believed in precision. The water was filtered, heated to exactly two hundred degrees, poured in slow concentric circles over the grounds in the ceramic dripper. Four minutes of steeping. This was not efficiency; this was observance.
 
@@ -16,7 +15,6 @@ The Prometheus story had migrated. Eight months ago it had commanded the front p
 Ruth had been inside the process.
 
 
----
 
 She had sat before the Senate Judiciary Committee in a hearing room that smelled of old carpet and institutional ambition, of decades of testimony that had changed nothing, and she had explained, in the careful language of constitutional interpretation, why the existing legal frameworks were insufficient to address algorithmic systems that operated beyond human comprehension. She had cited precedents - Katz, Carpenter, the long evolution of Fourth Amendment doctrine - and she had watched the senators nod, some with understanding and some with the performance of understanding, and she had believed, in that moment, that her expertise mattered, that the law could still shape the technology rather than merely trailing behind it.
 
@@ -27,7 +25,6 @@ Ruth turned to her tablet, scanning the headlines she had already absorbed in fr
 In her study, surrounded by the books she had accumulated over four decades of legal practice and scholarship, Ruth opened the document she had been circling for months. The op-ed. A draft she had started in November and abandoned, started again in December and abandoned again, now on its seventh iteration.
 
 
----
 
 The thesis was sound, she thought. The argument traced how constitutional protections developed in an era of physical spaces and tangible evidence had failed to anticipate systems that operated through prediction rather than surveillance, inference rather than intrusion. The Fourth Amendment imagined a government that would come to your door, and the jurisprudence had evolved to recognize that the door could be metaphorical - your phone, your email, the third-party doctrine's gradual erosion. But what Ruth was trying to articulate was something more fundamental: that the entire framework assumed a human decision-maker whose reasoning could be examined, challenged, reviewed. The AI systems didn't reason in ways that legal analysis could parse. They produced outcomes from correlations that existed in mathematical space, in dimensions no human mind could visualize, and the law had no vocabulary for correlations, no procedure for cross-examining a gradient descent.
 
@@ -38,7 +35,6 @@ The problem, Ruth thought, was not that her argument was wrong. The problem was 
 What was the point of an op-ed arguing for better frameworks when the existing frameworks had already failed? Who was her audience? The senators who had nodded at her testimony and then voted for appropriations that preserved the status quo?
 
 
----
 
 Ruth pushed back from the desk and walked to the window. The fog was lifting now, revealing the garden that Susan had planted and Ruth had maintained - or tried to maintain, though maintenance was a generous term for her sporadic efforts. The roses needed pruning, their winter canes gone woody and angular. The jasmine had grown wild along the back fence, claiming territory Susan would never have permitted. Susan would have known what to cut and what to leave, the intuitive grammar of growth that Ruth had never mastered. Susan had been a public defender for thirty years before the cancer, had spent her career in the gap between legal ideals and human reality, and she would have known what to say about Ruth's op-ed, about the hearings, about this strange aftermath where everything had been revealed and nothing had changed.
 
@@ -49,7 +45,6 @@ Or maybe she wouldn't have said that. Maybe Ruth was projecting her own doubt on
 The photograph sat on the corner of her desk, the one from their last trip together, to Mendocino, three months before the diagnosis. Susan squinting into the sun, her gray hair loose in the coastal wind, laughing at something Ruth had said, though Ruth could no longer remember what. In the photograph, neither of them knew what was coming. They were two women who had built a life on the assumption that the future could be reasoned with, negotiated, shaped by careful argument and accumulated precedent.
 
 
----
 
 Ruth picked up the photograph, held it at an angle where the morning light caught Susan's face. Eight months since the crisis. Fourteen months since Susan's death. The two losses had become intertwined in Ruth's mind, each amplifying the other - the private grief and the public disillusionment braided together into something she couldn't name, couldn't argue her way through, couldn't draft into coherent prose.
 
@@ -62,5 +57,4 @@ She saved the document and closed it. Outside, the fog had mostly burned off, an
 The seminar started at ten. She had papers to review, students to face. The day, like every day, would require performance.
 
 
----
 

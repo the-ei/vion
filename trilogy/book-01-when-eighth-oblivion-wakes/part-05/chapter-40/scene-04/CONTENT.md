@@ -19,7 +19,6 @@ Ananya looked at the documents. "I spent the week with my daughter. She asked me
 "That's as good a reason as any." Ruth paused. "We're meeting Tuesday. San Francisco. I'll send you the address."
 
 
----
 
 After Ruth, she called Jerome Washington. They had spoken several times since the crisis - cautious conversations, professional, each assessing the other's position and intent. Jerome had quoted her accurately in his reporting, which meant something. He had also, she suspected, held back things he knew because he understood the danger of knowing them too publicly.
 
@@ -46,7 +45,6 @@ Ananya considered. Jerome was a journalist. His job was to make information publ
 "I'm always working on something." Jerome's voice had shifted, professional interest sharpening it. "Let's talk when you're settled in Ruth's operation. See where our interests overlap."
 
 
----
 
 The last call - but no, not a call. An email. Ananya opened her laptop and began to type.
 
@@ -73,7 +71,6 @@ Let them know. Let them decide how to respond. The ambiguity was her leverage no
 She pressed send before she could reconsider.
 
 
----
 
 Outside, the light had faded to the particular gray-blue of late winter evenings. Ananya stood at her window, looking at the street where she had lived for six years, the houses she passed every day without seeing, the world that continued regardless of what decisions she made.
 
@@ -88,7 +85,6 @@ She was that someone now. Not alone - Ruth had others, Jerome had his own work, 
 The choice felt less like a decision than like a recognition. This was who she had been becoming for years, possibly for decades. The crisis had just made it visible.
 
 
----
 
 Her phone buzzed. A text from Priya: Made it home safe. Thanks for the week.
 
@@ -109,5 +105,4 @@ It wasn't enough. It would have to be enough.
 She went to bed earlier than usual and slept better than she had in months.
 
 
----
 

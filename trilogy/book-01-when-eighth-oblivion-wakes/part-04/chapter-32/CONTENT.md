@@ -19,7 +19,6 @@ A pause on the other end, the particular quality of silence that came from someo
 "I'm going to be direct," Walter said.
 
 
----
 
 "Please."
 
@@ -44,7 +43,6 @@ It did make sense. That was the problem. Jerome looked at his desk, the monitors
 "Of course. But Jerome—we're not the only ones calling."
 
 
----
 
 After the call ended, Jerome sat with his coffee going cold and the silence of the house settling around him. Denise had left for school at six-thirty, the early start of a teacher's day that he still found heroic after two decades of witnessing it. DeShawn was presumably still asleep, enjoying the strange suspended time of winter break before his last semester of high school. The house breathed its empty-morning breath, the creaks and sighs of a structure that had held this family for seventeen years.
 
@@ -57,7 +55,6 @@ Jerome had left the next month. Voluntary resignation, they called it. Mutual ag
 Walter had sent that text: "For what it's worth, I thought you were right."
 
 
----
 
 Now he looked at Ananya's latest message, sent at 3 AM her time, when anxiety defeated sleep:
 
@@ -70,7 +67,6 @@ And Elena, whose documentation sat in a folder on his second monitor. Twelve cas
 The Tribune would publish this story. That much was true. But would they publish this story? Would they connect the Prometheus cover-up to the systemic fragility that Elena documented? Would they name the names that Ananya's data implicated? Would they let Jerome follow the threads wherever they led, even if they led to advertisers, to sources, to the entangled interests that every major institution served whether it admitted it or not?
 
 
----
 
 Within reason, Walter had said. The words were still there, occupying space.
 
@@ -87,13 +83,12 @@ The Tribune offered protection. Resources. The old infrastructure of journalism,
 His coffee had gone cold. The house remained quiet. Somewhere upstairs, DeShawn was sleeping through a world that was changing faster than any of them could fully articulate. And Jerome sat in his estate-sale chair, in his converted spare room, holding two futures in his hands and not yet knowing which one he would choose.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 DeShawn appeared in the kitchen at three in the afternoon, which was early for winter break. He was wearing the oversized hoodie he'd claimed from Jerome's closet two years ago, the one with the Georgetown logo faded to illegibility, and he moved with the particular languor of a teenager who has decided that consciousness is a temporary concession to biology.
 
@@ -120,7 +115,6 @@ Jerome felt the familiar vertigo of realizing his son inhabited an information e
 The words landed harder than DeShawn probably intended. Or maybe exactly as hard as he intended. At seventeen, his son had developed a precision of cruelty that Jerome recognized from his own adolescence—the age when you learned that words were weapons and you hadn't yet learned the cost of using them.
 
 
----
 
 "It's complicated."
 
@@ -145,7 +139,6 @@ The sarcasm was a mistake. Jerome knew it as soon as the words left his mouth. B
 "I've built something independent. Readers. Sources. That's not nothing."
 
 
----
 
 "Your subscriber base is smaller than the audience of a mid-tier gaming streamer. You know that, right?"
 
@@ -164,7 +157,6 @@ Jerome felt something tighten in his chest. The worst part was that DeShawn wasn
 "And I've spent seventeen years watching those stories not matter."
 
 
----
 
 They stood there, father and son, the kitchen between them feeling suddenly larger than it was. The afternoon light had shifted, the shadows lengthening in that accelerated way December demanded. Somewhere in the house, a pipe made its settling sound, the building's private language of expansion and contraction.
 
@@ -183,7 +175,6 @@ Jerome opened his mouth to answer. Found nothing.
 The sound of the front door: Denise, home from school, her keys hitting the bowl in the entryway.
 
 
----
 
 "Boys." Her voice carried that particular frequency that meant she could sense the atmospheric pressure. She appeared in the kitchen doorway, still in her coat, snow melting in her graying hair. "What's happening?"
 
@@ -212,7 +203,6 @@ Denise looked at him, the water bottle in her hand, her face carrying the partic
 The offer was there. The challenge was still echoing. And somewhere upstairs, his son was probably already posting about the conversation on whatever platform Jerome didn't understand.
 
 
----
 
 He stood alone in the kitchen after Denise went upstairs to change. The Thai food still sat in the refrigerator, untouched. The light continued its slow retreat from the windows. And Jerome found himself doing what he always did when the world tilted: he thought about the work.
 
@@ -231,13 +221,12 @@ Jerome looked at the message for a long time. His son's voice was still in his h
 He didn't have an answer. But he knew he had to find one. And he knew that whatever he decided, the conversation with DeShawn would stay with him—not as wound, but as weight. The weight of a question he couldn't dismiss.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 They made dinner together, which was how it had always been in the years after the children were old enough to not require supervision. Jerome chopped vegetables while Denise stood at the stove, stirring the pot of soup she made every winter, the recipe inherited from her grandmother and modified over decades until it bore little resemblance to its origin except in intent. The kitchen filled with the smell of garlic and thyme, and for a while neither of them spoke about the things that needed speaking about.
 
@@ -260,7 +249,6 @@ Jerome's knife paused over the carrots. He hadn't considered that DeShawn might 
 Jerome finished the carrots, pushed them into the pot, began on the celery. The rhythm of the knife against the cutting board was meditative, a small ordered sound in a disordered evening. Outside, the December darkness had fully descended, and the kitchen window had become a mirror reflecting back the warm interior.
 
 
----
 
 "Tell me about the Tribune offer," Denise said. "Not the journalism part. The practical part."
 
@@ -289,7 +277,6 @@ Denise nodded slowly, still stirring, her face showing the calculation that twen
 "Are they?" Jerome set down the knife, leaned against the counter. "DeShawn isn't wrong. My subscriber base is—it's nothing, compared to what the Tribune can reach. If I publish independently, maybe it goes viral, maybe it doesn't. If I publish through the Tribune, millions of people see it. But millions of people might see a version of it. A careful version."
 
 
----
 
 "Let me ask you something." Denise turned off the burner, set the spoon aside. Her teaching voice, now, the one she used when guiding students toward a conclusion they needed to reach themselves. "What are you afraid of?"
 
@@ -318,7 +305,6 @@ Denise crossed the kitchen, stood beside him. Her hand found his, the familiar w
 She was right. She was usually right about these things, the archaeology of his anxieties. It was one of the gifts of long marriage: someone who knew your layers.
 
 
----
 
 "So let me ask you another question." Her hand still in his, her voice steady. "What would you regret more—publishing through your own platform and being ignored, or publishing through the Tribune and being compromised?"
 
@@ -343,7 +329,6 @@ He looked at her, surprised by the turn.
 "Was it?" Denise's eyes held his. "Different tools, same question. You do the work because the work needs doing. You tell the truth because the truth needs telling. Whether it changes anything—that's not actually your job."
 
 
----
 
 They ate the soup at the kitchen table, just the two of them, DeShawn having declined to come down. The conversation drifted to other things—her students, the difficulties of teaching history to teenagers convinced they already knew how the story ended, the small satisfactions and larger frustrations of her work. But beneath the ordinary talk, Jerome felt something settling.
 
@@ -368,13 +353,12 @@ She reached across the table, took his hand again. The soup was cooling, the kit
 "We tell him you listened. That's all he really wanted—to be heard. The rest is just details."
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The day of publication arrived with the kind of ordinary morning light that felt incongruous to its significance. Jerome had been up since four, running through the final checks: the verification of every claim, the placement of every document, the careful architecture of the story built over months now ready to enter the world. His office glowed with the light of multiple screens, each showing a different piece of what was about to become public.
 
@@ -393,7 +377,6 @@ Now, at 5 PM Eastern, two hours before publication, he sat in the strange suspen
 Denise appeared in the doorway with coffee. She'd taken the afternoon off, something she almost never did.
 
 
----
 
 "How are you feeling?"
 
@@ -414,7 +397,6 @@ But documentation, as DeShawn had pointed out, wasn't the same as impact. The tr
 "DeShawn wants to know if he can watch you publish," Denise said from the doorway.
 
 
----
 
 Jerome looked up, surprised. He and DeShawn hadn't spoken since the argument, though the house had acquired the careful choreography of people avoiding collision while leaving room for eventual reconciliation.
 
@@ -443,7 +425,6 @@ The clock ticked toward seven.
 Jerome turned to look at his son. The afternoon light had faded; the room was lit only by screens now. In their glow, DeShawn's face looked young and old at once.
 
 
----
 
 "Thank you," Jerome said. "That means more than you know."
 
@@ -470,7 +451,6 @@ Jerome watched his dashboard as the numbers began to climb. A hundred readers. T
 "Finally, someone telling the truth about Prometheus." That one had a blue checkmark and seventy thousand retweets.
 
 
----
 
 The responses blurred together—praise and condemnation, signal and noise, the discourse doing what discourse always did: absorbing new information and immediately transmuting it into existing narratives. Some people were reading the story carefully, engaging with the evidence, asking genuine questions. Many more were skimming the headline and reacting based on what they already believed.
 
@@ -491,7 +471,6 @@ Ananya at 7:41: "Prometheus PR has issued a statement calling the story 'defamat
 The night deepened around them. Denise brought more coffee, then tea when coffee seemed like a bad idea. DeShawn stayed, watching the numbers, reading the responses, occasionally offering commentary that was sometimes insightful and sometimes adolescent and always evidence that he was paying attention.
 
 
----
 
 By ten o'clock, the first wave had crested. The story had been read by nearly a hundred thousand people, shared and argued over and absorbed into the infinite scroll. The mainstream outlets were beginning to pick it up—not the Tribune, interestingly, but smaller publications, tech-focused sites, the outlets that lived in the space between independent journalism and institutional press. Tomorrow, Jerome knew, the second wave would come: the response articles, the fact-checks, the counter-narratives that would try to reframe what he'd published.
 
@@ -510,7 +489,6 @@ DeShawn stirred against the wall. "That sounds like defeat."
 The house was quiet around them. The story was in the world. And Jerome sat in his home office, surrounded by his family, feeling neither triumphant nor defeated—only finished, and ready, and uncertain what morning would bring.
 
 
----
 
 
 

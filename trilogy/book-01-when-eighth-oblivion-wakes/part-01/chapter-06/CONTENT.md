@@ -13,7 +13,6 @@ He got up, made coffee, brought it back to his office, the small room at the bac
 They were always willing to share more. That was how it started. The question was whether what they shared was real.
 
 
----
 
 The vetting process began. Jerome had been doing this long enough to have a method, a sequence of checks that filtered real sources from fantasists, whistleblowers from provocateurs, genuine concern from manufactured controversy.
 
@@ -30,7 +29,6 @@ Ethics officers. Compliance staff. Research leads with awakening consciences. Th
 If this was real—and it might not be—the source was someone with access and concern. Those were the two requirements. Access without concern stayed silent; concern without access had nothing to share.
 
 
----
 
 He drafted a response. The first draft was too eager—showing too much interest, giving too much away. The second was too cautious—could be read as dismissive, might scare off a nervous source. The third found the balance.
 
@@ -45,7 +43,6 @@ He called a contact at a university AI lab. Chatted with a former colleague who 
 The answers came back in fragments. Prometheus was accelerating. OpenMind was pivoting. DeepLogic had just raised another billion. Everyone was racing toward something, and no one quite knew what.
 
 
----
 
 The work felt alive in a way his newsletter had not for months. He had been writing about algorithmic systems for three years now, since leaving the paper, since the investigation that got killed. Good work, careful work, but incremental. This felt different. This felt like something that might matter.
 
@@ -72,7 +69,6 @@ After she left, he checked the secure app. The source had replied.
 Jerome read it twice, three times. The source was real. The company was named. The door was opening.
 
 
----
 
 He went to dinner. Ate something—he wasn't sure what, his mind was elsewhere. DeShawn was talking about school, about some project he was working on, about the interview he had coming up.
 
@@ -95,13 +91,12 @@ After dinner he went back to his office. He drafted protocols for the source: ho
 Late at night, the house quiet, he sent the protocols. The investigation had begun.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The interview was Tuesday. It was now Saturday, and DeShawn had spent the week preparing: polishing his portfolio, practicing answers to common questions, researching Prometheus with the thoroughness of someone who believed this opportunity might define his future.
 
@@ -126,7 +121,6 @@ DeShawn was quiet for a moment, weighing the offer. "Okay. What do you want to k
 DeShawn minimized his interview prep and opened a different file. A web application, clean and spare. "It's a prediction market aggregator. You know what prediction markets are?"
 
 
----
 
 "Betting on outcomes. Elections, sports, whatever."
 
@@ -145,7 +139,6 @@ Jerome listened as DeShawn explained the architecture: the data pipelines, the n
 Jerome heard echoes in this. The same logic of modeling and prediction that his source was describing at Prometheus. The faith that data could reveal patterns, that patterns could anticipate behavior, that anticipation was a form of control.
 
 
----
 
 "And Prometheus," Jerome said, carefully. "What's the connection?"
 
@@ -170,7 +163,6 @@ Here it was. The moment Jerome had been dreading and moving toward. DeShawn's ex
 "You say it constantly. Not in those words, but in how you talk about the industry. Like everyone who works in tech is either a villain or a dupe. Like the only moral position is to stand outside and criticize."
 
 
----
 
 Jerome felt himself being drawn into the old patterns, the argument that went nowhere because both of them were defending more than positions. They were defending themselves.
 
@@ -195,7 +187,6 @@ The door opened in Jerome's peripheral vision. Denise, drawn by the volume.
 He pushed past his mother and disappeared down the hallway. His bedroom door slammed with the particular finality of teenage anger.
 
 
----
 
 Jerome sat on the edge of DeShawn's bed, alone now, the argument's wreckage around him.
 
@@ -226,7 +217,6 @@ He looked at her. "What do you mean?"
 Jerome wanted to argue. Wanted to defend himself, his methods, his career of necessary criticism. But the words wouldn't come. Something in what Denise said had found its target.
 
 
----
 
 "I don't know how to stop worrying," he said finally.
 
@@ -263,13 +253,12 @@ Still nothing. Jerome stood in the hallway, his apology absorbed by the door bet
 "I love you," he said to the door, to the silence, to his son who was not listening. Then he went to pack.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The facility was called Sunset Gardens, which was precisely the kind of name that tried to disguise what it was. Jerome walked through the lobby with its artificial plants and framed pastoral prints, past the reception desk staffed by women in scrubs who smiled with professional warmth, down the corridor with its handrails and its disinfectant smell toward room 114.
 
@@ -300,7 +289,6 @@ She gestured toward the other chair, and he sat. Through the window the courtyar
 "I'm fine." The automatic answer. "I've been resting."
 
 
----
 
 "Yvonne said you had a difficult week. Some confusion."
 
@@ -331,7 +319,6 @@ His mother looked at him, and for a moment she was completely present, the fog l
 "You hold everyone to impossible standards. Including yourself." She reached out and touched his hand. "It comes from caring. But caring can crush."
 
 
----
 
 The clarity held for a few more moments, and then began to slip. She started talking about Jerome's father again, but the tenses were wrong, the timeline scrambled. She described a conversation they'd had last week, when in reality it had happened thirty years ago, in the kitchen of the house in Bronzeville where Jerome had grown up.
 
@@ -356,7 +343,6 @@ He didn't know how to answer. The honest answer was complicated: the work was me
 Jerome heard the echo again. The pattern repeating across generations. Fighting even when there was nothing left to fight.
 
 
----
 
 Yvonne arrived in the afternoon. She was three years younger than Jerome and looked ten years more tired, carrying the weight of proximity while he carried the weight of distance. They had divided the duties as best they could—she handled the daily logistics, the doctor's appointments, the small crises; he sent money and visited when he could—but the division had never been equal and they both knew it.
 
@@ -377,7 +363,6 @@ She couldn't read the menu anymore. The words swam, she said, rearranged themsel
 "I know that you're both here. That's important." She took their hands, one on each side of the table. "My children."
 
 
----
 
 After dinner, back at the facility, Jerome helped his mother to bed. She was exhausted from the outing, the stimulation too much for a system that preferred routine.
 
@@ -406,7 +391,6 @@ Yvonne shrugged. "Managing. Charles helps when he can. The kids are old enough t
 "I could. But what would be the point? We do what we can with what we have." She looked at him. "Are you going to be okay? Flying back tonight?"
 
 
----
 
 "I'll be fine."
 
@@ -427,13 +411,12 @@ Something had shifted in Chicago. Not a resolution—nothing was resolved—but 
 The flight was called. Jerome boarded, found his seat, and flew home through the darkness.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 He was home by Tuesday morning, landing at BWI as the sun came up over the Chesapeake. Denise had left for school already; DeShawn was in his room, presumably preparing for the afternoon interview.
 
@@ -460,7 +443,6 @@ DeShawn turned from his computer. "You already apologized."
 "Okay. Maybe. But I wanted to say it face to face." Jerome took a breath. "I was wrong about how I approached it. Not about having concerns—I still have concerns—but about treating your choice like a problem to be solved rather than a decision to be respected."
 
 
----
 
 DeShawn was quiet, processing. "Mom talked to you?"
 
@@ -485,7 +467,6 @@ Jerome moved his chair beside his son's and for the next hour they worked throug
 What he saw was sophisticated. Genuinely impressive. His seventeen-year-old son had built something that demonstrated both technical skill and theoretical understanding. The pride Jerome felt was complicated by what he was learning elsewhere, about Prometheus, about prediction, about the uses of these tools. But he let the pride exist without qualification.
 
 
----
 
 "This is good work," Jerome said when they were done. "Really good."
 
@@ -512,7 +493,6 @@ DeShawn nodded, something shifting in his expression. Then he was gone, walking 
 Jerome stood in the doorway until the car disappeared around the corner. Then he went to his office.
 
 
----
 
 The secure app had new messages. The source—Ananya, though he still didn't know her name—had sent documents as promised. They were waiting in his encrypted folder, downloaded but not yet opened.
 
@@ -531,7 +511,6 @@ The house held both of them, father and son, in adjacent rooms with adjacent scr
 The cursor blinked. The night deepened. The secrets accumulated in the silence.
 
 
----
 
 
 

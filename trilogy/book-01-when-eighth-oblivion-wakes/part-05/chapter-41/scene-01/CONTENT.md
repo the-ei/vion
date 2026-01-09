@@ -13,7 +13,6 @@ The piece was his attempt to synthesize everything. What had happened at Prometh
 Jerome took a sip of his coffee. It had gone cold.
 
 
----
 
 By 10:00 AM, the piece was being discussed.
 
@@ -32,7 +31,6 @@ Jerome's phone buzzed. A text from his editor: Numbers looking good. Nice job.
 Nice job. As if journalism were a performance to be graded.
 
 
----
 
 By noon, the discourse had moved on to the discourse about the discourse.
 
@@ -49,7 +47,6 @@ His mother called. He let it go to voicemail. She would want to congratulate him
 He got up to make more coffee. The motion helped, slightly.
 
 
----
 
 The denialists found the piece around 1:00 PM.
 
@@ -72,7 +69,6 @@ What had truth achieved?
 The question felt less rhetorical than it had when he'd started writing.
 
 
----
 
 At 2:30, The Washington Post published a piece that cited his work.
 
@@ -93,7 +89,6 @@ He heard the front door open. Denise, home from school.
 Time to stop watching the numbers. Time to be present with his family.
 
 
----
 
 He walked downstairs to find Denise setting down her bag in the hallway. She looked tired - the particular tiredness of a teacher at the end of February, when the spring break still felt impossibly distant.
 
@@ -124,5 +119,4 @@ What he needed, Jerome realized, was to stop measuring his work in numbers. To f
 "Dinner sounds good," he said.
 
 
----
 

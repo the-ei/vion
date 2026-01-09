@@ -15,7 +15,6 @@ Journalists. He'd talked to them before - local reporters doing segments on the 
 Why would this be any different?
 
 
----
 
 He googled Jerome Washington. The name brought up a modest web presence: a newsletter called "The Algorithm Beat," a handful of bylines at outlets Yusuf had heard of but rarely read. The newsletter had maybe ten thousand subscribers - respectable for a solo operation, but not the kind of audience that moved mountains. Yusuf clicked through a few posts, skimming headlines about hiring bias, surveillance at work, the datafication of labor.
 
@@ -32,7 +31,6 @@ Something shifted in Yusuf's chest. Recognition, maybe. The anger in those posts
 He opened a new browser tab and searched for "Jerome Washington" alongside "gig workers." A few results: testimony he'd gathered from delivery drivers in Texas, warehouse workers in California, rideshare drivers across the Midwest. The quotes were extensive, the details specific. This wasn't someone who parachuted in for a soundbite. This was someone who listened.
 
 
----
 
 Amina came into the kitchen while Yusuf was still staring at his phone. She was dressed for school, backpack already on, her expression carrying the particular focus of a teenager with too much to accomplish and too little time.
 
@@ -67,7 +65,6 @@ She was seventeen. When had she gotten so wise?
 Then she was gone, the apartment door clicking shut behind her.
 
 
----
 
 Yusuf sat with the quiet of the apartment settling around him. Through the wall, he could hear the faint sounds of the neighbor's television, the muffled rhythm of morning news. His mother was sleeping in the back bedroom - she'd had a late shift the night before, came home exhausted, fell into bed without eating. He'd heard her come in, heard her footsteps slow and heavy, heard the weariness in the sound of her closing her door.
 
@@ -86,7 +83,6 @@ Maybe nothing would change now either. But Amina was right: that wasn't the only
 Yusuf opened the email app and began to type.
 
 
----
 
 Dear Mr. Washington,
 
@@ -121,13 +117,12 @@ Yusuf put down his phone. Thursday. Six days away. He had six days to figure out
 He got up to check on his mother, to make sure she ate something when she woke. The morning stretched ahead of him, ordinary and relentless, but something had shifted. He'd opened a door. Now he had to see where it led.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The days before the interview passed in a blur of deliveries and worry. Yusuf worked his usual hours - ten, twelve, sometimes fourteen if the algorithm blessed him with surge pricing - but his mind kept drifting. To Thursday. To what he would say. To the journalist who was coming to listen.
 
@@ -142,7 +137,6 @@ But Yusuf saw. He saw the way she lowered herself into chairs. He saw the medica
 He saw, and he couldn't fix it, and the seeing was its own kind of wound.
 
 
----
 
 On Wednesday evening, three days before the interview, Halima came home from work early. This alone was alarming - she never came home early. She worked her shifts to the minute, couldn't afford not to, and the hotel didn't pay for time not worked.
 
@@ -165,7 +159,6 @@ Amina came home from her after-school program and found them there - Halima asle
 Yusuf watched his sister too. Seventeen years old, honor roll, college applications starting to loom. She'd inherited their mother's determination and their father's quick mind. In a fairer world, she'd have every opportunity, every door open. In this world, she had scholarships to chase and financial aid forms to fill out and the constant calculation of whether they could afford for her to become what she was capable of becoming.
 
 
----
 
 After dinner - rice and vegetables, stretched to cover three meals because groceries were expensive and would stay expensive - Yusuf retreated to his corner of the living room. This was his studio, such as it was: a laptop, a USB audio interface, a pair of studio monitors he'd bought used three years ago. Not much, but enough to make music.
 
@@ -188,7 +181,6 @@ He stared at what he'd written. It wasn't good - not yet - but it was something.
 But he was going to talk to a journalist in two days. He was going to try to explain what it felt like to be managed by machines. And the words were coming whether he wanted them or not.
 
 
----
 
 He worked on the track until midnight, headphones on so he wouldn't wake his mother or sister. The apartment was dark around him, lit only by his laptop screen and the glow of the studio monitors. He recorded scratch vocals - mumbled, experimental, finding the flow - and listened back, adjusting rhythms, cutting lines that didn't land.
 
@@ -210,7 +202,6 @@ Yusuf saved his work, closed his laptop, sat in the darkness. Tomorrow he'd driv
 And maybe, somewhere in there, the words would find their final form.
 
 
----
 
 The next morning, he found Amina at the kitchen table with her laptop open, spreadsheets filling the screen. She was surrounded by papers - college brochures, financial aid forms, scholarship applications. Her coffee had gone cold beside her.
 
@@ -241,7 +232,6 @@ Amina looked at him, and something softened in her expression. "Maybe. I hope so
 She was right about that too.
 
 
----
 
 That night, after another day of deliveries - the algorithm had been generous, surge pricing appearing twice in neighborhoods he didn't usually work - Yusuf came home to find his mother awake and alert. She'd cooked, actual food, fragrant with the spices of his childhood: basmati rice, goat meat, vegetables in tomato sauce.
 
@@ -266,13 +256,12 @@ She squeezed his hand, then released it, then began gathering plates with the ef
 But Yusuf carried her words with him as he retreated to his music corner, as he put on his headphones, as he began to shape the anger and the hope into something that might be heard.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The coffee shop was called Groundswell, a name that felt ironic under the circumstances. It occupied a corner lot in a neighborhood that was gentrifying around it - craft breweries replacing laundromats, yoga studios where dollar stores used to be. Yusuf had chosen it because it was quiet in the afternoons and because he used to come here with his father, years ago, when the neighborhood was different and the coffee was cheaper.
 
@@ -295,7 +284,6 @@ The handshake was firm, brief. Yusuf noticed things: the calluses on Jerome's pa
 Jerome nodded, flagged down a server, ordered Yusuf's water and a refill on his own coffee. The small ritual of hospitality - Yusuf noted that too. Everything about this meeting was calibrated to lower defenses, to create trust.
 
 
----
 
 "Before we start," Jerome said, "I want to be clear about what this is and isn't. I'm writing about algorithmic management in gig work - how the apps use data and prediction to control workers. I'm not writing a profile of you personally, unless you want that. Your story would be part of a larger piece about systemic issues. If you'd prefer to be anonymous, we can do that. If you'd rather use your name, that's fine too. It's your choice."
 
@@ -320,7 +308,6 @@ Jerome was taking notes even though the recorder was running. His pen moved in q
 "Fewer offers. Lower-paying rides. The good jobs go to drivers the algorithm favors. You can feel it when you're in the system's good graces versus when you're not. It's like - " Yusuf paused, searching for the words. "It's like having a boss who never shows their face, never explains their decisions, but controls everything about your work."
 
 
----
 
 Jerome looked up from his notes. "That's a good way to put it. Can you give me specific examples? Times when you felt the algorithm was managing you in ways you couldn't understand or control?"
 
@@ -345,7 +332,6 @@ Yusuf shrugged. "Pieces of it. We know the acceptance rate matters. We know rati
 "Exactly. They want us to be reliable inputs. Predictable. They're not managing people - they're optimizing a system. We just happen to be parts of the system."
 
 
----
 
 The water arrived. Yusuf drank gratefully, his throat dry from talking. Jerome waited, giving him space, not rushing to the next question.
 
@@ -370,7 +356,6 @@ Jerome nodded slowly. "You've clearly thought about this a lot."
 "I think about it every day. When I'm driving, when I'm delivering, when I'm checking my ratings and calculating my take. The thinking is how I stay sane. If I didn't understand what was happening to me, I'd just feel it, and feeling it without understanding would destroy me."
 
 
----
 
 The conversation continued. Jerome asked about specific features of the apps - the rating systems, the deactivation policies, the arbitration clauses that prevented workers from suing. Yusuf explained what he knew, what he'd figured out, what remained opaque. He talked about drivers who'd been deactivated without explanation, without recourse, their livelihoods disappearing overnight because an algorithm made a decision no human ever had to justify.
 
@@ -395,7 +380,6 @@ The question surprised Yusuf. No one had asked him that before - not the other j
 "And I'd say we're not asking for the source code. Just enough understanding to know we're being treated fairly. Is that so much to ask? Is basic fairness really a trade secret?"
 
 
----
 
 Jerome closed his notebook. The recorder's red light still glowed, but something in the conversation had shifted. It felt less like an interview now, more like a conversation.
 
@@ -426,7 +410,6 @@ Yusuf thought about his music. The lyrics he'd been writing. The feeling that wo
 "It makes sense," he said. "It's why I'm here."
 
 
----
 
 They talked for another hour. The recorder ran; Jerome occasionally made notes. But the character of the exchange had changed. It was less interview now than dialogue - two people who had looked at the same machinery and reached similar conclusions, comparing their observations, testing their understanding against each other's experience.
 
@@ -451,7 +434,6 @@ Yusuf nodded. He understood that calculus. It was the same one he made every mor
 "I can."
 
 
----
 
 The afternoon light was fading when Jerome finally stopped the recorder. They'd been talking for nearly two and a half hours. Yusuf's water had been refilled twice. The coffee shop had emptied and begun to fill again with the after-work crowd.
 
@@ -486,13 +468,12 @@ It wasn't much. But it was something.
 He walked to his car, opened the app, started his evening shift. The algorithm was waiting.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The call came at 2:47 PM on a Saturday.
 
@@ -517,7 +498,6 @@ Yusuf nodded, understanding the subtext: more medications, more appointments, mo
 He sat with his mother while she dozed, her face relaxed in sleep, looking younger than she had in years. The heart monitor beeped its steady rhythm. Outside the window, the afternoon light was failing.
 
 
----
 
 He texted Amina, who was at a friend's house working on a group project. She texted back immediately: On my way. Then: Is she okay?
 
@@ -546,7 +526,6 @@ I understand. And I'll include this in the piece. With your permission.
 You have it.
 
 
----
 
 Amina arrived an hour later, breathless, her school bag still on her shoulder. She took one look at their mother asleep in the bed and her face crumpled, then reassembled into something stronger.
 
@@ -581,7 +560,6 @@ Halima waved a hand, dismissive, but he saw the fear beneath the gesture. She kn
 Neither of her children said what they were thinking: that normal was the problem, that normal was killing her slowly.
 
 
----
 
 They took shifts through the night. Amina stayed until midnight, then Yusuf drove her home and came back to sleep in the recliner by his mother's bed. The hospital was quiet in the early hours - occasional footsteps in the hallway, the beeps and hums of medical equipment, the particular silence of a building full of sleeping sick people.
 
@@ -603,7 +581,6 @@ He saved the lyrics. Closed the app. Closed his eyes.
 Sleep came eventually, shallow and interrupted. He dreamed about algorithms, about his father's forklift, about music playing in an empty room.
 
 
----
 
 They discharged his mother the next afternoon with new prescriptions and stern warnings. She was to eat regular meals, monitor her blood sugar more frequently, reduce stress. The doctor said these things as if they were instructions that could be followed rather than luxuries that could not be afforded.
 
@@ -632,7 +609,6 @@ It was rough. It was raw. But it was true. And sometimes true was enough to star
 Yusuf worked until dawn, turning the hours of fear and waiting and watching into music that someone, somewhere, might hear.
 
 
----
 
 
 

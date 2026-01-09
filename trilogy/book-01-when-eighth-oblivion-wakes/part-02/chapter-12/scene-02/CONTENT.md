@@ -4,12 +4,11 @@ The apartment smells like suugo when he opens the door, the tomato and spice of 
 
 "I have been resting all morning," she answers in Somali, her voice carrying the particular music of their language that Yusuf hears less and less as the years go by, as Amina switches more fully into English, as the community around them disperses and integrates and loses itself in the larger American silence. "You think I cannot stand at a stove for twenty minutes? You think I am so fragile?"
 
-She is fragile. He knows she is fragile. The diabetes that no one in the family will call by its proper name has been claiming her slowly for years, has taken her energy and her vision in her left eye and the feeling in her feet, has sent her to doctors who speak to her in English she only half understands and prescribe medications she cannot always afford. But she will not say the word. She calls it "the tiredness" or "the sugar thing" and she cooks suugo at midday because cooking is how she loves.
+She is fragile. He knows she is fragile. The diabetes that no one in the family will call by its proper name has been claiming her slowly for years, has taken her energy and her vision in her left eye and the feeling in her feet, has sent her to doctors who speak to her in English she only half understands and prescribe medications she cannot always afford. But she will not say the word. She calls it "the tiredness" or "the sugar thing" and she cooks suugo at midday because cooking is how she loves, because love without action means nothing in her language, in her understanding of what it means to be a mother.
 
 
----
 
-Amina emerges from her room with her backpack already over her shoulder, her hair pulled back in a way that suggests she has spent exactly as much time on it as necessary and not a second more, practical like everything about her. She is sixteen and brilliant in ways that frighten Yusuf sometimes, her mind working faster than his ever did, her grades perfect in the way that only matters when you are trying to escape something. She will apply to colleges next year. She will get in somewhere good. She will become something that neither he nor their mother could become, and the weight of that possibility sits on Yusuf's shoulders like a second job.
+Amina emerges from her room with her backpack already over her shoulder, her hair pulled back in a way that suggests she has spent exactly as much time on it as necessary and not a second more, practical like everything about her. She is sixteen and brilliant in ways that frighten Yusuf sometimes, her mind working faster than his ever did, her grades perfect in the way that only matters when you are trying to escape something, when perfect is not ambition but survival. She will apply to colleges next year. She will get in somewhere good. She will become something that neither he nor their mother could become, and the weight of that possibility sits on Yusuf's shoulders like a second job.
 
 "Hooyo made lunch," Amina says, switching between English and Somali the way they all do, the languages bleeding into each other. "You should eat before you go back out."
 
@@ -22,7 +21,6 @@ Amina emerges from her room with her backpack already over her shoulder, her hai
 The apartment is small and worn in ways that reflect the building around it - carpet that was new when they moved in seven years ago now flattened and stained, walls whose white has yellowed toward cream, a bathroom faucet that drips regardless of how tightly they close it. But the walls hold photographs: Halima's parents from before the war, Yusuf and Amina as children, their father Jamal in the one formal portrait they own, his face solemn in the way of men who know photographs are permanent.
 
 
----
 
 They eat together at the small table that doubles as Yusuf's desk when he needs to do paperwork, which is rarely because the gig apps have digitized everything, have reduced the administrative work of labor to taps and swipes and the occasional screenshot for tax purposes. Amina asks about his morning without asking about the money, which is its own kindness - she understands the math without needing to discuss it. Halima asks if he is eating enough, if he is sleeping enough, questions that are expressions of love rather than requests for information.
 
@@ -45,11 +43,10 @@ Yusuf feels the familiar frustration rising in his chest, the impossibility of c
 "You will not," Halima says firmly. "You will save that money for your sister's applications."
 
 
----
 
 Amina is watching them both with the particular expression she wears when adults are discussing money in front of her, a mix of understanding and guilt that Yusuf wishes she did not have to carry. "I can apply to state schools," she says. "The application fees are lower. Or I can wait a year, work for a while, save up."
 
-"You will not wait," Yusuf and Halima say in unison, and the synchronicity would be funny if the subject were not so serious. Amina is going to college next year. She is going to get scholarships. She is going to become something that justifies everything they have sacrificed. This is the story they have told themselves, the narrative that makes the work bearable, and to question it is to question the foundation of their survival.
+"You will not wait," Yusuf and Halima say in unison, and the synchronicity would be funny if the subject were not so serious. Amina is going to college next year. She is going to get scholarships. She is going to become something that justifies everything they have sacrificed, something that proves the sacrifice was not wasted, was not just loss but investment. This is the story they have told themselves, the narrative that makes the work bearable, and to question it is to question the foundation of their survival.
 
 "I should go," Amina says, standing and gathering her bag. "Quiz in AP Chemistry."
 
@@ -62,7 +59,6 @@ Amina is watching them both with the particular expression she wears when adults
 She rolls her eyes and is gone, the door closing behind her with the particular sound of an apartment building where nothing quite fits anymore, where the frames have warped and the hinges have loosened and everything holds together through habit more than engineering. Yusuf listens to her footsteps descend the stairs, each one a small departure, a practice for the larger leaving that is coming.
 
 
----
 
 "She is too serious," Halima says when the apartment is quiet. She has sat down across from Yusuf, her plate barely touched, her tiredness visible now that there is no audience. "Too worried about us. A girl her age should be worried about boys and parties and foolish things."
 
@@ -82,12 +78,11 @@ Halima withdraws her hand. "The hotel needs me. Tuesday is busy."
 
 "I can take more TaskRunner jobs. There's always work if you're willing to do it."
 
-She looks at him with an expression he cannot quite read - pride and sorrow and something else, something that might be resignation. "You are so much like him," she says quietly. "He also thought he could work himself into something better."
+She looks at him with an expression he cannot quite read - pride and sorrow and something else, something that might be resignation. "You are so much like him," she says quietly. "He also thought he could work himself into something better. He also thought the work would save us."
 
 The words hang in the air. Yusuf does not answer because there is no answer. He stands, clears the dishes, checks his phone. The apps are active. The afternoon awaits.
 
 
----
 
 Before he leaves, he stops at the photograph of his father. It hangs in the hallway by the door, unavoidable, positioned so that everyone who enters or exits must pass it. Jamal Hassan looks younger in the photograph than Yusuf is now - the picture was taken shortly after they arrived in Minneapolis, at a mosque event where someone had set up a portrait station, a small gesture of welcome for the new arrivals. His father is wearing a suit that does not quite fit, borrowed or purchased secondhand, and his expression carries the particular hope of someone who has not yet learned what America will cost him.
 
@@ -100,5 +95,4 @@ He checks QuickDrop. He checks RideNow. He checks TaskRunner. The algorithms are
 The car starts on the second try this time. Progress.
 
 
----
 

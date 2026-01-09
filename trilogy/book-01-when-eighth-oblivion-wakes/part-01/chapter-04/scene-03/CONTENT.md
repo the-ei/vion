@@ -23,7 +23,6 @@ Her mother's face does something complicated, a flicker of emotion that the scre
 "Something like that."
 
 
----
 
 They talk about the things they can talk about. Her mother's garden, struggling in the English autumn. The neighbor who has taken to bringing over meals, a kindness that is also a reminder of her mother's solitude. A cousin's wedding in Nigeria that neither of them will attend, the distance too far, the cost too high, the reasons accumulating like excuses.
 
@@ -42,7 +41,6 @@ Delphine wants to say: Come here. Live near us. Watch Theo grow up. But she know
 "I know you will."
 
 
----
 
 The call ends at fifteen minutes, the way these calls always end - not because they have run out of things to say but because they have said the things they can say, and what remains is too heavy for video. Delphine's mother waves at the camera, the gesture somehow more heartbreaking for its cheerfulness. The screen goes dark.
 
@@ -53,7 +51,6 @@ Delphine cannot let go of the day. She opens her work laptop instead, the screen
 The footage plays. Elena Rodriguez in the clinic, in her apartment, telling her story in take after take. The machine cares about me. Delphine watches the moment three times, looking for something she cannot name. The emotion is real. The framing is perfect. The combination of real and perfect is what makes it useful.
 
 
----
 
 She begins to edit, though the edit is not due for days. The work is automatic now - selecting clips, adjusting timing, building the rhythm that will guide viewers from attention to engagement to the emotional peak she has identified. The machine cares about me will come at the two-minute mark, after the B-roll of the clinic, after the setup about rising costs and difficult choices. It will land like something thrown, catching viewers in a moment of genuine feeling before they can defend themselves.
 
@@ -68,7 +65,6 @@ Delphine opens it. The email is corporate in tone, enthusiastic in pitch, vague 
 The name Clarity means nothing to Delphine. She has never heard of it. But something about the email - the carefully constructed enthusiasm, the emphasis on confidentiality, the sense of something being revealed and concealed at once - makes her pause.
 
 
----
 
 She reads the email twice. The words are precisely calibrated to create interest without providing information - a skill she recognizes because it is a skill she possesses. Prometheus wants her company to make Clarity seem trustworthy, accessible, human. They want her to do for Clarity what she did for HealthBridge: take something complicated and potentially concerning and wrap it in warm light and genuine faces until it feels like hope.
 
@@ -81,7 +77,6 @@ And yet.
 Something about the email sits wrong in her chest, a feeling she cannot locate or name. The machine cares about me, Elena said. And now the machine - or some version of it, some cousin of the glucose monitor and the algorithm and all the systems that track and predict and serve - is reaching out to Delphine, asking her to make it seem caring.
 
 
----
 
 Delphine closes the laptop. The room goes dark except for the city light filtering through the blinds, the ambient glow of Los Angeles that never quite becomes darkness. She sits in the chair for a long moment, listening to the sounds of the house: the refrigerator humming, the settling of walls, Jessie turning over in bed down the hall.
 
@@ -94,7 +89,6 @@ She goes to the kitchen, pours a glass of water, stands at the window looking ou
 What is she doing? Making content. Shaping perception. Converting genuine human moments into engagement metrics. The work is what she trained for, what she is skilled at, what pays for this house and Theo's school and the comfortable life she has built with Jessie. The work is also, she suspects, something she will eventually have to reckon with.
 
 
----
 
 But not tonight. Tonight she drinks the water, sets the glass in the sink, goes to the bedroom where Jessie is sleeping. She undresses in the dark, slides into bed, feels Jessie shift toward her automatically, the unconscious navigation of a body that knows where home is.
 
@@ -111,5 +105,4 @@ These things are connected, she knows. The footage she made today, the grief her
 Sleep comes eventually, thin and unsatisfying, the kind of sleep that leaves you more tired than you started. In the morning there will be more work, more questions, more decisions to make about what she is willing to create. But for now there is only the dark room, the breathing of her wife, the residue of a day that will not quite wash off.
 
 
----
 

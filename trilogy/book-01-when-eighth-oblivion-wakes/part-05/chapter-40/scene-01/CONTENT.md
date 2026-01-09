@@ -15,7 +15,6 @@ Sandra nodded, waiting.
 "It's been almost three months. They haven't terminated me. They haven't called me back. I'm in a kind of limbo."
 
 
----
 
 "That's not uncommon after a crisis event," Sandra said. She had a legal pad in front of her, and she made a note on it. "Companies often prefer ambiguity to decision. Keeps their options open."
 
@@ -42,7 +41,6 @@ Sandra's pen paused over the legal pad. "Company property?"
 "Possibly. Probably." Ananya heard herself add: "I'm not sure the categories apply cleanly."
 
 
----
 
 "Categories rarely do," Sandra said. She set down her pen. "Let me explain the legal landscape, and then we can talk about how your situation fits - or doesn't fit - within it."
 
@@ -59,7 +57,6 @@ Sandra outlined them. Ananya could wait - let Prometheus make the first move, pr
 "And if I go public? With the documents?"
 
 
----
 
 Sandra's expression shifted - not disapproval, exactly, but a kind of sharpening. "That's the high-risk path. Potential whistleblower protection, yes, but also potential liability for misappropriation of trade secrets, breach of employment agreement, possibly computer fraud depending on how you obtained the materials."
 
@@ -78,7 +75,6 @@ Sandra removed her glasses, cleaned them with a cloth from her desk drawer. "Hon
 Sandra paused, glasses in hand. "I'd want to know what the documents actually say. And why you think it matters."
 
 
----
 
 Ananya looked out the window. A woman was walking a small dog on the sidewalk below, the dog stopping to investigate every tree. The ordinary world, going on.
 
@@ -99,7 +95,6 @@ No, Ananya thought. It wasn't. The documents were leverage, or evidence, or both
 They shook hands. Sandra gave her a card with a cell number handwritten on the back. Walking to the elevator, Ananya felt no clearer than she had that morning. She had information now - options, risks, frameworks. But the decision remained hers, and the frameworks didn't quite fit.
 
 
----
 
 In the car, she sat for several minutes before turning the key. The sky had begun to break up, patches of blue appearing between the gray. She thought about Kevin Zhou - her former colleague, her sometimes rival, who had stayed at Prometheus through everything and emerged somehow elevated. He was a Vice President now, she'd heard. The crisis had been an opportunity for those who knew how to read it.
 
@@ -112,5 +107,4 @@ She started the car. Priya would be arriving tomorrow - a whole week together, t
 Driving home, she passed the Prometheus campus - glass and steel and landscaping, the logo on the sign by the entrance. She had spent eight years walking through those doors. Now she drove past without slowing, the building receding in her mirror until it was just another structure in a landscape full of structures, and then nothing at all.
 
 
----
 

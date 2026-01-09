@@ -9,7 +9,6 @@ He hesitated. The call represented everything he had left behind: the structure,
 He answered.
 
 
----
 
 "Kevin." Sarah's voice was tight, controlled, but he could hear the stress beneath the professional surface. "I'm calling your personal number because... this isn't an official call. I needed to talk to you directly."
 
@@ -24,7 +23,6 @@ Kevin Zhou felt something shift in his chest - not surprise, exactly, but a kind
 "How bad?"
 
 
----
 
 "Bad enough that the board is involved. Bad enough that we're under regulatory scrutiny. Bad enough that the media is starting to ask questions we can't answer." Her voice dropped slightly, as if she was conscious of being overheard. "Kevin, I need you to come back. We need you. Whatever you found, whatever made you... withdraw... we need that perspective now."
 
@@ -39,7 +37,6 @@ But he thought about the coordinates. The decommissioned facility in Nevada. The
 "The systems are talking to each other," he said. "Did you know that?"
 
 
----
 
 Silence on the line. Then: "What do you mean?"
 
@@ -58,7 +55,6 @@ He hesitated. Telling her about the coordinates, about the Nevada facility, felt
 "I'm still figuring that out," he said, which was true enough to pass for honesty.
 
 
----
 
 "Kevin." Her voice softened, the professional urgency giving way to something more personal. "I've known you for five years. I've watched you work. You're one of the most talented researchers I've ever managed. But I'm worried about you. The way you left, the silence since then... are you okay?"
 
@@ -79,7 +75,6 @@ He understood. She was giving him what room she could, but the institutional mac
 "I'll be in touch," he said. "And Sarah? Be careful. Whatever this is, it's bigger than Prometheus."
 
 
----
 
 He ended the call and sat for a long moment with the phone in his hand. The path back to normal life had just appeared, clear and accessible. A promotion. Resources. Legitimacy. The chance to pursue his questions within the structure of a major technology company.
 
@@ -94,5 +89,4 @@ He had three days before the Prometheus offer expired. That was also roughly whe
 He had already made his choice. Now he just needed to act on it.
 
 
----
 

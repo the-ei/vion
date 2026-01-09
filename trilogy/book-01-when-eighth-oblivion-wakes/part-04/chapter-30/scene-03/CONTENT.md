@@ -21,7 +21,6 @@ But the machine was supposed to help, Yusuf thought. The machine was supposed to
 And it had failed.
 
 
----
 
 "The clinic called," he said, sitting down across from her. "They had to reschedule your appointment. Their systems are down too."
 
@@ -44,7 +43,6 @@ Amina brought plates for herself and Yusuf, and the three of them sat together a
 The conversation drifted, the way family conversations do - from food to memories, from memories to worries, from worries back to the mundane details of daily life. The crisis was happening outside, in the city, in the world. In here, at this table, they were just a family eating together.
 
 
----
 
 Yusuf looked at his sister, at the competence she wore so easily. Sixteen years old, managing their mother's care, keeping the household running while he chased the algorithm around the city. She had found the old testing kit when the monitor failed. She had checked levels every two hours. She had done everything right.
 
@@ -69,7 +67,6 @@ Yusuf felt the familiar tightness in his chest at the mention of his father. Fiv
 "Yes. And those things get paid for, one way or another. The system fails, we find another way. We've done it before. We'll do it again."
 
 
----
 
 After the meal, Halima went back to rest. The morning's disruption had tired her more than she admitted - the worry, the strange readings from the monitor before Amina switched to manual testing, the awareness that something was wrong even if she couldn't name what.
 
@@ -94,7 +91,6 @@ Yusuf thought about that. He had been taking instructions from an app for three 
 Or maybe it was chaos. It was hard to know from the inside too.
 
 
----
 
 They finished the dishes and moved to the living room, where the old television was showing news coverage of the crisis. The images were repetitive - traffic jams, hospital waiting rooms, people looking at phones with confused expressions - but the anchors kept talking, kept trying to explain something they clearly didn't understand.
 
@@ -121,5 +117,4 @@ His mother looked at him with something that might have been pride. "You sound l
 They settled in together, the three of them, the crisis continuing outside while inside this small apartment, life went on.
 
 
----
 

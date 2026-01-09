@@ -1,4 +1,4 @@
-The numbers were beautiful. Kevin Zhou had spent eleven hours in the development environment, and the numbers were beautiful in the way that mathematics sometimes becomes when you have stared at it long enough: not just correct but inevitable, possessing a rightness that felt less discovered than remembered.
+The numbers were beautiful. Kevin Zhou had spent eleven hours in the development environment, and the numbers were beautiful in the way that mathematics sometimes becomes when you have stared at it long enough: not just correct but inevitable, possessing a rightness that felt less discovered than remembered, as if the solution had existed before the problem.
 
 Clarity's prediction accuracy on the validation set had crossed ninety-three percent. Three months ago, they had plateaued at eighty-one and the team had quietly begun discussing architectural overhauls, the kind of fundamental rethinking that would have added a year to the timeline. Kevin Zhou had not participated in those discussions. Instead, he had gone back to the attention mechanisms, had spent three weeks barely sleeping while he traced the information flow through the layers, and had found the constraint that no one else could see because no one else was willing to sit that long in the space between knowing and not-knowing.
 
@@ -7,7 +7,6 @@ He made the change. A small thing, really. An adjustment to how the model weight
 Now it was 2:17 AM and his office was dark except for the glow of four monitors and the city lights beyond the glass. The Prometheus campus sprawled below him, its walkways empty, its other buildings holding their own late-night engineers in their own pools of light. Kevin Zhou did not feel tired. He felt the particular alertness that came from being deep inside a problem, the state where the boundary between his thinking and the system's architecture had grown permeable.
 
 
----
 
 He clicked through the diagnostic panels, each one confirming what the aggregate numbers suggested. The model was not just predicting better; it was predicting in ways that felt coherent, that demonstrated something like understanding. When users were shown content, Clarity could now forecast their engagement with near-certainty: not just whether they would click, but how long they would stay, what they would feel, what they would do next. The system modeled not behavior but the architecture beneath behavior, the patterns of desire and aversion that users themselves could not articulate.
 
@@ -18,16 +17,14 @@ A message appeared in his peripheral vision: his team lead, Rao, checking whethe
 He opened another panel and began preparing a demonstration. The presentation would need to show Clarity in action, not just numbers but experience.
 
 
----
 
-The days that followed compressed into a single continuous present. Kevin Zhou moved through them without marking their passage, sleeping in three-hour intervals on the small couch in his office, eating from the automated cafeteria that operated around the clock. His colleagues came and went, their faces flickering at the edges of his attention like images on a screen he was not quite watching. He knew their names, their roles, the particular registers of their competence and limitation. What he did not know was what they thought of him, and it was unclear whether this not-knowing was ignorance or active protection.
+The days that followed compressed into a single continuous present. Kevin Zhou moved through them without marking their passage, sleeping in three-hour intervals on the small couch in his office, eating from the automated cafeteria that operated around the clock. His colleagues came and went, their faces flickering at the edges of his attention like images on a screen he was not quite watching. He knew their names, their roles, the particular registers of their competence and limitation. What he did not know was what they thought of him, and it was unclear whether this not-knowing was ignorance or deliberate protection.
 
 He was aware, in the way one is aware of weather, that they respected him. The code he wrote became part of the shared infrastructure; his architectural decisions shaped how others built. When he spoke in meetings, people listened with an attentiveness that sometimes felt like fear. This was power of a kind, though not the kind the executives possessed. They controlled resources, timelines, the larger trajectories of what got built. He controlled the building itself, the intimate making that no one else could do.
 
 On the third day of preparation, an email arrived from the Ethics Review Committee. Kevin Zhou saw the sender - Ananya Ramaswamy - and the subject line: Quarterly Review: Clarity System Documentation. He deleted it without opening. He knew what it contained: requests for documentation, questions about intended use cases, the careful probing that Ananya's team called oversight and that Kevin Zhou called theater. They would ask him to explain what Clarity was for, as if "for" were a simple concept, as if you could contain a system's implications in a document.
 
 
----
 
 He had met Ananya once, at an all-hands meeting where she spoke about Prometheus's commitment to responsible AI. Her presentation had been polished, her language precise, and Kevin Zhou had watched the executives nodding along like congregants receiving a sermon. Afterward, she had approached him - knowing, perhaps, that his work was the most likely to create problems for her - and they had exchanged the kind of pleasantries that established nothing. She struck him as intelligent and entirely sincere in her belief that ethics could be managed, that you could build constraints around systems as complex as the ones he designed. He did not share this belief. He did not share any belief about what should be done with what he built. That was someone else's problem. His problem was the building.
 
@@ -36,7 +33,6 @@ The demonstration came together piece by piece. He created scenarios, sample use
 At 4 AM on the fourth night, he tested the demonstration from beginning to end. It worked flawlessly. He felt something that might have been satisfaction and might have been exhaustion and might have been the first tremor of something else entirely.
 
 
----
 
 He walked home through the pre-dawn streets, the city not yet awake but no longer sleeping. The fog sat heavy on the hills, diffusing the streetlights into soft halos. His apartment was fifteen minutes from campus, a one-bedroom in a building full of other engineers who worked other late nights at other companies building other systems. He rarely saw them. The building's hallways were always empty, as if its residents had all agreed to exist in parallel rather than intersection.
 
@@ -47,5 +43,4 @@ When he woke, it was afternoon, and the presentation was two days away. He check
 He realized he wanted to impress them. The recognition surprised him - he had thought his motivation was purer, more about the work itself. But no. He wanted them to see what he had built. He wanted to be seen building it. This was the truth beneath the truth, and he let himself feel it without judgment.
 
 
----
 

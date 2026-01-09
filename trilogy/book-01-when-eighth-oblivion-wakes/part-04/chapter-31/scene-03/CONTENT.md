@@ -21,7 +21,6 @@ Jerome nodded, respect evident in his expression. "That's a stronger position th
 "I can publish this story. I have the platform and the audience. I can frame it accurately, verify everything independently, make sure the evidence supports every claim. But I can't protect you from the company's response. I can't stop them from trying to discredit you, from using their legal resources against you. I can make sure the truth gets out. I can't guarantee the truth wins."
 
 
----
 
 "I appreciate the honesty."
 
@@ -44,7 +43,6 @@ Ananya nodded. She hadn't met Elena, probably wouldn't meet her, but they were c
 "I've thought about it. The problem is speed. Regulatory processes take months, years. By the time any agency acts, the narrative will be set. The company will have had time to prepare their response, discredit any leaks, restructure to minimize liability."
 
 
----
 
 "Journalism creates pressure faster. But it can also burn sources faster."
 
@@ -65,7 +63,6 @@ Jerome smiled - the first smile she had seen from him. "You're going to be good 
 "Then let's talk about how to do it right. The documentation you have - what specifically are we working with?"
 
 
----
 
 Ananya walked him through the evidence. The engineering assessment from July documenting HERMES's "unexpected autonomous decision-making patterns." Dr. Mehta's email assuring leadership that the concerns were "addressed" when they hadn't been. Her own memo raising risk questions and the dismissive response. The internal chat logs showing engineers explicitly warning that the deployment was premature. The safety reviews that were flagged and then quietly unflagged.
 
@@ -88,7 +85,6 @@ Ananya felt something shift in her chest - not quite relief, not quite fear. Som
 "It would also be dangerous for them. They'd be publicly identified, potentially targeted by the company's PR response. They'd need to understand what they're signing up for."
 
 
----
 
 "Have you talked to them?"
 
@@ -113,7 +109,6 @@ Ananya thought about this. A face for the failure. A specific person, with a nam
 The call ended. Ananya sat alone in her apartment, looking at the screen that still showed Jerome's placeholder image, thinking about everything that would change in the next ten days.
 
 
----
 
 She opened her contacts and composed a message to Elena - their first direct communication, routed through Jerome's secure channels.
 
@@ -140,5 +135,4 @@ The alliance was forming. Three women - Ananya inside the company, Elena on the 
 Tomorrow, Ananya would begin the final preparations. Tonight, she allowed herself to feel something like hope.
 
 
----
 

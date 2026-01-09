@@ -19,7 +19,6 @@ Jerome's knife paused over the carrots. He hadn't considered that DeShawn might 
 Jerome finished the carrots, pushed them into the pot, began on the celery. The rhythm of the knife against the cutting board was meditative, a small ordered sound in a disordered evening. Outside, the December darkness had fully descended, and the kitchen window had become a mirror reflecting back the warm interior.
 
 
----
 
 "Tell me about the Tribune offer," Denise said. "Not the journalism part. The practical part."
 
@@ -48,7 +47,6 @@ Denise nodded slowly, still stirring, her face showing the calculation that twen
 "Are they?" Jerome set down the knife, leaned against the counter. "DeShawn isn't wrong. My subscriber base is—it's nothing, compared to what the Tribune can reach. If I publish independently, maybe it goes viral, maybe it doesn't. If I publish through the Tribune, millions of people see it. But millions of people might see a version of it. A careful version."
 
 
----
 
 "Let me ask you something." Denise turned off the burner, set the spoon aside. Her teaching voice, now, the one she used when guiding students toward a conclusion they needed to reach themselves. "What are you afraid of?"
 
@@ -77,7 +75,6 @@ Denise crossed the kitchen, stood beside him. Her hand found his, the familiar w
 She was right. She was usually right about these things, the archaeology of his anxieties. It was one of the gifts of long marriage: someone who knew your layers.
 
 
----
 
 "So let me ask you another question." Her hand still in his, her voice steady. "What would you regret more—publishing through your own platform and being ignored, or publishing through the Tribune and being compromised?"
 
@@ -102,7 +99,6 @@ He looked at her, surprised by the turn.
 "Was it?" Denise's eyes held his. "Different tools, same question. You do the work because the work needs doing. You tell the truth because the truth needs telling. Whether it changes anything—that's not actually your job."
 
 
----
 
 They ate the soup at the kitchen table, just the two of them, DeShawn having declined to come down. The conversation drifted to other things—her students, the difficulties of teaching history to teenagers convinced they already knew how the story ended, the small satisfactions and larger frustrations of her work. But beneath the ordinary talk, Jerome felt something settling.
 
@@ -127,5 +123,4 @@ She reached across the table, took his hand again. The soup was cooling, the kit
 "We tell him you listened. That's all he really wanted—to be heard. The rest is just details."
 
 
----
 

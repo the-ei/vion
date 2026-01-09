@@ -15,7 +15,6 @@ The words hit him before their meaning does. Conference. Four. DeShawn. The pare
 "Don't." She turns off the water. She does not turn around. "Just don't."
 
 
----
 
 He was in DC at four. He was at Union Station, calling Ruth Abramson, asking questions about algorithmic accountability while his son sat in a classroom with his mother and his teachers and one empty chair. He had put the conference in his calendar. He had set reminders. The reminders had come while he was on the phone with Ruth, and he had dismissed them without reading, had assumed they were something else, had been so absorbed in the conversation that the notifications were just noise.
 
@@ -30,7 +29,6 @@ He was in DC at four. He was at Union Station, calling Ruth Abramson, asking que
 Jerome does not have an answer. Or rather, he has many answers - explanations, justifications, the genuine belief that the work matters, that exposing these systems could help people who are being ground up by forces they cannot see. But none of those answers are what Denise is asking for. She is not asking him to explain himself. She is asking him to see her.
 
 
----
 
 "Where is DeShawn?"
 
@@ -51,7 +49,6 @@ Jerome sets down his bag. The documents inside feel heavier than they should, ev
 She climbs the stairs without looking back. Jerome stands alone in the kitchen, the fluorescent light harsh above him, the silence of the house pressing in like judgment.
 
 
----
 
 DeShawn's door is open.
 
@@ -78,7 +75,6 @@ DeShawn looks up, surprised by the question. "A project. For school. Sort of."
 "Can you show me?"
 
 
----
 
 DeShawn hesitates, then turns his laptop so Jerome can see the screen. The code means nothing to Jerome, but he recognizes one word in the comments: Prometheus.
 
@@ -105,7 +101,6 @@ DeShawn's expression is skeptical, but he turns the laptop back around. "Yeah. T
 The conversation is over. Jerome leaves his son to his code, his headphones, his life that is increasingly separate from his father's.
 
 
----
 
 He finds Denise in their bedroom, reading in bed, a novel open on her lap that she is not really reading. He sits on the edge of the mattress and does not speak, letting the silence stretch.
 
@@ -130,5 +125,4 @@ The words land like a physical blow. Jerome thinks about the past weeks, the inv
 He lies beside her, watching shadows on the ceiling, and does not sleep for a long time.
 
 
----
 

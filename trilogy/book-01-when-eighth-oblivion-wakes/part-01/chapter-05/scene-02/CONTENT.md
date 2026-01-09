@@ -23,7 +23,6 @@ The silence resumed. Ananya wrapped her hands around her coffee mug, though the 
 The mall. She remembered when Priya was small and trips to the mall were adventures, the two of them exploring together, trying on silly hats, sharing a pretzel. Now the mall was just a destination, a place to go, a structure for passing time that required nothing of either of them.
 
 
----
 
 They drove to the Stanford Shopping Center in near-silence, the radio filling the space between them. Priya looked out the window at the trees and the passing cars and the Saturday morning traffic of a suburban town, and Ananya looked at the road and tried not to think about the presentation deck, the predictive modeling, the phrases that had burrowed into her mind overnight.
 
@@ -48,7 +47,6 @@ Priya noticed. Of course she noticed. She was fourteen, not oblivious, and she h
 "No, I want to be with you. What are we looking for?"
 
 
----
 
 "Just stuff." Priya shrugged. "I don't know. Forget it."
 
@@ -73,7 +71,6 @@ But even as she said it she felt the lie in her mouth, the inadequacy of the wor
 They drove home in silence again, a different silence now, heavier with things unspoken. The house welcomed them with its emptiness, its rooms waiting to be filled, its spaces that had once held a family of three and now held these weekends, these attempts.
 
 
----
 
 "I have homework," Priya said, dropping her bag by the door. "A project. Due Monday."
 
@@ -100,7 +97,6 @@ Priya was sitting at her desk surrounded by papers and notebooks and open browse
 What Priya had was an opening paragraph and a lot of anxiety. The project wasn't impossible, wasn't even that complicated, but somewhere between the assignment and this moment it had become a monster in her mind, too big to approach.
 
 
----
 
 "I don't even understand what they want," Priya said, her voice climbing. "The rubric doesn't make sense and everyone else is done and I'm going to fail."
 
@@ -125,7 +121,6 @@ The words hung in the air, too sharp to unsay. Ananya felt them land, felt the t
 In the wreckage of the accusation, Ananya couldn't find words to defend herself. Because the defense would be a lie, and they would both know it.
 
 
----
 
 "I don't know how to do this," Priya said, more quietly now. "I don't know how to be your daughter when you're only sometimes my mother."
 
@@ -144,5 +139,4 @@ Priya didn't respond. She sat with her head down, the project forgotten, the rub
 The silence stretched between them, two people who loved each other and couldn't find their way across the distance.
 
 
----
 

@@ -19,7 +19,6 @@ Ananya felt the words land in her chest, in the space where she had been prepari
 "It means she's been asking questions. About Prometheus. About the crisis last year. About what you knew and when you knew it."
 
 
----
 
 "I work in ethics," Ananya said. "My entire job is to prevent crises like that."
 
@@ -44,7 +43,6 @@ Ananya stared at the glass wall in front of her, at the empty hallway beyond, at
 "I don't know that she knows. She's sixteen. She wants you to be her mother. She wants you to not be the Chief Ethics Officer of Prometheus Systems."
 
 
----
 
 "I can't be both?"
 
@@ -67,7 +65,6 @@ The call ended. Ananya sat in the conference room, phone still in her hand, watc
 Ananya had wanted that once, before she understood how the world actually worked. Before she learned that the obvious good was often unachievable, and the achievable good was rarely obvious. Before she made the compromises that allowed her to remain in rooms where decisions happened, trading purity for influence.
 
 
----
 
 What would she tell Priya, someday? Not now - now, Priya wouldn't hear it. But someday, when they sat across from each other as adults, when the distance had collapsed or calcified, when the question of what her mother had done required an answer?
 
@@ -88,5 +85,4 @@ The performance continued. The questions would wait.
 They always waited.
 
 
----
 

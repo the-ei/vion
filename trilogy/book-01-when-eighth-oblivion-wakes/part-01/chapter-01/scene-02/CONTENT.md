@@ -7,7 +7,6 @@ The table is long enough to seat twelve, though only six will attend this meetin
 Coffee appears without being ordered, delivered by a service that has learned the preferences of meeting participants and acts on that knowledge without being asked. Ananya's is a cortado, the same thing she makes at home but somehow different here, the same calibration applied to a different end. She thanks the person who delivers it, a young man in the uniform of the catering staff, though she knows the order came from a system that knew she would be here, knew what she would want, knew her better than he does.
 
 
----
 
 They arrive in the particular order that office hierarchies establish without ever being stated: first the support staff, then the mid-level attendees, then the senior leadership, the timing calibrated to suggest that important people have important things to delay them. Nathan Park, the general counsel, enters at 8:59 with his laptop already open, reviewing something as he walks, a performance of busyness that Ananya recognizes because she has performed it herself. Sarah Okonkwo, VP of Product, arrives with Nathan, mid-conversation about something unrelated, demonstrating their alignment before the meeting begins. David Reeves from data science enters alone, nodding at Ananya with the slight smile that might be collegial or might be condescending, the ambiguity his natural mode. Finally, Grace Holloway from communications, who will be responsible for framing whatever the meeting decides, for translating internal decisions into external language.
 
@@ -18,7 +17,6 @@ They settle into seats that reflect unstated preferences, Nathan at the head of 
 She pulls up her slides, the ones she has refined through seventeen drafts, the evidence she has gathered, the arguments she has rehearsed in the shower and the car and the sleepless hours between three and five AM. Three months of work compressed into twelve slides and twenty minutes of presentation time, which is already generous by Prometheus standards, already more than most ethics reviews receive.
 
 
----
 
 "Project Prism," she begins, "is designed to deliver personalized content through the aggregation of user signals across our platform ecosystem. The stated goal is to improve user experience by anticipating needs and reducing friction. My assessment is that the data collection exceeds user expectations, that the aggregation enables predictions users have not consented to, and that the personalization language obscures what is functionally surveillance."
 
@@ -31,7 +29,6 @@ Nathan listens with the attentiveness of someone who has been trained to appear 
 "Thank you, Ananya," Nathan says when she finishes. "Those are substantive concerns. Sarah, do you want to speak to the product perspective?"
 
 
----
 
 Sarah's slides are better than Ananya's, designed by a team with actual design resources, animated with transitions that suggest momentum and progress. The language is different: where Ananya said surveillance, Sarah says user modeling. Where Ananya said prediction, Sarah says anticipation. Where Ananya said data harvesting, Sarah says experience enhancement. The semantic shift is so smooth that Ananya can almost miss it, can almost believe that they are talking about the same things in different dialects rather than having two entirely separate conversations about the same product.
 
@@ -48,7 +45,6 @@ Ananya knows what this means: a settings page that three percent of users will e
 Nathan clears his throat, the gesture of a mediator who has already decided which side to mediate toward. "Perhaps we can find a middle ground. What if we delayed the launch for additional review? Give the ethics team two weeks to work with product on the consent language?"
 
 
----
 
 Two weeks. It is both more than she expected and exactly what she expected: the smallest possible concession that allows everyone to leave the room feeling that process has occurred. She will spend those two weeks drafting language that will be edited by legal, softened by communications, approved in its final form with her name attached but her voice removed. The feature will launch. The consent theater will perform. And Ananya will have participated in making the objectionable acceptable, will have lent her title and her presence to a process that transforms surveillance into personalization through the alchemy of collaboration.
 
@@ -59,7 +55,6 @@ David offers some data on user engagement metrics that suggest Prism will improv
 Ananya gathers her materials and walks back to her office through the open-plan floor, past the engineers who build what she reviews, past the product managers who ship what she slows, past the communications specialists who frame what she critiques. Some of them nod at her. Some of them do not see her, or pretend not to. Her role is understood: she is the friction in the system, necessary and resented, the conscience that the company maintains to prove it has one.
 
 
----
 
 Her assistant, Tomás, is waiting at his desk outside her office, the post-meeting debrief a ritual they have developed over two years of working together. He is twenty-six, sharp, probably destined for greater things than assisting an ethics officer, biding his time in a position that teaches him how the company actually functions.
 
@@ -84,5 +79,4 @@ She nods, stands, moves toward her office door. Inside, the window looks out on 
 The wondering is a ritual too. It never leads anywhere. By the time her calendar chimes, she is ready to perform again.
 
 
----
 

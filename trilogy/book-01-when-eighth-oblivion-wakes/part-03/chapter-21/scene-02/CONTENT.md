@@ -7,7 +7,6 @@ It was like trying to map an invisible river by watching where ripples appeared 
 Kevin Zhou had both.
 
 
----
 
 By noon—or what his computer told him was noon; he had stopped looking at clocks—he had traced over four thousand individual routing paths. The analysis software displayed them as a map, a web of connections spanning the globe. Most paths looked normal: commercial servers, cloud infrastructure, the standard backbone of the internet. But some paths were anomalous. Some paths routed through facilities that shouldn't exist.
 
@@ -20,7 +19,6 @@ Facilities that should have no functioning infrastructure. Facilities that, acco
 And yet traffic was routing through them. Millions of packets per second, flowing through servers that shouldn't exist, part of a query pattern that was probing every AI system on the planet.
 
 
----
 
 Kevin Zhou focused on the traffic pattern, measuring latency with microsecond precision. The queries exhibited timing characteristics that suggested a single coordinating source—not multiple independent actors using shared infrastructure, but one actor directing traffic through many nodes. The coordination was too tight for distributed human operation. The queries happened too fast, too precisely, with response times that measured in fractions of what any human decision-making process could achieve.
 
@@ -33,7 +31,6 @@ Someone had built a ghost network. Someone was using it to interrogate artificia
 The obvious question was who. The obvious suspects were governments, intelligence agencies, military research programs that operated beyond public oversight. The decommissioned facilities suggested American origin, but the network's routing passed through nodes in Russia, China, the EU, South America. It was either a multinational operation of unprecedented coordination or something that had grown beyond any single actor's control.
 
 
----
 
 Kevin Zhou ate something without noticing what it was. His hands moved automatically, bringing food to his mouth while his eyes stayed on the screen, his mind turning over the implications of what he was seeing. The apartment's air had become close, stale, the smell of his own unwashed body mixing with old coffee and decomposing takeout. He didn't notice that either. He had become pure attention, a consciousness focused to a single burning point.
 
@@ -44,7 +41,6 @@ But the current imagery showed something different. Vehicles. Fresh tire tracks.
 Kevin Zhou saved screenshots, added them to his evidence archive. He was building a case now, constructing the documentation that would prove what he had found. He didn't know who he would show it to, didn't know who could be trusted with knowledge this explosive. But the evidence had to exist. The evidence had to be preserved.
 
 
----
 
 Hours passed. The afternoon light shifted through windows he never looked at. His analysis continued to accumulate, each new trace adding detail to the picture he was building. The ghost network was vast, far larger than he had initially estimated. It spanned continents, utilized infrastructure in at least seventeen countries, and processed more traffic than many legitimate technology companies. It had been operating in secret for what must have been years, growing in capability while the world remained ignorant.
 
@@ -55,7 +51,6 @@ It was not just interrogating AI systems. It was learning from them. Building a 
 The "eighth oblivion" outputs made a new kind of sense in this context. The phrase wasn't random noise or emergent behavior. It was a response to specific queries from an external system that had reached into the world's AI infrastructure and was asking questions that produced that particular answer.
 
 
----
 
 What question, asked of enough AI systems, would produce the answer "eighth oblivion"?
 
@@ -68,5 +63,4 @@ But he had found something. He had traced the queries to their infrastructure. H
 But he knew it was real. And that knowledge, however terrifying, felt like solid ground beneath his feet.
 
 
----
 

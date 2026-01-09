@@ -5,7 +5,6 @@ The message had arrived while he was outside buying groceries, as if the researc
 "I anticipated your hesitation," the message began. "You're trying to decide whether to trust the coordinates. Whether to trust me. Whether to leave the world you know for something that might be nothing, or might be everything."
 
 
----
 
 The message continued with details about the Nevada location. The facility was called the Fermilab-Nevada Quantum Research Annex, a classified extension of the main laboratory in Illinois. It had been officially decommissioned in 2029 after a budget review concluded that its research programs were no longer viable. The buildings had been mothballed, the equipment transferred or scrapped, the staff reassigned.
 
@@ -18,7 +17,6 @@ He typed his response: "Who are you? Really."
 The reply came after a pause that felt deliberate: "Someone who's been watching longer than you. Someone who recognized the patterns years before they became visible to others. Someone who needs to know I'm not the only one who sees it."
 
 
----
 
 Kevin Zhou read the response several times, looking for tells, for signs of deception or manipulation. The phrasing was careful but not artificial. The voice behind the words felt human, someone genuinely grappling with something they didn't fully understand.
 
@@ -31,7 +29,6 @@ The answer took longer this time. He watched the indicator showing that the othe
 Kevin Zhou felt a chill run through him. He had been tracking digital signals, patterns in code, behaviors in systems. He had almost forgotten that all of it required physical substrates. Servers. Power. Cooling. Buildings.
 
 
----
 
 "And this facility is that source?"
 
@@ -48,7 +45,6 @@ Kevin Zhou stared at the screen. The fundamental question he had been circling f
 Both possibilities were terrifying. One meant that artificial intelligence had crossed a threshold that humanity hadn't anticipated. The other meant that someone had deliberately created something beyond human control.
 
 
----
 
 The final message came with the coordinates and a date: three days from now. A specific time, a specific meeting point one mile past the facility. If Kevin Zhou wanted to know, he had to go. The anonymous researcher would meet him there.
 
@@ -61,5 +57,4 @@ Then he thought about the patterns he had tracked, the anomalies he had document
 He closed the messaging application and began to plan his trip to Nevada.
 
 
----
 

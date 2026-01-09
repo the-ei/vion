@@ -13,7 +13,6 @@ Ananya considered the question. How was she? Unemployed, effectively. Under thre
 "I'm okay," she typed back. "Better than I thought I'd be."
 
 
----
 
 Priya's response was immediate: "I'm proud of you. I know I keep saying that, but I mean it."
 
@@ -32,7 +31,6 @@ The character assassination was textbook. She'd studied enough corporate crisis 
 But the evidence remained. Jerome's story, now spread across multiple platforms, was still circulating. The congressional hearing was scheduled for January. And regulators, slower than journalists but potentially more consequential, were beginning their own investigations.
 
 
----
 
 A message from Jerome arrived mid-morning: "Seeing the Prometheus statement. It's ugly but predictable. How are you holding up?"
 
@@ -49,7 +47,6 @@ The afternoon passed in the strange rhythm of forced idleness. She reviewed the 
 Around three o'clock, she forced herself to leave the apartment. The San Francisco streets were crowded with the usual mix of tech workers and tourists, the city going about its business without regard to her particular crisis.
 
 
----
 
 She walked to the waterfront, found a bench facing the bay, and sat with the wind against her face. The bridge was visible in the distance, its red towers cutting through the afternoon haze. She'd crossed that bridge countless times in her years in San Francisco, commuting to offices in the East Bay, visiting Vikram before the divorce, taking Priya to see friends. The bridge had been part of the geography of her life, unremarkable in its constancy.
 
@@ -66,7 +63,6 @@ Ananya read the message twice. The connection she'd formed with Elena—a nurse 
 We need both. The phrase resonated. They needed each other.
 
 
----
 
 By evening, Ananya had returned to her apartment and made a decision. She would go to Boston for Christmas. She would see Priya, spend time with her daughter, remember that her life was more than the story that was consuming it. The hearing would come in January, the consequences would unfold, the future would reveal itself. But for now, she could step back, breathe, be a mother instead of a whistleblower.
 
@@ -85,13 +81,12 @@ The evidence was out. The testimony was coming. And whatever happened next, Anan
 That would have to be enough.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Jerome spent the morning reading the discourse.
 
@@ -106,7 +101,6 @@ Jerome closed his laptop and stared at the wall of his office. The certificates 
 DeShawn's voice, from two weeks ago, echoed in his head: "When was the last time an investigation actually changed anything?"
 
 
----
 
 Denise found him there an hour later, still staring, the laptop closed, the coffee cold.
 
@@ -135,7 +129,6 @@ Jerome nodded slowly. The uncertainty was the hardest part—not knowing whether
 "I think he might be right. And I think that doesn't mean we stop trying."
 
 
----
 
 Later that afternoon, Jerome drove to Baltimore to visit his mother. Dorothy was in the memory care facility they'd found after the diagnosis accelerated, the place that had become her home since she couldn't safely live alone.
 
@@ -164,7 +157,6 @@ His father had been dead for fifteen years, but in Dorothy's mind the timeline w
 "Denise is a smart woman. You should listen to her."
 
 
----
 
 The drive home was long and quiet, the winter darkness falling early, the highway lights creating their rhythmic pattern against the windshield. Jerome thought about his mother's words, about Denise's words, about the strange accumulation of wisdom that came from the women in his life.
 
@@ -187,7 +179,6 @@ He handed Jerome the phone. On the screen, a young man was playing guitar and si
 Jerome watched the young man sing, watched the pain and defiance in his face, watched the truth he'd documented transformed into something else, something that lived in a different register entirely.
 
 
----
 
 "This is good," Jerome said, handing the phone back. "This is—this is what it looks like when the story becomes more than the story."
 
@@ -212,13 +203,12 @@ DeShawn nodded, still holding the phone, still watching the young man sing.
 It was the closest thing to an apology Jerome was likely to get. He took it, gratefully, and went to find Denise and tell her about the seed that was beginning to grow.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The shift was long—twelve hours, seven in the morning to seven in the evening—but Elena had done longer. The work itself was familiar, the endless procession of bodies in need, the particular rhythm of care that had shaped her professional life for a decade and a half. What had changed was the context surrounding that work, the knowledge that she was now a public figure whether she wanted to be or not.
 
@@ -239,7 +229,6 @@ Mr. Rodriguez shook his head slowly. "Not anyone. Most people stay quiet. You di
 She checked his vitals, reviewed his medications, made notes in his chart. The routine of care, the small competencies that comprised her profession. Through the whole interaction, she was aware of herself as someone being observed, judged, assigned meaning beyond what she intended.
 
 
----
 
 The morning brought more patients, more conversations, more of the endless work. Some had heard about the story and wanted to talk about it; others came simply for healthcare and knew nothing about the nurse treating them. Both kinds of encounters felt important, the balance between public role and professional practice that she was still learning to navigate.
 
@@ -264,7 +253,6 @@ They stepped into an empty exam room, the door closed against the chaos of the c
 "I think your documentation may have saved lives. I think the AI systems need oversight. And I think—" She hesitated. "I think you were brave."
 
 
----
 
 The admission surprised Elena. She'd expected continued coldness, the institutional distance that had characterized their interactions since the story broke. Instead, Patricia was offering something almost like respect.
 
@@ -283,7 +271,6 @@ Elena read the message three times. The gratitude felt both heavy and precious, 
 "Your mother was my patient," she wrote back. "I owed her the truth. I still owe her. The song you made—that's the testimony I couldn't give. Different words, same meaning."
 
 
----
 
 The shift ended at seven. Elena gathered her things, said goodbye to Miguel, walked to her car in the December darkness. The drive home was the same route she'd driven a thousand times, the Phoenix sprawl familiar and comforting in its predictability. But she saw it differently now, the city where she'd built her life, the place where her work had become something larger than herself.
 
@@ -304,7 +291,6 @@ She wasn't sure Sofia understood. She wasn't sure she understood it herself, the
 Daniel had made soup—his mother's recipe, the one Elena had never quite mastered—and the kitchen smelled of garlic and warmth. Abuela was already at the table, Mateo in her lap, the family configuration that had become the center of Elena's world.
 
 
----
 
 They ate together, the conversation ranging from school projects to clinic stories to the congressional hearing in January. Abuela asked careful questions about the testimony, about what Elena planned to say, about the risks and opportunities. Her grandmother's wisdom, earned through decades of survival, was a constant anchor.
 
@@ -327,13 +313,12 @@ She turned off the light, closed the door, stood in the hallway for a moment lis
 That was enough. For now, it had to be enough.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The video had been live for three days, and Yusuf's phone hadn't stopped buzzing since.
 
@@ -358,7 +343,6 @@ Easy for her to say. Amina was sixteen, digital native, comfortable navigating t
 "What do you want?"
 
 
----
 
 The question stopped him. What did he want? He wanted his mother back, but that was impossible. He wanted the systems that killed her to face consequences, but that was uncertain. He wanted to make music that mattered, to have a voice that reached people, to be more than a data point in someone else's optimization equation.
 
@@ -375,7 +359,6 @@ Jerome's message came around noon: "The congressional hearing would be powerful 
 Yusuf read the message several times. The hearing felt important—a chance to put his mother's story on the official record, to make the failure undeniable in a way that tweets and videos couldn't. But it also felt terrifying. Sitting in front of Congress, answering questions from senators who might be hostile, becoming a symbol of something larger than himself.
 
 
----
 
 "I'll do it," he wrote back. "But I want to be prepared. I want to understand what I'm getting into."
 
@@ -398,7 +381,6 @@ Yusuf thought about his mother again, about the faith that had sustained her, ab
 "I know. But you can do it."
 
 
----
 
 That evening, the delivery app pinged. A shift available, decent pay, the familiar pull of the gig economy that had structured his life for years. For a moment, Yusuf stared at the notification, feeling the old habits tug at him. The apps were back online, the crisis passed, the world returning to its previous rhythms as if nothing had changed.
 
@@ -425,7 +407,6 @@ Amina looked at him with an expression he couldn't quite read—pride, maybe, or
 "I hope so."
 
 
----
 
 Later that night, after Amina had gone to sleep, Yusuf sat with his guitar and worked on a new song. This one was different from the video that had gone viral—slower, more personal, less angry and more grieving. He was learning that his voice had multiple registers, that testimony could take many forms.
 
@@ -449,13 +430,12 @@ He put down the guitar and looked out the window at the Minneapolis night. The s
 The snow kept falling. The city slept. And Yusuf sat with his grief and his hope and the strange new voice he was learning to use.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 December 28th, 2033. Four cities. Four notifications.
 
@@ -468,7 +448,6 @@ In Phoenix, Elena opens a letter from the congressional office. Invitation to te
 In Minneapolis, Yusuf gets a DM from Keisha, the organizer from Gig Workers United. "They want you at the hearing. Not just in the audience—as a witness. Your story. Your mother's case. Your voice. Can you do it?" He reads the message, rereads it, lets the question settle into his body. Can he do it? He doesn't know. But he's going to try.
 
 
----
 
 Four people. Four windows. Four moments of the same decision.
 
@@ -489,7 +468,6 @@ January 15th. The hearing room. The reckoning.
 The story continues.
 
 
----
 
 
 

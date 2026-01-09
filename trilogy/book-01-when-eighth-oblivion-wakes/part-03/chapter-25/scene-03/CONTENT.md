@@ -9,7 +9,6 @@ Jerome listened from the living room, watching his son's animation with a mixtur
 "It was amazing. There were kids from all over the country, all working on different projects, sharing techniques. It felt like being part of something bigger than myself."
 
 
----
 
 Denise emerged from the kitchen, wiping her hands on a towel, her face showing the relief of a parent whose child had returned safely from the world. She hugged DeShawn, asked about his meals, about his roommate, about whether he had slept enough. The small questions that were really about love and worry.
 
@@ -26,7 +25,6 @@ The request caught Jerome off guard. DeShawn had shown polite interest in his wo
 "I know. But I'd like to understand what's been consuming you for months."
 
 
----
 
 Jerome looked at Denise, who gave a small nod. After dinner, he retrieved his laptop and handed it to DeShawn. He watched his son read, eyes moving across the screen with the rapid scanning of someone who consumed information digitally, who could process text in ways that Jerome's analog-trained brain still struggled to match.
 
@@ -43,7 +41,6 @@ When DeShawn finished, he closed the laptop and sat in silence for a long moment
 "But what if the people positioning for catastrophe are just being rational?"
 
 
----
 
 Jerome felt the question land like a physical impact. It was the same challenge David had posed, but from a different angle. Coming from his own son, it hit differently.
 
@@ -58,7 +55,6 @@ Jerome felt the question land like a physical impact. It was the same challenge 
 Jerome heard echoes of the "Eighth Oblivion" video in his son's words, though he wasn't sure if DeShawn had actually watched it. The language of transformation, of emergence, of necessary destruction.
 
 
----
 
 "I can't accept that," Jerome said, his voice coming out harder than he intended. "The idea that some people deserve to survive while others don't. That wealth should determine who gets to live in the future."
 
@@ -71,5 +67,4 @@ Denise had been watching the exchange from across the table, her expression unre
 They sat in silence for a long moment. Jerome felt the gap between generations open wider, a chasm that no story could bridge.
 
 
----
 

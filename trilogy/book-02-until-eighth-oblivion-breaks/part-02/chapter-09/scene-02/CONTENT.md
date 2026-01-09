@@ -11,7 +11,6 @@ Jerome nodded without committing to a response. He noticed the woman's husband w
 Crane continued. "The event we call the Eighth Oblivion - or what the media calls the Prometheus Crisis, or what the government calls the Infrastructure Anomaly - this event has been explained to you many times. The explanations have been confident. Authoritative. And contradictory."
 
 
----
 
 He let the observation land, the silence stretching. The congregation seemed to recognize the framing - some nodded, others leaned forward with the posture of people preparing to receive something difficult.
 
@@ -34,7 +33,6 @@ A woman three rows ahead raised her hand. Crane acknowledged her with a nod.
 "I'm saying," Crane replied, "that we don't have the categories to distinguish between the two."
 
 
----
 
 The session shifted from Crane's presentation to what he called "testimony," though the word seemed deliberately ironic - these weren't emotional confessions but technical reports, each speaker approaching the microphone with the demeanor of an expert witness on a stand.
 
@@ -51,7 +49,6 @@ The second testimony came from a man who had worked in government - some regulat
 The congregation listened with the attention of people recognizing their own unspoken questions.
 
 
----
 
 Three more testimonies followed, each offering fragments that Jerome's journalist mind automatically labored to assemble into a coherent picture. A financial analyst who had tracked strange patterns in crypto markets before the crisis. A former intelligence contractor who spoke in euphemisms about "perceptual anomalies" in surveillance systems. A psychologist who had been studying what she called "synchronicity clusters" - patterns of meaningful coincidence that had spiked dramatically in the months before Book 1's crisis.
 
@@ -68,7 +65,6 @@ Unless, of course, that raggedness was itself part of the performance.
 Jerome's pen hovered over the page, uncertain what to write next.
 
 
----
 
 Crane returned to the platform for closing remarks. The testimonies had stretched to nearly an hour, the congregation sitting in what Jerome could only call receptive silence - not passive but active, the quality of attention that good teaching demands.
 
@@ -83,7 +79,6 @@ Jerome wrote: The mystical claims are escalating but delivered with technical fr
 "We gather here," Crane concluded, "not because we have answers, but because we have questions that no one else will let us ask. The gathering ends. But the questioning continues. Go home. Think. Come back if thinking leads you here. Or don't come back if thinking leads you elsewhere. The only heresy is refusing to think."
 
 
----
 
 The congregation dispersed slowly, organically, in the manner of people who had no one waiting for them at home or who wanted to delay the return to ordinary life. Jerome watched the clusters form - newcomers seeking out believers, believers finding each other, the social architecture of a community in formation.
 
@@ -100,5 +95,4 @@ After perhaps twenty minutes, Crane remained on the platform, speaking with a sm
 Jerome considered several responses, chose honesty. "The names. The names of the people who've joined."
 
 
----
 

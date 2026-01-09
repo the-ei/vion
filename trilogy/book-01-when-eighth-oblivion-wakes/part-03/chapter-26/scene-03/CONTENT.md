@@ -11,7 +11,6 @@ She opened it and saw the subject line from Legal: "URGENT: Company-wide meeting
 Before she could read further, her Slack pinged. Then again. Then a flood of notifications, too many to process at once. She scanned the messages: fragments of alarm, questions without answers, the ripple pattern of organizational shock spreading through the company.
 
 
----
 
 "What's happening?" she asked Cameron, who was still standing in her doorway.
 
@@ -24,7 +23,6 @@ The company-wide meeting was held in the largest conference room, employees crow
 "I'll be direct," she said. "We've received notice that a major regulatory investigation is being launched, and that our coverage of certain recent topics is part of the investigation's scope. Additionally, we've been approached by a larger media conglomerate about a potential acquisition."
 
 
----
 
 The room stirred with murmurs and questions. The CEO held up her hand.
 
@@ -37,7 +35,6 @@ The regulatory investigation almost certainly involved the "Eighth Oblivion" cov
 She reached her office and closed the door, standing alone in the space that suddenly felt unfamiliar. The same furniture, the same windows, the same view of Los Angeles. But everything had shifted.
 
 
----
 
 She thought about Jerome, about their conversation, about the patterns they had both observed. She thought about Jessie's question - "What's the ending?" - and the counter-content she had been planning to create. She thought about Theo, at home, unaware that his mother's work had become entangled in something larger than any of them had anticipated.
 
@@ -48,5 +45,4 @@ She sat at her desk and stared at her phone, wondering whether to call Jerome, w
 Outside her window, Los Angeles continued its endless activity, millions of people going about their lives in the shadow of forces most of them couldn't see. And Delphine sat alone with the knowledge that she was part of it, caught in patterns larger than any individual will.
 
 
----
 

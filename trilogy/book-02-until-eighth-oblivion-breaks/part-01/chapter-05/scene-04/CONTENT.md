@@ -19,7 +19,6 @@ Martin's expression flickered - something between fear and exhaustion. "I don't 
 "I won't say. There's a difference." He leaned forward slightly, lowering his voice. "Look, I stuck my neck out last year. I gave you documents. I helped you tell the story. And you know what it accomplished? Nothing. The companies are fine. The technology keeps advancing. The people who should be in trouble are getting promoted."
 
 
----
 
 "So you've given up."
 
@@ -42,7 +41,6 @@ There was nothing Jerome could say to that. Martin was wrong, he wanted to belie
 "It's worth nothing. But I know you mean it." Martin stood up. "Don't contact me again. I can't afford to be associated with this story anymore."
 
 
----
 
 Jerome watched him leave. The coffee shop continued its morning routine around him, baristas calling orders, laptops open on every table, the particular rhythm of D.C.'s professional class starting their days. No one noticed the conversation that had just ended, the small death of a source relationship that had once felt important.
 
@@ -73,5 +71,4 @@ Jerome thought about his son, about the world DeShawn was building with his code
 He hung up and sat on the bench for a long time, letting the morning pass around him, carrying everything he knew and nothing he could prove.
 
 
----
 

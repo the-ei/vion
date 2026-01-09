@@ -13,7 +13,6 @@ She opened the folder.
 The documents inside were exactly as she remembered: the internal projections, the risk assessments, the emails between executives discussing scenarios never meant for outside eyes.
 
 
----
 
 The phrase Eighth Oblivion appeared on the third page, in a memo from the head of the advanced projects division to the CEO. She had read this memo so many times that she could recite it from memory, but she read it again now, letting the words move through her with their full weight.
 
@@ -28,7 +27,6 @@ She turned to the next document, a risk assessment from the safety team, one she
 Might not be controllable. She had flagged this language, had suggested stronger phrasing, had been overruled.
 
 
----
 
 She thought about Jerome Washington, the journalist who had published the first stories, who had taken the documents she had given him and turned them into articles that millions of people had read. She had met him only once, in a coffee shop in Oakland that she had chosen for its anonymity, its distance from the usual tech-industry haunts. He had been younger than she expected, more intense, his questions sharp and probing in a way that had made her feel simultaneously seen and exposed.
 
@@ -43,7 +41,6 @@ Instead she sat at her desk and looked at the documents and let herself feel the
 And she would do it again. That was the thing she kept returning to. Given the same circumstances, the same knowledge, the same choice, she would do it again.
 
 
----
 
 The Eighth Oblivion. She had spent months trying to understand what that phrase meant, trying to grasp the scale of what the projections suggested. The previous oblivions, if the historical framework was accurate, had been the great transformations: the agricultural revolution, the invention of writing, the rise of cities, the printing press, the industrial revolution, the digital age, the networked world. Each one had changed what it meant to be human, had restructured society in ways that could not have been predicted or reversed.
 
@@ -58,7 +55,6 @@ If we don't do it, someone else will.
 She closed the folder and placed her hand on top of it, as if she could contain what it represented through physical pressure. Outside, the last light had faded, and her office had grown dark around her. She did not move to turn on a lamp. She sat in the darkness and waited, though she could not have said what she was waiting for.
 
 
----
 
 Something was becoming clear, in the way things become clear not through sudden insight but through gradual accumulation, through the slow gathering of thoughts into pattern.
 
@@ -75,5 +71,4 @@ She sat in the darkness of her office, her hand on the folder, and she watched. 
 Whatever came next, she would meet it with her eyes open.
 
 
----
 

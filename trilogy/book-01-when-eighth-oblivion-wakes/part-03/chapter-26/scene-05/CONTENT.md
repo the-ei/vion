@@ -13,7 +13,6 @@ He would wait. He had come too far to leave without answers. The anonymous resea
 The desert held its silence. The sun touched the horizon. And Kevin Zhou watched and waited.
 
 
----
 
 Los Angeles. Night falling.
 
@@ -26,7 +25,6 @@ Outside her window, LA sprawled in its million-light glory, a city built on drea
 She wrote. The night deepened. And the story continued to unfold.
 
 
----
 
 Three people who didn't know each other. Three trajectories that would, in the events to come, begin to intersect. A journalist meeting a source in Virginia. A technologist waiting in the Nevada desert. A media strategist writing her testimony in Los Angeles.
 
@@ -43,5 +41,4 @@ In the office, Delphine saved her document and finally stood to leave.
 Something was beginning.
 
 
----
 

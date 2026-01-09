@@ -15,7 +15,6 @@ His notes were on a tablet just below camera level, though he would not look at 
 Looking good. As if that were the thing that mattered.
 
 
----
 
 The intro package played in his earpiece while his image remained frozen on screen, waiting to animate. He heard his own name, heard phrases like "groundbreaking investigation" and "revealed the truth" and "Eighth Oblivion," and each word landed with a weight that was both validation and reduction. Years of work compressed into a fifteen-second context package. A career translated into bullet points.
 
@@ -34,7 +33,6 @@ The question was designed to elicit summary, to give viewers who had not followe
 "The fundamental situation hasn't changed," he said, and his voice sounded to his own ears like a performance of itself, like someone playing the role of Jerome Washington. "Prometheus Systems and other major AI companies are still racing toward capabilities that their own internal documents suggest may be uncontrollable. The 'Eighth Oblivion' scenario I wrote about is still the most likely outcome of that race, according to the experts I've spoken with."
 
 
----
 
 "But Jerome, some critics have said that your reporting has been alarmist. That the 'Eighth Oblivion' framing is itself a kind of sensationalism. How do you respond to that?"
 
@@ -51,7 +49,6 @@ The response came out sharper than he intended, and he saw the host's eyebrows r
 The interview continued for another ten minutes, the host asking questions designed to elicit drama, Jerome trying to convey complexity within the constraints of the format. By the end, his face ached from the effort of maintaining appropriate expression.
 
 
----
 
 "That was great, Jerome. Really strong."
 
@@ -74,7 +71,6 @@ He opened his laptop and navigated to the social media feeds where his interview
 He scrolled through the comments with the detached attention of a researcher cataloging phenomena, noting the patterns, the talking points, the coordination that suggested some of the attacks were not organic.
 
 
----
 
 The clip was everywhere within thirty minutes. He watched it spread, watched the engagement numbers climb, watched his face repeated across platforms in thumbnail after thumbnail. The version of him that existed in the digital space was no longer quite him—it was an image, a symbol, a vector for arguments that others wanted to make.
 
@@ -89,7 +85,6 @@ He closed the laptop and stood up, moving away from the screens that wanted his 
 Being right felt hollow. That was the thing he kept discovering. Being right, and being heard, and being validated—none of it changed the fundamental situation. The race continued. The risks remained. And he was just a man talking to a camera, hoping his words might matter to someone.
 
 
----
 
 He went to the kitchen and made more coffee, though he did not need it, though his hands were already shaky from the first pot. The making of coffee was something to do with his body while his mind processed what had happened.
 
@@ -106,5 +101,4 @@ But the gap between attention and impact kept widening. Millions of people had s
 He drank his coffee and looked out the window at the Baltimore winter, at the gray sky and the bare trees and the world that continued to exist, indifferent to the things he said about it on camera.
 
 
----
 

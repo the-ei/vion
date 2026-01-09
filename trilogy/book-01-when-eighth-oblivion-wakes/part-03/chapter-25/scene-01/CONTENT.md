@@ -9,7 +9,6 @@ The words came fast, almost faster than he could type.
 This story is about that angle."
 
 
----
 
 He wrote about the investment patterns he had tracked: the 340% increase in private security investment, the land purchases in remote regions, the infrastructure development that made sense only if you assumed certain systems were going to fail. He wrote about the sectors that matched the "Eighth Oblivion" video's predictions - security, infrastructure, autonomous systems, longevity - and documented the correspondence with financial data.
 
@@ -20,7 +19,6 @@ He wrote about Prometheus Systems as the central node, the company that appeared
 And he wrote about the viral video itself. Not endorsing its predictions, not debunking its claims, but documenting the strange fact that a piece of anonymous content had accurately described investment patterns that were already underway.
 
 
----
 
 The article took shape over hours, the structure emerging organically from the material. Jerome had written enough stories to recognize when one was finding its form, when the pieces were falling into place with the kind of inevitability that felt like discovery rather than construction.
 
@@ -31,7 +29,6 @@ This was different from his previous work. The corruption investigations had bee
 He paused to stretch his back, to look out the window at the summer day he was ignoring, to remember that he was a person with a body and not just a channel for words. The clock on his desk showed three in the afternoon. He had been writing for six hours.
 
 
----
 
 He returned to the draft, now past the documentation phase and into the analysis. This was the harder part - drawing conclusions from the evidence without overreaching, making claims that could be defended without retreating into the safety of mere description.
 
@@ -42,7 +39,6 @@ One interpretation is benign: sophisticated investors, with access to better inf
 Another interpretation is less benign: the wealthy are abandoning the shared systems that the rest of society depends on. They are building parallel infrastructures - private security, autonomous systems, longevity technology - designed to insulate them from whatever is coming. They are not solving the problems they see approaching. They are escaping them."
 
 
----
 
 He wrote about Delphine's observations - not naming her, but describing the engagement patterns she had identified. The way the "Eighth Oblivion" content was spreading in ways that looked organic but felt coordinated. The possibility that the attention economy and the financial economy were both responding to the same signals, or generating those signals through their interaction.
 
@@ -55,7 +51,6 @@ The wealthy are not planning catastrophe. They are positioning for it. And their
 He finished the draft in the late afternoon, the summer light going golden through his windows. He sat back and read the whole thing through, from beginning to end, with the critical eye of someone who had spent thirty years learning to judge his own work.
 
 
----
 
 It was good journalism. Well-sourced, carefully reasoned, responsibly caveated. It made claims that could be defended and invited readers to reach their own conclusions. It didn't sensationalize, didn't predict doom, didn't traffic in the kind of fear-mongering that characterized most coverage of the "Eighth Oblivion" phenomenon.
 
@@ -70,5 +65,4 @@ He saved the draft and attached it to an email to Paula Henderson, his editor. T
 Then he sat in his office, surrounded by the evidence of months of work, and waited for whatever came next. He had done what he could. The rest was out of his hands.
 
 
----
 

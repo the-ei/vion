@@ -9,7 +9,6 @@ The math ran automatically in his head. If he picked up four grocery deliveries 
 He was always too tired. But tired did not pay rent.
 
 
----
 
 Yusuf dressed quickly, layers against the cold: thermal undershirt, flannel, the jacket his father had worn before the accident. It was too big for him, but he wore it anyway, the extra fabric a kind of embrace from a man who had been gone for seven years now. He moved quietly through the apartment, past his mother's closed door, past Amina's room where she slept with her phone clutched in her hand like other teenagers, past the kitchen where last night's dishes waited in the sink.
 
@@ -20,7 +19,6 @@ His car waited in the lot behind the building, a 2019 Honda Civic with 187,000 m
 The engine turned over on the second try. He let it warm up while he checked the app again, watching orders appear and disappear as other drivers claimed them.
 
 
----
 
 The first delivery was in Edina, a wealthy suburb where the houses had three-car garages and the lawns were still brown from winter but would soon be green and perfect, maintained by landscaping crews full of men who looked like Yusuf's uncles. He pulled up to the address, a Tudor-style home with a circular driveway, and gathered the grocery bags from his back seat. Organic milk. Grass-fed beef. Something called adaptogenic mushroom coffee that cost more than his weekly food budget.
 
@@ -33,7 +31,6 @@ His rating held steady at 4.92, which was good enough to keep the algorithm from
 The second delivery was better. An elderly man in a small house near Lake Harriet, retired, lonely, wanted to talk about the weather and the Twins and whether Yusuf thought spring would ever really arrive. He tipped ten dollars in cash, pressed into Yusuf's hand with a grip that spoke of a generation that still believed in human exchange.
 
 
----
 
 By nine-thirty, Yusuf had completed six deliveries and was running on fumes of coffee and determination. The morning had been a mixed bag: two good tips, three nothing, one order canceled mid-route that left him holding grocery bags he had to return to the store for no compensation. The algorithm did not explain why orders were canceled. The algorithm did not explain anything.
 
@@ -46,7 +43,6 @@ His phone buzzed: a batch order, three deliveries clustered in the same neighbor
 The third address was wrong. The app said 4523 Maple Street. There was no 4523 Maple Street. There was 4521 and 4525, a gap where the house should have been, as if the algorithm had invented an address that did not exist.
 
 
----
 
 Yusuf parked between the two houses and called the customer. No answer. He texted through the app: explaining the situation, asking for clarification, his tone professional despite the frustration building in his chest. The timer on the delivery continued counting down, indifferent to the impossibility of completing a delivery to a house that did not exist.
 
@@ -61,5 +57,4 @@ He passed another gig worker on the return trip, a woman about his age, Latina, 
 Then the light changed, and they went their separate ways, each one alone with their phone and their algorithm and the math that would not add up no matter how hard they worked.
 
 
----
 

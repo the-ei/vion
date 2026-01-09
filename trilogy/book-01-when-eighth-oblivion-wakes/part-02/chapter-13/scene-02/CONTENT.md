@@ -7,7 +7,6 @@ The train passes through Wilmington, through the tunnel under Philadelphia, emer
 The conductor announces Washington in forty-five minutes. Jerome closes his laptop and watches the land change, the suburbs thickening as the train approaches the capital, the monuments visible in the distance like promises about what America is supposed to be.
 
 
----
 
 Jamie Okonkwo is younger than Jerome expected. She sits across from him in a coffee shop on Pennsylvania Avenue, half a block from the Capitol, her laptop open and her phone face-down on the table in a gesture of attention that Jerome recognizes as both courtesy and performance. She is perhaps twenty-eight, with braids pulled back from a face that looks tired in a way that suggests chronic rather than acute exhaustion, the particular weariness of people who work in government and care about their work.
 
@@ -24,7 +23,6 @@ Jamie is quiet for a moment. She looks at him with an expression that is evaluat
 "Tell me what you've found," she says.
 
 
----
 
 He tells her. He lays out the corporate structure, the investment flows, the pattern of companies operating in different sectors but sharing common funders and common technologies. He does not show her all of his documents - he has been a journalist long enough to know that revealing everything leaves you with nothing - but he shows her enough to demonstrate that he is serious, that his connections are real, that the pattern he is describing is not speculation.
 
@@ -41,7 +39,6 @@ Jamie listens without interruption. When he finishes, she is quiet for a long mo
 Jamie laughs, but there is no humor in it. "We can try. They have very good lawyers. And there's political pressure - Prometheus has friends on both sides of the aisle, donors whose names appear on fundraising lists I'm not supposed to see. Every time we get close to meaningful oversight, something slows us down. Not stops us. Slows us. Death by delay."
 
 
----
 
 They talk for over an hour. Jamie shares what she can - publicly available hearing transcripts, reports that have been filed but not publicized, the names of other investigators in other committees who have encountered similar patterns. She is careful not to violate any confidences, but she is also clearly frustrated, eager to see the investigation move faster than the congressional apparatus allows.
 
@@ -58,7 +55,6 @@ Jerome thinks about this. He thinks about the whiteboard in his office, the web 
 Jamie nods. "She's not on the Hill anymore. Retired from the bench. But she's teaching at Georgetown, writing about algorithmic due process. If anyone can help you understand the legal dimensions, it's her."
 
 
----
 
 Union Station is a temple to a different era of transportation, its vaulted ceilings and marble columns designed to make train travel feel like something noble rather than utilitarian. Jerome finds a quiet corner near the back of the main hall, away from the coffee shops and the commuters, and calls the number Jamie gave him.
 
@@ -79,7 +75,6 @@ Jerome explains. He talks about the corporate connections, the investment flows,
 Ruth is quiet for a moment. Then she says: "You're asking the right questions, Mr. Washington. Unfortunately, there are no right answers. Not yet."
 
 
----
 
 "What do you mean?"
 
@@ -100,7 +95,6 @@ Ruth pauses. When she speaks again, her voice is softer, more personal. "I spent
 "I'm sixty-one years old. I have seen enough to know that hope is not the same as optimism."
 
 
----
 
 The return train leaves at six. Jerome watches Washington recede through the window, the Capitol dome catching the late afternoon light, the monuments arranged along the Mall like arguments about what the country means. He thinks about Jamie's frustration, Ruth's resignation, the gap between what the law promises and what the law delivers.
 
@@ -117,5 +111,4 @@ The train passes through Baltimore without stopping, a late express that will de
 In his bag, the documents sit like evidence of something. He does not know yet what they will prove. He only knows they are the beginning.
 
 
----
 

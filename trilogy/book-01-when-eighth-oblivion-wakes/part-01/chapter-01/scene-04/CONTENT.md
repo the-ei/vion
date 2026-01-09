@@ -9,7 +9,6 @@ She changes clothes in the bedroom, trading the armor of work for something soft
 Wine. She permits herself one glass on weeknights, a limit she negotiated with herself after the divorce, when one glass threatened to become two, then three, then a bottle. The Pinot Noir from the rack James built before he moved out, another artifact of the marriage, another thing she cannot bring herself to remove.
 
 
----
 
 In the kitchen she assembles dinner with the same deliberate attention she brings to the morning coffee: salmon defrosted in the refrigerator, vegetables from the weekly delivery, rice from the programmable cooker that had it ready when she walked in. The meal is nutritionally optimized, another system she has built to manage what she cannot attend to, the feeding of a body she experiences mostly as a vehicle for the mind that drives it.
 
@@ -26,7 +25,6 @@ The wine glass empties.
 The house hums.
 
 
----
 
 At some point she walks past Priya's room, drawn there by habit or longing or some combination she cannot untangle. The door is half-open, as she left it. Inside, the artifacts of her daughter's current life: the bed made because Ananya made it last week, the posters of musicians she does not recognize, the desk with its careful arrangement of items Priya insists on maintaining in exactly this order.
 
@@ -43,7 +41,6 @@ She should call her mother. This thought arrives as it does each evening, regula
 Tomorrow. She will call tomorrow.
 
 
----
 
 The email arrives at 10:47 PM, while she is half-watching, half-working, drifting toward the point where she will close the laptop and go to bed. It appears in her secure work inbox, the one that requires additional authentication, the one reserved for matters the company considers sensitive. The sender is a string of characters she does not recognize, routing information that her technical literacy cannot parse, but the internal codes are right, the formatting correct. This message came from inside Prometheus.
 
@@ -64,7 +61,6 @@ Clarity. She has heard the name in meetings, a project in development, something
 The attachment is a PDF. She opens it.
 
 
----
 
 Pages. Technical specifications. Architecture diagrams. A capability overview written in the careful language of engineering documents, precise about what and silent about why.
 
@@ -89,5 +85,4 @@ What are you willing to learn?
 And what will you do with it, once you know?
 
 
----
 

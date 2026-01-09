@@ -13,7 +13,6 @@ Jessie is at the counter, chopping vegetables with the particular intensity she 
 The picture is on the refrigerator, held by magnets they bought at a museum gift shop years ago. It is indeed a dragon house - or rather, it is a shape that might be either a dragon or a house, executed in crayon with the confident imprecision of a child who does not yet know that things are supposed to look like things.
 
 
----
 
 "The dragon lives here," Theo explains, pointing to the center of the shape. "And he breathes fire but only to keep warm, not to hurt anybody. And this is his garden." A green scribble at the bottom. "He grows tomatoes."
 
@@ -36,7 +35,6 @@ Jessie pauses, a piece of chicken on her fork. "That's either beautiful or terri
 "I think it might be both."
 
 
----
 
 The television goes on after dinner, Theo's reward for eating most of his meal. Some animated show about animals who solve mysteries, bright colors and simple plots and voice actors who sound exhausted by their own enthusiasm. Delphine sits on the couch with Theo curled against her, his attention fixed on the screen, her attention split between the show and her own circling thoughts.
 
@@ -53,7 +51,6 @@ Jessie settles on the other end of the couch, laptop open, script pages on the s
 Theo laughs at something on the television. Delphine strokes his hair, feeling the fine strands under her fingers, the warmth of his head against her side. Hope and truth. Redemption and consequences. She thinks of Elena Rodriguez, of the footage that will be edited into something hopeful, something that serves purposes Elena will never see.
 
 
----
 
 "We tell ourselves stories about what we're making," Jessie says suddenly, as if following a thread Delphine cannot see. "I don't know if the stories help or hurt."
 
@@ -68,7 +65,6 @@ Jessie looks at her then, really looks, and something passes between them that i
 The spell breaks. Theo protests, negotiates, is eventually persuaded. Delphine watches them go, then sits alone on the couch, the television still playing to no one, the question still unanswered.
 
 
----
 
 Bath time is Jessie's domain tonight, which means Delphine handles the setup for bed: the pajamas laid out, the nightlight plugged in, the specific arrangement of stuffed animals that Theo insists upon but cannot consistently describe. She moves through these rituals with the automatic attention of a parent who has done them hundreds of times, her hands knowing what to do while her mind drifts elsewhere.
 
@@ -83,7 +79,6 @@ Theo emerges from the bath wrapped in a towel printed with dinosaurs, his hair w
 Delphine reads the story, her voice finding the rhythms automatically, her mind turning Theo's words over like stones. You can't be mean for doing what you do. Is that true? If you are good at making manipulative content, and you make manipulative content, are you responsible for the manipulation? Or are you just doing what you do, breathing fire because that is what you are made for?
 
 
----
 
 The story ends. Theo asks for another. The negotiation begins again, familiar as a dance, until they settle on songs instead - two lullabies, the same ones every night, the melodies worn smooth by repetition. Delphine sings quietly, watching Theo's eyes grow heavy, his grip on the stuffed elephant relaxing by degrees.
 
@@ -110,7 +105,6 @@ Theo considers this, his brow furrowing in a way that looks absurdly adult. "So 
 This seems to satisfy him. His eyes close fully, his breathing deepens, and within minutes he is asleep. Delphine stays beside him in the dark, the nightlight casting soft shadows on the wall, her son's question echoing in the space he has left behind.
 
 
----
 
 Sometimes videos are for helping. Sometimes they are for selling. Sometimes they are for tracking, for targeting, for the extraction of attention that is converted into data that is converted into profit. Theo does not know these things yet. He lives in a world where dragons grow tomatoes and questions have simple answers and his mothers can explain everything.
 
@@ -133,5 +127,4 @@ Jessie's eyebrows rise. "What did you tell him?"
 The question sits between them. Jessie puts down her phone, reaches for Delphine's hand. Their fingers intertwine, the familiar weight of a partnership that has survived harder questions than this. But the question does not disappear. It settles into the room like fog, present even in the darkness, even in the silence, even in the warmth of being held.
 
 
----
 

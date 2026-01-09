@@ -11,7 +11,6 @@ Delphine watched them on her dashboard, the real-time metrics that usually gave 
 The Nexus Digital piece on "Eighth Oblivion" had crossed the threshold from trending to ubiquitous sometime in the past hour. Other outlets were picking it up now: Newsweek with "What You Need to Know About the Viral AI Apocalypse Theory," Fox with "Liberal Elites Panic Over AI Doom Video," NPR with its careful both-sides framing that only added to the sense of legitimacy. Each new coverage became fuel for the original, each outlet citing Nexus as the source that had made the conversation safe to have.
 
 
----
 
 Her office had floor-to-ceiling windows that looked out on Los Angeles, the summer sunlight streaming in with indifferent beauty. She had turned her chair away from the view, faced the screen instead, watching the numbers that told a story she couldn't stop reading.
 
@@ -28,7 +27,6 @@ She thought about the piece she had approved, the meta-coverage she had designed
 Now she watched it become the thing everyone actually was talking about.
 
 
----
 
 She was watching the outbreak from inside.
 
@@ -45,7 +43,6 @@ The engagement patterns showed the characteristic signature: initial spike from 
 Her phone buzzed with Slack notifications. The company was waking up to what was happening. Growth was celebrating. Editorial was fielding interview requests. Legal was asking about liability. Everyone saw what she saw, but they read it differently. To them, this was success.
 
 
----
 
 She closed her eyes and felt her body's response: the tension in her shoulders, the slight nausea that had been building all morning, the acceleration of her heartbeat that matched the acceleration on her screen. The body knew things the mind resisted. The body had been registering danger for hours.
 
@@ -60,7 +57,6 @@ And Nexus Digital was at the center, the source that everyone cited, the company
 She had done exactly what she was supposed to do. She had performed her job with expertise and professionalism. And now she was watching the result climb toward a number she couldn't quite name but knew she would have to live with.
 
 
----
 
 The sunlight through her windows had shifted to midmorning angles, the LA summer asserting itself beyond the climate-controlled space of her office. She thought about going to the window, looking at the actual world instead of its digital shadow. But she couldn't look away from the numbers.
 
@@ -79,5 +75,4 @@ She was the vector.
 Somewhere in the building, people were celebrating. She could hear distant voices, the hum of a company experiencing success. She stayed at her desk, watching the numbers climb, feeling the weight of her expertise like a sentence she had written and couldn't erase.
 
 
----
 

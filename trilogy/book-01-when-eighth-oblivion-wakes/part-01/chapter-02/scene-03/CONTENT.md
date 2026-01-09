@@ -23,7 +23,6 @@ He checks his calendar, already knowing what it contains: podcast recordings, ne
 "I'll be there."
 
 
----
 
 The pause on the other end tells him that his sister expected a different answer, expected the qualifications and scheduling conflicts that have attended his previous promises. He has not been to Chicago in three months. Yvonne has been carrying the weight of their mother's decline largely alone, the thousand small decisions that caregiving requires made by the child who is geographically able to make them.
 
@@ -46,7 +45,6 @@ This is Yvonne's burden, the philosophical weight of the decisions she has been 
 "I'll be there Thursday," he says again, the repetition a kind of penance.
 
 
----
 
 After the call ends, he sits in the studio, surrounded by the equipment that enables his work, the microphone and monitors and acoustic panels that have become his professional universe. The work suddenly feels very small. The newsletter draft waits on his screen, the story about housing algorithms, the evidence he has compiled about how prediction systems encode discrimination. Outside, his city contains neighborhoods where those systems are operating right now, identifying value to extract, directing capital toward or away from people who will never know they were assessed.
 
@@ -63,7 +61,6 @@ The For Sale sign next door is from the same company. The pattern repeats.
 This is what he writes about. This is what he warns people about. This is what DeShawn might build, someday, if Jerome cannot find the words to explain why it should not be built.
 
 
----
 
 At the corner store he buys coffee from Mr. Kim, who has owned this shop for thirty years, whose daughter went to school with DeShawn, whose presence here is a kind of resistance to the forces Jerome documents. Mr. Kim asks after Denise, after DeShawn, after the podcast he does not listen to but knows Jerome produces. These are the connections the algorithms do not measure, the relationships that constitute a neighborhood beyond its property values, the social fabric that tears invisibly when displacement occurs.
 
@@ -84,7 +81,6 @@ His mother will not see another October, probably. Or if she does, she will not 
 He finishes the coffee and walks home.
 
 
----
 
 The house is still empty when he returns. DeShawn at school, Denise at work, the rooms containing only the artifacts of their shared life. He goes to the studio but does not enter, stands in the doorway looking at the equipment, the Pulitzer on the wall, the evidence of a career that has contracted around him.
 
@@ -105,5 +101,4 @@ The light changes.
 The work continues because the work is what he has, and having it is better than having nothing, and nothing is what waits when the work stops and the silence rushes in and he must face the distances that separate him from everyone he loves.
 
 
----
 

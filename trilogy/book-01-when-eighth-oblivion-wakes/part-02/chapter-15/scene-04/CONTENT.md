@@ -25,7 +25,6 @@ Kevin Zhou nodded. He understood the subtext: loyalty in exchange for belonging.
 "Thank you," he said. "I won't let you down."
 
 
----
 
 After the meeting, Kevin Zhou walked back through the main campus. The late afternoon sun slanted through the windows, casting long shadows across the open-plan offices. Engineers typed at their workstations. Project managers clustered around whiteboards. The machinery of productivity hummed along, oblivious to what Kevin Zhou now knew hummed beneath it.
 
@@ -46,7 +45,6 @@ At five o'clock, he packed up his laptop and walked to the parking garage. The s
 He drove home on autopilot, his mind elsewhere, turning over the day's events like stones in a river.
 
 
----
 
 That night.
 
@@ -67,7 +65,6 @@ But accounts mattered. Witnesses mattered. The details he'd seen in the clean ro
 Kevin Zhou began to type.
 
 
----
 
 He wrote about the tour. The clean room facility, its security measures, its architecture. Dr. Lin's explanation of the unified prediction engine - the way data flowed between domains, the cross-pollination of insights from hiring to healthcare to labor to social stability. He wrote about Sieve 3.0 and its lifecycle predictions. About MedAssist and its optimized rationing. About WorkFlow and its sustainable extraction of human labor. About Social Stability Analytics and its prediction of dissent.
 
@@ -92,5 +89,4 @@ It wasn't heroism. It wasn't resistance. It was a hedge, a calculation, a bet on
 Kevin Zhou turned off his computer and went to bed. Sleep came slowly, fragmented, full of dreams he forgot upon waking.
 
 
----
 

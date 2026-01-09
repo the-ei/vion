@@ -9,7 +9,6 @@ Delphine watched it come together with the detached appreciation of craft she ha
 On the third day, she stayed late. The conference room was quiet now, the team gone home, the walls still covered in their work. She walked along the boards, looking at each element: the sample social posts, the video script treatments, the landing page mockups, the advertising copy that would appear beside faces chosen to represent diversity and relatability.
 
 
----
 
 What would a user see? She tried to imagine encountering this campaign without knowing what lay behind it. They would see warmth and empowerment. They would see technology promising to help them understand themselves. They would see a mirror, just as the metaphor intended.
 
@@ -19,12 +18,11 @@ Delphine had requested more technical information, twice. Both times, her contac
 
 She sat in one of the conference room chairs and looked at the walls. The campaign was beautiful. Her team had created something that would succeed - would drive downloads, would generate engagement, would establish Clarity in users' minds as something helpful and benign. This was the job. This was what Prometheus was paying for.
 
-But there was a gap. There was always a gap between what you were hired to say and what you privately understood. Delphine had lived in this gap for her entire career. The gap was where the money came from. The gap was where the doubt lived.
+But there was a gap. There was always a gap between what you were hired to say and what you privately understood. Delphine had lived in this gap for her entire career. The gap was where the money came from. The gap was where the doubt accumulated.
 
 Tonight, the gap felt wider than usual.
 
 
----
 
 She went home to a quiet house. Theo was asleep; Jessie was in bed, reading, waiting.
 
@@ -53,7 +51,6 @@ Jessie turned toward her. "What about him?"
 Delphine was not sure. She was not sure about anything tonight.
 
 
----
 
 Later, unable to sleep, she went to her home office. The laptop waited on the desk where she had left it that morning, before the long day of creative work. She opened it and began, again, to research Clarity.
 
@@ -66,7 +63,6 @@ There was a word for this: manipulation. But that word seemed too simple, too ob
 Delphine was making the architecture feel friendly. She was contributing to the assumptions. The mathematics would proceed with or without her, but her contribution would help it proceed faster, reach further, become more acceptable.
 
 
----
 
 She closed the laptop at 1 AM. The house was silent around her, the particular silence of sleeping family. Theo in his room, dreaming whatever four-year-olds dream. Jessie in their bed, holding a place for Delphine to return. The world continuing while she sat in her office, staring at a dark screen.
 
@@ -76,8 +72,7 @@ What would she remember of the Clarity campaign? Would it be another award on a 
 
 The surface tension held. She was standing on it, testing its strength, not yet ready to break through into whatever lay beneath. Ananya in her ethics office, Jerome with his investigations, Kevin Zhou in his code - she did not know these people, would not meet them for months or years. But they were all standing on the same surface, all testing the same tension, all feeling the give beneath their feet.
 
-Part 1 ended here. The four lives established. The questions asked but not yet answered. The surface intact, stretched to its limit, waiting for the weight that would finally break it.
+Part 1 ended here. Four lives established. The questions asked but not yet answered. The surface intact, stretched to its limit, waiting for the weight that would finally break it.
 
 
----
 

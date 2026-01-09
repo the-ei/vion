@@ -15,7 +15,6 @@ Multiple channels. Simultaneous release. Strategic redundancy. If any single pat
 She worked through the night, drafting and refining, making sure each communication was precise, defensible, impossible to dismiss as the ravings of a disgruntled employee.
 
 
----
 
 At 2:00 AM, she messaged Elise.
 
@@ -46,7 +45,6 @@ His response came at 3:15.
 Together. The word echoed in the quiet of her apartment. She had spent three years feeling alone - the ethics officer no one consulted, the voice of caution no one heeded. Now she was part of something larger.
 
 
----
 
 She closed her laptop and walked to the window. The city was dark, the late-night silence of a suburban complex where sensible people were sleeping. In ten days, her name would be attached to a story that would make her enemies. In ten days, the carefully constructed life she had built at Prometheus would collapse.
 
@@ -65,7 +63,6 @@ The first light of dawn was beginning to show on the horizon. Ananya had been aw
 Then the story would break.
 
 
----
 
 She made coffee, watching the sky lighten through her kitchen window. The ordinary rituals of morning, transformed by everything that had happened in the night. She was the same person she had been twelve hours ago, drinking from the same mug, looking at the same view. But something fundamental had shifted.
 
@@ -84,7 +81,6 @@ She had been part of building that industry. Now she would be part of holding it
 The choice had been made. The only thing left was to see it through.
 
 
----
 
 She showered, dressed, gathered her things for work. The routine was automatic now, the motions of someone who had performed them thousands of times. But underneath the routine, something new was humming - not quite fear, not quite excitement. Resolve, maybe. The settled feeling of someone who has finally made a decision they should have made long ago.
 
@@ -105,5 +101,4 @@ The sun was fully up now, the morning commute beginning, the world going about i
 She had made her choice. Now she just had to live with it.
 
 
----
 

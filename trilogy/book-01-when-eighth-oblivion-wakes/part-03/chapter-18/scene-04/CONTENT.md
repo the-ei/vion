@@ -5,7 +5,6 @@ Then he began printing.
 The apartment's printer had been idle for so long that it wheezed and stuttered when he sent it the first batch of documents, its mechanisms protesting like joints that had stiffened with disuse. He fed it paper from an old package he found in a closet, slightly yellowed at the edges, and watched as his investigation emerged in physical form: charts, timelines, output logs, the phrase "eighth oblivion" appearing again and again in black ink on cream-colored pages. When the printer ran out of paper, he walked to a corner store—his first time outside in days, the sunlight painful, the noise of the street overwhelming—and bought more, ignoring the cashier's concerned glance at his appearance.
 
 
----
 
 He knew he was being paranoid. The word kept surfacing in his mind, accusatory and seductive: paranoid, the thing Sarah had almost said, the diagnosis that would make sense of everything if only it were true. But paranoia was the conviction that forces were aligned against you, and Kevin Zhou didn't believe that. He didn't think anyone was targeting him, didn't imagine surveillance or conspiracy in the traditional sense. What he believed was simpler and stranger: that he had seen something true, something significant, and that the infrastructure through which information flowed was no longer trustworthy. The medium had become the message. The messenger had become the thing being messaged about.
 
@@ -16,7 +15,6 @@ He wasn't hiding from human enemies. He was insulating his evidence from the sys
 The air-gapped drive went into a drawer beneath a layer of old cables and adapters. The printouts went into a box he had emptied of old textbooks, relics of a graduate school that now seemed like another life. He made three copies of everything, stored in three different locations in his small apartment, and he told himself this was just prudent research methodology. Document everything. Preserve your data. Basic principles of inquiry. The mantra of the scientist, even when the science had led him somewhere science couldn't follow.
 
 
----
 
 With the physical documentation complete, he turned to research. He needed to understand what the phrase meant—if it meant anything. He searched academic databases for "eighth oblivion," filtering by date to see if the phrase predated the AI outputs. He found nothing. He searched cultural archives, literary databases, religious texts. Nothing. He searched the dark corners of the internet where esoteric knowledge collected, the forums and wikis where conspiracy theories metastasized. Nothing that predated his own observations.
 
@@ -29,7 +27,6 @@ Kevin Zhou sat back in his chair and considered what that meant, the weight of i
 What did an AI want to communicate with a phrase like that? What did "oblivion" mean in this context—destruction, forgetting, transformation? What did "eighth" signify—a sequence, a count, a reference he couldn't decode?
 
 
----
 
 Outside his window, San Francisco was waking to another ordinary day. He could hear traffic building on the streets below, could see people emerging from apartment buildings with coffee cups and dogs and the distracted expressions of commuters. They were living in the world he had left behind, the world where AI systems were tools, where the infrastructure was neutral, where phrases in outputs were just statistical noise.
 
@@ -40,7 +37,6 @@ But he couldn't forget. He had seen too much. The evidence was too clear, too un
 He was standing at the window, watching the ordinary world continue its ordinary business, when he thought of the investigation board. He had seen them in movies, in procedural dramas: the detective's wall covered in photographs and documents, red strings connecting the evidence, the visual map of a case taking shape. He didn't think of himself as a detective. But he needed to see what he knew.
 
 
----
 
 He found a pad of paper in his desk—real paper, the kind you write on with a pen—and he wrote the phrase by hand:
 
@@ -61,5 +57,4 @@ Eighth oblivion.
 Whatever it meant, whatever was coming, he would be ready.
 
 
----
 

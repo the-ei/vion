@@ -11,7 +11,6 @@ They sit. They serve themselves. The silence is not hostile but careful, the thr
 The conversation flows, cautiously, through safe topics: DeShawn's college applications, the schools he is considering, the essays he is writing about ambitions he has not fully disclosed to his father. Denise shares stories from her classroom, the student who finally understood primary sources, the one whose anxiety is escalating, the particular challenges of teaching history to children who think everything happened in the distant past.
 
 
----
 
 Jerome listens. He contributes when prompted, sharing small updates about the housing story, careful to keep his work at a distance from his son's interests, to avoid the conflict that their overlapping territories produce. The meal is almost peaceful. They are almost a family enjoying Saturday dinner together. The surface holds.
 
@@ -42,7 +41,6 @@ The compliment lands strangely, half-accepted. DeShawn is waiting for the other 
 Jerome makes himself not provide it.
 
 
----
 
 "Thanks," DeShawn says finally, accepting what was offered without trusting it entirely.
 
@@ -67,7 +65,6 @@ The house is quiet.
 Everyone he loves is somewhere under this roof, and he cannot reach any of them.
 
 
----
 
 Bed, eventually. Denise is already there, the essays finished or abandoned, her breathing settling toward sleep. Jerome lies beside her in the dark, listening to the house sounds: the creak of DeShawn moving in his room, the hum of the HVAC, the city outside the windows conducting its Saturday night business.
 
@@ -92,7 +89,6 @@ He types: *Tell me more.*
 The cursor blinks. No response arrives. Raj might be sleeping, might have stepped away, might be calculating what to share and what to withhold. The conversation is opened. The thread exists. Whatever comes next will come through this channel, this connection that Jerome did not know he needed until it appeared.
 
 
----
 
 He sets the phone down. The ceiling is dark above him. Somewhere, a car passes on the street outside, its headlights briefly illuminating the curtains, then gone.
 
@@ -117,5 +113,4 @@ The phone sits silent on the nightstand.
 The cursor blinks somewhere in the network, waiting for what comes next.
 
 
----
 

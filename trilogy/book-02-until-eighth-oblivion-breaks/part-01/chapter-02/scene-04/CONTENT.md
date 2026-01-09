@@ -15,7 +15,6 @@ She talked him down using the techniques she had learned in residency and refine
 She stayed with him until he was stable, then called the sliding-scale counselor directly - pulled a favor, begged for an emergency slot. They could see him Thursday. Two days.
 
 
----
 
 "Don't leave me alone until then," Jaylen said.
 
@@ -42,7 +41,6 @@ Elena searched her memory and found a fragment: a respiratory infection, antibio
 "And now?"
 
 
----
 
 Fatima sat on the exam table and began listing her symptoms with the matter-of-fact delivery of someone who had catalogued their own decline without expecting help. The headaches that came daily now. The joint pain in her hands and knees that made her cleaning jobs take twice as long. The blood pressure she knew was high because she'd used the machine at the pharmacy. The exhaustion that never lifted, that she had assumed was just getting older until it became something more.
 
@@ -63,7 +61,6 @@ Elena listened, took notes, examined. Fatima's blood pressure was 168 over 104 -
 "We have samples. Don't worry about the cost right now. Let me worry about the cost."
 
 
----
 
 The samples were technically for patient education, not distribution. Elena had been distributing them anyway, to patients like Fatima who needed medication and couldn't pay. It was against protocol. It was also the only way to provide care that wouldn't be provided otherwise. She had made her peace with the rule-bending years ago.
 
@@ -82,7 +79,6 @@ Fatima met her eyes. Something passed between them - an acknowledgment, a recogn
 "I'll come back," Fatima said. "I promise."
 
 
----
 
 Elena gave her a two-week supply of blood pressure medication, enough to start. She ordered the labs through the charity fund, marking the request as urgent. She wrote out instructions carefully, in English and then again in Arabic with the help of a translation app, not trusting the app entirely but wanting Fatima to have something in her own script.
 
@@ -103,5 +99,4 @@ The shift continued. Five more patients after Fatima. A medication refill, strai
 Six o'clock came. Then six-thirty. The shift officially ended at seven, but there were still patients waiting, and Elena saw them all, staying until the queue was clear because that was what she did, because that was who she had become.
 
 
----
 

@@ -9,7 +9,6 @@ Fatima was in the kitchen, moving slowly between the stove and the counter, her 
 Amina was at the small table in the corner, textbooks spread around her, headphones clamped over her ears, her focus absolute. Sixteen years old and smarter than anyone in the family, on track for scholarships that might take her somewhere beyond this apartment, beyond this neighborhood, beyond the cycle of labor that had shaped their lives.
 
 
----
 
 Yusuf washed his hands and helped his mother with the dinner preparations, the quiet choreography of family labor that required no words. He cut vegetables while she stirred the pot. He set the table while she checked the rice. Amina stayed focused on her work until Fatima called her twice, then removed her headphones with the particular reluctance of teenagers everywhere.
 
@@ -26,7 +25,6 @@ She nodded, accepting the answer without pushing. She knew what his work was lik
 "The building downtown needs extra cleaning before some conference. More hours this week." She said it neutrally, but Yusuf heard what she was not saying: more hours meant more money, but more hours also meant more strain on a body that was already carrying too much.
 
 
----
 
 After dinner, Yusuf noticed the medications on the kitchen counter. Two orange bottles he did not remember seeing before, one white box with a name he could not pronounce. He looked at his mother, who was watching Amina return to her studies, and did not ask. Some things were better left unspoken until they could not be avoided.
 
@@ -39,7 +37,6 @@ He helped with the dishes, standing beside his mother at the small sink, their m
 He did not have an extra three hundred dollars. He had exactly three hundred and twenty-seven dollars in his checking account, which had to last until his next deposit from the apps, which had to cover his car payment that was due in eight days. But he had seen the medications. He had seen her move.
 
 
----
 
 "I don't need it," Fatima said. The refusal was automatic, the first move in a negotiation they had performed many times.
 
@@ -58,7 +55,6 @@ The words hung in the air between them, heavier than either of them intended. Fa
 Yusuf kissed her forehead again, felt her hand squeeze his arm briefly, then went to check on Amina.
 
 
----
 
 Amina's room was small, made smaller by the desk and the twin bed and the bookshelves their father had built when she was young. She looked up when Yusuf knocked on the open door, her face illuminated by the laptop screen, scholarship essays visible in multiple tabs.
 
@@ -79,5 +75,4 @@ The hope in her voice was precise and painful. She had learned, watching their m
 "Inshallah," she said. God willing. The old word that contained both hope and surrender.
 
 
----
 

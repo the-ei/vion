@@ -7,7 +7,6 @@ The coverage showed footage she remembered: the protests, the testimonies, the e
 "What do you think?" Daniel asked, not looking away from the screen.
 
 
----
 
 Elena did not know how to answer. The coverage was accurate in its facts and false in its implications. Everything that the experts said had happened had happened. The companies named had been investigated. The regulations discussed had been proposed. The public awareness that the commentators celebrated had indeed been raised. And yet nothing had changed - or everything had changed in ways the coverage could not capture, in the bodies of her patients, in the stress levels that had not returned to baseline, in the systems that continued operating exactly as they had before.
 
@@ -22,7 +21,6 @@ Daniel nodded slowly. He had always been the one who listened more than he spoke
 They sat together on the couch, watching the coverage play out. An economist discussed market reactions. A technology analyst explained what had changed in corporate governance (not much). A politician took credit for reforms that had not yet been implemented. Elena listened and felt the year condensing into this moment, all the shifts she had worked, all the patients she had seen, all the ways the crisis had become ordinary.
 
 
----
 
 She thought about Sofia and Mateo, who were with Gloria now, who would come home tomorrow morning to parents too tired to be fully present. Her daughter was eight, old enough to remember this year, to carry it forward into whatever future awaited her. Her son was five, still young enough that most of this would blur into early childhood, indistinguishable from all the other things he would forget.
 
@@ -43,7 +41,6 @@ She thought about telling him that every night was busy, that careful was a luxu
 "I will," she said.
 
 
----
 
 She drove to the clinic as the sun set over Phoenix, the sky turning orange and pink and purple in the way it did during late spring, when the heat was building but had not yet become unbearable. The radio continued its anniversary coverage, different voices saying variations of the same things, the narrative already solidifying into the version that would be repeated forever.
 
@@ -58,5 +55,4 @@ The anniversary was one year. The work was every day.
 She parked her car and went inside.
 
 
----
 

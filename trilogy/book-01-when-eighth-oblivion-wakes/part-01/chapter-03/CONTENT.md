@@ -5,7 +5,6 @@ Clarity. That is what they call the project, though the name came from marketing
 He finds the bug. It is in the way temporal weighting is applied to recent inputs - the function was treating all signals as equally relevant when it should decay interest in older patterns. He fixes it in four lines. Watches the tests run green. Feels the particular satisfaction that comes from making something work, something real, something that will matter.
 
 
----
 
 The refrigerator hums when he opens it. Energy drinks lined up like soldiers, the green cans he buys in bulk, their chemical sweetness something he no longer tastes but needs. He cracks one open standing in the cold light, drinks half in long swallows, feels the caffeine as promise more than effect. Back to the desk. Back to the screens.
 
@@ -16,7 +15,6 @@ Slack notification: Dmitri is awake, working on the frontend components, asking 
 He returns to the codebase, opens a new file. There is more to do.
 
 
----
 
 The work is beautiful. He has never said this aloud, knows how it would sound, but in the quiet of these hours he can admit it to himself. The way the system's architecture unfolds, each component connected to the others with a kind of crystalline logic. Data flows in through the input layer - purchase histories, browsing patterns, social media interactions, location data, a hundred streams of digital exhaust that most people never consider - and the model processes it, finds the patterns, learns to predict what this particular human will want next. Not to manipulate. That is what Kevin Zhou tells himself. To illuminate. To hold up a mirror made of data and show people who they really are.
 
@@ -27,7 +25,6 @@ The thought surfaces and he pushes it down, a practiced motion. Except that illu
 He takes another drink of the energy drink, now warm, and focuses on the function in front of him. The temporal weighting fix has downstream effects he needs to trace. There is always more to do. This is the gift of engineering: the problems are endless, and the solutions are clean, and you can always be productive even when you cannot be present. Even when you cannot sleep. Even when the apartment is empty and the city is dark and the only thing that feels real is the cursor blinking on the screen.
 
 
----
 
 Four in the morning. His eyes burn and he blinks, rubs them, knows he should stop but does not want to. The work is almost at a stopping point. Just one more function. Just one more test suite to verify. The familiar bargaining with exhaustion, the negotiations he always loses because the work always wins.
 
@@ -40,7 +37,6 @@ He stands, finally, the chair rolling back. Stretches his back, his neck, feels 
 The thought is not sad. It is just true. He returns to his desk.
 
 
----
 
 Dawn comes gray through the window, the fog having won its nightly battle with the city. Kevin Zhou has been coding for nearly six hours straight, and the fatigue is a physical thing now, a weight behind his eyes, a slowness in his hands. He saves his work, pushes the final commits to the repository, watches the build pipeline begin its automated checks. Good. Done. Or done enough.
 
@@ -51,7 +47,6 @@ The Slack channel is quieter now. Dmitri signed off an hour ago; Lakshmi mention
 He should sleep. He knows this. The body has requirements that cannot be indefinitely negotiated. But the bed seems far away, and the couch is right here, and he can close his eyes for just a moment while he waits for the food.
 
 
----
 
 He wakes to his phone buzzing. The food has arrived. The timestamp says 6:47 AM, which means he slept for twenty minutes on the couch, his neck at an angle that he will regret for the rest of the day. He retrieves the bag from outside his door - the hallway empty, no sign of the delivery driver, the transaction complete and anonymous - and brings it inside to eat standing at the kitchen counter.
 
@@ -62,13 +57,12 @@ After he eats, he will shower. After he showers, he will sleep for three or four
 The sun has risen fully now, the fog burning off, the city resolving outside his window. San Francisco in late October, the season that isn't a season, temperatures that never commit. Kevin Zhou finishes his coffee, sets the cup in the sink, and goes to shower. The code will be there when he returns. The code is always there.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The conference room has glass walls. This is intentional - transparency as corporate value, openness as brand - but right now it means Kevin Zhou can see the meeting happening without him. Through the glass: his manager David, two product leads he knows by name, someone from legal, and Rachel Torres from strategy, taking notes on her laptop with the particular intensity of someone who belongs. They are discussing Clarity. He knows this because the meeting was on his calendar until yesterday, when it was moved - scheduling conflict, David's email said, overlapping commitments, we'll brief you after.
 
@@ -79,7 +73,6 @@ He was supposed to be in that room. He built the core of what they're discussing
 David's explanation was plausible. Kevin Zhou cannot say it was wrong. But plausible is not the same as true.
 
 
----
 
 The meeting ends at 11:47. Kevin Zhou knows this because he has been watching the clock, not the glass walls, but the clock serves the same purpose. He sees them file out in his peripheral vision: David pausing to shake hands with the legal person, Rachel Torres gathering her things with the unhurried confidence of someone whose presence was never questioned.
 
@@ -94,7 +87,6 @@ David gives him the summary: deployment timelines, user segmentation strategies,
 Kevin Zhou has a hundred questions. He asks none of them. "All good," he says. "Thanks for the update."
 
 
----
 
 He spends the afternoon in meetings that do include him. Sprint planning. Technical review. A one-on-one with a junior engineer who needs guidance on the caching layer. Kevin Zhou is good at these meetings, good at being useful, and usefulness is a kind of medicine. By three o'clock the sting of the morning has faded to a dull ache, manageable, familiar.
 
@@ -107,7 +99,6 @@ He reviews the Clarity codebase, looking for optimizations, finding small improv
 Seven o'clock. The campus is nearly empty now. Kevin Zhou packs his laptop, heads to his car, drives home through San Francisco traffic that moves like a living thing, all stops and starts and brake lights in the dark.
 
 
----
 
 His mother's face fills the screen, pixelated, freezing occasionally in expressions that are not the expressions she is making. The connection is poor - it is always poor lately, whether for technical reasons or political ones Kevin Zhou cannot say. His father sits beside her, slightly out of frame, the top of his head visible like a moon rising.
 
@@ -126,7 +117,6 @@ Then his mother says, "Mrs. Li's son. You remember him? From the building?"
 The implication settles between them, heavy as fog. His father's face tightens almost imperceptibly. Kevin Zhou feels the distance between San Francisco and Shenzhen as a physical thing, a gulf that cannot be crossed by video call or good intentions.
 
 
----
 
 The call ends at fifteen minutes, as it always does now. Not because anyone sets a timer, but because there is only so much that can be said when so much cannot be said. Kevin Zhou's mother waves at the camera. His father nods, his face breaking briefly into something like a smile before the connection closes and the screen goes dark.
 
@@ -137,13 +127,12 @@ Instead he opens his laptop. The Clarity codebase is there, waiting, patient as 
 But tonight the code does not help. He stares at the screen for twenty minutes without typing a single character. Then he closes the laptop, goes to the window, and looks out at the city that is not home. The lights of San Francisco. The fog rolling in from the bay. The distance that is measured in more than miles.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Saturday. The bar is all exposed brick and Edison bulbs, the aesthetic of curated authenticity. Kevin Zhou arrived ten minutes early because he always arrives early, and now he is sitting at a high table nursing a drink he ordered because not ordering seemed worse than ordering something he did not want.
 
@@ -170,7 +159,6 @@ And here is where it falls apart. What does he work on? He works on Clarity, whi
 "Cool," Michelle says, and he can hear the interest draining from her voice.
 
 
----
 
 She tells him about her job. A beverage company. Product launches. The particular challenge of making sparkling water seem exciting. Kevin Zhou listens and nods and cannot think of a single follow-up question that would not sound forced.
 
@@ -197,7 +185,6 @@ Fun. The word sits in his mouth like a foreign object. What does he do for fun? 
 Another silence. The bar is loud around them, other conversations flowing, laughter that sounds easier than anything Kevin Zhou has ever managed to produce. Michelle checks her phone, briefly, almost apologetically.
 
 
----
 
 They finish their drinks. The check comes, and Kevin Zhou pays because it seems expected, and Michelle thanks him in a way that means this is ending.
 
@@ -220,7 +207,6 @@ It is nine-thirty. The evening stretches ahead like a landscape he does not want
 Logs in.
 
 
----
 
 In the game, he is Wei_37. The handle is old, chosen in college, meaningless now but familiar. His character loads into the guild hall where his teammates are already gathering, their avatars milling around the spawn point with the particular impatience of people ready to play.
 
@@ -237,7 +223,6 @@ The raid begins. Kevin Zhou's voice fills the channel, steady and sure, calling 
 Here, he matters.
 
 
----
 
 Three hours pass like minutes. They clear the raid, celebrate in chat, the congratulations flowing in text and voice. Someone suggests they queue for another. Kevin Zhou checks the time: past midnight. His body is tired, though his mind is still buzzing with the particular alertness that comes from sustained focus.
 
@@ -256,13 +241,12 @@ He takes off the headset. Stretches his neck. The apartment is exactly as he lef
 Instead he sits for a long moment in his ergonomic chair, looking at nothing, feeling the absence of the game like a phantom limb. In the game he is Wei_37, leader, strategist, someone whose contributions matter. Here he is Kevin Zhou, twenty-eight, alone, the architect of systems he does not control. The apartment makes its small sounds around him. Tomorrow is Sunday. Nothing is waiting.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Sunday night, and Kevin Zhou is back at Prometheus. The campus is different on weekends: security lights casting longer shadows, the open floor plans feeling cavernous without the bodies to fill them, the hum of the server rooms audible in a way it never is during the week. He tells himself he came to be productive. He knows he came because the apartment was too quiet, the gaming community asleep, the hours ahead too empty to face.
 
@@ -275,7 +259,6 @@ The parking garage is concrete and fluorescent light, his footsteps echoing in t
 He is reaching for his car door when he hears the other footsteps. Someone else leaving late. He does not think much of it until he sees who it is.
 
 
----
 
 Ananya Ramaswamy. He knows her by reputation, by the occasional email, by the org chart that places her in a different universe within the same company. Ethics and policy. The people who review what engineering builds, who raise concerns that slow things down, who ask questions that have no answers in code.
 
@@ -304,7 +287,6 @@ She looks at him. In the fluorescent light of the parking garage, her face is ha
 "Then what does?"
 
 
----
 
 "The gap," she says. "Between what the system is designed to do and what it could be used for. Between helping users understand themselves and helping others understand users. The documentation describes decision support. The capabilities suggest something broader."
 
@@ -325,7 +307,6 @@ They stand in the parking garage, facing each other across three car-lengths of 
 "Ethics theater," he says. The words come out before he can stop them. "That's what this is. You review our work, raise concerns, and nothing changes. The deployment happens anyway. You're just cover."
 
 
----
 
 Ananya does not flinch. "Maybe," she says. "Maybe you're right. Maybe my job is theater, and the show goes on regardless. But at least I'm asking the questions. At least I'm trying to put speed bumps on the road to wherever we're going. What are you doing?"
 
@@ -344,7 +325,6 @@ She walks to her car. Opens the door. Looks back at him one more time.
 She knows his name. Somehow this surprises him, though there is no reason it should.
 
 
----
 
 He sits in his car for a long time after she leaves. The engine running, the heat on, the parking garage empty around him. The conversation replays in his mind, and with each replay he thinks of better things he could have said, sharper arguments, cleaner defenses. Ethics theater. He stands by the phrase, mostly. The ethics review process is theater, a performance of concern that does not change outcomes. But the way Ananya looked at him when he said it - not angry, not defensive, just sad, as if she had heard this before and would hear it again and had made her peace with being dismissed.
 
@@ -359,7 +339,6 @@ Except now, tonight, in the silence of his apartment, Ananya's question echoes: 
 He does not sleep well.
 
 
----
 
 
 

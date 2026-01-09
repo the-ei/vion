@@ -9,7 +9,6 @@ She slid into the seat across from him, ordered coffee from the waiter without l
 He heard the "but" coming.
 
 
----
 
 "But you're worried about publishing."
 
@@ -24,7 +23,6 @@ He had thought about this. He had thought about little else for weeks. "If I don
 "That's not the question I'm asking." Paula leaned forward, her voice dropping. "The question I'm asking is whether you can tell this story in a way that doesn't bring everything down on your head at once. Can you narrow the focus? Take one company, one pattern, one slice of the picture instead of the whole thing?"
 
 
----
 
 Jerome felt the familiar tension between safety and truth. He had navigated this before, with other stories, finding the balance between what needed to be said and what could reasonably be defended. But this story resisted narrowing. The whole picture was the point.
 
@@ -39,7 +37,6 @@ She was quiet for a moment, the cafe noise filling the space between them. Other
 "I'll publish it. Because I believe you, and because it matters." She paused. "But I want you to understand what you're getting into. This isn't like your other work. This one will follow you."
 
 
----
 
 "I know."
 
@@ -52,7 +49,6 @@ He had. He had thought about Denise, about the strain already visible in their m
 Paula sighed, but there was something like respect in it. "Then we need to talk about timing, about legal review, about the rollout strategy. If we're going to do this, we're going to do it right."
 
 
----
 
 They spent the next hour going through the draft line by line. Paula's notes were thorough, her questions sharp. She pushed back on conclusions that went beyond the evidence, suggested additional sources who might strengthen the weakest sections, flagged language that could be misrepresented in hostile coverage.
 
@@ -73,5 +69,4 @@ Paula gave him a long look. "Be careful, Jerome. The closer you get to the cente
 He knew she was right. And he was going to do it anyway.
 
 
----
 

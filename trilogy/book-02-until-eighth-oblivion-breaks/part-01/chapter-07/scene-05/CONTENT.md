@@ -11,7 +11,6 @@ They ordered coffee - good coffee, the kind that Oakland did well - and spoke ca
 "Tell me what you've learned," Jerome said. The journalist's invitation, open-ended, designed to let the source speak without constraint.
 
 
----
 
 Ruth spoke for twenty minutes. She did not name Elena, did not provide specifics that could identify her sources, but she described the pattern: investigations that appeared active but produced nothing, personnel changes that disrupted progress, procedural requirements that multiplied until they consumed all forward motion. The picture of institutional capture, painted in careful strokes.
 
@@ -24,7 +23,6 @@ Jerome listened with the intense attention she had observed at the book launch -
 "That's the question." Jerome's face tightened. "What I've learned, what you've learned - it's circumstantial. Patterns, not proof. Any decent lawyer could explain away each individual piece. 'Bureaucratic complexity.' 'Resource constraints.' 'Appropriate caution in sensitive investigations.'"
 
 
----
 
 "And if we could prove it?" Ruth pressed. "What then? You exposed the initial crisis. You told the story well. Everyone agreed it was important. And nothing changed."
 
@@ -39,7 +37,6 @@ Jerome was quiet for a long moment. The coffee shop hummed around them, other co
 Ruth understood. She was here for the same reason - not because she believed in success, but because she could not accept the alternative.
 
 
----
 
 "So what do we do?" Ruth asked.
 
@@ -62,5 +59,4 @@ Ruth drove back to Berkeley carrying something she had not felt in months: purpo
 It was not enough. But it was what she had.
 
 
----
 

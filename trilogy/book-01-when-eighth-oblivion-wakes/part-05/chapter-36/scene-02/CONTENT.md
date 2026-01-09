@@ -13,7 +13,6 @@ The mention was casual, dropped in like any other detail, but Ananya felt it lan
 "Obviously." Priya's face did something complicated, a micro-expression that Ananya might have missed on a worse connection. "Everyone's talking about it. About the whole thing. Some of them know you work there. Worked there. Work there? I don't even know what to say."
 
 
----
 
 "I'm on leave," Ananya said. "Administrative leave. It's complicated."
 
@@ -34,7 +33,6 @@ The words hit with precision, and Ananya felt the familiar shame of failed paren
 "It's okay." But Priya's face said otherwise, that the not-okayness had been accumulating for years, that this crisis was only the latest weight on a structure already strained.
 
 
----
 
 The connection stuttered, Priya's face freezing for a moment in an expression that looked like worry or judgment or both, and then it resumed, and she was mid-question: "—actually do? Like, specifically?"
 
@@ -55,7 +53,6 @@ Priya was quiet, processing. At fourteen she was old enough to understand concep
 "I know." Ananya smiled, and Priya smiled back, and for a moment they were just a mother and daughter on a video call, connected by technology that neither fully understood, separated by distance that was both physical and something else. "The honest answer is that I don't know what happens next. I made choices that might have consequences. I'm waiting to see what the consequences are."
 
 
----
 
 "Are you scared?"
 
@@ -78,7 +75,6 @@ In the background, Ananya heard a voice, Raj's voice, calling something about lu
 "Yes?"
 
 
----
 
 "I don't really understand it all. The whole Eighth Oblivion thing, the projections, the stuff they were building. It's really complicated, and some of it sounds like science fiction, and I don't know what's real and what's just people freaking out."
 
@@ -97,7 +93,6 @@ Priya's face on the screen was serious, older than her years, carrying something
 The call ended, and Ananya sat in the sudden silence of her office, looking at the blank screen where her daughter's face had been, feeling the distance between Palo Alto and Menlo Park as if it were the distance between planets, as if the ten miles of highway were an unbridgeable gulf.
 
 
----
 
 She closed the laptop and looked at the folder on her desk, the documents that might help explain to her daughter what she had done and why, and she thought about the future Priya would inherit, the world that would exist when her daughter was her age, the technologies that would shape lives not yet begun.
 
@@ -112,5 +107,4 @@ She was none of those things. She was a mother who had looked at the future and 
 That, in the end, was why she had done what she had done.
 
 
----
 

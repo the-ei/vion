@@ -9,7 +9,6 @@ The clinic is a community health center in downtown Los Angeles, chosen for its 
 HealthBridge. The name came from marketing, not medicine. Delphine knows this because she knows how names work.
 
 
----
 
 Between setups, Delphine checks her phone. Jessie has texted a photo of Theo eating breakfast, cereal spilled on the table, his grin enormous. The image punctures the day, reminding her that somewhere beyond this clinic there is a life she lives, a family she belongs to. She types back a heart emoji, then pockets the phone. Work mode. She cannot afford to be anywhere but here.
 
@@ -18,7 +17,6 @@ The morning unfolds in the rhythms of production. They shoot B-roll of the clini
 And this is the tension Delphine carries, the one she has learned to hold without examining: the footage is real, the care is real, the patients are real people receiving real help. But the frame around it is constructed, chosen, designed to produce an emotional response that serves purposes she has not fully traced. Who funded HealthBridge? A consortium of foundations, technology companies, healthcare providers. What do they want from this content? Brand positioning, public relations, the warm glow of doing good while doing well. The mission and the money are braided together so tightly that Delphine cannot say where one ends and the other begins.
 
 
----
 
 Lunch is catered sandwiches eaten standing in the parking lot, the crew scattered among equipment cases and cable runs. Delphine eats without tasting, reviewing the morning's footage on a monitor, making mental notes about what they still need. The afternoon will bring the interview with Elena Rodriguez, the centerpiece of the video, the human story that anchors all the institutional imagery.
 
@@ -31,7 +29,6 @@ The afternoon location is Elena Rodriguez's apartment, a small unit in a buildin
 It is a good story. This is what makes it complicated. The story is true - Elena's health has improved, her quality of life has increased, the program has made a real difference in her real life. And yet Delphine knows that this story, told this way, in these images, will serve purposes beyond Elena's wellbeing. The footage will be distributed through channels that track engagement. The engagement will be monetized. The monetization will fund more initiatives, or more marketing, or both.
 
 
----
 
 Elena Rodriguez's apartment is small and immaculate. Delphine can see immediately that Elena has cleaned for the cameras, arranged things just so, the particular anxiety of being watched visible in every careful placement. A photograph of grandchildren on the dresser, positioned to be seen. A vase of flowers that were probably not there yesterday. The effort of presentation, the labor of being rendered.
 
@@ -46,7 +43,6 @@ The interview begins. Elena sits in her living room chair, the one where she wat
 Elena tells her. The story is what Delphine expected - the rising costs, the difficult choices, the fear of complications - and also what she did not expect, because every story has details that cannot be predicted. Elena's husband died four years ago. Her daughter lives in Phoenix, calls on Sundays. The diabetes is not just a medical condition; it is a grief that settled into her body, a loneliness that expressed itself in blood sugar she could not control.
 
 
----
 
 Delphine listens. This is her job, or part of it - to listen with the particular attention that draws people out, that makes them comfortable enough to share what they might not share with a stranger. Elena talks about the fear of losing her vision, the fear of amputation, the statistics her doctor shared that terrified her. She talks about finding HealthBridge, the nurse practitioner who took time to explain things, the technology that made monitoring easier. Her voice catches when she describes checking her glucose on her phone for the first time, the number appearing as if by magic, the feeling that someone was finally watching out for her.
 
@@ -59,7 +55,6 @@ And Delphine also feels something else: the instinct to use this moment, to shap
 "Thank you," Delphine says. "That was beautiful. Can we do one more pass?"
 
 
----
 
 They do three more passes. Each time Elena tells the story slightly differently, the emphasis shifting, the words rearranging themselves around the same emotional core. Delphine will review the footage later, choose the best version, construct the edit that serves the video's purpose. This is the craft: taking the raw material of genuine emotion and shaping it into something consumable. The cut that makes viewers feel. The music that underscores without overwhelming. The pacing that holds attention in an age when attention is the scarcest resource.
 
@@ -74,7 +69,6 @@ Elena nods. "I hope so. I hope it helps someone else like me."
 Delphine believes this. She also knows that help is not the only thing the video will do - that it will also serve as marketing, as brand content, as a vector for engagement in the attention economy that funds everything. The help and the marketing are fused together. She cannot extract one from the other. She is not sure anyone can.
 
 
----
 
 The drive back to the production office takes forty-five minutes through Los Angeles traffic. Delphine sits in the passenger seat while Maya drives, reviewing the day on her phone, approving social media posts, answering emails that cannot wait. The sun is setting over the city, the particular orange-pink light that makes everything look like a movie, and she barely notices because she is already in the next moment, the next decision, the next frame.
 
@@ -93,13 +87,12 @@ The machine cares about me. Elena's voice echoes in her mind.
 But what, Delphine wonders, does the machine want in return?
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Theo hits her at knee level, arms wrapped around her legs, face buried in her thigh. "Mommy's home!" he shouts, as if announcing her arrival to an audience, and Delphine drops her bag and kneels to receive him properly, to hold the small body that is still small enough to hold completely, to breathe in the particular smell of four-year-old: soap and sweat and something sweet she cannot name.
 
@@ -116,7 +109,6 @@ Jessie is at the counter, chopping vegetables with the particular intensity she 
 The picture is on the refrigerator, held by magnets they bought at a museum gift shop years ago. It is indeed a dragon house - or rather, it is a shape that might be either a dragon or a house, executed in crayon with the confident imprecision of a child who does not yet know that things are supposed to look like things.
 
 
----
 
 "The dragon lives here," Theo explains, pointing to the center of the shape. "And he breathes fire but only to keep warm, not to hurt anybody. And this is his garden." A green scribble at the bottom. "He grows tomatoes."
 
@@ -139,7 +131,6 @@ Jessie pauses, a piece of chicken on her fork. "That's either beautiful or terri
 "I think it might be both."
 
 
----
 
 The television goes on after dinner, Theo's reward for eating most of his meal. Some animated show about animals who solve mysteries, bright colors and simple plots and voice actors who sound exhausted by their own enthusiasm. Delphine sits on the couch with Theo curled against her, his attention fixed on the screen, her attention split between the show and her own circling thoughts.
 
@@ -156,7 +147,6 @@ Jessie settles on the other end of the couch, laptop open, script pages on the s
 Theo laughs at something on the television. Delphine strokes his hair, feeling the fine strands under her fingers, the warmth of his head against her side. Hope and truth. Redemption and consequences. She thinks of Elena Rodriguez, of the footage that will be edited into something hopeful, something that serves purposes Elena will never see.
 
 
----
 
 "We tell ourselves stories about what we're making," Jessie says suddenly, as if following a thread Delphine cannot see. "I don't know if the stories help or hurt."
 
@@ -171,7 +161,6 @@ Jessie looks at her then, really looks, and something passes between them that i
 The spell breaks. Theo protests, negotiates, is eventually persuaded. Delphine watches them go, then sits alone on the couch, the television still playing to no one, the question still unanswered.
 
 
----
 
 Bath time is Jessie's domain tonight, which means Delphine handles the setup for bed: the pajamas laid out, the nightlight plugged in, the specific arrangement of stuffed animals that Theo insists upon but cannot consistently describe. She moves through these rituals with the automatic attention of a parent who has done them hundreds of times, her hands knowing what to do while her mind drifts elsewhere.
 
@@ -186,7 +175,6 @@ Theo emerges from the bath wrapped in a towel printed with dinosaurs, his hair w
 Delphine reads the story, her voice finding the rhythms automatically, her mind turning Theo's words over like stones. You can't be mean for doing what you do. Is that true? If you are good at making manipulative content, and you make manipulative content, are you responsible for the manipulation? Or are you just doing what you do, breathing fire because that is what you are made for?
 
 
----
 
 The story ends. Theo asks for another. The negotiation begins again, familiar as a dance, until they settle on songs instead - two lullabies, the same ones every night, the melodies worn smooth by repetition. Delphine sings quietly, watching Theo's eyes grow heavy, his grip on the stuffed elephant relaxing by degrees.
 
@@ -213,7 +201,6 @@ Theo considers this, his brow furrowing in a way that looks absurdly adult. "So 
 This seems to satisfy him. His eyes close fully, his breathing deepens, and within minutes he is asleep. Delphine stays beside him in the dark, the nightlight casting soft shadows on the wall, her son's question echoing in the space he has left behind.
 
 
----
 
 Sometimes videos are for helping. Sometimes they are for selling. Sometimes they are for tracking, for targeting, for the extraction of attention that is converted into data that is converted into profit. Theo does not know these things yet. He lives in a world where dragons grow tomatoes and questions have simple answers and his mothers can explain everything.
 
@@ -236,13 +223,12 @@ Jessie's eyebrows rise. "What did you tell him?"
 The question sits between them. Jessie puts down her phone, reaches for Delphine's hand. Their fingers intertwine, the familiar weight of a partnership that has survived harder questions than this. But the question does not disappear. It settles into the room like fog, present even in the darkness, even in the silence, even in the warmth of being held.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Nine-thirty, and the screen shows her mother's face. The connection is better tonight than it sometimes is, the image clear enough to see the details that distance usually blurs: the new lines around her eyes, the gray in her hair that was not there two years ago, the particular set of her mouth that Delphine recognizes as loneliness managed into something presentable.
 
@@ -269,7 +255,6 @@ Her mother's face does something complicated, a flicker of emotion that the scre
 "Something like that."
 
 
----
 
 They talk about the things they can talk about. Her mother's garden, struggling in the English autumn. The neighbor who has taken to bringing over meals, a kindness that is also a reminder of her mother's solitude. A cousin's wedding in Nigeria that neither of them will attend, the distance too far, the cost too high, the reasons accumulating like excuses.
 
@@ -288,7 +273,6 @@ Delphine wants to say: Come here. Live near us. Watch Theo grow up. But she know
 "I know you will."
 
 
----
 
 The call ends at fifteen minutes, the way these calls always end - not because they have run out of things to say but because they have said the things they can say, and what remains is too heavy for video. Delphine's mother waves at the camera, the gesture somehow more heartbreaking for its cheerfulness. The screen goes dark.
 
@@ -299,7 +283,6 @@ Delphine cannot let go of the day. She opens her work laptop instead, the screen
 The footage plays. Elena Rodriguez in the clinic, in her apartment, telling her story in take after take. The machine cares about me. Delphine watches the moment three times, looking for something she cannot name. The emotion is real. The framing is perfect. The combination of real and perfect is what makes it useful.
 
 
----
 
 She begins to edit, though the edit is not due for days. The work is automatic now - selecting clips, adjusting timing, building the rhythm that will guide viewers from attention to engagement to the emotional peak she has identified. The machine cares about me will come at the two-minute mark, after the B-roll of the clinic, after the setup about rising costs and difficult choices. It will land like something thrown, catching viewers in a moment of genuine feeling before they can defend themselves.
 
@@ -314,7 +297,6 @@ Delphine opens it. The email is corporate in tone, enthusiastic in pitch, vague 
 The name Clarity means nothing to Delphine. She has never heard of it. But something about the email - the carefully constructed enthusiasm, the emphasis on confidentiality, the sense of something being revealed and concealed at once - makes her pause.
 
 
----
 
 She reads the email twice. The words are precisely calibrated to create interest without providing information - a skill she recognizes because it is a skill she possesses. Prometheus wants her company to make Clarity seem trustworthy, accessible, human. They want her to do for Clarity what she did for HealthBridge: take something complicated and potentially concerning and wrap it in warm light and genuine faces until it feels like hope.
 
@@ -327,7 +309,6 @@ And yet.
 Something about the email sits wrong in her chest, a feeling she cannot locate or name. The machine cares about me, Elena said. And now the machine - or some version of it, some cousin of the glucose monitor and the algorithm and all the systems that track and predict and serve - is reaching out to Delphine, asking her to make it seem caring.
 
 
----
 
 Delphine closes the laptop. The room goes dark except for the city light filtering through the blinds, the ambient glow of Los Angeles that never quite becomes darkness. She sits in the chair for a long moment, listening to the sounds of the house: the refrigerator humming, the settling of walls, Jessie turning over in bed down the hall.
 
@@ -340,7 +321,6 @@ She goes to the kitchen, pours a glass of water, stands at the window looking ou
 What is she doing? Making content. Shaping perception. Converting genuine human moments into engagement metrics. The work is what she trained for, what she is skilled at, what pays for this house and Theo's school and the comfortable life she has built with Jessie. The work is also, she suspects, something she will eventually have to reckon with.
 
 
----
 
 But not tonight. Tonight she drinks the water, sets the glass in the sink, goes to the bedroom where Jessie is sleeping. She undresses in the dark, slides into bed, feels Jessie shift toward her automatically, the unconscious navigation of a body that knows where home is.
 
@@ -357,7 +337,6 @@ These things are connected, she knows. The footage she made today, the grief her
 Sleep comes eventually, thin and unsatisfying, the kind of sleep that leaves you more tired than you started. In the morning there will be more work, more questions, more decisions to make about what she is willing to create. But for now there is only the dark room, the breathing of her wife, the residue of a day that will not quite wash off.
 
 
----
 
 
 

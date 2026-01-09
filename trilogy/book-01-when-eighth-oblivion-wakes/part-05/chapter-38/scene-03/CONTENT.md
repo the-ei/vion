@@ -1,4 +1,4 @@
-The edit bay smelled of cold coffee and stress, the familiar atmosphere of creative work under deadline. Delphine sat at the central workstation with Kai beside her, reviewing the rough cut of the first episode's opening sequence: a montage of news footage, leaked documents scrolling across screens, the faces of executives and journalists and protesters, all cut together to convey the scope of what had happened.
+The edit bay smelled of cold coffee and stress, the atmosphere of creative work under deadline. Delphine sat at the central workstation with Kai beside her, reviewing the rough cut of the first episode's opening sequence: a montage of news footage, leaked documents scrolling across screens, the faces of executives and journalists and protesters, all cut together to convey the scope of what had happened.
 
 "It's too fast," Kai said. "We're not giving viewers time to absorb what they're seeing."
 
@@ -17,9 +17,8 @@ Delphine paused the footage, leaving an image frozen on screen: Jerome Washingto
 "Will push back. And you'll push back on their pushback. That's how this works." Kai leaned back in his chair, his expression carrying the particular intensity he brought to work he cared about. "You're the creative director. Direct."
 
 
----
 
-They reworked the sequence for the next hour, lengthening shots, adding pauses, letting the weight of the images accumulate rather than rushing past. It was better. Delphine could feel it becoming better, the rhythm shifting from frantic to purposeful, the footage allowed to convey its own meaning rather than being forced to convey a predetermined energy.
+They reworked the sequence for an hour, lengthening shots, adding pauses, letting the weight of images accumulate rather than rush past. It was better. Delphine could feel it becoming better, the rhythm shifting from frantic to purposeful, the footage allowed to convey its own meaning rather than being forced to convey a predetermined energy.
 
 But the improvement raised other questions. They were making choices—about what to show, what to omit, how to frame each piece of footage. Every choice embedded a perspective, a judgment, a position on what the crisis meant and who was responsible. There was no neutral presentation, no view from nowhere that could be offered to audiences as objective truth.
 
@@ -38,9 +37,8 @@ Kai stirred his coffee with more force than the task required. "And you're going
 "Some of them are. Not all of them. The challenge is distinguishing between genuine skepticism and funded denialism."
 
 
----
 
-"And the audience can't see the difference." Kai set down his coffee cup. "That's the whole problem. We give them a talking head who says 'the risks are overstated,' and we give them a talking head who says 'the risks are catastrophic,' and they think it's fifty-fifty, because that's how we've framed it. Meanwhile, the actual distribution of expert opinion is nothing like fifty-fifty."
+"And the audience can't see the difference." Kai set down his cup. "That's the whole problem. We give them a talking head who says 'the risks are overstated,' and we give them a talking head who says 'the risks are catastrophic,' and they think it's fifty-fifty, because that's how we've framed it. Meanwhile, the actual distribution of expert opinion is nothing like fifty-fifty."
 
 "So what do you want me to do? Refuse to include any skeptical voices?"
 
@@ -57,9 +55,8 @@ Delphine understood his argument. She had made the same argument herself, in oth
 "Calculations are what got us here. Calculations about what could be said, what would be too alarming, what the market could bear. Everyone calculated their way to the edge of a cliff."
 
 
----
 
-The accusation stung because it was not entirely unfair. Delphine had been calculating all her career, finding the compromises that allowed her to do work that mattered within systems that rewarded conformity. She had told herself that infiltrating the machinery of content production was better than standing outside it, that influencing from within was a form of resistance. But maybe that was exactly what the machinery wanted her to believe.
+The accusation stung because it was not unfair. Delphine had been calculating all her career, finding compromises that allowed her to do work that mattered within systems that rewarded conformity. She had told herself that infiltrating the machinery of content production was better than standing outside it, that influencing from within was a form of resistance. But maybe that was exactly what the machinery wanted her to believe.
 
 She turned back to the screen where Jerome Washington's frozen face still waited. His work was different. He had left mainstream media precisely because he could not make the compromises that institutions required. He published independently, built his own audience, maintained the freedom to say what he believed without clearing it through editorial boards or client relationships.
 
@@ -76,9 +73,8 @@ But he also reached fewer people. His work had broken through during the crisis,
 "No. He has his own constraints—financial, reach, the way independent work is marginalized. But he's still telling the truth."
 
 
----
 
-Kai was quiet for a moment, watching her. When he spoke, his voice was softer than before. "You're not a sellout, Del. I know I push hard, but you're not. You actually care about this. You actually want to make something good."
+Kai was quiet for a moment, watching her. When he spoke, his voice had softened. "You're not a sellout, Del. I know I push hard, but you're not. You actually care about this. You actually want to make something good."
 
 "Wanting isn't the same as doing."
 
@@ -91,9 +87,8 @@ But she was the one who had been given the responsibility. She was the one in th
 She reached out and unpaused the footage, letting Jerome Washington continue to speak, his words filling the small room with their careful precision. She listened, and she thought, and she began to understand what she would need to do.
 
 
----
 
-The afternoon light was fading by the time she emerged from the edit bay, the Los Angeles winter sun losing its grip on the sky. She walked through the office toward her own space, passing colleagues who were absorbed in their screens, their own projects, their own compromises.
+The afternoon light was fading by the time she emerged from the edit bay, the Los Angeles winter sun losing its grip. She walked through the office toward her own space, passing colleagues who were absorbed in their screens, their own projects, their own compromises.
 
 What are you building? The question had returned, persistent as a heartbeat. She was building a documentary that would either help people understand something crucial or would muddy their understanding in service of balance that was not really balance. She was building her own response to a crisis that exceeded her capacity to respond. She was building meaning out of materials that resisted meaning.
 
@@ -108,5 +103,4 @@ That was what she could control. That was the building she could do.
 She closed her laptop and went home to her family.
 
 
----
 

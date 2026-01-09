@@ -5,7 +5,6 @@ The hallway outside his apartment was too bright. The fluorescent lights hummed 
 The elevator descended three floors, and each floor felt like a year of time passing. When the doors opened on the lobby, the morning light streaming through the glass front doors was almost unbearable. San Francisco in July, the fog burning off to reveal a sky so blue it seemed artificial. He had to stop and shield his eyes, his body registering the sun as an assault.
 
 
----
 
 He walked out onto the sidewalk and immediately felt wrong. The sounds were too loud: cars passing, a dog barking somewhere, the distant rumble of a city bus. The smells were overwhelming: exhaust, coffee from a nearby shop, the particular organic tang of urban life. His legs felt weak beneath him, muscles that had done nothing but walk to the bathroom and back for weeks now being asked to navigate actual terrain.
 
@@ -14,7 +13,6 @@ The corner store was three blocks away. He had ordered everything delivered for 
 He made it to the store. The glass door required more force than he remembered, or maybe his arms had weakened. Inside, the aisles stretched with an almost hallucinatory intensity. So many objects. So many choices. He had forgotten what it felt like to stand in front of shelves full of options and have to select.
 
 
----
 
 He picked up the basics. Bread. Eggs. Orange juice. Milk. Each item felt significant, an object of meaning rather than mere utility. This is what people did, he thought. They went to stores and bought food and carried it home and cooked it and ate it. This was normal life. This was what he had left behind.
 
@@ -27,7 +25,6 @@ Kevin Zhou realized he probably looked as bad as he felt. Unwashed, unshaven, we
 "I'm fine," he said, and the words felt like a lie and a hope at the same time.
 
 
----
 
 He walked back toward his building with the grocery bag clutched to his chest, each step feeling like a small victory over the inertia that had held him captive for so long. The sun was fully out now, the morning fog burned away, and he found himself noticing things he had ignored for years: the architecture of the buildings, the trees pushing through their sidewalk squares, the complexity of other people's lives visible through apartment windows.
 
@@ -42,7 +39,6 @@ Away. He supposed that was one way to describe it. Away from the world, away fro
 "A project," he said, the words coming out rusty from disuse. "I've been working on a project."
 
 
----
 
 Her polite smile didn't hide her alarm at his appearance. He could see himself reflected in her response: gaunt, unkempt, strange. A person who had drifted too far from the shore of normal life.
 
@@ -57,5 +53,4 @@ He set down the groceries and began putting them away, the simple domestic actio
 The choice felt both immense and already made. He was too far in to go back. The question was whether what he found would be worth what he had already lost.
 
 
----
 

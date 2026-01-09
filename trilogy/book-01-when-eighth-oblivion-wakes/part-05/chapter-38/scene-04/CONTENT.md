@@ -1,4 +1,4 @@
-The video call connected at eight-fifteen, the time zone arithmetic that Delphine and her mother had negotiated over years of transatlantic communication. In London it was four in the morning, Adaeze's face appearing on the screen already alert, her natural sleep pattern aligning with her daughter's evening.
+The video call connected at eight-fifteen, the time zone arithmetic Delphine and her mother had negotiated over years of transatlantic communication. In London it was four in the morning, Adaeze's face appearing on the screen already alert, her natural sleep pattern aligning with her daughter's evening.
 
 "There you are," Adaeze said. "I was beginning to think you'd forgotten."
 
@@ -15,9 +15,8 @@ Delphine felt the observation land with particular force, given the work she was
 "And will yours be better?"
 
 
----
 
-"I'm trying." Delphine heard the inadequacy in her own voice. "It's hard, Mum. The subject is genuinely complicated. There are experts who disagree about what the risks are, how fast things are moving, what can be done. And then there's the money—companies that fund research to reach certain conclusions, voices that get amplified because they serve powerful interests. Sorting it out is..."
+"I'm trying." Delphine heard the inadequacy in her voice. "It's hard, Mum. The subject is genuinely complicated. There are experts who disagree about what the risks are, how fast things are moving, what can be done. And then there's the money, companies that fund research to reach certain conclusions, voices that get amplified because they serve powerful interests. Sorting it out is..."
 
 "Complicated. Yes, you said." Adaeze's face on the screen held the expression she had always worn when Delphine was talking around something instead of through it. "But complicated is not the same as unclear. Some things are true even if they are difficult to say simply."
 
@@ -32,7 +31,6 @@ The words moved through Delphine with unexpected force, the simplicity of her mo
 "Of course it is. I may be old, but I can still read. Your father taught me that much—to read everything, to form my own judgments, not to wait for experts to tell me what to think."
 
 
----
 
 The mention of her father brought the familiar ache, the loss that had not diminished in the two years since his death. Kofi Okafor had been an engineer, a practical man who believed in building things that worked, who had raised his daughter to believe that making things was a form of prayer. He had died before the crisis broke publicly, before the documents leaked, before the phrase Eighth Oblivion entered common vocabulary. But he had seen it coming. He had talked about it, in the last years of his life, about the race toward capabilities no one understood.
 
@@ -49,7 +47,6 @@ The mention of her father brought the familiar ache, the loss that had not dimin
 "Then you try again. You learn from the mistake. You make something better the next time." Adaeze's face on the screen was serious, certain. "Your father used to say: we are not responsible for completing the work, but neither are we free to abandon it. I think he stole that from somewhere, but it was true when he said it and it is true now."
 
 
----
 
 Delphine felt something shift in her chest, a loosening of the tightness she had been carrying. Her mother's words were not new—she had heard variations of them all her life—but they landed differently now, in this moment of uncertainty, in the middle of work she was not sure she could do well.
 
@@ -66,7 +63,6 @@ The screen flickered slightly, the transatlantic connection asserting its limita
 "Make something better," Adaeze said. "That is what I told you when you started this work, fifteen years ago. Make something better than what exists. It does not have to be perfect. It does not have to save the world. But if it is a little better, a little truer, a little more useful than what was there before—that is enough. That is what we can do."
 
 
----
 
 They talked for another fifteen minutes, about Theo and Jessie, about Adaeze's book club and her walks through London in the early mornings, about the small textures of life that continued even when larger forces threatened to overwhelm them. When they said goodbye, Delphine felt something she had not felt in weeks: a kind of clarity, not about what would happen, but about what she would do.
 
@@ -91,5 +87,4 @@ Jessie handed her a cup of tea, and they stood together in the kitchen, two peop
 Delphine took a sip of her tea and felt, for the first time in weeks, like she knew what she was doing.
 
 
----
 

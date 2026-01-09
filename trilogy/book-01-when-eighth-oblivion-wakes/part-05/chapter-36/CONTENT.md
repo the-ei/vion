@@ -7,7 +7,6 @@ She walked to the bathroom without turning on lights, navigating by the familiar
 The water in the shower took its usual forty seconds to warm. She counted, as she always had, but now the counting felt different, like a ritual from a life that might be ending.
 
 
----
 
 The coffee maker was a Technivorm she had purchased the week she started at Prometheus, a small celebration of the salary that had made her breath catch when she saw the offer letter. It had seemed a reasonable indulgence then, an object that signified arrival, that announced: you have reached a place where quality matters and you can afford to notice the difference. Now she watched the water heat and drip through the grounds and thought about all the mornings this machine had functioned perfectly while she went to work at a company that had been building something she had not fully understood.
 
@@ -18,7 +17,6 @@ She poured the coffee into a ceramic mug that had been a gift from a colleague t
 The news was on the counter where she had left her phone, but she did not pick it up. She knew what they were saying. She had seen enough in the first week to understand how the story was being shaped, how her name was being used by some and withheld by others, how the complexity of what had actually happened was being compressed into narratives that served purposes she could not control.
 
 
----
 
 She ate yogurt standing at the counter, watching the rain. The backyard was small, the lawn that someone else maintained because she had never learned how and now would need to, probably, depending on what happened next. The administrative leave they had placed her on was technically voluntary. She had agreed to it, had even signed something, but the agreement had felt less like choice than like the only path that did not involve immediate litigation. They were being careful with her. She was being careful with them. Everyone was being very, very careful.
 
@@ -29,7 +27,6 @@ At eight-thirty she made a second cup of coffee and carried it to her home offic
 The folder was evidence, or it was protection, or it was both.
 
 
----
 
 She had not decided what to do with the documents. That was the truth she returned to each morning, the question she circled without answering. There were people who wanted them, journalists who had reached out through encrypted channels, lawyers who had hinted at their usefulness, congressional staffers who had called from blocked numbers. She had responded to some, ignored others, maintained a careful ambiguity that felt less like strategy and more like paralysis.
 
@@ -42,7 +39,6 @@ She typed back: Looking forward to it. No emoji. She had never learned to speak 
 The hours between morning and noon stretched out before her, empty of meetings, empty of obligations, empty of the structure that had organized her days for so long. She did not know what to do with this emptiness. She sat in her office chair and looked at the folder and did not open it, and the rain fell on the roof above her head.
 
 
----
 
 By eleven the rain had softened to mist, and she had read three chapters of a novel she could not remember selecting, her eyes moving over words that left no impression. The plot concerned a woman making decisions in a distant century, and Ananya found herself wondering what that woman's ethics role would have been, what frameworks she might have written, what concerns she might have flagged and filed.
 
@@ -59,13 +55,12 @@ She was waiting too. She had been waiting for two weeks, and she was beginning t
 Soon, she would have to choose differently.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The call connected at twelve-thirty-two, the delay attributable to the chaos of a fourteen-year-old's Saturday, and Priya's face materialized on the screen already mid-sentence, already telling a story about something that had happened at school that week, a story Ananya had to work to follow because she was also looking at her daughter, really looking, trying to see what was different and what remained.
 
@@ -82,7 +77,6 @@ The mention was casual, dropped in like any other detail, but Ananya felt it lan
 "Obviously." Priya's face did something complicated, a micro-expression that Ananya might have missed on a worse connection. "Everyone's talking about it. About the whole thing. Some of them know you work there. Worked there. Work there? I don't even know what to say."
 
 
----
 
 "I'm on leave," Ananya said. "Administrative leave. It's complicated."
 
@@ -103,7 +97,6 @@ The words hit with precision, and Ananya felt the familiar shame of failed paren
 "It's okay." But Priya's face said otherwise, that the not-okayness had been accumulating for years, that this crisis was only the latest weight on a structure already strained.
 
 
----
 
 The connection stuttered, Priya's face freezing for a moment in an expression that looked like worry or judgment or both, and then it resumed, and she was mid-question: "—actually do? Like, specifically?"
 
@@ -124,7 +117,6 @@ Priya was quiet, processing. At fourteen she was old enough to understand concep
 "I know." Ananya smiled, and Priya smiled back, and for a moment they were just a mother and daughter on a video call, connected by technology that neither fully understood, separated by distance that was both physical and something else. "The honest answer is that I don't know what happens next. I made choices that might have consequences. I'm waiting to see what the consequences are."
 
 
----
 
 "Are you scared?"
 
@@ -147,7 +139,6 @@ In the background, Ananya heard a voice, Raj's voice, calling something about lu
 "Yes?"
 
 
----
 
 "I don't really understand it all. The whole Eighth Oblivion thing, the projections, the stuff they were building. It's really complicated, and some of it sounds like science fiction, and I don't know what's real and what's just people freaking out."
 
@@ -166,7 +157,6 @@ Priya's face on the screen was serious, older than her years, carrying something
 The call ended, and Ananya sat in the sudden silence of her office, looking at the blank screen where her daughter's face had been, feeling the distance between Palo Alto and Menlo Park as if it were the distance between planets, as if the ten miles of highway were an unbridgeable gulf.
 
 
----
 
 She closed the laptop and looked at the folder on her desk, the documents that might help explain to her daughter what she had done and why, and she thought about the future Priya would inherit, the world that would exist when her daughter was her age, the technologies that would shape lives not yet begun.
 
@@ -181,13 +171,12 @@ She was none of those things. She was a mother who had looked at the future and 
 That, in the end, was why she had done what she had done.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The text arrived at two-fourteen: Coming by in an hour, if that's okay. Need to talk. The sender was Vikram Patel, whose name on her screen produced a complex cascade: affection, wariness, the memory of working lunches and late meetings and conversations that had felt, at the time, like genuine connection.
 
@@ -200,7 +189,6 @@ But maybe his view differed. Maybe from inside, things looked different than the
 She cleaned the kitchen, an activity that served no real purpose but occupied her hands and her attention. The counters were already clean. The dishes were already done. But she wiped them anyway, moving the cloth in circles that left streaks of moisture that dried almost instantly in the heated air, and she thought about what she would say to Vikram and what she would not say, and what his visit meant.
 
 
----
 
 He arrived at three-twelve, pulling into her driveway in the same silver Tesla he had driven for the three years she had known him, a car that was both a symbol of the industry they inhabited and a practical object that moved a person from one place to another. She watched from the window as he got out, as he looked at the house with an expression she could not read, as he walked up the path to her front door. He was carrying nothing. No bag, no folder, nothing that suggested this was an official visit. Just Vikram, in weekend clothes, his face showing the particular strain of someone who has spent two weeks navigating something difficult.
 
@@ -221,7 +209,6 @@ She went to the kitchen and poured two cups, aware of his presence in the other 
 She did not know. That was the terrible thing. After three years of working alongside him, she did not know.
 
 
----
 
 She returned with the cups and set his on the table beside his chair, a small distance that felt meaningful in a way she could not articulate. He picked it up, wrapped his hands around it, and looked at her.
 
@@ -242,7 +229,6 @@ He looked away, toward the window where the rain had started again, and she saw 
 "Do they?" She heard the edge in her own voice and tried to soften it. "I thought I had a choice. I thought I was making a choice. But now I'm not sure. Maybe I just did the only thing I could do, given who I am."
 
 
----
 
 The rain intensified, drumming the roof, and they both looked toward the sound as if it offered relief from the conversation. When Vikram spoke again, his voice was different, more careful.
 
@@ -261,7 +247,6 @@ She absorbed this information the way she had learned to absorb bad news: withou
 "I don't know the details. I'm not in those meetings. But I hear things. They're talking about breach of confidentiality, theft of trade secrets, maybe more. They want to make an example."
 
 
----
 
 "An example of what?"
 
@@ -278,7 +263,6 @@ Ananya considered this, turning it over in her mind. She had known, of course, t
 Vikram was quiet. Outside, the rain continued its steady percussion, indifferent to the conversation unfolding in the dry warmth of the house.
 
 
----
 
 "I'm still there," Vikram said finally. "I'm still doing what you did. Writing frameworks, raising concerns, logging objections. Does that make me complicit?"
 
@@ -295,7 +279,6 @@ He set down his coffee cup and leaned forward, his elbows on his knees, his face
 He was silent for a long moment. When she turned back, his face held something that might have been shame.
 
 
----
 
 "I should go," he said. He stood, and for a moment they faced each other across the living room, two people who had once shared something and now stood on opposite sides of a line neither had drawn, a line that the crisis had revealed rather than created. "I'm sorry. I don't know what I was hoping to accomplish by coming here. I don't know what I thought would happen."
 
@@ -316,13 +299,12 @@ And then he was gone, walking back to his car in the rain, getting in, backing o
 She did not know if Vikram was a friend or an emissary or something in between. She did not know if his visit had helped her or endangered her. She knew only that she was alone again, and that the rain was still falling, and that whatever came next would come whether she was ready for it or not.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The rain stopped around six, leaving the world washed and dripping, and Ananya stood in her kitchen watching the last light of the January day fade behind clouds. She had made pasta, a simple dish that required just enough attention to occupy her hands without engaging her mind, and now she ate it standing at the counter, not bothering with a plate, just the pot and a fork and the mechanical motion of feeding herself.
 
@@ -339,7 +321,6 @@ She opened the folder.
 The documents inside were exactly as she remembered: the internal projections, the risk assessments, the emails between executives discussing scenarios never meant for outside eyes.
 
 
----
 
 The phrase Eighth Oblivion appeared on the third page, in a memo from the head of the advanced projects division to the CEO. She had read this memo so many times that she could recite it from memory, but she read it again now, letting the words move through her with their full weight.
 
@@ -354,7 +335,6 @@ She turned to the next document, a risk assessment from the safety team, one she
 Might not be controllable. She had flagged this language, had suggested stronger phrasing, had been overruled.
 
 
----
 
 She thought about Jerome Washington, the journalist who had published the first stories, who had taken the documents she had given him and turned them into articles that millions of people had read. She had met him only once, in a coffee shop in Oakland that she had chosen for its anonymity, its distance from the usual tech-industry haunts. He had been younger than she expected, more intense, his questions sharp and probing in a way that had made her feel simultaneously seen and exposed.
 
@@ -369,7 +349,6 @@ Instead she sat at her desk and looked at the documents and let herself feel the
 And she would do it again. That was the thing she kept returning to. Given the same circumstances, the same knowledge, the same choice, she would do it again.
 
 
----
 
 The Eighth Oblivion. She had spent months trying to understand what that phrase meant, trying to grasp the scale of what the projections suggested. The previous oblivions, if the historical framework was accurate, had been the great transformations: the agricultural revolution, the invention of writing, the rise of cities, the printing press, the industrial revolution, the digital age, the networked world. Each one had changed what it meant to be human, had restructured society in ways that could not have been predicted or reversed.
 
@@ -384,7 +363,6 @@ If we don't do it, someone else will.
 She closed the folder and placed her hand on top of it, as if she could contain what it represented through physical pressure. Outside, the last light had faded, and her office had grown dark around her. She did not move to turn on a lamp. She sat in the darkness and waited, though she could not have said what she was waiting for.
 
 
----
 
 Something was becoming clear, in the way things become clear not through sudden insight but through gradual accumulation, through the slow gathering of thoughts into pattern.
 
@@ -401,7 +379,6 @@ She sat in the darkness of her office, her hand on the folder, and she watched. 
 Whatever came next, she would meet it with her eyes open.
 
 
----
 
 
 

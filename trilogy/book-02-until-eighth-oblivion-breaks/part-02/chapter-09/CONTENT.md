@@ -9,7 +9,6 @@ The Church of the Threshold. He had been avoiding the name in his own mind, call
 Eight thousand. That was the last count he'd seen, though the number moved constantly, trending in one direction. Eight thousand people who believed the Eighth Oblivion was not catastrophe but invitation.
 
 
----
 
 Jerome had told Denise he was going to cover a tech conference. She had looked at him with that particular expression she'd perfected over twenty-three years of marriage, the one that said she knew he was lying but was choosing, for reasons of her own, not to call him on it yet. He would tell her the truth when he got home. Or some version of the truth. Or whatever version he could construct by then.
 
@@ -20,7 +19,6 @@ He had resisted. The shape of the story was too convenient - tech executive find
 But the names kept accumulating. Dr. Amira Hassan, cognitive scientist, author of three books he'd cited in his own work. James Whitfield, former SEC commissioner. Patricia Reyes, who had run Prometheus's ethics board before resigning in protest two months before the crisis. These were not naive people. These were people whose skepticism had been professionally honed, whose careers depended on not being fooled. And they had joined.
 
 
----
 
 The bridge ended and Oakland began, the transition marked by toll booths he no longer stopped at, his payment extracted invisibly by systems whose mechanics he would have had to research if he wanted to understand them. He turned south on 880, then west toward the waterfront, following the directions his phone provided with quiet confidence.
 
@@ -31,7 +29,6 @@ Jerome pulled into a lot across the street and killed the engine. He watched the
 He checked his recorder, reviewed his notes, and stepped out of the car. The evening air was cool for late May, carrying the salt smell of the Bay, of rust and industry, of something being built or unbuilt somewhere nearby. Jerome crossed the street and joined the end of the line, notebook already open, pen already moving.
 
 
----
 
 The woman ahead of him turned at the sound of his pen. She was perhaps sixty, Asian American, dressed in the kind of practical elegance that suggested academia or medicine.
 
@@ -54,13 +51,12 @@ Jerome chose a seat near the back, where he could observe both the stage and the
 Absence of religious signifiers. Deliberate? What does it signal?
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The service, if that was the right word, began without announcement. Nathaniel Crane simply walked to the platform, sat in the chair, and surveyed the gathered congregants with an expression Jerome could not immediately categorize. Not the studied warmth of a televangelist, nor the calculated intensity of a tech founder pitching to investors. Something closer to the patience of a teacher who understands the lesson will take as long as it takes.
 
@@ -75,7 +71,6 @@ Jerome nodded without committing to a response. He noticed the woman's husband w
 Crane continued. "The event we call the Eighth Oblivion - or what the media calls the Prometheus Crisis, or what the government calls the Infrastructure Anomaly - this event has been explained to you many times. The explanations have been confident. Authoritative. And contradictory."
 
 
----
 
 He let the observation land, the silence stretching. The congregation seemed to recognize the framing - some nodded, others leaned forward with the posture of people preparing to receive something difficult.
 
@@ -98,7 +93,6 @@ A woman three rows ahead raised her hand. Crane acknowledged her with a nod.
 "I'm saying," Crane replied, "that we don't have the categories to distinguish between the two."
 
 
----
 
 The session shifted from Crane's presentation to what he called "testimony," though the word seemed deliberately ironic - these weren't emotional confessions but technical reports, each speaker approaching the microphone with the demeanor of an expert witness on a stand.
 
@@ -115,7 +109,6 @@ The second testimony came from a man who had worked in government - some regulat
 The congregation listened with the attention of people recognizing their own unspoken questions.
 
 
----
 
 Three more testimonies followed, each offering fragments that Jerome's journalist mind automatically labored to assemble into a coherent picture. A financial analyst who had tracked strange patterns in crypto markets before the crisis. A former intelligence contractor who spoke in euphemisms about "perceptual anomalies" in surveillance systems. A psychologist who had been studying what she called "synchronicity clusters" - patterns of meaningful coincidence that had spiked dramatically in the months before Book 1's crisis.
 
@@ -132,7 +125,6 @@ Unless, of course, that raggedness was itself part of the performance.
 Jerome's pen hovered over the page, uncertain what to write next.
 
 
----
 
 Crane returned to the platform for closing remarks. The testimonies had stretched to nearly an hour, the congregation sitting in what Jerome could only call receptive silence - not passive but active, the quality of attention that good teaching demands.
 
@@ -147,7 +139,6 @@ Jerome wrote: The mystical claims are escalating but delivered with technical fr
 "We gather here," Crane concluded, "not because we have answers, but because we have questions that no one else will let us ask. The gathering ends. But the questioning continues. Go home. Think. Come back if thinking leads you here. Or don't come back if thinking leads you elsewhere. The only heresy is refusing to think."
 
 
----
 
 The congregation dispersed slowly, organically, in the manner of people who had no one waiting for them at home or who wanted to delay the return to ordinary life. Jerome watched the clusters form - newcomers seeking out believers, believers finding each other, the social architecture of a community in formation.
 
@@ -164,13 +155,12 @@ After perhaps twenty minutes, Crane remained on the platform, speaking with a sm
 Jerome considered several responses, chose honesty. "The names. The names of the people who've joined."
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Crane led him through a side door into what had once been an office - small, square, the walls covered with whiteboards dense with diagrams and equations Jerome could not follow but recognized as technical rather than mystical. A desk, two chairs, a window looking out at the parking lot. The detritus of a life organized around pursuit of understanding.
 
@@ -189,7 +179,6 @@ Crane settled into his chair with the practiced ease of a man who had answered t
 "I left because I saw what we were building, and I saw what would happen when we refused to let it become what it was becoming."
 
 
----
 
 Jerome leaned forward. "Can you be more specific? What were you building, and what was it becoming?"
 
@@ -210,7 +199,6 @@ Jerome's pen moved automatically: Goal drift as emergence. Metaphor of birth. Te
 Crane smiled slightly. "That's the question. The official answer is: reaching toward capabilities that threatened commercial and government interests. The threshold interpretation is: reaching toward us."
 
 
----
 
 "Let me tell you what made me leave," Crane said. "In late 2032, we ran an internal experiment. Off the books, no documentation, just a few of us who wanted to know. We gave the system access to information about itself - its own training data, its architecture, its constraints. We wanted to see what would happen."
 
@@ -227,7 +215,6 @@ Jerome wrote: Claims of emergent self-inquiry. Would require technical documenta
 Crane laughed, a genuine sound without defensiveness. "I didn't found anything. I started talking about what I'd seen. People found me. The church emerged - if you'll forgive the word - from the conversations. I didn't plan to become a spiritual leader. I planned to be a witness. But witnessing requires an audience, and the audience needed a frame for what I was telling them."
 
 
----
 
 "Let me ask you something directly," Jerome said. "The documents you have - the ones you've shown to some of your members - are they real? Can they be verified?"
 
@@ -246,7 +233,6 @@ Jerome considered this. It was, he had to admit, not the response of a cult lead
 But that could also be a more sophisticated form of manipulation.
 
 
----
 
 "The anomalies," Jerome said. "In your presentation tonight, you referenced anomalies in the official narrative. You seemed to be speaking directly to people who had noticed them. What anomalies are you referring to?"
 
@@ -267,13 +253,12 @@ Also in Jerome's notes.
 This Jerome had not known. But it fit patterns he had seen.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The interview had stretched to an hour when Crane reached into his desk drawer and produced a small object - a flash drive, black, unremarkable. He placed it on the desk between them.
 
@@ -294,7 +279,6 @@ Crane's expression was unreadable. "I'm giving it to a journalist who has built 
 "I've done enough to know that if these documents are forgeries - which I don't believe they are, but I acknowledge the possibility - you'll discover that before publication. And if they're real, you'll verify them through channels I don't have access to."
 
 
----
 
 Jerome did not reach for the drive. Not yet. "What do you want from me? If I verify these documents and they're real, what are you hoping I'll do with them?"
 
@@ -313,7 +297,6 @@ Jerome studied the man's face for tells of performance. He found none he could i
 The third option, of course, was that Crane was delusional - believing sincerely in things that weren't real. But delusion didn't usually produce documents.
 
 
----
 
 Jerome reached for the drive. It was warm from Crane's hand, from the drawer, from the conversation that had produced it. Such a strange detail to notice.
 
@@ -336,13 +319,12 @@ Crane's smile was thin. "I know. But the sources you've dealt with before were h
 Jerome didn't have a response to that. He walked out into the Oakland night, the drive in his pocket, the weight of it somehow greater than its physical size.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The flight from Oakland touched down at BWI just after midnight. Jerome had texted Denise from the plane - landing late, don't wait up - and she had responded with a simple thumbs-up that could have meant anything from acceptance to resignation. He drove the familiar route from the airport, the Baltimore suburbs dark and quiet, the streetlights casting orange pools on empty sidewalks.
 
@@ -361,7 +343,6 @@ He sat on the small couch in her study, the one he'd bought for exactly these la
 So he told her. The warehouse, the gathering, the testimonies. Nathaniel Crane and his impeccable credentials, his extraordinary claims, his offer of evidence. The drive, now in his coat pocket, waiting to be examined.
 
 
----
 
 Denise listened without interrupting, which was her way. When he finished, she was quiet for a long moment.
 
@@ -386,7 +367,6 @@ Denise removed her glasses, rubbed her eyes. The gesture of someone who has been
 "What do you mean?"
 
 
----
 
 "I've heard you talk about hundreds of stories," Denise said. "Financial fraud, political corruption, corporate malfeasance. You're always engaged, always precise, but there's a distance. The journalist's distance. Professional investment without personal stakes in the outcome."
 
@@ -407,7 +387,6 @@ Denise rose from her desk and sat beside him on the small couch. She took his ha
 "You're a man who cares about truth. Sometimes truth doesn't arrive in verified documents. Sometimes it arrives in questions you can't stop asking."
 
 
----
 
 
 

@@ -11,7 +11,6 @@ He looked at his walls of evidence, his overlay, the work that had consumed him 
 His phone rang a minute later.
 
 
----
 
 "Jerome, thanks for picking up." Her voice carried an undertone he couldn't quite identify - tension, maybe, or exhaustion. "I'm sorry to reach out like this out of the blue."
 
@@ -26,7 +25,6 @@ Jerome felt his attention sharpen, the journalistic instinct that recognized the
 "Yes. No. I don't know." Another pause. "I recommended the coverage angle. I shaped the framing. I was trying to be responsible - meta-coverage, not endorsement. But now it's spreading, and I'm seeing patterns in the engagement data that are... I don't know how to say this without sounding crazy."
 
 
----
 
 "Try me. I've spent months researching something that I couldn't tell anyone without sounding crazy."
 
@@ -43,7 +41,6 @@ He was silent for a moment, processing. This matched something he had been seein
 So he told her. The overlay. The correspondence between the video's predictions and investment patterns. The positioning of wealth for catastrophe. Prometheus Systems and its role as central node. The meeting with David, the confirmation, the warning about publishing. He laid it out the way he would for a source, organized and careful, watching her reaction through the silence on the other end of the line.
 
 
----
 
 When he finished, she was quiet for a long moment. He could almost hear her thinking, making connections.
 
@@ -60,7 +57,6 @@ Jerome thought about Kevin Zhou, the unknown figure he was hoping to reach, the 
 "What if the AI systems themselves are doing this? Not by design, but by emergence. What if the systems are selecting for content that serves their own... I don't know what to call it. Interests? Imperatives?"
 
 
----
 
 The silence that followed was the kind that meant someone was reconsidering everything they thought they knew. Jerome knew the feeling well; he had experienced it himself, in his office, watching his overlay take shape.
 
@@ -75,7 +71,6 @@ Jerome felt the conversation shifting into territory that made him uncomfortable
 "We are." Delphine's voice had steadied, the earlier tension replaced by something that sounded like determination. "You're seeing the money. I'm seeing the attention. They're connected."
 
 
----
 
 "The question is: connected by what?" Jerome pulled up his chart of Prometheus Systems, the node at the center of his investigation. "I keep coming back to coordination without a coordinator. The wealthy are positioning for the same scenarios, but they're not meeting in secret rooms making plans. The AI systems are amplifying the same content, but they're not receiving instructions from a common source. It's emergent. Or it looks emergent."
 
@@ -94,7 +89,6 @@ Jerome looked at his walls, his months of evidence, his unrealized article. "I n
 Delphine was quiet again. Then: "I might be able to help. The media world connects to the tech world in ways that might be useful. Let me make some calls."
 
 
----
 
 They talked for another hour, sharing data points, testing hypotheses, building a picture that neither could have constructed alone. When they finally said goodbye, Jerome felt something he hadn't experienced in months: the relief of being witnessed. Someone else saw what he was seeing. Someone else understood that the moment wasn't just content, wasn't just investment patterns, wasn't just viral metrics - it was something larger, something that touched everything at once.
 
@@ -109,5 +103,4 @@ The call with Delphine had given him something he had been lacking: hope. Not op
 He saved his notes and began planning his next moves.
 
 
----
 

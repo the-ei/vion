@@ -6,18 +6,17 @@ The living room had been rearranged for the table read, chairs pulled into a rou
 
 "Upstairs with the sitter. She'll bring him down for goodnight later."
 
-Delphine found a seat at the circle's edge, positioning herself to observe without being the focus of attention. This was Jessie's project, Jessie's moment, and Delphine's role was to support—though support in their marriage had always been complicated, both of them creative professionals whose work competed for time and emotional investment.
+Delphine found a seat at the circle's edge, positioning herself to observe without being the focus of attention. This was Jessie's project, Jessie's moment, and Delphine's role was to support, though support in their marriage had always been complicated, both of them creative professionals whose work competed for time and emotional investment.
 
 The pilot was called THRESHOLD, and it was about the crisis—or rather, it was set during the crisis, using the events as backdrop for a story about a family navigating collapse. Jessie had been working on it for months, since before the crisis broke publicly, drawing on research and intuition and the particular anxiety that pervaded their world. When the documents leaked, when the phrase Eighth Oblivion entered public conversation, the script had suddenly become not speculative fiction but something closer to documentary.
 
 "Okay," Jessie said, her voice taking on the director tone she used when organizing creative work. "Let's take it from the top. Remember, this is rough—I want to hear how it sounds, not how it performs."
 
 
----
 
 The actors began reading. The dialogue was crisp, Jessie's gift for naturalistic conversation on full display. A mother explaining to her teenage daughter why she had quit her job at a tech company. A father defending his decision to stay. The domestic argument that became a referendum on complicity, on choice, on what it meant to participate in something you knew was dangerous.
 
-Delphine listened with the particular attention she brought to any narrative work, noting what landed and what didn't, tracking the rhythm of scenes, the build of tension. Despite herself, she was drawn in. Jessie was good at this—good at finding the human scale within the larger catastrophe, good at making abstraction feel personal.
+Delphine listened with the particular attention she brought to any narrative work, noting what landed and what didn't, tracking the rhythm of scenes, the build of tension. Despite herself, she was drawn in. Jessie was good at this: finding the human scale within the larger catastrophe, making abstraction feel personal.
 
 But she was also doing something else. She was turning real fear into entertainment. She was taking the genuine terror that people felt about the future and converting it into a story that would have a beginning, a middle, and an end, that would resolve in some fashion, that would offer the satisfaction of narrative closure that reality refused to provide.
 
@@ -28,11 +27,10 @@ The mother character gave a speech about why she had leaked documents to a journ
 The room was silent except for the voice. Delphine felt Jessie watching her, gauging her reaction.
 
 
----
 
 The reading continued through the first act, pausing twice for Jessie to make notes, to ask an actor to try a line differently. The producer asked questions about pacing, about commercial breaks, about the network's notes on an earlier draft. This was the business of television, the machinery that transformed imagination into product, and Delphine watched it unfold with the professional distance of someone who knew the process too well to be naive about it.
 
-At forty-five minutes, they broke. The actors stood and stretched, conversations fragmenting into smaller groups. Delphine found herself in the kitchen, pouring wine she did not especially want, when Jessie appeared beside her.
+At forty-five minutes they broke. The actors stood and stretched, conversations fragmenting into smaller groups. Delphine found herself in the kitchen, pouring wine she did not especially want, when Jessie appeared beside her.
 
 "What do you think?"
 
@@ -51,7 +49,6 @@ Delphine leaned against the counter, feeling the weight of the day, the commissi
 "And I watched your table read and I couldn't stop thinking about what we're all doing. You're making fiction about it. I'm making documentary about it. We're both turning the same thing into content that people will consume while scrolling on their phones, and I don't know if that helps or if it just makes it easier to feel like something is being done when nothing is actually being done."
 
 
----
 
 Jessie was quiet for a moment, the kitchen sounds filling the silence—distant conversation, ice in a glass, the hum of the refrigerator. When she spoke, her voice carried something careful.
 
@@ -76,11 +73,10 @@ Delphine did not have a ready answer. From the living room came laughter, someon
 Jessie's eyes met hers, steady and serious. "It has to be. Because it's what I can do. I can't stop the AI race. I can't make policy. I can't change what the companies are building. But I can write a story that helps someone feel less alone with their fear. I can give them characters who are trying to do the right thing in impossible circumstances. That's not nothing."
 
 
----
 
 "Mommy?"
 
-The voice came from the doorway, where Theo stood in his pajamas, the sitter behind him apologetic. He was four years old, his face a blend of Delphine's eyes and Jessie's mouth, and his presence in the room changed everything, made the abstract conversation suddenly concrete.
+The voice came from the doorway, where Theo stood in his pajamas, the sitter behind him apologetic. He was four, his face a blend of Delphine's eyes and Jessie's mouth, and his presence changed everything, made the abstract conversation suddenly concrete.
 
 "Hey, baby." Delphine bent to pick him up, feeling his small weight against her chest, the way his arms wrapped around her neck. "Did you have a good bath?"
 
@@ -105,9 +101,8 @@ Theo considered this offer, his face showing the serious deliberation of a child
 They took him upstairs together, the domestic routine interrupting the professional conversation, the simple needs of a four-year-old overriding the complex anxieties of adults who created content about the end of the world. Delphine read him a book about a bear who learned to share, her voice steady and soothing while her mind continued to turn over the questions that had no answers.
 
 
----
 
-By the time Theo was asleep, the table read had ended and the guests were leaving, the house returning to its usual evening quiet. Jessie saw them out while Delphine stood at the window of Theo's room, watching her son sleep, watching the rise and fall of his small chest, thinking about the future he would inherit.
+By the time Theo slept, the table read had ended and the guests were leaving, the house returning to its evening quiet. Jessie saw them out while Delphine stood at the window of Theo's room, watching her son sleep, watching the rise and fall of his small chest, thinking about the future he would inherit.
 
 What world would he grow up in? What would remain of the stability they had known, the assumptions they had built their lives around? The projections she had read, the documents that were now public knowledge, suggested that everything might change within his lifetime—might change so thoroughly that the future would be unrecognizable to those living in the present.
 
@@ -124,13 +119,12 @@ Jessie appeared in the doorway, silhouetted against the hall light. "They liked 
 "Maybe that's the question we can't answer. Maybe all we can do is try to make something good, something true, and hope it serves more than it harms."
 
 
----
 
 "Hope," Delphine said. "That's a lot to ask of hope."
 
 "It's all we have. Hope and work and each other."
 
-They stood together in the quiet room, watching Theo sleep, the conversation unfinished in the way that important conversations often were. The questions would return tomorrow and the day after, the unresolved tension between doing work and doing good, between making things and making meaning.
+They stood together in the quiet room, watching Theo sleep, the conversation unfinished the way important conversations often were. The questions would return tomorrow and the day after, the unresolved tension between doing work and doing good, between making things and making meaning.
 
 But for now, in this moment, there was only the three of them: two women who loved each other and the child they were raising together, trying to navigate a world that seemed less navigable each day. The pilot would move forward or it wouldn't. The documentary would matter or it wouldn't. The future would unfold in ways they could not predict or control.
 
@@ -145,5 +139,4 @@ The table read scripts were still scattered through the living room, and the win
 That had to be enough. For now, that had to be enough.
 
 
----
 

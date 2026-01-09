@@ -78,7 +78,7 @@ rollup_dir() {
         for page in "$dir/page"/*.md; do
             if [[ -f "$page" ]]; then
                 cat "$page" >> "$temp_content"
-                echo -e "\n\n---\n" >> "$temp_content"
+                echo -e "\n\n" >> "$temp_content"
                 has_content=true
             fi
         done
@@ -96,8 +96,8 @@ rollup_dir() {
             # Handle scene breaks specially - only divider between scenes, not header
             if [[ "$child_title" == "__SCENE_BREAK__" ]]; then
                 if [[ "$first_child" != "true" ]]; then
-                    # Add scene break divider (centered asterisks)
-                    echo -e "\n<p style=\"text-align: center;\">* &nbsp; * &nbsp; *</p>\n" >> "$temp_content"
+                    # Add scene break divider (horizontal rule)
+                    echo -e "\n---\n" >> "$temp_content"
                 fi
             else
                 echo -e "# $child_title\n" >> "$temp_content"

@@ -23,7 +23,6 @@ Elena felt some of the tension release from her shoulders. "So what happens?"
 "Congressional hearings are different. If you're subpoenaed, you respond. But voluntary media appearances—those need to be coordinated."
 
 
----
 
 It was a compromise. Elena recognized it as such—not victory, not defeat, but the kind of institutional negotiation that allowed both sides to claim they'd gotten something. She would keep her job. The clinic would maintain the illusion of control. Neither of them would be fully satisfied.
 
@@ -46,7 +45,6 @@ The shift began. Elena moved through the familiar rhythms—patients checked in,
 The work was the same. The work was always the same. Bodies needed care, regardless of what happened outside these walls.
 
 
----
 
 Miguel found her during the mid-morning break. They stood in the small courtyard behind the clinic, the desert sun already warm despite the winter month, their coffees steaming in the dry air.
 
@@ -77,7 +75,6 @@ Miguel was quiet for a moment. Then: "You know, when I started in healthcare, I 
 "Your grandmother sounds like a wise woman."
 
 
----
 
 The afternoon brought more patients, more care, more of the endless work that constituted healthcare in a community that had too little of it. Elena found her rhythm again, the muscle memory of practice reasserting itself over the disruption of the past two days.
 
@@ -94,7 +91,6 @@ Late in the shift, a message arrived from Ananya Ramaswamy—the whistleblower a
 Elena read the message three times. Another thread in the web that was forming around her. Another connection she hadn't sought but couldn't refuse.
 
 
----
 
 The shift ended at 6 PM. Elena gathered her things, checked her phone one final time—seventeen new messages, none of them urgent—and walked to her car. The reporters had gone, the story having moved on to its next iteration. Tomorrow there would be response pieces, analysis, the discourse doing its work of digesting information and transforming it into opinion. But today, at least, she was just a nurse going home.
 
@@ -111,5 +107,4 @@ She would call him tomorrow. She would listen to whatever he needed to say. And 
 The house waited, lights on, family inside. Elena got out of the car and went home.
 
 
----
 

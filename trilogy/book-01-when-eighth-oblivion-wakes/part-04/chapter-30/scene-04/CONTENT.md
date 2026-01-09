@@ -15,7 +15,6 @@ He opened social media and started scrolling through the discourse. The "Eighth 
 "The gig economy workers are the first casualties of this crisis. No systems, no work, no pay. While the executives who built these systems sit safe in their mansions."
 
 
----
 
 He kept scrolling. More posts, more voices, more people trying to make sense of what was happening.
 
@@ -46,7 +45,6 @@ Yusuf considered the question. What did he think? He had spent three years perfo
 "I think," he said slowly, "that I've been seeing this for a long time. I just didn't have words for it."
 
 
----
 
 "What do you mean?"
 
@@ -75,7 +73,6 @@ The question stung, but not because it was wrong. Yusuf was twenty-four. He had 
 He knew it was a lie even as he said it. Things were never stable. The system made sure of that.
 
 
----
 
 Amina went to bed at 10:00, still needing to finish homework for classes that might or might not happen. Yusuf stayed on the couch, the news playing quietly, his phone showing a feed of posts he couldn't stop reading.
 
@@ -107,5 +104,4 @@ Tomorrow he would go back to work, if the apps were running. The bills wouldn't 
 But tonight, he wrote. And the song grew.
 
 
----
 

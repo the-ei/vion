@@ -23,7 +23,6 @@ DeShawn turned from his computer. "You already apologized."
 "Okay. Maybe. But I wanted to say it face to face." Jerome took a breath. "I was wrong about how I approached it. Not about having concerns—I still have concerns—but about treating your choice like a problem to be solved rather than a decision to be respected."
 
 
----
 
 DeShawn was quiet, processing. "Mom talked to you?"
 
@@ -48,7 +47,6 @@ Jerome moved his chair beside his son's and for the next hour they worked throug
 What he saw was sophisticated. Genuinely impressive. His seventeen-year-old son had built something that demonstrated both technical skill and theoretical understanding. The pride Jerome felt was complicated by what he was learning elsewhere, about Prometheus, about prediction, about the uses of these tools. But he let the pride exist without qualification.
 
 
----
 
 "This is good work," Jerome said when they were done. "Really good."
 
@@ -75,7 +73,6 @@ DeShawn nodded, something shifting in his expression. Then he was gone, walking 
 Jerome stood in the doorway until the car disappeared around the corner. Then he went to his office.
 
 
----
 
 The secure app had new messages. The source—Ananya, though he still didn't know her name—had sent documents as promised. They were waiting in his encrypted folder, downloaded but not yet opened.
 
@@ -94,5 +91,4 @@ The house held both of them, father and son, in adjacent rooms with adjacent scr
 The cursor blinked. The night deepened. The secrets accumulated in the silence.
 
 
----
 

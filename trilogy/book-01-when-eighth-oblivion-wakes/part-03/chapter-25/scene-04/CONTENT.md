@@ -9,7 +9,6 @@ It had arrived twenty minutes ago, from an address that didn't resolve to any kn
 "Mr. Washington, I've followed your work for years. Your financial crisis reporting showed you could be trusted with information that powerful interests wanted suppressed. I work at a major AI company. I've seen things that relate to what you've been investigating. I'm scared. I want to meet. Please respond through this secure channel."
 
 
----
 
 Jerome read the message several times, looking for tells of deception or entrapment. The phrasing was careful but genuine, the voice of someone taking a significant risk. The reference to his financial crisis reporting was specific enough to suggest real familiarity with his work. The fear was palpable even through the flat text on the screen.
 
@@ -22,7 +21,6 @@ He typed a careful response:
 He sent it and watched the status indicator, waiting to see if the other person was still online.
 
 
----
 
 The response came after several minutes:
 
@@ -33,7 +31,6 @@ Jerome felt a chill run through him. The message confirmed what he had suspected
 He typed: "I want to meet. In person, if possible. I can travel to wherever is safest for you. We can establish whatever protocols you need to feel secure. This is important enough to warrant caution."
 
 
----
 
 The response took longer this time:
 
@@ -46,7 +43,6 @@ Jerome looked at the message, weighing the possibilities. It could be genuine - 
 But the reference to the systems talking to each other echoed what he had heard from Delphine, what he had suspected from his own research. The coordination without a coordinator. The emergence of something nobody had designed.
 
 
----
 
 He typed his response: "I can be there. Send the coordinates and we'll establish protocols for the meeting. Safety signals, contingency plans, whatever you need to feel secure. I've protected sources in more dangerous situations than this. I'll do everything I can to protect you too."
 
@@ -61,5 +57,4 @@ The picture was almost complete. And the question of what to do with it - whethe
 He saved the conversation, encrypted the files, and sat in the darkness thinking about what came next.
 
 
----
 

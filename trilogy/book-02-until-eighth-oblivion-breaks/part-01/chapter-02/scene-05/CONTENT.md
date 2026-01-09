@@ -17,7 +17,6 @@ Elena thought about bodies.
 The systems they analyzed had become the bodies she treated. The policy failures landed as inflammation, as fractures that couldn't heal, as anxiety that came from knowing true things. She was standing at the end of a pipeline, catching what the pipeline produced, unable to reach back and turn off the flow. And the people designing the pipeline, the people who could turn it off, were somewhere far away in glass-walled conference rooms, discussing ethics.
 
 
----
 
 She turned off the podcast.
 
@@ -44,5 +43,4 @@ The dark house. The sleeping child. The weight she carried.
 For now, this was enough. It had to be. It was all she had.
 
 
----
 

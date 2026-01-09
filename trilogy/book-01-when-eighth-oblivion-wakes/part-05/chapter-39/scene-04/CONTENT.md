@@ -9,7 +9,6 @@ What would Lincoln make of this? The question felt absurd—how could a nineteen
 Maybe that was what Ruth needed to understand. The official channels had their limits. But limits were not endings.
 
 
----
 
 She walked among the monuments as the light grew, passing Jefferson's rotunda, Washington's obelisk, the reflecting pool that mirrored the brightening sky. The tourists had not yet arrived; she had this space to herself, this physical expression of national aspiration that now felt both precious and precarious.
 
@@ -24,7 +23,6 @@ But she knew this: the response to uncertainty was not paralysis. The response w
 She could be one of those people. She had spent decades within institutions, working through official channels, respecting the processes that constitutional democracy required. Now she could use what those decades had taught her in different ways, through different channels.
 
 
----
 
 The sun crested the horizon as she walked back toward her hotel, painting the monuments in gold, making the marble glow with a light that felt almost hopeful. The city was beginning to stir—joggers on the paths, early commuters in cars, the ordinary machinery of human activity resuming its cycles.
 
@@ -37,7 +35,6 @@ She did not know what form her contribution would take. She did not have a plan,
 The vigil that was beginning—the watching and waiting and working toward something better—would require more than official channels could provide. It would require people who were willing to step outside those channels, to build connections and coalitions that institutions could not create. Ruth had always believed in institutions. She still believed in them. But she was beginning to understand that belief in institutions did not mean limiting herself to what institutions could do.
 
 
----
 
 She returned to the hotel as the morning light filled the lobby, as other travelers emerged from their rooms toward whatever business had brought them to this city. Her flight was at noon; she had a few hours to pack, to review her notes, to solidify the intentions that had crystallized during her walk.
 
@@ -54,7 +51,6 @@ The room did not answer. Susan had been dead for six years, and the silence wher
 But Ruth was not paralyzed by the silence. She was moving through it, toward something she could not quite see but believed might matter.
 
 
----
 
 The car to the airport arrived at ten. Ruth packed her bag, checked out of the hotel, and settled into the backseat as the driver navigated the familiar route toward Reagan National. The city passed outside her window—the monuments she had walked among at dawn, the buildings where yesterday's meetings had taken place, the infrastructure of a government that might or might not be capable of rising to the challenge it faced.
 
@@ -69,5 +65,4 @@ The airport approached, its ordinary bustle a reminder that the world continued 
 She boarded her flight and flew west, toward home, toward the work that waited, toward a future she could not see but refused to abandon.
 
 
----
 

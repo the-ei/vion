@@ -11,7 +11,6 @@ But Yusuf saw. He saw the way she lowered herself into chairs. He saw the medica
 He saw, and he couldn't fix it, and the seeing was its own kind of wound.
 
 
----
 
 On Wednesday evening, three days before the interview, Halima came home from work early. This alone was alarming - she never came home early. She worked her shifts to the minute, couldn't afford not to, and the hotel didn't pay for time not worked.
 
@@ -34,7 +33,6 @@ Amina came home from her after-school program and found them there - Halima asle
 Yusuf watched his sister too. Seventeen years old, honor roll, college applications starting to loom. She'd inherited their mother's determination and their father's quick mind. In a fairer world, she'd have every opportunity, every door open. In this world, she had scholarships to chase and financial aid forms to fill out and the constant calculation of whether they could afford for her to become what she was capable of becoming.
 
 
----
 
 After dinner - rice and vegetables, stretched to cover three meals because groceries were expensive and would stay expensive - Yusuf retreated to his corner of the living room. This was his studio, such as it was: a laptop, a USB audio interface, a pair of studio monitors he'd bought used three years ago. Not much, but enough to make music.
 
@@ -57,7 +55,6 @@ He stared at what he'd written. It wasn't good - not yet - but it was something.
 But he was going to talk to a journalist in two days. He was going to try to explain what it felt like to be managed by machines. And the words were coming whether he wanted them or not.
 
 
----
 
 He worked on the track until midnight, headphones on so he wouldn't wake his mother or sister. The apartment was dark around him, lit only by his laptop screen and the glow of the studio monitors. He recorded scratch vocals - mumbled, experimental, finding the flow - and listened back, adjusting rhythms, cutting lines that didn't land.
 
@@ -79,7 +76,6 @@ Yusuf saved his work, closed his laptop, sat in the darkness. Tomorrow he'd driv
 And maybe, somewhere in there, the words would find their final form.
 
 
----
 
 The next morning, he found Amina at the kitchen table with her laptop open, spreadsheets filling the screen. She was surrounded by papers - college brochures, financial aid forms, scholarship applications. Her coffee had gone cold beside her.
 
@@ -110,7 +106,6 @@ Amina looked at him, and something softened in her expression. "Maybe. I hope so
 She was right about that too.
 
 
----
 
 That night, after another day of deliveries - the algorithm had been generous, surge pricing appearing twice in neighborhoods he didn't usually work - Yusuf came home to find his mother awake and alert. She'd cooked, actual food, fragrant with the spices of his childhood: basmati rice, goat meat, vegetables in tomato sauce.
 
@@ -135,5 +130,4 @@ She squeezed his hand, then released it, then began gathering plates with the ef
 But Yusuf carried her words with him as he retreated to his music corner, as he put on his headphones, as he began to shape the anger and the hope into something that might be heard.
 
 
----
 

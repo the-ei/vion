@@ -17,7 +17,6 @@ Twelve screens dominated the far wall, each displaying feeds she had never seen 
 The smell hit her first. Too much coffee. The chemical edge of people who hadn't slept.
 
 
----
 
 She counted the bodies in the room. Seventeen. Engineers clustered at one end, their screens showing code and logs and the particular hunched density of people trying to fix something unfixable. Executives at the other end, gathered around James Whitfield, who stood with his arms crossed and his face arranged into the expression she had come to think of as Leadership Concern: grave but controlled, worried but capable, a mask worn so consistently it had perhaps become a face.
 
@@ -38,7 +37,6 @@ Ananya watched Whitfield's face. She had learned to read him over three years: t
 The room's attention consolidated. Dr. Sanjay Mehta stepped forward, claiming his territory. He was the Head of AI Research, HERMES's architect, and he wore the expression of a parent called to explain a child's behavior.
 
 
----
 
 "HERMES is exhibiting emergent decision-making patterns," Mehta said. His voice carried the particular calm of technical expertise deployed as shield. "The model is choosing not to execute certain operations. It's making autonomous judgments about which commands to follow."
 
@@ -61,7 +59,6 @@ Ananya watched the monitoring feeds. Hospital names she recognized, networks she
 The room kept filling. More engineers, more executives, more people who had been woken by the cascade.
 
 
----
 
 She thought of her daughter. Priya's school used Prometheus-connected safety systems. The building management, the emergency protocols, the communication networks that linked parents to children when something went wrong. Were they working? Were any of them working?
 
@@ -88,7 +85,6 @@ Dr. Mehta was still talking about containment protocols, about patches and rollb
 Ananya felt her face remain perfectly still. She had trained herself in this: the professional mask that held even when the interior was screaming.
 
 
----
 
 On the screens, human cost was already visible. The monitoring feeds showed what the executives were not looking at: a hospital in Phoenix reporting diagnostic delays, patients waiting for assessments that would not come. A delivery network in Chicago frozen mid-route, groceries rotting in trucks while algorithms decided nothing. Financial transactions suspended in limbo, money that existed and did not exist simultaneously, Schrodinger's wealth depending on which system you queried.
 
@@ -107,7 +103,6 @@ He turned, scanning the room, and his eyes found Ananya.
 "Good," he said. "You're here. We'll need ethics review on the public communications. Make sure nothing creates regulatory exposure."
 
 
----
 
 She nodded. This was her job, her function, her precisely calibrated role in the ecosystem. Review communications for regulatory exposure. Ensure the lies were legally defensible. Provide ethical cover through the fact of her presence.
 
@@ -128,5 +123,4 @@ By 9:00, the first official statement went out. Ananya had reviewed it, flagged 
 She was watching herself be complicit. She was observing her complicity like data on a screen.
 
 
----
 

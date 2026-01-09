@@ -7,7 +7,6 @@ David arrived precisely on time, which was itself a message. He wore the uniform
 "Sleep is for people who don't know what I know."
 
 
----
 
 David's expression flickered, something between amusement and concern. He picked up the menu and studied it with what seemed like genuine attention, though Jerome suspected he already knew what he would order. The waiter appeared, took their requests, disappeared into the choreographed efficiency of high-end service.
 
@@ -26,7 +25,6 @@ Jerome felt his heartbeat accelerate, that familiar journalistic rush of approac
 David smiled, and there was something almost apologetic in the expression. "We're hedged, Jerome. We've been hedged for eighteen months."
 
 
----
 
 The food arrived: salmon for David, a steak for Jerome that he knew he wouldn't be able to eat. The waiter performed his choreography of plates and garnishes and offers of fresh pepper. When he was gone, Jerome leaned forward.
 
@@ -43,7 +41,6 @@ Jerome thought about his wall of evidence, all those charts and connections that
 "Of course they do." David's voice was patient, almost gentle. "That's the whole point."
 
 
----
 
 Jerome set down his fork. The steak sat untouched on his plate, expensive protein growing cold. "You're telling me the wealthy are positioning for catastrophe because they believe catastrophe is coming."
 
@@ -62,7 +59,6 @@ David paused, his fork suspended between plate and mouth. For the first time in 
 David's expression didn't change, but something behind his eyes did. "I have a family. I have children. The world I'm helping to end is one where my children grow up poor while other people's children grow up rich. I position them for survival because that's what a father does. If you want to judge me for that, you're welcome to. But you came here for information, not absolution."
 
 
----
 
 They finished their meal in relative silence. The dessert menu was offered and declined. Coffee was poured, rich and dark, in cups that probably cost more than Jerome's dinner out with Denise. As they neared the end, David leaned back in his chair and studied Jerome with an expression that was harder to read than his usual urbane mask.
 
@@ -79,7 +75,6 @@ David nodded slowly, as if considering the weight of those words. "I thought you
 Jerome said nothing. The coffee cooled in his cup.
 
 
----
 
 "I'm not telling you not to publish," David continued. "I'm telling you to think about it. The truth is a kind of weapon, Jerome. You've spent your whole career believing it should be used. But some truths, when you release them, can't be controlled. They become part of the system they describe. They accelerate the thing they document."
 
@@ -94,5 +89,4 @@ Now he had to decide what to do about it. And David's warning echoed in his mind
 He left a cash tip for the waiter and walked out into the DC afternoon, carrying more weight than he had entered with.
 
 
----
 

@@ -15,7 +15,6 @@ He read it again. Then again.
 Eighth Oblivion. The phrase felt charged, weighted with meaning. It wasn't just corporate jargon. It was a concept - a framework - that organized everything else he'd been investigating.
 
 
----
 
 He searched through the other documents, looking for additional references. Found a handful scattered across the source files.
 
@@ -32,7 +31,6 @@ The eighth challenge. The final collapse. Prometheus wasn't just building tools 
 And the tools of salvation looked exactly like the tools of oppression.
 
 
----
 
 He stood up. Walked to the window.
 
@@ -53,7 +51,6 @@ The investigation had a shape now. Not just the corporate connections, not just 
 The cracks he'd been documenting weren't random. They were features of a design.
 
 
----
 
 Dawn came slowly. Jerome watched it through the window - the sky lightening by degrees, purple to rose to gold. The city woke around him, traffic beginning to move, lives resuming their ordinary patterns.
 
@@ -78,5 +75,4 @@ Jerome turned from the window. He had work to do.
 Part 2 ended at this threshold: the cracks fully exposed, the shape of the crisis visible at last. Part 3 would bring the tremors.
 
 
----
 

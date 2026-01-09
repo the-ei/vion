@@ -15,7 +15,6 @@ Jerome wants to say that he knows what prediction markets are, has written about
 Two screens. Two worlds. The same room.
 
 
----
 
 "I'm writing about something similar," Jerome tries. "Algorithms and housing. How prediction systems affect real estate markets."
 
@@ -40,7 +39,6 @@ But he is already moving, already through the kitchen doorway, already ascending
 The kitchen is quiet. Jerome stares at his newsletter, the paragraph he was writing now contaminated by the argument he did not mean to have.
 
 
----
 
 He was seventeen once. He remembers it imperfectly, the way one remembers anything from thirty-five years ago, but he remembers the conviction, the certainty that his parents did not understand the world he was inheriting, that their fears were artifacts of an older time. His father had worried about Jerome's interest in journalism, the instability of the profession, the way it put you in conflict with people who had more power than you. Jerome had dismissed those concerns as the caution of a man who had spent his life avoiding trouble.
 
@@ -63,7 +61,6 @@ She enters the kitchen with the particular exhaustion that teaching has imprinte
 "The usual."
 
 
----
 
 Denise pours her wine, takes a long sip, leans against the counter. She is fifty, three years younger than Jerome, and the last few years have marked her in ways that both of them pretend not to notice. Teaching was always demanding; now it is something closer to combat, the students struggling with anxieties that have no historical parallel, the parents angry about everything, the administration demanding outcomes that the circumstances make impossible.
 
@@ -90,7 +87,6 @@ She sips her wine, considering. "You're not wrong about the systems. You might b
 Jerome wants to argue, to explain that there are other futures, better futures, that his son's intelligence could be deployed in service of something other than prediction markets and machine learning for the highest bidder. But Denise's face tells him this conversation has been had before, will be had again, and tonight is not the night to advance it.
 
 
----
 
 "There's something else," Denise says. "He told me this morning. A summer program he's applying to. A mentorship at a tech company. San Francisco."
 
@@ -117,7 +113,6 @@ His son wants to work there. His son sees it as an opportunity, a launching pad,
 Denise looks at him with an expression that is both love and exhaustion, the face of a woman who has lived with his principles and paid the costs of them. "Like it's already lost. Like he's already betrayed something. Like you've already lost him to the other side."
 
 
----
 
 She is not wrong. This is how he reacts. This is the failure that his principles produce: the certainty that becomes rigidity, the warning that becomes rejection, the love that cannot find a form his son can recognize as love.
 
@@ -146,5 +141,4 @@ The house settles around him.
 He opens his laptop and returns to the newsletter, to the story, to the work that is all he has left of the journalist he used to be.
 
 
----
 

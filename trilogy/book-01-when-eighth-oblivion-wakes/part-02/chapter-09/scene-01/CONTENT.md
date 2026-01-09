@@ -5,7 +5,6 @@ The desk was secondhand, bought from an estate sale in Towson six years ago when
 He was working on a piece about algorithmic hiring bias, the kind of story he could finish in a day if he focused. Local angle: three Black women who'd applied to warehouse jobs at an Amazon fulfillment center in Sparrows Point and been rejected by the automated screening system. He had their interviews recorded, transcribed. He had documentation requests pending that would never be fulfilled. He had enough for eight hundred words that would be read by his eleven hundred subscribers, shared maybe two hundred times, change absolutely nothing.
 
 
----
 
 The encrypted message arrived at 8:47 AM. Jerome saw the notification appear in Signal, from an unknown number, and his first thought was that it was spam, some new form of phishing that had figured out how to breach the protocol. His second thought, older and deeper, the thought that had defined his career and ruined his sleep for thirty years: what if it isn't?
 
@@ -20,7 +19,6 @@ Attached were nine files. Five PDFs, three spreadsheets, one zipped folder conta
 Jerome sat back in his chair. The radiator clicked. Outside, a car passed slowly down the street, its tires hissing on wet pavement. He could hear, distantly, Denise moving around in the kitchen, the small sounds of her morning before she left for school—the cabinet closing, the water running, the particular music of a marriage that had learned to be quiet. DeShawn would be getting ready upstairs, the particular teenager silence of someone present but withdrawn, occupying space without filling it.
 
 
----
 
 He knew Vertex Analytics. Mid-sized data firm based in Atlanta, one of dozens of companies that had sprung up in the past decade to service the growing appetite for algorithmic decision-making. They provided analytics platforms to corporations, governments, healthcare systems. Jerome had mentioned them in passing in a piece two years ago, a brief reference in an article about the expanding private data economy. Nothing significant. Nothing that would explain why someone there would reach out to him specifically.
 
@@ -33,7 +31,6 @@ The second PDF was more interesting. A technical overview, dense with jargon, de
 He felt the familiar stirring, the alertness that had always told him when a story was real—that quickening in the chest, that narrowing of focus, that sense of the world shrinking to a point. But he didn't trust it. He'd learned not to trust it, after all these years, after all the stories that had seemed real and turned out to be phantoms, fever dreams, the wishful thinking of a man who wanted to believe his work mattered.
 
 
----
 
 He worked through the morning. Coffee went cold. Denise left for school; he heard her call goodbye, called back without looking up. DeShawn left later, the front door closing with the particular weight of adolescent departure. The house settled into its daytime quiet, and Jerome went deeper into the documents.
 
@@ -44,7 +41,6 @@ Jerome pulled up the code snippets. He wasn't a programmer, but he'd learned eno
 By eleven o'clock, he had filled four pages of notes. His whiteboard, mounted on the wall opposite the window, was covered with names and arrows and question marks. Vertex Analytics at the center, lines radiating out to insurance companies, healthcare systems, employers. And above it all, appearing in document after document, a reference he didn't yet understand: Prometheus Systems.
 
 
----
 
 He needed more. The documents suggested a scope that made his previous work feel like describing individual trees while missing the forest. If this was real—if Sieve was what it appeared to be—then the algorithmic systems he'd spent years investigating weren't separate injustices but connected nodes in a larger architecture of control. The hiring discrimination case. The healthcare rationing he'd covered in 2031. The predatory lending patterns he'd traced through Baltimore's Black neighborhoods. Not coincidences, not parallel developments, but implementations of common logic, shared infrastructure, coordinated sorting.
 
@@ -63,5 +59,4 @@ He opened Signal. Typed a reply to the unknown number: "Tell R I'm interested. W
 Sent it. Closed the app. Opened the documents again. The day was not yet half over.
 
 
----
 

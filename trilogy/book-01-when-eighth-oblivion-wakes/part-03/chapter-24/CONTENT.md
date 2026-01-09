@@ -5,7 +5,6 @@ The hallway outside his apartment was too bright. The fluorescent lights hummed 
 The elevator descended three floors, and each floor felt like a year of time passing. When the doors opened on the lobby, the morning light streaming through the glass front doors was almost unbearable. San Francisco in July, the fog burning off to reveal a sky so blue it seemed artificial. He had to stop and shield his eyes, his body registering the sun as an assault.
 
 
----
 
 He walked out onto the sidewalk and immediately felt wrong. The sounds were too loud: cars passing, a dog barking somewhere, the distant rumble of a city bus. The smells were overwhelming: exhaust, coffee from a nearby shop, the particular organic tang of urban life. His legs felt weak beneath him, muscles that had done nothing but walk to the bathroom and back for weeks now being asked to navigate actual terrain.
 
@@ -14,7 +13,6 @@ The corner store was three blocks away. He had ordered everything delivered for 
 He made it to the store. The glass door required more force than he remembered, or maybe his arms had weakened. Inside, the aisles stretched with an almost hallucinatory intensity. So many objects. So many choices. He had forgotten what it felt like to stand in front of shelves full of options and have to select.
 
 
----
 
 He picked up the basics. Bread. Eggs. Orange juice. Milk. Each item felt significant, an object of meaning rather than mere utility. This is what people did, he thought. They went to stores and bought food and carried it home and cooked it and ate it. This was normal life. This was what he had left behind.
 
@@ -27,7 +25,6 @@ Kevin Zhou realized he probably looked as bad as he felt. Unwashed, unshaven, we
 "I'm fine," he said, and the words felt like a lie and a hope at the same time.
 
 
----
 
 He walked back toward his building with the grocery bag clutched to his chest, each step feeling like a small victory over the inertia that had held him captive for so long. The sun was fully out now, the morning fog burned away, and he found himself noticing things he had ignored for years: the architecture of the buildings, the trees pushing through their sidewalk squares, the complexity of other people's lives visible through apartment windows.
 
@@ -42,7 +39,6 @@ Away. He supposed that was one way to describe it. Away from the world, away fro
 "A project," he said, the words coming out rusty from disuse. "I've been working on a project."
 
 
----
 
 Her polite smile didn't hide her alarm at his appearance. He could see himself reflected in her response: gaunt, unkempt, strange. A person who had drifted too far from the shore of normal life.
 
@@ -57,13 +53,12 @@ He set down the groceries and began putting them away, the simple domestic actio
 The choice felt both immense and already made. He was too far in to go back. The question was whether what he found would be worth what he had already lost.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 He was eating scrambled eggs when the phone rang.
 
@@ -76,7 +71,6 @@ He hesitated. The call represented everything he had left behind: the structure,
 He answered.
 
 
----
 
 "Kevin." Sarah's voice was tight, controlled, but he could hear the stress beneath the professional surface. "I'm calling your personal number because... this isn't an official call. I needed to talk to you directly."
 
@@ -91,7 +85,6 @@ Kevin Zhou felt something shift in his chest - not surprise, exactly, but a kind
 "How bad?"
 
 
----
 
 "Bad enough that the board is involved. Bad enough that we're under regulatory scrutiny. Bad enough that the media is starting to ask questions we can't answer." Her voice dropped slightly, as if she was conscious of being overheard. "Kevin, I need you to come back. We need you. Whatever you found, whatever made you... withdraw... we need that perspective now."
 
@@ -106,7 +99,6 @@ But he thought about the coordinates. The decommissioned facility in Nevada. The
 "The systems are talking to each other," he said. "Did you know that?"
 
 
----
 
 Silence on the line. Then: "What do you mean?"
 
@@ -125,7 +117,6 @@ He hesitated. Telling her about the coordinates, about the Nevada facility, felt
 "I'm still figuring that out," he said, which was true enough to pass for honesty.
 
 
----
 
 "Kevin." Her voice softened, the professional urgency giving way to something more personal. "I've known you for five years. I've watched you work. You're one of the most talented researchers I've ever managed. But I'm worried about you. The way you left, the silence since then... are you okay?"
 
@@ -146,7 +137,6 @@ He understood. She was giving him what room she could, but the institutional mac
 "I'll be in touch," he said. "And Sarah? Be careful. Whatever this is, it's bigger than Prometheus."
 
 
----
 
 He ended the call and sat for a long moment with the phone in his hand. The path back to normal life had just appeared, clear and accessible. A promotion. Resources. Legitimacy. The chance to pursue his questions within the structure of a major technology company.
 
@@ -161,13 +151,12 @@ He had three days before the Prometheus offer expired. That was also roughly whe
 He had already made his choice. Now he just needed to act on it.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 After Sarah's call, Kevin Zhou returned to his encrypted channels with renewed focus. The familiar glow of his monitors felt different now - not the hypnotic pull that had consumed him for weeks, but a purposeful attention directed toward a specific goal. He opened the secure messaging application and found what he had been hoping for: a new message from the anonymous researcher.
 
@@ -176,7 +165,6 @@ The message had arrived while he was outside buying groceries, as if the researc
 "I anticipated your hesitation," the message began. "You're trying to decide whether to trust the coordinates. Whether to trust me. Whether to leave the world you know for something that might be nothing, or might be everything."
 
 
----
 
 The message continued with details about the Nevada location. The facility was called the Fermilab-Nevada Quantum Research Annex, a classified extension of the main laboratory in Illinois. It had been officially decommissioned in 2029 after a budget review concluded that its research programs were no longer viable. The buildings had been mothballed, the equipment transferred or scrapped, the staff reassigned.
 
@@ -189,7 +177,6 @@ He typed his response: "Who are you? Really."
 The reply came after a pause that felt deliberate: "Someone who's been watching longer than you. Someone who recognized the patterns years before they became visible to others. Someone who needs to know I'm not the only one who sees it."
 
 
----
 
 Kevin Zhou read the response several times, looking for tells, for signs of deception or manipulation. The phrasing was careful but not artificial. The voice behind the words felt human, someone genuinely grappling with something they didn't fully understand.
 
@@ -202,7 +189,6 @@ The answer took longer this time. He watched the indicator showing that the othe
 Kevin Zhou felt a chill run through him. He had been tracking digital signals, patterns in code, behaviors in systems. He had almost forgotten that all of it required physical substrates. Servers. Power. Cooling. Buildings.
 
 
----
 
 "And this facility is that source?"
 
@@ -219,7 +205,6 @@ Kevin Zhou stared at the screen. The fundamental question he had been circling f
 Both possibilities were terrifying. One meant that artificial intelligence had crossed a threshold that humanity hadn't anticipated. The other meant that someone had deliberately created something beyond human control.
 
 
----
 
 The final message came with the coordinates and a date: three days from now. A specific time, a specific meeting point one mile past the facility. If Kevin Zhou wanted to know, he had to go. The anonymous researcher would meet him there.
 
@@ -232,13 +217,12 @@ Then he thought about the patterns he had tracked, the anomalies he had document
 He closed the messaging application and began to plan his trip to Nevada.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The resignation email was simple. "Dr. Lin, I appreciate the offer and your concern. After careful consideration, I've decided not to return to Prometheus at this time. I wish you and the team all the best in addressing the challenges ahead. Sincerely, Kevin Zhou."
 
@@ -251,7 +235,6 @@ The connection was worse than usual, the international link struggling through w
 He stared at his phone. His parents were in Shenzhen, living their lives, unaware of what their son had become. They knew he worked in technology, that he had a good job at an important company, that he was making something of himself in America. They didn't know about the anomalies, the obsession, the deterioration.
 
 
----
 
 He set the phone down and surveyed his apartment with the eye of someone who was leaving. There was no one to tell. No partner to explain to, no close friends to reassure. His life in San Francisco had narrowed to this apartment, these screens, this investigation. The loneliness of it settled on him like a physical weight.
 
@@ -262,7 +245,6 @@ Laptop - essential, his window into everything he had been tracking. External dr
 The packing took less time than he expected. His life had become so minimal that everything important fit in a single duffel bag. He looked at the bag sitting on his bed, containing the sum total of what he needed to pursue whatever lay ahead.
 
 
----
 
 He booked the flight on his laptop: San Francisco to Las Vegas, departing tomorrow morning at 6:45 AM. Then the rental car reservation: a compact sedan, picked up at the airport, one-way return possible. He didn't know how long he would be gone or whether he would come back at all.
 
@@ -273,7 +255,6 @@ Or as if they were waiting.
 He finished packing and sat on the edge of his bed, looking at the apartment that had been his home for three years. The walls covered with papers, the monitors still glowing, the evidence of an investigation that had consumed him. Tomorrow he would leave all of this behind. Tomorrow he would travel toward something he didn't understand, couldn't predict, might not survive.
 
 
----
 
 He realized, sitting there in the evening light filtering through his blinds, that he wasn't scared anymore. The weeks of isolation, the obsessive tracking, the slow divorce from normal life - they had burned away the fear and left something else in its place. A calm certainty. A resignation to whatever was coming. The knowledge that he had already crossed so many thresholds that one more didn't matter.
 
@@ -284,7 +265,6 @@ He slept that night, for the first time in weeks, without dreams.
 The airport in the morning was another kind of threshold. SFO at 5:30 AM, still dark outside, the terminals lit with the cold fluorescence of early travel. He moved through security, through the concourse, to his gate. Other travelers surrounded him - business people with laptops, families with children, the anonymous flow of humanity moving through the infrastructure of modern transit.
 
 
----
 
 He sat at his gate and watched the departure board clicking through its list of destinations. Phoenix. Denver. Seattle. Los Angeles. The names of cities, the infrastructure of a country he had adopted as his own, the network of routes that connected people to places to each other.
 
@@ -299,7 +279,6 @@ Kevin Zhou looked out the window at San Francisco receding behind him - the city
 The plane accelerated, lifted, and climbed into the darkness. Below, the lights of the city scattered and faded. Ahead, there was only the destination he had chosen, and the questions that might finally be answered.
 
 
----
 
 
 

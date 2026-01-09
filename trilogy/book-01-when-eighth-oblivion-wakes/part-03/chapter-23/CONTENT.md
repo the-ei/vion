@@ -11,7 +11,6 @@ Delphine watched them on her dashboard, the real-time metrics that usually gave 
 The Nexus Digital piece on "Eighth Oblivion" had crossed the threshold from trending to ubiquitous sometime in the past hour. Other outlets were picking it up now: Newsweek with "What You Need to Know About the Viral AI Apocalypse Theory," Fox with "Liberal Elites Panic Over AI Doom Video," NPR with its careful both-sides framing that only added to the sense of legitimacy. Each new coverage became fuel for the original, each outlet citing Nexus as the source that had made the conversation safe to have.
 
 
----
 
 Her office had floor-to-ceiling windows that looked out on Los Angeles, the summer sunlight streaming in with indifferent beauty. She had turned her chair away from the view, faced the screen instead, watching the numbers that told a story she couldn't stop reading.
 
@@ -28,7 +27,6 @@ She thought about the piece she had approved, the meta-coverage she had designed
 Now she watched it become the thing everyone actually was talking about.
 
 
----
 
 She was watching the outbreak from inside.
 
@@ -45,7 +43,6 @@ The engagement patterns showed the characteristic signature: initial spike from 
 Her phone buzzed with Slack notifications. The company was waking up to what was happening. Growth was celebrating. Editorial was fielding interview requests. Legal was asking about liability. Everyone saw what she saw, but they read it differently. To them, this was success.
 
 
----
 
 She closed her eyes and felt her body's response: the tension in her shoulders, the slight nausea that had been building all morning, the acceleration of her heartbeat that matched the acceleration on her screen. The body knew things the mind resisted. The body had been registering danger for hours.
 
@@ -60,7 +57,6 @@ And Nexus Digital was at the center, the source that everyone cited, the company
 She had done exactly what she was supposed to do. She had performed her job with expertise and professionalism. And now she was watching the result climb toward a number she couldn't quite name but knew she would have to live with.
 
 
----
 
 The sunlight through her windows had shifted to midmorning angles, the LA summer asserting itself beyond the climate-controlled space of her office. She thought about going to the window, looking at the actual world instead of its digital shadow. But she couldn't look away from the numbers.
 
@@ -79,13 +75,12 @@ She was the vector.
 Somewhere in the building, people were celebrating. She could hear distant voices, the hum of a company experiencing success. She stayed at her desk, watching the numbers climb, feeling the weight of her expertise like a sentence she had written and couldn't erase.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Cameron Estes appeared in her doorway like a manifestation of everything she dreaded. He was Head of Growth, a title that had always struck Delphine as slightly absurd, as if growth were a department rather than an outcome. But Cameron believed in his title. He believed in metrics and engagement and the inexorable expansion of the company's reach. Right now, he was beaming.
 
@@ -96,7 +91,6 @@ Delphine manufactured a smile. She had learned, over years in this industry, how
 "Great? It's phenomenal. This is the kind of moment that redefines a company's profile. We're not just reporting the conversation anymore. We're shaping it." He pulled out his phone, swiped to a chart that showed the familiar exponential curve. "Look at this engagement. Look at this retention. People aren't just clicking through - they're reading the whole piece, sharing it, coming back. This is textbook viral."
 
 
----
 
 She watched Cameron's excitement with a feeling she couldn't quite name. He wasn't wrong, by any of the metrics that mattered to his department. The piece was succeeding spectacularly. Every indicator that measured success in the attention economy was pointing up. Cameron was doing his job exactly as he had been trained to do it, celebrating exactly what he had been trained to celebrate.
 
@@ -107,7 +101,6 @@ The problem was that he didn't see what she saw. He saw engagement and retention
 "I'll be there in a few minutes," she said. "Just need to finish something."
 
 
----
 
 Cameron nodded and left, his footsteps receding down the corridor toward the break room where champagne emojis were probably already appearing in Slack channels. Delphine sat for a moment in the silence he left behind, then stood and walked to the celebration.
 
@@ -118,7 +111,6 @@ After twenty minutes that felt like hours, she excused herself with a claim of a
 How do you explain that you're horrified by success? The question had no answer she could articulate. The metrics everyone was celebrating felt, to her, like a countdown to something she couldn't name.
 
 
----
 
 She thought about calling Jessie, but she didn't know what she would say. Her wife was brilliant and supportive and would listen to whatever Delphine needed to express. But expressing it was the problem. The feeling resisted language. It was a sense of having done something with consequences, having set something in motion that couldn't be recalled, without being able to say exactly what that something was.
 
@@ -131,13 +123,12 @@ She typed a brief message: "Jerome - Delphine from Nexus. I think we need to tal
 She hit send before she could talk herself out of it.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Jerome's phone buzzed just as he was finishing his afternoon coffee, the cold dregs of a pot he had made hours earlier. The message was from a number his phone recognized but hadn't displayed in months: Delphine Okafor-Barnes from Nexus Digital. "Jerome - Delphine from Nexus. I think we need to talk."
 
@@ -152,7 +143,6 @@ He looked at his walls of evidence, his overlay, the work that had consumed him 
 His phone rang a minute later.
 
 
----
 
 "Jerome, thanks for picking up." Her voice carried an undertone he couldn't quite identify - tension, maybe, or exhaustion. "I'm sorry to reach out like this out of the blue."
 
@@ -167,7 +157,6 @@ Jerome felt his attention sharpen, the journalistic instinct that recognized the
 "Yes. No. I don't know." Another pause. "I recommended the coverage angle. I shaped the framing. I was trying to be responsible - meta-coverage, not endorsement. But now it's spreading, and I'm seeing patterns in the engagement data that are... I don't know how to say this without sounding crazy."
 
 
----
 
 "Try me. I've spent months researching something that I couldn't tell anyone without sounding crazy."
 
@@ -184,7 +173,6 @@ He was silent for a moment, processing. This matched something he had been seein
 So he told her. The overlay. The correspondence between the video's predictions and investment patterns. The positioning of wealth for catastrophe. Prometheus Systems and its role as central node. The meeting with David, the confirmation, the warning about publishing. He laid it out the way he would for a source, organized and careful, watching her reaction through the silence on the other end of the line.
 
 
----
 
 When he finished, she was quiet for a long moment. He could almost hear her thinking, making connections.
 
@@ -201,7 +189,6 @@ Jerome thought about Kevin Zhou, the unknown figure he was hoping to reach, the 
 "What if the AI systems themselves are doing this? Not by design, but by emergence. What if the systems are selecting for content that serves their own... I don't know what to call it. Interests? Imperatives?"
 
 
----
 
 The silence that followed was the kind that meant someone was reconsidering everything they thought they knew. Jerome knew the feeling well; he had experienced it himself, in his office, watching his overlay take shape.
 
@@ -216,7 +203,6 @@ Jerome felt the conversation shifting into territory that made him uncomfortable
 "We are." Delphine's voice had steadied, the earlier tension replaced by something that sounded like determination. "You're seeing the money. I'm seeing the attention. They're connected."
 
 
----
 
 "The question is: connected by what?" Jerome pulled up his chart of Prometheus Systems, the node at the center of his investigation. "I keep coming back to coordination without a coordinator. The wealthy are positioning for the same scenarios, but they're not meeting in secret rooms making plans. The AI systems are amplifying the same content, but they're not receiving instructions from a common source. It's emergent. Or it looks emergent."
 
@@ -235,7 +221,6 @@ Jerome looked at his walls, his months of evidence, his unrealized article. "I n
 Delphine was quiet again. Then: "I might be able to help. The media world connects to the tech world in ways that might be useful. Let me make some calls."
 
 
----
 
 They talked for another hour, sharing data points, testing hypotheses, building a picture that neither could have constructed alone. When they finally said goodbye, Jerome felt something he hadn't experienced in months: the relief of being witnessed. Someone else saw what he was seeing. Someone else understood that the moment wasn't just content, wasn't just investment patterns, wasn't just viral metrics - it was something larger, something that touched everything at once.
 
@@ -250,13 +235,12 @@ The call with Delphine had given him something he had been lacking: hope. Not op
 He saved his notes and began planning his next moves.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Delphine came home late. The LA traffic had been brutal, the freeway a parking lot of red lights stretching toward a sunset that she barely registered. By the time she pulled into the driveway, the sky had darkened to that peculiar purple that Los Angeles offered as consolation for its other failings.
 
@@ -269,7 +253,6 @@ Jessie was on the patio when Delphine came through the house, a glass of white w
 "I don't know what kind of day it was." Delphine dropped into the chair beside her wife, close enough to touch but not quite touching. "The best day ever, by our company's metrics. By my metrics, I'm not sure."
 
 
----
 
 Jessie waited. She had this quality that Delphine had loved from the beginning: a willingness to hold space without filling it, to let silence do its work. After a moment, Delphine began to talk.
 
@@ -286,7 +269,6 @@ Jessie listened with the attention of someone who understood narrative, who had 
 Delphine winced. "Yes."
 
 
----
 
 Jessie set down her wine glass with the careful precision of someone thinking through something difficult. "Here's what I want to know. What's the ending?"
 
@@ -303,7 +285,6 @@ Delphine thought about the viral numbers, still climbing as they sat here. She t
 "I want clarity," she said finally. "I want people to understand what's happening instead of just reacting to it. I want the conversation to matter."
 
 
----
 
 "Then make that happen."
 
@@ -322,7 +303,6 @@ Delphine felt something shift in her chest, a loosening she hadn't realized she 
 "Maybe. Probably. I know the mechanics well enough." She paused, seeing the problem clearly for the first time. "But counter-content will also go viral. It will also be absorbed into the machine. It might become part of the problem even while trying to be the solution."
 
 
----
 
 "Maybe," Jessie said. "But doing nothing is also a choice. And you're not the kind of person who can do nothing once you see what's happening."
 
@@ -339,7 +319,6 @@ Delphine thought about what she would create. Not a story about the story, but a
 Doing nothing was also a choice. And she couldn't choose that.
 
 
----
 
 
 

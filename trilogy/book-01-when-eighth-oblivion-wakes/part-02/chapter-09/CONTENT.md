@@ -5,7 +5,6 @@ The desk was secondhand, bought from an estate sale in Towson six years ago when
 He was working on a piece about algorithmic hiring bias, the kind of story he could finish in a day if he focused. Local angle: three Black women who'd applied to warehouse jobs at an Amazon fulfillment center in Sparrows Point and been rejected by the automated screening system. He had their interviews recorded, transcribed. He had documentation requests pending that would never be fulfilled. He had enough for eight hundred words that would be read by his eleven hundred subscribers, shared maybe two hundred times, change absolutely nothing.
 
 
----
 
 The encrypted message arrived at 8:47 AM. Jerome saw the notification appear in Signal, from an unknown number, and his first thought was that it was spam, some new form of phishing that had figured out how to breach the protocol. His second thought, older and deeper, the thought that had defined his career and ruined his sleep for thirty years: what if it isn't?
 
@@ -20,7 +19,6 @@ Attached were nine files. Five PDFs, three spreadsheets, one zipped folder conta
 Jerome sat back in his chair. The radiator clicked. Outside, a car passed slowly down the street, its tires hissing on wet pavement. He could hear, distantly, Denise moving around in the kitchen, the small sounds of her morning before she left for school—the cabinet closing, the water running, the particular music of a marriage that had learned to be quiet. DeShawn would be getting ready upstairs, the particular teenager silence of someone present but withdrawn, occupying space without filling it.
 
 
----
 
 He knew Vertex Analytics. Mid-sized data firm based in Atlanta, one of dozens of companies that had sprung up in the past decade to service the growing appetite for algorithmic decision-making. They provided analytics platforms to corporations, governments, healthcare systems. Jerome had mentioned them in passing in a piece two years ago, a brief reference in an article about the expanding private data economy. Nothing significant. Nothing that would explain why someone there would reach out to him specifically.
 
@@ -33,7 +31,6 @@ The second PDF was more interesting. A technical overview, dense with jargon, de
 He felt the familiar stirring, the alertness that had always told him when a story was real—that quickening in the chest, that narrowing of focus, that sense of the world shrinking to a point. But he didn't trust it. He'd learned not to trust it, after all these years, after all the stories that had seemed real and turned out to be phantoms, fever dreams, the wishful thinking of a man who wanted to believe his work mattered.
 
 
----
 
 He worked through the morning. Coffee went cold. Denise left for school; he heard her call goodbye, called back without looking up. DeShawn left later, the front door closing with the particular weight of adolescent departure. The house settled into its daytime quiet, and Jerome went deeper into the documents.
 
@@ -44,7 +41,6 @@ Jerome pulled up the code snippets. He wasn't a programmer, but he'd learned eno
 By eleven o'clock, he had filled four pages of notes. His whiteboard, mounted on the wall opposite the window, was covered with names and arrows and question marks. Vertex Analytics at the center, lines radiating out to insurance companies, healthcare systems, employers. And above it all, appearing in document after document, a reference he didn't yet understand: Prometheus Systems.
 
 
----
 
 He needed more. The documents suggested a scope that made his previous work feel like describing individual trees while missing the forest. If this was real—if Sieve was what it appeared to be—then the algorithmic systems he'd spent years investigating weren't separate injustices but connected nodes in a larger architecture of control. The hiring discrimination case. The healthcare rationing he'd covered in 2031. The predatory lending patterns he'd traced through Baltimore's Black neighborhoods. Not coincidences, not parallel developments, but implementations of common logic, shared infrastructure, coordinated sorting.
 
@@ -63,13 +59,12 @@ He opened Signal. Typed a reply to the unknown number: "Tell R I'm interested. W
 Sent it. Closed the app. Opened the documents again. The day was not yet half over.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Denise had made pasta, the simple one with garlic and olive oil and whatever vegetables were threatening to go soft in the crisper. Tonight it was broccoli and a bell pepper that had seen better days, both cut small and sauteed until they yielded. She had changed out of her teaching clothes into sweatpants and an old Howard sweatshirt, her hair pulled back, her face carrying the particular exhaustion of a day spent explaining the Missouri Compromise to seventeen-year-olds who would rather be anywhere else.
 
@@ -82,7 +77,6 @@ The kitchen was warm, steam rising from the pot on the stove, the small table al
 DeShawn sighed the sigh of generations of teenagers and placed the phone face-down on the table. He was seventeen now, broad-shouldered like his father had been, with Denise's precise features and her mother's high cheekbones. He was beautiful, Jerome thought, watching his son reach for the parmesan with those long fingers that had been so small once. Beautiful and becoming a stranger, day by day, in the way sons became strangers to their fathers—not through conflict but through the simple accumulation of separate lives.
 
 
----
 
 "How was school?" Jerome asked, the question automatic, the answer already known: fine.
 
@@ -103,7 +97,6 @@ He took a bite of pasta instead. "Your mom's a good cook."
 "She's right here," Denise said. "And she knows."
 
 
----
 
 The meal continued in the rhythm of their household. Denise talked about her day—a student who'd finally engaged with the material, an administrator who'd questioned her curriculum, the small victories and frustrations that composed a life spent teaching. DeShawn mentioned that his college counselor wanted to meet next week, that he was thinking about early applications to Carnegie Mellon and MIT. Jerome nodded and asked questions and tried to be present, but his mind kept returning to the documents, to the architecture of Sieve, to the shape he was beginning to see.
 
@@ -126,7 +119,6 @@ DeShawn looked between them, sensing the current beneath the words, and reached 
 He did, disappearing upstairs with the speed of someone escaping a conversation that belonged to adults, to history, to the long strange negotiation of his parents' marriage.
 
 
----
 
 They washed dishes together, a ritual that had survived the years when they could afford a dishwasher and the years when they couldn't. Denise washed, Jerome dried. The window above the sink was a black mirror now, reflecting their movements back at them.
 
@@ -159,7 +151,6 @@ He didn't have an answer. He couldn't have an answer, not yet. "I don't know."
 She kissed his cheek—perfunctory, habitual, the kiss of a woman conserving her energy for battles she knew were coming—dried her hands, and went to grade papers. Jerome stood alone in the kitchen, the sink empty, the counter clean, the question suspended in the air like something he could almost see.
 
 
----
 
 Later, the house settled into its evening rhythms. Denise at the dining room table, laptop open, a stack of essays beside her that would take hours to grade. DeShawn in his room, the faint sound of his keyboard clicking through the floor, building his tutoring app on the infrastructure of something Jerome was beginning to suspect. The television stayed off—Denise's rule, maintained for seventeen years—and the silence was the particular silence of people working in parallel, together and apart.
 
@@ -174,13 +165,12 @@ He opened the source's files again. The first document, the organizational chart
 The cursor blinked. Outside, the February night pressed against the windows, cold and patient as death. Jerome began to read.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Eleven o'clock. The house had fallen silent. Denise asleep, Jerome could hear the rhythm of her breathing through the wall, the particular sound of her body surrendering to exhaustion. DeShawn's light had gone off an hour ago. The neighborhood too had quieted, the occasional passing car the only reminder that a world existed beyond these walls, this screen, this work.
 
@@ -193,7 +183,6 @@ But the documents suggested something more. API references that connected Promet
 Jerome opened a new spreadsheet and began building his own map. Partner organizations in one column, connection type in another, evidence strength in a third. The work was tedious and essential, the foundation on which everything else would rest.
 
 
----
 
 His phone buzzed at 12:17. Patricia.
 
@@ -212,7 +201,6 @@ Aunt Vivian had been dead for fifteen years. Jerome felt the weight of it settle
 "What we've been doing. What I've been doing." Patricia's voice carried the edge now, the one he knew was coming, the one he deserved. "She needs more help than she has. She needs someone there full-time, or she needs to not be there at all. And I'm working sixty hours a week, Jerome, and driving to check on her every other day, and I don't know how much longer I can do this."
 
 
----
 
 "I know," Jerome said. "I know."
 
@@ -243,7 +231,6 @@ Jerome didn't speak. The words sat between them, heavy with everything they mean
 She hung up. Jerome sat in the silence of his office, his mother's voice in his memory—she always did like chasing things—and the documents waiting on his screen.
 
 
----
 
 He should have gone to bed. Denise would be up at six, and so would he, and the morning would come whether he was ready for it or not. But the documents pulled at him, the shape of the story pulling at him, and he found himself turning back to the screen, opening files, following threads.
 
@@ -262,7 +249,6 @@ It was an architecture of sorting. A machine for classifying human beings and ro
 Jerome stared at his whiteboard, at the arrows and names and question marks. At the center, he wrote in red marker: PROMETHEUS.
 
 
----
 
 The thought of his mother came unbidden, as it always did in the small hours.
 
@@ -285,13 +271,12 @@ He closed the laptop.
 He didn't sleep.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The coffee was already made when Denise came down at six-fifteen. It was the least he could do. It was almost nothing. Jerome sat at the kitchen table, unshaved, his eyes red-rimmed, two cups in front of him—one empty, one half full. The morning light was gray again, February refusing to yield to anything brighter. Outside, a garbage truck rumbled down the street, its mechanical arm grabbing cans with a crash that echoed through the quiet.
 
@@ -314,7 +299,6 @@ Jerome tried to find words. The documents, the patterns, the architecture of sor
 "It's what we always suspected," he said finally. "The algorithms. They're not separate. They're connected."
 
 
----
 
 "Connected how?"
 
@@ -337,7 +321,6 @@ The question landed where it always landed, in the soft tissue of his belief. "I
 "That's what you always say."
 
 
----
 
 DeShawn's footsteps sounded on the stairs, then paused. He appeared in the doorway, backpack over one shoulder, earbuds already in though no music played. His gaze moved between his parents—the coffee cups, the gray morning light, the particular posture of a conversation that had been going on for longer than he'd been alive.
 
@@ -366,7 +349,6 @@ Denise turned. "Loretta?"
 "I know." Her hand didn't move. "I know how you work. I know you can't let something go once it's got hold of you. And I know that your mother is dying slowly and you're four hundred miles away, and I know that doesn't stop you, because nothing stops you, because stopping isn't something you were ever taught how to do."
 
 
----
 
 She pulled a chair beside him, sat close enough that their knees touched. The kitchen was quiet except for the hum of the refrigerator, the distant sound of the garbage truck making its way down the next street. Morning light inched across the floor.
 
@@ -391,7 +373,6 @@ She turned, leaned against the counter, looked at him with twenty years of marri
 "Feed it," she said. "Please. I'm asking you to feed it."
 
 
----
 
 She left for school at seven-fifteen. Jerome stood in the doorway and watched her car back out of the driveway, its taillights red in the gray morning. She didn't wave. He didn't wave. The distance between them was too small for gestures and too large for anything else.
 
@@ -416,7 +397,6 @@ Jerome picked up his phone and called Patricia. "I'm coming out next week," he s
 He hung up. He looked at the screen. The story waited. The guilt waited. Everything waited, as it always had, as it always would, and Jerome sat in the middle of it all, knowing he would fail something no matter what he chose, and choosing anyway, because choosing was the only thing he knew how to do.
 
 
----
 
 
 

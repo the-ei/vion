@@ -17,7 +17,6 @@ Jerome's onion-chopping paused. "A tenth-grader read my piece?"
 "She reads everything. That's kind of the problem." Denise turned to face him. "She wanted to know if it was true. Not fact-check true - she knows how to verify information. Existentially true. Like, should she be scared? Should she change her plans? Should she stop wanting to go into tech?"
 
 
----
 
 "What did you tell her?"
 
@@ -40,7 +39,6 @@ Denise was quiet for a moment. Then: "You know what Maya did after class? She st
 "One kid that I know about. How many others are doing the same thing without telling their teachers?"
 
 
----
 
 Jerome considered this while the onions caramelized. Denise added the chicken to the pan, and they worked in comfortable silence for a few minutes, the familiar rhythms of cooking together.
 
@@ -59,7 +57,6 @@ But maybe that was the point. Maybe the dissolution was the impact - not the dis
 The phrase landed somewhere in Jerome's chest and stayed there.
 
 
----
 
 DeShawn came downstairs while they were setting the table, his headphones still on, absorbed in whatever was playing. He removed them when he saw the food, a concession to family dinnertime that had taken years to establish.
 
@@ -84,7 +81,6 @@ DeShawn took his time answering, chewing, considering. "I thought it was honest.
 "Maybe." DeShawn met his eyes. "But people can only take so much reality before they need to believe something can be done."
 
 
----
 
 The conversation subsided into eating, the three of them around the table in the particular silence of family meals that had said enough for now. Jerome thought about DeShawn's comment - the accusation, really, though gently delivered. Too focused on problems. Not enough on solutions.
 
@@ -113,7 +109,6 @@ He smiled despite himself. His mother, seventy-three years old, still calling it
 "It's God's grace." His mother's voice was firm. "Now tell me - are you taking care of yourself? You sound tired."
 
 
----
 
 Jerome talked with his mother for twenty minutes - about his work, about DeShawn, about the church program she was organizing, about the neighborhood gossip that never changed no matter how much the world did. By the end of the call, something in his chest had loosened.
 
@@ -142,5 +137,4 @@ Jerome put his arm around her. The house was quiet except for the hum of the ref
 Denise squeezed his hand. "That's what I'm here for."
 
 
----
 

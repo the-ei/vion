@@ -19,7 +19,6 @@ Here it was. The pivot disguised as concern.
 "That's what I like to hear." Marsh smiled, and Kevin Zhou catalogued the smile: warm but watchful, the expression of someone who had learned to deploy warmth strategically.
 
 
----
 
 "You know, senior leadership has been noticing your work," Marsh said. He let the words land, watching Kevin Zhou's face for a reaction. "Not just the authentication stuff. Your curiosity. The questions you ask."
 
@@ -40,7 +39,6 @@ Expanded responsibility. The phrase was HR-speak, meaningless until filled with 
 "I'm always interested in growing," he said. "What kind of projects?"
 
 
----
 
 Marsh's smile broadened, and Kevin Zhou saw what was beneath it: satisfaction. The hook had been set.
 
@@ -61,7 +59,6 @@ Behind the curtain. Kevin Zhou thought about what he'd found: the undocumented d
 Just information. Kevin Zhou had spent enough time with data to know that information was never just anything. Information was power, leverage, obligation. Whatever Marsh was offering, it came with invisible strings.
 
 
----
 
 "That sounds reasonable," Kevin Zhou said. "I'd like to learn more."
 
@@ -92,7 +89,6 @@ What would his parents think, if they knew? What would they say?
 He pushed the thought away. His parents were in Beijing, their conversations reduced to monthly video calls where no one said anything real. They couldn't help him with this. No one could.
 
 
----
 
 The afternoon passed in a blur of code he barely saw. His fingers moved through familiar patterns - refactoring a function here, writing a test there - while his mind circled the conversation with Marsh like a satellite in decaying orbit, pulled inexorably toward impact.
 
@@ -119,5 +115,4 @@ The evening stretched ahead of him, empty as always. He thought about gaming, di
 Instead he sat in darkness, watching the city lights through his window, waiting for something to change.
 
 
----
 

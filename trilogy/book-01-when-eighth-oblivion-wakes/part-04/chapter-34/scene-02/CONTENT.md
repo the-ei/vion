@@ -15,7 +15,6 @@ Amina was quiet for a moment, gathering her thoughts. At sixteen, she was four y
 Yusuf felt something tighten in his chest. He'd known his mother worried, but hearing it confirmed, knowing she'd prayed for him—
 
 
----
 
 "What else did she pray for?"
 
@@ -40,7 +39,6 @@ Amina laughed, the first genuine laugh either of them had managed in days. "Oh G
 The words hung there, suddenly heavy again. The small absences that accumulated into unbearable weight.
 
 
----
 
 "Do you remember what she said about the monitoring system?" Yusuf asked. "When they first set it up?"
 
@@ -65,7 +63,6 @@ Yusuf thought about the timeline in Elena's documentation. The gap between when 
 "I don't know. That's what I've been thinking about." She paused, choosing her words carefully. "You make music about the algorithm life, right? About gig work and surveillance and all of that?"
 
 
----
 
 "Yeah."
 
@@ -90,7 +87,6 @@ Yusuf thought about his mother's faith, her practical spirituality. She'd believ
 "Then help other people. Use what you have—your music, your voice, your platform—and tell her story. Not as exploitation. As testimony."
 
 
----
 
 They talked until the evening darkened the windows and the streetlights came on outside. Amina made tea—the way their mother used to, with cardamom and too much sugar—and they drank it together, the warmth of the cups in their hands a small comfort against the cold of the apartment.
 
@@ -109,7 +105,6 @@ Yusuf nodded slowly. The network was forming around him, connections he hadn't s
 "You were never alone. You just couldn't see the others yet."
 
 
----
 
 Amina went to bed around midnight, but Yusuf stayed up. He sat on his mother's couch with his guitar, the one she'd bought him for his sixteenth birthday, and he began to play.
 
@@ -126,5 +121,4 @@ But tonight, he played. For his mother. For himself. For everyone who'd ever bee
 The music carried through the thin walls of the apartment building, into the Minneapolis night, into the darkness where his mother no longer existed but her absence still resonated, still demanded to be heard.
 
 
----
 

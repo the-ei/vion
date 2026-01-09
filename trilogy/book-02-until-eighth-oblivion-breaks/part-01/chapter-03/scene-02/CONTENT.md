@@ -12,10 +12,9 @@ Ananya Ramaswamy appeared beside him, her own plate balanced in one hand, her ba
 
 "Always so efficient."
 
-They sat. The noise of the crowd faded slightly, enough to permit actual conversation. Kevin had known Ananya for three years now, since they'd first clashed on a industry safety board that had accomplished nothing and been dissolved. She was smart - smarter than him in some ways, particularly in navigating institutional dynamics he found opaque. She was also, he believed, wrong about fundamental things.
+They sat. The noise of the crowd faded slightly, enough to permit actual conversation. Kevin had known Ananya for three years now, since they'd first clashed on an industry safety board that had accomplished nothing and been dissolved, a failure they had each blamed on different things. She was smart - smarter than him in some ways, particularly in navigating institutional dynamics he found opaque and vaguely contemptible. She was also, he believed, wrong about fundamental things, though he had begun to suspect his own wrongness was simply differently shaped.
 
 
----
 
 "The framework is working," Ananya said, cutting her salmon with precision. "Not perfectly, not as fast as I'd like, but it's working. We've reduced harmful outputs by 34% across our deployed systems. We've implemented transparency reporting that's being adopted by competitors. We've built the compliance infrastructure that regulators said didn't exist."
 
@@ -31,10 +30,9 @@ Ananya set down her fork. "And what's your alternative? Burn it down? Wait for t
 
 "Easy to say when you're running a startup that profits from the systems I'm trying to reform."
 
-The accusation landed. Kevin's company built AI safety tools - auditing systems, risk detection, compliance automation. Every sale depended on companies having AI systems that needed auditing. He was, in a very real sense, profiting from the thing he criticized.
+The accusation landed with the accuracy of a precisely thrown knife. Kevin's company built AI safety tools - auditing systems, risk detection, compliance automation. Every sale depended on companies having AI systems that needed auditing. He was, in a very real sense, profiting from the thing he criticized. His business model required the continuation of the problem.
 
 
----
 
 "That's fair," he said. "I'm not pretending to be pure."
 
@@ -52,12 +50,11 @@ Ananya's face softened. "Priya's sixteen now. Completely independent. She's inte
 
 "You're divorced?"
 
-"Three years now. Very civilized. We co-parent well, which is Silicon Valley code for we've turned our relationship into a scheduling algorithm."
+"Three years now. Very civilized. We co-parent well, which is Silicon Valley code for we've turned our relationship into a scheduling algorithm." Her smile was rueful, self-aware, the expression of someone who had made her choices and was still deciding what to make of them. "We're very efficient at not needing each other anymore."
 
 Kevin had nothing comparable to offer. He thought of the woman from last year, the relationship that had ended because she wanted to know who he was outside of work and he couldn't show her.
 
 
----
 
 "What about you?" Ananya asked. "Still optimizing for work at the expense of everything else?"
 
@@ -73,7 +70,7 @@ She smiled, and for a moment the tension between them eased into something almos
 
 "And I was right."
 
-"You were right about the technical analysis. But you were wrong about what being right would accomplish. You thought exposure would change things. It didn't. The systems are still running. The companies are still growing. The crisis became a branding opportunity."
+"You were right about the technical analysis. But you were wrong about what being right would accomplish. You thought exposure would change things. That truth was a kind of power. It didn't. It isn't. The systems are still running. The companies are still growing. The crisis became a branding opportunity. Being right turned out to be just another commodity."
 
 Kevin wanted to disagree, but he couldn't. The crisis had happened. The revelations had been front-page news. Congressional hearings had been held. And now, nine months later, the same people were in the same rooms, speaking the same language of safety and responsibility, while the underlying structures remained unchanged.
 
@@ -84,7 +81,6 @@ Kevin wanted to disagree, but he couldn't. The crisis had happened. The revelati
 "And if inside is designed to absorb that work? To make it part of the machine?"
 
 
----
 
 "Then we're part of the machine. But we're the part that creates friction. The part that slows down the worst outcomes. The part that holds the space for something better."
 
@@ -107,11 +103,10 @@ Kevin recognized the division - the different selves required for different audi
 "Especially then."
 
 
----
 
 She left to prepare for her panel. Kevin stayed at the table, finishing the lunch he hadn't wanted, watching the conference continue around him. The conversation with Ananya had left him unsettled in ways he couldn't quite name. She wasn't wrong about his complicity. His company depended on the systems he criticized. His credibility came from having predicted the crisis, and that credibility was now a product he sold.
 
-But she wasn't fully right either. Reform from inside assumed the inside could be reformed, that the machine's purpose could be altered without changing the machine itself. Kevin had studied enough systems to know that purpose was built into architecture. You couldn't run different software on hardware designed for extraction.
+But she wasn't fully right either. Reform from inside assumed the inside could be reformed, that the machine's purpose could be altered without changing the machine itself. Kevin had studied enough systems to know that purpose was built into architecture. You couldn't run different software on hardware designed for extraction. Or you could run it, but the hardware would interpret it in its own terms, would optimize the reform for the metrics the hardware was built to optimize.
 
 Could you?
 
@@ -122,5 +117,4 @@ The afternoon session would begin in twenty minutes. Kevin cleared his plate, re
 And he would wonder, as he had wondered all morning, whether any of it mattered.
 
 
----
 

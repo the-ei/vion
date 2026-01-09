@@ -21,7 +21,6 @@ On the screen, his avatar died again.
 Kevin Zhou logged off early, pleading exhaustion. The Discord call continued without him, voices he could no longer hear debating strategy for a game he no longer cared about. He sat in his gaming chair, headset off, screen dark, surrounded by equipment that had cost thousands of dollars and provided no comfort.
 
 
----
 
 The apartment was silent except for the hum of the computer's cooling fans. Kevin Zhou's reflection stared back at him from the dark center monitor. He looked tired. He looked like someone carrying a weight they couldn't put down.
 
@@ -48,7 +47,6 @@ Behind her, he could see the apartment he'd grown up in - smaller than he rememb
 The conversation proceeded along its familiar grooves. His mother asked about his work; he said it was going well. She asked about his health; he said he was fine. She asked if he was eating properly; he said yes, even though he'd microwaved dinner again tonight. These were the questions they always asked, the answers they always gave. The ritual of connection in the absence of actual connection.
 
 
----
 
 "Your father planted tomatoes," his mother said, turning the phone to show a glimpse of the balcony garden. Red fruits among green leaves. "He said to tell you they're growing well."
 
@@ -87,7 +85,6 @@ The conversation continued for a few more minutes, circling around nothing. Kevi
 The call ended. The screen went dark.
 
 
----
 
 Kevin Zhou sat in his apartment, surrounded by expensive electronics and empty space. The silence was total. No gaming voices, no parental connection, no ambient life. Just him and the hum of machines.
 
@@ -108,7 +105,6 @@ He was part of that machine. He'd been part of it for years, building authentica
 The clean room had destroyed that illusion. He'd seen where the infrastructure led. He'd seen what the applications did. And now he had to decide what to do with that knowledge.
 
 
----
 
 He could refuse the promotion. Stay where he was. Keep his head down, do his work, avoid the clean room and everything it represented. Pretend he hadn't seen what he'd seen.
 
@@ -127,5 +123,4 @@ Ananya Ramaswamy flickered through his mind again. Her eyes in the hallway. Her 
 The night stretched on, dark and silent, waiting for whatever came next.
 
 
----
 

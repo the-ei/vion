@@ -37,7 +37,6 @@ The call ended. Elena stood in the heat for another moment, holding the phone, f
 Then she went inside, to the meeting.
 
 
----
 
 The break room doubled as the meeting room, folding chairs pulled from storage and arranged in a rough circle, the refrigerator humming in the corner, the microwave someone hadn't cleaned since last week. Dr. Katherine Reyes stood at the front, tablet in hand, her white coat exchanged for a blazer that suggested this meeting mattered more than the medical ones.
 
@@ -56,7 +55,6 @@ The numbers glowed on the screen, precise and reassuring. Elena wrote them down,
 Resource constraints. Elena heard the phrase and felt something shift in her attention, some alertness she hadn't known she was suppressing. Resource constraints meant money. Resource constraints meant the decisions that got made when there wasn't enough to go around. Resource constraints meant someone, somewhere, deciding who deserved care and who didn't.
 
 
----
 
 "I have a question," Elena said.
 
@@ -81,7 +79,6 @@ Dr. Reyes's expression didn't change. "The system optimizes for realistic outcom
 "That's an interesting theoretical concern," Dr. Reyes said, her voice cooling by several degrees, the temperature shift that signaled Elena had pushed too far, asked too much, refused to be satisfied with the answers that were supposed to be satisfying. "But the data shows improved outcomes across all patient groups. If you have specific cases where you think the recommendations were inappropriate, I'm happy to review them with you after the meeting."
 
 
----
 
 The meeting continued. More slides, more metrics, more reassurances. Elena half-listened, her mind working on the question she had asked and the answer she hadn't received. Resource efficiency. Realistic outcomes. The language was smooth, professional, designed to make what was happening sound reasonable. But what was happening?
 
@@ -104,7 +101,6 @@ Dr. Reyes sat across from her, closer now, her voice low. "I understand your con
 She left. Elena sat alone in the break room, the fluorescent light buzzing, the questions multiplying in her mind.
 
 
----
 
 The afternoon blurred.
 
@@ -125,5 +121,4 @@ She needed to know more. She needed to see what the system was doing, not just w
 She began to take screenshots. It was the smallest possible act of resistance, the first gesture toward something she didn't yet know how to name.
 
 
----
 

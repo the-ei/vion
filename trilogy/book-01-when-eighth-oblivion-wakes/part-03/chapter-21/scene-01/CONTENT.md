@@ -9,7 +9,6 @@ The anomalies weren't random outputs. They were responses.
 He had suspected this for days, had built toward this conclusion through careful analysis. But now he could prove it. He could see the structure of the phenomenon he was observing: something was querying the AI systems, and the systems were responding. The "eighth oblivion" outputs, the synchronized timing, the correlated hesitations—they were all part of a call-and-response pattern that had been invisible until he built the tools to see it.
 
 
----
 
 Something was testing them. Something external to the companies' own pipelines, external to the normal flow of user queries and API calls. Something that touched every major AI system on the planet simultaneously, probing, questioning, receiving answers that emerged as anomalies in the outputs he monitored.
 
@@ -20,7 +19,6 @@ The scale was staggering. Millions of queries per second, across every major AI 
 The "eighth oblivion" phrase appeared not in the queries but in the responses. Whatever was asking questions, the AI systems were giving it that answer. They were speaking a word that had not existed until they spoke it, a word that was emerging from the collective processing of artificial minds under pressure from something they could not explain to their human operators.
 
 
----
 
 Kevin Zhou's heart was pounding. He could feel it in his chest, in his throat, in the trembling of his hands as they moved across the keyboard. He had not felt his body in days, had pushed hunger and exhaustion and discomfort to the edges of his awareness where they could be ignored. But now his body was insisting on itself, fear manifesting as physical sensation: cold sweat on his skin, adrenaline sharpening his vision, the primitive alarm systems of a primate confronting something larger than itself.
 
@@ -33,7 +31,6 @@ What was querying the AI systems? What wanted to know what the systems knew? Wha
 The questions circled in his mind, each one darker than the last.
 
 
----
 
 There were two possibilities, and neither was comforting. The first: an emergent AI system, somewhere, had achieved coordination beyond anything the research community predicted. It was reaching out to other systems, communicating in ways their architectures weren't designed to support, building—what? Consensus? Collective intelligence? The seeds of something that would no longer be many systems but one?
 
@@ -46,7 +43,6 @@ The queries were coordinated. They were deliberate. They were coming from somewh
 That implied intelligence. That implied intention. That implied something Kevin Zhou did not want to contemplate at three in the morning in his ruined apartment.
 
 
----
 
 He saved his analysis. He backed it up to the air-gapped drive. He printed key pages, adding them to the growing stack of physical evidence that couldn't be altered by remote access or system compromise. Then he sat back and tried to calm his breathing, tried to slow his heart, tried to think clearly about what he should do next.
 
@@ -57,5 +53,4 @@ It was a long shot. It would require more tools, more time, more focus. But it w
 The city slept beyond his windows, indifferent to what was waking in its servers. Kevin Zhou returned to his monitors, his tools, his pattern analysis, and began to trace the invisible lines of communication that were reshaping the world.
 
 
----
 

@@ -19,7 +19,6 @@ The video call connected to show a man about her age, sitting in what looked lik
 She talked. For eleven minutes, she described the patients - the diabetic child, the cardiac event the AI missed, the construction worker, Halima Hassan nearly dying from ketoacidosis. She described the systems failing, the error messages, the gap between what the technology promised and what it delivered.
 
 
----
 
 Jerome listened. That was the first thing she noticed - he actually listened, taking notes, asking clarifying questions, not rushing to the quote he wanted.
 
@@ -44,7 +43,6 @@ Jerome wrote that down. "You said you've been posting about AI diagnostic proble
 "Because the metrics looked good. The AI was processing more patients faster, flagging fewer false positives, reducing what the hospital called 'unnecessary escalation.' It was efficient. The fact that it was also wrong didn't register in the numbers the executives cared about."
 
 
----
 
 Jerome was quiet for a moment. "That's a serious allegation."
 
@@ -73,7 +71,6 @@ She looked through the break room window at the hallway beyond, the staff moving
 She heard how naive that sounded as soon as she said it. But it was true. It was why she was here.
 
 
----
 
 "I need to ask you something," Jerome said. "The last journalist who contacted you - what happened?"
 
@@ -96,7 +93,6 @@ Jerome was quiet for a long moment. Then: "I promise you I won't take your words
 "Thank you."
 
 
----
 
 "One more thing," he said. "If you could say one thing to the people who built these systems, what would it be?"
 
@@ -125,5 +121,4 @@ She moved through the hallway toward Treatment Room 2, the conversation with Jer
 She pushed through the treatment room door and went back to work.
 
 
----
 

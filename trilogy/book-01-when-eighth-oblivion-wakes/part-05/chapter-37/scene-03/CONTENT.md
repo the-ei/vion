@@ -9,7 +9,6 @@ He did not respond immediately. Instead, he opened the folder on his desktop lab
 The threats were accumulating too. He scrolled through screenshots of messages, records of harassment campaigns, the security consultant's report that had arrived last week.
 
 
----
 
 The security consultant was Patricia Oyelaran, recommended by another journalist who had faced similar campaigns. She had reviewed the harassment Jerome was receiving and delivered her assessment in a video call the previous week, her face professionally neutral as she described patterns that suggested coordination, resources, possible involvement of actors beyond random internet hostility.
 
@@ -24,7 +23,6 @@ The report she had sent afterward included recommendations: varying his routines
 Now, looking at the security report alongside the email from Veronica Stone, Jerome felt the two pressures converging. The offers said: come inside, where it's safer, where institutions can protect you. The threats said: staying outside has costs you haven't fully calculated.
 
 
----
 
 He replied to Veronica Stone with a noncommittal expression of interest, suggesting a call later in the week. Then he closed his laptop and went to find Denise.
 
@@ -47,7 +45,6 @@ Denise's face changed, the grading-papers expression giving way to something har
 The silence that followed was dense with implications. Denise had known that Jerome's work carried risks—she had watched him receive death threats before, had learned to delete emails without reading them, had developed the particular resilience required to be married to someone who made powerful enemies. But this felt different. This felt like an escalation.
 
 
----
 
 "What kind of precautions?" Denise asked.
 
@@ -68,7 +65,6 @@ Denise was quiet for a long moment, her eyes holding his. He could see her think
 "I'd have to compromise. On what I could say, how I could say it, who I could investigate. They don't want me for my independence. They want me for my credibility, which they would use for their purposes. I'd become a brand, a name they could deploy, but not a journalist who could do the work that matters."
 
 
----
 
 "And if you keep doing what you're doing?"
 
@@ -93,7 +89,6 @@ The question caught him off guard. His mother was in assisted living now, her me
 "Yes," he said. "On her good days, she's proud."
 
 
----
 
 Denise turned from the window. "Then keep doing it. Take precautions. Be careful. But don't stop being who you are because someone wants to scare you into silence."
 
@@ -112,5 +107,4 @@ But he had his answer, at least for now. The answer was in Denise's hands on his
 He opened his laptop and began to write.
 
 
----
 

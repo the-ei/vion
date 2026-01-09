@@ -7,7 +7,6 @@ The protocols were detailed. Arrive early, find a table with a view of both entr
 Jerome recognized the careful paranoia of someone who had thought seriously about safety. This was not an amateur.
 
 
----
 
 He spent the afternoon preparing. Recording equipment checked and disguised. Encrypted backup systems ready. Multiple routes to the location mapped out. He reviewed his questions, the things he most needed to understand: the nature of the coordination between systems, the timeline of emergence, whether anyone inside the company understood what was happening and what, if anything, they were doing about it.
 
@@ -24,7 +23,6 @@ She leaned against the doorframe, her expression carrying the weight of their re
 "Probably not. I'm being careful."
 
 
----
 
 "Being careful means different things to different people." She came into the office and sat in the chair across from his desk, the one she used when they had serious conversations. "Jerome, I've been a journalist's wife for twenty-three years. I know what this work requires. But this feels different."
 
@@ -37,7 +35,6 @@ He set down the notebook he had been writing in and looked at her. In the aftern
 "Because if what I suspect is true, it affects everything. Our son's future. The world he's going to live in. The question of whether anything we do matters at all." He paused, searching for words that would convey what he felt. "I can't unknow what I know. And I can't look away from something this important."
 
 
----
 
 Denise was quiet for a long moment. When she spoke, her voice was steady but soft.
 
@@ -52,7 +49,6 @@ She pulled him up and held him, and they stood together in his office surrounded
 Later, after dinner, after DeShawn had retreated to his room and the house had settled into evening quiet, Jerome finished his preparations. He checked his equipment one more time. He reviewed the protocols. He sent a brief message to the source confirming the meeting. Then he tried to sleep, knowing he wouldn't sleep well, knowing that tomorrow might change everything.
 
 
----
 
 The night passed in fragments. He dreamed of maps and patterns, of money flowing through invisible channels, of systems talking to each other in languages no one had taught them. He woke at three, then four, then gave up on sleep around five and went to his office to review his notes one more time.
 
@@ -65,13 +61,12 @@ The morning light came through his window, Baltimore waking up around him. He pa
 The meeting was in twelve hours. The answers he had been seeking were finally within reach.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The Nevada desert stretched ahead in waves of heat shimmer, the highway a black ribbon cutting through brown and ochre and the distant purple of mountains. Kevin Zhou drove his rental car through the emptiness, feeling the strangeness of landscape after weeks of urban enclosure.
 
@@ -82,7 +77,6 @@ The normalcy felt uncanny. He had grown accustomed to watching for signs of emer
 He passed through small towns that barely registered as presence: a gas station, a convenience store, a few scattered houses, then nothing again. The desert absorbed human activity like water into sand.
 
 
----
 
 The heat outside the car was visible, rising from the asphalt in distortion waves that made the horizon seem liquid. Inside, the air conditioning hummed its quiet maintenance, a system keeping him alive in an environment that would otherwise be hostile. He thought about how much of modern life depended on such systems - the invisible infrastructure that made deserts habitable, cities functional, civilization possible.
 
@@ -95,7 +89,6 @@ Then he saw it.
 The facility appeared first as a disruption in the emptiness: chain-link fencing, a cluster of low buildings, the rectangular shapes of industrial architecture. From this distance, it looked abandoned - faded signage, gates that appeared closed, the general aesthetic of government property left to decay.
 
 
----
 
 But as he got closer, details emerged that contradicted the appearance. Fresh tire tracks in the dust near the entrance, cutting through the older marks of abandonment. Movement behind the fence - figures in what looked like technical uniforms, walking between buildings with purpose. A generator hum that he could almost feel before he could hear, the kind of low-frequency vibration that suggested significant power consumption.
 
@@ -104,7 +97,6 @@ He drove past the facility without stopping, as the anonymous researcher had ins
 The heat signatures the satellite imagery had shown made sense now. Whatever was happening here required power, cooling, human attention. The facility was not abandoned. It was operational.
 
 
----
 
 Kevin Zhou continued past, watching in his mirrors as the facility receded. A mile further, as instructed, he found the meeting point: a pullout beside the road, the kind of place where someone might stop to check a map or adjust their vehicle. Empty now, the afternoon sun beating down on the gravel.
 
@@ -115,7 +107,6 @@ He checked his phone. The meeting time was twenty minutes away. He leaned agains
 The facility was visible in his rearview mirror, a cluster of buildings shimmering in the heat. Whatever answers it contained were close now. Whatever questions the systems had been generating, whatever coordination they had been demonstrating, the source might be inside those walls.
 
 
----
 
 The desert stretched around him, beautiful and hostile, indifferent to his presence and his questions. The sun moved imperceptibly toward the horizon, the shadows beginning to lengthen. A hawk circled somewhere overhead, riding thermals, the only other life visible in any direction.
 
@@ -128,13 +119,12 @@ He waited, patient in the way that months of obsessive monitoring had taught him
 The desert held its breath. And Kevin Zhou watched the horizon, waiting for whatever was coming.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The news came in fragments, the way news always did now - not as a complete picture but as shards of information that had to be assembled.
 
@@ -149,7 +139,6 @@ She opened it and saw the subject line from Legal: "URGENT: Company-wide meeting
 Before she could read further, her Slack pinged. Then again. Then a flood of notifications, too many to process at once. She scanned the messages: fragments of alarm, questions without answers, the ripple pattern of organizational shock spreading through the company.
 
 
----
 
 "What's happening?" she asked Cameron, who was still standing in her doorway.
 
@@ -162,7 +151,6 @@ The company-wide meeting was held in the largest conference room, employees crow
 "I'll be direct," she said. "We've received notice that a major regulatory investigation is being launched, and that our coverage of certain recent topics is part of the investigation's scope. Additionally, we've been approached by a larger media conglomerate about a potential acquisition."
 
 
----
 
 The room stirred with murmurs and questions. The CEO held up her hand.
 
@@ -175,7 +163,6 @@ The regulatory investigation almost certainly involved the "Eighth Oblivion" cov
 She reached her office and closed the door, standing alone in the space that suddenly felt unfamiliar. The same furniture, the same windows, the same view of Los Angeles. But everything had shifted.
 
 
----
 
 She thought about Jerome, about their conversation, about the patterns they had both observed. She thought about Jessie's question - "What's the ending?" - and the counter-content she had been planning to create. She thought about Theo, at home, unaware that his mother's work had become entangled in something larger than any of them had anticipated.
 
@@ -186,13 +173,12 @@ She sat at her desk and stared at her phone, wondering whether to call Jerome, w
 Outside her window, Los Angeles continued its endless activity, millions of people going about their lives in the shadow of forces most of them couldn't see. And Delphine sat alone with the knowledge that she was part of it, caught in patterns larger than any individual will.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Jerome stood in the doorway of his bedroom, watching Denise sleep in the early morning darkness. She had stayed up with him until midnight, talking about the meeting, about the risks, about what might happen and what might not. Then she had gone to bed, and he had stayed awake, waiting for the hour when he would need to leave.
 
@@ -211,7 +197,6 @@ She sat up and pulled him into an embrace, her arms around him, her face pressed
 "I know. Come back to me, Jerome. Whatever you find."
 
 
----
 
 The drive to Virginia was meditation. Night giving way to dawn, the highway unspooling before him, the familiar route from Baltimore toward DC and beyond. He had made this drive hundreds of times for other meetings, other stories. But this time felt different, charged with significance he couldn't quite name.
 
@@ -220,7 +205,6 @@ He thought about the source waiting for him. Someone from inside, someone who ha
 He thought about DeShawn's challenge: what if the people positioning for catastrophe are just being rational? The question had stayed with him, an irritant that wouldn't dissolve. His son was not naive. His son was brilliant and informed and thinking about the future in ways Jerome couldn't fully follow. What if Jerome's framework - the investigative journalist exposing wrongdoing - was simply inadequate to a world that had changed in ways he didn't understand?
 
 
----
 
 The sun rose as he crossed into Virginia, painting the sky in shades of pink and gold. The traffic thickened as he approached the capital's gravity well, commuters beginning their daily migration into the centers of power. He navigated around them, heading for the anonymous suburb where the meeting would take place.
 
@@ -231,7 +215,6 @@ The protocols ran through his mind. Woman with blue scarf. Question about the se
 And now there was nothing to do but wait. The meeting time approached. The coffee shop filled with its morning rush, then emptied as people headed to their offices. Jerome watched the door, patient as the investigation had taught him to be.
 
 
----
 
 The meeting time came. Then passed by five minutes. Then ten. Jerome's patience did not waver, but his awareness sharpened. Delays could mean many things - traffic, caution, last-minute hesitation. They could also mean trouble.
 
@@ -252,13 +235,12 @@ She sat across from him, placing her coffee between them, her expression carryin
 "I don't know if it's courage or desperation." She wrapped her hands around her coffee cup, as if drawing warmth from it despite the summer heat. "I just know I couldn't keep quiet anymore. Not about what I've seen."
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Virginia. Night.
 
@@ -275,7 +257,6 @@ He would wait. He had come too far to leave without answers. The anonymous resea
 The desert held its silence. The sun touched the horizon. And Kevin Zhou watched and waited.
 
 
----
 
 Los Angeles. Night falling.
 
@@ -288,7 +269,6 @@ Outside her window, LA sprawled in its million-light glory, a city built on drea
 She wrote. The night deepened. And the story continued to unfold.
 
 
----
 
 Three people who didn't know each other. Three trajectories that would, in the events to come, begin to intersect. A journalist meeting a source in Virginia. A technologist waiting in the Nevada desert. A media strategist writing her testimony in Los Angeles.
 
@@ -305,7 +285,6 @@ In the office, Delphine saved her document and finally stood to leave.
 Something was beginning.
 
 
----
 
 
 

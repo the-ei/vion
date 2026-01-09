@@ -13,7 +13,6 @@ James is already seated when she arrives, a table near the window but not agains
 He shrugs. "I hear about most things eventually."
 
 
----
 
 James Okafor runs a venture capital fund that invests in enterprise software, companies that sell to companies, the infrastructure layer beneath the consumer products that Prometheus builds. His portfolio does not include Prometheus directly, but the ecosystem is small enough that information flows, that dinner parties and board meetings create channels of knowledge that Ananya can never quite trace. When she was married to him she found this network comforting, a sign that she had arrived in a world that mattered. Now it feels like surveillance of a different kind, her ex-husband's professional interest in her professional struggles.
 
@@ -30,7 +29,6 @@ She does not respond to his comment. The waiter arrives. They order. The salads 
 The word hangs between them, *attention*, freighted with implication. Ananya hears what he is not saying: that her schedule makes attention difficult, that her work consumes hours that might otherwise go to Priya, that the custody arrangement has failed to account for a mother who is present but preoccupied.
 
 
----
 
 "I could say the same to you," she says, the defensiveness rising before she can modulate it. "You travel three weeks out of four. Your attention comes through screens."
 
@@ -53,7 +51,6 @@ Ananya thinks of her own screen time, the hours she spends staring at devices th
 "Good." James's expression softens, the adversarial edge receding into something that might be gratitude or might be resignation to their shared project. "That's good."
 
 
----
 
 The salads arrive. They eat in the particular silence of people who have exhausted the topics that are safe, who are circling the topics that are not. Ananya watches James across the table, the familiar lines of his face that she once traced with her fingers, the jaw she used to kiss, the gray appearing now at his temples that she will never watch progress. Twelve years together, two years apart, and this is what remains: scheduled lunches and shared concern, the architecture of a relationship that has been gutted but whose walls still stand.
 
@@ -74,7 +71,6 @@ She almost smiles. Almost. The honesty is rare between them now, the moments whe
 Their phones sit on the table between them, occasionally lighting with notifications, demanding attention even in its absence. Ananya thinks about picking hers up, checking if Priya has responded to the morning text, then decides not to. This moment, imperfect as it is, is a kind of presence. She owes it to the man across from her, to the history they share, to the daughter they are both failing in different ways.
 
 
----
 
 The drive back to Prometheus takes forty minutes in midday traffic, the route familiar enough that Ananya's attention drifts, the car handling navigation while her mind processes the lunch, the conversation, the daughter they discussed as if she were a problem to be solved rather than a person to be known.
 
@@ -103,5 +99,4 @@ She does not think about whether the purpose is worth the cost.
 She has learned not to think about that.
 
 
----
 

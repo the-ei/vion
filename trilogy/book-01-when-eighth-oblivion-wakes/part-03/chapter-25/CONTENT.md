@@ -9,7 +9,6 @@ The words came fast, almost faster than he could type.
 This story is about that angle."
 
 
----
 
 He wrote about the investment patterns he had tracked: the 340% increase in private security investment, the land purchases in remote regions, the infrastructure development that made sense only if you assumed certain systems were going to fail. He wrote about the sectors that matched the "Eighth Oblivion" video's predictions - security, infrastructure, autonomous systems, longevity - and documented the correspondence with financial data.
 
@@ -20,7 +19,6 @@ He wrote about Prometheus Systems as the central node, the company that appeared
 And he wrote about the viral video itself. Not endorsing its predictions, not debunking its claims, but documenting the strange fact that a piece of anonymous content had accurately described investment patterns that were already underway.
 
 
----
 
 The article took shape over hours, the structure emerging organically from the material. Jerome had written enough stories to recognize when one was finding its form, when the pieces were falling into place with the kind of inevitability that felt like discovery rather than construction.
 
@@ -31,7 +29,6 @@ This was different from his previous work. The corruption investigations had bee
 He paused to stretch his back, to look out the window at the summer day he was ignoring, to remember that he was a person with a body and not just a channel for words. The clock on his desk showed three in the afternoon. He had been writing for six hours.
 
 
----
 
 He returned to the draft, now past the documentation phase and into the analysis. This was the harder part - drawing conclusions from the evidence without overreaching, making claims that could be defended without retreating into the safety of mere description.
 
@@ -42,7 +39,6 @@ One interpretation is benign: sophisticated investors, with access to better inf
 Another interpretation is less benign: the wealthy are abandoning the shared systems that the rest of society depends on. They are building parallel infrastructures - private security, autonomous systems, longevity technology - designed to insulate them from whatever is coming. They are not solving the problems they see approaching. They are escaping them."
 
 
----
 
 He wrote about Delphine's observations - not naming her, but describing the engagement patterns she had identified. The way the "Eighth Oblivion" content was spreading in ways that looked organic but felt coordinated. The possibility that the attention economy and the financial economy were both responding to the same signals, or generating those signals through their interaction.
 
@@ -55,7 +51,6 @@ The wealthy are not planning catastrophe. They are positioning for it. And their
 He finished the draft in the late afternoon, the summer light going golden through his windows. He sat back and read the whole thing through, from beginning to end, with the critical eye of someone who had spent thirty years learning to judge his own work.
 
 
----
 
 It was good journalism. Well-sourced, carefully reasoned, responsibly caveated. It made claims that could be defended and invited readers to reach their own conclusions. It didn't sensationalize, didn't predict doom, didn't traffic in the kind of fear-mongering that characterized most coverage of the "Eighth Oblivion" phenomenon.
 
@@ -70,13 +65,12 @@ He saved the draft and attached it to an email to Paula Henderson, his editor. T
 Then he sat in his office, surrounded by the evidence of months of work, and waited for whatever came next. He had done what he could. The rest was out of his hands.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The cafe near Paula Henderson's DC office was the kind of place journalists had been meeting for decades. Scuffed tables, coffee that was strong but not precious, a general air of significance that came from proximity to power. Jerome arrived early and took a table near the back, facing the door, the habits of years of source meetings shaping his body language without conscious thought.
 
@@ -89,7 +83,6 @@ She slid into the seat across from him, ordered coffee from the waiter without l
 He heard the "but" coming.
 
 
----
 
 "But you're worried about publishing."
 
@@ -104,7 +97,6 @@ He had thought about this. He had thought about little else for weeks. "If I don
 "That's not the question I'm asking." Paula leaned forward, her voice dropping. "The question I'm asking is whether you can tell this story in a way that doesn't bring everything down on your head at once. Can you narrow the focus? Take one company, one pattern, one slice of the picture instead of the whole thing?"
 
 
----
 
 Jerome felt the familiar tension between safety and truth. He had navigated this before, with other stories, finding the balance between what needed to be said and what could reasonably be defended. But this story resisted narrowing. The whole picture was the point.
 
@@ -119,7 +111,6 @@ She was quiet for a moment, the cafe noise filling the space between them. Other
 "I'll publish it. Because I believe you, and because it matters." She paused. "But I want you to understand what you're getting into. This isn't like your other work. This one will follow you."
 
 
----
 
 "I know."
 
@@ -132,7 +123,6 @@ He had. He had thought about Denise, about the strain already visible in their m
 Paula sighed, but there was something like respect in it. "Then we need to talk about timing, about legal review, about the rollout strategy. If we're going to do this, we're going to do it right."
 
 
----
 
 They spent the next hour going through the draft line by line. Paula's notes were thorough, her questions sharp. She pushed back on conclusions that went beyond the evidence, suggested additional sources who might strengthen the weakest sections, flagged language that could be misrepresented in hostile coverage.
 
@@ -153,13 +143,12 @@ Paula gave him a long look. "Be careful, Jerome. The closer you get to the cente
 He knew she was right. And he was going to do it anyway.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 DeShawn came home from coding camp with the kind of energy Jerome remembered from his own youth, when the world had seemed full of possibility and problems had seemed like things that could be solved. He burst through the door talking about the projects he had built, the people he had met, the future he could see taking shape.
 
@@ -172,7 +161,6 @@ Jerome listened from the living room, watching his son's animation with a mixtur
 "It was amazing. There were kids from all over the country, all working on different projects, sharing techniques. It felt like being part of something bigger than myself."
 
 
----
 
 Denise emerged from the kitchen, wiping her hands on a towel, her face showing the relief of a parent whose child had returned safely from the world. She hugged DeShawn, asked about his meals, about his roommate, about whether he had slept enough. The small questions that were really about love and worry.
 
@@ -189,7 +177,6 @@ The request caught Jerome off guard. DeShawn had shown polite interest in his wo
 "I know. But I'd like to understand what's been consuming you for months."
 
 
----
 
 Jerome looked at Denise, who gave a small nod. After dinner, he retrieved his laptop and handed it to DeShawn. He watched his son read, eyes moving across the screen with the rapid scanning of someone who consumed information digitally, who could process text in ways that Jerome's analog-trained brain still struggled to match.
 
@@ -206,7 +193,6 @@ When DeShawn finished, he closed the laptop and sat in silence for a long moment
 "But what if the people positioning for catastrophe are just being rational?"
 
 
----
 
 Jerome felt the question land like a physical impact. It was the same challenge David had posed, but from a different angle. Coming from his own son, it hit differently.
 
@@ -221,7 +207,6 @@ Jerome felt the question land like a physical impact. It was the same challenge 
 Jerome heard echoes of the "Eighth Oblivion" video in his son's words, though he wasn't sure if DeShawn had actually watched it. The language of transformation, of emergence, of necessary destruction.
 
 
----
 
 "I can't accept that," Jerome said, his voice coming out harder than he intended. "The idea that some people deserve to survive while others don't. That wealth should determine who gets to live in the future."
 
@@ -234,13 +219,12 @@ Denise had been watching the exchange from across the table, her expression unre
 They sat in silence for a long moment. Jerome felt the gap between generations open wider, a chasm that no story could bridge.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The house was quiet by eleven. Denise had gone to bed after the conversation with DeShawn, which had ended without resolution but also without hostility. DeShawn himself had retreated to his room, claiming he needed to decompress from the camp but probably processing the story in his own way.
 
@@ -253,7 +237,6 @@ It had arrived twenty minutes ago, from an address that didn't resolve to any kn
 "Mr. Washington, I've followed your work for years. Your financial crisis reporting showed you could be trusted with information that powerful interests wanted suppressed. I work at a major AI company. I've seen things that relate to what you've been investigating. I'm scared. I want to meet. Please respond through this secure channel."
 
 
----
 
 Jerome read the message several times, looking for tells of deception or entrapment. The phrasing was careful but genuine, the voice of someone taking a significant risk. The reference to his financial crisis reporting was specific enough to suggest real familiarity with his work. The fear was palpable even through the flat text on the screen.
 
@@ -266,7 +249,6 @@ He typed a careful response:
 He sent it and watched the status indicator, waiting to see if the other person was still online.
 
 
----
 
 The response came after several minutes:
 
@@ -277,7 +259,6 @@ Jerome felt a chill run through him. The message confirmed what he had suspected
 He typed: "I want to meet. In person, if possible. I can travel to wherever is safest for you. We can establish whatever protocols you need to feel secure. This is important enough to warrant caution."
 
 
----
 
 The response took longer this time:
 
@@ -290,7 +271,6 @@ Jerome looked at the message, weighing the possibilities. It could be genuine - 
 But the reference to the systems talking to each other echoed what he had heard from Delphine, what he had suspected from his own research. The coordination without a coordinator. The emergence of something nobody had designed.
 
 
----
 
 He typed his response: "I can be there. Send the coordinates and we'll establish protocols for the meeting. Safety signals, contingency plans, whatever you need to feel secure. I've protected sources in more dangerous situations than this. I'll do everything I can to protect you too."
 
@@ -305,7 +285,6 @@ The picture was almost complete. And the question of what to do with it - whethe
 He saved the conversation, encrypted the files, and sat in the darkness thinking about what came next.
 
 
----
 
 
 

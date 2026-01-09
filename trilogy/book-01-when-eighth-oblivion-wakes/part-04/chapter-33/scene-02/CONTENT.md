@@ -11,7 +11,6 @@ Now another conversation. The morning had careened forward—the meeting with Pa
 "I don't know. Maybe. Maybe not." Elena's own hands were steady, which surprised her. She'd expected trembling, but instead there was a strange calm. "Firing the nurse who documented AI healthcare failures would look bad. They know that."
 
 
----
 
 "So they'll just make your life difficult until you quit."
 
@@ -40,7 +39,6 @@ Rosa sat at the third chair, the one where Elena's father used to sit before he 
 "I want to tell you something," Rosa said. "Something I don't talk about often."
 
 
----
 
 Elena waited. Her grandmother's stories were rare and valuable, fragments from a life that had spanned two countries and three generations.
 
@@ -59,7 +57,6 @@ Rosa paused, her eyes focused on something far away, the memory surfacing from d
 "I lost my job. The company blacklisted me. For two years, I couldn't find steady work. It was very hard." Rosa's eyes met Elena's. "But the story ran. Other journalists picked it up. The government investigated—eventually. Changes were made—slowly. And I could live with myself. That was the part that mattered most."
 
 
----
 
 Daniel leaned forward. "But you had a family. You had a daughter to support—Elena's mother. How could you take that risk?"
 
@@ -78,7 +75,6 @@ Daniel's face was conflicted. Elena could see him wrestling with his instinct to
 "Kids know when their parents are lying to themselves," Rosa said. "They always know."
 
 
----
 
 The conversation continued, but the shape of it had changed. Daniel's fear was still there, but it was softening into something more manageable—not acceptance exactly, but acknowledgment. The risks were real. The costs would be real. But so was the rightness of what Elena had done.
 
@@ -105,7 +101,6 @@ The ordinary summoning. The child who needed her mother, regardless of what the 
 "Yes, mija. Show me everything."
 
 
----
 
 She spent an hour on the floor with Sofia, admiring the elaborate block structure that her daughter had created while the adults worried about adult things. Mateo joined them, contributing his chaotic toddler energy, and for that hour Elena was simply a mother, simply a person present with her children, the weight of the world temporarily set aside.
 
@@ -122,5 +117,4 @@ The cost was real. The risk was real. But so was the responsibility. She had cho
 The decision was made. The family understood. Tomorrow, she would return to the clinic and face whatever came next.
 
 
----
 

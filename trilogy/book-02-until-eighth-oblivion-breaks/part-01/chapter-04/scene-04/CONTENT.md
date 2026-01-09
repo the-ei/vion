@@ -13,7 +13,6 @@ He opened the laptop bag and pulled out a folder - actual paper, she noticed, no
 He spread the papers on the table between them, positioning them so she could read. Ananya's eyes moved over the documents while her face remained still - a skill she had developed over years of boardrooms and negotiations, the ability to process information without revealing reaction.
 
 
----
 
 The documents showed a licensing agreement between Prometheus Global Services Ltd - a subsidiary she knew existed but had never examined closely - and three government entities. The service described was "content moderation and platform safety monitoring." The technical specifications were attached, and they described systems that Ananya recognized immediately.
 
@@ -32,7 +31,6 @@ Ananya read more slowly now, parsing the technical language, following the logic
 Sanjay pointed to the relevant sections. "UAE. Thailand. The third is a subsidiary of a subsidiary, harder to trace, but the technical specifications match systems deployed in - " He paused. "In China."
 
 
----
 
 Ananya felt the room tilt slightly, the sensation of a worldview adjusting under pressure. Her framework. Her tools. The infrastructure she had built to make the company better was being used to make certain governments worse.
 
@@ -57,7 +55,6 @@ Go public. Resign. Burn the house down.
 Or stay. Investigate. Find out who authorized this and why. Use her position to stop it, if she could.
 
 
----
 
 "I need to think," Ananya said. "I need time to verify these documents and understand the full scope."
 
@@ -86,7 +83,6 @@ Sanjay stared at her. She could see him recalculating, adjusting his image of he
 "I'm going to do something. I'm not going to do something fast."
 
 
----
 
 They sat in silence for a long moment. The coffee shop hummed around them, the ordinary sounds of ordinary people living ordinary lives while somewhere across the world, systems designed to catch harmful AI outputs were being used to catch human beings.
 
@@ -115,5 +111,4 @@ The reception was in two hours. She would receive an award for leadership in res
 She didn't move. She couldn't move. She just sat there, in a chain coffee shop in a strip mall, trying to find the version of herself that could hold all of this together.
 
 
----
 

@@ -11,7 +11,6 @@ The meeting room held eight people around a long table: committee staffers, a se
 Ruth took her seat and waited for the first question, feeling the particular tension of being asked to speak as an authority on something no one fully understood.
 
 
----
 
 "Could you elaborate, Judge?"
 
@@ -30,7 +29,6 @@ Ruth had been waiting for this question, had turned it over in her mind for week
 The young staffer at the end of the table shifted in his seat, his skepticism evident. The room waited for Ruth to continue, to offer something more than uncertainty.
 
 
----
 
 "So you're saying we shouldn't try to regulate?" The question came from one of the agency representatives, his tone carrying a hint of challenge.
 
@@ -47,7 +45,6 @@ Ruth had been waiting for this question, had turned it over in her mind for week
 The room was quiet. Ruth could feel the discomfort, the desire for answers that would allow everyone to return to their normal work with a sense that the problem was being managed.
 
 
----
 
 The meeting continued for another hour, moving through questions that Ruth answered as best she could while preserving her uncertainty. They asked about precedents—she cited the nuclear weapons cases, the genetic engineering debates, other moments when technology had outpaced law, though she noted that none of those precedents quite fit the current situation. They asked about international coordination—she acknowledged its importance while expressing doubt about its feasibility given the competitive dynamics driving the AI race. They asked what they could tell their constituents—she had no good answer to that one.
 
@@ -60,7 +57,6 @@ Michaela walked her to the next meeting—a working lunch with a think tank that
 "Concretely? I don't know. The honest answer is that I'm not sure there's anything policymakers can do that would significantly alter the trajectory. The race is driven by forces that policy has not been able to constrain."
 
 
----
 
 "That's a very pessimistic assessment."
 
@@ -75,7 +71,6 @@ The question was personal in a way the others had not been, and Ruth found herse
 The young woman nodded, as if this answer confirmed something she had already suspected. She said nothing more, but Ruth noticed her name—Elena Vasquez—and made a mental note. Here was someone who might actually do something useful.
 
 
----
 
 The day ended at five-thirty, the winter darkness already complete outside the windows of the final meeting room. Ruth gathered her materials, thanked her hosts, and walked out into the cold evening air with the weight of the day's conversations pressing on her.
 
@@ -88,7 +83,6 @@ What if they weren't? What if the thing that was coming was larger than anything
 She walked back toward her hotel, her breath visible in the cold air, her mind turning over the conversations of the day and finding nothing in them that offered hope.
 
 
----
 
 The streets around Capitol Hill were emptying out, the after-work exodus carrying people toward homes and Metro stations and the ordinary evenings they had earned. Ruth watched them pass, these anonymous citizens of a republic that might be facing something its founders never dreamed of, and she felt the particular loneliness of knowing something that could not be easily shared.
 
@@ -105,5 +99,4 @@ She reached her hotel as the darkness deepened, carrying the day's disappointmen
 Tomorrow she would leave Washington. But she would not leave empty-handed.
 
 
----
 

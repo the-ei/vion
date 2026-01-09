@@ -27,7 +27,6 @@ She gestured toward the other chair, and he sat. Through the window the courtyar
 "I'm fine." The automatic answer. "I've been resting."
 
 
----
 
 "Yvonne said you had a difficult week. Some confusion."
 
@@ -58,7 +57,6 @@ His mother looked at him, and for a moment she was completely present, the fog l
 "You hold everyone to impossible standards. Including yourself." She reached out and touched his hand. "It comes from caring. But caring can crush."
 
 
----
 
 The clarity held for a few more moments, and then began to slip. She started talking about Jerome's father again, but the tenses were wrong, the timeline scrambled. She described a conversation they'd had last week, when in reality it had happened thirty years ago, in the kitchen of the house in Bronzeville where Jerome had grown up.
 
@@ -83,7 +81,6 @@ He didn't know how to answer. The honest answer was complicated: the work was me
 Jerome heard the echo again. The pattern repeating across generations. Fighting even when there was nothing left to fight.
 
 
----
 
 Yvonne arrived in the afternoon. She was three years younger than Jerome and looked ten years more tired, carrying the weight of proximity while he carried the weight of distance. They had divided the duties as best they could—she handled the daily logistics, the doctor's appointments, the small crises; he sent money and visited when he could—but the division had never been equal and they both knew it.
 
@@ -104,7 +101,6 @@ She couldn't read the menu anymore. The words swam, she said, rearranged themsel
 "I know that you're both here. That's important." She took their hands, one on each side of the table. "My children."
 
 
----
 
 After dinner, back at the facility, Jerome helped his mother to bed. She was exhausted from the outing, the stimulation too much for a system that preferred routine.
 
@@ -133,7 +129,6 @@ Yvonne shrugged. "Managing. Charles helps when he can. The kids are old enough t
 "I could. But what would be the point? We do what we can with what we have." She looked at him. "Are you going to be okay? Flying back tonight?"
 
 
----
 
 "I'll be fine."
 
@@ -154,5 +149,4 @@ Something had shifted in Chicago. Not a resolution—nothing was resolved—but 
 The flight was called. Jerome boarded, found his seat, and flew home through the darkness.
 
 
----
 

@@ -27,7 +27,6 @@ Ananya glanced at her daughter. Fourteen years old, sharp as anyone she had ever
 Ananya kept her eyes on the road. "There were failures across multiple companies. But yes, Prometheus systems were affected."
 
 
----
 
 "The news is saying it was hackers. Is that true?"
 
@@ -56,7 +55,6 @@ Priya absorbed this. Her face showed the work of someone rearranging their under
 "You're the ethics officer. Isn't your job supposed to prevent stuff like this?"
 
 
----
 
 The question landed like something physical. Ananya felt it in her chest, the accumulated weight of three years of failed prevention.
 
@@ -81,7 +79,6 @@ Priya was quiet, looking at her mother with an expression Ananya couldn't quite 
 "Was that just something parents say? Or did you actually mean it?"
 
 
----
 
 The silence in the car was enormous. Ananya sat with her daughter's question, feeling its weight, understanding that this moment would define something between them for years to come.
 
@@ -110,7 +107,6 @@ Ananya looked at her daughter - this person she had raised, this person who was 
 "You're right," she said. "You're absolutely right."
 
 
----
 
 They went inside, made dinner together, talked about other things - school, friends, the future that Priya was beginning to imagine for herself. But underneath the ordinary conversation, something had shifted.
 
@@ -137,5 +133,4 @@ Ananya went to bed with the taste of decision on her tongue, the weight of her d
 The right thing. Even when it's hard.
 
 
----
 

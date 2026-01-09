@@ -7,7 +7,6 @@ The second fare was a college student going from Dinkytown to the Mall of Americ
 The third was a couple arguing in the back seat, their voices low but intense, something about money or children or both. Yusuf turned up the radio slightly, gave them privacy they did not acknowledge needing, drove to their destination in silence. They did not tip at all.
 
 
----
 
 The afternoon had settled into its familiar rhythm - pick up, drive, drop off, repeat - when the app directed him to a address in Cedar-Riverside, the neighborhood that Somalis like his family had made their own over the past three decades. He pulled up to an apartment building he recognized, had maybe even visited once when he was younger, for some gathering of families his mother had organized before his father died.
 
@@ -22,7 +21,6 @@ She was going to a doctor's appointment in St. Louis Park, a specialist of some 
 Yusuf agreed, turning off the meter mentally even though the app continued to run, accepting that this trip would pay him less than it should because she needed his help and he was not the kind of person who could say no.
 
 
----
 
 They talked during the drive. Her name was Halimo, and she had come to Minneapolis in 1996, one of the early waves of Somali refugees. Her children were grown now - three sons, two daughters, scattered across the country with their own lives and problems. Her husband had died five years ago, and she lived alone in the apartment Yusuf had picked her up from, the building full of other Somali elders, a village within the city.
 
@@ -35,7 +33,6 @@ Halimo listened the way Somali elders listen, with her whole self, nodding at th
 They pulled into the medical complex parking lot. Yusuf helped her out of the car, walked with her to the entrance, made sure she found the right floor before returning to wait. His phone buzzed with new fare opportunities. He dismissed them all.
 
 
----
 
 She was inside for forty-seven minutes. Yusuf sat in his car, engine off to save gas, watching other patients come and go, other families navigating the medical system in their own ways. He thought about his mother, about the clinic visits she did not talk about, the medications that appeared on the kitchen counter, the way she moved more slowly now than she had a year ago.
 
@@ -54,5 +51,4 @@ Then he returned to his car and sat for a long moment, the twenty dollars still 
 He accepted it. What else was there to do?
 
 
----
 

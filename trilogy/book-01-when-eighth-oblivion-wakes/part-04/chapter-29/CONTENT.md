@@ -23,7 +23,6 @@ She returned to the main nursing station. Three other staff members were cluster
 "What's happening?" she asked.
 
 
----
 
 Miguel Santos, the younger nurse who had started three months ago, looked up from his screen with an expression between confusion and fear.
 
@@ -46,7 +45,6 @@ His glucose was 280. High, but not critical. The pump had been delivering baseli
 "He's okay," Elena told the mother. "His levels are elevated but manageable. We'll need to reset the pump manually and monitor him here for a few hours."
 
 
----
 
 The mother's relief was physical, her whole body softening as she exhaled. "The pump company said their systems were having issues. They said it should resolve soon. But I couldn't wait. I didn't know what was happening to him."
 
@@ -69,7 +67,6 @@ Her phone buzzed. Abuela, checking in.
 "Everything okay at the clinic? The news is saying computers are broken everywhere."
 
 
----
 
 "Busy. Are Sofia and Mateo okay?"
 
@@ -94,7 +91,6 @@ She pulled her phone back out and opened her camera. The waiting room, filling w
 She took a photograph. Then another. Documentation. Evidence.
 
 
----
 
 "Elena." Miguel's voice, urgent. "We've got a new arrival. Elderly woman, diabetic, possible ketoacidosis. Her daughter says the glucose monitor was offline all night."
 
@@ -121,7 +117,6 @@ The glucose reading came back: 420. Dangerously high. The ketoacidosis was advan
 Twelve hours of silence. Twelve hours during which an algorithm said nothing and a woman nearly died.
 
 
----
 
 Dr. Okonkwo arrived, took one look at the readings, and began ordering treatment.
 
@@ -142,13 +137,12 @@ Someone needed to tell this story. Someone needed to make sure it couldn't be er
 Elena went back to work. But she kept her phone close, the camera ready. Documentation was the only power she had.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The message arrived at 2:14 PM, while Elena was sitting on the break room couch trying to eat a protein bar she didn't want.
 
@@ -171,7 +165,6 @@ The video call connected to show a man about her age, sitting in what looked lik
 She talked. For eleven minutes, she described the patients - the diabetic child, the cardiac event the AI missed, the construction worker, Halima Hassan nearly dying from ketoacidosis. She described the systems failing, the error messages, the gap between what the technology promised and what it delivered.
 
 
----
 
 Jerome listened. That was the first thing she noticed - he actually listened, taking notes, asking clarifying questions, not rushing to the quote he wanted.
 
@@ -196,7 +189,6 @@ Jerome wrote that down. "You said you've been posting about AI diagnostic proble
 "Because the metrics looked good. The AI was processing more patients faster, flagging fewer false positives, reducing what the hospital called 'unnecessary escalation.' It was efficient. The fact that it was also wrong didn't register in the numbers the executives cared about."
 
 
----
 
 Jerome was quiet for a moment. "That's a serious allegation."
 
@@ -225,7 +217,6 @@ She looked through the break room window at the hallway beyond, the staff moving
 She heard how naive that sounded as soon as she said it. But it was true. It was why she was here.
 
 
----
 
 "I need to ask you something," Jerome said. "The last journalist who contacted you - what happened?"
 
@@ -248,7 +239,6 @@ Jerome was quiet for a long moment. Then: "I promise you I won't take your words
 "Thank you."
 
 
----
 
 "One more thing," he said. "If you could say one thing to the people who built these systems, what would it be?"
 
@@ -277,13 +267,12 @@ She moved through the hallway toward Treatment Room 2, the conversation with Jer
 She pushed through the treatment room door and went back to work.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Halima Hassan's condition had been stable for two hours. The insulin drip was working, her glucose levels falling toward safety, her breathing steady. Dr. Okonkwo had pronounced herself cautiously optimistic and moved on to other patients. Amina, Halima's daughter, had gone to the waiting room to update the rest of the family.
 
@@ -312,7 +301,6 @@ The defibrillator whined its buildup. Elena cleared, the shock delivered, Halima
 The monitor showed the same chaos. Nothing had changed.
 
 
----
 
 "Push amiodarone. Continue compressions."
 
@@ -339,7 +327,6 @@ She walked toward the doorway, toward the waiting room where Amina was sitting w
 Too late. Twelve hours too late.
 
 
----
 
 Amina was in the corner of the waiting room, sitting beside a young man who looked too stunned to speak. A brother, maybe, or a nephew. Someone who had gotten the call that something was wrong and had come, and now sat in the plastic chair waiting for news that had already been decided.
 
@@ -364,7 +351,6 @@ Elena said nothing. There was nothing to say that would be adequate. Someone sho
 "Would you like to see her?" Elena asked. "To say goodbye?"
 
 
----
 
 Amina nodded, tears streaming down her face. Elena led them back to Treatment Room 2, where Halima had been arranged peacefully, her hands folded, her face cleaned of the traces of the emergency.
 
@@ -389,7 +375,6 @@ Elena wanted to say yes. She wanted to promise that the death of his mother woul
 Yusuf looked at her for a long moment. "Thank you."
 
 
----
 
 The family stayed for an hour. Elena gave them the space, checking in periodically, offering coffee, tissues, whatever small comforts were available in a clinic that had just failed to save someone they loved.
 
@@ -420,7 +405,6 @@ She pocketed the phone and walked to the staff area. Her shift had ended seven h
 Someone needed to document this. Not the official version. The real one.
 
 
----
 
 She sat down at her workstation and began to gather the documentation she had created throughout the day. The photographs of the waiting room. The screenshots of error messages. The notes on each patient whose care had been affected by the system failure. Halima Hassan's case, every detail she could remember, every decision that had been made.
 
@@ -437,13 +421,12 @@ Elena decided, in that moment, that she would be that someone. Not alone - she w
 She began uploading her documentation to secure storage. The evidence was building. The story was forming. And she would make sure it was told.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The clinic was quiet now. 10:00 PM. Most of the staff had gone home, the crisis absorbed into the routines of shift change and patient transfer. Elena should have left hours ago, but she was still here, sitting at a computer in the staff area, unable to make herself leave.
 
@@ -464,7 +447,6 @@ She began to type.
 She paused. The clinical language was accurate but incomplete. It captured what had happened without explaining why.
 
 
----
 
 She continued typing.
 
@@ -487,7 +469,6 @@ She typed back: "Still here. There was a death. I'm documenting."
 "When you're ready, I'm here."
 
 
----
 
 She thought about what she was risking. Her job, possibly - the clinic's communications policy was clear about unauthorized disclosures. Her reputation in the healthcare system - the word would spread that she had talked to journalists, provided documentation, broken ranks. Her ability to work in this field at all, if the right people decided to make an example of her.
 
@@ -506,7 +487,6 @@ The family's faces. Amina's grief. Yusuf's anger, barely contained.
 Someone should be held accountable.
 
 
----
 
 At 11:15, she finished the last document. The folder contained everything she had gathered - photographs, screenshots, notes, case summaries, her own quality reports from months of trying to raise concerns through proper channels. Evidence of what the systems had done, what they had failed to do, and what it had cost.
 
@@ -525,7 +505,6 @@ She walked through the darkened clinic toward the exit. The security guard nodde
 The parking lot was cold and quiet. Her car was one of three left, sitting under the orange glow of the security lights. She unlocked it and got in, started the engine, waited for the heat to kick on.
 
 
----
 
 The drive home took fifteen minutes through quiet streets. Phoenix at midnight, the wide boulevards empty, the traffic lights cycling through their patterns for no one. She drove automatically, her body handling the familiar route while her mind stayed with the day.
 
@@ -548,7 +527,6 @@ Tomorrow she would call Jerome. Tomorrow she would share the documentation. Tomo
 Tonight, she just let herself be held.
 
 
----
 
 
 

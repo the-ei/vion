@@ -19,7 +19,6 @@ Elena was quiet for a moment. When she spoke, her voice was heavy.
 "Could you have saved her? If you'd known sooner?"
 
 
----
 
 "Maybe. Probably. That's what makes it so—" Elena's voice caught. "I've been replaying it in my head ever since. What if I'd checked on her manually? What if I'd trusted my instincts instead of the system? There were signs that something was wrong, but the AI said everything was fine, and I let myself believe it because that's what we're trained to do."
 
@@ -40,7 +39,6 @@ They sat in the silence of the phone connection, two people holding the same gri
 "Your mother deserved to be seen. All of them did. Twelve cases from my clinic alone, and those are just the ones I could document. There are hundreds more, probably. Thousands."
 
 
----
 
 After the call with Elena, Yusuf turned to social media. The story had been out for days now, and the discourse had moved on to other things—but beneath the surface, communities were forming. Other gig workers who'd experienced the crisis, other families who'd lost people, other voices that had been waiting for permission to speak.
 
@@ -63,7 +61,6 @@ The response was immediate. Sympathy, solidarity, shared rage.
 "What can we do? How do we make this matter?"
 
 
----
 
 The question—how do we make this matter—echoed through the thread and through Yusuf's thoughts. They could share stories. They could document experiences. They could bear witness. But would any of it change anything?
 
@@ -90,7 +87,6 @@ He wasn't sure that was true. His mother had been private, cautious, skeptical o
 "Probably both."
 
 
----
 
 By evening, Yusuf had exchanged messages with a dozen people. Other gig workers. Family members of crisis victims. Organizers and activists and journalists who'd heard about his story. The network was forming around him, threads connecting to threads, his mother's death becoming a node in a larger pattern.
 
@@ -111,5 +107,4 @@ He picked up the guitar. The words would come. They always did, eventually. And 
 The music was testimony. The testimony was resistance. And resistance, however small, was the only response that felt true.
 
 
----
 

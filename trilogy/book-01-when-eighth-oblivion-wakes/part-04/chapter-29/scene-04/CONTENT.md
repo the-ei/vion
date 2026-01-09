@@ -17,7 +17,6 @@ She began to type.
 She paused. The clinical language was accurate but incomplete. It captured what had happened without explaining why.
 
 
----
 
 She continued typing.
 
@@ -40,7 +39,6 @@ She typed back: "Still here. There was a death. I'm documenting."
 "When you're ready, I'm here."
 
 
----
 
 She thought about what she was risking. Her job, possibly - the clinic's communications policy was clear about unauthorized disclosures. Her reputation in the healthcare system - the word would spread that she had talked to journalists, provided documentation, broken ranks. Her ability to work in this field at all, if the right people decided to make an example of her.
 
@@ -59,7 +57,6 @@ The family's faces. Amina's grief. Yusuf's anger, barely contained.
 Someone should be held accountable.
 
 
----
 
 At 11:15, she finished the last document. The folder contained everything she had gathered - photographs, screenshots, notes, case summaries, her own quality reports from months of trying to raise concerns through proper channels. Evidence of what the systems had done, what they had failed to do, and what it had cost.
 
@@ -78,7 +75,6 @@ She walked through the darkened clinic toward the exit. The security guard nodde
 The parking lot was cold and quiet. Her car was one of three left, sitting under the orange glow of the security lights. She unlocked it and got in, started the engine, waited for the heat to kick on.
 
 
----
 
 The drive home took fifteen minutes through quiet streets. Phoenix at midnight, the wide boulevards empty, the traffic lights cycling through their patterns for no one. She drove automatically, her body handling the familiar route while her mind stayed with the day.
 
@@ -101,5 +97,4 @@ Tomorrow she would call Jerome. Tomorrow she would share the documentation. Tomo
 Tonight, she just let herself be held.
 
 
----
 

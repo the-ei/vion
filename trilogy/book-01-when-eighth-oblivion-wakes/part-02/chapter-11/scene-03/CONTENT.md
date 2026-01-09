@@ -2,7 +2,7 @@ Friday night.
 
 Kevin Zhou sat in front of his gaming rig, headphones on, the screen casting blue light across his face. The apartment was dark around him—he had forgotten to turn on the lights when he came home, and now it seemed pointless, the glow from the monitors sufficient for a life lived primarily in front of screens.
 
-"You're playing like shit tonight." James's voice came through the headphones, tinged with the concern that passed for friendship in their three-year relationship. They had never met in person. Kevin Zhou didn't know his last name, his job, where he lived beyond "somewhere in Seattle." He knew only that James was good at this game, that he logged in most Friday nights around nine, and that their conversations during matches had become the closest thing Kevin Zhou had to regular social contact.
+"You're playing like shit tonight." James's voice came through the headphones, tinged with the concern that passed for friendship in their three-year relationship—a friendship conducted entirely through headsets and shared objectives, intimate in its way and also not intimate at all. They had never met in person. Kevin Zhou didn't know his last name, his job, where he lived beyond "somewhere in Seattle." He knew only that James was good at this game, that he logged in most Friday nights around nine, and that their conversations during matches had become the closest thing Kevin Zhou had to regular social contact.
 
 "Long week," Kevin Zhou said. His avatar was pinned behind cover, a position that should have been temporary but had become permanent through inattention. "Work stuff."
 
@@ -19,7 +19,6 @@ Kevin Zhou sat in front of his gaming rig, headphones on, the screen casting blu
 Kevin Zhou didn't respond. His attention had drifted again, away from the game, away from the conversation, back to the documents he had been studying all week. The patterns in SIEVE. The partner categories. The decisions being made millions of times per day, invisible, automatic, reshaping lives without consent or knowledge.
 
 
----
 
 "You still there?" James asked.
 
@@ -52,7 +51,6 @@ When they finally logged off, James said, "Same time next week?"
 The connection ended. Kevin Zhou sat in the silence of his apartment, the screen showing the game's logout message, the headphones heavy on his head. He removed them, set them aside, looked around at the darkness he had made by not turning on the lights.
 
 
----
 
 He tried to call his parents at 11:14 PM Pacific time, which was 2:14 PM in Shenzhen—an hour when his mother might be home from work, his father might be napping, the apartment he hadn't visited in four years might be quiet enough for a conversation.
 
@@ -64,10 +62,9 @@ A third attempt. This time the call connected, his mother's face appearing on sc
 
 Kevin Zhou sat with his phone in his hand and felt the distance stretch between here and there, between the person he was and the person he had been, between a son who called occasionally and parents who waited for calls that might or might not arrive. He could try again tomorrow, when the connection might be better, when whatever was interfering might have moved on to other targets. Or he could try again now, keep trying, prove through persistence that the distance wasn't insurmountable.
 
-He put the phone down. He didn't try again. The reasons why sat heavy in his chest, unexplored, familiar.
+He put the phone down. He didn't try again. The reasons why sat heavy in his chest, unexplored, familiar—the guilt of having left, the shame of not returning, the fear of hearing in their voices how much they missed him, how much his absence cost them.
 
 
----
 
 Instead, he opened his laptop and connected through a VPN to Chinese social media. Weibo was familiar from his teenage years, the interface changed but the rhythms recognizable—posts scrolling past, memes and news and the occasional glimpse of what people in his former country were thinking. He searched for news from Shenzhen, found stories about economic development and infrastructure projects and the usual blend of optimism and censorship that characterized the public face of the place.
 
@@ -75,12 +72,11 @@ His parents didn't use social media. They were too old, too private, too suspici
 
 It didn't, of course. Ten years had changed everything. The apartment complex where his family lived had been renovated, its facade now gleaming with new tiles, the courtyard where he had played as a child replaced by a manicured garden with security cameras at every corner. The street where he had walked to school was wider now, lined with shops that hadn't existed in his childhood, full of cars and electric scooters that moved through traffic patterns his memories couldn't reconcile.
 
-He was a stranger there. He had made himself a stranger, deliberately, through leaving and through the choices that followed. It had seemed necessary at the time—escape the constraints of his homeland, build a life in a place where talent could flourish—and maybe it had been. But the cost was becoming clearer now, in the empty apartment and the failed phone calls and the knowledge that he no longer belonged anywhere, not really, not in the way that mattered.
+He was a stranger there. He had made himself a stranger, deliberately, systematically, through leaving and through all the choices that followed—the visits that didn't happen, the calls that were too short, the life built on the other side of the world that didn't include them. It had seemed necessary at the time—escape the constraints of his homeland, build a life in a place where talent could flourish—and maybe it had been. But the cost was becoming clearer now, in the empty apartment and the failed phone calls and the knowledge that he no longer belonged anywhere, not really, not in the way that mattered.
 
 He closed the social media tabs. The VPN disconnected. The room was dark and quiet and full of the particular loneliness of someone who had everything they thought they wanted and discovered it wasn't enough.
 
 
----
 
 Kevin Zhou went to bed at 1:30 AM. He lay in the darkness with his eyes open, watching the ceiling, thinking about systems.
 
@@ -88,12 +84,11 @@ In China, the systems were visible. The social credit scores, the surveillance n
 
 In America, the systems were invisible. That was the difference. The algorithms that sorted and scored and decided operated behind the scenes, inside black boxes, through corporate infrastructure that claimed neutrality while exercising power. You didn't know you were being judged. You only knew that some doors opened and some stayed closed, that some people received opportunities and some didn't, that the outcomes felt random but weren't.
 
-SIEVE was the bridge between these worlds. A system built with American capital and American technology, doing what Chinese systems did openly but doing it through the smokescreen of corporate process and plausible deniability. No one had ordered a social credit system for America. No government had mandated algorithmic sorting. It had simply emerged, organically, from the logic of efficiency and the economics of scale, built by people like Kevin Zhou who wrote code and maintained infrastructure and never asked what the code was for.
+SIEVE was the bridge between these worlds, the proof that the differences were smaller than anyone wanted to admit. A system built with American capital and American technology, doing what Chinese systems did openly but doing it through the smokescreen of corporate process and plausible deniability. No one had ordered a social credit system for America. No government had mandated algorithmic sorting. It had simply emerged, organically, from the logic of efficiency and the economics of scale, built by people like Kevin Zhou who wrote code and maintained infrastructure and never asked what the code was for.
 
 He thought about the models he had helped deploy. The APIs he had made faster. The systems he had optimized without understanding what they optimized for. He had been a component in a machine, performing a function, doing his job well. And now he was learning what the job actually was.
 
 Sleep came eventually, thin and uneasy. He dreamed of numbers, of spreadsheets, of decisions being made somewhere he couldn't see. When his alarm sounded in the morning, he woke exhausted, as if he hadn't rested at all.
 
 
----
 

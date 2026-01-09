@@ -17,7 +17,6 @@ He didn't know where this was going. He kept typing.
 "My mother is losing her memories. One by one, they fall away - names, faces, the shape of the life she lived. She remembers me sometimes and sometimes sees my father, who is dead. She lives in a house built on certainty and wakes up in a world where nothing is certain."
 
 
----
 
 "My son is building memories. New ones. Programs that learn and adapt and grow. He shows me his work and I nod and pretend to understand. He is creating the future I have spent my career trying to hold accountable."
 
@@ -40,7 +39,6 @@ The room was dark except for the laptop's glow.
 "What is the purpose of keeping records when the records don't matter?"
 
 
----
 
 He thought of his mother in the nursing home, the memories sliding away from her like water through fingers. She was losing the past. He was losing the future. They met somewhere in the middle, in this present moment that felt like the only real thing left.
 
@@ -61,5 +59,4 @@ He kept writing.
 Past midnight now. The laptop's battery warning blinked in the corner of the screen. Jerome ignored it and continued writing into the darkness, truth-telling as prayer, prayer as habit, habit as the only thing left that felt like purpose.
 
 
----
 

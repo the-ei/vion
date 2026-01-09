@@ -9,7 +9,6 @@ Vertex Analytics is owned by a holding company called Meridian Capital Partners.
 Jerome writes PROMETHEUS in red marker, circles it, draws lines outward to the entities it touches. The lines are multiplying.
 
 
----
 
 The investigation has consumed three days of his life and four hundred dollars in database subscription fees. LexisNexis for corporate records. PitchBook for venture capital data. A state business registry that charges by the search. His newsletter brings in enough to cover rent and groceries; it does not bring in enough to fund deep investigative work. He is burning savings. He tells himself it will be worth it if the story is what he thinks it is.
 
@@ -30,7 +29,6 @@ She nods. She has been married to him for nineteen years; she has seen him disap
 "I'll be there," Jerome says, and means it.
 
 
----
 
 She leaves. The coffee cools. Jerome returns to the board.
 
@@ -43,7 +41,6 @@ He has been a journalist for twenty-three years. He won a Pulitzer for his cover
 The separate stories he has been tracking - hiring algorithms that discriminate, healthcare systems that ration care by demographics, insurance models that price out the vulnerable, criminal justice tools that predict who will offend based on where they live - are not separate. They share architecture. They share funders. They share, he suspects, a common logic that is more than coincidence.
 
 
----
 
 He pulls up the corporate filings for Prometheus Systems on his laptop. The company is private, which limits what he can access, but there are glimpses in the public record - investment rounds announced in press releases, executive appointments noted in industry newsletters, patent filings that hint at the scope of their technology. Prometheus builds the foundational AI models that other companies customize for their specific applications. They are not the visible face of algorithmic decision-making; they are the invisible substrate, the operating system upon which the discrimination runs.
 
@@ -56,7 +53,6 @@ He opens his email and begins drafting a message to a congressional staffer whos
 The email takes him an hour to write. Every sentence is calibrated - professional enough to be taken seriously, specific enough to demonstrate his knowledge, careful enough to avoid burning sources he might need later.
 
 
----
 
 He sends the email at 11:47 PM on a Tuesday. The reply comes at 6:23 AM the next morning.
 
@@ -73,7 +69,6 @@ Denise brings him dinner. He eats at his desk. She does not complain, but her si
 The parent-teacher conference is tomorrow. He has marked it in three places. He will not forget.
 
 
----
 
 The night before his DC trip, Jerome sits in his office past midnight, reviewing his notes. The investigation has begun to feel less like research and more like excavation - each layer he removes reveals another layer beneath, each answer generating three new questions. He does not know where the bottom is. He is not sure there is a bottom.
 
@@ -88,5 +83,4 @@ Jerome looks at his whiteboard. The web of connections glows in the lamp light, 
 In the morning, he will take the train to Washington.
 
 
----
 

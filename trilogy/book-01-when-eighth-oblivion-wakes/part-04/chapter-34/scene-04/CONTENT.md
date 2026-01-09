@@ -18,7 +18,6 @@ It wasn't perfect. The rhymes were off in places, the melody needed polish. But 
 He set up the microphone, adjusted the levels, checked the connection to his phone's camera. He wasn't going to just record audio this time. He was going to show his face, speak directly, let people see who he was.
 
 
----
 
 The camera's red light blinked on. Yusuf looked into the lens, saw his own reflection in the dark glass—a twenty-year-old with tired eyes and stubble he'd forgotten to shave, wearing a hoodie that used to be his mother's, bought at a thrift store years ago, still carrying the faint smell of the sandalwood soap she used.
 
@@ -35,7 +34,6 @@ He paused, let the words settle.
 He picked up his guitar.
 
 
----
 
 "This is a song I've been working on. It's not finished. But I wanted to share it because—because I think maybe it says something that needs to be said. For my mom. For everyone who's been caught in these systems."
 
@@ -62,7 +60,6 @@ The song ended. Yusuf looked at the camera, at the red light still blinking, at 
 "That's it. That's what I wanted to say. If you're out there and you've experienced something like this—if the systems have failed you too—you're not alone. We're not alone. And we're not going to be quiet anymore."
 
 
----
 
 He stopped the recording. The red light went dark. The apartment returned to its midnight silence, the only sound the hum of the refrigerator and the distant traffic on the street below.
 
@@ -87,7 +84,6 @@ He looked up. She was standing there in her pajamas, her hair wrapped for the ni
 She crossed the room, sat beside him on the floor, looked at the phone in his hand. "Do it," she said. "Mom would want you to."
 
 
----
 
 "You think?"
 
@@ -114,5 +110,4 @@ But Yusuf knew, even as he said it, that something had already happened. He'd fo
 The song was testimony. The testimony was resistance. And the resistance had begun.
 
 
----
 

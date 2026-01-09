@@ -9,7 +9,6 @@ He sits. The chair is ergonomic, one concession to his body's complaints about t
 Time to begin.
 
 
----
 
 The episode he is recording concerns digital currency and financial surveillance, a topic he has been researching for three months, accumulating sources and documents and the particular weight of evidence that he once deployed in newspaper columns and now releases into the void of independent media. The argument is this: that central bank digital currencies, presented as modernization and convenience, create infrastructure for financial control that would have been unthinkable a generation ago. That the ability to track every transaction, to programmatically restrict purchasing, to make money itself contingent on behavior, represents a power that governments will eventually use regardless of their current intentions. That the history of surveillance technologies is a history of purposes creeping, boundaries eroding, exceptions becoming rules.
 
@@ -24,7 +23,6 @@ He clicks the button. The waveform appears on his screen. He begins.
 His voice finds its rhythm, the cadence he developed over twenty-five years in journalism, the measured authority of someone who has been right before and expects to be right again.
 
 
----
 
 Eight minutes in, he stumbles. The sentence that was forming in his mind dissolves before he can speak it, the argument's thread slipping away from him, and he is left with silence, with the waveform frozen, with the particular humiliation of forgetting what he knows.
 
@@ -43,7 +41,6 @@ Independence, they call it. Freedom.
 Some days he believes the words.
 
 
----
 
 He restarts. The second take is cleaner, the argument flowing now that the blockage has been cleared, and he finds the thread he lost, follows it through central bank digital currencies to social credit systems to the convergence of financial and behavioral surveillance that is happening already, invisibly, in the recommendation engines and credit scoring algorithms that shape what people can buy, can rent, can become.
 
@@ -60,7 +57,6 @@ He pauses at a photograph of his parents, taken at his college graduation. His f
 The coffee maker awaits.
 
 
----
 
 In the kitchen he brews the coffee strong, the way his father made it, the way his mother taught him, and stands at the window watching the backyard emerge into October light. The trees are turning, the maples that have shaded this property since before Jerome and Denise bought it, the leaves going red and gold in the particular way that Baltimore autumns produce, the color he knows will be gone in weeks, replaced by bare branches and the long approach to winter.
 
@@ -77,5 +73,4 @@ He refills his coffee and returns to the studio.
 The editing begins.
 
 
----
 

@@ -25,7 +25,6 @@ The defibrillator whined its buildup. Elena cleared, the shock delivered, Halima
 The monitor showed the same chaos. Nothing had changed.
 
 
----
 
 "Push amiodarone. Continue compressions."
 
@@ -52,7 +51,6 @@ She walked toward the doorway, toward the waiting room where Amina was sitting w
 Too late. Twelve hours too late.
 
 
----
 
 Amina was in the corner of the waiting room, sitting beside a young man who looked too stunned to speak. A brother, maybe, or a nephew. Someone who had gotten the call that something was wrong and had come, and now sat in the plastic chair waiting for news that had already been decided.
 
@@ -77,7 +75,6 @@ Elena said nothing. There was nothing to say that would be adequate. Someone sho
 "Would you like to see her?" Elena asked. "To say goodbye?"
 
 
----
 
 Amina nodded, tears streaming down her face. Elena led them back to Treatment Room 2, where Halima had been arranged peacefully, her hands folded, her face cleaned of the traces of the emergency.
 
@@ -102,7 +99,6 @@ Elena wanted to say yes. She wanted to promise that the death of his mother woul
 Yusuf looked at her for a long moment. "Thank you."
 
 
----
 
 The family stayed for an hour. Elena gave them the space, checking in periodically, offering coffee, tissues, whatever small comforts were available in a clinic that had just failed to save someone they loved.
 
@@ -133,7 +129,6 @@ She pocketed the phone and walked to the staff area. Her shift had ended seven h
 Someone needed to document this. Not the official version. The real one.
 
 
----
 
 She sat down at her workstation and began to gather the documentation she had created throughout the day. The photographs of the waiting room. The screenshots of error messages. The notes on each patient whose care had been affected by the system failure. Halima Hassan's case, every detail she could remember, every decision that had been made.
 
@@ -150,5 +145,4 @@ Elena decided, in that moment, that she would be that someone. Not alone - she w
 She began uploading her documentation to secure storage. The evidence was building. The story was forming. And she would make sure it was told.
 
 
----
 

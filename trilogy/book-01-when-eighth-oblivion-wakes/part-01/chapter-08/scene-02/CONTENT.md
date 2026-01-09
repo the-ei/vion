@@ -1,4 +1,4 @@
-Jessie was on the couch when Delphine got home, her laptop open but ignored, her face carrying the particular tiredness of difficult news. Theo was already in bed - Abuela Rosa had handled dinner and bedtime, the schedule they relied on when both parents worked late.
+Jessie was on the couch when Delphine got home, her laptop open but ignored, her face carrying the particular exhaustion of difficult news. Theo was already in bed - Abuela Rosa had handled dinner and bedtime, the schedule they relied on when both parents worked late.
 
 "They renewed us," Jessie said. "Season three."
 
@@ -17,7 +17,6 @@ Delphine sat beside her, close enough for shoulders to touch. The living room he
 "It means I stay on, do another year of something I'm increasingly not proud of, collect a paycheck that matters for our life. Or I leave, on principle, and watch someone else finish what I started." Jessie laughed, but the laugh held no amusement. "We tell ourselves stories about what we're making. I don't know if the stories help or hurt."
 
 
----
 
 Delphine knew what she meant. They had talked about this before, circling the same terrain from different angles - Jessie's scripts reshaped by network notes, Delphine's content refined for clients who wanted persuasion disguised as empowerment. They were both skilled at work they did not entirely believe in. The skill was the problem, in a way. It made the work possible.
 
@@ -42,7 +41,6 @@ Delphine tried to articulate what she had read that evening, the gap between the
 "I'm making a story about a mirror. The system is something else."
 
 
----
 
 They talked until midnight, the conversation wandering from work to larger questions and back again. Jessie opened a bottle of wine and they shared it slowly, the ritual of the evening drink creating a container for thoughts that were difficult to hold.
 
@@ -61,7 +59,6 @@ The list unspooled, each item true and insufficient. They had built a life that 
 They went to bed without resolution. The questions were too large for a Tuesday night, too entangled with the structures of their life to be unwound by conversation alone. They would go to work tomorrow, both of them, and do the jobs they were paid to do. The questions would remain, neither answered nor forgotten.
 
 
----
 
 The following week, Theo started preschool full-time. The transition had been gradual - half days building to whole days - but the shift to full-time created a new architecture in their home. The house was empty for longer stretches. The rhythms changed.
 
@@ -80,7 +77,6 @@ Theo considered this with the seriousness the question deserved. "A little bit. 
 She drove home with the caterpillar story as companionship, the small ordinary miracle of her son's growing up. He would need her less and less. This was the project of childhood: to become sufficient unto yourself. She would do the work of letting go, stage by stage, because this was what parents did.
 
 
----
 
 That evening, the three of them ate dinner together - Jessie home early for once, a vegetable curry Delphine had made the night before. Theo sat in his chair with the elevated seat, his feet swinging, his fork held in the peculiar grip of children learning fine motor control. He talked about Benjamin and the caterpillar and a disagreement about blocks that had required teacher intervention.
 
@@ -105,5 +101,4 @@ After dinner, they watched an episode of Theo's current favorite show - a gentle
 She read the pages aloud, her voice finding the rhythm that soothed him. This was the anchor, she thought. Whatever else her work meant, whatever compromises it required, this moment was real and uncompromised. A mother reading to her son, the oldest story there was.
 
 
----
 

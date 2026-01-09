@@ -23,7 +23,6 @@ Jerome felt the familiar vertigo of realizing his son inhabited an information e
 The words landed harder than DeShawn probably intended. Or maybe exactly as hard as he intended. At seventeen, his son had developed a precision of cruelty that Jerome recognized from his own adolescence—the age when you learned that words were weapons and you hadn't yet learned the cost of using them.
 
 
----
 
 "It's complicated."
 
@@ -48,7 +47,6 @@ The sarcasm was a mistake. Jerome knew it as soon as the words left his mouth. B
 "I've built something independent. Readers. Sources. That's not nothing."
 
 
----
 
 "Your subscriber base is smaller than the audience of a mid-tier gaming streamer. You know that, right?"
 
@@ -67,7 +65,6 @@ Jerome felt something tighten in his chest. The worst part was that DeShawn wasn
 "And I've spent seventeen years watching those stories not matter."
 
 
----
 
 They stood there, father and son, the kitchen between them feeling suddenly larger than it was. The afternoon light had shifted, the shadows lengthening in that accelerated way December demanded. Somewhere in the house, a pipe made its settling sound, the building's private language of expansion and contraction.
 
@@ -86,7 +83,6 @@ Jerome opened his mouth to answer. Found nothing.
 The sound of the front door: Denise, home from school, her keys hitting the bowl in the entryway.
 
 
----
 
 "Boys." Her voice carried that particular frequency that meant she could sense the atmospheric pressure. She appeared in the kitchen doorway, still in her coat, snow melting in her graying hair. "What's happening?"
 
@@ -115,7 +111,6 @@ Denise looked at him, the water bottle in her hand, her face carrying the partic
 The offer was there. The challenge was still echoing. And somewhere upstairs, his son was probably already posting about the conversation on whatever platform Jerome didn't understand.
 
 
----
 
 He stood alone in the kitchen after Denise went upstairs to change. The Thai food still sat in the refrigerator, untouched. The light continued its slow retreat from the windows. And Jerome found himself doing what he always did when the world tilted: he thought about the work.
 
@@ -134,5 +129,4 @@ Jerome looked at the message for a long time. His son's voice was still in his h
 He didn't have an answer. But he knew he had to find one. And he knew that whatever he decided, the conversation with DeShawn would stay with him—not as wound, but as weight. The weight of a question he couldn't dismiss.
 
 
----
 

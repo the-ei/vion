@@ -13,7 +13,6 @@ History: no prior cardiac events (weighted -0.2), first-time presentation (weigh
 And then the other factors. The ones that have nothing to do with medicine.
 
 
----
 
 Insurance status: uninsured (weighted -0.8).
 
@@ -32,7 +31,6 @@ The system looked at Roberto Delgado-Fuentes and saw a man who would be expensiv
 He died in the waiting room while patients with sprained ankles and prescription refills were seen ahead of him because the system decided they were worth more.
 
 
----
 
 Elena opens another file. A patient she saw the same day as Roberto - a woman named Sandra Whitmore, 48, who presented with ankle pain after a minor fall. Sandra's symptom score was 0.4. Her demographic score was +0.9: insured through her employer, professional occupation, zip code associated with "high engagement," regular annual visits for preventive care.
 
@@ -51,7 +49,6 @@ The system calls this efficiency. The system calls this optimization. The system
 Elena sits alone at her kitchen table and watches the evidence accumulate on her screen. She does not know what to do with it. She only knows that she cannot unknow what she has learned.
 
 
----
 
 She takes screenshots. She exports the files to her personal email, knowing this violates policies she agreed to follow, knowing that what she is doing could end her career if discovered. The data transfers in the quiet of the house, packets of information flowing through networks that connect her kitchen in Phoenix to servers she will never see, evidence of harm accumulating in her private folder.
 
@@ -66,7 +63,6 @@ Elena closes the tablet. The kitchen is dark except for the light above the tabl
 There is no going back now.
 
 
----
 
 She thinks about Halima Hassan, the Somali woman who flies from Minneapolis every few months to see her. Halima trusts Elena. Halima believes that the clinic sees her as a person, not a category. What would Halima's priority score be, if she came to the clinic with chest pain? Uninsured, irregular employment history, address in a zip code Elena has never researched but suspects would flag as problematic. Would Halima wait two hours while the system calculated her expendability?
 
@@ -81,7 +77,6 @@ The clock shows 1:23 AM. She should sleep. She has patients tomorrow, the endles
 But sleep will not come. Not tonight. Not with what she knows.
 
 
----
 
 She picks up her phone. The impulse is sudden, unplanned - she does not know what she is going to do until she is already doing it.
 
@@ -102,5 +97,4 @@ She has found someone who might understand. Someone who might be able to do some
 The question is whether she has the courage to reach out.
 
 
----
 

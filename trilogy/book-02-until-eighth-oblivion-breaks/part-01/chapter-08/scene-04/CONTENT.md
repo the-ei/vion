@@ -15,7 +15,6 @@ She called him instead of texting back. The phone rang twice before he answered,
 "I'm sorry." He meant it, the way he always meant the things he said. Daniel was not eloquent, but he was honest. It was one of the things she had fallen in love with, years ago, before exhaustion became the default state of their marriage.
 
 
----
 
 "I've been thinking," Daniel said. "About us. About how we've been."
 
@@ -34,7 +33,6 @@ Daniel was quiet for a long moment. "I wondered. You seem different when you com
 "I know. I'm sorry. I didn't know how to tell you."
 
 
----
 
 "I've been wondering if we should try therapy," Daniel said. "Couples therapy, I mean. Someone to help us figure out how to be us again."
 
@@ -53,7 +51,6 @@ The conversation shifted after that, became less charged, more tender. They talk
 "I love you too. Come home safe."
 
 
----
 
 She sat in the break room for a few minutes after the call ended, letting the conversation settle. Something had shifted - not dramatically, not in a way that anyone else would notice, but she could feel it. A door that had been closing was now open again, just enough to let light through.
 
@@ -66,5 +63,4 @@ She stood up, refilled her coffee, returned to the floor. The shift continued ar
 The anniversary clock on the wall clicked past one a.m. Five more hours until dawn.
 
 
----
 

@@ -15,7 +15,6 @@ Jerome turned the heat down on the stove and faced his wife. The late afternoon 
 "I told her we don't know the future. I told her to focus on what she can control. I told her the things you're supposed to tell a scared teenager."
 
 
----
 
 "But you're not sure you believe them."
 
@@ -34,7 +33,6 @@ The words hung in the air between them, carrying weight that neither could fully
 DeShawn's footsteps sounded on the stairs, descending from his room where he had been since school let out, doing whatever he did in that space that Jerome no longer understood. The sound interrupted the conversation without concluding it, introducing a new presence that would reshape the dynamic of the evening.
 
 
----
 
 DeShawn entered the kitchen with his phone in hand, attention split between the screen and the physical space. At seventeen he had mastered the contemporary skill of being multiple places at once, his body in one location while his consciousness flowed through networks that Jerome could describe but not fully comprehend.
 
@@ -65,7 +63,6 @@ DeShawn sighed with the performative exhaustion of a teenager being asked to par
 "You wouldn't understand if I explained it."
 
 
----
 
 The dismissal was not unfriendly, just matter-of-fact, and Jerome knew his son was probably right. DeShawn's technical knowledge had surpassed his own years ago. The language DeShawn spoke when talking about his projects was intelligible to Jerome only in fragments, like hearing a conversation in a foreign tongue and catching occasional cognates.
 
@@ -84,7 +81,6 @@ Jerome processed the words, understood perhaps half of them, and nodded. "That s
 Denise was watching this exchange with the particular attention she brought to moments when their son engaged rather than withdrew. Jerome felt her eyes on him, felt the pressure to say something that would bridge rather than divide.
 
 
----
 
 "You should," Jerome said. "If you can build better tools, you should. I just want you to understand what you're building, who might use it, what the consequences might be. That's all. That's all I've ever wanted."
 
@@ -107,7 +103,6 @@ DeShawn was quiet for a moment, processing this unexpected concession. "Then why
 "Because the future isn't written yet. Because what we do now might matter. Because I'd rather be wrong about the danger than wrong about whether it was worth trying to prevent."
 
 
----
 
 Dinner was quieter than the conversation that preceded it. They ate the stir-fry, the vegetables slightly overdone from sitting too long while they talked. Denise told stories about her other students, the ones who were not having panic attacks, the ones who were continuing to learn history as if history would continue to be made by humans. DeShawn contributed occasionally, describing a project presentation that had gone well, a teacher who actually understood what he was building.
 
@@ -126,7 +121,6 @@ After dinner, DeShawn retreated back to his room, his phone reappearing in his h
 "Maybe. Or maybe he understands them differently than you do. Maybe his generation will have to, because they're the ones who are going to live with whatever we build."
 
 
----
 
 Jerome thought about Kayla Thompson, the girl who had asked Denise if the world was going to end. He thought about his son upstairs, writing code to protect people from threats that did not yet exist. He thought about the gap between his work of warning and the work of living, the way his family navigated both.
 
@@ -147,5 +141,4 @@ The kitchen was clean now, the evening stretching ahead of them with its usual m
 He kissed her, a brief touch that carried more than it could say, and then he walked through the quiet house toward the room where his work waited. The ring light was off. The camera was covered. He was no longer performing for anyone. He was just a man with a computer, trying to understand something larger than himself, trying to find words that might matter to someone somewhere.
 
 
----
 

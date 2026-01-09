@@ -9,7 +9,6 @@ Jessie was on the patio when Delphine came through the house, a glass of white w
 "I don't know what kind of day it was." Delphine dropped into the chair beside her wife, close enough to touch but not quite touching. "The best day ever, by our company's metrics. By my metrics, I'm not sure."
 
 
----
 
 Jessie waited. She had this quality that Delphine had loved from the beginning: a willingness to hold space without filling it, to let silence do its work. After a moment, Delphine began to talk.
 
@@ -26,7 +25,6 @@ Jessie listened with the attention of someone who understood narrative, who had 
 Delphine winced. "Yes."
 
 
----
 
 Jessie set down her wine glass with the careful precision of someone thinking through something difficult. "Here's what I want to know. What's the ending?"
 
@@ -43,7 +41,6 @@ Delphine thought about the viral numbers, still climbing as they sat here. She t
 "I want clarity," she said finally. "I want people to understand what's happening instead of just reacting to it. I want the conversation to matter."
 
 
----
 
 "Then make that happen."
 
@@ -62,7 +59,6 @@ Delphine felt something shift in her chest, a loosening she hadn't realized she 
 "Maybe. Probably. I know the mechanics well enough." She paused, seeing the problem clearly for the first time. "But counter-content will also go viral. It will also be absorbed into the machine. It might become part of the problem even while trying to be the solution."
 
 
----
 
 "Maybe," Jessie said. "But doing nothing is also a choice. And you're not the kind of person who can do nothing once you see what's happening."
 
@@ -79,5 +75,4 @@ Delphine thought about what she would create. Not a story about the story, but a
 Doing nothing was also a choice. And she couldn't choose that.
 
 
----
 

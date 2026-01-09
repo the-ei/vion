@@ -23,7 +23,6 @@ Not trending exactly, but present—woven into threads about the story, Jerome's
 Elena Varga, nurse practitioner at a Phoenix community health center, documented twelve cases of AI healthcare failure in the weeks following the crisis—
 
 
----
 
 She scrolled through the coverage. Jerome's piece was being discussed, debated, torn apart and reassembled in real time. And her documentation—the careful files she'd compiled, the patient outcomes, the clinical details—had become evidence. Proof. Her words were being quoted, her name attached to claims she hadn't made in exactly those terms.
 
@@ -52,7 +51,6 @@ Mateo's voice from down the hall: "Mama?"
 Three years old, the internal clock that woke him at six regardless of what the world was doing outside.
 
 
----
 
 "I'll get him," Daniel said. "You—take a minute."
 
@@ -79,7 +77,6 @@ Sofia's voice joined Mateo's in the hallway—six years old and full of question
 The wall between private and public had dissolved while she slept. Her children would have to navigate this too.
 
 
----
 
 Elena got up, got dressed, moved through the morning routine with the mechanical competence of someone whose mind was elsewhere. She helped Sofia with her breakfast while Daniel handled Mateo. Rosa, her grandmother, appeared in the kitchen doorway, already aware somehow that something had changed.
 
@@ -108,7 +105,6 @@ Daniel's face showed the fear he was trying to hide. "Do you want me to come wit
 She kissed Sofia and Mateo, hugged Abuela, accepted Daniel's embrace that lasted a beat longer than usual.
 
 
----
 
 The drive to the clinic felt different. The roads were the same, the morning traffic the familiar chaos of Phoenix's sprawl, but Elena found herself looking at everything as if through glass. She was the same person who had driven this route hundreds of times. She was also, now, a name that strangers discussed.
 
@@ -129,7 +125,6 @@ Miguel found her before she reached Dr. Okonkwo's office. "Hey." His voice was l
 "Great."
 
 
----
 
 "I wanted you to know—I think you did the right thing. Whatever Patricia says, whatever happens, I think you did the right thing."
 
@@ -158,5 +153,4 @@ Elena sat. The office was the same as always: the diplomas on the wall, the fami
 The conversation had begun. The consequences were arriving. And Elena, sitting in that office, felt both the weight of what was coming and the strange clarity of having already made her choice.
 
 
----
 

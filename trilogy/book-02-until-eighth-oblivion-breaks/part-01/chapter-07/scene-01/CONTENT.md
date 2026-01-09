@@ -11,7 +11,6 @@ The name pulled Ruth out of the papers immediately. Elena Park had been one of h
 "I'm..." A pause. "I need to talk to you about something, Judge. Something sensitive. Can you speak freely?"
 
 
----
 
 Ruth set down her pen. The room seemed to contract around her, the afternoon suddenly charged with a different quality of attention. She knew this feeling - had experienced it on the bench when a case shifted from routine to significant, when testimony revealed something the lawyers had not anticipated.
 
@@ -28,7 +27,6 @@ And then nothing had happened.
 "That's what I need to tell you." Another pause, longer this time. "It's not ongoing. Not really. It's being... managed. Redirected. The files get moved between departments. Lead attorneys get reassigned. New complications emerge that require additional review. It looks like process, but it's not. It's designed to produce the appearance of investigation without the substance."
 
 
----
 
 Ruth's legal mind immediately began cataloging questions. Who was directing this? At what level? What documentation existed? But she knew Elena well enough to understand that this call itself was a risk, that direct questions might push her former clerk into territory she was not prepared to enter.
 
@@ -45,7 +43,6 @@ But this. This was not bureaucratic slowness. This was not the ordinary friction
 "I'm not calling you to become a source for someone's story, Judge. I'm calling you because I thought you deserved to know."
 
 
----
 
 They talked for another twenty minutes. Elena could not provide documents - would not, and Ruth understood without asking. But she described what she had seen: the way investigation files developed technical problems that required transfers between divisions, the reassignment of attorneys who got too close to something, the endless requests for additional information that produced delay without progress. A pattern that emerged only when you stood back far enough to see it, that looked like competence in motion from inside but revealed itself as choreographed inaction from without.
 
@@ -60,5 +57,4 @@ She picked up her pen, looked at the student paper in front of her. The words bl
 Something had changed, and she could not pretend it had not.
 
 
----
 

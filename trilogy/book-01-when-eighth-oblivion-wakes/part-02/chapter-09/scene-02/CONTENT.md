@@ -9,7 +9,6 @@ The kitchen was warm, steam rising from the pot on the stove, the small table al
 DeShawn sighed the sigh of generations of teenagers and placed the phone face-down on the table. He was seventeen now, broad-shouldered like his father had been, with Denise's precise features and her mother's high cheekbones. He was beautiful, Jerome thought, watching his son reach for the parmesan with those long fingers that had been so small once. Beautiful and becoming a stranger, day by day, in the way sons became strangers to their fathers—not through conflict but through the simple accumulation of separate lives.
 
 
----
 
 "How was school?" Jerome asked, the question automatic, the answer already known: fine.
 
@@ -30,7 +29,6 @@ He took a bite of pasta instead. "Your mom's a good cook."
 "She's right here," Denise said. "And she knows."
 
 
----
 
 The meal continued in the rhythm of their household. Denise talked about her day—a student who'd finally engaged with the material, an administrator who'd questioned her curriculum, the small victories and frustrations that composed a life spent teaching. DeShawn mentioned that his college counselor wanted to meet next week, that he was thinking about early applications to Carnegie Mellon and MIT. Jerome nodded and asked questions and tried to be present, but his mind kept returning to the documents, to the architecture of Sieve, to the shape he was beginning to see.
 
@@ -53,7 +51,6 @@ DeShawn looked between them, sensing the current beneath the words, and reached 
 He did, disappearing upstairs with the speed of someone escaping a conversation that belonged to adults, to history, to the long strange negotiation of his parents' marriage.
 
 
----
 
 They washed dishes together, a ritual that had survived the years when they could afford a dishwasher and the years when they couldn't. Denise washed, Jerome dried. The window above the sink was a black mirror now, reflecting their movements back at them.
 
@@ -86,7 +83,6 @@ He didn't have an answer. He couldn't have an answer, not yet. "I don't know."
 She kissed his cheek—perfunctory, habitual, the kiss of a woman conserving her energy for battles she knew were coming—dried her hands, and went to grade papers. Jerome stood alone in the kitchen, the sink empty, the counter clean, the question suspended in the air like something he could almost see.
 
 
----
 
 Later, the house settled into its evening rhythms. Denise at the dining room table, laptop open, a stack of essays beside her that would take hours to grade. DeShawn in his room, the faint sound of his keyboard clicking through the floor, building his tutoring app on the infrastructure of something Jerome was beginning to suspect. The television stayed off—Denise's rule, maintained for seventeen years—and the silence was the particular silence of people working in parallel, together and apart.
 
@@ -101,5 +97,4 @@ He opened the source's files again. The first document, the organizational chart
 The cursor blinked. Outside, the February night pressed against the windows, cold and patient as death. Jerome began to read.
 
 
----
 

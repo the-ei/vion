@@ -19,7 +19,6 @@ Jerome leaned back in his chair. "Congratulations. I think."
 "I thought you might be interested in being connected. Not as a participant - Ruth understands the journalist's need for independence. But as someone who can benefit from what we're watching."
 
 
----
 
 Jerome considered. He had sources in tech companies, in regulatory agencies, in the network of researchers and critics who followed these issues. Adding Ruth's group would give him a different kind of intelligence - the synthesized view of insiders who were deliberately stepping outside.
 
@@ -44,7 +43,6 @@ Jerome thought about the numbers, the discourse, the hollow feeling of attention
 "Hold onto that." Ananya's voice had shifted again, some private knowledge beneath the words. "The work requires more than we realize. Having someone who understands makes it possible."
 
 
----
 
 After the call, Jerome sat in the quiet. The house hummed around him - the refrigerator, the heating system, all the infrastructure of ordinary domestic life. Through the window, the street was dark, a few lights in neighbors' windows.
 
@@ -61,7 +59,6 @@ Ruth's group would be watching too, from their insider position. Ananya would be
 This was the story that never ended. The Eighth Oblivion - whatever it actually named - was still approaching. The preview had passed, but the main event was still somewhere in the future. And Jerome would be there when it arrived, doing what he did: asking questions, connecting dots, telling stories that might not change the world but might help someone understand it.
 
 
----
 
 He began to outline. The developments he'd been tracking - the regulatory responses, the corporate restructuring, the technical pivots that might or might not address the underlying problems. The new AI systems being announced, marketed with promises of safety and alignment that he had no reason to trust. The consolidation of power among the companies that had weathered the crisis, the startups trying to find space in the new landscape.
 
@@ -74,7 +71,6 @@ You try anyway. You build things that might fail. You write pieces that might no
 Jerome saved the document. Saved the outline. Tomorrow he would start writing in earnest. Tonight he would sit with the feeling of purpose renewed.
 
 
----
 
 Footsteps on the stairs. Denise appeared in the doorway, her book in hand.
 
@@ -101,5 +97,4 @@ The Eighth Oblivion was still out there, still approaching, still unnamed and un
 He climbed the stairs toward sleep, toward morning, toward the work that waited.
 
 
----
 

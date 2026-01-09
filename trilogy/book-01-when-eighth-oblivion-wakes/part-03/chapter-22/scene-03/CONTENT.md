@@ -11,7 +11,6 @@ Denise was in the living room, grading papers. She taught AP History at a high s
 "Yes."
 
 
----
 
 She set down her red pen and folded her hands in her lap, a gesture he recognized as preparation for something difficult. He had seen it before major decisions, before hard conversations, before the moments in their marriage that required more than casual exchange.
 
@@ -28,7 +27,6 @@ The question landed like a physical blow. He started to respond, some reflex def
 "I'm not asking as an ultimatum. I'm asking because I need to understand. You've been disappearing, Jerome. Not just physically, although yes, the late nights, the trips, the hours in your office with the door closed. But mentally, emotionally. You look through me now instead of at me. When we talk, I can see you're somewhere else. This story, whatever it is, has taken you somewhere I can't follow."
 
 
----
 
 He wanted to argue, to defend himself, but the words died in his throat. She was right. He had been disappearing. The investigation had become a kind of obsession, consuming attention that should have gone to her, to DeShawn, to the ordinary maintenance of a shared life.
 
@@ -41,7 +39,6 @@ So he told her. He described the overlay, the correspondence between the video's
 She listened with the attention she brought to her best students, the kind of listening that made people feel genuinely heard. She was a history teacher, and she understood systems, understood how societies failed. Nothing he said surprised her, which was somehow worse than if she had been shocked.
 
 
----
 
 "So you believe it," she said, when he finished. "You believe something catastrophic is coming, and the wealthy are preparing for it while everyone else goes on with their lives."
 
@@ -58,7 +55,6 @@ She was quiet for a long moment, her gaze turned inward. The grading forgotten, 
 "It's the truth, Denise. Don't I have a responsibility to tell it?"
 
 
----
 
 She stood up abruptly, walked to the window, looked out at the streetlit darkness of their neighborhood. When she spoke, her voice was softer, but the words carried weight.
 
@@ -73,5 +69,4 @@ He wanted to argue, but something in her words found purchase. The possibility h
 They didn't resolve anything that night. But they sat together until late, talking and not talking, the conversation opening space for what neither of them could name.
 
 
----
 

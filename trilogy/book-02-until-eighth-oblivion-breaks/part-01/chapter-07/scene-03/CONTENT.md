@@ -9,7 +9,6 @@ The receptionist fit her in that afternoon. Dr. Torres was a kind man, thorough,
 "Let's get an ECG," he said. "Probably nothing serious, but let's make sure."
 
 
----
 
 The ECG room was small, clinical, equipped with technology that reduced her body to a series of electrical signals. Ruth lay on the table while a technician attached electrodes to her chest, her wrists, her ankles. The machine hummed and clicked, recording the rhythm of her heart, producing a paper tape that meant nothing to her but would tell Dr. Torres what he needed to know.
 
@@ -20,7 +19,6 @@ After the ECG, blood work. A nurse with gentle hands and a calming voice, the pa
 Then waiting. A different room, magazines she did not read, time moving slowly. Other patients passed through - an elderly man with a walker, a young woman with a child on her hip, the ordinary flow of people seeking care. Ruth watched them without seeing them, her attention turned inward, focused on the body she had always taken for granted.
 
 
----
 
 Dr. Torres called her back into his office forty-five minutes later. The ECG printout was on his desk, covered with his annotations. His face was carefully neutral, the professional composure of someone who delivered difficult news regularly but never casually.
 
@@ -39,7 +37,6 @@ Ruth almost laughed. Reduce her stress. After what she had learned. After what s
 The mention of Susan hit harder than the diagnosis. Ruth nodded, unable to speak.
 
 
----
 
 She sat in her car in the medical center parking lot for a long time, the engine off, the spring afternoon beautiful around her. Other patients came and went, their own stories invisible behind their faces. A woman pushed an elderly man in a wheelchair toward a waiting van. A young couple walked hand in hand toward the entrance, their anxiety evident in their posture.
 
@@ -54,5 +51,4 @@ She started the car and drove home, the cardiologist referral in her purse, the 
 Today she would sit with the knowledge that her time was finite, and decide what to do with what remained.
 
 
----
 

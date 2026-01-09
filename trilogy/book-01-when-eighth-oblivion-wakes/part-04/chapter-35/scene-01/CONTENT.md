@@ -13,7 +13,6 @@ Ananya considered the question. How was she? Unemployed, effectively. Under thre
 "I'm okay," she typed back. "Better than I thought I'd be."
 
 
----
 
 Priya's response was immediate: "I'm proud of you. I know I keep saying that, but I mean it."
 
@@ -32,7 +31,6 @@ The character assassination was textbook. She'd studied enough corporate crisis 
 But the evidence remained. Jerome's story, now spread across multiple platforms, was still circulating. The congressional hearing was scheduled for January. And regulators, slower than journalists but potentially more consequential, were beginning their own investigations.
 
 
----
 
 A message from Jerome arrived mid-morning: "Seeing the Prometheus statement. It's ugly but predictable. How are you holding up?"
 
@@ -49,7 +47,6 @@ The afternoon passed in the strange rhythm of forced idleness. She reviewed the 
 Around three o'clock, she forced herself to leave the apartment. The San Francisco streets were crowded with the usual mix of tech workers and tourists, the city going about its business without regard to her particular crisis.
 
 
----
 
 She walked to the waterfront, found a bench facing the bay, and sat with the wind against her face. The bridge was visible in the distance, its red towers cutting through the afternoon haze. She'd crossed that bridge countless times in her years in San Francisco, commuting to offices in the East Bay, visiting Vikram before the divorce, taking Priya to see friends. The bridge had been part of the geography of her life, unremarkable in its constancy.
 
@@ -66,7 +63,6 @@ Ananya read the message twice. The connection she'd formed with Elena—a nurse 
 We need both. The phrase resonated. They needed each other.
 
 
----
 
 By evening, Ananya had returned to her apartment and made a decision. She would go to Boston for Christmas. She would see Priya, spend time with her daughter, remember that her life was more than the story that was consuming it. The hearing would come in January, the consequences would unfold, the future would reveal itself. But for now, she could step back, breathe, be a mother instead of a whistleblower.
 
@@ -85,5 +81,4 @@ The evidence was out. The testimony was coming. And whatever happened next, Anan
 That would have to be enough.
 
 
----
 

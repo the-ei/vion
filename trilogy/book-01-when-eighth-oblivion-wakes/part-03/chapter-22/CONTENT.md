@@ -7,7 +7,6 @@ Today was different. Today he would attempt the synthesis.
 He called it "the overlay" in his notes. The idea had come to him three nights ago, in that liminal space between sleeping and waking when the mind makes connections the conscious brain would reject. What if he mapped the video's predictions directly onto his financial data? What if he treated the anonymous video not as conspiracy theory but as hypothesis, and tested it against observable reality?
 
 
----
 
 The video made specific claims. Jerome opened his physical notebook, pages filled with transcription and analysis, and began listing them on a fresh sheet of butcher paper:
 
@@ -24,7 +23,6 @@ Private security. His data showed a 340% increase in investment over the past tw
 Remote infrastructure. Again the correspondence was exact. Land purchases in Montana, Wyoming, New Zealand. Data center construction in Iceland and Singapore. Water rights acquisition across the American Southwest. The pattern suggested a specific geography of survival, a map of where the wealthy expected to ride out whatever was coming.
 
 
----
 
 Autonomous systems. Here the data became overwhelming. Every major technology company was pouring resources into AI development, into robotics, into systems that could operate without human intervention. Jerome's tracking showed not just research investment but infrastructure preparation: server farms, power contracts, redundant connectivity. The companies were building systems designed to survive disruptions that would cripple human-dependent operations.
 
@@ -33,7 +31,6 @@ Longevity research. The most disturbing correspondence. The video had predicted 
 By noon, the overlay was complete. Jerome stood back from his wall of evidence and felt something shift in his chest, a physical sensation of recognition and dread combined. The video's predictions and his financial data did not merely correlate. They corresponded. Point by point, sector by sector, timeline by timeline. Either the video's creators had access to the same data he did, or they knew something more fundamental about what was coming.
 
 
----
 
 He ate lunch standing up, a sandwich from the refrigerator that Denise had made before leaving for work. Ham and swiss on rye, the bread slightly stale. He barely tasted it. His mind was still moving through the implications, testing them from different angles.
 
@@ -46,7 +43,6 @@ He had flagged the company early in his investigation: a quantum computing firm 
 Jerome circled the name on his chart, then drew lines to every connection he could find. By mid-afternoon, the circle had become a web. Prometheus touched every sector the video had predicted. Security, infrastructure, autonomy, longevity. All of it.
 
 
----
 
 He sat down in his chair, finally, and stared at what he had made. The walls of his office had become a diagram of catastrophe. Not predicted catastrophe, not feared catastrophe, but positioned-for catastrophe. The wealthy were not panicking. They were not fleeing. They were investing. Rationally, systematically, with the patient precision of people who believed they knew what was coming and intended to survive it.
 
@@ -59,13 +55,12 @@ He pulled up his encrypted email client. He had sent queries to a dozen potentia
 The question was whether they would find him in time.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The restaurant was the kind of place where meals cost more than some people's rent. White tablecloths, heavy silverware, the muted acoustics of money insulating conversation from conversation. Jerome had chosen it because David Okonkwo would expect this setting, and because its anonymity depended on a kind of mutual discretion: everyone here had something they preferred not to discuss in public. The other diners in their dark suits and designer dresses were the scenery of power, Washington's administrative class at rest, and Jerome felt conspicuously out of place even in his best blazer.
 
@@ -76,7 +71,6 @@ David arrived precisely on time, which was itself a message. He wore the uniform
 "Sleep is for people who don't know what I know."
 
 
----
 
 David's expression flickered, something between amusement and concern. He picked up the menu and studied it with what seemed like genuine attention, though Jerome suspected he already knew what he would order. The waiter appeared, took their requests, disappeared into the choreographed efficiency of high-end service.
 
@@ -95,7 +89,6 @@ Jerome felt his heartbeat accelerate, that familiar journalistic rush of approac
 David smiled, and there was something almost apologetic in the expression. "We're hedged, Jerome. We've been hedged for eighteen months."
 
 
----
 
 The food arrived: salmon for David, a steak for Jerome that he knew he wouldn't be able to eat. The waiter performed his choreography of plates and garnishes and offers of fresh pepper. When he was gone, Jerome leaned forward.
 
@@ -112,7 +105,6 @@ Jerome thought about his wall of evidence, all those charts and connections that
 "Of course they do." David's voice was patient, almost gentle. "That's the whole point."
 
 
----
 
 Jerome set down his fork. The steak sat untouched on his plate, expensive protein growing cold. "You're telling me the wealthy are positioning for catastrophe because they believe catastrophe is coming."
 
@@ -131,7 +123,6 @@ David paused, his fork suspended between plate and mouth. For the first time in 
 David's expression didn't change, but something behind his eyes did. "I have a family. I have children. The world I'm helping to end is one where my children grow up poor while other people's children grow up rich. I position them for survival because that's what a father does. If you want to judge me for that, you're welcome to. But you came here for information, not absolution."
 
 
----
 
 They finished their meal in relative silence. The dessert menu was offered and declined. Coffee was poured, rich and dark, in cups that probably cost more than Jerome's dinner out with Denise. As they neared the end, David leaned back in his chair and studied Jerome with an expression that was harder to read than his usual urbane mask.
 
@@ -148,7 +139,6 @@ David nodded slowly, as if considering the weight of those words. "I thought you
 Jerome said nothing. The coffee cooled in his cup.
 
 
----
 
 "I'm not telling you not to publish," David continued. "I'm telling you to think about it. The truth is a kind of weapon, Jerome. You've spent your whole career believing it should be used. But some truths, when you release them, can't be controlled. They become part of the system they describe. They accelerate the thing they document."
 
@@ -163,13 +153,12 @@ Now he had to decide what to do about it. And David's warning echoed in his mind
 He left a cash tip for the waiter and walked out into the DC afternoon, carrying more weight than he had entered with.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 The drive back from DC took two hours in traffic, and by the time Jerome pulled into his driveway, the summer sun had set and the streetlights were on. The house was lit from within, warm rectangles of light in the windows, and he sat in the parked car for a long moment before going inside, gathering whatever remained of his ordinary self.
 
@@ -184,7 +173,6 @@ Denise was in the living room, grading papers. She taught AP History at a high s
 "Yes."
 
 
----
 
 She set down her red pen and folded her hands in her lap, a gesture he recognized as preparation for something difficult. He had seen it before major decisions, before hard conversations, before the moments in their marriage that required more than casual exchange.
 
@@ -201,7 +189,6 @@ The question landed like a physical blow. He started to respond, some reflex def
 "I'm not asking as an ultimatum. I'm asking because I need to understand. You've been disappearing, Jerome. Not just physically, although yes, the late nights, the trips, the hours in your office with the door closed. But mentally, emotionally. You look through me now instead of at me. When we talk, I can see you're somewhere else. This story, whatever it is, has taken you somewhere I can't follow."
 
 
----
 
 He wanted to argue, to defend himself, but the words died in his throat. She was right. He had been disappearing. The investigation had become a kind of obsession, consuming attention that should have gone to her, to DeShawn, to the ordinary maintenance of a shared life.
 
@@ -214,7 +201,6 @@ So he told her. He described the overlay, the correspondence between the video's
 She listened with the attention she brought to her best students, the kind of listening that made people feel genuinely heard. She was a history teacher, and she understood systems, understood how societies failed. Nothing he said surprised her, which was somehow worse than if she had been shocked.
 
 
----
 
 "So you believe it," she said, when he finished. "You believe something catastrophic is coming, and the wealthy are preparing for it while everyone else goes on with their lives."
 
@@ -231,7 +217,6 @@ She was quiet for a long moment, her gaze turned inward. The grading forgotten, 
 "It's the truth, Denise. Don't I have a responsibility to tell it?"
 
 
----
 
 She stood up abruptly, walked to the window, looked out at the streetlit darkness of their neighborhood. When she spoke, her voice was softer, but the words carried weight.
 
@@ -246,13 +231,12 @@ He wanted to argue, but something in her words found purchase. The possibility h
 They didn't resolve anything that night. But they sat together until late, talking and not talking, the conversation opening space for what neither of them could name.
 
 
+
+
+
+
+
 ---
-
-
-
-
-
-<p style="text-align: center;">* &nbsp; * &nbsp; *</p>
 
 Denise had gone to bed an hour ago, her hand lingering on his shoulder as she passed, a touch that said more than words. Jerome sat in the darkened living room, unable to sleep, his mind circling through territory that had no rest.
 
@@ -261,7 +245,6 @@ He thought about his mother. Evangeline Washington was eighty-one years old and 
 He thought about what it meant to lose your grip on truth. To have reality become unreliable, shifting beneath your feet. His mother's condition was medical, involuntary. But there was something in the cultural moment that felt similar - a collective forgetting, a shared confusion about what was real and what was manufactured. The "Eighth Oblivion" video was either prophecy or hoax, and the difference might not matter if enough people believed in it.
 
 
----
 
 He thought about DeShawn. Seventeen years old, brilliant in ways that Jerome could recognize but not fully understand, immersed in a world of code and systems that seemed as natural to him as the analog world had been to Jerome's generation. DeShawn was building things, learning things, preparing for a future that Jerome feared might not come. Or that might come in forms none of them could imagine. What did you owe your children when you believed the world they would inherit was breaking? Did you prepare them for survival, or did you let them live in hope as long as hope was possible?
 
@@ -270,7 +253,6 @@ He thought about his career. Thirty years of journalism, one Pulitzer, countless
 David's warning echoed: publishing might accelerate what it describes. Panic as fuel. The self-fulfilling prophecy.
 
 
----
 
 He got up and went to his office, stepping carefully in the dark house, moving by memory through spaces he had inhabited for two decades. The walls of evidence were invisible in the darkness, but he knew they were there: his months of work, his careful synthesis, the picture he had built piece by piece.
 
@@ -283,7 +265,6 @@ Option two: investigate further. Find someone from inside, someone who had seen 
 Option three: walk away. Protect his family. Accept that some truths cannot be made actionable, that knowing is not the same as changing, that his crusade might destroy what he loved without affecting what he feared.
 
 
----
 
 He sat with the options for a long time, feeling their weight, testing them against his sense of who he was. The clock on his desk marked two in the morning, then two-thirty, then three. The house was silent, the world outside dark and still.
 
@@ -296,7 +277,6 @@ He opened his encrypted email client and began drafting messages. Careful querie
 He sent the messages to a dozen intermediaries, nodes in a network of trust that he had spent decades building. Then he waited.
 
 
----
 
 Somewhere in San Francisco, in an apartment cluttered with screens and evidence of obsessive focus, a young man was looking at the same patterns from a different angle. Kevin Zhou had seen things inside Prometheus that matched exactly what Jerome was seeking. He had documented anomalies, tracked queries, built a picture of coordinated behavior that made no sense by conventional models. And he was looking for someone to tell.
 
@@ -309,7 +289,6 @@ He closed his laptop and went to the kitchen to make coffee. Denise would be awa
 Something was beginning.
 
 
----
 
 
 

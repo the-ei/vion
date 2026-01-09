@@ -7,7 +7,6 @@ The house is too large for one person. This was true when they bought it, antici
 She sits up. The floor is cool beneath her feet. The thermostat has learned her patterns too, beginning the gradual warming that will have the bathroom comfortable by the time she finishes her coffee.
 
 
----
 
 In the kitchen she moves through the ritual her mother taught her, though the equipment has changed: the espresso machine instead of the stovetop moka pot, the temperature-controlled carafe instead of the steel thermos, but the sequence preserved, the order of operations that turns morning chaos into morning structure. Water first, always, a full glass standing at the counter, watching the backyard come into focus as the caffeine from yesterday clears and the caffeine from today has not yet arrived, the liminal minutes when she is neither asleep nor performing wakefulness.
 
@@ -20,7 +19,6 @@ The coffee is good. The coffee is always good. She has optimized this process th
 She checks her phone.
 
 
----
 
 The notifications have accumulated overnight: fourteen emails marked urgent (which means none of them are), two Slack threads that have advanced without her, a news digest algorithmically tailored to her professional interests. She scrolls without reading, the gesture itself the point, the checking a form of prayer, a petition to the day to be manageable.
 
@@ -41,7 +39,6 @@ The message sits there, delivered, unread. Priya is probably still sleeping, wil
 In the shower she rehearses the ethics review meeting scheduled for nine o'clock, the presentation she has prepared, the objections she will raise, the counterarguments she anticipates. The hot water runs over her shoulders while her mind runs through scenarios, optimizing for outcomes she already knows she cannot achieve. The feature will launch. Her job is to make the process feel rigorous. She has known this for long enough that the knowledge no longer registers as disillusionment, merely as the weather, merely as Tuesday.
 
 
----
 
 The drive to San Francisco takes her north on 101, through the familiar crawl of early traffic, the Tesla navigating the start-stop rhythm while she reviews notes on her tablet. The car suggests an alternate route, its voice pleasant and genderless, and she accepts without consideration, without asking what patterns it has learned from her previous drives, what it knows about her schedule and preferences that she has not explicitly told it.
 
@@ -52,7 +49,6 @@ She thinks about Priya's text. About the word *literally*, which no longer means
 The car changes lanes smoothly, anticipating the merge.
 
 
----
 
 Prometheus Systems' campus emerges from the urban landscape like something grown rather than built: the curved glass facades that suggest organic forms, the grounds landscaped to evoke a nature that does not exist in this geography, the walking paths that encourage movement while tracking steps. Ananya has worked here for three years and the architecture still strikes her as aspirational, as an argument made in steel and light about what kind of company this is, what kind of future it is building.
 
@@ -63,5 +59,4 @@ The walk from the parking structure to the main building takes four minutes at h
 Her badge beeps at the security turnstile. The system knows she has arrived. Somewhere, in some database, a record notes that Ananya Ramaswamy entered the building at 8:23 AM on this Tuesday in October, ready to perform the ethics of optimization, ready to lose gracefully, ready to begin.
 
 
----
 

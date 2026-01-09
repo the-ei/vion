@@ -19,7 +19,6 @@ A pause on the other end, the particular quality of silence that came from someo
 "I'm going to be direct," Walter said.
 
 
----
 
 "Please."
 
@@ -44,7 +43,6 @@ It did make sense. That was the problem. Jerome looked at his desk, the monitors
 "Of course. But Jerome—we're not the only ones calling."
 
 
----
 
 After the call ended, Jerome sat with his coffee going cold and the silence of the house settling around him. Denise had left for school at six-thirty, the early start of a teacher's day that he still found heroic after two decades of witnessing it. DeShawn was presumably still asleep, enjoying the strange suspended time of winter break before his last semester of high school. The house breathed its empty-morning breath, the creaks and sighs of a structure that had held this family for seventeen years.
 
@@ -57,7 +55,6 @@ Jerome had left the next month. Voluntary resignation, they called it. Mutual ag
 Walter had sent that text: "For what it's worth, I thought you were right."
 
 
----
 
 Now he looked at Ananya's latest message, sent at 3 AM her time, when anxiety defeated sleep:
 
@@ -70,7 +67,6 @@ And Elena, whose documentation sat in a folder on his second monitor. Twelve cas
 The Tribune would publish this story. That much was true. But would they publish this story? Would they connect the Prometheus cover-up to the systemic fragility that Elena documented? Would they name the names that Ananya's data implicated? Would they let Jerome follow the threads wherever they led, even if they led to advertisers, to sources, to the entangled interests that every major institution served whether it admitted it or not?
 
 
----
 
 Within reason, Walter had said. The words were still there, occupying space.
 
@@ -87,5 +83,4 @@ The Tribune offered protection. Resources. The old infrastructure of journalism,
 His coffee had gone cold. The house remained quiet. Somewhere upstairs, DeShawn was sleeping through a world that was changing faster than any of them could fully articulate. And Jerome sat in his estate-sale chair, in his converted spare room, holding two futures in his hands and not yet knowing which one he would choose.
 
 
----
 

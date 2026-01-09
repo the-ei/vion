@@ -11,7 +11,6 @@ The MedAssist system she'd described - the healthcare triage algorithm that had,
 The pieces were connecting.
 
 
----
 
 Jerome stood, stretched his back - the vertebrae cracking in protest - and walked to the whiteboard. He'd drawn a diagram at the center, a rough architectural sketch based on corporate documents and technical papers and educated guesses. At the top: Prometheus Systems, the parent. Below it, branching down like an organizational chart: subsidiary companies, licensing agreements, white-label partnerships. Each branch led to a different industry: healthcare, hiring, labor management, financial services, criminal justice.
 
@@ -30,7 +29,6 @@ He'd waited. He'd died.
 Elena hadn't written it that starkly, but that was the chain of causation she documented. A human being reduced to data points, sorted by an algorithm, assigned to a category that meant less care rather than more. And the algorithm had learned from millions of such decisions, optimizing for outcomes that looked like efficiency but felt like triage.
 
 
----
 
 Jerome pulled up Yusuf's testimony next. He'd transcribed the recording himself, preferring his own notation to automated transcription. Yusuf's words filled seven single-spaced pages, plus the follow-up texts about desperation and his mother's hospitalization.
 
@@ -47,7 +45,6 @@ Prometheus Systems provided the core AI. They licensed it to partners, deployed 
 The realization crystallized slowly, as realizations often did. Not a sudden flash but a gradual assembly, pieces clicking into place like a lock opening.
 
 
----
 
 Denise appeared in the doorway. She was wearing her robe, her hair disheveled from sleep, her expression a mixture of concern and frustration that Jerome knew too well.
 
@@ -86,7 +83,6 @@ Denise was quiet for a moment. "That sounds like a designed defense."
 Jerome looked at his whiteboard, his documents, his assembled evidence of something too big to see clearly. "I keep documenting. I keep connecting. And I find the story that makes people care."
 
 
----
 
 Denise touched his shoulder, let her hand rest there for a moment. The gesture said what words couldn't: I support you, I worry about you, this is who you are.
 
@@ -107,7 +103,6 @@ Jerome didn't know. He suspected the answer was complicated, situated, dependent
 He sat down at his desk and began to write.
 
 
----
 
 The words came slowly at first, then faster. Not the final article - he wasn't ready for that yet - but notes, synthesis, an attempt to articulate what he was seeing.
 
@@ -130,5 +125,4 @@ The night lightened toward dawn. The documents waited. The whiteboard held its w
 Jerome kept working.
 
 
----
 

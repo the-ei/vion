@@ -15,7 +15,6 @@ The first document that caught her attention was an engineering report titled "H
 She kept reading.
 
 
----
 
 "...recommend additional testing before deployment to client systems. Current behavior patterns suggest the model may exhibit unpredictable responses under certain conditions..."
 
@@ -32,7 +31,6 @@ She took a screenshot. Then another. She was building a record now, not just rea
 The next document was her own memo. She recognized the language, the careful phrasing she had labored over to raise concerns without triggering defensiveness, the diplomatic constructions that were supposed to make difficult truths palatable. "Risk Assessment: Q3 Deployment Schedule." She had sent it to Whitfield's office on August 3rd. The response had come on August 5th, from his chief of staff: "James appreciates your thorough analysis. He has reviewed the engineering team's supplementary recommendations and is comfortable proceeding with the planned timeline."
 
 
----
 
 Comfortable proceeding. She had been dismissed in the passive voice, her concerns translated into something that had been reviewed and found acceptable. The memo had served its purpose for the company: it existed, timestamped and filed, proof that the ethics function had been consulted. That her objection had been noted.
 
@@ -49,7 +47,6 @@ Ananya looked at her screen, the cascade of documents she had opened, the screen
 The cleaning staff passed her door, a brief glimpse of movement in the hallway. She waited until they were gone, then checked the time. 7:45 PM. She had been reading for almost two hours.
 
 
----
 
 She opened her phone and navigated to social media. The crisis was everywhere now, the discourse fractured into competing narratives. Some blamed hackers. Some blamed the AI systems themselves. Some blamed the companies that built them. A phrase kept appearing, repeated and amplified: "Eighth Oblivion." She didn't know where it had started, but it was spreading - a concept, a framework, people reaching for ways to understand what was happening to their world.
 
@@ -68,7 +65,6 @@ She thought about Priya, fourteen years old, asking questions her mother couldn'
 She began copying files to her personal device.
 
 
----
 
 The transfer was quiet, clinical, the kind of transgression that looked like ordinary work. She selected the key documents - the engineering assessment, Dr. Mehta's email, her own memo and the response, the chat logs that showed awareness of risk, the safety reviews that had been signed and ignored. Each file copied to her encrypted personal storage, each transfer a step across a line she could not uncross, a threshold that existed somewhere between the first click and the last.
 
@@ -85,5 +81,4 @@ She parked in her apartment's garage and sat in the car for a long moment, the e
 The choice hadn't been made yet. But the possibility of making it had.
 
 
----
 

@@ -23,7 +23,6 @@ The incident. Ananya noted the language. Already the crisis was being packaged i
 "I'm sure they do."
 
 
----
 
 She went into her office and closed the door. The view was the same - the Valley stretching toward the mountains, the orderly geometry of success. But she saw it differently now. She saw it as the landscape of a lie that was still being constructed.
 
@@ -48,7 +47,6 @@ He came in and closed the door behind him. The office felt smaller with him in i
 "I wanted to check in. The past few days have been challenging for everyone."
 
 
----
 
 "Yes," she said. "Challenging is one word for it."
 
@@ -73,7 +71,6 @@ She heard what he wasn't saying. He knew, or suspected, that she had concerns be
 He left, closing the door behind him, leaving Ananya alone with the view and the evidence and the choice she had yet to make.
 
 
----
 
 The town hall was held at 2:00 in the main auditorium. Hundreds of employees gathered, their faces a mix of worry and forced optimism, everyone waiting to hear how the crisis would be explained.
 
@@ -94,7 +91,6 @@ Applause. Relieved applause, from people who wanted the crisis to be over, who w
 Ananya did not applaud. She sat very still, watching Whitfield bask in the response, and felt the evidence burning in her pocket.
 
 
----
 
 After the town hall, she found Dr. Elise Thornton in the hallway. Elise was the other senior member of the ethics team, someone Ananya had worked with for two years, someone she trusted - or thought she trusted.
 
@@ -129,7 +125,6 @@ Ananya looked at her colleague, at the fear in her eyes, at the rationalization 
 "What if it's not just one person?" she said.
 
 
----
 
 Elise was quiet for a long moment. "What do you mean?"
 
@@ -164,5 +159,4 @@ They walked back toward the populated part of the floor, their conversation file
 Tomorrow, Ananya would talk to Priya. Tonight, she just needed to get through.
 
 
----
 

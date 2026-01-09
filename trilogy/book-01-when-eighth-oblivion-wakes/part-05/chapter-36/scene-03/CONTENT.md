@@ -9,7 +9,6 @@ But maybe his view differed. Maybe from inside, things looked different than the
 She cleaned the kitchen, an activity that served no real purpose but occupied her hands and her attention. The counters were already clean. The dishes were already done. But she wiped them anyway, moving the cloth in circles that left streaks of moisture that dried almost instantly in the heated air, and she thought about what she would say to Vikram and what she would not say, and what his visit meant.
 
 
----
 
 He arrived at three-twelve, pulling into her driveway in the same silver Tesla he had driven for the three years she had known him, a car that was both a symbol of the industry they inhabited and a practical object that moved a person from one place to another. She watched from the window as he got out, as he looked at the house with an expression she could not read, as he walked up the path to her front door. He was carrying nothing. No bag, no folder, nothing that suggested this was an official visit. Just Vikram, in weekend clothes, his face showing the particular strain of someone who has spent two weeks navigating something difficult.
 
@@ -30,7 +29,6 @@ She went to the kitchen and poured two cups, aware of his presence in the other 
 She did not know. That was the terrible thing. After three years of working alongside him, she did not know.
 
 
----
 
 She returned with the cups and set his on the table beside his chair, a small distance that felt meaningful in a way she could not articulate. He picked it up, wrapped his hands around it, and looked at her.
 
@@ -51,7 +49,6 @@ He looked away, toward the window where the rain had started again, and she saw 
 "Do they?" She heard the edge in her own voice and tried to soften it. "I thought I had a choice. I thought I was making a choice. But now I'm not sure. Maybe I just did the only thing I could do, given who I am."
 
 
----
 
 The rain intensified, drumming the roof, and they both looked toward the sound as if it offered relief from the conversation. When Vikram spoke again, his voice was different, more careful.
 
@@ -70,7 +67,6 @@ She absorbed this information the way she had learned to absorb bad news: withou
 "I don't know the details. I'm not in those meetings. But I hear things. They're talking about breach of confidentiality, theft of trade secrets, maybe more. They want to make an example."
 
 
----
 
 "An example of what?"
 
@@ -87,7 +83,6 @@ Ananya considered this, turning it over in her mind. She had known, of course, t
 Vikram was quiet. Outside, the rain continued its steady percussion, indifferent to the conversation unfolding in the dry warmth of the house.
 
 
----
 
 "I'm still there," Vikram said finally. "I'm still doing what you did. Writing frameworks, raising concerns, logging objections. Does that make me complicit?"
 
@@ -104,7 +99,6 @@ He set down his coffee cup and leaned forward, his elbows on his knees, his face
 He was silent for a long moment. When she turned back, his face held something that might have been shame.
 
 
----
 
 "I should go," he said. He stood, and for a moment they faced each other across the living room, two people who had once shared something and now stood on opposite sides of a line neither had drawn, a line that the crisis had revealed rather than created. "I'm sorry. I don't know what I was hoping to accomplish by coming here. I don't know what I thought would happen."
 
@@ -125,5 +119,4 @@ And then he was gone, walking back to his car in the rain, getting in, backing o
 She did not know if Vikram was a friend or an emissary or something in between. She did not know if his visit had helped her or endangered her. She knew only that she was alone again, and that the rain was still falling, and that whatever came next would come whether she was ready for it or not.
 
 
----
 

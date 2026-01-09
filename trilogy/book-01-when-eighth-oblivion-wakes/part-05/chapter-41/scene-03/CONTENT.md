@@ -21,7 +21,6 @@ Jerome felt something shift in his chest. "I wasn't always fair to you either."
 "That's my job. To see things."
 
 
----
 
 "But it's not just your job." DeShawn leaned forward, elbows on knees. "It's who you are. You look at systems and see what's broken. And I look at systems and see what could be built. And I thought that made you wrong and me right, but - " He stopped, seemed to be gathering words. "Maybe we're both seeing real things. Different parts of the same thing."
 
@@ -42,7 +41,6 @@ Jerome was quiet for a moment. This was more words than DeShawn had said to him 
 "I don't trust systems that depend on individual good intentions. Intentions don't scale."
 
 
----
 
 DeShawn nodded slowly, as if processing this. "That's a reasonable position. I just think - " He paused again, working something out. "I think you can't build new systems without some good-faith effort. Even if the intentions don't scale, they're the starting point. Someone has to try before you can see what the failures are."
 
@@ -61,7 +59,6 @@ Jerome had known about the project in general terms but hadn't asked for details
 "It's complicated. The technology works - I mean, the routing optimization actually reduces costs by like 30% in our test cases. But the implementation is hard. You have to partner with grocery stores, and they have their own incentives. You have to get people to trust the platform. You have to deal with the existing systems that make food deserts exist in the first place."
 
 
----
 
 "Those systems being?"
 
@@ -82,7 +79,6 @@ Jerome felt the weight of his son's words. The hope beneath them. The fear that 
 "I don't want you to stop trying," he said.
 
 
----
 
 "But you don't believe in what I'm doing."
 
@@ -107,7 +103,6 @@ Jerome nodded, not interrupting.
 "Yeah. It is." DeShawn looked at him. "But maybe that's what both things being true looks like. Being scared and trying anyway."
 
 
----
 
 Jerome felt something loosen in his chest that had been tight for months. Not agreement - they still saw the world differently in fundamental ways. But recognition. His son was thinking seriously about hard problems, and the thinking was his own.
 
@@ -132,7 +127,6 @@ Jerome felt something loosen in his chest that had been tight for months. Not ag
 DeShawn laughed - a real laugh, surprised out of him. "That's the most honest career advice you've ever given me."
 
 
----
 
 They talked for another hour. About DeShawn's app project, about Jerome's reporting, about the space between their perspectives where something like understanding might be possible. It wasn't a resolution - they still disagreed about fundamental things, still saw different futures when they looked ahead. But the disagreement felt different now. Less like a wall, more like a border they could cross and recross.
 
@@ -157,5 +151,4 @@ DeShawn nodded once, then headed for his room. Jerome sat in the quiet office, t
 Maybe that was how the two of them could work together.
 
 
----
 
