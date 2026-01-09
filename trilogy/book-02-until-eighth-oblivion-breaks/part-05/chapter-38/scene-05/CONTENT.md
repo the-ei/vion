@@ -9,7 +9,6 @@ The apartment was very quiet. San Francisco's ambient noise filtered in from out
 He typed a few characters. Deleted them. Typed a different few characters. Deleted those too. The editor filled with nothing, the blank space persisting.
 
 
----
 
 He pushed back from the desk and went to the window. The city lights spread out below him, the interconnected glow of millions of devices and systems, all of them optimizing something, all of them making decisions about people based on patterns and predictions. His own systems were out there somewhere, still running, still processing, still doing the things they had been taught to do.
 
@@ -26,7 +25,6 @@ Yusuf had shrugged. "You learn what you need to learn."
 The simplicity of the answer had struck Kevin then and struck him now, sitting in his expensive apartment, staring at his expensive screens, unable to do the thing he had always been able to do. Yusuf had learned to hotwire cars because life had required it. Kevin had learned to optimize systems because life had offered nothing else.
 
 
----
 
 But something else was possible. He had seen it in those moments in the car, in the days that followed when they moved through the chaos together, pooling their different kinds of knowledge. Yusuf had known things about survival, about people, about improvisation. Kevin had known things about systems, about patterns, about making machines do what needed doing. Together they had been more capable than either would have been alone.
 
@@ -47,7 +45,6 @@ He stopped at that last question. It was strange, too personal, but it felt impo
 He did not know. But for the first time in days, he was curious. The curiosity felt like a small flame in the darkness, not enough to light the room but enough to see by.
 
 
----
 
 He saved the notes file and closed the laptop and sat in the blue glow of standby, thinking. His phone was on the desk, the message thread with Yusuf still unsent, still waiting. He picked it up and looked at the draft he had not sent: *I'm not good at this. I don't really know how to talk to people...*
 
@@ -68,5 +65,4 @@ The threshold was ahead. He was not ready to cross it.
 But he was watching for it now.
 
 
----
 

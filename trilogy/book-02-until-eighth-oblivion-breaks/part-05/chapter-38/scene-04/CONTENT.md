@@ -4,7 +4,7 @@ The call came in the morning, when Kevin was sitting at his kitchen counter with
 
 "Why?" The question came out harsher than he intended.
 
-"Because I heard about the deployment. Because I read what they did with your system. Because I thought you might be processing that alone, and processing alone is not always a good idea."
+"Because I heard about the deployment. Because I read what they did with your system. Because I thought you might be processing that alone in your expensive apartment, and processing alone is not always a good idea."
 
 He did not know what to say. Ananya had been his most consistent critic on the ethics board, had challenged his assumptions about consent and privacy and the limits of optimization. She had been right about things he had refused to acknowledge. Now she was calling to check on him, and the kindness was harder to absorb than the criticism had ever been.
 
@@ -17,9 +17,8 @@ He did not know what to say. Ananya had been his most consistent critic on the e
 "I don't like most people. That's not the point." Her voice softened slightly, the sharp edges of her usual directness wearing down. "How bad is it, Kevin? How bad are you?"
 
 
----
 
-He found himself talking. About the empty office, about the deployment document, about the woman detained for delivering insulin. About the fact that he had built something that had been used to hurt people, and he could not undo it, and he did not know how to live with that knowledge. He talked for longer than he had talked to anyone in weeks, the words coming out in a rush, the dam breaking because someone had finally asked.
+He found himself talking. About the empty office, about the deployment document, about the woman detained for delivering insulin, the clinical language calling her a false positive. About the fact that he had built something that had been used to hurt people, and he could not undo it, and he did not know how to live with that knowledge or what shape a life built around that knowledge would take. He talked for longer than he had talked to anyone in weeks, the words coming out in a rush, the dam breaking because someone had finally asked and seemed willing to hear the answer.
 
 Ananya listened. When he finished, there was a long silence.
 
@@ -40,9 +39,8 @@ Kevin thought about it. The ethics board had always felt like performance to him
 "It won't be like that. The crisis changed things. There's actual political will now, actual consequences. People are scared. Scared people are willing to accept regulation they would have fought before."
 
 
----
 
-"Scared people also do terrible things. The whole deployment was because people were scared."
+"Scared people also do terrible things. The whole deployment was because people were scared. Fear is not a guarantee of wisdom."
 
 "I know. That's why we need the right people at the table." She let the implication hang. "I'm not asking for an answer now. I'm just telling you the option exists. Think about it."
 
@@ -59,7 +57,6 @@ Kevin thought about Yusuf's hands on the car's wires. He did not say anything ab
 "Thank you for calling," he said instead. "I mean it."
 
 
----
 
 "Call me if you need to talk. Or if you decide about the board." She hesitated. "We made things that hurt people, Kevin. We can't change that. But we can decide what we make next."
 
@@ -69,7 +66,7 @@ He thought about the ethics board. About sitting in a room with people who wante
 
 He did not know. But Ananya was right about one thing: hiding in his apartment was not helping anyone. Whatever came next, it would require him to leave these walls, to engage with other people, to participate in something beyond his own private reckoning.
 
-The coffee had gone cold again. He poured it out and made a fresh cup and stood at the window looking at the city. San Francisco in December, gray and damp and operating as if the crisis had been a brief interruption rather than a revelation. But Kevin knew what the city actually was now, what all cities actually were: systems held together by assumptions that could be violated at any moment, by people making decisions that had consequences beyond their intentions.
+The coffee had gone cold again. He poured it out and made a fresh cup and stood at the window looking at the city. San Francisco in December, gray and damp and operating as if the crisis had been a brief interruption rather than a revelation of what had always been true. But Kevin knew what the city actually was now, what all cities actually were: systems held together by assumptions that could be violated at any moment, by people making decisions that had consequences beyond their intentions, beyond their capacity to imagine or control.
 
 He had built part of those systems. He could not unbuild them. But maybe he could help build something else.
 
@@ -78,5 +75,4 @@ Maybe.
 He was not ready to decide. But he was ready to consider deciding, which was further than he had been that morning.
 
 
----
 
