@@ -65,6 +65,30 @@ Good edit: "She walked to the window" → "She crossed to the window, her reflec
 
 Bad edit: "The recursive loop of self-examination that had characterized her twenties, the constant monitoring of her own responses to determine if they were authentic or performed" → "She was always analyzing herself" (NO - this loses the specificity and rhythm)
 
+## EDIT.md Documentation
+
+After editing any directory (chapter, scene), create an EDIT.md file documenting:
+- What was changed and why
+- Any deviations from the PLAN.md
+- Reasoning for significant editorial decisions
+
+PLAN.md files should remain UNTOUCHED - they are the original vision.
+EDIT.md files document the evolution from plan to final content.
+
+Template:
+```markdown
+# Edit Notes
+
+## Changes Made
+- [List significant edits]
+
+## Deviations from Plan
+- [Note any departures from PLAN.md and why]
+
+## Editorial Decisions
+- [Explain significant choices]
+```
+
 ## Commit Protocol
 
 - Commit after each chapter edit with message: "Edit [book]-[part]-[chapter]: [brief description]"
