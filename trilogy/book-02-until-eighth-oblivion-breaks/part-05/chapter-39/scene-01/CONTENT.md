@@ -1,4 +1,4 @@
-The road climbed out of the desert and into the mountains, and Elena watched the landscape transform through the windshield of the borrowed car. First the saguaros thinning, then disappearing entirely, replaced by juniper and then pine, the air cooling as the elevation rose. She had made this drive before, dozens of times, weekend trips to Flagstaff for the cooler summers, holiday visits to Daniel's sister. But today the familiar route felt alien, as if she were traveling between dimensions rather than cities.
+The road climbed out of the desert and into the mountains, and Elena watched the landscape transform through the windshield of the borrowed car as if the earth itself were demonstrating how change could happen gradually and then all at once. First the saguaros thinning, then disappearing entirely, replaced by juniper and then pine, the air cooling as the elevation rose. She had made this drive before, dozens of times, weekend trips to Flagstaff for the cooler summers, holiday visits to Daniel's sister. But today the familiar route felt alien, as if she were traveling between dimensions rather than cities.
 
 She had not gone home first. Her car was still in Phoenix, parked at the clinic where she had left it days ago, and the thought of returning to the apartment, of seeing the children's empty rooms, of being in that space alone, had been more than she could face. So she had borrowed a colleague's car and driven north, straight from the clinic to Flagstaff, not stopping except for gas.
 
@@ -12,7 +12,7 @@ The front door opened. She saw Daniel first, standing in the doorway, and then t
 
 "I'm here," she said into his hair, which smelled of baby shampoo and something else, something unfamiliar, the product his aunt must use. "I'm here, baby, I'm here."
 
-He would not let go. She tried to stand and he clung tighter, and finally she lifted him, though he was heavy, heavier than she remembered, three years old and solid with the growth of the months she had been too busy to notice. He buried his face in her shoulder and she felt his body shaking, not crying exactly but trembling, the accumulated fear of the separation releasing in waves.
+He would not let go. She tried to stand and he clung tighter, and finally she lifted him, though he was heavy, heavier than she remembered, three years old and solid with the growth of the months she had been too busy to notice. He buried his face in her shoulder and she felt his body shaking, not crying exactly but trembling, the accumulated fear of the separation releasing in waves that she could feel passing through him and into her own body, as if fear were a substance that could be transferred.
 
 Over his head, she saw Sofia. Her daughter stood on the porch steps, half-hidden behind Daniel's legs, watching. She was not running. She was not crying. She was watching her mother with eyes that seemed older than six years, eyes that had seen things and were waiting to see what would happen now.
 
@@ -28,7 +28,7 @@ Daniel came down the steps with Sofia beside him, still holding her shoulder. He
 
 "I'm here."
 
-They stood like that in the driveway, the four of them pressed together, Mateo still clinging to Elena's neck, Sofia pressed between her parents, her small body tense and uncertain. Daniel's sister appeared in the doorway, watching, giving them space. The mountains rose behind the house, white-capped and indifferent, the same mountains that had been there through all of human history and would be there long after humans were gone.
+They stood like that in the driveway, the four of them pressed together, Mateo still clinging to Elena's neck, Sofia pressed between her parents, her small body tense and uncertain. Daniel's sister appeared in the doorway, watching, giving them space. The mountains rose behind the house, white-capped and indifferent, the same mountains that had been there through all of human history and would be there long after humans were gone, witnesses to everything and moved by nothing.
 
 Finally, Sofia spoke. "You were gone a long time."
 
@@ -38,7 +38,7 @@ Finally, Sofia spoke. "You were gone a long time."
 
 "I know. I'm so sorry. I came as fast as I could."
 
-Sofia looked at her mother for a long moment, and Elena saw the accusation in her eyes, the child's pure logic that said: you were supposed to be here and you were not. And Elena had no defense, because the accusation was true. She had chosen to stay at the clinic. She had chosen the patients over her children. The choice had seemed necessary at the time, and now she was not sure what necessary meant anymore.
+Sofia looked at her mother for a long moment, and Elena saw the accusation in her eyes, the child's pure and merciless logic that said: you were supposed to be here and you were not, you promised and you broke the promise, you left us. And Elena had no defense, because the accusation was true. She had chosen to stay at the clinic. She had chosen the patients over her children. The choice had seemed necessary at the time, had felt like the only choice possible, and now she was not sure what necessary meant anymore, whether it had ever meant what she thought it meant.
 
 
 
@@ -56,7 +56,7 @@ They settled in the living room. Mateo would not leave Elena's lap, would not lo
 
 "You could have come sooner."
 
-Elena had no answer. Sofia was right. She could have left earlier, could have handed off her patients to colleagues who were just as exhausted but who did not have children in Flagstaff waiting. She had not. She had stayed because staying was easier than going, because the clinic was a place where her guilt had a purpose, where she could work until she was too tired to think.
+Elena had no answer. Sofia was right. She could have left earlier, could have handed off her patients to colleagues who were just as exhausted but who did not have children in Flagstaff waiting. She had not. She had stayed because staying was easier than going, because the clinic was a place where her guilt had a purpose, where she could transform guilt into motion, where she could work until she was too tired to think and call that exhaustion virtue.
 
 She held Mateo and looked at Sofia and felt the weight of the choices she had made, and she did not know how to carry it.
 

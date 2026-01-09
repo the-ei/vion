@@ -16,7 +16,7 @@ She found herself at a 24-hour diner, its neon sign buzzing against the darkness
 
 The crying woman was alone. She had a cup of coffee in front of her, untouched, and she was crying with the particular quality of someone who had been crying for a long time and could not stop. No one in the diner seemed to notice. The man ate his eggs. The couple shared their fries. The waitress refilled coffee and did not look at the corner booth.
 
-Elena stood outside the window and watched. She should go in. She should sit with the woman. She was a nurse practitioner; she knew how to help people in crisis. But something held her back, some recognition that this woman's grief was her own to carry, that Elena had no magic to offer, that sometimes people simply needed to cry in diners at two in the morning and the best thing strangers could do was leave them alone.
+Elena stood outside the window and watched. She should go in. She should sit with the woman. She was a nurse practitioner; she knew how to help people in crisis. But something held her back, some recognition that this woman's grief was her own to carry, her own to navigate, that Elena had no magic to offer, that sometimes people simply needed to cry in diners at two in the morning and the best thing strangers could do was leave them alone with their tears and their cold coffee and their private catastrophes.
 
 She kept walking.
 
@@ -28,7 +28,7 @@ But they were not separate. They were connected.
 
 The elderly man who could not afford his medication. The woman detained for delivering insulin. The young woman who died because they did not have the right equipment. Each of them had arrived at the clinic already damaged by something larger than their individual circumstances, already harmed by systems that made health a commodity and care a scarcity.
 
-Elena had spent her career treating the wounded without asking who was doing the wounding.
+Elena had spent her career treating the wounded without asking who was doing the wounding, bandaging cuts without looking at the knife.
 
 The question arrived like something she had always known but had been too busy to acknowledge: What if the healing she provided was enabling the harm? What if her work, however well-intentioned, was just patching people up so they could be wounded again by the same forces? What if the clinic was not fighting the disease but managing its symptoms in ways that allowed the disease to continue?
 
@@ -54,7 +54,7 @@ Maybe there was something there. Maybe there was a different way to do this work
 
 She turned back toward the house. Dawn was approaching, the sky lightening in the east, the stars beginning to fade. She was freezing now, truly freezing, but something in her had warmed.
 
-She did not know what came next. But she knew she could not go back to what she had been doing before. The crisis had broken something in her, and in the breaking, something new had begun to form.
+She did not know what came next. But she knew she could not go back to what she had been doing before. The crisis had broken something in her, and in the breaking, something new had begun to form, something with edges and weight, something that might be fury or might be purpose or might be both at once.
 
 
 

@@ -6,7 +6,7 @@ The next afternoon, while Mateo napped and Daniel helped his sister with groceri
 
 Sofia nodded and began sorting through the stack, selecting the ones she wanted to show. The first was a house, recognizably the sister's house, with smoke coming from the chimney and a sun in the corner. Normal. A child's drawing of a safe place.
 
-The second was different. The sky was red, scribbled over with dark crayon in layers that had torn the paper in places. The house was the same, but the windows were dark, and outside the house there were shapes that might have been people or might have been shadows. Elena looked at it and felt something cold move through her.
+The second was different. The sky was red, scribbled over with dark crayon in layers that had torn the paper in places, the pressure of the small hand visible in the violence of the strokes. The house was the same, but the windows were dark, and outside the house there were shapes that might have been people or might have been shadows. Elena looked at it and felt something cold move through her, something with teeth.
 
 "This is from the third day," Sofia said matter-of-factly. "The sky looked like that. The fires."
 
@@ -32,7 +32,7 @@ Elena stared at the drawing. The stick figures lying down. The hands extended. T
 
 "This one is the worst." Sofia pulled out another sheet, and Elena's breath caught.
 
-It was a figure in white, clearly meant to be a medical coat. The figure had long dark hair like Elena's and hands reaching forward. But the white coat was spotted with red, bright red crayon marks scattered across it like blood. The figure's face was a circle with two dots for eyes and a straight line for a mouth, no expression, no emotion, just presence.
+It was a figure in white, clearly meant to be a medical coat. The figure had long dark hair like Elena's and hands reaching forward, palms open. But the white coat was spotted with red, bright red crayon marks scattered across it like blood, like the aftermath of something that could not be cleaned. The figure's face was a circle with two dots for eyes and a straight line for a mouth, no expression, no emotion, just presence, just witness.
 
 "That's you at the hospital," Sofia said. "I imagined what you looked like. With the blood."
 
@@ -58,7 +58,7 @@ Sofia nodded as if this confirmed something she had already understood. "I thoug
 
 "I think about a lot of things." Sofia picked up another drawing, this one showing the house again, but with figures inside it: a small figure with pigtails, a smaller figure that must be Mateo, a larger figure that was Daniel. Through the window, outside, was a single figure in white standing far away. "This is me waiting for you. You're outside because you weren't here yet."
 
-Elena felt tears starting again and tried to hold them back, not wanting to cry in front of Sofia, not wanting to burden her daughter with her own grief. But Sofia had already seen too much, had already understood too much. The pretense of adult strength seemed suddenly pointless.
+Elena felt tears starting again and tried to hold them back, not wanting to cry in front of Sofia, not wanting to burden her daughter with her own grief. But Sofia had already seen too much, had already understood too much. The pretense of adult strength seemed suddenly pointless, a lie that served no one.
 
 
 
@@ -84,7 +84,7 @@ She pulled away from Elena and found one more drawing: the house again, but this
 
 "This is when you come back," Sofia said. "I drew it to make it happen."
 
-Elena held the drawing and felt her heart break and mend in the same moment, the impossible alchemy of love and grief that parenthood demanded.
+Elena held the drawing and felt her heart break and mend in the same moment, the impossible alchemy of love and grief that parenthood demanded, that parenthood would always demand, the price of being responsible for someone small in a world that was not safe.
 
 "It's beautiful," she said. "It worked."
 

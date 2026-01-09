@@ -4,7 +4,7 @@ Elena came in through the back door just as dawn was breaking, expecting to slip
 
 "No." Elena sat down across from her. "I've been walking."
 
-"I know. I heard you leave." Abuela's eyes were dark and deep, the eyes of someone who had seen much in her eighty-three years and had stopped being surprised by any of it. "You walk when you can't think. Your mother was the same way."
+"I know. I heard you leave." Abuela's eyes were dark and deep, the eyes of someone who had seen much in her eighty-three years and had stopped being surprised by any of it, who had learned that the world was what it was and the only question was how to live within it. "You walk when you can't think. Your mother was the same way."
 
 Elena's mother had died eight years ago, before Sofia was born, before any of this. The mention of her landed softly but with weight.
 
@@ -24,7 +24,7 @@ Abuela listened without interrupting, her hands wrapped around her teacup, her f
 
 Elena had heard pieces of this story before, but never all at once, never with this directness.
 
-"I worked in the fields for twelve years. Strawberries, lettuce, grapes. My hands bled every day. The chemicals they sprayed made me sick, made everyone sick, but we worked anyway because there was no other choice. When I was pregnant with your mother, I picked grapes until the day before she was born."
+"I worked in the fields for twelve years. Strawberries, lettuce, grapes. My hands bled every day, bled until the blood became part of the work. The chemicals they sprayed made me sick, made everyone sick, but we worked anyway because there was no other choice, because the absence of choice is its own kind of prison. When I was pregnant with your mother, I picked grapes until the day before she was born."
 
 She set down her teacup and reached across the table to take Elena's hands.
 
@@ -38,7 +38,7 @@ She set down her teacup and reached across the table to take Elena's hands.
 
 "But I don't know what. I'm a nurse, Abuela. I treat patients. That's what I know how to do."
 
-"And now you know it is not enough. Good. That knowing is painful but it is true. What you do with it - that is for you to decide. But do not pretend you can go back to not knowing. That door is closed."
+"And now you know it is not enough. Good. That knowing is painful but it is true, and truth is always better than the comfortable lies. What you do with it - that is for you to decide. But do not pretend you can go back to not knowing. That door is closed, forever."
 
 Elena felt tears starting, the tears she had been fighting since she arrived. "I feel like everything is falling apart. My work, my marriage, my children. Sofia looks at me like I'm a stranger. Mateo won't let go of me. Daniel and I don't know how to talk to each other. And I'm supposed to figure out how to change the world?"
 
@@ -54,7 +54,7 @@ Abuela released Elena's hands and picked up her teacup again, taking a sip of te
 
 
 
-The tears came then, fully and openly, not the exhausted leaking of the conversation with Daniel but something deeper, something that had been waiting years to be released. Elena wept for her mother, dead before Sofia was born. She wept for her grandmother, who had survived what no one should have to survive. She wept for her patients, the saved and the lost. She wept for her children, who had learned too early that the world was not safe. She wept for herself, for the person she had been and could no longer be.
+The tears came then, fully and openly, not the exhausted leaking of the conversation with Daniel but something deeper, something that had been waiting years to be released. Elena wept for her mother, dead before Sofia was born. She wept for her grandmother, who had survived what no one should have to survive. She wept for her patients, the saved and the lost. She wept for her children, who had learned too early that the world was not safe. She wept for herself, for the person she had been and could no longer be, for the grief of that death that was also a birth.
 
 Abuela came around the table and held her, the way she had held Elena when she was a child, the way mothers held daughters across all the generations that separated them.
 

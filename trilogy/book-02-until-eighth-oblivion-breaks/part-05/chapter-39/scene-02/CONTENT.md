@@ -14,7 +14,7 @@ He was quiet for a moment, organizing thoughts that had probably been churning f
 
 Elena sat beside him on the bed, close enough that their shoulders touched. She did not interrupt.
 
-"Sofia asked about you every hour. I'm not exaggerating. Every hour, sometimes more. 'When is Mommy coming? Is Mommy okay? Why doesn't Mommy call?' And I didn't know what to tell her. I didn't know if you were alive."
+"Sofia asked about you every hour. I'm not exaggerating. Every hour, sometimes more often. 'When is Mommy coming? Is Mommy okay? Why doesn't Mommy call?' And I didn't know what to tell her. I didn't know if you were alive. I didn't know what alive even meant anymore."
 
 
 
@@ -22,7 +22,7 @@ His voice broke on the last word. Elena took his hand and held it, feeling the b
 
 "I'm sorry," she said. "I should have found a way to reach you."
 
-"There was no way. The phones were down. You couldn't have." But his voice said something else, said that maybe she could have, maybe if she had tried harder, maybe if he had mattered more.
+"There was no way. The phones were down. You couldn't have." But his voice said something else beneath the words, said that maybe she could have, maybe if she had tried harder, maybe if he and the children had mattered more than the patients.
 
 "Tell me more."
 
@@ -44,7 +44,7 @@ Elena opened her mouth to tell him, and found that she could not find the beginn
 
 She stopped. The words were insufficient. They described the facts but not the feeling, not the terror that had lived in her chest for days, not the faces of the people she had failed.
 
-"A woman came in on the second day. She was delivering insulin to her neighbors, elderly people who couldn't get their medication. Someone reported her as suspicious. By the time we realized she was helping, she'd been detained for hours, and the insulin. I don't know what happened to the people who needed that insulin."
+"A woman came in on the second day. She was delivering insulin to her neighbors, elderly people who couldn't get their medication. Someone reported her as suspicious, reported her for trying to help. By the time we realized what had happened, she'd been detained for hours, and the insulin. I don't know what happened to the people who needed that insulin. I'll never know."
 
 "That's not your fault."
 
@@ -80,7 +80,7 @@ She had not thought about it. She had not thought about anything beyond getting 
 
 "That's okay. You don't have to know tonight."
 
-He kissed her forehead, the gentle kiss of long marriage, and she felt something in her chest release. Not resolution - there was no resolution - but the beginning of something. The acknowledgment that they had both survived, that they were both different now, that the marriage they had would have to find new shape to accommodate what they had become.
+He kissed her forehead, the gentle kiss of long marriage, and she felt something in her chest release. Not resolution - there was no resolution - but the beginning of something. The acknowledgment that they had both survived, that they were both different now, that the marriage they had was no longer available to them and a different marriage would have to be built from whatever remained.
 
 
 
@@ -96,7 +96,7 @@ They lay in the darkness, not sleeping yet but moving toward sleep, the conversa
 
 Before she slept, she thought about Sofia's eyes, the accusation in them. She thought about Mateo's grip on her shirt, the desperation of a three-year-old who had learned too early that mothers could disappear. She thought about the young woman with the braids, the name she could not remember, the face she could not forget.
 
-The crisis had ended, officially. But something else had begun, something that did not have a name yet. The old life was not recoverable. The old Elena was not recoverable. What came next would have to be built from whatever was left.
+The crisis had ended, officially. But something else had begun, something that did not have a name yet, something that felt more like a birth than an ending. The old life was not recoverable. The old Elena was not recoverable. What came next would have to be built from whatever was left, from the wreckage and the love and the questions that would not stop asking themselves.
 
 She fell asleep in her husband's arms, in a borrowed bed, in a house on a mountain, and for the first time in weeks, she did not dream of the clinic. She dreamed of nothing at all, which was its own kind of mercy.
 
