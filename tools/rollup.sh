@@ -9,13 +9,22 @@ TRILOGY_DIR="${1:-trilogy}"
 # Convert directory names to proper titles
 format_title() {
     local name="$1"
+    local num
     case "$name" in
         "book-01-when-eighth-oblivion-wakes") echo "When Eighth Oblivion Wakes" ;;
         "book-02-until-eighth-oblivion-breaks") echo "Until Eighth Oblivion Breaks" ;;
         "book-03-beyond-eighth-oblivions-gates") echo "Beyond Eighth Oblivion's Gates" ;;
-        part-*) echo "Part ${name#part-}" ;;
-        chapter-*) echo "Chapter ${name#chapter-}" ;;
-        scene-*) echo "Scene ${name#scene-}" ;;
+        part-*)
+            num=$((10#${name#part-}))  # Remove leading zeros
+            echo "Part $num"
+            ;;
+        chapter-*)
+            num=$((10#${name#chapter-}))  # Remove leading zeros
+            echo "Chapter $num"
+            ;;
+        scene-*)
+            echo "~~~"  # Scene divider instead of "Scene X"
+            ;;
         *) echo "$name" ;;
     esac
 }
