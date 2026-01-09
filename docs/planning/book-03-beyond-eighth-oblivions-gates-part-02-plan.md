@@ -20,12 +20,20 @@ Reckoning operates on multiple scales: personal (health, relationships, psycholo
 
 ## Characters Present
 
-- All surviving POV characters face their particular reckonings
-- Family members as witnesses and sometimes judges
-- Institutional representatives delivering consequences
-- Former allies now adversarial, former enemies now aligned
-- Characters from the past returning with information or grievances
+**POV Characters for Part 2:**
+- **Ananya Ramaswamy** (44 in 2037-38): Confronting what her career at Prometheus meant - whether her presence slowed harm or provided cover for it; her reckoning is with complicity itself; Priya (17-18) beginning to understand her mother's choices
+- **Elena Varga** (37-38): Nurse practitioner radicalized by crisis; facing health consequences of years of stress and medication; her reckoning includes her marriage to Daniel and what they've sacrificed; Sofia now 9, Mateo now 6; her abuela's health declining
+- **Yusuf Hassan** (27-28): Gig worker whose trajectory traced the trilogy's economic themes; facing consequences of choices made during Book 2's crisis; his sister Amina (19-20) as the family's hope while Yusuf reckon with his own deferred dreams (music, dignity)
+- **Ruth Abramson** (64-65): Her reckoning is with institutional faith itself - did the legal frameworks she championed actually protect anyone? Time is also her reckoning; her age and the decade-long span raise questions about mortality
+
+**Supporting Presence:**
+- Delphine and Jerome referenced as their situations intersect with the POV characters
+- Kevin Zhou's company and its fate as part of institutional reckoning
+- Daniel Varga (Elena's husband) as witness to their marriage's strains
+- Denise Cole (Jerome's wife) as family member affected by consequences
+- Jessie (Delphine's wife) and family dynamics
 - Medical, legal, or professional figures as reckoning's instruments
+- Former allies now adversarial, former enemies now aligned
 
 ## Timeline
 

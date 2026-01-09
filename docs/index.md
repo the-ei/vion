@@ -11,7 +11,9 @@ A hard science fiction trilogy written in the combined styles of Karl Ove Knausg
 ## Project Status
 
 - [Planning Documents](planning/)
+- [Word Counts & Reading Times](stats.md)
 - [Full Trilogy Content](trilogy-content.md)
+
 
 ---
 

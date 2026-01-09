@@ -20,11 +20,13 @@ This section performs the book's thematic inversion. The Eighth Oblivion, framed
 
 ## Characters Present
 
-- **Returning POVs:** Encountering interpretations that challenge their Book 1 understanding
-- **New POVs:** May come from communities with different default narratives
-- **True believers:** Characters committed to specific interpretations
-- **Grifters and opportunists:** Those exploiting narrative confusion
-- **Institutional voices:** Official interpretations increasingly unconvincing
+- **Jerome Washington (POV):** His journalism must navigate the proliferating counter-narratives. How do you report truth when the very concept of authoritative sources has collapsed? His righteousness tested by competing claims to truth.
+- **Ruth Abramson (POV):** The legal frameworks she's spent her career building prove inadequate to adjudicate between incompatible interpretations. Her clarity sought but her certainty shaken.
+- **Kevin Zhou (POV):** Technologists offer their own interpretations - some see inevitable transition, others existential threat. Kevin Zhou encounters the counter-narratives from within the builder community, where the stakes feel personal.
+- **Delphine Okafor-Barnes (POV):** Hired to produce content explaining the crisis, she must choose which stories to tell. Her media expertise makes her acutely aware of how narratives are constructed - including her own.
+- **True believers:** Characters committed to specific interpretations (religious, political, technological)
+- **Grifters and opportunists:** Those exploiting narrative confusion for profit or power
+- **Institutional voices:** Official interpretations increasingly unconvincing as trust erodes
 
 ## Timeline
 

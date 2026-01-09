@@ -19,10 +19,10 @@ The "fault lines" are the deep structural divisions exposed by pressure: between
 
 ## Characters Present
 
-- **Tech Industry Insider** (Chapters 27, 31, 34): Their investigation/whistleblowing connects to the crisis; must decide what to reveal and to whom; alliance with unlikely partners
-- **Media/Entertainment Figure** (Chapters 28, 32): Covers the crisis while being implicated in it; platform turns against them or proves inadequate; chooses a side
-- **Caring Profession Worker** (Chapters 29, 33): Their frontline perspective becomes crucial; connects institutional failure to systemic causes; moral authority earned
-- **Economically Precarious Character** (Chapters 30, 35): Experiences the crisis's human cost most directly; their knowledge becomes valuable; agency asserted despite constraints
+- **Ananya Ramaswamy** (Chapters 27, 31, 34): Her position at Prometheus forces a reckoning - she's seen the catastrophic modeling, must decide whether the company's response is genuine or performative; her investigation/whistleblowing connects to the crisis; alliance with unlikely partners including Jerome (who becomes a source relationship evolving into friendship)
+- **Jerome Washington** (Chapters 28, 32): Covers the crisis through his independent journalism while being implicated in how the public understands it; platform turns against him or proves inadequate; his source relationship with Ananya deepens
+- **Elena Varga** (Chapters 29, 33): Her frontline perspective at the Phoenix community health center becomes crucial; sees the health consequences of the crisis before the statistics register them; connects institutional failure to systemic causes; her moral authority earned through treating those most affected
+- **Yusuf Hassan** (Chapters 30, 35): Experiences the crisis's human cost most directly as a gig worker among the first affected and last considered; his knowledge from the margins becomes valuable to others; agency asserted despite constraints; family obligations reconfigured by the crisis
 
 ## Timeline
 
@@ -84,9 +84,9 @@ Possible event types:
 
 - Specific nature of the crystallizing event
 - Which relationships break, which alliances form?
-- What does the tech insider reveal, and to whom?
-- How does the media figure choose a side, and what side?
-- What sacrifice does the caring profession worker make?
-- How does the economically precarious character assert agency?
+- What does Ananya reveal, and to whom?
+- How does Jerome's journalism shape public understanding of the crisis?
+- What sacrifice does Elena make?
+- How does Yusuf assert agency from his position of precarity?
 - Any deaths or permanent consequences in this part?
 - Geographic concentration: does the crisis bring characters to same physical location?

@@ -18,10 +18,10 @@ The title "Surface Tension" operates on multiple levels: the physical phenomenon
 
 ## Characters Present
 
-- **Tech Industry Insider** (Chapters 1, 5): Senior engineer or product manager at a major tech company; privy to decisions made "above" that trouble them; marriage showing strain; compensates with material comfort and rationalization
-- **Media/Entertainment Figure** (Chapters 2, 6): Content creator, journalist, or entertainment industry professional; navigates the attention economy daily; increasingly aware their work might be harmful; substances as coping mechanism
-- **Caring Profession Worker** (Chapters 3, 7): Teacher, nurse, social worker, or therapist; sees the human cost of systemic failures; advocates for impossible changes; personal life sacrificed to professional demands
-- **Economically Precarious Character** (Chapters 4, 8): Gig worker, service industry, or recently displaced professional; experiences the system's brutality directly; maintains dignity through small resistances; family obligations as both burden and meaning
+- **Ananya Ramaswamy** (Chapters 1, 5): Chief Ethics Officer at Prometheus Systems; privy to decisions made "above" that trouble her; divorced, co-parenting daughter Priya (14) with her venture capitalist ex-husband; compensates with rationalization while her belief in ethical capitalism erodes
+- **Jerome Washington** (Chapters 2, 6): Independent investigative journalist (Substack, podcast, documentary work); former Pulitzer winner navigating the attention economy; marriage to Denise stable but son DeShawn (17) admires the tech world Jerome distrusts; managing mother's dementia care from across the country
+- **Kevin Zhou** (Chapters 3, 7): Senior engineer at Prometheus Systems; brilliant young prodigy whose identity is built around being exceptional; lives alone in San Francisco, social life largely virtual; despises ethics-washing but secretly envies the certainty of people like Ananya
+- **Delphine Okafor-Barnes** (Chapters 4, 8): Content strategist and creative director at a digital media company; makes brands feel human and humans feel like brands; married to Jessie (TV writer) with son Theo (4); increasingly nauseous about playing the game she's skilled at
 
 ## Timeline
 
@@ -63,7 +63,6 @@ From the trilogy's theme clusters, Part 1 foregrounds:
 
 ## Open Questions
 
-- Final names, backgrounds, and specific circumstances for all four POV characters
 - Geographic setting(s) - single city or multiple locations?
 - Specific technology/AI systems to feature (must feel plausible for 2032)
 - What suppressed knowledge does each character carry into Part 2?

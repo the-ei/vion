@@ -18,10 +18,10 @@ The "cracks" operate personally and systemically. Each character experiences a r
 
 ## Characters Present
 
-- **Tech Industry Insider** (Chapters 9, 13, 17): Confronts evidence that their company's technology is being used in ways they didn't anticipate or want; must decide whether to investigate, ignore, or leave; marriage reaches crisis point
-- **Media/Entertainment Figure** (Chapters 10, 14): Discovers their platform/medium has been compromised or weaponized; struggles with complicity vs. exposure; substance use escalates then forces reckoning
-- **Caring Profession Worker** (Chapters 11, 15): Encounters a case or situation that connects their micro-level work to macro-level forces; institutional constraints become intolerable; considers drastic action
-- **Economically Precarious Character** (Chapters 12, 16): Circumstance forces encounter with one of the other POV characters; perspective from the margins provides clarity others lack; family crisis tests resilience
+- **Jerome Washington** (Chapters 9, 13): Investigates the technological revelation through his independent journalism; interviews Elena about care worker conditions; struggles with whether truth-telling still matters in the fractured information ecosystem
+- **Elena Varga** (Chapters 10, 14): Nurse practitioner at an under-resourced Phoenix community health center; sees the human toll of systemic failure daily; encounters Yusuf's mother as a patient; institutional constraints become intolerable
+- **Kevin Zhou** (Chapters 11, 15, 17): Confronts evidence that Prometheus's technology is being used in ways he didn't anticipate; must decide whether to investigate, ignore, or leave; his professional tension with Ananya intensifies
+- **Yusuf Hassan** (Chapters 12, 16): Gig worker experiencing algorithmic management as daily reality; circumstance forces encounter with other POV characters; perspective from the margins provides clarity others lack; his mother's health crisis tests his resilience
 
 ## Timeline
 
@@ -50,8 +50,8 @@ The 9 chapters (9-17) must accomplish:
 
 From the trilogy's theme clusters, Part 2 foregrounds:
 - **Trust erosion:** The technological revelation makes trust itself a contested resource
-- **AI systems serving power:** What the tech insider discovers implicates supposedly neutral systems
-- **Media as environment:** The media/entertainment character realizes they've been shaping the environment they thought they were just reporting on
+- **AI systems serving power:** What Kevin Zhou discovers implicates supposedly neutral systems
+- **Media as environment:** Jerome realizes he's been shaping the environment he thought he was just reporting on
 - **Mental health in an attention economy:** Cracks become visible in characters' psychological defenses
 
 ## Stylistic Notes
@@ -67,6 +67,6 @@ From the trilogy's theme clusters, Part 2 foregrounds:
 - Specific nature of the technological revelation (AI capability? Data exposure? Algorithmic manipulation proof?)
 - How exactly do the characters intersect? Through what nodes?
 - Which relationship cracks are repairable and which are permanent?
-- Does the tech insider stay or leave their company?
-- What "drastic action" does the caring profession worker consider?
-- How does the economically precarious character's perspective illuminate what others miss?
+- Does Kevin Zhou stay or leave Prometheus?
+- What "drastic action" does Elena consider?
+- How does Yusuf's perspective illuminate what others miss?

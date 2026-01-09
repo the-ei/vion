@@ -20,10 +20,12 @@ The acceleration is both external and internal. Systems fail, relationships brea
 
 ## Characters Present
 
-- **All POVs:** Under pressure, making consequential choices
-- **Characters in power:** Revealing true priorities as crisis deepens
-- **Characters without power:** Caught in systems beyond their control
-- **Casualties:** Not everyone survives the acceleration intact (psychologically, socially, perhaps physically)
+- **Jerome Washington (POV):** His journalism increasingly urgent as events outpace his ability to document them. The question of whether truth still matters becomes personal as his family bears the cost of his commitments.
+- **Ananya Ramaswamy (POV):** Forced from observation to action. Her position at Prometheus gives her access to power but not actual power - now she must decide whether to use what leverage she has.
+- **Ruth Abramson (POV):** Watching democratic norms erode, authoritarian responses emerge. Her legal opinions may directly affect outcomes, but the law itself seems insufficient to the moment.
+- **Yusuf Hassan (POV):** The acceleration hits him first and hardest. Gig work evaporates, algorithmic management intensifies, survival becomes primary. His anger finds new targets and new expressions.
+- **Characters in power:** Revealing true priorities as crisis deepens (tech executives, political figures)
+- **Casualties:** Not everyone survives the acceleration intact - psychologically, socially, perhaps physically
 
 ## Timeline
 

@@ -21,12 +21,20 @@ This part delivers the trilogy's philosophical payload. Each character's thresho
 
 ## Characters Present
 
-- All surviving POV characters approach their thresholds
-- Characters who die remain present through others' experience
+**POV Characters for Part 4:**
+- **Ananya Ramaswamy** (47 in 2041): Her threshold is the question of complicity transformed - not whether she was complicit but what that complicity enables now; her relationship with Priya (now 23) as a threshold of understanding between generations; the alliance with Delphine reaching its culmination
+- **Elena Varga** (43): Her threshold may be birth (new life), death (her abuela, her own health concerns), or transformation of consciousness about the care system she's spent her life navigating; her marriage to Daniel either crossing into a new phase or reaching its own threshold; Sofia (14) and Mateo (11) at formative ages
+- **Yusuf Hassan** (33): His threshold involves the choice between precarity and something else - what his music becomes, what his relationship with his mother means as she ages, whether the patterns of economic marginalization can be broken; his unexpected connection with Kevin Zhou from Book 2 may resurface as technology interfaces become literal thresholds
+- **Kevin Zhou** (37): His threshold is wisdom - the brilliant builder finally understanding what building means; technology interfaces as literal thresholds he helped create; his isolation either resolved or accepted; the gulf between knowing what technology can do and what it should do finally bridged or permanently uncrossable
+
+**Supporting Presence:**
+- Ruth, Jerome, and Delphine approaching their own thresholds (Ruth's mortality particularly salient given her age of 68)
+- Priya Ramaswamy as adult daughter witnessing her mother's threshold
+- Amina Hassan (Yusuf's sister, now 24) as the next generation
+- DeShawn Cole (24) as the young tech world figure
+- Characters who die remaining present through others' experience
 - Newborns or young children as threshold arrivals
 - Medical figures attending births and deaths
-- Spiritual or philosophical interlocutors for some characters
-- Characters from throughout the trilogy returning at thresholds
 - The dead through memory, dream, or technology
 
 ## Timeline

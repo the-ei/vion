@@ -21,13 +21,21 @@ Inheritance operates materially (property, money, technology), culturally (ideas
 
 ## Characters Present
 
-- POV characters now positioned as elders, transmitters
-- Children aged into late teens/early twenties, becoming POV-capable
-- Grandchildren for some characters, extending the temporal scope
-- Teachers, mentors, institutional memory-keepers
-- Young inheritors of power, money, or position
-- Artists and cultural workers grappling with legacy
-- Scientists and technologists considering their work's inheritance
+**POV Characters for Part 3:**
+- **Elena Varga** (39-40 in 2039-40): Now positioned as a transmitter of care ethics and radicalized perspective; Sofia (10-11) and Mateo (7-8) inheriting either her fury or her exhaustion; what she passes to her children about the healthcare system she's fought against
+- **Jerome Washington** (57-58): Journalist grappling with legacy - did his truth-telling matter? What does he leave to DeShawn (22-23), who chose the tech world Jerome mistrusted? His mother's dementia as inheritance theme; Denise as partner in what they've built
+- **Delphine Okafor-Barnes** (42-43): Creative director whose work shaped how millions understood the crisis; now reckoning with her role in narrative inheritance; Theo (8-9) growing up in a world her content helped create; what art and ideas survive and mutate
+- **Yusuf Hassan** (29-30): What becomes of his music - escape, expression, or abandoned dream? His inheritance from his father (who died in a warehouse accident) and what he transmits to Amina (21-22); the psychological patterns of precarity repeating or breaking
+
+**Supporting Presence:**
+- Ananya, Ruth, and Kevin Zhou referenced as their inheritance arcs develop
+- DeShawn Cole as the young tech founder, inheritor of a world Jerome documented
+- Priya Ramaswamy (19-20) as Ananya's daughter coming into her own perspective
+- Amina Hassan as the family's academic hope, judging the world her elders made
+- Theo (Delphine and Jessie's son) asking difficult questions
+- Sofia and Mateo Varga as Elena's inheritors
+- David and Rebecca Abramson (Ruth's children) representing different paths through the changed world
+- The next generation as judges of the Eighth Oblivion generation
 
 ## Timeline
 
