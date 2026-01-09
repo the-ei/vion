@@ -1,4 +1,4 @@
-The community center smelled like old coffee and damp carpet, the particular institutional smell of places where people gather because they have nowhere else to go. Yusuf arrived late, slipping in through the side door, finding a seat in the back row of folding chairs. The room was fuller than he had expected: maybe forty people, ages ranging from teenagers to elders, faces he recognized from the neighborhood mixed with faces he did not know at all.
+The community center smelled like old coffee and damp carpet, the particular institutional smell of places where people gather because they have nowhere else to go, no budget for anything better, no choice but to make do. Yusuf arrived late, slipping in through the side door, finding a seat in the back row of folding chairs. The room was fuller than he had expected: maybe forty people, ages ranging from teenagers to elders, faces he recognized from the neighborhood mixed with faces he did not know at all.
 
 At the front, a woman was speaking. Middle-aged, Black, her hair pulled back in a practical ponytail, her voice carrying without apparent effort. This must be Denise Williams, the organizer his mother had mentioned.
 
@@ -8,7 +8,7 @@ A murmur of agreement rippled through the room. Yusuf watched the faces around h
 
 "During the crisis, we fed each other. We checked on each other. We shared what we had. I'm proposing we don't stop. I'm proposing we make it permanent, or as permanent as anything gets."
 
-She outlined a structure: neighborhood pods, resource sharing, communication networks, skill banks. It was ambitious and probably impossible and everyone in the room seemed to know this and not care.
+She outlined a structure: neighborhood pods, resource sharing, communication networks, skill banks. It was ambitious and probably impossible and everyone in the room seemed to know this and not care, seemed to understand that impossibility was no longer a reason not to try.
 
 
 ---
@@ -19,7 +19,7 @@ She outlined a structure: neighborhood pods, resource sharing, communication net
 
 "But realistically—"
 
-"Realistically, we just survived something that the realistic systems failed to prepare us for." Denise's voice was patient but firm. "Realistic isn't good enough anymore."
+"Realistically, we just survived something that the realistic systems failed to prepare us for." Denise's voice was patient but firm, the patience of someone who had answered this objection before and would answer it again. "Realistic isn't good enough anymore."
 
 Yusuf found himself nodding. He had not expected to agree with anything anyone said tonight, had come out of obligation more than hope, but something in Denise's pragmatism spoke to him. She was not talking about changing the world or overthrowing systems or any of the grand rhetoric he had learned to distrust. She was talking about neighbors checking on neighbors. She was talking about survival at the most basic level.
 
@@ -42,7 +42,7 @@ The room continued like this, chaotic and productive by turns, people volunteeri
 
 He thought about his deliveries that morning: the old man who needed blood pressure medication, the family just returned from evacuation, the person hiding in the closed zone. Each of them alone in their crisis, connected only by an algorithm that calculated the optimal extraction of value from their need. What if there had been something else? What if the pharmacy run had been organized by neighbors instead of an app? What if the returning family had come home to a stocked refrigerator instead of an empty one?
 
-It was not revolution. It was not even politics, not in any way he recognized. It was just people deciding to take care of each other, and somehow this seemed more radical than anything he had heard in all his years of ambient political awareness.
+It was not revolution. It was not even politics, not in any way he recognized. It was just people deciding to take care of each other, and somehow this seemed more radical than anything he had heard in all his years of ambient political awareness, more dangerous to the systems that kept people separate than any manifesto or protest.
 
 "We need drivers," Denise was saying. "People with cars who can move supplies, check on folks who can't get out."
 
@@ -59,7 +59,7 @@ Denise looked at him, assessed him in a single glance. "Name?"
 
 ---
 
-The meeting lasted another hour. By the end, there were committees forming, contact lists circulating, a group chat being assembled. It was messy and incomplete and would probably fall apart within weeks, but for now it was alive, pulsing with the particular energy of people who had decided to try something even knowing it might fail.
+The meeting lasted another hour. By the end, there were committees forming, contact lists circulating, a group chat being assembled on phones still unreliable, connections still fragile. It was messy and incomplete and would probably fall apart within weeks, but for now it was alive, pulsing with the particular energy of people who had decided to try something even knowing it might fail, perhaps especially knowing it might fail.
 
 Omar found him as the crowd dispersed.
 
@@ -77,7 +77,7 @@ Yusuf shrugged, uncomfortable with the recognition. "I just did what needed doin
 
 "You are. Whether you know it or not, you are." Omar released his shoulder and smiled, the lines around his eyes deepening. "Your father would be proud."
 
-The mention of his father hit him unexpectedly, a sharp pain in the center of his chest. He had not thought about his father in days, the crisis having displaced even grief, but now the absence rushed back: what his father would have done during the break, what his father would say about this meeting, what his father would think of the man Yusuf was becoming.
+The mention of his father hit him unexpectedly, a sharp pain in the center of his chest, precise as a blade. He had not thought about his father in days, the crisis having displaced even grief, but now the absence rushed back with full force: what his father would have done during the break, what his father would say about this meeting, what his father would think of the man Yusuf was becoming in this strange new landscape of aftermath.
 
 "Thank you," he said, and did not trust himself to say more.
 

@@ -1,17 +1,17 @@
-Two in the morning and Yusuf could not sleep. He had tried for hours, the day's events cycling through his mind, the meeting and the messages and his mother's worried eyes, all of it churning without resolution. Finally he gave up pretending and sat up in the darkness and reached for the keyboard that had been gathering dust in the corner of his room since before the crisis began.
+Two in the morning and Yusuf could not sleep. He had tried for hours, the day's events cycling through his mind like fragments of a song searching for their proper sequence, the meeting and the messages and his mother's worried eyes, all of it churning without resolution. Finally he gave up pretending and sat up in the darkness and reached for the keyboard that had been gathering dust in the corner of his room since before the crisis began.
 
 It was an old Yamaha, bought secondhand years ago, its keys worn smooth by use. He had learned to play on this instrument, had composed his first tracks on it, had spent hundreds of hours with headphones on, experimenting with sounds that no one else would ever hear. During the crisis there had been no time for music, no space in his mind for anything except survival. Now survival was over, or at least this immediate round of survival, and the instrument waited.
 
 He plugged in the headphones, powered up the keyboard, and let his hands rest on the keys without pressing anything. The silence in the headphones was different from the silence of the room, more complete, more expectant. He breathed into it and waited for something to come.
 
-What came first was a chord, minor, low in the register. His fingers had found it without his mind's participation, and he held it, let it sustain, let the sound fill the emptiness in his ears. Then another chord, related but not the same, the relationship between them creating a tension that he did not try to resolve.
+What came first was a chord, minor, low in the register, like something heard from underground. His fingers had found it without his mind's participation, and he held it, let it sustain, let the sound fill the emptiness in his ears. Then another chord, related but not the same, the relationship between them creating a tension that he did not try to resolve, did not want to resolve.
 
 This was how he had always worked: not planning but discovering, letting the music tell him what it wanted to be.
 
 
 ---
 
-A melody emerged, sparse and halting. It did not sound like anything he had played before. It sounded like the crisis felt: fragmented, uncertain, punctuated by silences that meant as much as the notes. His left hand found a bass pattern, repetitive, insistent, the kind of figure that in another context might have anchored a dance track but here felt like a heartbeat refusing to give up.
+A melody emerged, sparse and halting, feeling its way forward like a hand in darkness. It did not sound like anything he had played before. It sounded like the crisis felt: fragmented, uncertain, punctuated by silences that meant as much as the notes. His left hand found a bass pattern, repetitive, insistent, the kind of figure that in another context might have anchored a dance track but here felt like a heartbeat refusing to give up.
 
 The music was not good. It was not finished. It was not even coherent, jumping between moods, breaking its own patterns before they could establish themselves. But it was honest in a way that his earlier music had never been honest. Before, he had made tracks for other people, tracks designed to please algorithms and playlists and the vague notion of an audience. This was not for anyone. This was for the silence between his ears and the images that kept surfacing behind his eyes.
 

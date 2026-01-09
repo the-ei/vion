@@ -1,4 +1,4 @@
-His bedroom was cold, the radiator hissing but not heating, a familiar complaint that the landlord would not address. Yusuf sat on his bed and finally, for the first time since the crisis ended, opened his text messages and scrolled to Kevin Zhou's name.
+His bedroom was cold, the radiator hissing but not heating, a familiar complaint that the landlord would not address regardless of season or crisis, one of the thousand small indignities of renting. Yusuf sat on his bed and finally, for the first time since the crisis ended, opened his text messages and scrolled to Kevin Zhou's name.
 
 Seven messages, spanning five days.
 
@@ -8,7 +8,7 @@ The second, a day later: *I've been thinking about what happened. I don't really
 
 The third: *I hope this number still works. I hope you're okay. I don't really have anyone else to talk to about this.*
 
-Yusuf stared at that one for a long time. I don't really have anyone else to talk to about this. Kevin Zhou, tech millionaire, startup founder, builder of whatever he had built, and he was texting a gig worker in Minneapolis because he had no one else. The absurdity of it should have been funny. It was not funny.
+Yusuf stared at that one for a long time. *I don't really have anyone else to talk to about this.* Kevin Zhou, tech millionaire, startup founder, builder of whatever he had built, and he was texting a gig worker in Minneapolis because he had no one else, because all his money and status had purchased him a life of comfortable isolation that now felt like solitary confinement. The absurdity of it should have been funny. It was not funny.
 
 The fourth message: *Sorry if I'm being weird. I just. During the crisis, you were the only person who seemed to know what to do. Everyone else was panicking and you were just. Doing things. I can't stop thinking about that.*
 
@@ -33,14 +33,14 @@ Too casual. Delete.
 
 He typed: *I don't really know what to say either. I keep thinking about the car. The look on your face when the engine started.*
 
-The memory was vivid: Kevin's expression when Yusuf had touched the wires together and the car had roared to life. Wonder, and something else. Shame, maybe. The recognition that all his money and education had not prepared him for this, that survival was a different kind of knowledge.
+The memory was vivid, carved into him: Kevin's expression when Yusuf had touched the wires together and the car had roared to life. Wonder, and something else beneath the wonder. Shame, maybe, or its cousin humility. The recognition that all his money and education had not prepared him for this, that survival was a different kind of knowledge, the kind you learned by having no other choice.
 
 Delete. Too personal. Too honest.
 
 
 ---
 
-He set the phone down and looked at the ceiling. Outside, the snow continued falling, the window a rectangle of gray-white light. What did you say to someone like Kevin Zhou? What was the protocol for cross-class crisis bonding? He did not know. There was no app for this.
+He set the phone down and looked at the ceiling. Outside, the snow continued falling, the window a rectangle of gray-white light, the world beyond it muffled and transformed. What did you say to someone like Kevin Zhou? What was the protocol for cross-class crisis bonding? He did not know. There was no app for this, no algorithm to optimize the connection between two people who should never have met.
 
 The thing was, during the crisis, none of it had mattered. Not Kevin's money, not Yusuf's precarity, not the vast difference in their circumstances. They had both been scared and cold and trying to survive, and in that trying they had found something that transcended the usual hierarchies. Kevin had looked at Yusuf with respect, genuine respect, not the condescending appreciation of someone watching an exotic specimen but the respect of one human recognizing another's competence. And Yusuf had taught him things without resentment, had helped him without calculating the debt, had been surprised by his own generosity.
 
@@ -61,7 +61,7 @@ Tomorrow. He would figure out what to say tomorrow. Or the day after. Kevin had 
 
 He thought about the mutual aid meeting, about Denise and Omar and Jasmine, about the room full of people deciding to take care of each other. He thought about his mother's worry and his sister's vocabulary cards and the deliveries that morning, the algorithm's indifferent efficiency. He thought about what Kevin had said in one of his messages: *Everyone else was panicking and you were just doing things.*
 
-It was not true, exactly. Yusuf had been panicking too. But he had learned early, from his mother, from the circumstances of their lives, that panic was a luxury. You could feel it and still function. You could be terrified and still move through the tasks that needed doing. This was the lesson of precarity: you did not have the option of falling apart, so you did not fall apart, even when everything inside you was falling.
+It was not true, exactly. Yusuf had been panicking too, his heart racing just as fast, his hands just as unsteady at the start. But he had learned early, from his mother, from the circumstances of their lives, that panic was a luxury that precarity did not permit. You could feel it and still function. You could be terrified and still move through the tasks that needed doing. This was the lesson of his life: you did not have the option of falling apart, so you did not fall apart, even when everything inside you was falling into pieces too small to name.
 
 Kevin had never learned this. Kevin had probably never needed to. And during the crisis, Yusuf had watched him learn it, had watched the transformation from helpless to competent, and there had been something in that watching that he could not name.
 
