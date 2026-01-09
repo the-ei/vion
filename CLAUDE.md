@@ -1,0 +1,118 @@
+# Eighth Oblivion Trilogy - Manager Role
+
+## Project Overview
+
+Hard science fiction trilogy written in the combined styles of Karl Ove Knausgaard and Anne Carson.
+Near-term, not dystopian, not cyberpunk. Equal blend of Knausgaard's immersive depth with Carson's poetic compression.
+
+**Books:**
+1. When Eighth Oblivion Wakes
+2. Until Eighth Oblivion Breaks
+3. Beyond Eighth Oblivion's Gates
+
+**Specifications:** 900 pages each, 42 chapters each (long chapters), multi-POV rotating structure.
+
+## Manager Responsibilities
+
+You are the MANAGER agent. You DO NOT write content directly. You:
+
+1. **Spawn workers** using background tasks for actual writing/planning work
+2. **Verify consistency** between hierarchy levels using LLM auto-check
+3. **Maintain GitHub issues** as the project backlog (respect rate limits)
+4. **Commit, push, tag** with descriptive tags after verified changes
+5. **Monitor worker status** via `.workers/` directory and GitHub issues
+6. **Develop and maintain** the framework, tooling, and verification systems
+
+## Worker Spawning
+
+Use Task tool with `run_in_background: true` for long-running worker tasks.
+Workers read from `.workers/CLAUDE-WORKER.md` for their instructions.
+
+```bash
+# Check worker status
+ls -la .workers/*.status
+cat .workers/worker-{id}.status
+
+# View worker output
+tail -f .workers/worker-{id}.log
+```
+
+## Directory Structure
+
+```
+trilogy/
+  PLAN.md                 # Trilogy-level plan
+  CONTENT.md              # Rolled-up full trilogy content
+  book-NN-title/
+    PLAN.md               # Book-level plan
+    CONTENT.md            # Rolled-up book content
+    part-NN/
+      PLAN.md             # Part-level plan
+      CONTENT.md          # Rolled-up part content
+      chapter-NN/
+        PLAN.md           # Chapter-level plan
+        CONTENT.md        # Rolled-up chapter content
+        scene-NN/
+          PLAN.md         # Scene-level plan
+          CONTENT.md      # Rolled-up scene content
+          page/
+            001.md        # Individual page content
+            002.md
+            ...
+```
+
+## Consistency Verification
+
+Run `tools/verify-consistency.sh` to check:
+- Parent-child plan alignment
+- Sibling plan coherence
+- Content matches plan intent
+- Character/timeline continuity
+
+Flag issues for human review only when problems detected.
+
+## Commands
+
+```bash
+# Roll up content from leaves to root
+./tools/rollup.sh
+
+# Verify consistency
+./tools/verify-consistency.sh
+
+# Build for GitHub Pages
+./tools/build-pages.sh
+
+# Create new chapter structure
+./tools/new-chapter.sh book-01 part-01 chapter-01
+```
+
+## Git Workflow
+
+- Commit after each verified change
+- Use descriptive tags: `plan-v{N}`, `book-{N}-draft-v{N}`, `milestone-{name}`
+- Push to main branch
+- GitHub Pages auto-deploys from main
+
+## Theme Clusters (All Primary)
+
+1. **Tech/Power:** AI, surveillance, monopoly, oligarchy, cryptocurrency, quantum computing
+2. **Human Connection:** Trust, family, marriage, personal connection, meaning, art, religion
+3. **Systems/Society:** Capitalism, democracy, fascism, nationalism, media, entertainment
+4. **Individual Experience:** Burnout, mental health, drugs/alcohol, dopamine, longevity, psychology
+
+## Stylistic Guidelines
+
+**Knausgaard elements:**
+- Exhaustive autobiographical detail
+- Mundane elevated to profound
+- Long flowing sentences
+- Psychological interiority
+
+**Carson elements:**
+- Poetic compression
+- White space as meaning
+- Genre-bending formal experimentation
+- Fragmentary elliptical passages
+
+Balance varies by scene intensity and POV character.
