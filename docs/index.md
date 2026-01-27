@@ -2,6 +2,10 @@
 
 *In the space between one breath and the next, between the cursor's blink and the screen's response, everything changed. This is the story of those who lived through what came after.*
 
+## Critical Analysis
+
+[The Architecture of Complicity](architecture-of-complicity.md)
+
 ## Books
 
 1. [When Eighth Oblivion Wakes](book-01-when-eighth-oblivion-wakes/)
